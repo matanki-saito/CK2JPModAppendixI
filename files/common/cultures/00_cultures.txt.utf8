@@ -9,6 +9,7 @@
 north_germanic = {
 	graphical_cultures = { westerngfx }
 	
+	# 古ノルド語
 	norse = {
 		graphical_cultures = { norsegfx }
 		
@@ -23,7 +24,12 @@ north_germanic = {
 			# Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froði_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guðfrið_Godfrey Guðmundr_Gudmund Guðröðr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Haukr Helgi_Helge
 			"ダグ" "ダン" "デューア" "エイリフ" "エギル_イーギル" "エムンド" Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froði_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guðfrið_Godfrey Guðmundr_Gudmund Guðröðr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Haukr Helgi_Helge
 
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroðgar Hroðulfr Hrörekr_Rurik Hysing Ingólfr_Ingolf Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
+			# Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroðgar Hroðulfr Hrörekr_Rurik Hysing Ingólfr_Ingolf Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
+ 			"ヘミング" "ホルムガ" "フラーフ" "ローフ_ロルフ" "フラーネ" "ハイステイト" "ヤルマル_ヤルマル" "フローガル" "フローリフ" "リューリク_リューリク" "ハイジング" "インゴッフ_インゴルフ" "インゲマル" "イングジャルド" "イーヴァル_イーヴァル" "エドヴァルド_エドワード" "ヨン_ジョン" "カール_チャールズ" "ケッティ" "シャッティリムーン" "ジャルタン" "クロース" "クヌート_クヌート" "コール" "コルビャン" "マグヌス_マグヌス" "マルクス_マーカス" 
+
+ 			#Rolf : ルドルフの短縮形
+ 			#Hrane : 不明
+
 			Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Ragnar Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurðr_Sigurd Starkaðr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Sumarliði_Somerled Suni_Sune Sveinn_Sven
 			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Þorbjörn_Torbjörn Þorfinn_Torfinn Þorbrandr_Torbrand Þordr_Tord Þorgil_Torkel Þorsteinn_Torsten Þorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
 		}
@@ -123,8 +129,11 @@ north_germanic = {
 			# Halkjell -> Hallkjell
 			Magnus_Magnus Odd_Odd Ogmund Olav_Olaf Orm_Orm Ossor Ottar_Ottar Pål_Paul Ragnar_Ragnar Ragnvald_Ragnvald Rolf_Rolf Sigurd_Sigurd Skjalg Skofte Skule_Skule Svein_Sven Sverre Sämund_Sämund Torbjørn_Torbjörn Tord_Tord Tore 
 
-			Torbrand_Torbrand Torfinn_Torfinn Torgeir_Torgeir Torgil_Torkel
-			Tormod Torolf_Thorolf Torstein_Torsten Trond Tryggve Ulv_Ulf Vigleik Åle Åmund Ølver Øystein_Eysteinn 
+			# Torbrand_Torbrand Torfinn_Torfinn Torgeir_Torgeir Torgil_Torkel
+			"トルブランド_トルブランド" "トルフィン_トルフィン" "トルゲー_トルゲー" "トルギル_トルケル"
+
+			# Tormod Torolf_Thorolf Torstein_Torsten Trond Tryggve Ulv_Ulf Vigleik Åle Åmund Ølver Øystein_Eysteinn 
+			"トルモッド" "トーロフ_ソーロフ" "トッシュティン_トルストゥン" "トロン" "トリグヴァ" "ウルヴ_ウルフ" "ヴィグレック" "オーラ" "オームン" "オリバル" "アイスタン_エイスティン" 
 		}
 		female_names = {
 			# Anna_Anna Astrid_Astrid Brigida_Brigid Cecilia_Cecilia Eldrid Freja_Freja Gjertrud_Gertrude Gudrid Gudrun_Gudrun Gunnhild_Gunhild Gyda_Gytha Gyrid Haldora Homlaug Ingebjørg_Ingeborg Ingjerd_Ingegerd Ingrid_Ingrid Jorunn
@@ -139,7 +148,9 @@ north_germanic = {
 		
 		from_dynasty_prefix = "av "
 		
-		male_patronym = "sson"
+#		male_patronym = "sson"
+		male_patronym = "ソン"
+
 		female_patronym = "sdatter"
 		prefix = no
 
