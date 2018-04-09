@@ -12068,61 +12068,72 @@
 }
 8671=
 {
-	name="Buzzacavani"
+#	name="Buzzacavani"
+	name="ブッザカバーニ"
+# 検索しても出てこない
 	culture="italian"
 	religion="catholic"
 }
 8672=
 {
-	name="Ramberti"
+#	name="Ramberti"
+	name="ランベルティ"
 	culture="italian"
 	religion="catholic"
 }
 8673=
 {
-	name="Ariosti"
+#	name="Ariosti"
+	name="アリオスティ"
 	culture="italian"
 	religion="catholic"
 }
 8674=
 {
-	name="Pepoli"
+#	name="Pepoli"
+	name="ペーポリ"
 	culture="italian"
 	religion="catholic"
 }
 8675=
 {
-	name="di Guidoti"
+#	name="di Guidoti"
+	name="ディ・グドオッティ"
 	culture="italian"
 	religion="catholic"
 }
 8676=
 {
-	name="Boccadelli"
+#	name="Boccadelli"
+	name="ボッカデッリ"
 	culture="italian"
 	religion="catholic"
 }
 8677=
 {
-	name="Borri"
+#	name="Borri"
+	name="ボーリ"
 	culture="italian"
 	religion="catholic"
 }
 8678=
 {
-	name="Botticelli"
+#	name="Botticelli"
+	name="ボッティチェリ"
 	culture="italian"
 	religion="catholic"
 }
 8679=
 {
-	name="Caccianemici"
+#	name="Caccianemici"
+	name="カッチャネミチ"
 	culture="italian"
 	religion="catholic"
 }
 8680=
 {
-	name="Cambiano"
+#	name="Cambiano"
+	name="カンビャノ"
 	culture="italian"
 	religion="catholic"
 }
