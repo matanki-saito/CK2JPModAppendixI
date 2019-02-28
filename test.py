@@ -4,7 +4,10 @@ import sys
 
 def main():
     for k, v in os.environ.items():
-        print("{key} : {value}".format(key=k, value=v))
+        try:
+            print("{key} : {value}".format(key=k, value=v))
+        except UnicodeEncodeError:
+            pass
     print(sys.argv)
 
 
