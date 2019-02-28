@@ -155,6 +155,10 @@ def upload_mod_to_s3(upload_file_path,
 
 
 def main():
+    # 一時フォルダ用意
+    os.makedirs(_(".", "tmp"), exist_ok=True)
+    os.makedirs(_(".", "out"), exist_ok=True)
+
     # フォントセットの最新版をダウンロードする
     download_asset_from_github(repository_author="matanki-saito", repository_name="CK2Fontcreate")
 
