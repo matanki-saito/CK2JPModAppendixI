@@ -38,46 +38,6 @@ def download_trans_zip_from_paratranz(project_id,
     return out_file_path
 
 
-def download_asset_from_github(repository_author,
-                               repository_name,
-                               out_file_path,
-                               release_tag=None,
-                               file_name=None):
-    """
-    githubからアセットをダウンロード。未指定の場合は最新を取得
-    :param repository_author:
-    :param repository_name:
-    :param release_tag:
-    :param file_name:
-    :param out_file_path:
-    :return:
-    """
-    api_base_url = "https://api.github.com/repos/{}/{}".format(repository_author, repository_name)
-
-    if release_tag is None:
-        response = urllib.request.urlopen("{}/releases/latest".format(api_base_url))
-        content = json.loads(response.read().decode('utf8'))
-        release_tag = content["tag_name"]
-
-    if file_name is None:
-        response = urllib.request.urlopen("{}/releases/tags/{}".format(api_base_url, release_tag))
-        content = json.loads(response.read().decode('utf8'))
-        file_name = content["assets"][0]["name"]
-
-    request_url = "{}/{}/{}/releases/download/{}/{}".format("https://github.com",
-                                                            repository_author,
-                                                            repository_name,
-                                                            release_tag,
-                                                            file_name
-                                                            )
-    req = urllib.request.Request(request_url)
-
-    with open(out_file_path, "wb") as my_file:
-        my_file.write(urllib.request.urlopen(req).read())
-
-    return out_file_path
-
-
 # TODO: フォント側を調整する必要がある。
 def filter_f(item):
     if item.startswith("aoyagireisyo60-aoyagi") or \
@@ -88,17 +48,13 @@ def filter_f(item):
         return True
 
 
-def assembly_core_mod_zip_file(resource_font_asset_zip_file_path,
-                               resource_image_file_path,
-                               resource_interface_dir_path,
-                               resource_paratranz_trans_zip_file_path,
-                               out_file_path):
+def assembly_app_mod_zip_file(resource_image_file_path,
+                              resource_paratranz_trans_zip_file_path,
+                              out_file_path):
     """
-    コアモッドを作成
-    :param resource_font_asset_zip_file_path:　githubにあるフォントアセットのzipファイルのパス
+    Appモッドを作成
     :param resource_paratranz_trans_zip_file_path: Paratranzからダウンロードできるzipファイルのパス
     :param resource_image_file_path: 画像ファイルパス
-    :param resource_interface_dir_path: インターフェースディレクトリパス
     :param out_file_path: 出力ファイルパス
     :return:
     """
@@ -107,14 +63,6 @@ def assembly_core_mod_zip_file(resource_font_asset_zip_file_path,
         # 画像ファイル
         shutil.copy(resource_image_file_path, temp_dir_path)
 
-        # interface
-        shutil.copytree(resource_interface_dir_path, _(temp_dir_path, "interface"))
-
-        # gfx
-        salvage_files_from_github_font_zip(out_dir_path=_(temp_dir_path, "gfx", "fonts"),
-                                           filter_f_f=filter_f,
-                                           resource_path=resource_font_asset_zip_file_path)
-
         # localisation
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "localisation"),
                                                folder_list=["localisation"],
@@ -122,15 +70,6 @@ def assembly_core_mod_zip_file(resource_font_asset_zip_file_path,
 
         # zip化する
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
-
-
-def salvage_files_from_github_font_zip(out_dir_path,
-                                       filter_f_f,
-                                       resource_path):
-    with zipfile.ZipFile(resource_path) as font_zip:
-        special_files = filter(filter_f_f, font_zip.namelist())
-
-        font_zip.extractall(path=out_dir_path, members=special_files)
 
 
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
@@ -199,7 +138,8 @@ def generate_distribution_file(url,
         md5 = hashlib.md5(fr.read()).hexdigest()
 
     d_new = {'file_md5': md5,
-             'url': url}
+             'url': url,
+             'file_size': os.path.getsize(mod_file_path)}
 
     with open(out_file_path, "w", encoding="utf-8") as fw:
         json.dump(d_new, fw, indent=2, ensure_ascii=False)
@@ -259,13 +199,6 @@ def main():
     os.makedirs(_(".", "tmp"), exist_ok=True)
     os.makedirs(_(".", "out"), exist_ok=True)
 
-    # フォントセットの最新版をダウンロードする
-    font_file_path = download_asset_from_github(repository_author="matanki-saito",
-                                                repository_name="CK2Fontcreate",
-                                                out_file_path=_(".", "tmp", "font.zip"))
-
-    print("font_file_path:{}".format(font_file_path))
-
     # 翻訳の最新版をダウンロードする
     p_file_path = download_trans_zip_from_paratranz(
         project_id=91,
@@ -274,25 +207,23 @@ def main():
 
     print("p_file_path:{}".format(p_file_path))
 
-    # コアModを構築する
-    core_mod_zip_file_path = assembly_core_mod_zip_file(
-        resource_font_asset_zip_file_path=font_file_path,
+    # AppModを構築する
+    app_mod_zip_file_path = assembly_app_mod_zip_file(
         resource_paratranz_trans_zip_file_path=p_file_path,
         resource_image_file_path=_(".", "resource", "title.jpg"),
-        resource_interface_dir_path=_(".", "resource", "interface"),
         out_file_path=_(".", "tmp", "mod"))
 
-    print("core_mod_zip_file_path:{}".format(core_mod_zip_file_path))
+    print("app_mod_zip_file_path:{}".format(app_mod_zip_file_path))
 
     # packする
     mod_pack_file_path = pack_mod(
-        out_file_path=_(".", "out", "ck2_core_mod"),
-        mod_file_name="jpmod3_0_x",
-        mod_zip_path=core_mod_zip_file_path,
-        mod_title_name="Japanese Language Mod 3.0.x",
+        out_file_path=_(".", "out", "ck2_ap1_mod"),
+        mod_file_name="jpmod_ap1_mod",
+        mod_zip_path=app_mod_zip_file_path,
+        mod_title_name="Japanese Language Mod App-I",
         mod_tags={"Translation", "Localisation"},
         mod_image_file_path="title.jpg",
-        mod_user_dir_name="JLM30X")
+        mod_user_dir_name="JLM")
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
@@ -300,7 +231,7 @@ def main():
     from datetime import datetime as dt
     cdn_url = upload_mod_to_s3(
         upload_file_path=mod_pack_file_path,
-        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("ck2-core")),
+        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("ck2-ap1")),
         bucket_name="triela-file",
         access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
         secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
@@ -310,7 +241,7 @@ def main():
 
     # distributionファイルを生成する
     generate_distribution_file(url=cdn_url,
-                               out_file_path=_(".", "out", "dist.v1.json"),
+                               out_file_path=_(".", "out", "dist.v2.json"),
                                mod_file_path=mod_pack_file_path)
 
 
