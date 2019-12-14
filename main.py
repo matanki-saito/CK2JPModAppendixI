@@ -38,14 +38,14 @@ def download_trans_zip_from_paratranz(project_id,
     return out_file_path
 
 
-# TODO: フォント側を調整する必要がある。
-def filter_f(item):
-    if item.startswith("aoyagireisyo60-aoyagi") or \
-            item.startswith("aoyagireisyo60-appb") or \
-            item.startswith("tuikafont1"):
-        return False
-    else:
-        return True
+def update_source(resource_paratranz_trans_zip_file_path):
+    shutil.rmtree("source", ignore_errors=True)
+    os.makedirs("source", exist_ok=True)
+
+    salvage_files_from_paratranz_trans_zip(out_dir_path=_("source", "localisation"),
+                                           folder_list=["localisation"],
+                                           paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                           head_folder_name="utf8")
 
 
 def assembly_app_mod_zip_file(resource_image_file_path,
@@ -66,7 +66,8 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         # localisation
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "localisation"),
                                                folder_list=["localisation"],
-                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path)
+                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                               head_folder_name="special")
 
         # zip化する
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
@@ -74,15 +75,15 @@ def assembly_app_mod_zip_file(resource_image_file_path,
 
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
                                            paratranz_zip_path,
-                                           folder_list=[]):
+                                           folder_list,
+                                           head_folder_name):
     with zipfile.ZipFile(paratranz_zip_path) as paratranz_zip:
-        special_files = filter(lambda name: name.startswith("special/"), paratranz_zip.namelist())
+        special_files = filter(lambda name: name.startswith(head_folder_name + "/"), paratranz_zip.namelist())
 
         with tempfile.TemporaryDirectory() as temp_dir_path:
             paratranz_zip.extractall(path=temp_dir_path, members=special_files)
-
             for folder in folder_list:
-                shutil.copytree(_(temp_dir_path, "special", folder), out_dir_path)
+                shutil.copytree(_(temp_dir_path, head_folder_name, folder), out_dir_path)
 
 
 def generate_dot_mod_file(mod_title_name,
@@ -227,22 +228,8 @@ def main():
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
 
-    # S3にアップロード from datetime import datetime as dt
-    from datetime import datetime as dt
-    cdn_url = upload_mod_to_s3(
-        upload_file_path=mod_pack_file_path,
-        name=dt.now().strftime('%Y-%m-%d_%H-%M-%S-{}'.format("ck2-ap1")),
-        bucket_name="triela-file",
-        access_key=os.environ.get("AWS_S3_ACCESS_KEY"),
-        secret_access_key=os.environ.get("AWS_S3_SECRET_ACCESS_KEY"),
-        region="ap-northeast-1")
-
-    print("cdn_url:{}".format(cdn_url))
-
-    # distributionファイルを生成する
-    generate_distribution_file(url=cdn_url,
-                               out_file_path=_(".", "out", "dist.v2.json"),
-                               mod_file_path=mod_pack_file_path)
+    # utf8ファイルを移動する（この後git pushする）
+    update_source(resource_paratranz_trans_zip_file_path=p_file_path)
 
 
 if __name__ == "__main__":
