@@ -302,7 +302,7 @@ STOP_ENFORCE_PEACE_INTERACTION_DECLINE_SETUP;私戦禁止令布告の中止を�
 ASK_REALM_PEACE_INTERACTION_ACCEPT_SETUP;私戦禁止令の布告を承諾;;;;;;;;;;;;x
 ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_SETUP;評議会への参加を承諾;;;;;;;;;;;;x
 FORCE_JOIN_FACTION_INTERACTION_ACCEPT_SETUP;派閥への参加を強制;;;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_DECLINE_SETUP;評議員は拒否した;;;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_DECLINE_SETUP;Councilor Declined;;;;;;;;;;;;x
 succession_voting_power;評議会の権力;;;;;;;;;;;;x
 succession_voting_power_desc;評議員職の保有や、継承法の投票権に関する評議会の権力です。;;;;;;;;;;;;x
 succession_voting_power_0_desc;統治者は継承法の選択に関する完全な権限を持ち、評議員を自由に解任できます。\n;;;;;;;;;;;;x
@@ -322,9 +322,9 @@ SM_CONTEXTMUSIC;状況に応じて変化する音楽;;;;;;;;;;;;x
 MINIMAP_NEXTSONG;次の音楽;;;;;;;;;;;;x
 MINIMAP_NEXTSONG_DELAYED;再生中：$SONG|Y$;;;;;;;;;;;;x
 PEACE_ENFORCE_COUNCIL_DISCONTENT;評議会が満足していなければならない;;;;;;;;;;;;x
-COUNCIL_DISCONTENT_EFFECT;評議員は§Y満足§!かつ§Y宣戦布告§!法を§Y評議会§!に定めている間は§Y派閥§!を形成することや加わることはできません（遊牧民や部族の評議員はいつでも派閥を形成、加盟できます）。\n主君は評議員が§Y不満§!である間は§Y私戦禁止令の強制§!を行うことができません。;;;;;;;;;;;;x
-alert_council_discontent_delayed;あなたの評議員は過去$DISCONTENT_DURATION|Y$ヶ月の間不満な状態にあり、§Y$DISCONTENT_END_DATE$§!まで続きます。これは評議員が法によって派閥の形成や加盟が禁止されている場合でも、それを行う恐れがあることを意味します。これは領内の安定を失わせる可能性があります。;;;;;;;;;;;;x
-alert_liege_council_discontent_delayed;あなたの主君の評議員は$DISCONTENT_DURATION$ヶ月間不満を持ち、§Y$DISCONTENT_END_DATE$§!まで続きます。これは評議員が法によって派閥の形成や加盟が禁止されている場合でも、それを行う恐れがあることを意味します。これは領内の安定を失わせる可能性があります。;;;;;;;;;;;;x
+COUNCIL_DISCONTENT_EFFECT;Councilors cannot join or start §YFactions§! while the council is §YContent§! and the §YWar Declaration§! law is set to §YCouncil§! (Nomadic and Tribal councilors can always join and start factions).\nThe liege cannot §YEnforce Realm Peace§! while the council is §YDiscontent§!.;;;;;;;;;;;;x
+alert_council_discontent_delayed;Your Council has been Discontent for $DISCONTENT_DURATION|Y$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;;x
+alert_liege_council_discontent_delayed;Your Liege's Council has been Discontent for $DISCONTENT_DURATION$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining Factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;;x
 coalitions_title;$TARGET$に対する$GROUP$包囲網;;;;;;;;;;;;x
 coalition_group;§Y参加者:§!$MEMBERS$;;;;;;;;;;;;x
 gov_bad_pope;教皇領;;;;;;;;;;;;x
@@ -425,8 +425,8 @@ INSULT_SPINELESS;意気地なしの;;;;;;;;;;;;x
 INSULT_NASTY;不愉快な;;;;;;;;;;;;x
 EVTDESCHL1;[FromFrom.GetTitledName]は遊牧生活をやめ、[FromFrom.GetHerHis]の部族の人々と共に[FromFrom.PrimaryTitle.GetName]に定住し、この地を[FromFrom.Culture.GetName]人の新たな故郷とすることにした。;;;;;;;;;;;;x
 FORM_NON_AGGRESSION_PACT_INTERACTION_TITLE;不可侵協定の要請;;;;;;;;;;;;x
-malcontent_desc;不満分子の評議員は領邦の現在の状況に不満を抱いています。不満分子は評議会にとって迷惑な勢力であり、自分の権力に直接利になる場合を除いて当主の政策に常に反対票を投じます。;;;;;;;;;;;;x
-zealot_desc;狂信者の評議員は努めて領邦の政治的課題のいの一番に宗教の話を持ち込もうとします。もし宗教戦争が可能な場合、狂信者の評議員はこれ以外の目標に対するあらゆる戦争の開戦に反対票を投じます。また異教徒や異端者に対する敵対的政策についてもこれを支持する傾向があります;;;;;;;;;;;;x
+malcontent_desc;A Malcontent councilor is unhappy with the current state of affairs in the realm. They are a troublesome force on the council and will always oppose the will of the ruler unless they directly stand to gain power.;;;;;;;;;;;;x
+zealot_desc;A Zealot councilor will strive towards bringing religion to the forefront of the realm's political agenda. If religious war targets are available this councilor might oppose wars against other targets. The councilor will also be more inclined to accept hostile action against heathen and heretic characters.;;;;;;;;;;;;x
 robust;筋肉隆々;;;;;;;;;;;;x
 feeble;軟弱;;;;;;;;;;;;x
 robust_desc;この人物は大変逞しい肉体を持っています。;;;;;;;;;;;;x

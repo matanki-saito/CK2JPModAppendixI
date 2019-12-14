@@ -36,8 +36,8 @@ held_nomad_wargames;軍事演習を開催した;;;;;;;;;;;;x
 held_nomad_wargames_desc;This character has recently hosted a traditional competition in martial skills, thus honoring ancient values and martial traditions.;;;;;;;;;;;;x
 EVTDESC_HL_7000;You have decided to organize a great competition in martial skills, inviting warriors from across the realm to display their prowess with horse, bow and sword.;;;;;;;;;;;;x
 EVTOPTA_HL_7000;素晴らしい大会になるだろう。;;;;;;;;;;;;x
-EVTDESC_HL_7001;To my faithful warrior [Root.GetDynName],\n\nI shall expect your presence at the upcoming wargames that will be held at [From.Capital.GetName]\n\n[From.GetFullName];;;;;;;;;;;;x
-EVTOPTA_HL_7001;I will saddle my horse now!;;;;;;;;;;;;x
+EVTDESC_HL_7001;我が忠実なる騎士、[Root.GetDynName]へ\n\n[From.Capital.GetName]で開催する演習での貴殿の活躍に期待する\n\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_HL_7001;今こそ馬に鐙をつけよう！;;;;;;;;;;;;x
 EVTDESC_HL_7002;Dear [Root.GetTitledFirstName],\n\nUnfortunately I cannot attend the upcoming wargames.\n\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESC_HL_7020;Warriors have come to your court from afar, gathering for the great wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As the participants salute you, you give the signal for the contest to begin.;;;;;;;;;;;;x
 EVTOPTA_HL_7020;The best warrior shall win!;;;;;;;;;;;;x
@@ -86,7 +86,7 @@ HORDE_RETTYPE_CAV5;軽装ヴァンガード;;;;;;;;;;;;x
 HORDE_RETTYPE_CAV6;重装ヴァンガード;;;;;;;;;;;;x
 HORDE_RETTYPE_CAV7;弓騎兵;;;;;;;;;;;;x
 HORDE_RETTYPE_EUROPE;槍騎兵;;;;;;;;;;;;x
-RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;§Y$CHAR$§!の宗教は、女性が教区を保有し、宗教的な評議員職に就くことを許可されている;;;;;;;;;;;;x
+RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;The religion of §Y$CHAR$§! allows female temple holders and female spiritual councilors;;;;;;;;;;;;x
 HAS_LOWER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記未満:;;;;;;;;;;;;x
 HAS_HIGHER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記より高い:;;;;;;;;;;;;x
 HAS_LOWER_POPULATION_AND_MANPOWER_GROWTH_THAN;民間人口の増加が右記未満:;;;;;;;;;;;;x

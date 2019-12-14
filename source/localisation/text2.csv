@@ -334,11 +334,8 @@ lovers_retreat;恋人たちの隠れ家;;;;;;;;;;;;x
 lovers_entertainment;恋人からの贈り物;;;;;;;;;;;;x
 childhood_sweetheart;子供時代の想い人;;;;;;;;;;;;x
 love_scorned;嘲られた愛;;;;;;;;;;;;x
-EVTDESC64010;[Root.GetSheHeCapOpp]は愛嬌があって、なにより、美しい！[Root.GetHerHimOpp]に惚れてしまいそうだ…。;;;;;;;;;;;;x
-EVTOPTA64010;[Root.GetHerHimOpp]に話しかけてみよう…。;;;;;;;;;;;;x
 EVTTOOLTIPA64011;[Root.GetFirstName]と[This.GetFirstName]は素敵な時間を過ごします。;;;;;;;;;;;;x
 EVTTOOLTIPB64011;[This.GetFirstName]は[Root.GetFirstName]を拒絶します。;;;;;;;;;;;;x
-EVTOPTB64010;どのみち[Root.GetSheHeCapOpp]はあまり魅力的ではない…。;;;;;;;;;;;;x
 EVTDESC64011;私が何をしていてもどこにいても、[From.GetTitledFirstName]は私を見つけるが、いつも口をつぐんで恥ずかしがる。[From.GetSheHe]がやっと私に話しかけた時、私は図書室で一人で本を読んでいた…。;;;;;;;;;;;;x
 EVTOPTA64011;なんてかわいらしい！私も好きだよ…。;;;;;;;;;;;;x
 EVTTOOLTIP64012;[Root.GetFirstName]と[This.GetFirstName]はお互いに夢中だ;;;;;;;;;;;;x
@@ -371,22 +368,15 @@ EVTOPTA64020;[From.GetFirstName]は私が他の女に色目を使ったのが気
 EVTDESC64025;まるで[Root.Spouse.GetFirstName]のことを初めて見たような気分だ。気立ての良さ、愉快で微笑ましい気まぐれぶり。[Root.Spouse.GetSheHe]のなんと愛らしいことか。[Root.Spouse.GetFirstName]を愛さないなどということが、どうしてできよう？;;;;;;;;;;;;x
 EVTOPTA64025;[Root.Spouse.GetFirstName]に対して感じた愛情を大切にしよう;;;;;;;;;;;;x
 EVTOPTB64025;単なる気の迷いだ;;;;;;;;;;;;x
-EVTDESC64030;ようやく特別な人と特別なことをする機会に恵まれた。やりたいことは山ほどある！　宮廷で[Root.GetHerHimOpp]を楽しませるべきだろうか？　それとも人里離れた田舎の別荘で一緒に過ごすべきだろうか？;;;;;;;;;;;;x
 EVTOPTA64030;[Root.GetHerHimOpp]を人里離れた田舎の別荘に招待しよう;;;;;;;;;;;;x
 EVTOPTB64030;宮廷に芸人を呼び寄せよう;;;;;;;;;;;;x
 EVTOPTC64030;いや、それよりも友人たちと一緒に過そう;;;;;;;;;;;;x
-EVTDESC64035;なにをしてやっても、私の想い人は嬉しくないらしい。私にはするべきことが多く、四六時中あなたを楽しませていることはできないのだと言えば、わくわくすることなど一度もなかったと文句を言ってへそを曲げる始末だ。愛人を持つというのは、どうやら考えていた以上に疲れることらしい！;;;;;;;;;;;;x
-EVTOPTA64035;[Root.GetHerHisOpp]を楽しませるためにパーティーを開こう;;;;;;;;;;;;x
-EVTOPTB64035;[Root.GetHerHimOpp]を何か危険なこと、たとえば狩りに連れ出そう;;;;;;;;;;;;x
-EVTOPTC64035;[Root.GetSheHeCapOpp]には十分なことをしている;;;;;;;;;;;;x
 EVTDESC64040;あろうことか、[Root.Spouse.GetFirstName]とその愛人が私のベッドで一緒にいる現場に出くわしてしまった！　私は[Root.Spouse.GetHerHis]の愛人に出て行けとどなりつけ、それからあらためて[Root.Spouse.GetFirstName]と向かい合った……;;;;;;;;;;;;x
 EVTOPTA64040;これは私たちのベッドだぞ？！;;;;;;;;;;;;x
 EVTTOOLTIP64041;[Root.GetTitledFirstName]は[This.GetTitledFirstName]と[This.GetHerHis]の愛人のことで対峙する;;;;;;;;;;;;x
 EVTDESC64041;[From.GetFirstName]はあと数時間は戻ってこないと思っていたので、[From.GetSheHe]が寝室の扉を開けたとき、私と愛人は睦みあいの真っ最中だった。最初の驚きから醒めた[From.GetHerHis]は、出て行けと私の愛人を怒鳴りつけた。それから[From.GetSheHeCap]は、何も言えないでいる私に向かって言った。二度と会うな、言うことを聞かないなら考えがあると……;;;;;;;;;;;;x
 EVTOPTA64041;そんなことはできるはずがない！;;;;;;;;;;;;x
 EVTOPTB64041;円満な家庭生活のためなら……;;;;;;;;;;;;x
-EVTDESC64045;どうしてかはわからないが、愛人が何をしてもイライラするようになった私は、ついには[Root.GetHerHimOpp]を避けるようになってしまった。2人の関係が私にもたらすのはもはや苛立ちだけだ。どうやら私たちの心は離れてしまったらしい……;;;;;;;;;;;;x
-EVTOPTA64045;もう私は[Root.GetHerHimOpp]を愛していないようだ;;;;;;;;;;;;x
 EVTDESC64046;このところ[From.GetTitledFirstName]は私を避けている。ようやく一緒の時間を過ごせても、愛に満ちた夕べは過去のものとなり、待っているのは不和と口論の夕べだけだ。[From.GetTitledFirstName]に関係を終わらせたいと言われたときも驚きはしなかったが、私が心に負った傷は予想以上だった。;;;;;;;;;;;;x
 EVTOPTA64046;これからも良い友達でいよう……;;;;;;;;;;;;x
 EVTDESC64050;幼い頃から私たちは何か運命的なものを感じており、時には相手を必要以上に意識することもあった。そのような思春期の陶酔とでも言うべき感情は、さらに深く、強くなり、今では説明しがたい何かへと成長している。;;;;;;;;;;;;x
@@ -433,11 +423,9 @@ EVTOPTB64060;この痛みを癒そう;;;;;;;;;;;;x
 EVTOPTC64060;祈りの中に救いを見出そう;;;;;;;;;;;;x
 EVTOPTD64060;[lover.GetSheHeCap]は結婚してしまったのだ。[lover.GetHerHim]のことは忘れよう;;;;;;;;;;;;x
 EVTDESC38286;私が酒を飲むのは、悩み事をきれいさっぱり忘れるためだ。私は「酒浸り」という特性を得た。;;;;;;;;;;;;x
-EVTDESC64065;結婚してしまった[Root.GetManWomanOpp]との関係は、実際のところ気の滅入るものになりつつある。人々から軽蔑されることを恐れず、堂々と[Root.GetHerHimOpp]を愛することができれば良いのに……;;;;;;;;;;;;x
 EVTOPTA64065;この愛は終わった……;;;;;;;;;;;;x
 EVTOPTB64065;だが、まだ望みはあるかも……;;;;;;;;;;;;x
 EVTOPTC64065;いや、必ずこの愛を成就させてみせよう！;;;;;;;;;;;;x
-EVTDESC64070;伴侶の陰でコソコソ[Root.GetManWomanOpp]と逢い引きするのは骨が折れるようになってきた。嘘は私の心をかき乱し、愛人と一緒にいたいという私の願いは限界まで膨らんでいる。;;;;;;;;;;;;x
 EVTOPTA64070;このような関係はそろそろ清算すべきだ;;;;;;;;;;;;x
 EVTOPTB64070;私がもう少し努力すればうまくいくかも;;;;;;;;;;;;x
 EVTOPTC64070;伴侶のことはどうでもいい。;;;;;;;;;;;;x
@@ -457,7 +445,6 @@ EVTOPTA64080;愛人と一緒にすごす絶好の機会だ！;;;;;;;;;;;;x
 EVTOPTB64080;愛人との密会は控えめにしないと;;;;;;;;;;;;x
 EVTOPTC64080;愛人とは友だちづきあいの範疇を越えないようにしよう;;;;;;;;;;;;x
 EVTOPTD64080;それよりも仕事に没頭しよう;;;;;;;;;;;;x
-EVTDESC64085;私は[Root.GetHerHimOpp]を愛しているし、[Root.GetSheHeOpp]も私を愛している。私たちはもう大人だ。誰にも私たちの結婚をとめられるものか！;;;;;;;;;;;;x
 EVTOPTA64085;駆け落ちしよう;;;;;;;;;;;;x
 EVTTOOLTIP64086;[This.GetTitledFirstName]は駆け落ちした2人に注意を向ける;;;;;;;;;;;;x
 EVTDESC64086;誰にも結婚を認めてもらえず、2人は駆け落ちした。彼らの主君として私は、2人の結婚を認めるか、それとも何らかの対処をすべきかを選ばねばならない。;;;;;;;;;;;;x
@@ -489,11 +476,6 @@ EVTOPTA64110;関係のないことだから気にしないよう[Root.Spouse.Get
 EVTOPTB64110;大切な仕事をしているのだと[Root.Spouse.GetHerHim]に言おう;;;;;;;;;;;;x
 EVTOPTC64110;一緒に過ごす時間を増やすと空約束をしよう;;;;;;;;;;;;x
 EVTOPTD64110;[Root.Spouse.GetSheHe]の望みどおり、家庭で過ごす時間を増やそう;;;;;;;;;;;;x
-EVTDESC64115;伴侶である[Root.Spouse.GetTitledFirstName]の方を自分より愛しているのだと言って、愛人は私をなじった;;;;;;;;;;;;x
-EVTOPTA64115;[Root.GetHerHimOpp]に高価な贈り物をして、愛を証明しよう;;;;;;;;;;;;x
-EVTOPTB64115;[Root.GetHerHimOpp]を荘園に招待し、素敵な時間を過ごそう;;;;;;;;;;;;x
-EVTOPTC64115;[Root.GetHerHimOpp]がいかに大切な存在かを説いて聞かせよう;;;;;;;;;;;;x
-EVTOPTD64115;まったくもってあなたの言うとおりだと[Root.GetHerHimOpp]に言おう;;;;;;;;;;;;x
 EVTDESC64120;最初にその知らせをもたらしたのは私の恋人だった。やがて宮廷中がその話で持ちきりとなった。私の伴侶である[Root.Spouse.GetTitledFirstName]が、私の浮気をおおやけにしたのだ！;;;;;;;;;;;;x
 EVTOPTA64120;でっちあげだと主張しよう;;;;;;;;;;;;x
 EVTOPTB64120;[Root.Spouse.GetHerHis]の言うことを無視しよう;;;;;;;;;;;;x
@@ -509,7 +491,6 @@ EVTOPTA64127;もっと堂々としていれば良かった;;;;;;;;;;;;x
 EVTDESC64130;私は愛する[Root.Spouse.GetManWoman]と結婚した。今、私は幸せの絶頂にある。この気持ちを皆にも体験させたいものだ。;;;;;;;;;;;;x
 EVTOPTA64130;どれほど重圧から解放されることか;;;;;;;;;;;;x
 EVTOPTB64130;重圧から解放される;;;;;;;;;;;;x
-EVTDESC64135;愛する人を驚かせたいが、どうするのが良いだろう？　詩を贈ろうか、どれほど愛しているかを語ろうか、森で最も美しい花を摘んできて愛の証しとしようか、それとも一生の思い出としてちょっとした宝石の類いを買ってこようか？;;;;;;;;;;;;x
 EVTOPTA64135;愛の詩を考えよう;;;;;;;;;;;;x
 EVTOPTB64135;森で最も美しい花を見つけてこよう;;;;;;;;;;;;x
 EVTOPTC64135;市場で何か素敵なものを買ってこよう;;;;;;;;;;;;x
@@ -662,7 +643,7 @@ UNDER_CONSTRUCTION;建設中;;;;;;;;;;;;x
 UPGRADING_TO;建て替え：;;;;;;;;;;;;x
 CONSTRUCTION_STALLED;§R建設は敵軍の占領によって中断されました§!;;;;;;;;;;;;x
 desc_job_chancellor;§Y$JOB$§!は外交に関する事柄の相談役であり、伝統的に評議会で最も高位の地位と見なされています。;;;;;;;;;;;;x
-desc_job_marshal;§Y$JOB$§!は軍事を司る評議員です。統治者が軍勢を率いることができないときやその意志がないときは、§Y$JOB$§!が代わって指揮をとります。;;;;;;;;;;;;x
+desc_job_marshal;The §Y$JOB$§! is the councilor in charge of the military. When the ruler cannot or will not command armies, the §Y$JOB$§! will do it.;;;;;;;;;;;;x
 desc_job_treasurer;§Y$JOB$§!は税の徴収と領地運営に関して力になってくれます。;;;;;;;;;;;;x
 desc_job_spymaster;§Y$JOB$§!は非公式な評議員です。陰謀や策略に類することは、すべてこの役職にある者が司ります。;;;;;;;;;;;;x
 desc_job_spiritual;§Y$JOB$§!は信仰に関する事柄の個人的な相談役ですが、必ずしも聖職者でなくてかまいません。;;;;;;;;;;;;x
@@ -1123,7 +1104,7 @@ EVTOPTB1004;休息はあの世でする。;;;;;;;;;;;;x
 EVTDESC1005;彼女の髪型はいつも完璧。彼女に男どもはメロメロだが、魅力的で美人なだけでなく、知的で、弁舌も優れている。天は二物を与えずというが、どうやら彼女にはあてはまらないようだ。;;;;;;;;;;;;x
 EVTOPTA1005;それにひきかえ、私ときたら。;;;;;;;;;;;;x
 EVTOPTB1005;彼女は素敵だけれど、私は私で完璧なはずよ。;;;;;;;;;;;;x
-EVTDESC1006;誰もが自分より勝っているように思えてならない！　狩人は私より多くの獲物をしとめるし、腹心たちが考えつく農民一揆への対策は、私が考えるものより優れている。近ごろは、何ひとつとして自分には取り柄がないような気がしてきているほどだ。;;;;;;;;;;;;x
+EVTDESC1006;It feels like everyone is trying to trump me! My huntsman killed more prey than I, my councilors found a better solution to the rebellious peasants than mine and I started to feel that everyone was better than me, no matter what.;;;;;;;;;;;;x
 EVTOPTA1006;もし他人より劣っているなら、その事実を受け入れなければ;;;;;;;;;;;;x
 EVTOPTB1006;誰も彼もがねたましい！;;;;;;;;;;;;x
 EVTDESC1007;私を傷つけようとしたのでないだろうが、あの批判は今も私に予想以上の痛みを与えつづけている。;;;;;;;;;;;;x

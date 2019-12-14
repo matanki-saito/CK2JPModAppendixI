@@ -5,8 +5,6 @@ TIME_REMAINING;残り時間;;;;;;;;;;;;x
 TIME_LEFT_DAYS;$NUM_DAYS$日;;;;;;;;;;;;x
 REQUIRES;必要;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_SAVE_TOOLTIP;このセーブは「注目の領主」で始めたデータです;;;;;;;;;;;;x
-HIGHLIGHTED_RULER_TITLE;注目の領主;;;;;;;;;;;;x
-HIGHLIGHTED_RULER_TITLE_TOOLTIP;「注目の領主」とは期間限定で特別にプレイ用に選ばれているキャラクターのことです。;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_EVENT_EXPIRED;イベントは終了しました！;;;;;;;;;;;;x
 crown_unicorn_helmet;ユニコーンの才能;;;;;;;;;;;;x
 crown_unicorn_helmet_desc;古代のユニコーンの神秘的な力を着用者に与える魔術礼装。;;;;;;;;;;;;x

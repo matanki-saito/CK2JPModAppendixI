@@ -1910,7 +1910,7 @@ shiite_opinion;[shiite.GetName]信者からの評価;;;;;;;;;;;;x
 qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;;x
 vushmgir_brothers_legacy;マルダーウィージュの遺産;;;;;;;;;;;;x
 vushmgir_brothers_legacy_desc;My brother Mardavij tried to repel the Muslim faith and restore the Sasanian Empire in Persia. Though he failed, maybe it is time for me to pick up his legacy and reestablish the empire myself?;;;;;;;;;;;;x
-kievan_rus_local_traditions;地元の慣習;;;;;;;;;;;;x
+kievan_rus_local_traditions;Embrace Local Traditions;;;;;;;;;;;;x
 kievan_rus_local_traditions_desc;キエフの領主として敬意は払われているが、いつも一部の廷臣や封臣とは距離を置かれている。もしかしたらこの土地の文化と信仰を受け入れるべきなのだろうか？;;;;;;;;;;;;x
 empire_of_bulgaria_decision;[e_bulgaria.GetName]帝国を創設;;;;;;;;;;;;x
 empire_of_bulgaria_decision_desc;我々の領土は通常の王国の強さと規模を遙かに超えて広がっている。今こそ我らの国を[e_bulgaria.GetName]帝国として知らしめるときだ。;;;;;;;;;;;;x
@@ -2071,4 +2071,78 @@ c_almada_adj;Almadan;;;;;;;;;;;;x
 tribal_king_hungarian;大公;;;;;;;;;;;;x
 tribal_kingdom_of_hungarian;大公国;;;;;;;;;;;;x
 tribal_king_female_hungarian;女大公;;;;;;;;;;;;x
-=======;;;;;;;;;;;;;x
+COURT_LIMITED_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).\n\nRulers can house only a certain number of adult people in their court, depending on the tier of their Title. Beyond that number, §YCourt Expenses§! will increase.;;;;;;;;;;;;x
+COURT_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).;;;;;;;;;;;;x
+death_text_evil_wonder;For [GetHerHis] wicked deeds, many screamed not to bury [GetFirstName] with the other rulers of our lands, instead to toss [GetHerHim] in an unmarked grave and without the proper services. May [GetFirstName] finally pay for [GetHerHis] sins in the afterlife;;;;;;;;;;;;x
+death_text_started_wonder;Never succeeding in making a name for [GetHerselfHimself], [GetFirstName] most notable deed was participating in the construction of the great works which [GetSheHe] will never see finished;;;;;;;;;;;;x
+death_text_architect_wonder;[GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [GetHerHis] labor;;;;;;;;;;;;x
+death_text_child;While many struggle to see why [Religion.GetHighGodName] decided to take a young child away from us, we hope [GetFirstName] will find peace in the afterlife;;;;;;;;;;;;x
+EVTDESC64065;The unsatisfying relationship with a married [lover.GetManWoman] is really becoming irksome. I wish I could love [lover.GetHerHim] openly, without fearing everyone's scorn...;;;;;;;;;;;;x
+EVTDESC64070;Seeing another [lover.GetManWoman] behind my spouse's back is becoming quite troublesome for me, the lies tear at my soul and my longing to be with my lover is almost too much.;;;;;;;;;;;;x
+EVTDESC64085;I love [lover.GetHerHim] and [lover.GetSheHe] loves me, we are both adults and nothing or nobody will stop us getting married!;;;;;;;;;;;;x
+EVTDESC64115;My lover accused me of loving my spouse [Root.Spouse.GetTitledFirstName] more than [target_lover.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA64115;Buy [target_lover.GetHerHim] an expensive gift to prove my love;;;;;;;;;;;;x
+EVTOPTB64115;Take [target_lover.GetHerHim] to my country manor for some quality time;;;;;;;;;;;;x
+EVTOPTC64115;Assure [target_lover.GetHerHim] of [target_lover.GetHerHis] importance by words only;;;;;;;;;;;;x
+EVTOPTD64115;Tell [target_lover.GetHerHim] that [target_lover.GetSheHe] is absolutely correct;;;;;;;;;;;;x
+EVTDESC64135;I want to give a special surprise to my loved one, what shall it be? A poem, telling of my deep love for [lover.GetHerHim], finding the most beautiful flower in the forest to prove my love or maybe find a small trinket in the market for [lover.GetHerHim] to treasure for ever?;;;;;;;;;;;;x
+EVTOPTA64045;I don't love [lover.GetHerHim] anymore;;;;;;;;;;;;x
+EVTDESC64045;I don't know what has happened lately, no matter what my lover does I feel irritated and have actually started to avoid [lover.GetHerHim]. Our relationship brings me only irritation, it is as if we have grown apart...;;;;;;;;;;;;x
+EVTDESC64035;No matter what I do, my sweetheart never seems happy, complaining that we never do anything exciting together and sulks when I tell [lover.GetHerHim] I have too much to do to be able to entertain [lover.GetHerHim] all the time. Having a lover is more hard work than I thought!;;;;;;;;;;;;x
+EVTOPTA64035;Throw a big party for [lover.GetHerHis] entertainment;;;;;;;;;;;;x
+EVTOPTB64035;Take [lover.GetHerHim] to do something dangerous, like hunting;;;;;;;;;;;;x
+EVTOPTC64035;[lover.GetSheHeCap] gets what [lover.GetSheHe] deserves;;;;;;;;;;;;x
+EVTDESC64030;I have finally gotten a chance to do something special with my special someone and there are so many things I want to do! Should I try to entertain [lover.GetHerHim] at the court, or maybe we should spend some time in my isolated country cottage?;;;;;;;;;;;;x
+EVTDESC64010;[lover.GetSheHeCap] is so funny and, above all, so beautiful! I think I am falling for [lover.GetHerHim]...;;;;;;;;;;;;x
+EVTOPTA64010;I'll try and talk to [lover.GetHerHim]...;;;;;;;;;;;;x
+EVTOPTB64010;[lover.GetSheHeCap]'s not that pretty anyway...;;;;;;;;;;;;x
+in_meditation_cooldown_tt;Is NOT already meditating;;;;;;;;;;;;x
+EVT_TITLE_LT_20011;Search Ended;;;;;;;;;;;;x
+EVTDESC_LT_20011;My courtier [emissary.GetTitledNameWithNick] has passed away before [emissary.GetHerHis] search could be finished. Now I'm left wondering if I will ever see the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]... At least I got the remainder of the funds I had invested back.;;;;;;;;;;;;x
+EVTOPTA_LT_20011;May [emissary.GetHeShe] rest in peace.;;;;;;;;;;;;x
+EVTOPTB72008;Send out my child;;;;;;;;;;;;x
+RULER_FEAT_a_ruler_harder_than_steel_DESC;Hold the titles King of Norway & King of England, and have complete control over their respective de jure counties.;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_INVALID;Failed to save game.\n\nError: Save file not valid;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_NOSPACE;Failed to save game.\n\nError: Not enough disk space;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_TOOBIG;Failed to save game.\n\nError: Save file too big;;;;;;;;;;;;x
+REWARD_SCORE_LEFT;$SCORE_LEFT$ points to this reward;;;;;;;;;;;;x
+LOG_IN_TO_EARN_REWARDS;Log in to your Paradox Account to play Featured Rulers and earn Rewards!;;;;;;;;;;;;x
+LOG_IN_TO_PLAY_FEATURED_RULER;Log in to your Paradox Account to play Featured Rulers!;;;;;;;;;;;;x
+AVAILABE_FEAT_SCORE;Available score;;;;;;;;;;;;x
+SCORE_VALUE;$SCORE$ Score;;;;;;;;;;;;x
+HIGHLIGHTED_RULER_TITLE_TOOLTIP;Featured Rulers are characters we have pre-selected for you to play. Completing their associated Challenges will increase your Score, which is used to unlock Rewards!;;;;;;;;;;;;x
+LOG_IN_TO_CONTINUE_FEATURED_RULER_SAVE;You need to be logged in to your Paradox Account in order to continue a saved Featured Ruler game;;;;;;;;;;;;x
+FEATURED_RULER_NOT_SUPPORTED_LINUX;Featured Ruler save games are not supported on Linux;;;;;;;;;;;;x
+LOG_IN_TO_PLAY;Log in to your Paradox Account to play;;;;;;;;;;;;x
+PREORDER_NOW;Read More Here;;;;;;;;;;;;x
+REWARD_NAME_1;Wizards Beard;;;;;;;;;;;;x
+REWARD_DESC_1;No time to shave when researching the arcane.;;;;;;;;;;;;x
+REWARD_NAME_2;The Pageboy;;;;;;;;;;;;x
+REWARD_DESC_2;The most powerful haircut in the universe.;;;;;;;;;;;;x
+REWARD_NAME_3;Chaperon;;;;;;;;;;;;x
+REWARD_DESC_3;The most fashionable hat of the middle ages.;;;;;;;;;;;;x
+REWARD_NAME_4;Jesters Hat;;;;;;;;;;;;x
+REWARD_DESC_4;Perfectly designed for maximum japery.;;;;;;;;;;;;x
+REWARD_NAME_5;Cone Shaped Hennin;;;;;;;;;;;;x
+REWARD_DESC_5;A hat fit for a princess.;;;;;;;;;;;;x
+REWARD_NAME_6;Medieval Mullet;;;;;;;;;;;;x
+REWARD_DESC_6;This hairstyle never goes out of fashion.;;;;;;;;;;;;x
+REWARD_NAME_7;The Miller;;;;;;;;;;;;x
+REWARD_DESC_7;The most colorful hair of the era.;;;;;;;;;;;;x
+REWARD_NAME_8;The Joan of Arc;;;;;;;;;;;;x
+REWARD_DESC_8;The hottest hairstyle around.;;;;;;;;;;;;x
+DLC_dlc077_TOOLTIP_INSTANT;§YEgyptian Portraits§!;;;;;;;;;;;;x
+DLC_dlc077_TOOLTIP_DELAYED;- Unique face combinations for characters of Egyptian culture;;;;;;;;;;;;x
+REWARD_UNLOCKED;Reward Unlocked;;;;;;;;;;;;x
+HIGHLIGHTED_RULER_TITLE;Monarch's Journey;;;;;;;;;;;;x
+FEATURED_RULER_REWARD_TOOLTIP;The unlocked item will be available in Crusader Kings III;;;;;;;;;;;;x
+RTT_SPLASH_MESSAGE_1;Welcome to Crusader Kings II. We see that you are a newcomer to the game, so we hope you have fun exploring all the strategic and dynastic challenges that await you. The Monarch's Journey is a new way of exploring the world of Crusader Kings and will help you earn cosmetic add-ons for Crusader Kings III. Crusader Kings is a very open ended game, but these Ruler Challenges give you specific goals to aim for. Ruler Challenges encourage you to focus your efforts, and may, in some cases, help you learn some parts of the game more quickly. But CK2 is an open game - don't feel bound by our rules!;;;;;;;;;;;;x
+RTT_SPLASH_MESSAGE_2;Welcome back to Crusader Kings II! You have fought many wars and led many dynasties to greatness. With The Monarch's Journey, we have some new challenges for you to play. The Ruler Challenges present you with a new realm with a specific objective to achieve. Completing the challenges will earn special cosmetic rewards to dress up your Crusader Kings III experience. Here is your chance to try new worlds and new ways of play in our infinite medieval sandbox.;;;;;;;;;;;;x
+DLC_dlc078_TOOLTIP_INSTANT;§YPagan Fury Warrior Queen Music Pack§!;;;;;;;;;;;;x
+DLC_dlc078_TOOLTIP_DELAYED;The official band of Crusader Kings returns with a new music pack to help set the mood for your medieval conquests.;;;;;;;;;;;;x
+LANDING_DLC078_TEXT;Main Features: \n- Pagan Fury, The folk metal band led by Arven Labour has composed four new energetic tracks that get the blood moving as rally your vassals around your banner. Pagan Fury has contributed music to Paradox Development Studio games since 2018, and their passion for thematic music now continues into the next generation of grand strategy games.\n\nSong Tracks: \n- Broken Heroes \n- Sacred Heart \n- Flood of Fire \n- Nuria;;;;;;;;;;;;x
+LANDING_HEADER_DLC078;Pagan Fury Warrior Queen Music Pack;;;;;;;;;;;;x
+FEAT_CURRENT_TT;Current Progress: $SCORE|Y$;;;;;;;;;;;;x
+FEAT_HIGHSCORE_TT;Best Result: $HIGH_SCORE|G$;;;;;;;;;;;;x
+RULER_FEAT_long_live_the_queen_DESC;Under Arwa's rule Yemen prospered. \n * Hold the title Sultanate of Yemen, and have complete control over all of Yemen's de jure counties.\n * Progress continues for as long as you play the featured ruler's Dynasty.;;;;;;;;;;;;x
+RULER_FEAT_a_christian_king_DESC;Be crowned by the pope as the King of Lithuania!\n* You must have the title of King of Lithuania\n* You must have complete control over all of Lithuania's de jure counties \n* You must be catholic\n* You must be crowned by the pope trait\n* Progress continues for as long as you play the featured ruler's Dynasty;;;;;;;;;;;;x

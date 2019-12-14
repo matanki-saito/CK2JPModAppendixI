@@ -242,7 +242,7 @@ b_khaliun;カリウン;;;;;;;;;;;;x
 HAS_LESS_SETTLEMENTS;§Y$VAL$§!未満の領地;;;;;;;;;;;;x
 HAS_LEAST_SETTLEMENTS;最低でも§Y$VAL$§!の領地;;;;;;;;;;;;x
 CAPTAIN_female; ;;;;;;;;;;;;x
-messalian_FEATURES;§Y*§! 女性は評議会のあらゆる職務に就くことができる\n§Y*§! 女性は軍を率いることができる;;;;;;;;;;;;x
+messalian_FEATURES;§Y*§! Women may hold all councilor positions\n§Y*§! Women may lead armies;;;;;;;;;;;;x
 CONFIRM_BUILD_EXTRA_PRESTIGE_OR_PIETY_HOLDING_DESC;$TYPE$を建てても宜しいですか？\n費用は§Y$COST$§!かかり、§Y$FINISHED$§!に工事完了です。;;;;;;;;;;;;x
 EVTDESC_HL_10501B;[eloper.GetFirstName]は悪名高き傭兵[From.GetFirstName]と駆け落ちしています。;;;;;;;;;;;;x
 PRESTIGE_LAW_PASSED_LOG;§Y$RULER$§!は§Y$TITLE$§!内で§Y$LAW$§!を適用している。;;;;;;;;;;;;x

@@ -15,7 +15,7 @@ idolizer;信仰者;;;;;;;;;;;;x
 no_objective_title;方針が未選択;;;;;;;;;;;;x
 focus_ch_pride;自尊心;;;;;;;;;;;;x
 focus_ch_pride_title;自尊心;;;;;;;;;;;;x
-focus_ch_pride_desc;[This.GetTitledFirstName]は将来の統治者として、評議員と貴族からの教育を受けます。この養育方針によって得られる一般的な特性は§Y傲然§!と§Y陰気§!です。;;;;;;;;;;;;x
+focus_ch_pride_desc;[This.GetTitledFirstName] is tutored by councilors and noblemen, being groomed for rulership. Common trait outcomes for this Focus are §YHaughty§! and §YBrooding§!.;;;;;;;;;;;;x
 focus_ch_humility;謙虚;;;;;;;;;;;;x
 focus_ch_humility_title;謙虚;;;;;;;;;;;;x
 focus_ch_humility_desc;[This.GetTitledFirstName]は家令たちから奉仕と謙虚に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y弱気§!と§Y情愛§!です;;;;;;;;;;;;x
@@ -24,7 +24,7 @@ focus_ch_duty_title;義務;;;;;;;;;;;;x
 focus_ch_duty_desc;[This.GetTitledFirstName]は近衛兵たちと郎党たちから義務と勤勉さに重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y篤厚§!です。;;;;;;;;;;;;x
 focus_ch_etiquette;礼儀作法;;;;;;;;;;;;x
 focus_ch_etiquette_title;礼儀作法;;;;;;;;;;;;x
-focus_ch_etiquette_desc;[This.GetTitledFirstName]は評議員と廷臣たちから礼儀作法に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y活発§!と§Y堕落§!です;;;;;;;;;;;;x
+focus_ch_etiquette_desc;[This.GetTitledFirstName] is tutored by councilors and other courtiers, focusing on courteous behavior and etiquette. Common trait outcomes for this Focus are §YPlayful§! and §YIndolent§!.;;;;;;;;;;;;x
 focus_ch_thrift;倹約;;;;;;;;;;;;x
 focus_ch_thrift_title;倹約;;;;;;;;;;;;x
 focus_ch_thrift_desc;[This.GetTitledFirstName]は職人と商人たちから数学と発明に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y好奇心§!と§Y神経質§!です。;;;;;;;;;;;;x
@@ -1379,9 +1379,9 @@ EVTDESCC_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]
 EVTDESCD_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が策謀に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
 EVTDESCE_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が学識に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
 EVTOPTA_ZE_14710;[From.GetHerHim]はどちらにせよ駄目だったのだ。;;;;;;;;;;;;x
-loyalist_desc;忠臣の評議員は通常当主に忠実な僕となり、自分の権力を直接削ることになるものを除き、主のあらゆる政策に関してその支持に回ります。;;;;;;;;;;;;x
-pragmatist_desc;現実主義者の評議員は領邦を強大化させ、自分たちが利益を得ることにかけては常に最短ルートを狙っています。現実主義者は慣習的領土や当主の文化の州を回復する戦争を支持する傾向にあります。また自分たちより弱い相手に対する戦争も支持するでしょう。現実主義者は領邦に新たに有力な封臣を置くことを好まず、既存の有力な封臣から称号を剥奪することを支持するでしょう。;;;;;;;;;;;;x
-glory_hound_desc;見栄っ張りの評議員は常に領邦が栄光を求めて高い威信を得ることを求めています。見栄っ張りは弱い隣国を攻撃することを好まず、より強大な相手に敵対することに関してはそれが領邦を強大化させるならば戦争の理由すら気にしません。また見栄っ張りの評議員は集権化された強い領邦を好む傾向にあります。;;;;;;;;;;;;x
+loyalist_desc;A Loyalist councilor will generally be a faithful servant to the ruler. They will support their liege in all actions except those that will directly decrease their own power.;;;;;;;;;;;;x
+pragmatist_desc;A Pragmatist councilor will always aim for the path of least resistance when it comes to strengthening the realm and gaining power for themselves. They are inclined to support wars for reclaiming of de-jure land or counties with the ruler's culture. They might also support wars against weak opponents. This councillor will oppose the creation of other strong vassals in the realm and will support the revoking of titles from already powerful vassals.;;;;;;;;;;;;x
+glory_hound_desc;A Glory Hound councilor will always push for the realm to make prestigious advances for glory. They will oppose attacking weak neighbours, but against more powerful opponents they will not care much for the reason of the war as long as it will strengthen the realm. This councillor also prefers a strong and centralized realm.;;;;;;;;;;;;x
 LAWS_TAB_INHERITANCE;継承法;;;;;;;;;;;;x
 LAWS_TAB_COUNCIL;評議会法;;;;;;;;;;;;x
 LAWS_TAB_OBLIGATIONS;法的義務;;;;;;;;;;;;x
@@ -1506,7 +1506,7 @@ BUY_FAVOR_INTERACTION_LETTER_GET;\nI offer you a gift of $GOLD$§W¤§! and in r
 INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET;§Y[Recipient.GetTitledFirstName]§! cannot be influenced by a §YFavor§! from §Y[Actor.GetTitledFirstName]§!;;;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_OWING_FAVOR;$OWES_FAVOR|Y$には$HAS_FAVOR|Y$からの§Y貸し§!はありません。;;;;;;;;;;;;x
 EVTDESC_ZE_1031;Your daughter [target_daughter_killed_her_friend.GetFirstName] is furious with you: 'Damn you, [Root.GetFatherMother] - you killed [From.GetFirstName], I will never forgive you!'.;;;;;;;;;;;;x
-EVTDESC_ZE_2061B;The coffers are left open and unattended again. Surely, this is [Root.Liege.GetTitledFirstName]'s way of telling me that a small bonus is in order. [Root.Liege.GetSheHeCap] knows the other councillors would object if it were mentioned in their presence.;;;;;;;;;;;;x
+EVTDESC_ZE_2061B;The coffers are left open and unattended again. Surely, this is [Root.Liege.GetTitledFirstName]'s way of telling me that a small bonus is in order. [Root.Liege.GetSheHeCap] knows the other councilors would object if it were mentioned in their presence.;;;;;;;;;;;;x
 EVTOOLTIP38228;[Root.Guardian.GetFullName]は[Root.GetFirstName]の質問に答えてくれた。;;;;;;;;;;;;x
 EVTDESC1928;今日訪れたお客さまたちは、見慣れない服装で変な言葉を話していて変わった色の肌をしていたけれど、[Root.Guardian.GetFullName]はあの人たちに真心のこもった挨拶をしていた。あの人たちと話して、どこから来たどんな人たちなのか知りたいものだけれど、[Root.Guardian.GetTitledFirstName]が許してくれるかはよくわからない。;;;;;;;;;;;;x
 EVTDESC3516;I offered to hand [From.GetTitledFirstName]'s buzzard to the falconer, but was careless enough to forget to put on its hood, and then lost my grip on the jesses as the bird flew to freedom.;;;;;;;;;;;;x
@@ -1558,7 +1558,7 @@ alert_has_favor_name;貸しがあります;;;;;;;;;;;;x
 HAS_FAVOR_ON;\n§Y貸しがある:§!\n;;;;;;;;;;;;x
 OWES_FAVOR_TO_TOOLTIP;\n§Y借りがある:§!\n;;;;;;;;;;;;x
 COUNCIL_LAW_VOTING_DISABLED_FOR_GROUP;\n§Yこの種の法律に対して評議会が動議を提出することはできません。§!;;;;;;;;;;;;x
-COUNCIL_LAW_VOTING_ENABLED_FOR_GROUP;\n§Y評議員は過去の主への貸しを使ってこの種の法律に対し動議を提出することが可能です。§!;;;;;;;;;;;;x
+COUNCIL_LAW_VOTING_ENABLED_FOR_GROUP;\n§YA councilor is allowed to initiate voting for this type of law by spending a Favor on their liege.§!;;;;;;;;;;;;x
 tribal_duchy;大族長領;;;;;;;;;;;;x
 tribal_duchy_norse;ジャール領;;;;;;;;;;;;x
 duchy_norse;ジャール領;;;;;;;;;;;;x

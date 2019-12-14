@@ -40,7 +40,7 @@ EVTDESC_SoA_561;領地は、ユダヤ人の[Root.GetMyChancellorName]である[F
 EVTOPTA_SoA_561;素晴らしい仕事だ。;;;;;;;;;;;;x
 EVTDESC_SoA_563;[From.GetTitledName], your [Root.GetMyTreasurerName], has several contacts among the Radhanites. This Jewish merchant network supposedly stretches across the entirety of the known world, from Western Europe all the way to distant Cathay, and these contacts have been a great boon to the development of the realm's economy.;;;;;;;;;;;;x
 EVTDESC_SoA_565;[Root.GetMySpymasterName]、[From.GetTitledName]には、ヨーロッパのユダヤ人共同体の中に友人や情報提供者がいる。 伝書鳩が、毎日、居住地に到着し、新しい武器や戦術について、海外からの重要な情報を運んでいる。;;;;;;;;;;;;x
-LOADING_TIP_53;ユダヤ人を評議員にすると技術進歩に有利な場合があります。;;;;;;;;;;;;x
+LOADING_TIP_53;Jewish councilors will sometimes benefit the advancement of technology.;;;;;;;;;;;;x
 AIREASON_EXISTING_BETROTHAL;婚約を尊重する;;;;;;;;;;;;x
 cathar_DESC;The Cathar, or Albigensian, heresy rejects confession and the holiness of the clergy and of the Pope. They only have a single sacrament - the Consolation - to remove sin and turn the believer into a Cathar 'Perfect'.;;;;;;;;;;;;x
 fraticelli_DESC;フラティチェリ「小さな兄弟 」は、フランシスコ修道会に由来するカトリック異端である。それは貧困と禁欲に捧げられる-特に布の男たちのために。フラティチェリの異端者は教会の富と富の誇示に激しく反対している。;;;;;;;;;;;;x

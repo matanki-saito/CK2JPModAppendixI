@@ -8,8 +8,8 @@ DISEASE_ACTIVATED;$DISEASE$の大流行が発生する可能性がある;;;;;;;;
 AIREASON_IS_PRISONER_OF_CHAR;§Y[GetTitledFirstName]§!の捕虜である;;;;;;;;;;;;x
 SunsetInvasionDLC;『Sunset Invasion』;;;;;;;;;;;;x
 NOT_COASTAL;この州は海に面していない;;;;;;;;;;;;x
-NOT_FORBIDDEN_LEAD;この評議員は現在、軍を率いることを禁じられていません。\n§Gクリックすると評議員を呼び戻して軍の指揮を禁じることができます。§!;;;;;;;;;;;;x
-FORBIDDEN_LEAD;この評議員は現在、軍を率いることを禁じられています。\n§Gクリックすると軍の指揮を許可することができます。§!;;;;;;;;;;;;x
+NOT_FORBIDDEN_LEAD;This councilor is currently not forbidden to lead armies.\n§GClick to recall and forbid your councilor from leading armies.§!;;;;;;;;;;;;x
+FORBIDDEN_LEAD;This councilor is currently forbidden to lead armies.\n§GClick to allow this councilor to lead armies.§!;;;;;;;;;;;;x
 DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0;[Recipient.GetSubjectPronoun]が許せば、§Y[Recipient.GetFirstName]は牢から釈放されるでしょう。§!;;;;;;;;;;;;x
 opinion_fought_for_claimant;請求者として戦った;;;;;;;;;;;;x
 EVTOPTD9001;丁寧に頼もう。;;;;;;;;;;;;x

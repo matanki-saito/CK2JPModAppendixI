@@ -78,7 +78,7 @@ LEDGER_CLAIMS;請求権;;;;;;;;;;;;x
 LEDGER_HEADER_VASSALS;直臣;;;;;;;;;;;;x
 LEDGER_HEADER_ALL_VASSALS;領地内の全ての封臣;;;;;;;;;;;;x
 LEDGER_HEADER_COURTIERS;自分の宮廷;;;;;;;;;;;;x
-LEDGER_COUNCILLOR;評議員;;;;;;;;;;;;x
+LEDGER_COUNCILLOR;Councilor;;;;;;;;;;;;x
 LEDGER_COURTIER;廷臣;;;;;;;;;;;;x
 LEDGER_PRISONER;捕虜;;;;;;;;;;;;x
 LEDGER_HEADER_REALM_LEVIES;領地の召集軍;;;;;;;;;;;;x
@@ -247,10 +247,10 @@ EVTDESC6221;聖霊が私を満たし、まるで使徒のように様々な言�
 EVTOPTA6221;唯一の問題は、他にできる者がいないことだ;;;;;;;;;;;;x
 EVTDESC6222;聖霊が私の元を去り、体が軽くなったように感じた。やっと目が覚めたかと私を笑う者もいたが、彼らは救い主の本当の愛を理解していなかったのだ。;;;;;;;;;;;;x
 EVTOPTA6222;私は悲しみに暮れた。;;;;;;;;;;;;x
-LOADING_TIP_34;評議員が軍を率いている時は領地での任務を行えません。;;;;;;;;;;;;x
+LOADING_TIP_34;Your councilors cannot both lead troops and perform missions in counties.;;;;;;;;;;;;x
 LOADING_TIP_35;モンゴルの来襲に備えよ…;;;;;;;;;;;;x
 LOADING_TIP_36;陰謀を発見するためには密偵頭が必要だ。;;;;;;;;;;;;x
-LOADING_TIP_37;優秀な評議員はしばしば厄介な敵ともなります。気をつけましょう。;;;;;;;;;;;;x
+LOADING_TIP_37;Sometimes the most skilled Councilor is also an enemy. Tread carefully.;;;;;;;;;;;;x
 LOADING_TIP_38;自分が密偵頭になれば主君に対する陰謀は成功しやすくなるだろう。;;;;;;;;;;;;x
 LOADING_TIP_39;宮廷司祭を使って郡や封臣を改宗させることができます。;;;;;;;;;;;;x
 LOADING_TIP_40;自分の保有している称号の請求権は自分の子供達全てに与えられます。;;;;;;;;;;;;x
