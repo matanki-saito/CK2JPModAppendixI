@@ -1,0 +1,654 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+set_government_type;政体が§Y$GOVERNMENT$§!に変更されます\n;;;;;;;;;;;;x
+feudal_government;封建制;;;;;;;;;;;;x
+republic_government;共和制;;;;;;;;;;;;x
+merchant_republic_government;商業共和制;;;;;;;;;;;;x
+theocracy_government;神権制;;;;;;;;;;;;x
+muslim_government;イクター制;;;;;;;;;;;;x
+tribal_government;部族制;;;;;;;;;;;;x
+RETCAP_FROM_GOVERNMENT;政治体制から：$AMOUNT$\n;;;;;;;;;;;;x
+GOVERNMENT_CANNOT_CREATE_KINGDOMS;神権制、宗教騎士団、傭兵団は王国を設立することはできません！;;;;;;;;;;;;x
+GOVERNMENT_CANNOT_USURP_KINGDOMS_AND_EMPIRES;商業共和国と都市貴族は王国や帝国を簒奪することはできない;;;;;;;;;;;;x
+GAME_STATE_WAS_CORRUPTED;ゲームが破損しています。ゲームを再起動してください。;;;;;;;;;;;;x
+TRIBAL_TAX;部族税;;;;;;;;;;;;x
+GOVERNMENT_CANT_BUILD_HOLDINGS;§R$GOVERNMENT$の統治者は新たな地区を創ることはできません§!;;;;;;;;;;;;x
+GOVERNMENT_NO_LIEGE_LEVY;独立した部族や遊牧民の支配者は、家臣の部族から召集軍を得ることはない;;;;;;;;;;;;x
+PLAYERS_IN_UNIT;Player Characters in Unit;;;;;;;;;;;;x
+PLAYERS_IN_ATTACKERS;Attacking Player Characters;;;;;;;;;;;;x
+YOU_IN_ATTACKERS;貴方はこの戦いにおける攻撃側です。;;;;;;;;;;;;x
+PLAYERS_IN_DEFENDERS;Defending Player Characters;;;;;;;;;;;;x
+YOU_IN_DEFENDERS;貴方はこの戦いにおける守勢側です。;;;;;;;;;;;;x
+destroy_title_interaction_LONG_DESC;この称号を廃止します。;;;;;;;;;;;;x
+usurp_title_interaction_TITLE;称号簒奪;;;;;;;;;;;;x
+usurp_title_interaction_LONG_DESC;この称号を簒奪します。;;;;;;;;;;;;x
+create_title_interaction_LONG_DESC;この称号を創設します。;;;;;;;;;;;;x
+make_primary_title_interaction_LONG_DESC;これを貴方の主要称号とします。;;;;;;;;;;;;x
+make_capital_settlement_interaction_TITLE;遷都する;;;;;;;;;;;;x
+make_capital_settlement_interaction_DESC;ここを首都にできます。;;;;;;;;;;;;x
+make_capital_settlement_interaction_LONG_DESC;この地区を貴方の首都とします。;;;;;;;;;;;;x
+WILL_CANCEL_OLD_PLOT;陰謀は同時に一つしかアクティブにできません。新しい陰謀を選ぶと現在選んでいるものはキャンセルされます。;;;;;;;;;;;;x
+WILL_CANCEL_OLD_AMBITION;野心は同時に一つしかアクティブにできません。新しい野心を選ぶと現在選んでいるものはキャンセルされます。;;;;;;;;;;;;x
+WILL_CANCEL_OLD_FOCUS;方針は同時に一つしかアクティブにできません。新しい方針を選ぶと現在選んでいるものはキャンセルされます。;;;;;;;;;;;;x
+alert_available_targetted_decision_instant;§Y人物に対する特別なアクションが可能§!;;;;;;;;;;;;x
+alert_available_targetted_decision_delayed;以下の人物に対する特別なアクションが利用できる:\n$LIST$;;;;;;;;;;;;x
+alert_available_title_decision_instant;§Y称号に対する特別なアクションが可能§!;;;;;;;;;;;;x
+alert_available_title_decision_delayed;以下の称号に対する特別なアクションが利用できる:\n$LIST$;;;;;;;;;;;;x
+alert_available_settlement_decision_instant;§Y領地に対する特別なアクションが可能§!;;;;;;;;;;;;x
+alert_available_settlement_decision_delayed;以下の領地に対する特別なアクションが利用できる:\n$LIST$;;;;;;;;;;;;x
+FLANK_DAMAGE_FINAL;最終的なダメージ値: §Y$DAMAGE$§!ダメージ (£1£)、§Y$MORALE_DAMAGE$§!士気ダメージ (£2£);;;;;;;;;;;;x
+TACTICAL_DISADVANTAGE;§Y$TACTIC$§!に対するペナルティ：$PERC$;;;;;;;;;;;;x
+TOTAL_DEFENCE;総防御値：§Y$DEF$§!;;;;;;;;;;;;x
+COMBATVIEW_TOTALTROOPS;残存兵力\n§Gクリックすると、支隊構成を表示する§!;;;;;;;;;;;;x
+COMBATVALUES;$NAME$\nダメージ (£1£): §Y$DAMAGE$§!\n士気ダメージ (£2£): §Y$MORALEDMG$§!\n防御値 (£3£): §Y$DEFENCE$§!;;;;;;;;;;;;x
+COMBATVALUES_SUBUNIT;兵士ごとの攻撃値: §Y$DAMAGE$§!\n兵士ごとの防御値: §Y$DEFENCE$§!\n\n総攻撃値: §Y$TOTAL_DAMAGE$§!\n総防御値: §Y$TOTAL_DEFENCE$§!;;;;;;;;;;;;x
+COMBATVIEW_FLANK_MORALE;この支隊の平均士気値: $MORALE$ (§Y+$DELTA$§W / 週)\n総士気値: §Y$TOTAL_MORALE$§!;;;;;;;;;;;;x
+COMBATVIEW_MORALE;平均士気値: §Y$MORALE$§W (§Y+$DELTA$§W / 週)\n総士気値: §Y$TOTAL_MORALE$§!;;;;;;;;;;;;x
+FLANK_DESIGNER_SHOW_VALUES;数値を表示;;;;;;;;;;;;x
+FLANK_DESIGNER_SHOW_TROOPS;軍隊を表示;;;;;;;;;;;;x
+convert_tribal_to_city;都市へのアップグレード;;;;;;;;;;;;x
+convert_tribal_to_city_named;[Root.GetName]を都市へアップグレード;;;;;;;;;;;;x
+convert_tribal_to_castle;城砦へのアップグレード;;;;;;;;;;;;x
+convert_tribal_to_castle_named;[Root.GetName]を城砦にアップグレード;;;;;;;;;;;;x
+MODIFIER_TRIBAL_OPINION;部族封臣の評価;;;;;;;;;;;;x
+TRIBAL_VASSAL_OPINION;部族封臣の評価;;;;;;;;;;;;x
+PROVINCE_HAS_NO_REGION;この州はどの地域にも属していない;;;;;;;;;;;;x
+PROVINCE_HAS_REGION_SELECT;次の地域を選択するには§Y左クリック§Wしてください。;;;;;;;;;;;;x
+PROVINCE_HAS_REGION_DESELECT;地域選択を解除するには§Y右クリック§Wしてください。;;;;;;;;;;;;x
+PROVINCE_HAS_REGION;この州は以下の地域に属している:;;;;;;;;;;;;x
+FIND_PROVINCE;称号または地域を探す;;;;;;;;;;;;x
+REGION_OF;地域;;;;;;;;;;;;x
+HINT_DIPLO_VIEW_TITLE;外交メニュー;;;;;;;;;;;;x
+EVTDESC107104;現在あなたへの評価が低い封臣が一人います。この封臣を見るためには、あなたのポートレートをクリックし、'封臣'タブを開きます。そして封臣の評価がプラスになるようにしてみてください。いくつかの手段があります。例えばより多くの土地を与えるなどです(ただしあなたの直轄領限界数の分の土地はなるべく保持するようにしてください）。また名誉ある称号を与えたり、贈り物を送ることもできます。 これらは外交メニューで行うことができます。;;;;;;;;;;;;x
+EVTDESC107009;結婚相手として良い人物が見つかったら、その人物のポートレートを右クリックして外交メニューを開きます。そうすると相手の君主が結婚を許可するかどうかが分かります。外交メニューは他のキャラクターとやりとりするときに使います。先に進めて結婚をまとめましょう!;;;;;;;;;;;;x
+EVTDESC107300;請求権を入手したので行使してください。戦争を始めるときです!カナリアのプロヴィンスを選択し、州ビューにある当主のポートレートを右クリック、外交メニューが出るので「宣戦布告」を選択し、開戦事由として「カナリアを請求」をクリックします。相手に送りつけて宣戦してください。;;;;;;;;;;;;x
+EVTDESC107326;封臣限界を超えました。封臣を正常に管理できる数を超えてしまっています。封臣達はあなたに支払う税金と軍勢の数を下げることでしょう。あなたが死んで跡継ぎが引き継いたときに、封臣を失うことさえあります。長期的には外交値を増やすことで封臣限界数を増やすことができますが、手短に対処するなら封臣を他の者に与えることで直臣の数を減らすことができます。与えたい相手の外交メニューから行います。ターゲットキャラクターは手放したい封臣よりも高い位の者でなければなりません。;;;;;;;;;;;;x
+EVTDESC107334;あなたの子供が後見人を付けることができる年齢になりました。外交メニューを開いて「後見人指定」を選択できます。自動的に後見人になる人物が提案されますが、自分で選ぶこともできます。そのときは提案された後見人ををクリックしてください。あなたは良い特性と能力を持つ後見人を望むでしょう。またこの機会を利用して、あなたを嫌っている封臣に子供の後見人になるという栄誉を与えることができます。;;;;;;;;;;;;x
+EVTDESC107325;直轄領規模を超えました。つまり個人的に支配できると見られる数を超えてしまっています。封臣達はこのような状況を嫌うので対処する必要があります。できる限り早急に！長期的にはあなた(と妻)の管理値を上げることで直轄領規模を上げることができますが、手短に対処するならあなたが所有している称号の一部を封臣に与えることができます。称号を与えたい相手の外交メニューから行います。人物検索か、キャラクター画面の宮廷タブから適切な相手を見つけてください。;;;;;;;;;;;;x
+EVTDESC107310;あなたは和平を結ぶことができるようになりました。画面右下の戦争アイコンをクリックしてください。あるいは戦争相手のポートレートを右クリックすると外交メニューが出るので、そこからでもできます。;;;;;;;;;;;;x
+PART_OF_REGION;$REGION$地方の一部;;;;;;;;;;;;x
+NOT_PART_OF_REGION;$REGION$地方の一部ではない;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_REINFORCE_RATE;補充速度: §Y$RATE$§!%;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_MAINTENANCE_FREE;維持費なし;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_NON_REINFORCING;戦力補充なし;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_FORCED_LOOTING;これらの部隊は常に略奪を行います。;;;;;;;;;;;;x
+HorseLordsDLC;『Horse Lords』;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_TITLE;冒険者を定住させる;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_DESC;領地称号を授与し、冒険者を定住させます。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_LONG_DESC;冒険者を定住させるために、領地称号の一つを授与します。これは彼らの貴方に対する評価を大きく改善するでしょう。冒険者を定住させると襲撃を止め、また長い間、他の襲撃者からの攻撃を防ぎます。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§Wに授与する称号を選択します。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_1;§Y[Recipient.GetTitledFirstName]§Wに§Y[ThirdPartyTitle.GetFullName]§Wを授与し、[Recipient.GetPossPronoun]の貴方に対する評価が§G$OPINION$§W増加します。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_2;首都は§Y$CURRENT$§Wから§Y$NEW$§Wに変更されます。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_3;授与に付随する封臣: ;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_4;[Player.Religion.GetPietyName] from temple grant: §G$PIETY$§!.;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_5;§RMaking [Recipient.GetObjectPronoun] a $TITLE$ will disqualify [Recipient.GetObjectPronoun] from the succession!§!;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_ACCEPT_SETUP;冒険者が定住要請を承諾;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは§Y[Recipient.GetBestName]§Wに[ThirdPartyTitle.GetFullName]を授与することで[Recipient.GetHerHim]を定住させました。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_6;Grant the §Y[ThirdPartyTitle.GetFullName]§W and all titles under it to §Y[Recipient.GetTitledFirstName]§W, increasing [Recipient.GetPossPronoun] opinion of you by §G$OPINION$§W.;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_7;一族の成員に対する贈与による退廃度減少：§G$DECADENCE$%§!（効果は現在の一族の退廃に対するもの）;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_9;冒険者が定住することで、長期間にわたって襲撃される危険性が大幅に減少されます。;;;;;;;;;;;;x
+IS_ALLOWED_TO_LOOT;略奪を許可されている;;;;;;;;;;;;x
+CANNOT_DESTROY_DURING_WAR;戦争中は係争中の称号を廃止することはできない;;;;;;;;;;;;x
+NOT_IS_ALLOWED_TO_LOOT;略奪を許可されていない;;;;;;;;;;;;x
+settled_adventurer;冒険者が定住している;;;;;;;;;;;;x
+LOOTING_SETTLED_ADVENTURER;この州は最近、襲撃者の冒険者が定住しました。;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_FORCED_NOT_LOOT; 部隊は略奪を許可されている;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_FORCED_NOT_LOOTING;これらの部隊は略奪を行えません。;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_LOOTING;これらの部隊は略奪軍として行動します。;;;;;;;;;;;;x
+tut_0a_6;ポートレートをクリックします。すべての人物でこのような情報が表示されます。これはスコットランドの王ですが、ここで彼の両親と祖父母は死亡しているのがわかります。彼は3人の子供と3人の兄弟姉妹がいます。;;;;;;;;;;;;x
+REALM_LEVY_DIFF_LOWER_THAN;現在の§Y$FIRST$§!と§Y$SECOND$§!の領地の召集軍の差が§Y$VAL$§!未満である;;;;;;;;;;;;x
+REALM_LEVY_DIFF_AT_LEAST;現在の§Y$FIRST$§!と§Y$SECOND$§!の領地の召集軍の差が§Y$VAL$§!以上である;;;;;;;;;;;;x
+MAX_REALM_LEVY_DIFF_LOWER_THAN;§Y$FIRST$§!と§Y$SECOND$§!の領地の最大召集軍の差が§Y$VAL$§!未満である;;;;;;;;;;;;x
+MAX_REALM_LEVY_DIFF_AT_LEAST;§Y$FIRST$§!と§Y$SECOND$§!の領地の最大召集軍の差が§Y$VAL$§!以上である;;;;;;;;;;;;x
+REALM_LEVY_LESS;現在の領国召集軍が§Y$VAL$§!未満である;;;;;;;;;;;;x
+REALM_LEVY_LEAST;現在の領国召集軍が§Y$VAL$§!以上である;;;;;;;;;;;;x
+MAX_TROOP_STRENGTH_LESS;最大の領国召集軍が§Y$VAL$§!未満である;;;;;;;;;;;;x
+MAX_TROOP_STRENGTH_LEAST;最大の領国召集軍が§Y$VAL$§!以上である;;;;;;;;;;;;x
+ANY_UNIT;任意の部隊;;;;;;;;;;;;x
+ALL_UNITS;全ての部隊;;;;;;;;;;;;x
+IS_SEAFARER;船乗りである;;;;;;;;;;;;x
+NOT_IS_SEAFARER;船乗りではない;;;;;;;;;;;;x
+IS_ISLAND;島である;;;;;;;;;;;;x
+NOT_IS_ISLAND;島ではない;;;;;;;;;;;;x
+DYNAMIC_MERCENARY_COMPANY;[Root.GetFirstName]の[Root.Culture.GetName]部隊;;;;;;;;;;;;x
+create_mercenary_company;傭兵として送り出す;;;;;;;;;;;;x
+create_mercenary_company_desc;経験、名声、富を追求するために傭兵として、§Y[Root.GetFirstName]§!を送り出します。現在の召集軍の中から兵士を集め、[Root.GetHerHim]の始動部隊を編成します。あなたはいつでも[Root.GetHerHim]を§Y[From.Capital.GetName]§!に呼び戻す事ができます。上手くいけば[Root.GetSheHe]は、目を見張るほどのゴールドと威信を持ち帰り、一族に名誉をもたらすでしょう。;;;;;;;;;;;;x
+maintaining_mercenary_band;傭兵団の維持;;;;;;;;;;;;x
+desc_maintaining_mercenary_band;この領地は傭兵団の戦力補充に使用された;;;;;;;;;;;;x
+ANY_MERCENARY_BAND_STARTS;任意の傭兵団;;;;;;;;;;;;x
+TRIGGER_BAND_CREATOR;部隊創設者;;;;;;;;;;;;x
+DEMESNE_GARRISON_MORE_THAN;Garrison of entire demesne is more or equal to ;;;;;;;;;;;;x
+DEMESNE_GARRISON_LESS_THAN;Garrison of entire demesne is less than ;;;;;;;;;;;;x
+AIREASON_NOT_DUCHY;公爵領を要求;;;;;;;;;;;;x
+AIREASON_NO_PORT;沿岸州を要求;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_LETTER;我々は今後の襲撃に対する保護と引き換えに、[ThirdPartyTitle.GetFullName]の領地称号を提供する。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_OFFER;[Actor.GetBestName]は我々の保護と引き換えに、[ThirdPartyTitle.GetFullName]の領地称号を差し出すことを望んでいます。;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_DECLINE_SETUP;冒険者が定住要請を拒否;;;;;;;;;;;;x
+SETTLE_ADVENTURER_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§Wは§Y[Actor.GetBestName]§Wの領地に定住するという提案を拒否しました。;;;;;;;;;;;;x
+dissolve_mercenary_company;宮廷に帰還命令;;;;;;;;;;;;x
+dissolve_mercenary_company_desc;[Root.GetFirstName]に傭兵団を解散し、故郷に帰還するように命じます。;;;;;;;;;;;;x
+is_mercenary_leader_YEAR;5年間、傭兵隊を指揮してきた\n;;;;;;;;;;;;x
+HAS_NOT_RAISED_STANDING_TROOPS;兵団が動員状態ではない;;;;;;;;;;;;x
+HAS_RAISED_STANDING_TROOPS;兵団が動員状態である;;;;;;;;;;;;x
+EVTDESC288;貴方の定住の要請を受けることにする。;;;;;;;;;;;;x
+EVTDESC289;貴方の定住の要請を拒否する。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_ACTOR_MERCENARY_TITLE;§Y[Actor.GetTitledFirstName]§!が傭兵であってはならない;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_RECIPIENT_MERCENARY_TITLE;§Y[Recipient.GetTitledFirstName]§!が傭兵であってはならない;;;;;;;;;;;;x
+started_mercenary_company;傭兵団を結成した;;;;;;;;;;;;x
+IS_ADVENTURER;冒険者である;;;;;;;;;;;;x
+IS_NOT_ADVENTURER;冒険者ではない;;;;;;;;;;;;x
+TRIGGER_MOST_PART_CRUSADER;最も貢献した十字軍;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_FEUDAL;§Y[Recipient.GetTitledFirstName]§!は封建制である。;;;;;;;;;;;;x
+CHRONICLE_DIVORCED;[New.GetTitledFirstName]は[From.GetTitledFirstName]と[Root.GetTitledName]の婚姻を正式に破棄した。;;;;;;;;;;;;x
+CHRONICLE_DIVORCED_NO_HEAD;[From.GetTitledFirstName]は[Root.GetTitledName]と離婚した。;;;;;;;;;;;;x
+LAW_ALLOWED;§Y$LAW$§!法は制定可能である;;;;;;;;;;;;x
+LAW_NOT_ALLOWED;§Y$LAW$§!法は制定可能ではない;;;;;;;;;;;;x
+LAW_POTENTIAL;§Y$LAW$§!法制定適任者である;;;;;;;;;;;;x
+LAW_NOT_POTENTIAL;§Y$LAW$§!法制定適任者ではない;;;;;;;;;;;;x
+GOVERNMENT_ALLOWED;§Y$GOVERNMENT$§!政府は成立可能である;;;;;;;;;;;;x
+GOVERNMENT_NOT_ALLOWED;§Y$GOVERNMENT$§!政府は成立可能ではない;;;;;;;;;;;;x
+GOVERNMENT_POTENTIAL;§Y$GOVERNMENT$§!政府を成立させる用件;;;;;;;;;;;;x
+GOVERNMENT_NOT_POTENTIAL;§Y$GOVERNMENT$§!政府を成立させる用件を満たさない;;;;;;;;;;;;x
+DECISION_ALLOWED;決断§Y$DECISION$§!を行うことができる;;;;;;;;;;;;x
+DECISION_NOT_ALLOWED;決断§Y$DECISION$§!を行うことができない;;;;;;;;;;;;x
+DECISION_POTENTIAL;決断§Y$DECISION$§!を行う資格がある;;;;;;;;;;;;x
+DECISION_NOT_POTENTIAL;決断§Y$DECISION$§!を行う資格がない;;;;;;;;;;;;x
+TARGETTED_DECISION_ALLOWED;§Y$CHARACTER$§!に対して決断§Y$DECISION$§!を行うことができる;;;;;;;;;;;;x
+TARGETTED_DECISION_NOT_ALLOWED;§Y$CHARACTER$§!に対して決断§Y$DECISION$§!を行うことができない;;;;;;;;;;;;x
+TARGETTED_DECISION_POTENTIAL;§Y$CHARACTER$§!に対して決断§Y$DECISION$§!を行う資格がある;;;;;;;;;;;;x
+TARGETTED_DECISION_NOT_POTENTIAL;§Y$CHARACTER$§!に対して決断§Y$DECISION$§!を行う資格がない;;;;;;;;;;;;x
+TITLE_DECISION_ALLOWED;§Y$TITLE$§!への決断§Y$DECISION$§!を行うことができる;;;;;;;;;;;;x
+TITLE_DECISION_NOT_ALLOWED;§Y$TITLE$§!への決断§Y$DECISION$§!を行うことができない;;;;;;;;;;;;x
+TITLE_DECISION_POTENTIAL;§Y$TITLE$§!への決断§Y$DECISION$§!を行う資格がある;;;;;;;;;;;;x
+TITLE_DECISION_NOT_POTENTIAL;§Y$TITLE$§!への決断§Y$DECISION$§!を行う資格がない;;;;;;;;;;;;x
+SETTLEMENT_DECISION_ALLOWED;§Y$SETTLEMENT$§!への決断§Y$DECISION$§!を行うことができる;;;;;;;;;;;;x
+SETTLEMENT_DECISION_NOT_ALLOWED;§Y$SETTLEMENT$§!への決断§Y$DECISION$§!を行うことができない;;;;;;;;;;;;x
+SETTLEMENT_DECISION_POTENTIAL;§Y$SETTLEMENT$§!への決断§Y$DECISION$§!を行う資格がある;;;;;;;;;;;;x
+SETTLEMENT_DECISION_NOT_POTENTIAL;§Y$SETTLEMENT$§!への決断§Y$DECISION$§!を行う資格がない;;;;;;;;;;;;x
+PROV1293;カッチ湾;;;;;;;;;;;;x
+PROV1383;北紅海;;;;;;;;;;;;x
+PROV1384;中央紅海;;;;;;;;;;;;x
+PROV1385;南紅海;;;;;;;;;;;;x
+PROV1386;バブ・エル・マンデブ海峡;;;;;;;;;;;;x
+PROV1387;アデン湾;;;;;;;;;;;;x
+PROV1388;アフリカの角;;;;;;;;;;;;x
+PROV1389;ドファール沿岸;;;;;;;;;;;;x
+PROV1390;オマーン南岸;;;;;;;;;;;;x
+PROV1391;マスカット沿岸;;;;;;;;;;;;x
+PROV1392;オマーン湾;;;;;;;;;;;;x
+PROV1393;ホルムズ海峡;;;;;;;;;;;;x
+PROV1394;東ペルシャ湾;;;;;;;;;;;;x
+PROV1395;西ペルシャ湾;;;;;;;;;;;;x
+PROV1396;マクラーン沿岸;;;;;;;;;;;;x
+PROV1397;インダス・デルタ;;;;;;;;;;;;x
+PROV1398;グジャラート沿岸;;;;;;;;;;;;x
+PROV1399;コーンカン沿岸;;;;;;;;;;;;x
+PROV1400;マラバル沿岸;;;;;;;;;;;;x
+PROV1401;カルナータカ沿岸;;;;;;;;;;;;x
+PROV1402;マンナール湾;;;;;;;;;;;;x
+PROV1403;南スリランカ沿岸;;;;;;;;;;;;x
+PROV1404;ポーク海峡;;;;;;;;;;;;x
+PROV1405;北スリランカ沿岸;;;;;;;;;;;;x
+PROV1406;南コロマンデル沿岸;;;;;;;;;;;;x
+PROV1407;北コロマンデル沿岸;;;;;;;;;;;;x
+PROV1409;オリッサ沿岸;;;;;;;;;;;;x
+PROV1410;カタカ沿岸;;;;;;;;;;;;x
+PROV1411;ガンジス・デルタ;;;;;;;;;;;;x
+PROV1412;アラビア海;;;;;;;;;;;;x
+EVTDESC_HL_101;[From.GetBestName]は[From.GetPossPronoun]の財産を作る目的で、外地略奪行を催すべく戦士団を集めています。;;;;;;;;;;;;x
+EVTDESC_HL_112;[GetRootFromInsult] [From.GetBestName]は[From.GetHerHis]の盗賊や強盗団の力で我が領地を強奪することこそ[From.GetHerHis]の目的であると宣言しました。;;;;;;;;;;;;x
+EVTOPTA_HL_112;[From.GetHerHim]を止めなければ！;;;;;;;;;;;;x
+EVTDESC_HL_121;親愛なる[GetFromReverseRelation]、\n[From.Religion.GetRandomGodNameCap]は最近の我が冒険行を嘉されたようだ。私は今使い切れぬほどの富を抱えている。一方、私の戦士としての格に相応しい領地を持ちたいとも考えている。そこで少々交換といかないか。\n\n（署名）\n貴方の[GetFromRelation] [From.GetFirstName];;;;;;;;;;;;x
+world_europe_west_brittania;ブリタニア;;;;;;;;;;;;x
+world_europe_west_germania;ゲルマニア;;;;;;;;;;;;x
+world_europe_west_francia;フランク;;;;;;;;;;;;x
+world_europe_west_iberia;イベリア;;;;;;;;;;;;x
+world_europe_west;西ヨーロッパ;;;;;;;;;;;;x
+world_europe_north;北ヨーロッパ;;;;;;;;;;;;x
+world_europe_south_east;東南ヨーロッパ;;;;;;;;;;;;x
+world_europe_south_italy;イタリア;;;;;;;;;;;;x
+world_europe_south;南ヨーロッパ;;;;;;;;;;;;x
+world_europe_east;東ヨーロッパ;;;;;;;;;;;;x
+world_asia_minor;小アジア;;;;;;;;;;;;x
+world_middle_east_jerusalem;エルサレム;;;;;;;;;;;;x
+world_middle_east_arabia;アラビア半島;;;;;;;;;;;;x
+world_india_deccan;デカン;;;;;;;;;;;;x
+world_india_bengal;ベンガル;;;;;;;;;;;;x
+world_india_rajastan;ラジャスタン;;;;;;;;;;;;x
+world_persia;ペルシア;;;;;;;;;;;;x
+world_africa_north;北アフリカ;;;;;;;;;;;;x
+world_africa_west;西アフリカ;;;;;;;;;;;;x
+world_africa_east;東アフリカ;;;;;;;;;;;;x
+world_africa;アフリカ;;;;;;;;;;;;x
+world_steppe_west;西部ステップ;;;;;;;;;;;;x
+world_steppe_east;東部ステップ;;;;;;;;;;;;x
+world_steppe;ステップ;;;;;;;;;;;;x
+world_europe;ヨーロッパ;;;;;;;;;;;;x
+world_middle_east;Near East;;;;;;;;;;;;x
+world_india;インド;;;;;;;;;;;;x
+world_steppe_tarim;タリム盆地;;;;;;;;;;;;x
+custom_eastern_baltic;東バルト;;;;;;;;;;;;x
+custom_frisia;フリージア;;;;;;;;;;;;x
+custom_england;イングランド;;;;;;;;;;;;x
+custom_castillian;北イベリア;;;;;;;;;;;;x
+custom_catalan;東イベリア;;;;;;;;;;;;x
+custom_andalusian;南イベリア;;;;;;;;;;;;x
+custom_portuguese;北西イベリア;;;;;;;;;;;;x
+custom_swedish;スウェーデン;;;;;;;;;;;;x
+custom_danish;デンマーク;;;;;;;;;;;;x
+custom_norwegian;ノルウェー;;;;;;;;;;;;x
+custom_scotland;スコットランド;;;;;;;;;;;;x
+opinion_humiliated_rival;ライバルから侮辱を受けた;;;;;;;;;;;;x
+MAPMODE_REALM;§Y領国§!;;;;;;;;;;;;x
+PROV1347;タクラマカン砂漠;;;;;;;;;;;;x
+pyramid;ピラミッド;;;;;;;;;;;;x
+k_mongolia;モンゴル;;;;;;;;;;;;x
+k_mongolia_adj;モンゴル;;;;;;;;;;;;x
+d_altay;アルタイ;;;;;;;;;;;;x
+d_otuken;ウテュケン;;;;;;;;;;;;x
+d_khangai;ハンガイ;;;;;;;;;;;;x
+d_ikh_bogd;イフ・ボグド;;;;;;;;;;;;x
+k_khotan;ホータン;;;;;;;;;;;;x
+d_kashgar;カシュガル;;;;;;;;;;;;x
+d_khotan;ホータン;;;;;;;;;;;;x
+d_karashar;カラシャール;;;;;;;;;;;;x
+d_kumul;クムル;;;;;;;;;;;;x
+EVTOPTA_WOL_415;ああ、胸がドキドキする！;;;;;;;;;;;;x
+EVTTOOLTIP_CM_4332;[This.GetTitledFirstName]はハルリ派の一員となる;;;;;;;;;;;;x
+tower_topples;Tower topples.;;;;;;;;;;;;x
+tower_stands;Tower stands.;;;;;;;;;;;;x
+promised_to_clear_out_heresy;異端を排除することを約束した;;;;;;;;;;;;x
+alert_can_tech_name;あなたは技術開発に投資することができます;;;;;;;;;;;;x
+MAPMODE_REALM_DESC;このマップモードは独立勢力とその臣下を表示します。;;;;;;;;;;;;x
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC1;§GControl+左クリック§!で§Y$REALM$§!の臣下領地を表示します;;;;;;;;;;;;x
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC2;§GControl+右クリック§!で§Y$REALM$§!の臣下領地を非表示にします;;;;;;;;;;;;x
+MAPMODE_GOVERNMENTS;§Y政体§!;;;;;;;;;;;;x
+MAPMODE_GOVERNMENTS_DESC;このマップモードは各勢力の政体を表示します。;;;;;;;;;;;;x
+EVTDESC_SoA_566;ユダヤ人を領地から排除するという古ぼけた法令を廃止する時が来た。;;;;;;;;;;;;x
+EVTOPTA_SoA_566;かかる不法は過去の物となった。;;;;;;;;;;;;x
+BARONY_DESTROYED;この男爵領は破壊されました;;;;;;;;;;;;x
+DEJURE_LIEGE_STARTS;慣習的な主君;;;;;;;;;;;;x
+DEFACTO_LIEGE_STARTS;事実上の主君;;;;;;;;;;;;x
+destroy_settlement;§Y$SETTLEMENT$§!は破壊されます。;;;;;;;;;;;;x
+make_capital_holding;§Y$SETTLEMENT$§!は§Y$COUNTY$§!の首都となります\n;;;;;;;;;;;;x
+make_primary;ここを州都とする;;;;;;;;;;;;x
+make_primary_desc;この領地を州都にすることが出来ます。;;;;;;;;;;;;x
+nomad_ARMY_OF;$CHARACTER$の遊牧民;;;;;;;;;;;;x
+nomad_ARMY;$CULTURE$遊牧民;;;;;;;;;;;;x
+EVTDESC_HL_10101;Warriors serving with your [GetFromRelation] [From.GetFirstName] have sent word to inform you that they have recently observed a marked improvement in [From.GetHerHis] military leadership abilities.;;;;;;;;;;;;x
+EVTOPTA_HL_10101;経験に勝るものなし！;;;;;;;;;;;;x
+EVTDESC_HL_10201;噂によると、貴方がいつも臆病者とみなしていた傭兵の[GetFromRelation] [From.GetFirstName]が、今では[From.GetHerHis]戦闘における恥ずべき怯えを[From.GetSheHe]自身の手で克服したそうです。;;;;;;;;;;;;x
+EVTOPTA_HL_10201;ついに我が[GetFromRelation]は真の[From.GetManWoman]となったのだな！;;;;;;;;;;;;x
+EVTDESC_HL_10211;Life as a mercenary seems to have hardened your [GetFromRelation] [From.GetFirstName]. Words of [From.GetHerHis] courage in battle reach you every so often.;;;;;;;;;;;;x
+EVTOPTA_HL_10211;[From.GetHerHisCap]の行いは[Root.GetOnlyDynastyName]一族の誉れだ！;;;;;;;;;;;;x
+EVTDESC_HL_10221;貴方の[GetFromRelation] [From.GetFirstName]はは精力的で粘り強い、傭兵団の頭目として知られるようになったそうです。;;;;;;;;;;;;x
+EVTOPTA_HL_10221;まさしく皆の鑑であろう！;;;;;;;;;;;;x
+EVTDESC_HL_10231;貴方の[GetFromRelation]である[From.GetFirstName]が傭兵団を指揮を取って以来、[From.GetHerHis]は変わったと人々は言う。[From.GetSheHeCap]は今や滅多に他人に対して優しさを見せなくなった。;;;;;;;;;;;;x
+EVTOPTA_HL_10231;世界はどのようにしてこの[From.GetMenWomen]を変えたのか。;;;;;;;;;;;;x
+EVTDESC_HL_10241;It is said that [From.GetHerHis] time as a mercenary leader has changed the outlook of your [GetFromRelation] [From.GetFirstName]. [From.GetSheHeCap] no longer shows the same humble spirit as before.;;;;;;;;;;;;x
+EVTOPTA_HL_10241;A predictable effect of [From.GetHerHis] station, surely.;;;;;;;;;;;;x
+EVTDESC_HL_10251;During [From.GetHerHis] time as a mercenary leader, your [GetFromRelation] [From.GetFirstName] has become quite famed for [From.GetHerHis] taste for lustful escapades.;;;;;;;;;;;;x
+EVTOPTA_HL_10251;Perhaps it was only to be expected.;;;;;;;;;;;;x
+EVTDESC_HL_10261;貴方の[GetFromRelation]である[From.GetFirstName]はたびたび怒りを爆発させるため、傭兵団に仕える傭兵達は[From.GetHerHis]を恐れるようになったとのことだ。;;;;;;;;;;;;x
+EVTOPTA_HL_10261;I'm sure they deserve it.;;;;;;;;;;;;x
+EVTDESC_HL_10271;あなたの[GetFromRelation][From.GetFirstName]は、非常に残忍な傭兵の指揮官として評判を得ている。;;;;;;;;;;;;x
+EVTOPTA_HL_10271;人々は[From.GetHerHis]の邪魔をしない方が良いだろう。;;;;;;;;;;;;x
+EVTDESC_HL_10301;News reach you that your [GetFromRelation] [From.GetFirstName] has fought a glorious battle against [FromFrom.GetTitledName].;;;;;;;;;;;;x
+EVTOPTA_HL_10301;[From.GetSheHeCap] measures [From.GetHerselfHimself] against the great!;;;;;;;;;;;;x
+EVTDESC_HL_10401;Mercenary leaders frequently have to deal with people of foreign cultures and religions. Now people are saying that your [GetFromRelation] [From.GetFirstName] has developed a particular interest in the [merc_location.Holder.Religion.GetName] ways.;;;;;;;;;;;;x
+EVTOPTA_HL_10401;So [From.GetSheHe] finds [merc_location.Holder.Religion.GetName]s interesting?;;;;;;;;;;;;x
+EVTDESC_HL_10411;貴方の[GetFromRelation]である[From.GetFirstName]が[merc_location.Holder.Religion.GetName]に改宗したという報せを受け取った。;;;;;;;;;;;;x
+EVTOPTA_HL_10411;そうすると、[From.GetSheHe]は[merc_location.Holder.Religion.GetRandomGodName]を崇めているというのか？;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_NOT_SAME_COURT_AS_SPOUSE;§Y[Recipient.GetTitledFirstName]§! is not in a lesser union and in the same court as [Recipient.GetHerHis] spouse;;;;;;;;;;;;x
+nomadic_government;遊牧制;;;;;;;;;;;;x
+IS_NOMADIC;遊牧制である;;;;;;;;;;;;x
+ISNT_NOMDAIC;遊牧制ではない;;;;;;;;;;;;x
+HAVE_GOVERNMENT;§Y$GOVERNMENT$§!政府である;;;;;;;;;;;;x
+DONT_HAVE_GOVERNMENT;§Y$GOVERNMENT$§!政府ではない;;;;;;;;;;;;x
+STAT_POPULATION;人口;;;;;;;;;;;;x
+STAT_MANPOWER;人的資源;;;;;;;;;;;;x
+STAT_CLAN_SATISFACTION;氏族の満足度;;;;;;;;;;;;x
+STAT_CLAN_SATISFACTION_DESC;この値は領国内の氏族の満足度を表します。氏族の満足度は、氏族間で領地を均等に分割しているかによって決定します。氏族の満足度が低いと、氏族の反乱リスクが高くなります。あなたは氏族に空き領地があるプロヴィンスを渡す事で、氏族の満足度を向上させることができます。;;;;;;;;;;;;x
+INCOME_NOMADIC_TAX;遊牧民税;;;;;;;;;;;;x
+adventurer;冒険者;;;;;;;;;;;;x
+adventurer_desc;この人物は冒険者としての経歴を持っているため、他の者よりやや野心的かもしれません。;;;;;;;;;;;;x
+mercenary_traditions;伝統的傭兵家業;;;;;;;;;;;;x
+mercenary_traditions_desc;この人物の家族は代々傭兵家業をしている;;;;;;;;;;;;x
+EVTDESC_HL_10601;[GetFromRelation]の[From.GetFirstName]がかなりの熟練傭兵団長になったらしい。;;;;;;;;;;;;x
+EVTOPTA_HL_10601;それはよかった。;;;;;;;;;;;;x
+EVTDESC_HL_10610;父がかつて傭兵隊長であったという興味深い噂を耳にした。;;;;;;;;;;;;x
+EVTOPTA_HL_10610;このことを[Guardian.GetTitledFirstName]に聞いてみよう。;;;;;;;;;;;;x
+EVTDESC_HL_10611;被後見人である[From.GetTitledFirstName]は私に[From.GetHerHis]の父がかつて傭兵団に所属していたか尋ねてきた。;;;;;;;;;;;;x
+EVTOPTA_HL_10611;もちろん、[From.GetHerHim]の過去は知っているよ…;;;;;;;;;;;;x
+EVTOPTB_HL_10611;[From.GetSheHeCap]は知らない方がいいだろう;;;;;;;;;;;;x
+EVTDESC_HL_10612;[GetFromRelation]の[From.GetFirstName]が私に私の過去について話してくれないか頼んできた。;;;;;;;;;;;;x
+EVTDESC_HL_10613;[From.GetTitledFirstName]は夜遅くまで起きていた。[From.GetSheHe]は私の父の多くの冒険譚を話してくれた。;;;;;;;;;;;;x
+EVTOPTA_HL_10613;魅力的だ！;;;;;;;;;;;;x
+EVTDESC_HL_10614;[From.GetFirstName]は私に話すことを拒絶した。;;;;;;;;;;;;x
+EVTOPTA_HL_10614;一体どうして?;;;;;;;;;;;;x
+EVTDESC_HL_10515;どうやらあなたの息子と傭兵[From.GetDynName]との間で戦いが起きたようだ。幸いにも、誰もどちらも怪我をすることはなかったようだ。;;;;;;;;;;;;x
+EVTOPTA_HL_10515;良い結末でよかった。;;;;;;;;;;;;x
+EVTDESC_HL_10516;どうやらあなたの息子とその雇用主との間で激しい戦いが繰り広げられたようだ。しかしながら、どちらも怪我はしなかったようだ。;;;;;;;;;;;;x
+EVTOPTA_HL_10516;嬉しくない情報だ。;;;;;;;;;;;;x
+EVTDESC_HL_10517;どうやらあなたの息子と傭兵[From.GetDynName]との間で戦いが起きたようだ。結果的に、あなたの息子は負傷したようだ。;;;;;;;;;;;;x
+EVTOPTA_HL_10517;最悪だ！;;;;;;;;;;;;x
+EVTDESC_HL_10518;どうやらあなたの息子[From.GetFirstName]と雇い主の息子との間で激しい戦いが起きたようだ。結果的に、雇い主の息子は軽い怪我を負った。;;;;;;;;;;;;x
+EVTOPTA_HL_10518;次はきっと上手くいくさ！;;;;;;;;;;;;x
+EVTDESC_HL_10519;どうやらあなたの息子と傭兵[From.GetDynName]との間で戦いが起きたようだ。結果的に、あなたの息子は不具になったようだ。;;;;;;;;;;;;x
+EVTDESC_HL_10520;どうやらあなたの息子[From.GetFirstName]と雇い主の息子との間で激しい戦いが起きたようだ。結果的に、雇い主の息子は不具になった。;;;;;;;;;;;;x
+EVTOPTA_HL_10520;さすが我が息子！;;;;;;;;;;;;x
+EVTDESC_HL_10521;あなたの息子が傭兵[From.GetDynName]との戦いで殺されたという報せが届いた。;;;;;;;;;;;;x
+EVTOPTA_HL_10521;絶対に仇を取ってやる、絶対にだ。;;;;;;;;;;;;x
+EVTDESC_HL_10522;どうやらあなたの息子[From.GetFirstName]と雇い主の息子との間で激しい戦いが起きたようだ。結果的に、雇い主の息子は死亡した。;;;;;;;;;;;;x
+EVTDESC_HL_10530;少し前に雇った傭兵団がまだその地域にいるようだ.... 指揮官を小さな宴会に招待すべきだろうか？;;;;;;;;;;;;x
+EVTOPTA_HL_10530;ああ、そうしよう！;;;;;;;;;;;;x
+EVTOPTB_HL_10530;傭兵とは一定の距離を保つのが一番だ。;;;;;;;;;;;;x
+EVTDESC_HL_10532;[From.GetDynName] came to feast with you and you found that you have much in common.;;;;;;;;;;;;x
+EVTOPTA_HL_10532;新しい友人に領地を与えたほうがいいだろう...;;;;;;;;;;;;x
+EVTDESC_HL_10533;[From.GetTitledName]は貴方との宴会を断った。;;;;;;;;;;;;x
+EVTOPTA_HL_10533;何様のつもりだ？;;;;;;;;;;;;x
+MUST_NOT_BE_EMPLOYED_MERCENARY;現在雇用されていない;;;;;;;;;;;;x
+IS_NOT_OVER_TRADEPOST_LIMIT;交易所の制限を超えていない (§Y$TRADE_POSTS$§!/§Y$MAX_TRADE_POSTS$§!);;;;;;;;;;;;x
+CALL_ALL_NOT_INDEPENDENT;独立君主ではないので、部族制及び遊牧制の封臣を呼び出す事ができません。;;;;;;;;;;;;x
+tribal_contract;部族召集軍法;;;;;;;;;;;;x
+tribal_contract_desc;部族召集軍法は、部族は君主に召集軍を提供しなければならないという部族の義務を定める。;;;;;;;;;;;;x
+tribal_contract_0;最小規模の部族召集軍;;;;;;;;;;;;x
+tribal_contract_0_desc;領土全体の防衛のため、部族にいくらかの兵力を提供するよう求める。;;;;;;;;;;;;x
+tribal_contract_1;標準的な部族召集軍;;;;;;;;;;;;x
+tribal_contract_1_desc;領土全体の防衛のため、部族にある程度の兵力を提供するよう求める。;;;;;;;;;;;;x
+tribal_contract_2;大規模な部族召集軍;;;;;;;;;;;;x
+tribal_contract_2_desc;領土全体の防衛のため、部族にかなりの兵力を提供するよう求める。;;;;;;;;;;;;x
+tribal_contract_3;最大規模の部族召集軍;;;;;;;;;;;;x
+tribal_contract_3_desc;領土全体の防衛のため、部族に多大な兵力を提供するよう求める。;;;;;;;;;;;;x
+tribal_tax;部族税制;;;;;;;;;;;;x
+tribal_tax_desc;部族は多額の金を生み出すわけではないが、課税は法によって調整できる。;;;;;;;;;;;;x
+tribal_tax_0;部族税なし;;;;;;;;;;;;x
+tribal_tax_0_desc;部族は免税されている。;;;;;;;;;;;;x
+tribal_tax_1;最少の部族税;;;;;;;;;;;;x
+tribal_tax_1_desc;国家全体の利益のため、部族に少額の財政的貢献を求める。;;;;;;;;;;;;x
+tribal_tax_2;標準的な部族税;;;;;;;;;;;;x
+tribal_tax_2_desc;国家全体の利益のため、部族にある程度の財政的貢献を求める。;;;;;;;;;;;;x
+tribal_tax_3;多額の部族税;;;;;;;;;;;;x
+tribal_tax_3_desc;国家全体の利益のため、部族に多額の財政的貢献を求める。;;;;;;;;;;;;x
+HORDE_CANNOT_BUY_RET_ROOM;\nこの遊牧軍を創設できません。§Y最大人的資源§!の制限に達しました。;;;;;;;;;;;;x
+CANNOT_BUY_RET_CURRENT_MANPOWER;\nこの常備軍を創設できません。§Y人的資源§!が足りません。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_COMMANDER;§Y[Actor.GetTitledFirstName]§!は§Y[Recipient.GetTitledFirstName]§!が保有できる利用可能な指揮官スロットを用意する必要がある;;;;;;;;;;;;x
+CLAN_FALLS_SETUP;氏族の滅亡;;;;;;;;;;;;x
+CLAN_FALLS_LOG;§Y$CLAN$§!の死によって、強大な氏族§Y$DYNASTY$§!は滅亡しました。;;;;;;;;;;;;x
+CLAN_RISES_SETUP;氏族の勃興;;;;;;;;;;;;x
+CLAN_RISES_LOG;§Y$CLAN$§!の下で、$TITLE_ADJ$に新たな氏族が誕生しました。;;;;;;;;;;;;x
+opinion_spared_at_blot;Spared at Blot;;;;;;;;;;;;x
+nomad;遊牧;;;;;;;;;;;;x
+EVTDESC_91377;私の夫、[From.GetName]は突然信仰心に駆られ、[From.Liege.PrimaryTitle.GetName]に加入した。これは事実、私たちの婚姻が破棄されたことになる...;;;;;;;;;;;;x
+GOOD_RIDDANCE;いい厄介払いだ！;;;;;;;;;;;;x
+EVTDESC_SoA_2862;私の夫、[FromFromFrom.GetName]は[FromFromFrom.Liege.PrimaryTitle.GetName]に加入した。これは事実、私たちの婚姻が破棄されたことになる...;;;;;;;;;;;;x
+EVTDESC_SoA_2863;私の夫、[From.GetName]は[From.Liege.PrimaryTitle.GetName]に加入した。これは事実、私たちの婚姻が破棄されたことになる...;;;;;;;;;;;;x
+LOOTING_ADVENTURER;冒険者です。;;;;;;;;;;;;x
+LOOTING_ADVENTURER_DESC;この部隊は冒険者であるため、略奪金は所有者の金庫に直接追加されます。;;;;;;;;;;;;x
+INTERACTION_GOVERNMENT_MUST_MARRY_REGULARLY;$GOVERNMENT$の人物は母系結婚をすることができない;;;;;;;;;;;;x
+HORDE_RETINUE_OF;$CHARACTER$の遊牧軍;;;;;;;;;;;;x
+HORDE_RETINUES_NOT_REINFORCING;§Y遊牧軍は補充を行わないように設定されています。§!;;;;;;;;;;;;x
+HORDE_RETINUES_HALF_REINFORCING;§Y遊牧軍は半分の速度で補充されるように設定されています。§!;;;;;;;;;;;;x
+HORDE_RETINUES_FULL_REINFORCING;§Y遊牧軍は最大速度で補充されるように設定されています。§!;;;;;;;;;;;;x
+HORDE_RETINUES_NOT_REINFORCING_BUTTON;§Y遊牧軍の補充を停止する。§!;;;;;;;;;;;;x
+HORDE_RETINUES_HALF_REINFORCNIG_BUTTON;§Y遊牧軍の補充を半分の速度で行うようにする。§!;;;;;;;;;;;;x
+HORDE_RETINUES_FULL_REINFORCING_BUTTON;§Y遊牧軍の補充を最大速度で行うようにする。§!;;;;;;;;;;;;x
+HORDE_MIL_RETINUES;遊牧軍;;;;;;;;;;;;x
+HORDE_BUY_RETINUE;§Y$NAME$§!遊牧軍を創設します。最初の兵力はほぼ零ですが、規定の兵力まで補充が行われます。;;;;;;;;;;;;x
+HORDE_RETINUE_UPKEEP;遊牧軍維持費;;;;;;;;;;;;x
+HORDE_CONFIRM_DISBAND_NO_RET;\n解散される遊牧軍部隊はありません。;;;;;;;;;;;;x
+HORDE_CONFIRM_DISBAND_RET;\n§R遊牧軍全部隊が解散されます！§!;;;;;;;;;;;;x
+HORDE_CANNOT_BUY_RET_WEALTH;\nこの遊牧軍を創設できません。資金が足りません。;;;;;;;;;;;;x
+HORDE_CREATE_RETINUE_EFFECT;$WHO$は§Y$RETINUE$§!遊牧軍を手に入れました;;;;;;;;;;;;x
+HORDE_CAN_BUY_RETINUE_TRIGGER_NOT;$WHO$には少なくとも§Y$NEED$§!の未使用の人的資源がありません;;;;;;;;;;;;x
+HORDE_CAN_BUY_RETINUE_TRIGGER;$WHO$には少なくとも§Y$NEED$§!の未使用の人的資源があります;;;;;;;;;;;;x
+HORDE_RETINUE_EXPL;§Y遊牧軍§!\nこれらの数値は遊牧軍の現在の兵力と維持費を表しています。;;;;;;;;;;;;x
+HORDE_RETINUE_EXPL_DEL;遊牧軍はいつでも命令を受けられるように準備が整えられた、熟練した私設常備軍です。遊牧軍は常にマップ上に存在し、ゆっくりと補充が行われます。動員できる遊牧民の最大数は、§Y最大人的資源§!に依存し、最大人的は§Y最大人口§!により決定されます。;;;;;;;;;;;;x
+RETINUE_EXPL_DEL;常備軍はいつでも命令を受けられるように準備が整えられた、熟練した私設常備軍です。召集軍とは異なり、常備軍は常にマップ上に存在し、ゆっくりと補充が行われます。動員できる常備軍の最大数は、技術「§Y軍事組織§!」と領国内の召集軍の規模に依存します。;;;;;;;;;;;;x
+HORDE_SPLIT_RETINUES_OPTION;遊牧軍を分離;;;;;;;;;;;;x
+nomadic_king;ハン;;;;;;;;;;;;x
+nomadic_emperor;カガン;;;;;;;;;;;;x
+nomadic_empire;カガン国;;;;;;;;;;;;x
+nomadic_empire_of;カガン国;;;;;;;;;;;;x
+nomadic_kingdom;ハン国;;;;;;;;;;;;x
+nomadic_kingdom_of;ハン国;;;;;;;;;;;;x
+REMOVE_TRIBUTARY_EFFECT;§Y$TRIBUTARY$§!は§Y$OVERLORD$§!への貢納をやめました。;;;;;;;;;;;;x
+WAR_NAME_TRIBUTARY;$FIRST_ADJ$による$ORDER$$DEFENDER$属国化戦争;;;;;;;;;;;;x
+CB_NAME_FREE_TRIBUTARY;従属関係の破棄;;;;;;;;;;;;x
+CLAN_SATISFACTION_REASON;$CLAN$ holds only §R$EMPTY_HOLDINGS$§! empty holdings compared to liege's §Y$LIEGE_EMPTY_HOLDINGS$§!.;;;;;;;;;;;;x
+EMPTY_HOLDINGS_LIEGE_CAPITAL;氏族の満足度を計算する際は、遊牧民の首都の空き領地は含まれません。;;;;;;;;;;;;x
+EMPTY_HOLDINGS_BY_CLAN;§YEmpty Holdings by Clan§!:;;;;;;;;;;;;x
+TITLE_NOT_NOMAD;Title is not a Clan title;;;;;;;;;;;;x
+CLAN_NAME;$DYNASTY$族;;;;;;;;;;;;x
+INTERACTION_TITLE_NOT_NOMAD;Title cannot be a clan title;;;;;;;;;;;;x
+WAR_NAME_FREE_TRIBUTARY;$FIRST_ADJ$による$ORDER$$ATTACKER$独立戦争;;;;;;;;;;;;x
+REMOVE_PREVIOUS_SUZERAIN;§Y[This.GetTitledFirstName]§!の以前の宗主国は削除されます。\n;;;;;;;;;;;;x
+DISTANCE_FROM_REALM_LESS_THAN;Distance from realm less than ;;;;;;;;;;;;x
+DISTANCE_FROM_REALM_AT_LEAST;Distance from realm at least ;;;;;;;;;;;;x
+MAX_POPULATION_FORMULA;最大人口数式;;;;;;;;;;;;x
+MAX_MANPOWER_FORMULA;最大人的資源数式;;;;;;;;;;;;x
+EMPTY_HOLDINGS;空き地区;;;;;;;;;;;;x
+alert_decadence_instant;§Y退廃的な親族§!;;;;;;;;;;;;x
+alert_decadence_delayed;貴方には退廃した親族があります。これを更生させるか、あるいは何か別の手を打つべきです。;;;;;;;;;;;;x
+HIGH_DECADENCE;貴方の一族は絶望的に退廃していると見なされています。大規模な反乱の危険があります。;;;;;;;;;;;;x
+LOW_CLAN_SATISFACTION;貴方の領地の部族は、現在の領地分布に深く不満を持っています。部族の反乱の危険があります。;;;;;;;;;;;;x
+silk_road;シルクロード;;;;;;;;;;;;x
+IS_ON_TRADE_ROUTE;プロヴィンスが主要な交易路上に位置している;;;;;;;;;;;;x
+IS_PROVINCE_OWNER;プロヴィンスを直接領有している;;;;;;;;;;;;x
+MODIFIER_TRADE_ROUTE_VALUE;交易路の収入;;;;;;;;;;;;x
+CB_NAME_CLAN_REVOLT;[Title.GetBaseName]を求める反乱;;;;;;;;;;;;x
+WAR_NAME_CLAN_REVOLT;$ORDER$$OTHER_TITLE$を請求する$ATTACKER$族反乱;;;;;;;;;;;;x
+clan_revolt_desc;氏族の反乱は、氏族の満足度が低すぎると発生する可能性があり、遊牧民の領国内の土地をより良く分配しようとします。;;;;;;;;;;;;x
+CLAN_REVOLT;[Root.County.GetAdjective]部族反乱;;;;;;;;;;;;x
+MODIFIER_TRADE_ROUTE_WEALTH;交易路の富;;;;;;;;;;;;x
+tr_silk_road_1;シルクロード交易所;;;;;;;;;;;;x
+tr_silk_road_1_desc;これは小さいながらも活気のあるシルクロードの交易所です。;;;;;;;;;;;;x
+tr_silk_road_2;シルクロード市場;;;;;;;;;;;;x
+tr_silk_road_2_desc;このシルクロード交易所は、追い剥ぎや山賊に対する保護が強化され、ここに滞在して取引することを好む商人が増えて、大きな町へと成長しました。;;;;;;;;;;;;x
+tr_silk_road_3;シルクロード交易都市;;;;;;;;;;;;x
+tr_silk_road_3_desc;これはシルクロードの主要な交易拠点であり、商人は取引を行うために様々な場所から訪れてきます。文明人が知る全ての商品やサービスがここに集まり、多くの通りや路地で無数の言語が響き渡ります。;;;;;;;;;;;;x
+EVTDESC_HL_210;他の氏族が[From.GetName]で反旗を翻し、進行中の反乱を強化した！;;;;;;;;;;;;x
+TRIBUTARY;属国;;;;;;;;;;;;x
+UNUSED_MANPOWER;未使用の人的;;;;;;;;;;;;x
+RAISED_MANPOWER;動員中の人的;;;;;;;;;;;;x
+MAXIMUM_MANPOWER;最大人的;;;;;;;;;;;;x
+MONTHLY_MANPOWER_GROWTH;毎月の人的増加;;;;;;;;;;;;x
+MONTHLY_MANPOWER_DECLINE;毎月の人的減少;;;;;;;;;;;;x
+TAXABLE;課税対象;;;;;;;;;;;;x
+ERA_CHAR_INFO_30809;イザベルは1212年、イタリア南部で、エルサレムの女王マリア・デ・モンフェッラートの唯一の子として生まれた。彼女の母親は出産直後に死亡し、新生児のイザベルは父親のジャン・ド・ブリエンヌが摂政となり女王として即位した。13歳でイサベルは、神聖ローマ帝国の皇帝フリードリヒ2世を第5回十字軍に参加させるための駒として彼と結婚させられた。この結婚により皇帝がエルサレムの王を戴冠し、イザベルの父はすべての権力を剥奪された。イザベル自身は夫によって幽閉されていた。1228年に彼女は息子のコンラートを産んだ時に死亡した（娘もいたがその前に死亡している）。その死の直後、フリードリヒは約束の十字軍に着手した。;;;;;;;;;;;;x
+ERA_CHAR_INFO_93052;父親の死後、ホラズム帝国を継承したムハンマドは、すぐにゴール朝による侵略に直面した。ホラズム、ゴール、西遼の間で、間欠的な戦争が起こり、混沌とした年が何年か続いた。ムハンマドは一度捕虜になり西遼で1年間拘束されたが、その運命は変わり、最終的にはサマルカンド、バローチスターン、アフガニスタンを征服し、シャーを宣言した。しかし、ジンギス・カンとモンゴル人が1218年に乗り込んで来たとき、彼の統治は予想よりも早く終了した。短期間でモンゴルはその領土を越え、彼はカスピ海の小さな島で亡命者として1220年に死亡した。;;;;;;;;;;;;x
+ERA_CHAR_INFO_170193;イルトゥトゥミシュの前半は謎に包まれているが、彼の名は誕生の間に日食が起こったことから命名されたと言われている。彼は幼い頃に奴隷商に売却され、最終的にはラホールの支配者であるアイバクに買収された。アイバクはその新しい召使いを高く評価し、イルトゥトゥミシュに責任とそれに応じた栄誉を与え続け、最終的に自分の娘と結婚させた。1210年にアイバクが死亡したとき、イルトゥトゥミシュが王位を要求したときに強い支持を得た。彼が競争相手と戦って退け、地盤を固めるまで混乱は何年も続いた。彼はその後、モンゴルとの表立った対立を避け、16世紀末まで続くデリー・スルタン朝を創設するに到った。;;;;;;;;;;;;x
+ERA_CHAR_INFO_125501;テムジン（チンギス・カン）はボルジギン氏の首領の息子としてモンゴルで生まれた。彼は父が死亡した時に唯一の息子であったが、その幼い年令と他の継承者からの妨害によって彼と母親は一族から追放された。しかし成熟すると、テムジンは自分の運命に向き合うようになった。数十年にわたり、彼は評判と威信を高め、最終的にすべてのモンゴルの征服に成功した。その後、彼は中国北部、中央アジア全土、ペルシャの一部と西側の大草原を征服した。彼は人類史上最大の征服者の一人として認められ、彼の死後もモンゴルは侵略による拡大を続けていった。;;;;;;;;;;;;x
+HAS_LOWER_CLAN_SATISFACTION_THAN;氏族の満足度が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_CLAN_SATISFACTION_THAN;氏族の満足度が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_MANPOWER_THAN;人的資源が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_MANPOWER_THAN;人的資源が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_MAX_MANPOWER_THAN;最大人的が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_MAX_MANPOWER_THAN;最大人的が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_MANPOWER_GROWTH_THAN;人的増加が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_MANPOWER_GROWTH_THAN;人的増加が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_POPULATION_THAN;人口が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_POPULATION_THAN;人口が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_MAX_POPULATION_THAN;最大人口が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_MAX_POPULATION_THAN;最大人口が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_POPULATION_GROWTH_THAN;人口増加が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_POPULATION_GROWTH_THAN;人口増加が右記より高い:;;;;;;;;;;;;x
+khalka;ハルハ;;;;;;;;;;;;x
+buryat;ブリヤート;;;;;;;;;;;;x
+naiman;ナイマン;;;;;;;;;;;;x
+oirat;オイラート;;;;;;;;;;;;x
+uyghur;ウイグル;;;;;;;;;;;;x
+basmyl;バスミル;;;;;;;;;;;;x
+yagma;ヤグマ;;;;;;;;;;;;x
+chigil;チギル;;;;;;;;;;;;x
+khitan;契丹;;;;;;;;;;;;x
+sogdian;ソグド;;;;;;;;;;;;x
+nomad_succession;遊牧民相続制;;;;;;;;;;;;x
+succ_nomadic;遊牧民相続制;;;;;;;;;;;;x
+TITLE_NEW_PRIMARY_IS_NOMADIC;§R遊牧制では主要称号を設定できません！§!;;;;;;;;;;;;x
+CALL_ALL_TRIBAL_CONTROL;部族制及び遊牧制の封臣に参戦要請を送ることはできません。代わりに兵士の徴用を行うことが出来ます;;;;;;;;;;;;x
+CALL_ALL_NOT_TRIBAL;部族制ではないため部族制及び遊牧制の封臣に参戦要請を送ることは出来ません;;;;;;;;;;;;x
+CALL_ALL_TRIBAL_VASSALS;部族制及び遊牧制の全封臣に参戦要請を送る;;;;;;;;;;;;x
+NOMAD_CANT_BUILD_HOLDINGS_DESC;空き地区は遊牧民の人口と人的資源を増加させ、大規模な軍隊と多額の税収を実現できます。適切な地区を建設するには、封建国家や共和国になる必要があります。(決断を確認してください);;;;;;;;;;;;x
+enables_tribal_levy_laws;部族召集軍法が有効\n;;;;;;;;;;;;x
+disables_tribal_levy_laws;部族召集軍法が無効\n;;;;;;;;;;;;x
+enables_tribal_tax_laws;部族税法が有効\n;;;;;;;;;;;;x
+disables_tribal_tax_laws;部族税法が無効\n;;;;;;;;;;;;x
+CB_NAME_RIVALRY;抗争;;;;;;;;;;;;x
+rivalry_cb_desc;§Y$TARGET$§!は恨み重なる宿敵であり、牢獄に放り投げる以外に考えられません。;;;;;;;;;;;;x
+WAR_NAME_RIVALRY;$ORDER$$FIRST_ADJ$対$SECOND_ADJ$抗争戦争;;;;;;;;;;;;x
+AIREASON_TRIBUTARY_WAR_AGAINST_TRIBUTARY;私の属国に対する属国戦争;;;;;;;;;;;;x
+AIREASON_WAR_AGAINST_TRIBUTARY;私の属国に対する戦争;;;;;;;;;;;;x
+AIREASON_WAR_FROM_TRIBUTARY;Interests in my Tributary;;;;;;;;;;;;x
+AIREASON_ENEMY_IS_TRIBUTARY;敵は私の属国;;;;;;;;;;;;x
+NOT_USES_DECADENCE;Does NOT use Decadence;;;;;;;;;;;;x
+USES_DECADENCE;Use Decadence;;;;;;;;;;;;x
+EVTDESC_HL_5000;東からの旅人は、彼の護衛と共に貴方の宮廷を訪れた。彼は巻物を読み上げ、中国の偉大なる皇帝は貴方の領地から「天馬」を献上するように要求すると述べた。;;;;;;;;;;;;x
+EVTOPTA_HL_5000;これらが最高級で最強の馬です。;;;;;;;;;;;;x
+EVTOPTB_HL_5000;皇帝の権力などここでは何の意味も持たぬ！;;;;;;;;;;;;x
+EVTDESC_HL_5001;中国から来た別の特使が貴方の宮廷に到着した。彼は皇帝からの感謝の印として、私が派遣されたと言った。交易の管理に助けが必要なら彼は優れた管理者である。;;;;;;;;;;;;x
+EVTOPTA_HL_5001;彼に交易の管理を任せよう。;;;;;;;;;;;;x
+EVTOPTB_HL_5001;彼にできるのは馬小屋を滅茶苦茶にするくらいのものだろう。;;;;;;;;;;;;x
+EVTOPTC_HL_5001;丁重に申し出をお断りする。;;;;;;;;;;;;x
+EVTDESC_HL_5005;交易管理者として[chinese_envoy.GetBestName]を採用して以来、東からやって来る商人が増加していることに気付いた。;;;;;;;;;;;;x
+EVTOPTA_HL_5005;絹の流れを見てみよう。;;;;;;;;;;;;x
+EVTDESC_HL_5006;[chinese_envoy.GetBestName]は貴方のために貴重な宝石コレクションを手に入れた。;;;;;;;;;;;;x
+EVTOPTA_HL_5006;利益を得るために売ってしまおう。;;;;;;;;;;;;x
+EVTOPTB_HL_5006;これはペンダントにぴったりだ。;;;;;;;;;;;;x
+EVTOPTC_HL_5006;私の[Root.Spouse.GetHusbandWife]の為に幾つかイヤリングを作ろう。;;;;;;;;;;;;x
+EVTDESC_HL_5007;二人組の行商人が、貴方の敷地内を滞在中に商品が盗まれたと主張している。;;;;;;;;;;;;x
+EVTOPTA_HL_5007;謝罪し、弁償しよう。;;;;;;;;;;;;x
+EVTOPTB_HL_5007;それはそちらの過失だ。;;;;;;;;;;;;x
+EVTDESC_HL_5008;[chinese_envoy.GetFirstName]はとても興奮し騒ぎながら、大きな袋を部屋に引っ張って来た。[chinese_envoy.GetSheHeCap]は敷地内に貴重品が置かれているのを発見し、貴方と山分けしたいと思っている。;;;;;;;;;;;;x
+EVTOPTA_HL_5008;それはすごい偶然だなあ？;;;;;;;;;;;;x
+EVTOPTB_HL_5008;商人を見つけて、紛失した荷物を返そう。;;;;;;;;;;;;x
+EVTDESC_HL_5017;[From.GetBestName]は最近入手したペットのヘビを首に巻きつけて私の部屋に入ってきた。[From.GetSheHeCap]はこのペットを飼いたいか私に尋ねてきた。;;;;;;;;;;;;x
+EVTOPTA_HL_5017;噛み付いてこないとよいのだが。;;;;;;;;;;;;x
+EVTOPTB_HL_5017;ちょっと危険に思える。;;;;;;;;;;;;x
+EVTOPTC_HL_5017;ヘビを飼うことを禁ずる。;;;;;;;;;;;;x
+EVTDESC_HL_5011OTHER;貴方は外から叫び声を聞き、急いで外に出て行った結果、[From.GetFirstName]のヘビが[FromFrom.GetFirstName]の犬を丸呑みにしていた。;;;;;;;;;;;;x
+EVTOPTA_WOL_5011;それがこいつの生き方だ。;;;;;;;;;;;;x
+EVTOPTB_WOL_5011;被害が広がる前にこの獣を殺してしまえ！;;;;;;;;;;;;x
+EVTDESC_HL_5011SELF;貴方は外で吠える犬の鳴き声を聞き、急いで外に出て行った結果、[From.GetFirstName]の卑劣なヘビが私の愛犬を丸呑みにしていた。;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_FAITHFUL;Poor Faithful!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_HUNTER;Poor Hunter!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_TRICKY;Poor Tricky!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_LUCIFER;Poor Lucifer!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_SHAYTAN;Poor Shaytan!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_FENRIR;Poor Fenrir!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_ERLIK;Poor Erlik!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_VELNIAS;Poor Velnias!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_TUONI;Poor Tuoni!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_XOLOTL;Poor Xolotl!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_VELES;Poor Veles!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_GURUHI;Poor Guruhi!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_DARKNESS;Poor Darkness!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_AHRIMAN;Poor Ahriman!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_SATAN;Poor Satan!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_VINAYAKA;Poor Vinayaka!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_MARA;Poor Mara!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_PUNISHER;Poor Punisher!;;;;;;;;;;;;x
+EVTOPTD_WOL_5011;I'll have [FromFrom.GetHerHis] head for this!;;;;;;;;;;;;x
+EVTDESC_HL_5014;You are out taking a walk together with [FromFrom.GetFirstName] when [From.GetFirstName] approaches you with a concern. According to Chinese law [From.GetSheHe] is required to get a woman to continue his services more permanently.;;;;;;;;;;;;x
+EVTOPTA_HL_5014;Ahem.. We were just discussing that matter, [FromFrom.GetFirstName]. Right?;;;;;;;;;;;;x
+EVTOPTB_HL_5014;I guess I have no more need of your services then.;;;;;;;;;;;;x
+EVTDESC_HL_5016;Dust rise in your wake as you head for the local tavern with heavy steps. As you enter, you instantly notice [From.GetFirstName], seemingly involved in a game of chance. You approach [From.GetHerHim] and realize that [From.GetSheHe] is betting your money on games of chance... and losing. [From.GetFirstName] looks up at you with a smile and says: 'Hey. Your drinksch are taschty'.;;;;;;;;;;;;x
+EVTOPTA_HL_5016;Just stay away from these people.;;;;;;;;;;;;x
+EVTOPTB_HL_5016;この[From.GetManWoman]を捕らえよ。;;;;;;;;;;;;x
+EVTDESC_HL_5045;[Root.GetTitledFirstName],\n\nI hereby inform you that I'm leaving the position at your court because of the less than preferable way that you have treated me.\n\nSigned\n[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_HL_5045;That's too bad.;;;;;;;;;;;;x
+EVTDESC_HL_5048;[Root.GetTitledFirstName]\n\n貴殿の横柄を見過ごすことはできない。以後、貴殿の街を訪問した疑いがある旅人は全て処罰する。\n\n（署名）\n皇帝;;;;;;;;;;;;x
+EVTOPTA_HL_5048;これは貿易に悪い影響を与えるかもしれない。;;;;;;;;;;;;x
+EVTDESC_HL_5050;[Root.GetName]の自領内にいる略奪者によって、商人や旅人が被害を受けているという報告が届いた。;;;;;;;;;;;;x
+EVTOPTA_HL_5050;奴らが分け前を寄越すなら、見て見ぬふりしてやろう。;;;;;;;;;;;;x
+EVTOPTB_HL_5050;元帥に奴らを虜にさせよう。;;;;;;;;;;;;x
+EVTOPTC_HL_5050;馬引け。悪党を退治してくれん。;;;;;;;;;;;;x
+LOST_CONTROL_PROVINCE;§Y$PROVINCE$§Wの支配を失った;;;;;;;;;;;;x
+HAS_CONTROL_PROVINCE;§Y$PROVINCE$§Wの占領;;;;;;;;;;;;x
+NOMAD_TECH_POINTS;遊牧民は技術点を生産しません。;;;;;;;;;;;;x
+fort;砦;;;;;;;;;;;;x
+convert_fort_to_city;都市にアップグレード;;;;;;;;;;;;x
+convert_fort_to_castle;城砦にアップグレード;;;;;;;;;;;;x
+convert_fort_to_temple;教区にアップグレード;;;;;;;;;;;;x
+convert_fort_to_tribal;部族にアップグレード;;;;;;;;;;;;x
+HOLY_SITE_NO_SETTLEMENT;（定住していない）;;;;;;;;;;;;x
+CANNOT_BUILD;貴方の政体ではこれを建設することはできません。;;;;;;;;;;;;x
+b_argh;Argh;;;;;;;;;;;;x
+b_anthrachs;Anthrachs;;;;;;;;;;;;x
+b_dunkheger;ドゥンヘゲル;;;;;;;;;;;;x
+b_muztau;ミュズタウ;;;;;;;;;;;;x
+b_kyzyl;キジル;;;;;;;;;;;;x
+b_otuken;ウテュケン;;;;;;;;;;;;x
+b_erchis;イルティシュ;;;;;;;;;;;;x
+b_gorgol;Gorgol;;;;;;;;;;;;x
+b_khangai;ハンガイ;;;;;;;;;;;;x
+b_kara_khorum;カラコルム;;;;;;;;;;;;x
+b_baygal;バイカル;;;;;;;;;;;;x
+b_aj_bogd;アジュ・ボグド;;;;;;;;;;;;x
+b_ikh_bogd;イフ・ボグド;;;;;;;;;;;;x
+b_tsagaannuur;ツァガーンノール;;;;;;;;;;;;x
+b_yarkand;ヤルカンド;;;;;;;;;;;;x
+b_kashgar;カシュガル;;;;;;;;;;;;x
+b_aksu_mongolia;アクス;;;;;;;;;;;;x
+b_tumshuk;トゥムシュク;;;;;;;;;;;;x
+b_khotan;ホータン;;;;;;;;;;;;x
+b_keriya;ケリヤ;;;;;;;;;;;;x
+b_niya;ニヤ;;;;;;;;;;;;x
+b_cherchen;チャルチャン;;;;;;;;;;;;x
+b_charkliq;チャルクリク;;;;;;;;;;;;x
+b_miran;ミーラン;;;;;;;;;;;;x
+b_karashar;カラシャール;;;;;;;;;;;;x
+b_kucha;クチャ;;;;;;;;;;;;x
+b_kara_khoja;カラホージャ;;;;;;;;;;;;x
+b_luntai;輪台;;;;;;;;;;;;x
+b_dunhuang;敦煌;;;;;;;;;;;;x
+b_anxi;安西;;;;;;;;;;;;x
+b_kumul;クムル;;;;;;;;;;;;x
+b_gobi;ゴビ;;;;;;;;;;;;x
+d_trondelag;ニーダロス;;;;;;;;;;;;x
+c_trondelag;ニーダロス;;;;;;;;;;;;x
+c_trondelag_adj;ニーダロス;;;;;;;;;;;;x
+PROV275;ニーダロス;;;;;;;;;;;;x
+PROV1438;ヤルカンド;;;;;;;;;;;;x
+PROV1439;カシュガル;;;;;;;;;;;;x
+PROV1440;ホータン;;;;;;;;;;;;x
+PROV1441;チャルチャン;;;;;;;;;;;;x
+PROV1442;チャルクリク;;;;;;;;;;;;x
+PROV1443;カラシャール;;;;;;;;;;;;x
+PROV1444;クチャ;;;;;;;;;;;;x
+PROV1445;アクス;;;;;;;;;;;;x
+PROV1446;カラホージャ;;;;;;;;;;;;x
+PROV1447;楼蘭;;;;;;;;;;;;x
+PROV1448;敦煌;;;;;;;;;;;;x
+PROV1449;輪台;;;;;;;;;;;;x
+PROV1450;クムル;;;;;;;;;;;;x
+PROV1453;アジュ・ボグド;;;;;;;;;;;;x
+PROV1456;イフ・ボグド;;;;;;;;;;;;x
+PROV1457;カラコルム;;;;;;;;;;;;x
+PROV1458;ハンガイ;;;;;;;;;;;;x
+PROV1460;バイカル;;;;;;;;;;;;x
+PROV1461;ウテュケン;;;;;;;;;;;;x
+PROV1408;安西;;;;;;;;;;;;x
+empire_of_altaic;帝国;;;;;;;;;;;;x
+duke_sogdian;イフシード;;;;;;;;;;;;x
+create_title_interaction_TITLE;称号創設;;;;;;;;;;;;x
+destroy_title_interaction_TITLE;廃止;;;;;;;;;;;;x
+make_primary_title_interaction_TITLE;称号の主要化;;;;;;;;;;;;x
+make_primary_title_interaction_DESC;これが主要称号だと宣言できます。;;;;;;;;;;;;x
+EVTDESC8031;For too long, you have restricted our rights. The time has come to Lower Tribal Organization! With your regent, [Root.Regent.GetTitledName], among my supporters you have no other choice than to accept.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
+tribal_contract_0_option;小;;;;;;;;;;;;x
+tribal_contract_1_option;標準;;;;;;;;;;;;x
+tribal_contract_2_option;大;;;;;;;;;;;;x
+tribal_contract_3_option;最大;;;;;;;;;;;;x
+tribal_tax_0_option;なし;;;;;;;;;;;;x
+tribal_tax_1_option;小;;;;;;;;;;;;x
+tribal_tax_2_option;中;;;;;;;;;;;;x
+tribal_tax_3_option;大;;;;;;;;;;;;x
+TRIBAL_CANT_BUILD_HOLDINGS_DESC;空き地区は部族の軍隊を増加させます。適切な地区を建設するには、封建国家や共和国になる必要があります。(決断を確認してください);;;;;;;;;;;;x
+GREAT;すばらしい！;;;;;;;;;;;;x
+GLORY;栄光あれ！;;;;;;;;;;;;x
+alert_powerful_factions_name;危険な派閥;;;;;;;;;;;;x
+has_fewer_trade_post_than;§Y$NUM$§!未満の交易所を持っている;;;;;;;;;;;;x
+has_more_trade_post_than;§Y$NUM$§!以上の交易所を持っている;;;;;;;;;;;;x
+num_trade_post_diff_lower_than;§Y$FIRST$§!と§Y$SECOND$§!の交易所数の差が§Y$VAL$§!未満である;;;;;;;;;;;;x
+num_trade_post_diff_at_least;§Y$FIRST$§!と§Y$SECOND$§!の交易所数の差が§Y$VAL$§!以上である;;;;;;;;;;;;x

@@ -1,0 +1,102 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_CM_1181;[From.GetTitledFirstName]、[From.GetDynName]は摂政を彼女の[From.GetSonDaughter]代わりに引き継ぐことを決定しました。このことについて貴方が関与できることは無いようです…;;;;;;;;;;;;x
+EVTOPTA_CM_1181;左様ですか…;;;;;;;;;;;;x
+EVTOPTB_CM_1181;いや、私はそうは思わない！;;;;;;;;;;;;x
+EVTDESC_CM_1182;貴方の母[FromFrom.GetFirstName]は、自分が貴方[From.GetTitledFirstName]の代わりに摂政として統治するのが最良だと決定しました。;;;;;;;;;;;;x
+EVTOPTA_CM_1182;彼女に任せればよいだろう。;;;;;;;;;;;;x
+EVTOPTB_CM_1182;むむむ…[From.PrimaryTitle.GetTier]を本当に統治しているのは誰なのか？;;;;;;;;;;;;x
+EVTDESC_CM_1192;繰り返し語られる不快で詳しい噂は、貴方の母[Root.Mother.GetFirstName]が貴方[From.GetFirstName]の配偶者[From.GetHusbandWife]を貴方の知らざる処で誘惑し、肉体関係に及んだことを示しています…;;;;;;;;;;;;x
+EVTOPTA_CM_1192;何も無かった。;;;;;;;;;;;;x
+EVTOPTC_CM_1192;わかった。母を修道院へ押し込め。;;;;;;;;;;;;x
+EVTOPTB_CM_1192;ああ、[From.GetFirstName]を追放せよ！;;;;;;;;;;;;x
+EVTOPTD_CM_1192;双方を処罰せねば。;;;;;;;;;;;;x
+EVTOPTE_CM_1192;辛いところではあるが、投獄以外の選択肢はない。;;;;;;;;;;;;x
+EVTDESC_CM_1132;かつての主[Root.GetFirstNameWithNick]殿へ\n\n大変心苦しいのですが、私はフランク人の真なる統治者に忠誠を誓ったことを報告せねばなりません。私は貴方の主張に何ら得心することができず、より強い王に従うことにしました。\n\nフランクの帝国に栄光あらんことを、\n[From.GetBestName];;;;;;;;;;;;x
+EVTOPTA_CM_1132;何たることだ…;;;;;;;;;;;;x
+ERA_CHAR_INFO_74441;ソーメーシュヴァラ1世は1042年に西チャールキヤの王となり、その後カリヤニの町を創設し、それを首都とした。彼は非常に活発でエネルギッシュな支配者でしたが、なによりも彼の治世はヴェーンギー支配のライバルであったチョーラ朝の君主との戦いに注がれた。最終的に敵に対して勝利をすることができず、病に侵されていたソーメシューバラはトゥンガバドラー川へ身を投げ、人生の最後を飾った。;;;;;;;;;;;;x
+EVTDESC_CM_1401;[Root.Liege.GetTitledFirstName]に仕えるのにはもうほとほと疲れ果てたが、逆らうには[Root.Liege.GetSheHe]は強大すぎる。異国に同盟者を探す必要がありそうだ―近年その強大さを増す北のかたのフランク人たちなら[Root.Liege.GetOnlyDynastyName]家への愛もないだろうしちょうどいいだろう―別に奴らが助けてくれさえすればその後約束を守る必要なんてないさ…;;;;;;;;;;;;x
+EVTOPTA_CM_1401;使者を送ろう。;;;;;;;;;;;;x
+EVTOPTB_CM_1401;いや、リスクに見合わなさ過ぎる;;;;;;;;;;;;x
+EVTDESC_CM_1402;You have received a most unusual embassy from Spain. An emissary from [From.GetTitledNameWithNick] comes before you and speaks: 'My [From.GetLordLady] has come to request your assistance against the evil [From.Liege.GetTitledName]. [From.GetSheHeCap] asks for a pledge of your armed assistance in rebellion, and in return [From.GetSheHe] will swear fealty to you once the yoke of [From.Liege.GetOnlyDynastyName] oppression is off [From.GetHerHis] back.;;;;;;;;;;;;x
+EVTOPTA_CM_1402;結構。その旨、協約に署名せねば;;;;;;;;;;;;x
+EVTOPTB_CM_1402;申し訳ない。スペインの政治に興味はないのだ。;;;;;;;;;;;;x
+EVTDESC_CM_1403;使者はフランシアから悪い知らせを持ち帰ってきた。[Root.Liege.GetOnlyDynastyName]家への反乱への助力の要請は[From.GetTitledName]に断られたとのことだ。;;;;;;;;;;;;x
+EVTOPTA_CM_1403;我が希望は粉微塵に粉砕された。;;;;;;;;;;;;x
+EVTDESC_CM_1404;使者はフランシアから良い知らせを持ち帰ってきた。[From.GetTitledName]はこちらの頼みに応じ、[Root.Liege.GetOnlyDynastyName]家への反乱に力を貸そうと約束してくれたとのことだ。;;;;;;;;;;;;x
+EVTOPTA_CM_1404;さあ、次は戦争に備えねば…;;;;;;;;;;;;x
+EVTDESC_CM_1405;時は来たれり！[Root.GetOnlyDynastyName]軍は[Root.Liege.GetOnlyDynastyName]家を打倒すべく打って出るだろう。こちらにはフランク人の力がついている！;;;;;;;;;;;;x
+EVTOPTA_CM_1405;奴らを苦しませてやれ！;;;;;;;;;;;;x
+EVTDESC_CM_1406;[Root.GetLordLady]殿、スペインより[From.GetTitledName]が[target_liege.GetOnlyDynastyName]家に対し反乱を起こしたとの知らせが参りました。あの者との協約を尊重し、あの者を支援すべく我が軍を以て介入すべきです。 ;;;;;;;;;;;;x
+EVTOPTA_CM_1406;軍旗を掲げよ！前進だ！;;;;;;;;;;;;x
+EVTOPTB_CM_1406;考え直した。あの者に関してはあのまま放っておこう。どうなるかは神のみぞ知るところだ。;;;;;;;;;;;;x
+EVTDESC_CM_1408;[Root.GetLordLady]殿よ、我々はようやく[Root.Liege.GetOnlyDynastyName]家より独立を果たしました。手助けをしてくれたフランク人の領主はこちらが盟約を尊重し、忠誠を誓うと思っておるでしょう。どういたすおつもりですか？;;;;;;;;;;;;x
+EVTOPTA_CM_1408;約束は神聖なものだ。私もそれを尊重しよう。;;;;;;;;;;;;x
+EVTOPTB_CM_1408;[Root.Religion.GetRandomEvilGodName] take the Franks!;;;;;;;;;;;;x
+EVTDESC_CM_1409;My [Root.GetLordLady], the treacherous [From.GetTitledName] has gone back on [From.GetHerHis] word and refused to swear fealty to you, in spite of you so generously helping [From.GetHerHim] gain [From.GetHerHis] independence from the Umayyads!;;;;;;;;;;;;x
+EVTOPTA_CM_1409;Those treacherous [From.Culture.GetName]s!;;;;;;;;;;;;x
+EVTOPTB_CM_1409;Such treachery!;;;;;;;;;;;;x
+CALL_ALL_ALLIES;全ての同盟相手に参戦要請を送る;;;;;;;;;;;;x
+CALL_ALL_NO_WAR;戦争中ではないため、封臣や同盟国に参戦要請を送ることはできない;;;;;;;;;;;;x
+CALL_ALL_ALLIES_INFO;§GHold §YControl§G to Call all Allies to War§!;;;;;;;;;;;;x
+CharlemagneDLC;『Charlemagne』;;;;;;;;;;;;x
+EarlyWesternClothingDLC;『Early Western Clothing Pack』;;;;;;;;;;;;x
+EarlyEasternClothingDLC;『Early Eastern Clothing Pack』;;;;;;;;;;;;x
+DynastyShieldsCharlemagneDLC;『Dynasty Shields Charlemagne』;;;;;;;;;;;;x
+EVTDESC107000;見よ！これが1066年、我らの救世主の年として知られている世界だ。見ての通り世界は各エリア毎に区分けされており、王などの君主が支配しています。クルセイダーキングスⅡは彼らのような君主となり、策略と力の限りを尽くして楽しむゲームです。征服者となるもよし、平和を愛する一族の父となるもよし。しかし他の多くのキャラクター達はより多くの土地と国を求めているのです。\nクルセイダーキングスⅡはリアルタイムゲームです。このウィンドウを閉じたらスピード調節バーの所にあるボタンでポーズを解除してください。;;;;;;;;;;;;x
+EVTDESC107304;軍勢を艦隊に積み込むためには、所有するプロヴィンスに艦隊を移動させます。そして軍勢を同じプロヴィンスに移動し「選択したユニットを統合」ボタンでマージ、「兵士を搭載する」ボタンで艦隊に乗せることができます。あるいは沿岸海域にいる艦隊に軍勢を移動させてもよいです。なお大きな軍勢を輸送するにはより大きな艦隊が必要です。;;;;;;;;;;;;x
+EVTDESC107306;軍勢が敵のプロヴィンスに到着すると地区の包囲を始めます。完全に占領するにはプロヴィンスにあるすべての地区を占領する必要があります。包囲戦には時間がかかります。攻撃側には守備兵以上の兵力が必要です。攻撃側が防御側の数を上回れば上回るほど包囲は速く進みます。要塞レベルも包囲戦の進行速度に影響します。軍勢を選択するか包囲中のプロヴィンスをクリックすることで、包囲戦の進行状況を見ることができます。;;;;;;;;;;;;x
+CHRONICLE_GRAND_TOURNAMENT;[From.GetTitledFirstName]は国中の領主と騎士を招いて武芸大会を開催した。;;;;;;;;;;;;x
+CHRONICLE_FURUSIYYA;[From.GetTitledFirstName]は国中の偉大なる戦士達を尽く招待してフルシイヤを開催し、その武芸を競わせた。;;;;;;;;;;;;x
+EVTDESC_108000;Your [Root.GetChancellorName], [Root.job_chancellor.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;x
+EVTDESC_108001;Your [Root.GetTreasurerName], [Root.job_treasurer.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;x
+EVTDESC_108002;Your [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;x
+increase_plot_power;密偵頭は陰謀達成力を増加させる;;;;;;;;;;;;x
+EVTOPTB75003;密偵頭の[Root.job_spymaster.GetTitledFirstName]を策謀に向かわせよう！;;;;;;;;;;;;x
+increase_assassinate_chance;密偵頭は陰謀達成力を増加させる;;;;;;;;;;;;x
+MODIFIER_PLOT_POWER;陰謀達成力の増加;;;;;;;;;;;;x
+RETTYPE_CUL_BERBER;ベルベル騎兵;;;;;;;;;;;;x
+INTERACTION_REQUIRES_ACTOR_IS_INDEPENDENT;§Y[Actor.GetTitledFirstName]§!は独立勢力です;;;;;;;;;;;;x
+vice_royalty_baron_female;城代;;;;;;;;;;;;x
+vice_royalty_count_female;郡知事;;;;;;;;;;;;x
+vice_royalty_duke_female;属州総督;;;;;;;;;;;;x
+vice_royalty_king_female;大属州総督;;;;;;;;;;;;x
+vice_royalty_emperor_female;副帝;;;;;;;;;;;;x
+ERA_CHAR_INFO_1316;ハインリッヒは神聖ローマ帝国の皇帝ハインリッヒ3世の息子であり、父親と同じように幼い頃にドイツ王になった。12歳の頃、彼はケルン大司教の手で誘拐され、川へ脱出しようとしてあやうく溺死しそうになった。最終的にはこの政変は成功し、摂政である彼の母は引退する事になった。 大人になった後、彼はその広大な帝国内の多くの諸侯とのバランスをとるのに多くの時間を費やしたが、反抗的な諸侯と異教徒のスラブ人に対していくつかの戦いも繰り広げた。またハインリッヒは教皇グレゴリー7世と激しい論争をし、それは彼の破門につながった。これが帝国内の反乱となることを理解したハインリッヒは、カノッサで教皇の許しを待つ間、3日間吹雪の中で膝立ちをし続けるという屈辱を受けた（カノッサの屈辱）。;;;;;;;;;;;;x
+administration;支配体制;;;;;;;;;;;;x
+administration_desc;帝国は封建制度やローマ型の帝国統治によって支配することができます。しかしながら、後者は簡単に利用可能になるわけではなく、大幅な改革が必要となるかもしれません。;;;;;;;;;;;;x
+feudal_administration;封建制;;;;;;;;;;;;x
+feudal_administration_option;封建制;;;;;;;;;;;;x
+feudal_administration_desc;封建社会は各人が直接の主のみに忠誠を誓い、また直接の封臣にのみ命令を下せる、領主のよる階層社会です。中世世界で最も幅広く採用されていた制度であり、またこれは統治者は自分の封臣が強大化すればするほどその忠誠心にしか頼れなくなってくることを意味しています。;;;;;;;;;;;;x
+imperial_administration;帝制;;;;;;;;;;;;x
+imperial_administration_option;帝制;;;;;;;;;;;;x
+imperial_administration_desc;この統治制度はローマ帝国のそれに似ており、皇帝の名の下日々の業務を実行する長官と行政機構からなる階層社会です。恒久的に領地を持つ封臣が権力を握れないような権力構造が可能となります。;;;;;;;;;;;;x
+vice_royalty_duke_byzantine;ストラテゴス;;;;;;;;;;;;x
+vice_royalty_king_byzantine;総督府長官;;;;;;;;;;;;x
+vice_royalty_emperor_byzantine;大総督府長官;;;;;;;;;;;;x
+vice_royalty_duchy_of_byzantine;軍管区;;;;;;;;;;;;x
+vice_royalty_kingdom_of_byzantine;総督府;;;;;;;;;;;;x
+vice_royalty_empire_of_byzantine;大総督府;;;;;;;;;;;;x
+enables_centralization_1;公爵以上の低い集権化を有効にします。\n;;;;;;;;;;;;x
+enables_centralization_2;公爵以上の中程度の集権化を有効にします。\n;;;;;;;;;;;;x
+enables_centralization_3;公爵以上の高い集権化を有効にします。\n;;;;;;;;;;;;x
+enables_centralization_4;公爵以上の中央集権化を有効にします。\n;;;;;;;;;;;;x
+disables_centralization_1;低い集権化を無効にします。\n;;;;;;;;;;;;x
+disables_centralization_2;中程度の集権化を無効にします。\n;;;;;;;;;;;;x
+disables_centralization_3;高い集権化を無効にします。\n;;;;;;;;;;;;x
+disables_centralization_4;中央集権化を無効にします。\n;;;;;;;;;;;;x
+allows_change_government;封建制の採用を可能とします。\n商業共和国の設立を可能とします。\n;;;;;;;;;;;;x
+disallows_change_government;封建制の採用を禁止します。\n商業共和国の設立を禁止します。\n;;;;;;;;;;;;x
+CHRONICLE_FOUNDED_HRE;[Root.GetDynName]家は[GetDateText]、[Root.RelHead.GetBestName]より神聖ローマ帝国の冠を授けられ、これを以て西ローマ帝国が再興された。;;;;;;;;;;;;x
+EVTTITLE_CM_510;神聖ローマ帝国;;;;;;;;;;;;x
+EVTDESC_CM_510;476年の西ローマ帝国の崩壊以来、ビザンツ帝国の皇帝はカエサルの遺産ーローマ帝国ーに対する唯一の請求者であった。ギリシア世界とラテン世界の間には常に亀裂があった。とくに教会の問題ではそうであった。ローマの教皇は長い間独自の政策を立ててきており、ビザンツ帝国の覇権を認めることを拒否し、コンスタンティノープルの皇帝がキリスト教国にたいする正統な権威の主張を持つことを否定してきた。\n\n[From.GetDynName]は今や[From.RelHead.GetBestName]によって神聖ローマ帝国皇帝に戴冠し、帝国再建を唱え、西ローマ帝国を復活させた。これはおそらくヨーロッパの歴史に新しい時代が到来したことを意味しており、東西間の長年にわたる亀裂をさらに深めている。;;;;;;;;;;;;x
+EVTOPTA_CM_510;栄光あれ！;;;;;;;;;;;;x
+EVTOPTB_CM_510;確かに強大な帝国だ。;;;;;;;;;;;;x
+EVTOPTC_CM_510;妙な知らせだ…;;;;;;;;;;;;x
+EVTOPTD_CM_510;こんな玩具の皇帝なぞ一笑に付すところだ。;;;;;;;;;;;;x
+EVTTITLE_CM_1500;シャルルマーニュの戴冠式;;;;;;;;;;;;x
+EVTDESC_CM_1500;Having taken the reins of power without fear, defeated his enemies and ruled the Frankish realms successfully, [From.GetFirstNameWithNick] was finally crowned emperor on [GetDateText]. He stood still as a statue and cold as ice before the throne as the crown of [From.PrimaryTitle.GetName] was solemnly placed upon his head. True heir to his father Pepin, descendant of Karl the Hammer, leader of men and master of war, he was claiming his exalted place in history. He looked out across the gathered lords and priests, his eye fixed on something beyond this triumphant moment, something great, a new ambition...;;;;;;;;;;;;x
+CHRONICLE_AVOID_IMPRISON_WAR;[Root.GetTitledNameWithNick]は[From.GetTitledNameWithNick]の投獄より命からがら逃れ、反乱を起こさざるをえなくなった。;;;;;;;;;;;;x
+CHRONICLE_FAILED_IMPRISON_WAR;[Root.GetTitledNameWithNick]は[From.GetTitledNameWithNick]を投獄しようとしたが失敗し、反乱を起こされた。;;;;;;;;;;;;x
+CHRONICLE_INHERIT_MAJOR_TITLE;[Root.GetDynName]家は[FromFrom.GetDynName]家より[From.GetName]を相続した。.;;;;;;;;;;;;x
+RETTYPE_SKIR2;軽装散兵;;;;;;;;;;;;x

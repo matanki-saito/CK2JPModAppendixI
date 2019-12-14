@@ -1,0 +1,1760 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+haughty;傲然;;;;;;;;;;;;x
+affectionate;情愛;;;;;;;;;;;;x
+timid;弱気;;;;;;;;;;;;x
+rowdy;悪童;;;;;;;;;;;;x
+willful;我儘;;;;;;;;;;;;x
+brooding;陰気;;;;;;;;;;;;x
+indolent;堕落;;;;;;;;;;;;x
+playful;活発;;;;;;;;;;;;x
+conscientious;篤厚;;;;;;;;;;;;x
+fussy;神経質;;;;;;;;;;;;x
+curious;好奇心;;;;;;;;;;;;x
+idolizer;信仰者;;;;;;;;;;;;x
+no_objective_title;方針が未選択;;;;;;;;;;;;x
+focus_ch_pride;自尊心;;;;;;;;;;;;x
+focus_ch_pride_title;自尊心;;;;;;;;;;;;x
+focus_ch_pride_desc;[This.GetTitledFirstName]は将来の統治者として、評議員と貴族からの教育を受けます。この養育方針によって得られる一般的な特性は§Y傲然§!と§Y陰気§!です。;;;;;;;;;;;;x
+focus_ch_humility;謙虚;;;;;;;;;;;;x
+focus_ch_humility_title;謙虚;;;;;;;;;;;;x
+focus_ch_humility_desc;[This.GetTitledFirstName]は家令たちから奉仕と謙虚に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y弱気§!と§Y情愛§!です;;;;;;;;;;;;x
+focus_ch_duty;義務;;;;;;;;;;;;x
+focus_ch_duty_title;義務;;;;;;;;;;;;x
+focus_ch_duty_desc;[This.GetTitledFirstName]は近衛兵たちと郎党たちから義務と勤勉さに重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y篤厚§!です。;;;;;;;;;;;;x
+focus_ch_etiquette;礼儀作法;;;;;;;;;;;;x
+focus_ch_etiquette_title;礼儀作法;;;;;;;;;;;;x
+focus_ch_etiquette_desc;[This.GetTitledFirstName]は評議員と廷臣たちから礼儀作法に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y活発§!と§Y堕落§!です;;;;;;;;;;;;x
+focus_ch_thrift;倹約;;;;;;;;;;;;x
+focus_ch_thrift_title;倹約;;;;;;;;;;;;x
+focus_ch_thrift_desc;[This.GetTitledFirstName]は職人と商人たちから数学と発明に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y好奇心§!と§Y神経質§!です。;;;;;;;;;;;;x
+focus_ch_faith;信仰;;;;;;;;;;;;x
+focus_ch_faith_title;信仰;;;;;;;;;;;;x
+focus_ch_faith_desc;[This.GetTitledFirstName]は聖職者たちから§Y[This.Educator.Religion.GetName]§!の信仰と宗教的学識に重点を置いた教育を受けます。この養育方針によって得られる一般的な特性は§Y信仰者§!です。;;;;;;;;;;;;x
+focus_ch_struggle;闘争;;;;;;;;;;;;x
+focus_ch_struggle_title;闘争;;;;;;;;;;;;x
+focus_ch_struggle_desc;[This.GetTitledFirstName]は[This.GetHerHis]自身の嗜好はそのままに、あまり教育に縛り付けずに他人と自由に競争させます。この養育方針によって得られる一般的な特性は§Y悪童§!と§Y我儘§!です;;;;;;;;;;;;x
+focus_ch_heritage;伝統;;;;;;;;;;;;x
+focus_ch_heritage_title;伝統;;;;;;;;;;;;x
+focus_ch_heritage_desc;[This.GetTitledFirstName]は様々な廷臣たちや家族から§Y[This.Educator.Culture.GetName]§!文化と§Y[This.Educator.Religion.GetName]§!の信仰への教化に重点を置いた教育を受けます。この養育方針から得られる特定の特性はありません。;;;;;;;;;;;;x
+focus_ed_diplomacy;外交;;;;;;;;;;;;x
+focus_ed_diplomacy_title;外交教育;;;;;;;;;;;;x
+focus_ed_diplomacy_desc;[This.GetTitledFirstName]は[This.GetHerHis]の学習において外交と政治を重視します。\n§G情愛§!と§G好奇心§!を持つ子供の成長は一層促進されますが、§R我儘§!と§R神経質§!を持つ子供の成長を阻害することになるでしょう;;;;;;;;;;;;x
+focus_ed_martial;軍事;;;;;;;;;;;;x
+focus_ed_martial_title;軍事教育;;;;;;;;;;;;x
+focus_ed_martial_desc;[This.GetTitledFirstName]は[This.GetHerHis]の学習において軍事戦略と戦争を重視します。\n§G悪童§!と§G我儘§!を持つ子供の成長は一層促進されますが、§R弱気§!と§R信仰者§!を持つ子供の成長を阻害することになるでしょう。;;;;;;;;;;;;x
+focus_ed_stewardship;管理;;;;;;;;;;;;x
+focus_ed_stewardship_desc;[This.GetTitledFirstName]は[This.GetHerHis]の学習において会計と経営を重視します。\n§G陰気§!と§G篤厚§!を持つ子供の成長は一層促進されますが、§R堕落§!と§R傲然§!を持つ子供の成長を阻害することになるでしょう。;;;;;;;;;;;;x
+focus_ed_stewardship_title;管理教育;;;;;;;;;;;;x
+focus_ed_intrigue;策略;;;;;;;;;;;;x
+focus_ed_intrigue_title;策略教育;;;;;;;;;;;;x
+focus_ed_intrigue_desc;[This.GetTitledFirstName]は[This.GetHerHis]の学習において陰謀と計略を重視します。\n§G活発§!と§G神経質§!を持つ子供の成長は一層促進されますが、§R悪童§!と§R情愛§!を持つ子供の成長を阻害することになるでしょう。;;;;;;;;;;;;x
+focus_ed_learning;学識;;;;;;;;;;;;x
+focus_ed_learning_title;学識教育;;;;;;;;;;;;x
+focus_ed_learning_desc;[This.GetTitledFirstName]は[This.GetHerHis]の学習において哲学と宗教を重視します。\n§G弱気§!と§G信仰者§!を持つ子供の成長は一層促進されますが、§R陰気§!と§R活発§!を持つ子供の成長を阻害することになるでしょう。;;;;;;;;;;;;x
+INSULT_USELESS;役立たず;;;;;;;;;;;;x
+INSULT_SNEAK;卑怯者;;;;;;;;;;;;x
+silence_is_golden;沈黙は金なり;;;;;;;;;;;;x
+silence_is_golden_desc;この人物は賢明にも黙っていることを選びました;;;;;;;;;;;;x
+EVTDESCA_ZE_12000;[haughty_events_char_1.GetTitledFirstNameWithNick]が使用人の一人と廊下でキスをしているところに出くわした。;;;;;;;;;;;;x
+EVTOPTA_ZE_12000;不潔であると[haughty_events_char_1.GetHerHim]にいってやろう!!;;;;;;;;;;;;x
+EVTOPTB_ZE_12000;ぼくたちだけの秘密ってこと？;;;;;;;;;;;;x
+EVTDESCB_ZE_12000;庭を歩いていると、[haughty_events_char_1.GetTitledFirstName]が重い棒で犬を怒りながら叩いている姿を目撃した。;;;;;;;;;;;;x
+EVTDESCC_ZE_12000;外でお散歩してると、道で平民たちに会った。そのうちの一人が今日は素敵ですねといってきたよ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12000;そんな口をきくやつには罰をくれてやろう！;;;;;;;;;;;;x
+EVTOPTF_ZE_12000;うなづいて優雅におせじをうけいれよう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12000_TOOLTIP1;農民は怒る;;;;;;;;;;;;x
+EVTOPTE_ZE_12000_TOOLTIP2;農民は圧倒される;;;;;;;;;;;;x
+EVTOPTC_ZE_12000;自分で棒を取って[haughty_events_char_1.GetHerHim]をぶちのめそう！;;;;;;;;;;;;x
+EVTOPTD_ZE_12000;自分もいっしょにいいかな？;;;;;;;;;;;;x
+EVTDESCA_ZE_12002;ごちそうを独り占めして至福の時を過ごしていると、悪ガキの[From.GetFirstName]がやってきて、道徳的な説教をまくしたててきた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12002;ごちそうを独り占めして至福の時を過ごしていると、若い[From.GetFirstName]がやってきた。ところが、[From.GetSheHe]はいたずらっぽくウィンクしただけで去っていった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12002;悪ガキを取り押さえるぞ。[From.GetHerHim]には鞭打ちの罰だ!;;;;;;;;;;;;x
+EVTOPTB_ZE_12002;気にしない。;;;;;;;;;;;;x
+EVTDESCA_ZE_12004;[From.GetTitledFirstName]は私のたしなめに優しく取り合ってくれなかった。[From.GetSheHeCap]は私を捕まえると私をボコボコにのした。;;;;;;;;;;;;x
+EVTOPTA_ZE_12004;あの [GetRootFromInsult]め！みなに言いふらしてやろう!;;;;;;;;;;;;x
+EVTOPTB_ZE_12004;[From.GetSheHe]にまた見つけられないように隠れる。;;;;;;;;;;;;x
+EVTDESCA_ZE_12006;[GetRootFromInsult]の[From.GetFirstName]はぶたれたことへの子供っぽい仕返しで、皆に私についての嘘を言いふらして回っている。;;;;;;;;;;;;x
+EVTDESCB_ZE_12006;振り返るとその犬は私の足首に噛みつき、[From.GetFirstName]はなんとか逃げ出した。しかしそれ以来、私は憎しみとともに、あいつを視界から外すことにした。;;;;;;;;;;;;x
+EVTDESCC_ZE_12002;私が庭で狂犬病の犬を殴っていると、ちびの野良犬 [From.GetFirstName]が走ってきて、私を棒で叩き始めた。;;;;;;;;;;;;x
+EVTDESCD_ZE_12002;私が庭で猛犬を叩いていると、小さな[From.GetFirstName]が駆け寄ってきて一緒にたたき始めた。;;;;;;;;;;;;x
+EVTOPTD_ZE_12002;その[GetRootFromInsult]を紹介しよう！;;;;;;;;;;;;x
+EVTOPTE_ZE_12002;なんと弱々しく、なんと愛らしいのか。;;;;;;;;;;;;x
+EVTOPTF_ZE_12002;皆のための部屋がある。;;;;;;;;;;;;x
+EVTDESCB_ZE_12004;[From.GetHerHim]を叩くと[From.GetTitledFirstName]の怒りはこっちに向いたけど犬が[From.GetHerHim]の足首にかみついて何とか難を逃れられた。;;;;;;;;;;;;x
+EVTOPTC_ZE_12004;[From.GetSheHeCap]はきっと目の敵にしてくるぞ!!;;;;;;;;;;;;x
+EVTOPTD_ZE_12004;さて、おもちゃはどこかな…？;;;;;;;;;;;;x
+opinion_complicity;共謀;;;;;;;;;;;;x
+opinion_contempt;軽蔑;;;;;;;;;;;;x
+EVTDESCC_ZE_12004;その無作法な農民への扱いで不幸にも彼らを更に怒らせてしまうことになった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12004;その無作法な農民への扱いで農民たちは身の程をしっかりと思い知ることになった。;;;;;;;;;;;;x
+EVTOPTE_ZE_12004;We'll deal with them as they deserve.;;;;;;;;;;;;x
+EVTOPTF_ZE_12004;こういうことをどう扱えばいいかはわかっている。;;;;;;;;;;;;x
+EVTDESCA_ZE_13001;もう私は大人同然だし、みんな自分のためを思うなら私の言うことにもっと耳を傾けた方がいいぞ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13001;ルールなど弱い者の為のものだ。自分は自分の欲するところを知っている。;;;;;;;;;;;;x
+EVTDESCC_ZE_13001;自分には価値がある。誰も私のことを邪魔しないほうがいいぞ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13001;私は誰にも膝を屈しない。;;;;;;;;;;;;x
+EVTOPTB_ZE_13001;そして私はそれをどこで手に入れるか知っている。;;;;;;;;;;;;x
+EVTOPTC_ZE_13001;もし抗議しようならば、それを叩き潰すだろう。;;;;;;;;;;;;x
+EVTDESCA_ZE_13002;若き[From.GetFirstName]は強い自信に満ち溢れた行動を取り始めている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13002;若き[From.GetFirstName]は独善的になってきている。最近は特にそうだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13002;若き[From.GetFirstName]は他人に対して狭量な残虐性を見せるようになってきている。;;;;;;;;;;;;x
+EVTOPTA_ZE_13002;[From.GetSheHeCap]はもっと野心を持つべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13002;結構だ、競争的であるのは私の望むところではない。;;;;;;;;;;;;x
+haughty_may_become_ambitious;[From.GetFirstName]が野心的になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13004;[From.GetTitledFirstName]にともすれば高慢になってしまう自分の傾向を注意され、もっと野心を見せなさいと説教された。;;;;;;;;;;;;x
+EVTDESCB_ZE_13004;[From.GetTitledFirstName]にともすれば気まぐれになってしまう自分の傾向を注意され、もっと野心を見せなさいと説教された。;;;;;;;;;;;;x
+EVTDESCC_ZE_13004;[From.GetTitledFirstName]にともすれば残虐的になってしまう自分の傾向を注意され、もっと野心を見せなさいと説教された。;;;;;;;;;;;;x
+EVTOPTA_ZE_13004;[From.GetSheHeCap]が正しい。私は偉人となる運命なのだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13004;[From.GetSheHeCap]が私のやることに口を出す権利はない！;;;;;;;;;;;;x
+EVTOPTC_ZE_13004;はい、[From.GetTitledFirstName]。;;;;;;;;;;;;x
+EVTOPTD_ZE_13004;私が[From.GetHerHis]食べ物に毒を入れなければ[From.GetSheHeCap]は幸運だろう。;;;;;;;;;;;;x
+EVTDESCA_ZE_13011;他人を喜ばせることが自分の喜びだと気付いた。;;;;;;;;;;;;x
+EVTDESCB_ZE_13011;野心を追い求め不要な争いを起こすものもいるが、自分は他人とうまくやっていきたい。;;;;;;;;;;;;x
+EVTDESCC_ZE_13011;殆どの人は親切であり、他人への不信感や疑いを持って生きていてもなんのメリットもないと学んだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13011;親切さは我々みんなをつなぐ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13011;正しく必要なことだけ備えよう。;;;;;;;;;;;;x
+EVTOPTC_ZE_13011;私に害を加えようとする者などいるのか？;;;;;;;;;;;;x
+EVTDESCA_ZE_13012;若き[From.GetFirstName]は他人に対して親切な気質に育った。;;;;;;;;;;;;x
+EVTDESCB_ZE_13012;若き[From.GetFirstName]はすぐに満足し、明らかに野心というものがない;;;;;;;;;;;;x
+EVTDESCC_ZE_13012;若き[From.GetFirstName]は他人の悪意に無自覚で、誰でもすぐに信頼してしまう。;;;;;;;;;;;;x
+EVTOPTA_ZE_13012;[From.GetSheHeCap]はもっと慈善的でならなければならない。;;;;;;;;;;;;x
+EVTOPTB_ZE_13012;[From.GetSheHeCap]は[From.GetHerselfHimself]の思うがままであるべきだ。;;;;;;;;;;;;x
+affectionate_may_become_charitable;[From.GetFirstName]が慈善的になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13014;[From.GetTitledFirstName]は[From.GetSheHe]が君の親切な気質を褒めてくれていたよと言っていたが、私はこれでも足りないような気がしている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13014;[From.GetTitledFirstName]に[From.GetSheHe]が君は何事にも受身過ぎると気にしていたと言われ、もっと困っている人を助けようと思った。;;;;;;;;;;;;x
+EVTDESCC_ZE_13014;[From.GetTitledFirstName]にあまり内気にならずにもっと努めて実際に他人を助けてほしいと思われている。;;;;;;;;;;;;x
+EVTOPTA_ZE_13014;[From.GetSheHeCap]の言うとおりです。頑張ります。;;;;;;;;;;;;x
+EVTOPTB_ZE_13014;やってみます。;;;;;;;;;;;;x
+EVTOPTC_ZE_13014;出来る限りやってみますけど、そんな場面って実際そんなにありますかね？;;;;;;;;;;;;x
+EVTOPTD_ZE_13014;But the [Root.TopLiege.GetTitle] provides for all, surely?;;;;;;;;;;;;x
+EVTDESCA_ZE_13021;成長するにつれて、謙虚さが自然に身についてきた気がする。;;;;;;;;;;;;x
+EVTDESCB_ZE_13021;いつも黙って黙って他人の話を聞いている時の方が心地よくなってきた気がする;;;;;;;;;;;;x
+EVTDESCC_ZE_13021;人生について様々な教訓を得てきた今、基本的に危険からは可能な限り身を遠ざけるのが賢明だということに気付いた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13021;高慢になる危険は避けるべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13021;煩くなる必要はない;;;;;;;;;;;;x
+EVTOPTC_ZE_13021;避けるべき危険は愚かしさのみだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_13022;[From.GetFirstName]は自然体で謙虚な物腰ができるようになっている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13022;[From.GetFirstName]が他者との関係を持つことを避ける傾向が見られる。;;;;;;;;;;;;x
+EVTDESCC_ZE_13022;[From.GetFirstName]はあらゆるリスクを常に回避けようとしている;;;;;;;;;;;;x
+EVTOPTA_ZE_13022;[From.GetSheHeCap]はそんなに懸命に試みるべきではない。;;;;;;;;;;;;x
+EVTOPTB_ZE_13022;本来あるべき姿のままに。;;;;;;;;;;;;x
+timid_may_become_content;[From.GetFirstName]が満足になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13024;[From.GetTitledFirstName]に謙虚になるために努力するのはやめ、代わりに公正になれるよう努力すべきだと言われた;;;;;;;;;;;;x
+EVTDESCB_ZE_13024;[From.GetTitledFirstName]に君は内気過ぎる、もっと気楽にあるがままで人に交わりなさいと言われた。;;;;;;;;;;;;x
+EVTDESCC_ZE_13024;[From.GetTitledFirstName]に君は心配性過ぎる、もっと気楽にあるがままでいなさいと言われた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13024;[From.GetSheHeCap]の言うとおりです。頑張ります。;;;;;;;;;;;;x
+EVTOPTB_ZE_13024;いやです。これが私なんです。;;;;;;;;;;;;x
+EVTOPTC_ZE_13024;誰にも指図されず、ありのままでいたいのだ。;;;;;;;;;;;;x
+EVTOPTD_ZE_13024;慎重であることになんの問題もないでしょう;;;;;;;;;;;;x
+EVTDESCA_ZE_13031;木登りしたり喧嘩したり走ったりするのがすきだ―そして成長するにつれ、そもそも自分が他人より肉体的に強健であることに気づき始めた。;;;;;;;;;;;;x
+EVTDESCB_ZE_13031;元気に遊び言いたいことを言うのが好き!つまらないことに時間なんて使いたくないよ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13031;外で遊んで膝を擦りむき、数秒の迷いが命取りだと思った。;;;;;;;;;;;;x
+EVTOPTA_ZE_13031;強くなるのは気持ちがいい！;;;;;;;;;;;;x
+EVTOPTB_ZE_13031;いつも心のなかで思っていることを素直に話すようにしよう;;;;;;;;;;;;x
+EVTOPTC_ZE_13031;いや、結局考えられることも私の強みだ！;;;;;;;;;;;;x
+EVTDESCA_ZE_13032;[From.GetFirstName]は体を使ったゲームが好きで、強い体に育っている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13032;[From.GetFirstName]元気よく遊び、はっきり物をいう。;;;;;;;;;;;;x
+EVTDESCC_ZE_13032;若き[From.GetFirstName]は考えるより行動の人になりつつあります。まあ、これが一番やさしい言い方でしょう…;;;;;;;;;;;;x
+EVTOPTA_ZE_13032;[From.GetHerHim]は勇敢さを重視して教育すべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13032;[From.GetSheHeCap]は[From.GetHerHis]自身のことをすべきだ。;;;;;;;;;;;;x
+rowdy_may_become_brave;[From.GetFirstName]が勇敢になる機会。;;;;;;;;;;;;x
+EVTDESCA_ZE_13034;[From.GetTitledFirstName]に強健に育っているなと言われ、だがもっと勇敢になるべきだと励まされた。;;;;;;;;;;;;x
+EVTDESCB_ZE_13034;[From.GetTitledFirstName]に親切な生き方を賞賛されたが、もっと勇敢になるべきだと励まされた。;;;;;;;;;;;;x
+EVTDESCC_ZE_13034;[From.GetTitledFirstName]にもっと考えて行動すべきだと叱られたが、勇気と強健さを捨ててはならないと言われた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13034;はい、私は[From.GetHerHim]みたいに勇敢な人になりたいです！;;;;;;;;;;;;x
+EVTOPTB_ZE_13034;強ければ自分はそれでいい。;;;;;;;;;;;;x
+EVTOPTC_ZE_13034;正直にいって、気にしていない;;;;;;;;;;;;x
+EVTOPTD_ZE_13034;そもそも何を言っているのかよくわかりません。;;;;;;;;;;;;x
+EVTDESCA_ZE_13041;偉大なる歴史上の偉人[Root.GetMenWomen]のことについて読み、いつか自分もそうなりたいものだと思った。;;;;;;;;;;;;x
+EVTDESCB_ZE_13041;何でもできるし恐れることなんて何にもないんだよね。;;;;;;;;;;;;x
+EVTDESCC_ZE_13041;何かに全力で打ち込むことで得られるものがあるということを学んだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13041;将来は偉人となろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_13041;恐れるべきことがあるかって？いやないね。;;;;;;;;;;;;x
+EVTOPTC_ZE_13041;生まれたときからがんこなんだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_13042;[From.GetFirstName]は若く野心ある[From.GetManWoman]に育ちました。;;;;;;;;;;;;x
+EVTDESCB_ZE_13042;若き[From.GetFirstName]はさらに[From.GetHerHis]の勇敢さを以て知られるようになった。;;;;;;;;;;;;x
+EVTDESCC_ZE_13042;[From.GetFirstName]は頑固気味の人間になっています。;;;;;;;;;;;;x
+EVTOPTA_ZE_13042;私はもっと勇敢になるよう[From.GetHerHim]に教えなければならない。;;;;;;;;;;;;x
+EVTOPTB_ZE_13042;どちらにせよ[From.GetSheHeCap]は私のようには絶対に成れないよ。;;;;;;;;;;;;x
+willful_may_become_proud;[From.GetFirstName]が高慢になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13044;[From.GetTitledFirstName]に野心的なのはいいことだと言われたが、[From.GetSheHe]の思うに自分はもっと今の自分に誇りを持つべきだとも言われた。;;;;;;;;;;;;x
+EVTDESCB_ZE_13044;[From.GetTitledFirstName]に勇敢さを褒められたが、もっと自分の成し遂げたことに誇りを持つべきだと思うとも言われた。;;;;;;;;;;;;x
+EVTDESCC_ZE_13044;[From.GetTitledFirstName] に今の自分に誇りを持つべきだが、頑固になってはいけないと思うと言われた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13044;[From.GetSheHeCap]が正しい。もっと誇り高い人間になろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_13044;ですが、私にはまだ足りないものがあります！;;;;;;;;;;;;x
+EVTOPTC_ZE_13044;I have nothing yet, but [Root.GetSheHe] who dares wins!;;;;;;;;;;;;x
+EVTOPTD_ZE_13044;自分のことは自分で決めます、どうも。;;;;;;;;;;;;x
+EVTDESCA_ZE_13051;考えれば考えるほど公正と正義は努力して得る価値のあるものだという気がしてきた。;;;;;;;;;;;;x
+EVTDESCB_ZE_13051;この世界はイライラするものでいっぱいだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13051;考えれば考えるほど自分が間違って拒否したものがどれだけあるのかという気がしてきた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13051;これこそ私を野の獣から分かつものだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13051;自分には時々耐えられなくなる！;;;;;;;;;;;;x
+EVTOPTC_ZE_13051;みんな私のものだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_13052;若き[From.GetFirstName]は正義と公正について、そして世界に満ちたたくさんの間違ったことを正すことについて考えているようです。;;;;;;;;;;;;x
+EVTDESCB_ZE_13052;若き[From.GetFirstName]がいつも怒りっぽいことに気付いた。;;;;;;;;;;;;x
+EVTDESCC_ZE_13052;若き[From.GetFirstName]はあらゆるもの、人を妬んでいるようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13052;[From.GetSheHeCap]は節制を学ぶべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13052;口を出すことは差し控えるべきだ;;;;;;;;;;;;x
+brooding_may_become_temperate;[From.GetFirstName]が節制になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13054;[From.GetTitledFirstName]は私が頻繁に他人の悪口をいうことに懸念を抱いている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13054;[From.GetTitledFirstName]は私がもっともっとうまく自分の怒りの感情をコントロールできればと考えている。;;;;;;;;;;;;x
+EVTDESCC_ZE_13054;[From.GetTitledFirstName]は私がもっと自分の妬みについて向き合うべきだと考えている。;;;;;;;;;;;;x
+EVTOPTA_ZE_13054;[From.GetSheHeCap]は正しい、少し冷静になろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_13054;気にしないなんて間違っている!!;;;;;;;;;;;;x
+EVTOPTC_ZE_13054;[GetRootFromInsult]の考えなんて気にしないぞ!!;;;;;;;;;;;;x
+EVTOPTD_ZE_13054;[From.GetHerHim]の話す内容は簡単だ!!;;;;;;;;;;;;x
+EVTDESCA_ZE_13061;自分には多くは必要ない―他人にも分けてあげよう。;;;;;;;;;;;;x
+EVTDESCB_ZE_13061;世界にはエネルギーを注力する価値の無いものがありすぎる。;;;;;;;;;;;;x
+EVTDESCC_ZE_13061;何時間も食事に費やすことが最上の喜びだと分かった。;;;;;;;;;;;;x
+EVTOPTA_ZE_13061;It's not worth the effort accumulating things anyway.;;;;;;;;;;;;x
+EVTOPTB_ZE_13061;It's true of almost everyhing, really.;;;;;;;;;;;;x
+EVTOPTC_ZE_13061;It is truly the ultimate good in life.;;;;;;;;;;;;x
+EVTDESCA_ZE_13062;[From.GetFirstName]はいつも喜んで何かを共有しているようだ;;;;;;;;;;;;x
+EVTDESCB_ZE_13062;[From.GetFirstName]はますます堕落した兆候を見せ始めている。;;;;;;;;;;;;x
+EVTDESCC_ZE_13062;[From.GetFirstName]はいつも誰よりも長く、食べ続けている。;;;;;;;;;;;;x
+EVTOPTA_ZE_13062;[From.GetSheHeCap]はもっと外に出て人と話すべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13062;あぁ、若者はありなままに生きるべきだろう!!;;;;;;;;;;;;x
+indolent_may_become_gregarious;[From.GetFirstName]が社交的になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13064;[From.GetTitledFirstName]曰く、私はもっと他人と話し、自分の物を惜しみなく与えるべきだそうだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13064;[From.GetTitledFirstName]の思うに私はもっと外に出て人と話すべきだそうだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13064;[From.GetTitledFirstName]は私が食べてばかりで、たまには会話のために手を止めるべきだと考えているようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13064;それもそうだ、そうしよう！;;;;;;;;;;;;x
+EVTOPTB_ZE_13064;むしろ自分の物を他人に与えよう。;;;;;;;;;;;;x
+EVTOPTC_ZE_13064;どうして、わざわざ？;;;;;;;;;;;;x
+EVTOPTD_ZE_13064;口の中に食べ物を含んだ状態でしゃべりたくない。;;;;;;;;;;;;x
+EVTDESCA_ZE_13071;人と遊ぶことは大好きだし、今もそう思っている!!;;;;;;;;;;;;x
+EVTDESCB_ZE_13071;楽しいことは好きなんだけど、一番面白いことは自分のためになるよう人を騙すことなんだよね。;;;;;;;;;;;;x
+EVTDESCC_ZE_13071;ゲームやいたずらは大好きだ!大人になんてなりたくないなぁ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13071;皆私のことが好きみたいだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13071;陰で人を操ろう。;;;;;;;;;;;;x
+EVTOPTC_ZE_13071;世界は妖精の粉でできている！;;;;;;;;;;;;x
+EVTDESCA_ZE_13072;[From.GetFirstName]は美形で、話術に長けているようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13072;[From.GetFirstName]は巧みに態度を変え人を欺くようになった。;;;;;;;;;;;;x
+EVTDESCC_ZE_13072;[From.GetFirstName]はありふれた日常の出来事にいつも不安定でおかしな反応をするようになった。この子はなにかおかしい…;;;;;;;;;;;;x
+EVTOPTA_ZE_13072;[From.GetHerHim]の根性を叩き直すべきだ!;;;;;;;;;;;;x
+EVTOPTB_ZE_13072;[From.GetSheHe]の好きにやらせようと思う。;;;;;;;;;;;;x
+playful_may_become_cruel;[From.GetFirstName]が残酷になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13074;[From.GetTitledFirstName]は私のあけっぴろげでお喋りな性格をよしとせず、力ずくで私を矯正することにしたようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13074;[From.GetTitledFirstName]は私の賢しく狡猾な性格をよしとせず、力ずくで私を矯正することにしたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13074;[From.GetTitledFirstName]は私がおかしくなっていると考え、力ずくで私を矯正することにしたようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13074;One day I'll do the same unto others.;;;;;;;;;;;;x
+EVTOPTB_ZE_13074;[From.GetHerHis]の残酷さを皆に言いふらそう！;;;;;;;;;;;;x
+EVTOPTC_ZE_13074;[From.GetHerHim]には上手く行っていると思わせておこう。;;;;;;;;;;;;x
+EVTOPTD_ZE_13074;But I was invisible the whole time.;;;;;;;;;;;;x
+EVTDESCA_ZE_13081;雑用をきちんと終える時はいつも一人だった。他の人の雑用をこなす際もね。;;;;;;;;;;;;x
+EVTDESCB_ZE_13081;物事を正しく行うのは大切なことだ。無論、やりすぎないことも大切だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13081;何か成し遂げるのが好きだよ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13081;自律は偉人になるための第一歩だ。;;;;;;;;;;;;x
+EVTDESCA_ZE_13082;[From.GetFirstName]は物事を成し遂げるためのやる気と意思に満ちている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13082;若き[From.GetFirstName]の分別の良さと自制心は皆に印象付けられた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13082;[From.GetSheHeCap]はその力を良きことに使うべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13082;[From.GetHerHim]にとって人生は実りあるものとなるだろう。;;;;;;;;;;;;x
+conscientious_may_become_just;[From.GetFirstName]が公正になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13084;[From.GetTitledFirstName]の思うに、私は自分の相当なエネルギーを大いなる正義に投じるべきだそうだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13084;[From.GetTitledFirstName]は私の節制と知恵を褒め、それを大いなる正義のために使ってくれれば嬉しいと述べた。;;;;;;;;;;;;x
+EVTOPTA_ZE_13084;賢明なる助言だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13084;自分のしたいことはもう分かっている。;;;;;;;;;;;;x
+EVTOPTC_ZE_13084;信仰に過度に入れ込むのは賢明ではない。;;;;;;;;;;;;x
+EVTDESCA_ZE_13091;私は物事が正しくまわっていることに心地よいものを感じ、そのために時間を費やすなら喜んでしようと考えている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13091;自分の所有物、特にお金を眺め、その数を数えることが大好きだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_13091;物事がどのようになされるべきかは分かっているが、いつも他人が私の努力をふいにしようとしているのではないかと不安でならない。;;;;;;;;;;;;x
+EVTOPTA_ZE_13091;不必要に物事を急ぐべきではない。;;;;;;;;;;;;x
+EVTOPTB_ZE_13091;They are so shiny.;;;;;;;;;;;;x
+EVTOPTC_ZE_13091;彼らの羨望を警戒せねば;;;;;;;;;;;;x
+EVTDESCA_ZE_13092;若き[From.GetFirstName]は物の整理が大好きで、何時間でも辛抱強く整理をしている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13092;若き[From.GetFirstName]は物、特に硬貨を並べて数えるのが大好きと見える。;;;;;;;;;;;;x
+EVTDESCC_ZE_13092;年のいかない[From.GetFirstName]は、[From.GetHerHis]のやり方をもっとも好み、被害者意識を持ち、さらに他の人が意見を述べると怒る。;;;;;;;;;;;;x
+EVTOPTA_ZE_13092;私は[From.GetHerHim]を正しい方向に導く手助けをするべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13092;[From.GetSheHeCap]には私と同じように勤勉なる魂が宿っている。;;;;;;;;;;;;x
+fussy_may_become_diligent;[From.GetFirstName]が勤勉になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13094;[From.GetTitledFirstName] approves of my patient diligence but thinks I should be even more focused on the results of my efforts.;;;;;;;;;;;;x
+EVTDESCB_ZE_13094;[From.GetTitledFirstName] approves of my active mind but thinks I spend too much time thinking about gold and silver.;;;;;;;;;;;;x
+EVTDESCC_ZE_13094;[From.GetTitledFirstName] says it's good that I have my own strong ideas, but [From.GetSheHe] wants me to focus more on the results of my actions than on worrying about the envy of others.;;;;;;;;;;;;x
+EVTOPTA_ZE_13094;I should be more like [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTB_ZE_13094;Now, don't be hasty, [From.GetLordLady] [From.GetFirstName].;;;;;;;;;;;;x
+EVTOPTC_ZE_13094;But gold is so pretty!;;;;;;;;;;;;x
+EVTOPTD_ZE_13094;But they hate me!;;;;;;;;;;;;x
+EVTDESCA_ZE_13101;物事について考えると、世界がすべて司祭たちの言うとおりというわけではないという結論に達した。;;;;;;;;;;;;x
+EVTDESCB_ZE_13101;There are people I know that follow different traditions than those of the [Root.Religion.GetName] faith. I have spoken to them and asked them about it, and now it doesn't seem so strange to me.;;;;;;;;;;;;x
+EVTDESCC_ZE_13101;私は物事の仕組みへの探求や思索に多くの時間を費やしている。;;;;;;;;;;;;x
+EVTOPTA_ZE_13101;みんな嘘つきだ!;;;;;;;;;;;;x
+EVTOPTB_ZE_13101;We are all the same, I guess.;;;;;;;;;;;;x
+EVTOPTC_ZE_13101;学ぶということはすばらしい!!;;;;;;;;;;;;x
+EVTDESCA_ZE_13102;幼い[From.GetFirstName]は自立した考えを持っているようで、聖職者たちの話を聞くことを拒否している。;;;;;;;;;;;;x
+EVTDESCB_ZE_13102;Young [From.GetFirstName] seems to be taking a curious interest in other traditions than the [From.Religion.GetName] ones.;;;;;;;;;;;;x
+EVTDESCC_ZE_13102;[From.GetFirstName]は[From.GetHerHim]の興味がある新しい考えや課題に対する姿勢は、本物の探求家や実験やのように見える。;;;;;;;;;;;;x
+EVTOPTA_ZE_13102;私はこの傾向を止めようと試みるべきだ…;;;;;;;;;;;;x
+curious_may_become_patient;[From.GetFirstName]が忍耐強くなる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;;x
+EVTDESCB_ZE_13104;I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.;;;;;;;;;;;;x
+EVTDESCC_ZE_13104;[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.;;;;;;;;;;;;x
+EVTOPTA_ZE_13104;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;;x
+EVTOPTB_ZE_13104;But they are fools!;;;;;;;;;;;;x
+EVTOPTC_ZE_13104;Is [From.GetSheHe] not interested in the world at all?;;;;;;;;;;;;x
+EVTOPTD_ZE_13104;Too clever for [From.GetHerHim], maybe.;;;;;;;;;;;;x
+EVTDESCA_ZE_13111;成長するにつれて、信仰が真の強さの源であることをますます感じている。;;;;;;;;;;;;x
+EVTDESCB_ZE_13111;昔の賢い[Root.GetMenWomen]の言葉を聞く程、彼らのようになりたいと思う。;;;;;;;;;;;;x
+EVTDESCC_ZE_13111;他人の功績を称賛することは大きな喜びを与えてくれます。特に私自身がとても弱いものですから。;;;;;;;;;;;;x
+EVTOPTA_ZE_13111;[Root.Religion.GetRandomGodName]を讃えよ！;;;;;;;;;;;;x
+EVTOPTB_ZE_13111;知識からこそ真の強さが得られるのだ。;;;;;;;;;;;;x
+EVTOPTC_ZE_13111;彼らは私に畏敬の念を抱かせた。;;;;;;;;;;;;x
+EVTDESCA_ZE_13112;[From.GetFirstName]は宗教に強く関心を抱いているようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13112;若き[From.GetFirstName]はよく古の賢者達への敬意を口にし、[From.GetSheHe]もそうありたいのだと言っている。;;;;;;;;;;;;x
+EVTDESCC_ZE_13112;若い[From.GetFirstName]は運動や体を鍛えることをしないで、周りの人間の行為をすぐに褒めたがります。;;;;;;;;;;;;x
+EVTOPTA_ZE_13112;そうではなく[From.GetSheHeCap]は他人を助けることを重視すべきだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13112;なんて素敵な子だ!!;;;;;;;;;;;;x
+idolizer_may_become_kind;[From.GetFirstName]は親切になる機会;;;;;;;;;;;;x
+EVTDESCA_ZE_13114;[From.GetTitledFirstName] seems to think that I should replace my reverence for [Root.Religion.GetRandomGodName] with love for my fellow man.;;;;;;;;;;;;x
+EVTDESCB_ZE_13114;I worship the memory of the wise [From.GetMenWomen] of old, but [From.GetTitledFirstName] thinks that I should focus on loving the living around me instead.;;;;;;;;;;;;x
+EVTDESCC_ZE_13114;I easily adore the virtues of others, but [From.GetTitledFirstName] thinks I'm too passive and should should focus more on helping people, lest I grow weak.;;;;;;;;;;;;x
+EVTOPTA_ZE_13114;[From.GetSheHeCap]が正しい。;;;;;;;;;;;;x
+EVTOPTB_ZE_13114;No, [Root.Religion.GetRandomGodName] is the greatest!;;;;;;;;;;;;x
+EVTOPTC_ZE_13114;I shall love them when they have something interesting to say.;;;;;;;;;;;;x
+EVTOPTD_ZE_13114;大丈夫だ;;;;;;;;;;;;x
+EVTDESCA_ZE_14100;外交に重点を置いた教育を終えた。教わった内容はどちらかと言わずとも退屈なものだった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14100;外交に重点を置いた教育を終えた。これは魅力的なテーマだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14100;外交に重点を置いた教育を終えた。これに関しては自分にも才能があるようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_14100;外交に重点を置いた教育を終えた。これこそ自分の天職だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14100;正直者は報われる;;;;;;;;;;;;x
+EVTOPTB_ZE_14100;敵を憎んではならない。敵を憎むと判断が曇る。;;;;;;;;;;;;x
+EVTOPTC_ZE_14100;力があっても他人に見せびらかしたりしてはいけない;;;;;;;;;;;;x
+EVTOPTD_ZE_14100;約束を守る最上の方法は、決して約束しないことだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14110;[From.GetFirstName]は外交に重点を置いた教育を終えた。[From.GetHerHis]への教育の成果はどうも期待はずれのものだったようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_14110;[From.GetFirstName]は[From.GetHerHis]自身の外交に重点を置いた教育を終えた。[From.GetSheHe]は必要な基礎をすべて身に付けたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14110;[From.GetFirstName]は[From.GetHerHis]自身の外交に重点を置いた教育を終えた。[From.GetSheHe]はその学習の中で[From.GetHerHis]自身の際立った才能を発揮した。;;;;;;;;;;;;x
+EVTDESCD_ZE_14110;[From.GetFirstName]は[From.GetHerHis]自身の外交に重点を置いた教育を終えた。卓越したレベルの知識を獲得した[From.GetSheHe]に私も鼻高々だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14110;ふむ、仕方がない;;;;;;;;;;;;x
+EVTOPTB_ZE_14110;すばらしい;;;;;;;;;;;;x
+EVTOPTC_ZE_14110;これは喜ばしいことだ;;;;;;;;;;;;x
+EVTDESCA_ZE_14200;軍事に重点を置いた教育を終えた。教わった内容はどちらかと言わずとも退屈なものだった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14200;軍事に重点を置いた教育を終えた。これは魅力的なテーマだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14200;軍事に重点を置いた教育を終えた。これに関しては自分にも才能があるようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_14200;軍事に重点を置いた教育を終えた。これこそ自分の天職だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14200;勇敢さはすべての兵士に必要だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_14200;己の敵を知れ。;;;;;;;;;;;;x
+EVTOPTC_ZE_14200;敵の計画を挫くことが賢いやり方だ。;;;;;;;;;;;;x
+EVTOPTD_ZE_14200;戦争とは政治の延長線上にあるものだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14210;[From.GetFirstName]は軍事に重点を置いた教育を終えた。[From.GetHerHis]への教育の成果はどうも期待はずれのものだったようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_14210;[From.GetFirstName]は[From.GetHerHis]自身の軍事に重点を置いた教育を終えた。[From.GetSheHe]は必要な基礎をすべて身に付けたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14210;[From.GetFirstName]は[From.GetHerHis]自身の軍事に重点を置いた教育を終えた。[From.GetSheHe]はその学習の中で[From.GetHerHis]自身の際立った才能を発揮した。;;;;;;;;;;;;x
+EVTDESCD_ZE_14210;[From.GetFirstName]は[From.GetHerHis]自身の軍事に重点を置いた教育を終えた。卓越したレベルの知識を獲得した[From.GetSheHe]に私も鼻高々だ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14300;管理に重点を置いた教育を終えた。教わった内容はどちらかと言わずとも退屈なものだった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14300;管理に重点を置いた教育を終えた。これは魅力的なテーマだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14300;管理に重点を置いた教育を終えた。これに関しては自分にも才能があるようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_14300;管理に重点を置いた教育を終えた。これこそ自分の天職だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14300;なんて難しいんだこれは。;;;;;;;;;;;;x
+EVTOPTB_ZE_14300;塵も積もれば山となる;;;;;;;;;;;;x
+EVTOPTC_ZE_14300;Accumulate! Accumulate!;;;;;;;;;;;;x
+EVTOPTD_ZE_14300;賢者は考えを変えるが、愚者は決して変えない;;;;;;;;;;;;x
+EVTDESCA_ZE_14310;[From.GetFirstName]は管理に重点を置いた教育を終えた。[From.GetHerHis]への教育の成果はどうも期待はずれのものだったようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_14310;[From.GetFirstName]は[From.GetHerHis]自身の管理に重点を置いた教育を終えた。[From.GetSheHe]は必要な基礎をすべて身に付けたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14310;[From.GetFirstName]は[From.GetHerHis]自身の管理に重点を置いた教育を終えた。[From.GetSheHe]はその学習の中で[From.GetHerHis]自身の際立った才能を発揮した。;;;;;;;;;;;;x
+EVTDESCD_ZE_14310;[From.GetFirstName]は[From.GetHerHis]自身の管理に重点を置いた教育を終えた。卓越したレベルの知識を獲得した[From.GetSheHe]に私も鼻高々だ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14400;策略に重点を置いた教育を終えた。教わった内容はどちらかと言わずとも退屈なものだった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14400;策略に重点を置いた教育を終えた。これは魅力的なテーマだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14400;策略に重点を置いた教育を終えた。これに関しては自分にも才能があるようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_14400;策略に重点を置いた教育を終えた。これこそ自分の天職だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14400;策略は名誉と共になければならない;;;;;;;;;;;;x
+EVTOPTB_ZE_14400; [Root.GetSheHe]が間違いを犯している時に、奴らのの邪魔をするな。;;;;;;;;;;;;x
+EVTOPTC_ZE_14400;戦わずして勝つのが最上だ。;;;;;;;;;;;;x
+EVTOPTD_ZE_14400;避けがたいことこそ自分でやらなければならないのだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14410;[From.GetFirstName]は策略に重点を置いた教育を終えた。[From.GetHerHis]への教育の成果はどうも期待はずれのものだったようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_14410;[From.GetFirstName]は[From.GetHerHis]自身の策略に重点を置いた教育を終えた。[From.GetSheHe]は必要な基礎をすべて身に付けたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14410;[From.GetFirstName]は[From.GetHerHis]自身の策略に重点を置いた教育を終えた。[From.GetSheHe]はその学習の中で[From.GetHerHis]自身の際立った才能を発揮した。;;;;;;;;;;;;x
+EVTDESCD_ZE_14410;[From.GetFirstName]は[From.GetHerHis]自身の策略に重点を置いた教育を終えた。卓越したレベルの知識を獲得した[From.GetSheHe]に私も鼻高々だ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14500;信仰と学識に重点を置いた教育を終えた。教わった内容はどちらかと言わずとも退屈なものだった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14500;信仰と学識に重点を置いた教育を終えた。これは魅力的なテーマだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14500;信仰と学識に重点を置いた教育を終えた。これに関しては自分にも才能があるようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_14500;信仰と学識に重点を置いた教育を終えた。これこそ自分の天職だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_14500;学ぶことは退屈だが、大事なことだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_14500;世界は一冊の本である。;;;;;;;;;;;;x
+EVTOPTC_ZE_14500;学習は決して心をすり減らしたりはしない。;;;;;;;;;;;;x
+EVTOPTD_ZE_14500;書物なき部屋は、魂なき肉体の如し。;;;;;;;;;;;;x
+EVTDESCA_ZE_14510;[From.GetFirstName]は信仰と学識に重点を置いた教育を終えた。[From.GetHerHis]への教育の成果はどうも期待はずれのものだったようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_14510;[From.GetFirstName]は[From.GetHerHis]自身の信仰と学識に重点を置いた教育を終えた。[From.GetSheHe]は必要な基礎をすべて身に付けたようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_14510;[From.GetFirstName]は[From.GetHerHis]自身の信仰と学識に重点を置いた教育を終えた。[From.GetSheHe]はその学習の中で[From.GetHerHis]自身の際立った才能を発揮した。;;;;;;;;;;;;x
+EVTDESCD_ZE_14510;[From.GetFirstName]は[From.GetHerHis]自身の信仰と学識に重点を置いた教育を終えた。卓越したレベルの知識を獲得した[From.GetSheHe]に私も鼻高々だ。;;;;;;;;;;;;x
+mysterious_charm;不思議な魅力;;;;;;;;;;;;x
+mysterious_charm_desc;この人物はあまり話をしませんが、興味を引くような何かを持っています。;;;;;;;;;;;;x
+EVTDESCA_ZE_12010;[affectionate_events_char_1.GetFirstName]が自分の新しい動物のおもちゃを見ているのに気付いた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12010;My nannies are away and as I roam around the grounds I come upon [affectionate_events_char_1.GetTitledFirstName]. [affectionate_events_char_1.GetSheHeCap] looks up and seems interested in conversation.;;;;;;;;;;;;x
+EVTDESCC_ZE_12010;一人で外へ遊びに行ったある日、一休みして厨房から持ってきたパンを食べていると、幼い庶民の子がこちらを見上げているのに気付いた、[Root.GetSheHeCap]はお腹を空かしているようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12010;[affectionate_events_char_1.GetHerHim]と一緒におもちゃで遊ぼう。;;;;;;;;;;;;x
+EVTOPTB_ZE_12010;はは、[affectionate_events_char_1.GetHerHim]よりもすごいおもちゃなんだ。;;;;;;;;;;;;x
+EVTOPTC_ZE_12010;[affectionate_events_char_1.GetHerHim]とおはなししよう！;;;;;;;;;;;;x
+EVTOPTD_ZE_12010;[affectionate_events_char_1.GetHerHim]にあっかんべーして逃げよう！;;;;;;;;;;;;x
+EVTOPTE_ZE_12010;[Root.GetHerHim]とパンをわけっこしよう！;;;;;;;;;;;;x
+EVTOPTF_ZE_12010;[Root.GetSheHe]にパンを盗まれる前ににげだそう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12010_TOOLTIP1;善いことをします;;;;;;;;;;;;x
+EVTOPTE_ZE_12010_TOOLTIP2;善いことをしますが、誰かに見られているかも…;;;;;;;;;;;;x
+EVTDESCA_ZE_12012;[From.GetFirstName]はこちらよりもっといいおもちゃを持っていたが、[From.GetSheHe]のおもちゃで一緒に遊ぼうよと言ってきてくれた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12012;[From.GetFirstName]は本当にいいおもちゃを持っていたが、[From.GetSheHe]はおもちゃを他人に触れさせようとはしなかった。;;;;;;;;;;;;x
+EVTDESCC_ZE_12012;今日[From.GetTitledFirstName]が近寄ってきてこちらに話しかけてきた。大変色々なことを話したので随分長話になってしまった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12012;今日[From.GetTitledFirstName]が近寄ってきたので、こちらが[From.GetHerHim]に挨拶しようとしたところ、[From.GetSheHe]にあっかんべーされた。 そうして[From.GetHerHis]はそのまま走り去ってしまった…;;;;;;;;;;;;x
+EVTOPTA_ZE_12012;ああ、あのおもちゃはいいなぁ！;;;;;;;;;;;;x
+EVTOPTB_ZE_12012;ふん、あのおもちゃなんかバカバカしいや！;;;;;;;;;;;;x
+EVTOPTC_ZE_12012;[From.GetHerHim]が憎い！;;;;;;;;;;;;x
+EVTOPTD_ZE_12012;なんて素敵なんだろう!;;;;;;;;;;;;x
+EVTOPTE_ZE_12012;立ち去れ、[GetRootFromInsult]！;;;;;;;;;;;;x
+EVTOPTF_ZE_12012;なんて変な子;;;;;;;;;;;;x
+EVTDESCA_ZE_12014;[From.GetFirstName]と私はおもちゃで一日中遊んだよ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12014;私は[From.GetTitledFirstName]と長話になった。 [From.GetSheHeCap]が面白い話を沢山してくれたので、本当に楽しい時間を過ごすことができた。;;;;;;;;;;;;x
+EVTDESCC_ZE_12014;あなたは農民の子とパンを分け与え、その後別れるまで数時間一緒に遊んだ。[Root.GetSheHeCap]は家に戻るとき、[Root.GetSheHe]はにこやかに私に手を振っていた。;;;;;;;;;;;;x
+EVTDESCD_ZE_12014;You shared your bread with the child and then you played together for a while, until your nannies came and angrily interrupted you. As your friend ran away, the nannies said they'd tell [Educator.GetTitledFirstName] that you had been bad.;;;;;;;;;;;;x
+EVTOPTA_ZE_12014;人と共有するってとても素敵だね!;;;;;;;;;;;;x
+EVTOPTB_ZE_12014;またすぐに遊ぼうね!;;;;;;;;;;;;x
+EVTOPTC_ZE_12014;こんな友人がもっと欲しいな!;;;;;;;;;;;;x
+EVTOPTD_ZE_12014;また明日会いに来るよ!!;;;;;;;;;;;;x
+EVTOPTE_ZE_12014;楽しかったね!;;;;;;;;;;;;x
+EVTOPTF_ZE_12014;でも[Root.GetSheHe]は私の友達だよ!;;;;;;;;;;;;x
+EVTDESCA_ZE_12016;[From.GetFirstName]に誘われて[From.GetHerHis]のおもちゃで一日中一緒に遊んだ。楽しかったなぁ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12016;[From.GetFirstName]と長話をして、大変色々なことを語り合うことができた。どうやら新しい友達ができたようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12016;またいつか遊ぼうね!!;;;;;;;;;;;;x
+EVTOPTB_ZE_12016;なんて素敵な子!;;;;;;;;;;;;x
+EVTDESCA_ZE_12020;[timid_events_char_1.GetTitledFirstName]が[Root.Liege.GetTitle]の店から食べ物を盗んだと皆の前で叱られているのを見たが、盗みが行われたはずの時間に[timid_events_char_1.GetSheHe]が別の所にいたのを見ている。;;;;;;;;;;;;x
+EVTDESCB_ZE_12020;[timid_events_char_1.GetFirstName]はとてもいい子みたいだ。[timid_events_char_1.GetSheHe]に遊びたいか聞いてみるべきだろうか？;;;;;;;;;;;;x
+EVTDESCC_ZE_12020;今夜多くの名士達を招待して大きな晩餐会が開かれる。そこで自分が客人に[Root.Religion.GetRandomGodName]を称える歌を歌うことになった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12020;どうせ誰も自分の歌を聞いちゃくれないさ…;;;;;;;;;;;;x
+EVTOPTB_ZE_12020;I must speak up for [timid_events_char_1.GetHerHim]!;;;;;;;;;;;;x
+EVTOPTC_ZE_12020;I'll wait a little, [timid_events_char_1.GetSheHe] could come to me...;;;;;;;;;;;;x
+EVTOPTD_ZE_12020;Yes, we should play!;;;;;;;;;;;;x
+EVTOPTE_ZE_12020;絶対、嫌だ！;;;;;;;;;;;;x
+EVTOPTF_ZE_12020;うん、歌うよ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12020_TOOLTIP1;客人は楽しそうだ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12020_TOOLTIP2;客人は怒っているようだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_12022;自分は[Root.Liege.GetTitle]の店から食べ物を盗んだと濡れ衣を着せられた。[From.GetFirstName]なら盗みが行われた時間に私が別の所にいたと証明できたが、[From.GetSheHe]が名乗り出て私の無実を証明してくれることはなかった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12022; 自分は[Root.Liege.GetTitle]の店から食べ物を盗んだと濡れ衣を着せられたが、[From.GetFirstName]が名乗り出て盗みが行われた時間に私は別の場所にいたと証言してくれたので、私の容疑は晴れた。;;;;;;;;;;;;x
+EVTDESCC_ZE_12022;[From.GetFirstName]がじろじろこちらを見ているが、話しには来ないようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_12022;[From.GetFirstName]がこっちに来た。[From.GetSheHe]は私と友達になりたいと言っている!;;;;;;;;;;;;x
+EVTOPTA_ZE_12022;The little wretch!;;;;;;;;;;;;x
+EVTOPTB_ZE_12022;ああ、この子を弱気だと責めることはできないな。;;;;;;;;;;;;x
+EVTOPTC_ZE_12022;All is good then!;;;;;;;;;;;;x
+EVTOPTD_ZE_12022;行って[From.GetHerHim]と話そう！;;;;;;;;;;;;x
+EVTOPTE_ZE_12022;[From.GetSheHe]はどこを見ているんだ？気に障る！;;;;;;;;;;;;x
+EVTOPTF_ZE_12022;How nice!;;;;;;;;;;;;x
+EVTDESCA_ZE_12024;[From.GetTitledFirstName]は[From.GetHerHis]の自己弁護をはっきりと述べずに私に対してとても強い怒りを見せた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12024;[From.GetFirstName]が近寄ってきて友達になろうよと話しかけてきた;;;;;;;;;;;;x
+EVTDESCC_ZE_12024;A roar of laughter rolled through the hall when the guests were told that I had hid in a chest in order to avoid having to sing for them. Several of them then called me over and offered me food and candies.;;;;;;;;;;;;x
+EVTDESCD_ZE_12024;歌うのを拒絶した自分に客人たちは皆大変怒っていた。;;;;;;;;;;;;x
+EVTOPTA_ZE_12024;なんだよ！悪いのは僕じゃない！;;;;;;;;;;;;x
+EVTOPTB_ZE_12024;ちゃんとやり直そう、まだ遅くない！;;;;;;;;;;;;x
+EVTOPTC_ZE_12024;うーん... ごめん、もう行かなくちゃ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12024;うん、遊ぼう!;;;;;;;;;;;;x
+EVTOPTE_ZE_12024;ああ!;;;;;;;;;;;;x
+EVTOPTF_ZE_12024;気にしてないよ;;;;;;;;;;;;x
+EVTDESCA_ZE_12026;[From.GetFirstName]のせいで私の面目は丸つぶれで、皆に盗人扱いされて私の威信に陰りが見えてきた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12026;[From.GetFirstName]は遂に私の面目を守るために名乗り出た。;;;;;;;;;;;;x
+EVTOPTA_ZE_12026;このことは忘れん。;;;;;;;;;;;;x
+EVTOPTB_ZE_12026;話しかける勇気があってよかった。;;;;;;;;;;;;x
+EVTDESCA_ZE_12030;[rowdy_events_char_1.GetFirstName]のせいでいつもイライラする。[rowdy_events_char_1.GetSheHe]は意地悪するためだけにゲームで勝とうとしているんだ！;;;;;;;;;;;;x
+EVTDESCB_ZE_12030;There are so many fun things to do, so many forbidden things. I wonder if [rowdy_events_char_1.GetFirstName] would like to join me in some fun pranks?;;;;;;;;;;;;x
+EVTOPTA_ZE_12030;[rowdy_events_char_1.GetHerHim]にやめるよう言わなくては！;;;;;;;;;;;;x
+EVTOPTA_ZE_12030_TOOLTIP1;問題がエスカレートします…\n;;;;;;;;;;;;x
+EVTOPTB_ZE_12030;It doesn't matter, [rowdy_events_char_1.GetSheHe] can win.;;;;;;;;;;;;x
+EVTOPTC_ZE_12030;I'll ask [rowdy_events_char_1.GetHerHim]!;;;;;;;;;;;;x
+EVTOPTD_ZE_12030;それならサイコロでだけ遊ぶようにしよう。;;;;;;;;;;;;x
+EVTDESCA_ZE_12032;いつも[From.GetFirstName]をゲームで負かしているので[From.GetHerHim]は私に腹を立てている。;;;;;;;;;;;;x
+EVTDESCB_ZE_12032;[From.GetFirstName] seems content to let me win when we play games.;;;;;;;;;;;;x
+EVTDESCC_ZE_12032;[From.GetFirstName]が興奮した口調で、禁止されていることやいたずらなどをしたいかと尋ねてくる。;;;;;;;;;;;;x
+EVTDESCD_ZE_12032;[From.GetFirstName] asks me if I wanted to play dice.;;;;;;;;;;;;x
+EVTOPTA_ZE_12032;気に入らないならどっかいけ!!;;;;;;;;;;;;x
+EVTOPTB_ZE_12032;これからは[From.GetHerHim]を避けよう;;;;;;;;;;;;x
+EVTOPTC_ZE_12032;そうかそうかわかったよ;;;;;;;;;;;;x
+EVTOPTD_ZE_12032;Yes!;;;;;;;;;;;;x
+EVTOPTE_ZE_12032;No, I'm a good [Root.GetBoyGirl].;;;;;;;;;;;;x
+EVTOPTF_ZE_12032;Sounds like fun!;;;;;;;;;;;;x
+EVTDESCA_ZE_12034;[From.GetFirstName] は怒り出し、"失せろ" と、あなたに言った!;;;;;;;;;;;;x
+EVTDESCB_ZE_12034;[From.GetFirstName] joined me and we did all kinds of pranks and tricks, everything except summoning [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;x
+EVTDESCB2_ZE_12034;[From.GetFirstName] didn't want to play.;;;;;;;;;;;;x
+EVTOPTE_ZE_12034;What a shame.;;;;;;;;;;;;x
+EVTOPTA_ZE_12034;げんこつをおみまいだああああ!;;;;;;;;;;;;x
+EVTOPTB_ZE_12034;ばかばかしい、あっちへ行こう。;;;;;;;;;;;;x
+EVTOPTC_ZE_12034;We should do this every day!;;;;;;;;;;;;x
+EVTOPTD_ZE_12034;That was fun, now let's play dice.;;;;;;;;;;;;x
+EVTDESCA_ZE_12036;[From.GetFirstName]は気が狂い始め私と殴りあいになった!;;;;;;;;;;;;x
+EVTDESCB_ZE_12036;[From.GetFirstName]と私は狂気じみて禁じられたあらゆる遊びを行った。その遊びは楽しいものだった!;;;;;;;;;;;;x
+EVTOPTA_ZE_12036;やっぱりおまえは[GetRootFromInsult]だ!;;;;;;;;;;;;x
+EVTOPTB_ZE_12036;またいつかやろうね!!;;;;;;;;;;;;x
+playing_dice;サイコロ遊び;;;;;;;;;;;;x
+playing_dice_desc;サイコロ遊びを上手くやるには鋭い目と機敏な思考能力が必要です。;;;;;;;;;;;;x
+EVTDESCC_ZE_12030;今日外で遊んでいると、他の子に最も高い監視塔へ登らされそうになった。;;;;;;;;;;;;x
+EVTOPTE_ZE_12030;恐れることはない!!;;;;;;;;;;;;x
+EVTOPTE_ZE_12030_TOOLTIP1;滑落;;;;;;;;;;;;x
+EVTOPTE_ZE_12030_TOOLTIP2;リスのようにスムーズ;;;;;;;;;;;;x
+EVTOPTF_ZE_12030;ヤダ…高すぎる。;;;;;;;;;;;;x
+EVTDESCC_ZE_12034;すぐに塔の頂上まで登ることができた。でも降りている途中滑り落ちたんだ。とっても痛かったんだけど、そんなに高さはなくてよかったよ。;;;;;;;;;;;;x
+EVTDESCD_ZE_12034;リスのようにすばしっこくその塔を上り下りしたんだ。みんなとっても驚いていたなぁ。;;;;;;;;;;;;x
+EVTOPTF_ZE_12034;Owww!;;;;;;;;;;;;x
+EVTOPTG_ZE_12034;へへ!!;;;;;;;;;;;;x
+EVTDESC_ZE_12230;地下牢でうなだれていると、隣の独房にも誰かがいることに気付いた。私の耳にも[event_ze_12230_prisoner.GetHerHim]のため息と咳、そして文句が時折聞こえてくる。;;;;;;;;;;;;x
+EVTOPTA_ZE_12230;[event_ze_12230_prisoner.GetHerHim]に話しかけてみよう！;;;;;;;;;;;;x
+EVTOPTB_ZE_12230;そんなことどうだっていいや;;;;;;;;;;;;x
+EVTDESCA_ZE_12232;地下牢でうなだれていたある日、急に声が聞こえてきた。どうやら隣の独房に小さい子供がいるらしい…;;;;;;;;;;;;x
+EVTDESCB_ZE_12232;地下牢でうなだれていたある日、急に声が聞こえてきた。どうやら隣の独房に別の子供がいるらしい…;;;;;;;;;;;;x
+EVTOPTA_ZE_12232;やっと話し相手ができた！;;;;;;;;;;;;x
+EVTOPTB_ZE_12232;こんな所で友人なんかいらない;;;;;;;;;;;;x
+EVTDESC_ZE_12234;囚人仲間の名前は[From.GetTitledName]と判明した。私達は暗闇の中で囁き声で多くの会話を交わし、この悲惨な状況の中ですぐに友人となった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12234;これで随分寂しさが紛れた。;;;;;;;;;;;;x
+EVTDESC_ZE_12236;他の囚人と接触を取ろうとしたが結局帰ってきたのは沈黙のみだった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12236;みんな自分のことが嫌いなんだ。;;;;;;;;;;;;x
+pet_rat_dungeon;ペットのネズミ;;;;;;;;;;;;x
+pet_rat_dungeon_desc;この人物は地下牢でネズミと友達になりました。;;;;;;;;;;;;x
+EVTDESC_ZE_12210;地下牢でうなだれていたが、最近は新しい友人ができた。それは小さな薄汚いネズミで、ずっと近くから離れず、膝に戯れてくる。;;;;;;;;;;;;x
+EVTOPTA_ZE_12210;君はフリッパー(足ひれ)だ;;;;;;;;;;;;x
+EVTOPTB_ZE_12210;君はカドル(抱擁)だ;;;;;;;;;;;;x
+EVTOPTC_ZE_12210;君はスメリー(悪臭)だ;;;;;;;;;;;;x
+EVTOPTD_ZE_12210;やあ、食べ物君…;;;;;;;;;;;;x
+EVTDESCA_ZE_12211;ここ最近フリッパーを見ていたが、どうも様子がおかしいことに気付いた。昔はちょこちょこと走りながら戯れてきたのに、今は横になって苦しそうにあえぐだけになってしまった。[Root.GetSheHe]の小さな丸い目がこちらを見つめてくる。飢えて病気になっているのは明らかだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12211;ここ最近カドルを見ていたが、どうも様子がおかしいことに気付いた。昔はちょこちょこと走りながら戯れてきたのに、今は横になって苦しそうにあえぐだけになってしまった。[Root.GetSheHe]の小さな丸い目がこちらを見つめてくる。飢えて病気になっているのは明らかだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_12211;ここ最近スメリーを見ていたが、どうも様子がおかしいことに気付いた。昔はちょこちょこと走りながら戯れてきたのに、今は横になって苦しそうにあえぐだけになってしまった。[Root.GetSheHe]の小さな丸い目がこちらを見つめてくる。飢えて病気になっているのは明らかだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12211;[Root.GetHerHim]に自分の食べ物を分けてあげよう;;;;;;;;;;;;x
+EVTOPTB_ZE_12211;そんな余裕はない;;;;;;;;;;;;x
+rat_dies_tooltip_1;フリッパーは死んでしまった！;;;;;;;;;;;;x
+rat_dies_tooltip_2;カドルは死んでしまった！;;;;;;;;;;;;x
+rat_dies_tooltip_3;スメリーは死んでしまった！;;;;;;;;;;;;x
+EVTDESCA_ZE_12219;護衛に地下牢から釈放され、最後に独房の中を振り返るとフリッパーがこちらをじっと見ているのに気付いた。[Root.GetHerHis]の目は薄暗がりの中で奇妙に輝いていた。そして[Root.GetSheHe]はちょこちょこと独房の隅へと消えていった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12219;護衛に地下牢から釈放され、最後に独房の中を振り返るとカドルがこちらをじっと見ているのに気付いた。[Root.GetHerHis]の目は薄暗がりの中で奇妙に輝いていた。そして[Root.GetSheHe]はちょこちょこと独房の隅へと消えていった。;;;;;;;;;;;;x
+EVTDESCC_ZE_12219;護衛に地下牢から釈放され、最後に独房の中を振り返るとスメリーがこちらをじっと見ているのに気付いた。[Root.GetHerHis]の目は薄暗がりの中で奇妙に輝いていた。そして[Root.GetSheHe]はちょこちょこと独房の隅へと消えていった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12219;君のことは忘れないよ、フリッパー！;;;;;;;;;;;;x
+EVTOPTB_ZE_12219;君のことは忘れないよ、カドル！;;;;;;;;;;;;x
+EVTOPTC_ZE_12219;君のことは忘れないよ、スメリー！;;;;;;;;;;;;x
+EVTDESC_ZE_12220;地下牢でうなだれていたある夜、急に不穏な冷気を感じて飛び起きた。闇の中を見つめていると、風切り音のような邪悪な声が聞こえてきた。「我は闇の恐怖の王なり。この地下牢は我が王国である。汝我の下僕となるべし…」;;;;;;;;;;;;x
+EVTOPTA_ZE_12220;はい、お仕え申し上げます！;;;;;;;;;;;;x
+EVTOPTB_ZE_12220;お断りだ！;;;;;;;;;;;;x
+EVTDESC_ZE_12221;ある夜遅く、闇の恐怖の王が再び私の前に現れた「下僕よ！汝三つの魔石を見つけるべし。こは我が物にありしが盗み出され、この地下牢に隠されたるもの。失敗は許されぬぞ。」;;;;;;;;;;;;x
+EVTOPTA_ZE_12221;我が力を以て見つけてご覧に入れましょう！;;;;;;;;;;;;x
+EVTOPTB_ZE_12221;我が老獪さを以て見つけてご覧に入れましょう！;;;;;;;;;;;;x
+EVTDESC_ZE_12222;なんとか遂に闇の恐怖の王の三つの魔石を発見することに成功した。見た目はただの小さな石三つだが、王はお喜びになるに違いない。;;;;;;;;;;;;x
+EVTOPTA_ZE_12222;私が英雄であり、王の最も価値ある下僕なのだ！;;;;;;;;;;;;x
+EVTDESC_ZE_12223;三つの魔石を発見することは叶わなかった。今はただ闇の恐怖の王が現れて私の失敗を罰するのではないかと恐れるばかりだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12223;この隅に隠れればもしかしたら見つけられずに済むかもしれない。;;;;;;;;;;;;x
+EVTDESC_ZE_12225;闇の恐怖の王との戦争が始まった。毎晩奴は幽霊と影の軍団を私の許に送り込んでくる。;;;;;;;;;;;;x
+EVTOPTA_ZE_12225;自分の持てる全力で奴らを追い返そう！;;;;;;;;;;;;x
+EVTOPTB_ZE_12225;私の老獪さで言抜けてごまかしてしまおう！;;;;;;;;;;;;x
+EVTDESC_ZE_12226;幾晩も闇の恐怖の王と勇敢に戦った結果、遂に形勢は逆転し、敵は私に膝を屈した。;;;;;;;;;;;;x
+EVTOPTA_ZE_12226;私がこの地下牢の支配者だ！;;;;;;;;;;;;x
+EVTDESC_ZE_12227;闇の恐怖の王との戦いで疲弊しきった所に遂に王その人がゆっくりと歩み寄ってきた。どうやら降参の時が来たようだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12227;もう二度とこの様な真似はいたしません。;;;;;;;;;;;;x
+12220_submit_to_king;闇の恐怖の王に屈する;;;;;;;;;;;;x
+12220_fight_king;闇の恐怖の王と戦う;;;;;;;;;;;;x
+found_dark_stones;闇の魔石;;;;;;;;;;;;x
+found_dark_stones_desc;この人物は地下牢で奇妙で不思議な冒険をし、闇の魔石を発見したと思い込んでいます。;;;;;;;;;;;;x
+defeated_dread_king;闇の恐怖の王を打ち負かした;;;;;;;;;;;;x
+defeated_dread_king_desc;この人物は地下牢で奇妙で不思議な冒険をし、闇の恐怖の王を打ち負かしたと思い込んでいます。;;;;;;;;;;;;x
+dread_king_martial_tooltip;軍事能力を適用します。;;;;;;;;;;;;x
+dread_king_intrigue_tooltip;策略能力を適用します。;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_PRIDE;養育方針：自尊心;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_HUMILITY;養育方針：謙虚;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_DUTY;養育方針：義務;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_ETIQUETTE;養育方針：礼儀作法;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_THRIFT;養育方針：倹約;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_FAITH;養育方針：信仰;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_STRUGGLE;養育方針：闘争;;;;;;;;;;;;x
+CHILDHOOD_FOCUS_HERITAGE;養育方針：伝統;;;;;;;;;;;;x
+EDUCATION_FOCUS_DIPLOMACY;教育方針：外交;;;;;;;;;;;;x
+EDUCATION_FOCUS_MARTIAL;教育方針：軍事;;;;;;;;;;;;x
+EDUCATION_FOCUS_STEWARDSHIP;教育方針：管理;;;;;;;;;;;;x
+EDUCATION_FOCUS_INTRIGUE;教育方針：策略;;;;;;;;;;;;x
+EDUCATION_FOCUS_LEARNING;教育方針：学識;;;;;;;;;;;;x
+erudite;博識;;;;;;;;;;;;x
+erudite_desc;この人物は読書好きや学者気質なところがあります。;;;;;;;;;;;;x
+stubborn;頑固;;;;;;;;;;;;x
+stubborn_desc;この人物はラバのように頑固です。;;;;;;;;;;;;x
+INSULT_WINDBAG;おしゃべり;;;;;;;;;;;;x
+INSULT_BLATHERING;品のない;;;;;;;;;;;;x
+INSULT_MULE;ラバ;;;;;;;;;;;;x
+INSULT_PIGHEADED;強情な;;;;;;;;;;;;x
+REMOVE_GUARDIAN_EFFECT;$GUARDIAN$が$WHO$の後見人であることをやめます。\n;;;;;;;;;;;;x
+ALL_CHARACTERS;全ての人物;;;;;;;;;;;;x
+ALL_PROVINCES;全ての州;;;;;;;;;;;;x
+ALL_LANDED_TITLES;全ての領地称号;;;;;;;;;;;;x
+ANY_CHAR_STARTS;任意の人物;;;;;;;;;;;;x
+ANY_LANDED_TITLE_STARTS;任意の領地称号;;;;;;;;;;;;x
+LOG_IN;ログイン;;;;;;;;;;;;x
+LOG_OUT;ログアウト;;;;;;;;;;;;x
+NOT_LOGGED_IN;ログインしてません;;;;;;;;;;;;x
+LOGGED_IN;ログイン中;;;;;;;;;;;;x
+NEWSFEED_LOADING;ニュースフィードを読み込んでいます...;;;;;;;;;;;;x
+PARADOX_ACCOUNT;パラドックスアカウント;;;;;;;;;;;;x
+CREATE_ACCOUNT;アカウントの作成;;;;;;;;;;;;x
+PERFORMING_LOGIN;ログインしています...;;;;;;;;;;;;x
+Not%authorized;§REmailまたはパスワードを入力してください§!;;;;;;;;;;;;x
+LOGIN_TIMEOUT;§Rログインがタイムアウトしました§!;;;;;;;;;;;;x
+EMAIL;メール;;;;;;;;;;;;x
+PASSWORD;パスワード;;;;;;;;;;;;x
+EMAIL_REQUIRED;メールアドレス§R *§!;;;;;;;;;;;;x
+EMAIL_HINT;有効なメールアドレスを入力してください;;;;;;;;;;;;x
+PASSWORD_REQUIRED;パスワード§R *§!;;;;;;;;;;;;x
+PASSWORD_HINT;パスワード入力;;;;;;;;;;;;x
+REPEAT_PASSWORD_REQUIRED;パスワードをもう一度§R *§!;;;;;;;;;;;;x
+REPEAT_PASSWORD_HINT;パスワードをもう一度;;;;;;;;;;;;x
+LANGUAGE_REQUIRED;言語§R *§!;;;;;;;;;;;;x
+LANGUAGE_HINT;言語を入力;;;;;;;;;;;;x
+ENTER_LANGUAGE;言語を入力;;;;;;;;;;;;x
+COUNTRY_REQUIRED;国§R *§!;;;;;;;;;;;;x
+COUNTRY_HINT;国を入力;;;;;;;;;;;;x
+ENTER_COUNTRY;国を入力;;;;;;;;;;;;x
+DATE_OF_BIRTH_REQUIRED;誕生日§R *§!;;;;;;;;;;;;x
+DATE_OF_BIRTH_HINT;YYYY-MM-DD;;;;;;;;;;;;x
+FIRST_NAME;名;;;;;;;;;;;;x
+LAST_NAME;姓;;;;;;;;;;;;x
+ADDRESS;住所;;;;;;;;;;;;x
+ADDRESS_LINE_1;住所 1;;;;;;;;;;;;x
+ADDRESS_LINE_2;住所 2;;;;;;;;;;;;x
+ADDRESS_CITY;市;;;;;;;;;;;;x
+ADDRESS_CITY_HINT;市/町を入力;;;;;;;;;;;;x
+ADDRESS_STATE;州;;;;;;;;;;;;x
+ADDRESS_STATE_HINT;州を入力;;;;;;;;;;;;x
+ADDRESS_ZIP_CODE;郵便番号;;;;;;;;;;;;x
+ADDRESS_ZIP_CODE_HINT;郵便番号を入力;;;;;;;;;;;;x
+PHONE;電話番号;;;;;;;;;;;;x
+PHONE_HINT;電話番号を入力;;;;;;;;;;;;x
+ACCEPT_AND_SUBMIT;同意して送信;;;;;;;;;;;;x
+CLICK_TO_OPEN_IN_BROWSER;クリックするとブラウザで開きます:;;;;;;;;;;;;x
+HAVE_READ_TOS;利用規約を読み、同意します;;;;;;;;;;;;x
+TERMS_OF_USE;利用規約;;;;;;;;;;;;x
+PRIVACY_POLICY;個人情報保護方針;;;;;;;;;;;;x
+REQUIRED_FIELD_DESCRIPTION;§R* §! 必須箇所;;;;;;;;;;;;x
+ONE_MOMENT;少々お待ちください...;;;;;;;;;;;;x
+MISSING_REQUIRED_FIELD;§R必須箇所の記入が抜けています§!;;;;;;;;;;;;x
+INVALID_EMAIL;§Rメールアドレスが有効ではありません§!;;;;;;;;;;;;x
+PASSWORDS_DONT_MATCH;§Rパスワードが一致していません§!;;;;;;;;;;;;x
+INVALID_PASSWORD;§Rパスワードが有効ではありません§!;;;;;;;;;;;;x
+PASSWORD_DONT_MATCH;§Rパスワードが一致していません§!;;;;;;;;;;;;x
+WRONG_DOB_FORMAT;§R有効な生年月日ではありません§!;;;;;;;;;;;;x
+SUCCESS_VERIFICATION_EMAIL_SENT;アカウントが作成されました！認証メールが送信されました。;;;;;;;;;;;;x
+SERVER_ERROR;サーバーエラー;;;;;;;;;;;;x
+COULD_NOT_FIND_ACCOUNT;アカウントが見つかりませんでした;;;;;;;;;;;;x
+EVTTITLE_ZE_8001;Spouse visit;;;;;;;;;;;;x
+MINOR_TITLE_REVOKABLE;$TITLE$を剥奪できる;;;;;;;;;;;;x
+FAVOR_EXPIRES_IN;有効な貸しが$FAVOR_EXPIRATION|Y$ヶ月で失効する;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_ACCEPT_SETUP;金で貸しを作った;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§!は§Y[Recipient.GetDynName]§!から金で貸しを作った;;;;;;;;;;;;x
+ATTRITION_WEIGHT_SELECTION;軍隊が到着した時の総軍隊: $VALUE$;;;;;;;;;;;;x
+UNITS_CROSS_WATER;選択した部隊の$VALUE|Y$が、この州に到着するために水域を横断します。;;;;;;;;;;;;x
+ALL_CROSS_WATER;選択した§Y全て§!の軍隊が、この州に到着するために水域を横断します。;;;;;;;;;;;;x
+PROVINCE_TOOLTIP_MILITARY_HEADER;軍事情報;;;;;;;;;;;;x
+SEPARATOR;---;;;;;;;;;;;;x
+opinion_recently_fired;最近解雇された;;;;;;;;;;;;x
+AIREASON_USED_FAVOR;§Y[Actor.GetBestName]§!は§Y[Recipient.GetBestName]§!への貸しを[Actor.GetObjectPronoun]に返してもらった;;;;;;;;;;;;x
+DIPLO_USE_FAVOR;§Y[Recipient.GetBestName]§!への貸しを[Recipient.GetObjectPronoun]に受け入れさせることで返させます;;;;;;;;;;;;x
+CANNOT_DECLINE_FAVOR;§Y[Actor.GetBestName]§!への借りを返さなければならないので[Actor.GetObjectPronoun]の言うことを断れません。;;;;;;;;;;;;x
+ASK_TO_DECLARE_WAR_INTERACTION_LONG_DESC;主君に請求権を代理行使させて§Y宣戦布告§!させることで主君への§Y貸し§!を私に返させます;;;;;;;;;;;;x
+ASK_TO_DECLARE_WAR_INTERACTION_DESC;これは§Y貸し§!を使用して、主君に貴方の請求権を使用して§Y宣戦布告§!するように依頼できます。;;;;;;;;;;;;x
+ASK_TO_DECLARE_WAR_INTERACTION_LETTER;$RECIPIENT$に対して$CB$を宣言することにより、私への借りを返していただくようをお願い申し上げる。 あなたが私の正当な要求を拒否した場合、評議会の知るところとなることをお忘れなきよう。;;;;;;;;;;;;x
+COUNCIL_MUST_AGREE;評議会が承認しなければならない;;;;;;;;;;;;x
+PRESS_CLAIMS_RECENTLY_REFUSED;$LIEGE|Y$は最近$ACTOR|Y$の請求権を代理行使することを拒絶してはいない;;;;;;;;;;;;x
+INTERACTION_REQUIRES_PEACE;$ATTACKER|Y$は戦争中であってはならない;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_TRUCE;$ATTACKER|Y$と$DEFENDER|Y$との間に協定があってはならない;;;;;;;;;;;;x
+ENFORCEABLE_CBS;$ACTOR|Y$が$LIEGE|Y$に代理行使させることが可能な請求権を持っていなければならない;;;;;;;;;;;;x
+VALID_CB;$LIEGE|Y$は$CB|Y$を行使できる;;;;;;;;;;;;x
+LIEGE_WAR_VALID;戦争は$LIEGE|Y$にとって有効である;;;;;;;;;;;;x
+opinion_refused_press_claims;請求権の代理行使を拒絶;;;;;;;;;;;;x
+REFUSED_TO_PRESS_CLAIM;請求権の代理行使を拒絶;;;;;;;;;;;;x
+INTERACTION_FAVOR_FORCED_SETUP;貸しは既に返された;;;;;;;;;;;;x
+INTERACTION_FAVOR_FORCED_LOG;$ACTOR|Y$は$RECIPIENT|Y$に$INTERACTION$をやらせて§Y貸し§!を返させました;;;;;;;;;;;;x
+INTERACTION_FAVOR_FORCED_LETTER;$ACTOR|Y$は我々に$INTERACTION$をやらせて§Y貸し§!を返させました;;;;;;;;;;;;x
+FAVOR_INTERACTION_VALID;Interaction is valid;;;;;;;;;;;;x
+FAVOR_NOT_RULER;$TARGET|Y$は領主ではない;;;;;;;;;;;;x
+ARMY_EXPL_DEL;軍の徴募は自分の直轄領の領地及び直臣から行われます。\n自領地からの徴募兵には自分が費用を払うことになりますが、封臣から提供される徴募兵には封臣から費用が支払われます（このことによって封臣は不満を抱くことになります）;;;;;;;;;;;;x
+YOU_IN_UNIT;§Y親征中§!\n勇敢にも現在あなたは戦死の危険を冒して自らこの軍を率いています。;;;;;;;;;;;;x
+CHARACTER_POWERFUL_EXPLANATION;強大な封臣であるため§Y評議会§!入りも当然と考えています;;;;;;;;;;;;x
+COUNCIL_TABS_JOBS;役職;;;;;;;;;;;;x
+loyalist;§Y忠臣§!;;;;;;;;;;;;x
+malcontent;§Y不満分子§!;;;;;;;;;;;;x
+zealot;§Y狂信者§!;;;;;;;;;;;;x
+pragmatist;§Y現実主義者§!;;;;;;;;;;;;x
+glory_hound;§Y見栄っ張り§!;;;;;;;;;;;;x
+LAWS_COUNCIL_POWER;評議会法;;;;;;;;;;;;x
+councillors_changed_jobs;最近、評議員職が変更された;;;;;;;;;;;;x
+COUNCIL_JOBS_TITLE;§Y役職§!;;;;;;;;;;;;x
+change_council_job;評議員職の変更;;;;;;;;;;;;x
+EVTDESC_ZE_6021;[moving_councillor.GetTitledName]にもっと適した評議員職はどれだろうか？;;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_LONG_DESC;[Recipient.GetBestName]に自分と同じ投票をするように依頼します。あなたは[Recipient.GetObjectPronoun]に借りを作ることになります。;;;;;;;;;;;;x
+REGENCY_VOTING;§Y摂政政治§!の間、評議会は権限の範囲外を含めて全ての議案に投票します。;;;;;;;;;;;;x
+WAR_ENFORCED_PEACE;\n私戦禁止令が領国に布告;;;;;;;;;;;;x
+INTERACTION_LIEGE_HAS_NOT_ENFORCED_PEACE;この領国では私戦禁止令が布告されていません。;;;;;;;;;;;;x
+alert_peace_soon_enforced_instant;§Y主が私戦禁止令を布告している！§!;;;;;;;;;;;;x
+alert_peace_soon_enforced_delayed;$LIEGE|Y$の評議会は、領内での私闘を禁じることを宣言しています！\n$LIEGE|Y$の封臣間で行われている領土紛争は$MONTHS|Y$ヶ月の間に§Y白紙和平§!で終結します！\n\nもしあなたが評議員の場合、$LIEGE|Y$への§Y貸し§!を返してもらうことで§Y私戦禁止令§!を止めることができます。;;;;;;;;;;;;x
+alert_peace_being_enforced_instant;§Y主が私戦禁止令を布告した！§!;;;;;;;;;;;;x
+alert_peace_being_enforced_delayed;$LIEGE|Y$の評議会は、領内での私闘を禁じることを宣言しています！\n$MONTHS|Y$ヶ月の間、$LIEGE|Y$の家臣はお互いに戦争することができません！;;;;;;;;;;;;x
+ENFORCEPEACE_SETUP;私戦禁止令;;;;;;;;;;;;x
+ENFORCEPEACE_LOG;$LIEGE|Y$は$VASSAL|Y$に対し私戦禁止令の布告を伝えました。;;;;;;;;;;;;x
+ENFORCEPEACE_LETTER;\n評議会の賛同も得たので私戦禁止令の布告を行う。あと3ヶ月で戦闘を終結させよ。;;;;;;;;;;;;x
+ENFORCE_PEACE;私戦禁止令;;;;;;;;;;;;x
+OWES_FAVOR;$RECIPIENT|Y$ must owe $ACTOR|Y$ a favor;;;;;;;;;;;;x
+STOP_ENFORCE_PEACE_INTERACTION_TITLE;私戦禁止令の布告を止める;;;;;;;;;;;;x
+STOP_ENFORCE_PEACE_INTERACTION_LONG_DESC;過去の§Y貸し§!を持ち出すことで、主の今回の§Y私戦禁止令§!布告を止めることができます。これで後2年間は§Y評議会§!に§Y私戦禁止令§!発布の動議を提出することができなくなります。;;;;;;;;;;;;x
+STOP_ENFORCE_PEACE_INTERACTION_DESC;主への§Y貸し§!を使って§Y私戦禁止令§!発布を止めさせます。主はこれ以降2年間は§Y私戦禁止令§!を発布することができません。;;;;;;;;;;;;x
+STOP_ENFORCE_PEACE_INTERACTION_LETTER;主殿よ、私に一つ借りがあることをお忘れではあるまいな。あなたに私戦禁止令を布告されるとちょっと私にとっては困ったことになりましてね…;;;;;;;;;;;;x
+STOP_ENFORCE_PEACE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!は過去の§Y貸し§!を持ち出して§Y[Recipient.GetBestName]§!による§Y私戦禁止令の布告§!をやめさせました。;;;;;;;;;;;;x
+CAN_VOTE_ON_ENFORCE_PEACE;評議会の投票結果は私戦禁止令に賛成です;;;;;;;;;;;;x
+PEACE_NOT_ENFORCED;私戦禁止令はまだ発行していません。;;;;;;;;;;;;x
+PEACE_ENFORCED_NOT_BLOCKED;§Y私戦禁止令§!が§Y借り§!によって阻止されていない。;;;;;;;;;;;;x
+ENFORCE_PEACE_BUTTON_DESC_TITLE;§Y私戦禁止令の布告§!;;;;;;;;;;;;x
+horse_group;馬;;;;;;;;;;;;x
+horse;馬;;;;;;;;;;;;x
+horse_desc;馬です;;;;;;;;;;;;x
+opinion_my_master;自分の主人;;;;;;;;;;;;x
+opinion_my_horse;自分の馬;;;;;;;;;;;;x
+disorganised_swarm_tactic;無統制な集団戦術;;;;;;;;;;;;x
+disorganised_harass_tactic;無統制な圧迫戦術;;;;;;;;;;;;x
+STEAL_POPULATION_SCALED_EFFECT;$FROM|Y$から§Y人口§!の$PERCENTAGE|Y%$を奪い、$TO|Y$に移します。\n;;;;;;;;;;;;x
+CB_NAME_HUMILIATE;屈辱を与える;;;;;;;;;;;;x
+WAR_NAME_HUMILIATE;$FIRST_ADJ$による$DEFENDER$に屈辱を与えるための$ORDER$戦争;;;;;;;;;;;;x
+nomad_humiliate_cb_desc;自分の氏族を強化するために敵に屈辱を与え、相手の民衆を奪います。;;;;;;;;;;;;x
+DECLINE_LAW;反対;;;;;;;;;;;;x
+EVTOPTC290;反対;;;;;;;;;;;;x
+INFAMY_HISTORY_STR;$TEXT$: §Y$VALUE$%§!;;;;;;;;;;;;x
+INFAMY_DECAY;毎月の減少: §Y$DECAY$%§!;;;;;;;;;;;;x
+VASSAL_REALM_INFAMY;$REALM|Y$の領主;;;;;;;;;;;;x
+ADJUST_SIPHON_FACTOR_EFFECT;$TITLE$の納入率を$VALUE1|%$から$VALUE2$%に引き上げます。;;;;;;;;;;;;x
+SET_SIPHON_FACTOR_TO_EFFECT;$TITLE$の納入率は$VALUE$%に設定されています。;;;;;;;;;;;;x
+CREATE_DYNAMIC_MERC_TOOLTIP;§Y[Root.GetFirstName]§!は兵士団を結成し、雇用を探し始めます。;;;;;;;;;;;;x
+EVTDESC_ZE_10031;[Root.PrimaryTitle.GetFOA],\nMy men and I have had trouble finding a battlefield where our expertise could be employed for payment in gold, and unfortunately our rations are now running low. I therefore request additional funding to keep the men from starving.\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA_ZE_10031;I'll cover the cost for extra rations.;;;;;;;;;;;;x
+EVTOPTB_ZE_10031;Starvation might serve as a lesson to [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESC_ZE_10033;[Root.PrimaryTitle.GetFOA],\nThe money you sent was well needed. However we had to spend the whole lot of it on food. We could need some better equipment to have better chances of success once we reach the battlefield. Equipment is rather expensive for our empty purse and I know that you will see the benefit of such an investment.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_ZE_10033;I'll send a contribution at once.;;;;;;;;;;;;x
+EVTOPTB_ZE_10033;I can't spare you a single coin.;;;;;;;;;;;;x
+EVTOPTC_ZE_10033;Remind [From.GetFirstName] of [From.GetHerHis] obligations.;;;;;;;;;;;;x
+EVTDESC_ZE_10071;[Root.PrimaryTitle.GetFOA],\nWar is a harsh business and the soldiers are demanding more money. I have no regrets informing you that this money will come from your cut, since it's the people fighting that are doing all the work and not the people sitting on high chairs.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_10071;Of course the men should be rewarded generously.;;;;;;;;;;;;x
+EVTOPTB_10071;Let them keep a little of the money.;;;;;;;;;;;;x
+EVTOPTC_10071;I need to remind [From.GetName] that this would be a breach of contract.;;;;;;;;;;;;x
+MERCENARY_SIPHON_FACTOR_LOWER;$TITLE$の納入率は$VALUE|%$より高いです。;;;;;;;;;;;;x
+MERCENARY_SIPHON_FACTOR_HIGHER;$TITLE$の納入率は$VALUE|%$より低いです。;;;;;;;;;;;;x
+tax_levy_law_feudal;貴族;;;;;;;;;;;;x
+tax_levy_law_feudal_desc;貴族の法的義務;;;;;;;;;;;;x
+tax_levy_law_feudal_0;貴族の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_feudal_0_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_1;貴族の納税義務を重視;;;;;;;;;;;;x
+tax_levy_law_feudal_1_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_2;貴族の納税義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_feudal_2_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_3;貴族の納税義務に指向;;;;;;;;;;;;x
+tax_levy_law_feudal_3_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_4;貴族の納税・兵役義務の平衡;;;;;;;;;;;;x
+tax_levy_law_feudal_4_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_5;貴族の兵役義務に指向;;;;;;;;;;;;x
+tax_levy_law_feudal_5_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_6;貴族の兵役義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_feudal_6_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_7;貴族の兵役義務を重視;;;;;;;;;;;;x
+tax_levy_law_feudal_7_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_feudal_8;貴族の兵役義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_feudal_8_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic;市民;;;;;;;;;;;;x
+tax_levy_law_republic_desc;市民の法的義務;;;;;;;;;;;;x
+tax_levy_law_republic_0;市民の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_republic_0_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_1;市民の納税義務を重視;;;;;;;;;;;;x
+tax_levy_law_republic_1_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_2;市民の納税義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_republic_2_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_3;市民の納税義務に指向;;;;;;;;;;;;x
+tax_levy_law_republic_3_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_4;市民の納税・兵役義務の平衡;;;;;;;;;;;;x
+tax_levy_law_republic_4_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_5;市民の兵役義務に指向;;;;;;;;;;;;x
+tax_levy_law_republic_5_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_6;市民の兵役義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_republic_6_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_7;市民の兵役義務を重視;;;;;;;;;;;;x
+tax_levy_law_republic_7_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_republic_8;市民の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_republic_8_desc;この法律は領国内の市長に義務付けられた上納金及び供出兵力の大きさを決定します。市長は金の上納より兵力供出を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy;教会;;;;;;;;;;;;x
+tax_levy_law_theocracy_desc;教会の法的義務;;;;;;;;;;;;x
+tax_levy_law_theocracy_0;教会の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_0_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_1;教会の納税義務を重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_1_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_2;教会の納税義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_2_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_3;教会の納税義務に指向;;;;;;;;;;;;x
+tax_levy_law_theocracy_3_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_4;教会の納税・兵役義務の平衡;;;;;;;;;;;;x
+tax_levy_law_theocracy_4_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_5;教会の兵役義務に指向;;;;;;;;;;;;x
+tax_levy_law_theocracy_5_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_6;教会の兵役義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_6_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_7;教会の兵役義務を重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_7_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_theocracy_8;教会の兵役義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_theocracy_8_desc;この法律は領国内の教会に義務付けられた上納金及び供出兵力の大きさを決定します。聖職者は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal;部族;;;;;;;;;;;;x
+tax_levy_law_tribal_desc;部族の法的義務;;;;;;;;;;;;x
+tax_levy_law_tribal_0;部族の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_tribal_0_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_1;部族の納税義務を重視;;;;;;;;;;;;x
+tax_levy_law_tribal_1_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_2;部族の納税義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_tribal_2_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_3;部族の納税義務に指向;;;;;;;;;;;;x
+tax_levy_law_tribal_3_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_4;部族の納税・兵役義務の平衡;;;;;;;;;;;;x
+tax_levy_law_tribal_4_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_5;部族の兵役義務に指向;;;;;;;;;;;;x
+tax_levy_law_tribal_5_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_6;部族の兵役義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_tribal_6_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_7;部族の兵役義務を重視;;;;;;;;;;;;x
+tax_levy_law_tribal_7_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_tribal_8;部族の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_tribal_8_desc;この法律は領国内の部族に義務付けられた上納金及び供出兵力の大きさを決定します。部族長は金の上納と兵力供出の平衡を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta;イクター制;;;;;;;;;;;;x
+tax_levy_law_iqta_desc;イクター制の法的義務;;;;;;;;;;;;x
+tax_levy_law_iqta_0;イクター制の納税義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_iqta_0_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_1;イクター制の納税義務を重視;;;;;;;;;;;;x
+tax_levy_law_iqta_1_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_2;イクター制の納税義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_iqta_2_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_3;イクター制の納税義務に指向;;;;;;;;;;;;x
+tax_levy_law_iqta_3_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_4;イクター制の納税・兵役義務が平衡;;;;;;;;;;;;x
+tax_levy_law_iqta_4_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_5;イクター制の兵役義務に指向;;;;;;;;;;;;x
+tax_levy_law_iqta_5_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_6;イクター制の兵役義務をやや重視;;;;;;;;;;;;x
+tax_levy_law_iqta_6_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_7;イクター制の兵役義務を重視;;;;;;;;;;;;x
+tax_levy_law_iqta_7_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+tax_levy_law_iqta_8;イクター制の兵役義務を強く重視;;;;;;;;;;;;x
+tax_levy_law_iqta_8_desc;この法律は領国内の貴族に義務付けられた上納金及び供出兵力の大きさを決定します。貴族は兵力供出より金の上納を好む傾向があります。;;;;;;;;;;;;x
+execution_voting_power;処刑;;;;;;;;;;;;x
+execution_voting_power_desc;評議会が処刑に及ぼすことの出来る影響;;;;;;;;;;;;x
+execution_voting_power_0;処刑は統治者権限;;;;;;;;;;;;x
+execution_voting_power_0_desc;統治者に処刑に関する完全な権限があります。\n;;;;;;;;;;;;x
+execution_voting_power_0_option;統治者;;;;;;;;;;;;x
+execution_voting_power_1;処刑は評議会投票;;;;;;;;;;;;x
+execution_voting_power_1_desc;処刑時に評議員が投票を行います。\n;;;;;;;;;;;;x
+execution_voting_power_1_option;評議会;;;;;;;;;;;;x
+DYNAMIC_MERCENARY_COMPANY_FEUDAL;[Prev.Capital.County.GetAdjective]傭兵団;;;;;;;;;;;;x
+LAW_REJECTED_LOG;§Y$VASSAL$§!が §Y$TITLE$§!での§Y$LAW$§!法改正を拒否;;;;;;;;;;;;x
+LAW_REJECTED_SETUP;封臣が法改正を拒否;;;;;;;;;;;;x
+EVTDESC8218;内戦でこの国がずたずたにされるのは耐えられぬ。そうなるくらいなら貴様の要求を飲んで領国の方針を決める際の[Root.GetCouncilName]の権限を大きくすることを選ぼう。だが、この脅迫という裏切り行為を決して忘れることは無いからな…\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC8217;強大な派閥からの圧力を受け、§Y[From.GetTitledName]§!は[Root.GetCouncilName]の権限強化に同意した。;;;;;;;;;;;;x
+EVTDESC8216;内戦でこの国がずたずたにされることを恐れた[From.GetTitledName]は領国の方針を決める際の[Root.GetCouncilName]の権限強化を受け入れた。今回の一件における貴殿の貴重な支援は、決して忘れぬ。\n\n敬具\n[FromFrom.GetTitledName];;;;;;;;;;;;x
+faction_increase_council_power_ultimatum;評議会の権限強化の要求;;;;;;;;;;;;x
+faction_increase_council_power_ultimatum_desc;§Y[Root.Liege.GetBestName]§!に評議会の権限を強化するよう最後通牒を突きつけます。[Root.Liege.GetSubjectPronoun]がこれを拒絶した場合、自分の属する派閥が反乱軍として決起します。.;;;;;;;;;;;;x
+faction_increase_council_power_short;評議会の権限強化;;;;;;;;;;;;x
+faction_increase_council_power_title;[This.GetName]での評議会の権限強化;;;;;;;;;;;;x
+faction_increase_council_power_desc;メンバーは評議会によって行われる裁断の数を領主が単独で行うものより増やそうとします。一度派閥が十分に強大化すれば、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!に最後通牒を突きつける場合もあります。;;;;;;;;;;;;x
+opinion_increased_council_power;評議会の権限が強化された;;;;;;;;;;;;x
+opinion_decreased_council_power;評議会の権限が削減された;;;;;;;;;;;;x
+opinion_likes_new_obligation_law;変更後の法的義務への好感;;;;;;;;;;;;x
+opinion_dislikes_new_obligation_law;変更後の法的義務への反感;;;;;;;;;;;;x
+out_of_realm_inheritance_law_0;自由に継承;;;;;;;;;;;;x
+out_of_realm_inheritance_law_0_desc;封臣の称号の領国外への継承には特に制限がありません。;;;;;;;;;;;;x
+out_of_realm_inheritance_law_0_option;自由;;;;;;;;;;;;x
+out_of_realm_inheritance_law_1;継承の規制;;;;;;;;;;;;x
+out_of_realm_inheritance_law_1_desc;封臣称号の継承が他の勢力に渡ることが禁止されています。;;;;;;;;;;;;x
+out_of_realm_inheritance_law_1_option;違法;;;;;;;;;;;;x
+out_of_realm_inheritance_law_desc;継承の制御法を通過させると領国内の称号が他の主に忠誠を誓う人物に流出するのを防ぐことが出来ます。;;;;;;;;;;;;x
+out_of_realm_inheritance_law;封臣の称号の領邦外への継承;;;;;;;;;;;;x
+status_of_women;女性の地位;;;;;;;;;;;;x
+status_of_women_desc;中世社会は通常女性が地位・権力・影響力を持てない家父長制社会の元で動いていました。領主は女性により高い社会的地位へ就く許しを与えることでこの状態を変えることが出来ます。;;;;;;;;;;;;x
+status_of_women_0;伝統的な女性の地位;;;;;;;;;;;;x
+status_of_women_0_desc;女性は全ての役職を持つことが禁止されています。いくつかの政治体制では継承が男系に制限されます。;;;;;;;;;;;;x
+status_of_women_0_option;伝統的;;;;;;;;;;;;x
+status_of_women_1;最低限の女性の地位;;;;;;;;;;;;x
+status_of_women_1_desc;女性は責任を持つ人の裏方にあたる地位を占めることでいくらかの権力をもつことができます。;;;;;;;;;;;;x
+status_of_women_1_option;最低限;;;;;;;;;;;;x
+status_of_women_2;著しい女性の地位;;;;;;;;;;;;x
+status_of_women_2_desc;女性にも公的な権力が与えられ、公職に就くことが出来るようになります。;;;;;;;;;;;;x
+status_of_women_2_option;著しい;;;;;;;;;;;;x
+status_of_women_3;特筆すべき女性の地位;;;;;;;;;;;;x
+status_of_women_3_desc;女性の権力に対する制限は正式に廃止され、優れた女性には全ての進路が開かれています。;;;;;;;;;;;;x
+status_of_women_3_option;特筆すべき;;;;;;;;;;;;x
+status_of_women_4;完全な女性の地位;;;;;;;;;;;;x
+status_of_women_4_desc;強力な法律により古い制約が取り除かれたことにより社会のあらゆる権力の座にある女性に対する一般的見解に大きな影響がもたらされます。;;;;;;;;;;;;x
+status_of_women_4_option;完全;;;;;;;;;;;;x
+TOOLTIP_ALLOW_FEMALE_SPYMASTER;統治者の親族の女性は[Root.Holder.GetSpymasterName]の役職に就くことが認められています\n;;;;;;;;;;;;x
+TOOLTIP_DISALLOW_FEMALE_SPYMASTER;統治者の親族の女性が[Root.Holder.GetSpymasterName]の役職に就くことはもはや認められていません\n;;;;;;;;;;;;x
+TOOLTIP_ALLOW_FEMALE_CHANCELLOR;統治者の親族の女性は[Root.Holder.GetChancellorName]の役職に就くことが認められています\n;;;;;;;;;;;;x
+TOOLTIP_DISALLOW_FEMALE_CHANCELLOR;統治者の親族の女性が[Root.Holder.GetChancellorName]の役職に就くことはもはや認められていません\n;;;;;;;;;;;;x
+TOOLTIP_ALLOW_FEMALE_TREASURER;統治者の親族の女性は[Root.Holder.GetTreasurerName]の役職に就くことが認められています\n;;;;;;;;;;;;x
+TOOLTIP_DISALLOW_FEMALE_TREASURER;統治者の親族の女性が[Root.Holder.GetTreasurerName]の役職に就くことはもはや認められていません\n;;;;;;;;;;;;x
+TOOLTIP_ALLOW_FEMALE_MARSHAL;統治者の親族の女性は[Root.Holder.GetMarshalName]の役職に就くことが認められています\n;;;;;;;;;;;;x
+TOOLTIP_DISALLOW_FEMALE_MARSHAL;統治者の親族の女性が[Root.Holder.GetMarshalName]の役職に就くことはもはや認められていません\n;;;;;;;;;;;;x
+EVTDESC_ZE_2100;最近[target_child.GetFirstName]から[Root.Religion.GetHighGodName]と[Root.Religion.GetName]の教えのしきたりについてよく質問されるようになった。;;;;;;;;;;;;x
+EVTOPTA_ZE_2100;[target_child.GetHerHim]にもそろそろ[Root.Religion.GetHighGodName]のことについて教えるべきかな;;;;;;;;;;;;x
+EVTOPTB_ZE_2100;[target_child.GetHerHim]は知らない方がいいだろう。;;;;;;;;;;;;x
+EVTDESC_ZE_2101;[GetFromRelation]の信仰としきたりへの興味を持ち、ここ数週間ずっと[From.Religion.GetHighGodName]とは何かと[From.GetSheHe]を質問攻めにしていたが、遂に今日私の質問に答えてくれた。;;;;;;;;;;;;x
+EVTOPTA_ZE_2101;[From.Religion.GetHighGodName]に栄光あれ！;;;;;;;;;;;;x
+EVTOPTB_ZE_2101;なんと一貫性に欠ける考えだ！;;;;;;;;;;;;x
+EVTDESC_ZE_2102;[GetFromRelation]の[From.GetFirstName]は[FromFrom.GetTitledFirstName]に教えられて[FromFrom.Religion.GetName]の教えの原則を学んでいるとのことだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_2102;興味深い。;;;;;;;;;;;;x
+EVTDESC_ZE_2120;ここ数ヶ月、[target_child.GetFirstName]は我々の母語の勉強に根気強く取り組み、遂に我が父祖達の歴史を勉強したいとも言い出すようになった。;;;;;;;;;;;;x
+EVTOPTA_ZE_2120;ちゃんと褒めてやらねば。;;;;;;;;;;;;x
+EVTOPTB_ZE_2120;[target_child.GetSheHe]にちゃんと自分たちの本来の慣習を学ぶように言い聞かす。;;;;;;;;;;;;x
+EVTDESC_ZE_2121;私の現地語の勉強の進捗に喜んだ[From.GetFirstName]は[From.Culture.GetName]人の偉大なる父祖達について書かれた本を持ってきてくれた。;;;;;;;;;;;;x
+EVTOPTA_ZE_2121;なんて魅力的なんだ！;;;;;;;;;;;;x
+EVTOPTB_ZE_2121;むしろ自分の一族の遺産について勉強しよう。;;;;;;;;;;;;x
+EVTDESC_ZE_2122;[GetFromRelation]の[From.GetFirstName]が素晴らしい後見人から大いに影響を受けているとの噂が立っている。その噂によれば[From.GetFirstName]はもう本物の[From.Culture.GetName]人だそうだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_2122;それが有益な影響となることを願おう。;;;;;;;;;;;;x
+EVTDESC_ZE_2130;[GetFromFromRootCompliment][Root.GetTitledNameWithNick]殿へ\n\n自分の被後見人[From.GetFirstName]に[FromFrom.Religion.GetName]信者の[FromFrom.Culture.GetName]人としての躾を行う許しをいただけないでしょうか？\n\n（署名）[FromFrom.GetTitledFirstName].;;;;;;;;;;;;x
+EVTOPTA_ZE_2130;それがふさわしいように思う。;;;;;;;;;;;;x
+EVTOPTB_ZE_2130;[From.GetHerHim]を野蛮人にさせるような真似は許せん！;;;;;;;;;;;;x
+EVTDESCA_ZE_2132;親愛なる[GetFromRootCompliment][Root.GetFirstName]殿へ\n\n貴方が[FromFrom.GetFirstName]に熱心な躾をしていることには敬服するが、[FromFrom.GetHerHim]の教育については今の計画を継続することが一番だと私は思っている;;;;;;;;;;;;x
+EVTDESCB_ZE_2132;[GetFromRootInsult][Root.GetTitledFirstName]へ\n\n自分がどれだけ突飛な提案をしたか分かっているな？[FromFrom.GetFirstName]は真っ当で文化のある大人になることが嘱望されているのであって、明らかにそれはお前の奇妙な儀式と不快な慣習ではない。;;;;;;;;;;;;x
+EVTOPTA_ZE_2132;私の望んでいた返事ではなかった。;;;;;;;;;;;;x
+EVTOPTB_ZE_2132;何という失礼な返事だ！;;;;;;;;;;;;x
+ask_wards_liege_to_allow_culture_religion_swap;伝統の養育方針を行う許可を求める;;;;;;;;;;;;x
+EVTDESC_ZE_13610;最近、ある特別な人に、特別な感情を抱くようになった。その奇妙な衝動のせいで、その人を抱きしめ、お近づきになりたくて仕方ない。その特別な感情の対象は…;;;;;;;;;;;;x
+EVTOPTA_ZE_13610;……蹄鉄工の徒弟だ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13610_MALE;……大工の娘だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13610;……大工の娘だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13610_MALE;……蹄鉄工の徒弟だ。;;;;;;;;;;;;x
+EVTOPTC_ZE_13610;……いや、この衝動は自分のためにも抑えた方が良い。;;;;;;;;;;;;x
+EVTOPTD_ZE_13610;……いいや、こんな気持ちは間違っている！;;;;;;;;;;;;x
+EVTDESCA_ZE_13611;何週間も好機を伺ったすえ、ついに思いを寄せる蹄鉄工の徒弟と納屋の後ろで二人きりになった。手のひらが汗に濡れ、鼓動が胸を打つ。;;;;;;;;;;;;x
+EVTDESCB_ZE_13611;何週間も好機を伺ったすえ、ついに思いを寄せる大工の娘と納屋の後ろで二人きりになった。手のひらが汗に濡れ、鼓動が胸を打つ。;;;;;;;;;;;;x
+EVTOPTA_ZE_13611_CARP;永遠の愛を彼女に誓う。;;;;;;;;;;;;x
+EVTOPTA_ZE_13611_FERR;永遠の愛を彼に誓う。;;;;;;;;;;;;x
+EVTOPTB_ZE_13611_CARP;彼女の頬にキスをする。;;;;;;;;;;;;x
+EVTOPTB_ZE_13611_FERR;彼の頬にキスをする。;;;;;;;;;;;;x
+EVTOPTC_ZE_13611_CARP;納屋の中で抱擁を交わしたいと告げる。;;;;;;;;;;;;x
+EVTOPTC_ZE_13611_FERR;納屋の中で抱擁を交わしたいと告げる。;;;;;;;;;;;;x
+revoke_title_law;称号の剥奪;;;;;;;;;;;;x
+revoke_title_law_desc;統治者が臣下から称号を剥奪するための権利に関する法律です。;;;;;;;;;;;;x
+revoke_title_law_0;称号の剥奪の禁止;;;;;;;;;;;;x
+revoke_title_law_0_desc;統治者が世襲称号の所有権に干渉することは、いかなる状況下でも許されません。;;;;;;;;;;;;x
+revoke_title_law_0_option;禁止;;;;;;;;;;;;x
+revoke_title_law_1;称号の剥奪が可能;;;;;;;;;;;;x
+revoke_title_law_1_desc;統治者は反逆者や不法な臣下から世襲称号を合法的に剥奪することを認められています。;;;;;;;;;;;;x
+revoke_title_law_1_option;可能;;;;;;;;;;;;x
+revoke_title_law_2;宗教的統制の委任;;;;;;;;;;;;x
+revoke_title_law_2_desc;統治者は臣下に対する宗教的統制を執行する権利を取得しており、今では異教徒と異端者の称号を自由に剥奪することができます。;;;;;;;;;;;;x
+revoke_title_law_2_option;宗教;;;;;;;;;;;;x
+ze_administration_laws;支配体制;;;;;;;;;;;;x
+ze_administration_laws_desc;この法律は、社会の統制と財産所有の組織法を規定します。;;;;;;;;;;;;x
+ze_administration_laws_1;後期封建制;;;;;;;;;;;;x
+ze_administration_laws_1_desc;後期封建制の領主は、権力及び財産の長期的増加を促進する継承の重要性を理解しています。この制度では封臣を抑制しないと、時間経過と共にますます強大になる傾向があります。;;;;;;;;;;;;x
+ze_administration_laws_1_option;後期;;;;;;;;;;;;x
+pattern_this_is_not_my_war_target_custom_tooltip;今の自分はより重要度の高い戦争の最中である\n;;;;;;;;;;;;x
+title_councilmember_king_desc;相談役は尊敬される領国の評議員であり、支配者が対処しなければならない事項について適切な助言を与える責任があります。;;;;;;;;;;;;x
+title_councilmember_emperor_desc;相談役は尊敬される領国の評議員であり、支配者が対処しなければならない事項について適切な助言を与える責任があります。;;;;;;;;;;;;x
+your_allies;§Y我が方に参戦する同盟軍です。§!;;;;;;;;;;;;x
+enemy_allies;§Y敵方に参戦する同盟軍です。§!;;;;;;;;;;;;x
+relations_instant;§Y$NAME$の関係§!;;;;;;;;;;;;x
+relations_delayed;友人、ライバル、婚姻関係と恋人;;;;;;;;;;;;x
+enforce_realm_peace;私戦禁止令の布告;;;;;;;;;;;;x
+EVTDESC_ZE_11001;我が傭兵隊長の[From.GetTitledName]は[chosen_child.GetSonDaughter]の[chosen_child.GetFirstName]に大層興味を持ったようで、私の元へやってくると婚約を申し出てきた。このような結婚で生まれた子供は[From.GetTitledName]の家に属することになる。;;;;;;;;;;;;x
+EVTOPTA_ZE_11001;悪くない考えだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_11001;ふざけるな！;;;;;;;;;;;;x
+EVTOPTA_ZE_9100_TOOLTIP;全ての港のある州で徴税に問題が発生する\n;;;;;;;;;;;;x
+EVTOPTB_ZE_8112;[From.GetFirstName]は私に口出しすべきではない。;;;;;;;;;;;;x
+EVTDESC_ZE_8113;[From.GetTitledName]は助けてもらったことに大変感謝している様子で、この貸しを返すためならなんでもいたしましょうと誓った。;;;;;;;;;;;;x
+EVTOPTA_ZE_8113;お役に立てて嬉しいよ。;;;;;;;;;;;;x
+EVTDESC_ZE_8114;[From.GetTitledName]は私がプライベートな議論に割って入ったことに激怒し、今後一切、[From.GetSheHe]らの関係に口を出さないようにとはねつけた。;;;;;;;;;;;;x
+EVTOPTA_ZE_8114;むしろ[From.GetTitledName]は私に感謝すべきなのに！;;;;;;;;;;;;x
+EVTDESC_ZE_11011;[From.GetFullName]はより多くの部隊を送り込み、より大きく、より良い傭兵部隊にすることを提案してきた。より大きな力を任せることは[From.GetSheHeCap]が今まで得てきた経験に対して相互の尊敬と信用を示す自然なやり方だということを主張している。;;;;;;;;;;;;x
+EVTOPTA_ZE_11011;提案を受け入れる。;;;;;;;;;;;;x
+EVTOPTB_ZE_11011;丁重に断る。;;;;;;;;;;;;x
+EVTDESC_ZE_11021;『[From.GetFullName]の』傭兵部隊の解散という決定に納得できなかった[From.GetSheHeCap]は、あなたの兵士を自分のものにして姿を消したと報告された。;;;;;;;;;;;;x
+EVTOPTA_ZE_11021;次に[From.GetHerHim]に会ったときは…;;;;;;;;;;;;x
+EVTOPTA_ZE_11021_TOOLTIP;彼らがどうなるかはまた噂になるだろう;;;;;;;;;;;;x
+dissolve_mercenary_company_feudal_desc;傭兵隊を廃止します。傭兵隊長はこれをよく思わないかもしれません。;;;;;;;;;;;;x
+law_voting_power;評議会の権限;;;;;;;;;;;;x
+law_voting_power_desc;評議会に権限を与えたり、廃止したりします。;;;;;;;;;;;;x
+law_voting_power_0;絶対君主制;;;;;;;;;;;;x
+law_voting_power_1;権限を持つ評議会;;;;;;;;;;;;x
+law_voting_power_0_desc;統治者は政治と法律に対する完全な権限を持ちます。\n;;;;;;;;;;;;x
+law_voting_power_1_desc;これは評議会に権限を与えます。\n;;;;;;;;;;;;x
+law_voting_power_0_option;廃止;;;;;;;;;;;;x
+law_voting_power_1_option;権限付与;;;;;;;;;;;;x
+banish_voting_power;追放;;;;;;;;;;;;x
+banish_voting_power_desc;領地から人物を追放する際に影響する評議会権限です。;;;;;;;;;;;;x
+banish_voting_power_0;追放は統治者権限;;;;;;;;;;;;x
+banish_voting_power_1;追放は評議会投票;;;;;;;;;;;;x
+banish_voting_power_0_desc;統治者は追放に完全な権限を持ちます。\n;;;;;;;;;;;;x
+banish_voting_power_1_desc;評議会議員は追放に投票します。\n;;;;;;;;;;;;x
+banish_voting_power_0_option;統治者;;;;;;;;;;;;x
+banish_voting_power_1_option;評議会;;;;;;;;;;;;x
+revoke_title_voting_power;称号の剥奪;;;;;;;;;;;;x
+revoke_title_voting_power_desc;称号を剥奪する際に影響する評議会権限です。;;;;;;;;;;;;x
+revoke_title_voting_power_0;称号剥奪は統治者権限;;;;;;;;;;;;x
+revoke_title_voting_power_1;称号剥奪は評議会投票;;;;;;;;;;;;x
+revoke_title_voting_power_0_desc;統治者は称号剥奪に完全な権限を持ちます。\n;;;;;;;;;;;;x
+revoke_title_voting_power_1_desc;評議会議員は称号剥奪に投票します。\n;;;;;;;;;;;;x
+revoke_title_voting_power_0_option;統治者;;;;;;;;;;;;x
+revoke_title_voting_power_1_option;評議会;;;;;;;;;;;;x
+grant_title_voting_power;称号の授与;;;;;;;;;;;;x
+grant_title_voting_power_desc;称号を授与する際に影響する評議会権限です。;;;;;;;;;;;;x
+grant_title_voting_power_0;称号授与は統治者権限;;;;;;;;;;;;x
+grant_title_voting_power_1;称号授与は評議会投票;;;;;;;;;;;;x
+grant_title_voting_power_0_desc;統治者は称号授与に完全な権限を持ちます。\n;;;;;;;;;;;;x
+grant_title_voting_power_1_desc;評議会議員は称号授与に投票します。\n;;;;;;;;;;;;x
+grant_title_voting_power_0_option;統治者;;;;;;;;;;;;x
+grant_title_voting_power_1_option;評議会;;;;;;;;;;;;x
+imprison_voting_power;投獄;;;;;;;;;;;;x
+imprison_voting_power_desc;投獄する際に影響する評議会権限です。;;;;;;;;;;;;x
+imprison_voting_power_0;投獄は統治者権限;;;;;;;;;;;;x
+imprison_voting_power_1;投獄は評議会投票;;;;;;;;;;;;x
+imprison_voting_power_0_desc;統治者は投獄に完全な権限を持ちます。\n;;;;;;;;;;;;x
+imprison_voting_power_1_desc;評議会議員は投獄に投票します。\n;;;;;;;;;;;;x
+imprison_voting_power_0_option;統治者;;;;;;;;;;;;x
+imprison_voting_power_1_option;評議会;;;;;;;;;;;;x
+war_voting_power;宣戦布告;;;;;;;;;;;;x
+war_voting_power_desc;宣戦布告する際に影響する評議会権限です。;;;;;;;;;;;;x
+war_voting_power_0;宣戦布告は統治者権限;;;;;;;;;;;;x
+war_voting_power_1;宣戦布告は評議会投票;;;;;;;;;;;;x
+war_voting_power_0_desc;統治者は宣戦布告に完全な権限を持ちます。\n;;;;;;;;;;;;x
+war_voting_power_1_desc;評議会議員は宣戦布告に投票します。\n;;;;;;;;;;;;x
+war_voting_power_0_option;統治者;;;;;;;;;;;;x
+war_voting_power_1_option;評議会;;;;;;;;;;;;x
+opinion_lowered_tribal_organization;部族組織法の権力を低下させた;;;;;;;;;;;;x
+EVTDESC38315;私は時と場所を選ばず卑猥な言葉を叫んでおり、人々は私が悪魔に取り憑かれたのだと信じている。;;;;;;;;;;;;x
+EVTOPTA_ZE_6021;[moving_councillor.GetSheHeCap]は[Root.GetChancellorName]でなければならない。;;;;;;;;;;;;x
+EVTOPTB_ZE_6021;[moving_councillor.GetSheHeCap]は[Root.GetMarshalName]でなけらばならない。;;;;;;;;;;;;x
+EVTOPTC_ZE_6021;[moving_councillor.GetSheHeCap]は[Root.GetTreasurerName]でなけらばならない。;;;;;;;;;;;;x
+EVTOPTD_ZE_6021;[moving_councillor.GetSheHeCap]は[Root.GetSpymasterName]でなければならない。;;;;;;;;;;;;x
+EVTOPTE_ZE_6021;[moving_councillor.GetSheHeCap]は[Root.GetLordSpiritualName]でなければならない。;;;;;;;;;;;;x
+EVTOPTF_ZE_6021;やはり気が変わった;;;;;;;;;;;;x
+EVTDESCA_ZE_12100;Today [curious_events_char_1.GetFullName] said [curious_events_char_1.GetSheHe] had to attend to various important matters, and I would have to spend the day alone.;;;;;;;;;;;;x
+EVTDESCB_ZE_12100;早起きしたら、[curious_events_char_2.GetTitledName]宛の封がされた手紙を見つけた。なんて書かれてるんだろう？;;;;;;;;;;;;x
+EVTDESCC_ZE_12100;突然隣の茂みから何かが動くのが聞こえた。誰かいるのかと尋ねたが返事はなかった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12100;I will follow [curious_events_char_1.GetHerHim] to see what [curious_events_char_1.GetSheHe] is up to!;;;;;;;;;;;;x
+EVTOPTB_ZE_12100;I can play all day!;;;;;;;;;;;;x
+EVTOPTC_ZE_12100;それをテーブルに置き、後でそれについて尋ねる。;;;;;;;;;;;;x
+EVTOPTD_ZE_12100;調べてみよう。大事なことかもしれないし。;;;;;;;;;;;;x
+EVTOPTE_ZE_12100;調べてみよう。;;;;;;;;;;;;x
+EVTOPTF_ZE_12100;誰かに教えよう。;;;;;;;;;;;;x
+EVTDESCA_ZE_12102;[From.GetFirstName] に家にいるよう伝えて外に出たが、私が[From.GetHerHim]に贈るプレゼントを購入したとき、振り向くと[From.GetHerHim] が私から隠れようとしているのが見えた。せっかくのサプライズが台無しだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12102;I come back after a day out fetching some things at the market and see [From.GetFirstName] patiently waiting for me like I asked.;;;;;;;;;;;;x
+EVTDESCC_ZE_12102;誰かが城内で誰かがコソコソ動き回っている音を聞こえたので盗人と思い、階段を下ると[From.GetFirstName]が私への手紙を勝手に開封しているのを見つけた。;;;;;;;;;;;;x
+EVTDESCD_ZE_12102;I had expected some letters today but couldn't find any. I was suspicious at first but when I asked [From.GetFirstName] [From.GetSheHe] pointed to a table where they were already sorted for me, untouched.;;;;;;;;;;;;x
+EVTOPTA_ZE_12102;[From.GetHerHim]の耳を掴み、説教する。;;;;;;;;;;;;x
+EVTOPTB_ZE_12102;[From.GetHerHim]を責めることはできない。;;;;;;;;;;;;x
+EVTOPTC_ZE_12102;[From.GetHerHim]にいくつかお菓子を与えよう。;;;;;;;;;;;;x
+EVTOPTD_ZE_12102;[From.GetHerHim]に静かにするよう説教をする。;;;;;;;;;;;;x
+EVTOPTE_ZE_12102;[From.GetSheHeCap]は本を読む訓練ができただろう。;;;;;;;;;;;;x
+EVTOPTF_ZE_12102;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;;x
+EVTDESCA_ZE_12104;[From.GetTitledName] was buying things at the market and [From.GetSheHe] saw me there. Then [From.GetSheHe] pinched my ear and said I should do what I am told. [From.GetSheHeCap] was getting me a treats at the market but now I won't get any!;;;;;;;;;;;;x
+EVTDESCB_ZE_12104;I followed [From.GetTitledName] to the market, but then [From.GetSheHe] caught me. [From.GetSheHeCap] laughed and said I was hopeless.;;;;;;;;;;;;x
+EVTDESCC_ZE_12104;[From.GetTitledName]に手紙を開けてるとこを見られて、引っ掴まれてしまった。それからあいつは私の指を紙で切りつけて、二度と人の用事に首を突っ込むんじゃないと言ってきた。;;;;;;;;;;;;x
+EVTDESCD_ZE_12104;[From.GetTitledName] came downstairs just as I was opening the letter but [From.GetSheHe] wasn't angry with me. [From.GetSheHeCap] told me it is considered rude to go through other people's belongings.;;;;;;;;;;;;x
+EVTDESCE_ZE_12104;それはおぞましく巨大なネズミだった。そいつは鳴き声を上げて、私の手に噛みつき、傷を負わせた! もうたくさん!;;;;;;;;;;;;x
+EVTDESCF_ZE_12104;巣から落ちたらしい、一羽の傷ついた鳥を見つけた。回復するまではペットにできるかもしれない;;;;;;;;;;;;x
+EVTOPTA_ZE_12104;[From.GetSheHeCap] is hiding something.;;;;;;;;;;;;x
+EVTOPTB_ZE_12104;I should apologize.;;;;;;;;;;;;x
+EVTOPTC_ZE_12104;[From.GetSheHeCap] is so much fun!;;;;;;;;;;;;x
+EVTOPTD_ZE_12104;秘密の手紙だったんだ！;;;;;;;;;;;;x
+EVTOPTE_ZE_12104;人のものを読むべきじゃなかったな。;;;;;;;;;;;;x
+EVTOPTF_ZE_12104;It's probably a boring letter anyway.;;;;;;;;;;;;x
+EVTOPTG_ZE_12104;I'm glad I found out!;;;;;;;;;;;;x
+EVTOPTH_ZE_12104;I was meant to learn.;;;;;;;;;;;;x
+EVTOPTI_ZE_12104;What a great day.;;;;;;;;;;;;x
+EVTDESCA_ZE_12106;[From.GetFirstName]は行いを正そうとするわたしのやり方に反応しなかった。それどころか[From.GetSheHe]はこちらに疑いの眼差しを向けている。;;;;;;;;;;;;x
+EVTDESCB_ZE_12106;[From.GetFirstName] Seems regretful that [From.GetSheHe] disobeyed me. Hopefully It won't happen again.;;;;;;;;;;;;x
+EVTDESCC_ZE_12106;[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.;;;;;;;;;;;;x
+EVTDESCD_ZE_12106;[From.GetFirstName]に説教をし、[From.GetSheHe]はプライバシーについてよく理解したように思える。;;;;;;;;;;;;x
+EVTOPTA_ZE_12106;不安だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12106;There is hope for the child.;;;;;;;;;;;;x
+EVTOPTC_ZE_12106;Maybe I should have dealt with it differently.;;;;;;;;;;;;x
+EVTOPTD_ZE_12106;正しき道への第一歩だ;;;;;;;;;;;;x
+EVTOPTE_ZE_12100_TOOLTIP1;Find something nasty.;;;;;;;;;;;;x
+EVTOPTE_ZE_12100_TOOLTIP2;Find a friend.;;;;;;;;;;;;x
+EVTDESCA_ZE_12080;[conscientious_events_char_1.GetFullName]の私室が非常に散らかっているのを見た。書類、本、その他もろもろがそこら中に散乱しているのだ！;;;;;;;;;;;;x
+EVTDESCB_ZE_12080;After supper, me and [conscientious_events_char_2.GetFirstName] were supposed to help do the dishes. But [conscientious_events_char_2.GetFirstName] hid the dirty dishes and wants to go play instead.;;;;;;;;;;;;x
+EVTDESCC_ZE_12080;日が暮れてしまっているが、遊んでいるうちに下ろしたてのベストをどこかに置き忘れてしまったようだ。今戻ってしまったら、だらしない子だと思われてしまう！;;;;;;;;;;;;x
+EVTOPTA_ZE_12080;I will sort it out for [conscientious_events_char_1.GetHerHim].;;;;;;;;;;;;x
+EVTOPTB_ZE_12080;So much to do outside.;;;;;;;;;;;;x
+EVTOPTC_ZE_12080;[conscientious_events_char_2.GetHerHim]に伝えなければ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12080;誰も見つけることはないだろう!!;;;;;;;;;;;;x
+EVTOPTE_ZE_12080;見つけなくちゃ。;;;;;;;;;;;;x
+EVTOPTF_ZE_12080;家に戻った時に説明しよう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12080_TOOLTIP1;病気になる;;;;;;;;;;;;x
+EVTOPTE_ZE_12080_TOOLTIP2;見つかる;;;;;;;;;;;;x
+EVTDESCA_ZE_12082;私室に入ると、どうやら空き時間にしていた仕事が全て片付いているようだった。本はアルファベット順にきちんと並べられ、メモ用紙は捨てられていた。みたところ[From.GetFullName]が「掃除」を行ったのだろう。;;;;;;;;;;;;x
+EVTDESCB_ZE_12082;晩ごはんのあと、[From.GetFirstName]と一緒に皿洗いをやらされることになったんだ。皿なんか隠しちゃえばいいと思ったけど、[From.GetFirstName]が言いつけたせいで結局全部自分でやらなきゃいけなくなった。;;;;;;;;;;;;x
+EVTDESCC_ZE_12082;After supper, me and [From.GetFirstName] had to clean up. But we hid all the dishes where no one could see and now we have been playing all evening.;;;;;;;;;;;;x
+EVTOPTA_ZE_12082;[From.GetHerHis]の部屋を散らかしてやろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_12082;掃除は私の美徳ではない…;;;;;;;;;;;;x
+EVTOPTC_ZE_12082;不公平だ！逃げてやる。;;;;;;;;;;;;x
+EVTOPTD_ZE_12082;お皿のばか。;;;;;;;;;;;;x
+EVTOPTE_ZE_12082;We had so much fun together.;;;;;;;;;;;;x
+EVTDESCA_ZE_12084;[From.GetTitledName]は大事な本を見つけられず、私が部屋を勝手に掃除したことが気に食わなかった。 今や [From.GetSheHe]は私の部屋を散らかして、私が [From.GetHersHis]の部屋に関わることを禁じた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12084;[From.GetFirstName] ran away when I told on him. The others said I don't have to do all the work alone. But I was a good [Root.GetBoyGirl] for telling them.;;;;;;;;;;;;x
+EVTDESCC_ZE_12084;[From.GetFirstName] was angry with me, but we did finish all the work together. Maybe [From.GetSheHe] doesn't like me any more.;;;;;;;;;;;;x
+EVTDESCD_ZE_12084;日が暮れてからずっと外に出ており、息をする度にのどが痛くなっていった。大人たちはしばらく休むように言っている。;;;;;;;;;;;;x
+EVTDESCE_ZE_12084;やった！ベストを見つけた。なくしたことに誰も気づいてないよね。;;;;;;;;;;;;x
+EVTOPTA_ZE_12084;今再び清掃せねばなるまい。;;;;;;;;;;;;x
+EVTOPTB_ZE_12084;ケチくさい[From.GetSheHeCap]の話をみんなにするとしよう！;;;;;;;;;;;;x
+EVTOPTC_ZE_12084;I will do it myself.;;;;;;;;;;;;x
+EVTOPTD_ZE_12084;I can spend time reading.;;;;;;;;;;;;x
+EVTOPTE_ZE_12084;The grownups are happy.;;;;;;;;;;;;x
+EVTOPTF_ZE_12084;I feel terrible.;;;;;;;;;;;;x
+EVTOPTG_ZE_12084;また何かあっても自分でなんとかできるかな。;;;;;;;;;;;;x
+EVTDESCA_ZE_12086;[From.GetFirstName]は、私の話が終わった後、[From.GetHerHis]の部屋を静かに清掃した。これは非常に徹底とした子どものようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12086;[From.GetFirstName] was very upset with me and told everyone what I did.;;;;;;;;;;;;x
+EVTOPTA_ZE_12086;すべきではなかったな。;;;;;;;;;;;;x
+EVTOPTB_ZE_12086;小さな怪物だな。;;;;;;;;;;;;x
+EVTDESCA_ZE_12090;就寝の時間なのにお気に入りのおもちゃが見つからない!寝るときはいつもそれをもっているのに!;;;;;;;;;;;;x
+EVTDESCB_ZE_12090;食べ物が皿の上にあるけど、湯気が出ているんだ。食べても安全なのかな?[fussy_events_char_2.GetTitledName]はこっちを見ているだけだし。;;;;;;;;;;;;x
+EVTDESCC_ZE_12090;夜、使用人たちに家で一緒にケーキを食べないかと招待された。 しかし私がそこに行こうとした途端、雨が降り始めた。;;;;;;;;;;;;x
+EVTOPTA_ZE_12090;それなしでは眠れない!;;;;;;;;;;;;x
+EVTOPTB_ZE_12090;大人の[Root.GetBoyGirl]になる時だ。;;;;;;;;;;;;x
+EVTOPTC_ZE_12090;熱すぎるよ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12090;[fussy_events_char_2.GetFirstName]を信用すべきだ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12090;走ればなんとかなるだろう。;;;;;;;;;;;;x
+EVTOPTF_ZE_12090;濡れたくないので、待つことにしよう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12090_TOOLTIP1;難なく成し遂げた;;;;;;;;;;;;x
+EVTOPTE_ZE_12090_TOOLTIP2;寒い中あまりに長い時間外にいた;;;;;;;;;;;;x
+EVTDESCA_ZE_12092;[From.GetFirstName]はお気に入りのおもちゃが失くなっていて、そのおもちゃなしでは寝ないと言った。私が今日整理をしている中で捨ててしまったのかもしれない。;;;;;;;;;;;;x
+EVTDESCB_ZE_12092;[From.GetFirstName]は[From.GetHerHis]のお気に入りのおもちゃが見つからないことに不安を覚えていたが、今は落ち着いて眠っているようだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_12092;今日の食事で、[From.GetFirstName]は食べ物に触れてさえいないのに熱すぎると不満を漏らした。;;;;;;;;;;;;x
+EVTDESCD_ZE_12092;[From.GetFirstName]は夕食の間、おいしくに夕食を食べとても幸せだった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12092;新しいおもちゃを与える。;;;;;;;;;;;;x
+EVTOPTB_ZE_12092;私がおもちゃを見つけなければならないだろう。;;;;;;;;;;;;x
+EVTOPTC_ZE_12092;大人への一歩だ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12092;触って確認してみろ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12092;待っても良いと[From.GetHerHim]に告げる。;;;;;;;;;;;;x
+EVTOPTF_ZE_12092;That's nice.;;;;;;;;;;;;x
+EVTDESCA_ZE_12094;[From.GetFirstName]は私に新しいおもちゃを約束した。明日は素敵なものが見つかるといいねと、[From.GetSheHeCap]はいった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12094;あちこち探した結果、[From.GetFirstName]は最終的におもちゃを見つけられた。それはゴミ箱の中からだった。;;;;;;;;;;;;x
+EVTDESCC_ZE_12094;[From.GetFirstName]はテーブルの上に手を伸ばし、私のごはんに手で触ってみせた。[From.GetSheHeCap]は熱くて食べられないなんてことはなかったよと言った。;;;;;;;;;;;;x
+EVTDESCD_ZE_12094;[From.GetFirstName]は怒ったように、食べ物が適温になるまで待てといった。もう十分冷めたみたいだ。;;;;;;;;;;;;x
+EVTDESCE_ZE_12094;私はとても早く走り時間までに到着した。私はとても楽しい時間を過ごし、使用人たちも私のことを好いているようだ。;;;;;;;;;;;;x
+EVTDESCF_ZE_12094;使用人の家に着いたが、びしょ濡れになってしまった。使用人とは楽しく過ごすことができたが、寒い中私を家に帰すことに申し訳なさそうであった…;;;;;;;;;;;;x
+EVTOPTA_ZE_12094;失くしたおもちゃじゃないとだめだ!!;;;;;;;;;;;;x
+EVTOPTB_ZE_12094;それならいいよ!;;;;;;;;;;;;x
+EVTOPTC_ZE_12094;むちゃくちゃ臭い!;;;;;;;;;;;;x
+EVTOPTD_ZE_12094;ああ、失くしたのかと思ったよ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12094;でも今度は[From.GetSheHe]が触ったせいで…;;;;;;;;;;;;x
+EVTOPTF_ZE_12094;大丈夫そうだね。;;;;;;;;;;;;x
+EVTOPTG_ZE_12094;でも今はもう冷めちゃったよ。;;;;;;;;;;;;x
+EVTOPTH_ZE_12094;わかったよ、冷たいまま食べるよ。;;;;;;;;;;;;x
+EVTOPTI_ZE_12094;ヤム、ヤム。;;;;;;;;;;;;x
+EVTOPTJ_ZE_12094;あまりよかったとは感じられない;;;;;;;;;;;;x
+EVTDESCA_ZE_12096;新しいおもちゃを買う案は[From.GetFirstName]に拒否されました。[From.GetSheHeCap]はこのような案を提案したことに動揺しています。;;;;;;;;;;;;x
+EVTDESCB_ZE_12096;[From.GetFirstName]は次の日新しいおもちゃを買ってもらうことに同意しそれで話が付きました。;;;;;;;;;;;;x
+EVTDESCC_ZE_12096;私は泣いている[From.GetFirstName]のおもちゃをゴミ箱から見つけた。しかし、[From.GetSheHe]はその臭いから満足することはなかった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12096;[From.GetFirstName]は私が[From.GetHerHis]のおもちゃを見つけた後ようやく眠りにつきました。;;;;;;;;;;;;x
+EVTDESCE_ZE_12096;何をしたところで[From.GetFirstName]を落ち着かせることはできないようだ。[From.GetSheHeCap]は何も食べようとしないだろうし、それに対処する気力がない。;;;;;;;;;;;;x
+EVTDESCF_ZE_12096;[From.GetFirstName] finally decided to eat [From.GetHerHis] food.;;;;;;;;;;;;x
+EVTOPTA_ZE_12096;この子はどうすれば喜ぶんだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12096;What a relief.;;;;;;;;;;;;x
+EVTOPTC_ZE_12096;臭い！;;;;;;;;;;;;x
+EVTOPTD_ZE_12096;ああ、失くしたのかと思ったよ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12096;どうしようもない。;;;;;;;;;;;;x
+EVTOPTF_ZE_12096;Peace at last.;;;;;;;;;;;;x
+EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName] is so kind to me. And [idolizer_events_char_1.GetSheHe] seems to know so much about everything.;;;;;;;;;;;;x
+EVTDESCB_ZE_12110;Spending time with [idolizer_events_char_2.GetFirstName] is great. We get along so well. Even when we do chores together time goes by so fast.;;;;;;;;;;;;x
+EVTDESCC_ZE_12110;しばらくの間[Root.Religion.GetPriestTitle]とともに祈りを捧げた。そして、寺院にいた他の何人かの人々は帰る準備をしている。;;;;;;;;;;;;x
+EVTOPTA_ZE_12110;I'll write [idolizer_events_char_1.GetHerHim] a song!;;;;;;;;;;;;x
+EVTOPTB_ZE_12110;I should tell the courtiers that I like it here.;;;;;;;;;;;;x
+EVTOPTC_ZE_12110;Everything is better when [idolizer_events_char_2.GetSheHe] is around.;;;;;;;;;;;;x
+EVTOPTD_ZE_12110;I will stay friends with [idolizer_events_char_2.GetHerHim] forever.;;;;;;;;;;;;x
+EVTOPTE_ZE_12110;[Root.Religion.GetRandomGodNameCap]は献身に気づくだろう。;;;;;;;;;;;;x
+EVTOPTF_ZE_12110;自分のために、施しを集めることができる。;;;;;;;;;;;;x
+EVTDESCA_ZE_12112;[From.GetFirstName]が私の栄誉を称える歌を作った。[From.GetSheHe]は私が世界で最も優れた人であることを知って欲しいようだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12112;[From.GetFirstName] told me that everyone is so kind here. [From.GetSheHeCap] would make sure everyone knew how grateful [From.GetSheHe] is.;;;;;;;;;;;;x
+EVTDESCC_ZE_12112;[From.GetFirstName]は私と一緒に過ごせる時間がとても好きだと言ってきた。私は[From.GetHerHis]の日々をより楽しくしている。;;;;;;;;;;;;x
+EVTDESCD_ZE_12112;[From.GetFirstName] and I always get along well and now [From.GetSheHe] told me that we should stay friends forever.;;;;;;;;;;;;x
+EVTOPTA_ZE_12112;私は[From.GetHerHim]に心に響く話ができるだろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_12112;私にはただ責任感があるだけだ。;;;;;;;;;;;;x
+EVTOPTC_ZE_12112;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;;x
+EVTOPTD_ZE_12112;[From.GetFirstName]のほっぺにキスしてあげよう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12112;[From.GetSheHeCap]は優しい。だけど私はそうは思わない。;;;;;;;;;;;;x
+EVTOPTF_ZE_12112;I can always count on [From.GetFirstName].;;;;;;;;;;;;x
+EVTDESCA_ZE_12114;[From.GetFirstName] was very happy for my gesture. [From.GetSheHeCap] agreed that [From.GetHerHis] exceptional personality and skill is worthy of songs and praise. Now the others could see [From.GetHerHim] for what [From.GetSheHe] is.;;;;;;;;;;;;x
+EVTDESCB_ZE_12114;[From.GetFirstName] was humbled by the song I had written. But [From.GetSheHeCap] wanted to make a point of being just an ordinary person, and that I shouldn't give [From.GetHerHim] more credit than [From.GetSheHe] deserves.;;;;;;;;;;;;x
+EVTDESCC_ZE_12114;[From.GetFirstName]は私も一緒にいられて嬉しいよと言い、私のほっぺにキスをすると走り去っていった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12114;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;;x
+EVTDESCE_ZE_12114;一夜の宗教的儀式の後、空腹になり始め、心はさまよい出した。 [Root.Religion.GetRandomGodName]は私がここで時間を過ごしたことに満足しているのかもしれない。;;;;;;;;;;;;x
+EVTOPTA_ZE_12114;I wish [From.GetSheHe] was my [From.GetFatherMother].;;;;;;;;;;;;x
+EVTOPTB_ZE_12114;What a dufus.;;;;;;;;;;;;x
+EVTOPTC_ZE_12114;What a hero.;;;;;;;;;;;;x
+EVTOPTD_ZE_12114;Grownups can do anything.;;;;;;;;;;;;x
+EVTOPTE_ZE_12114;[From.GetSheHeCap] is the best.;;;;;;;;;;;;x
+EVTOPTF_ZE_12114;This is not what I meant.;;;;;;;;;;;;x
+EVTOPTG_ZE_12114;I shouldn't have said anything.;;;;;;;;;;;;x
+EVTOPTH_ZE_12114;私は試されている、ここにいなければならない。;;;;;;;;;;;;x
+EVTOPTI_ZE_12114;フェンシングの練習を逃すわけにはいかない。;;;;;;;;;;;;x
+EVTDESCA_ZE_12116;[From.GetFirstName]は私にこれ以上ない感銘を受けた。私は[From.GetHerHim]の偶像となった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12116;[From.GetFirstName] seems to have lost [From.GetHerHis] overwhelming affection for me. For better or worse, it's good to learn moderation. I might not be that special after all.;;;;;;;;;;;;x
+EVTDESCC_ZE_12116;[From.GetFirstName]は私も一緒にいられて嬉しいよと言い、私のほっぺにキスをすると走り去っていった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12116;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;;x
+EVTOPTA_ZE_12116;[From.GetHerHim]に良い影響を与えたと願うばかりだ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12116;The older they get...;;;;;;;;;;;;x
+EVTOPTC_ZE_12116;なんてかわいい人だ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12116;I don't like [From.GetHerHim] anyway...;;;;;;;;;;;;x
+INHERITANCE_INFAMY;$FROM$からの継承;;;;;;;;;;;;x
+INDEPENDENCE_INFAMY;$VASSAL$ Independence;;;;;;;;;;;;x
+VASSELIZATION_INFAMY;$VASSAL$の臣従;;;;;;;;;;;;x
+EVTDESCA_ZE_12070;その日は一日中外に出ていて、[playful_events_char_1.GetTitledName]はそろそろ家に帰る時間だと言った。[playful_events_char_1.GetSheHeCap]は重い荷物を持っているので、今なら勝てるかもしれない。;;;;;;;;;;;;x
+EVTDESCB_ZE_12070;夜が更け、私はトイレに行くために寝室から出た。[playful_events_char_2.GetFirstName]が私の名前を呼び始めているのが聞こえたと同時に、ダイニングテーブルの下に隠れる男を見つけた。 彼は私に気づくと、「こっちへおいで」と囁いた。;;;;;;;;;;;;x
+EVTDESCC_ZE_12070;今日は庭を掘る手伝いをしなければならないが、庭いじりなんて退屈だ。庭師も退屈してるよな？;;;;;;;;;;;;x
+EVTOPTA_ZE_12070;競争だ!;;;;;;;;;;;;x
+EVTOPTB_ZE_12070;[playful_events_char_1.GetHerHim]の荷物を持ってあげよう。;;;;;;;;;;;;x
+EVTOPTC_ZE_12070;男と一緒に隠れよう。;;;;;;;;;;;;x
+EVTOPTD_ZE_12070;[playful_events_char_2.GetFirstName]に返事をしよう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12070;彼女をくすぐる;;;;;;;;;;;;x
+EVTOPTF_ZE_12070;きつい事は良い鍛錬になる。;;;;;;;;;;;;x
+EVTOPTE_ZE_12070_TOOLTIP1;庭師はくすぐったがり;;;;;;;;;;;;x
+EVTOPTE_ZE_12070_TOOLTIP2;庭師はくすぐりが気に入らない;;;;;;;;;;;;x
+EVTDESCA_ZE_12072;[From.GetFirstName]に家に帰る時間だと言った。[From.GetSheHe]はこちらを見てはにかむと私に荷物を全て押し付けて、家まで競争だと言った。;;;;;;;;;;;;x
+EVTDESCB_ZE_12072;After some hours running errands I was heading back home with [From.GetFirstName]. Just as I told [From.GetHerHim] we were going home [From.GetSheHe] took one of the bags to help carry it without me even asking.;;;;;;;;;;;;x
+EVTDESCC_ZE_12072;[playful_events_char_2.GetFirstName]はしばらくすると私を呼ぶことをやめた。男は「この金貨を賭けてもいいが、俺が部屋から出るまで息を殺しておくことなんて出来ねえんだろうな」と言った;;;;;;;;;;;;x
+EVTDESCD_ZE_12072;[From.GetFirstName] was not in [From.GetHerHis] his room and I was starting to get worried. When [From.GetSheHe] finally answered I found [From.GetHerHim] staring at a burglar who was trying to hide from me.;;;;;;;;;;;;x
+EVTOPTA_ZE_12072;[From.GetHerHim]と競争だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12072;責任について[From.GetHerHim]に教える。;;;;;;;;;;;;x
+EVTOPTC_ZE_12072;Bless the child.;;;;;;;;;;;;x
+EVTOPTD_ZE_12072;おやすいご用だ;;;;;;;;;;;;x
+EVTOPTE_ZE_12072;[playful_events_char_2.GetFirstName]!!;;;;;;;;;;;;x
+EVTOPTF_ZE_12072;衛兵！;;;;;;;;;;;;x
+EVTDESCA_ZE_12074;[From.GetFirstName]は追いかけて私を捕まえた。しかし次はもっと速く走れるだろう;;;;;;;;;;;;x
+EVTDESCB_ZE_12074;[From.GetFirstName] was not happy that I ran away from [From.GetHerHim] without helping. Now I have to stay indoors all day tomorrow.;;;;;;;;;;;;x
+EVTDESCC_ZE_12074;正体を確認する前に、男はドアを走り抜けていいた。彼は一度も振り返ることはなかった。;;;;;;;;;;;;x
+EVTDESCD_ZE_12074;[From.GetFirstName]は私を見つけた時、ギョッとしたようだった。警備兵がやってくるとテーブルの下に隠れていた男は連れ去られていった。彼は悪い男であり、見知らぬ人のそばにいてはならないと皆はそういった。;;;;;;;;;;;;x
+EVTDESCE_ZE_12074;We had some time to play before we finished all of the work.;;;;;;;;;;;;x
+EVTDESCF_ZE_12074;She was not ticklish, and now she is telling everybody what a hassle I am to have around.;;;;;;;;;;;;x
+EVTOPTA_ZE_12074;[From.GetSheHeCap]はとっても速いね!!;;;;;;;;;;;;x
+EVTOPTB_ZE_12074;[From.GetFirstName]はずるをしている;;;;;;;;;;;;x
+EVTOPTC_ZE_12074;Everyone here is so boring.;;;;;;;;;;;;x
+EVTOPTD_ZE_12074;楽勝だ。;;;;;;;;;;;;x
+EVTOPTE_ZE_12074;あれは誰だったのかなぁ。;;;;;;;;;;;;x
+EVTOPTF_ZE_12074;Nothing has to be boring.;;;;;;;;;;;;x
+EVTOPTG_ZE_12074;She is stupid.;;;;;;;;;;;;x
+EVTDESCA_ZE_12076;[From.GetFirstName]は悩みもなく、いつものんきそうだ。;;;;;;;;;;;;x
+EVTDESCB_ZE_12076;[From.GetFirstName] was a little bit let down that I caught up with [From.GetHerHim] and even called me a cheater. Not always winning is a good thing for children to learn.;;;;;;;;;;;;x
+EVTDESCC_ZE_12076;I heard noises in the middle of the night and when I got up to check on [From.GetFirstName] I had to call out several times. Then [From.GetSheHe] finally answered and I found [From.GetHerHim] under the dining table with a burglar. The guards made quick work of the burglar.;;;;;;;;;;;;x
+EVTOPTA_ZE_12076;いずれ変わるさ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12076;[From.GetSheHeCap] will thank me later.;;;;;;;;;;;;x
+EVTOPTC_ZE_12076;Thank [Root.Religion.GetRandomGodName] I found [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCA_ZE_12060;[indolent_events_char_1.GetFirstName]は、今日木の何本かを切り倒しに行くから手伝いに来るよう話した。またそれは大変重労働であると[indolent_events_char_1.GetSheHe]はいった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12060;市場からいくつかの物資を取ってくるように頼まれたが、随分と時間がかかる。 [indolent_events_char_2.GetFirstName]はすでに他のものを取ってくるところだ。;;;;;;;;;;;;x
+EVTDESCC_ZE_12060;I'm reading a poetry book in my room but the weather is so nice outside. There are some children playing in the sun.;;;;;;;;;;;;x
+EVTOPTA_ZE_12060;あいたたた、突然お腹が痛くなったよ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12060;最もおおきな木を切り倒そう。;;;;;;;;;;;;x
+EVTOPTC_ZE_12060;食料品を手に入れるために[indolent_events_char_2.GetHerHim]にお金を支払う;;;;;;;;;;;;x
+EVTOPTD_ZE_12060;[indolent_events_char_2.GetHerHim]と一緒にやろう;;;;;;;;;;;;x
+EVTOPTE_ZE_12060;Go see what they are doing.;;;;;;;;;;;;x
+EVTOPTF_ZE_12060;Keep on reading.;;;;;;;;;;;;x
+EVTDESCA_ZE_12062;私が木々を切り倒すのを手伝っている[From.GetFirstName]を迎えに行くと、[From.GetSheHe]は不満を言った。 一見すると[From.GetSheHe]は厄介な腹痛を抱えているように見える;;;;;;;;;;;;x
+EVTDESCB_ZE_12062;今日私と[From.GetFirstName]は数時間ほど木の伐採に取り掛かったが、その[From.GetBoyGirl]は何の不満も言わず作業も早めに終えることができた。;;;;;;;;;;;;x
+EVTDESCC_ZE_12062;私が市場に行ったことがあるからということで、[From.GetFirstName]が買い物を頼んできた。お金もくれると言っている。;;;;;;;;;;;;x
+EVTDESCD_ZE_12062;[From.GetFirstName] came with me to the market today, we both had to go get some groceries and had time to talk a lot.;;;;;;;;;;;;x
+EVTOPTA_ZE_12062;怠け者のバカと、[From.GetHerHim]にいう。;;;;;;;;;;;;x
+EVTOPTB_ZE_12062;[From.GetHerHim]に何かあったのだろうか？;;;;;;;;;;;;x
+EVTOPTC_ZE_12062;いい仕事っぷりだ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12062;簡単にお金が手に入っちゃった。;;;;;;;;;;;;x
+EVTOPTE_ZE_12062;いやだよ！;;;;;;;;;;;;x
+EVTOPTF_ZE_12062;[From.GetFirstName] is so kind.;;;;;;;;;;;;x
+EVTDESCA_ZE_12064;[From.GetFirstName] spanked me when I complained about my stomach ache. Then [From.GetSheHe] grabbed my arm and told me we were going outside.;;;;;;;;;;;;x
+EVTDESCB_ZE_12064;[From.GetFirstName]は心配そうにし、紅茶を持ってきてくれた。私は体調を回復するためにそれを飲まなけらばならなかった。また体調がよくなると、今度は焼き立てのパンも買ってきてくれた。;;;;;;;;;;;;x
+EVTDESCC_ZE_12064;[From.GetFirstName] agreed to go get everything if I gave [From.GetHerHim] some extra coin. I should stay in my room so no one knows I'm still home. I've got some time to spend while I'm in here.;;;;;;;;;;;;x
+EVTDESCD_ZE_12064;[From.GetFirstName] didn't want to help me out. [From.GetSheHeCap] is already heading out.;;;;;;;;;;;;x
+EVTDESCE_ZE_12064;The other children are chasing each other, lots of running and jumping.;;;;;;;;;;;;x
+EVTOPTA_ZE_12064;Now I can't use my arm to cut trees.;;;;;;;;;;;;x
+EVTOPTB_ZE_12064;I'm coming, I'm coming!;;;;;;;;;;;;x
+EVTOPTC_ZE_12064;やった、紅茶とパンだ!!;;;;;;;;;;;;x
+EVTOPTD_ZE_12064;[From.GetHerHim]の手伝いをするべきだろう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12064;I could use a nap right now.;;;;;;;;;;;;x
+EVTOPTF_ZE_12064;Read a book about money.;;;;;;;;;;;;x
+EVTOPTG_ZE_12064;I guess I'll have to go then.;;;;;;;;;;;;x
+EVTOPTH_ZE_12064;Maybe I'll just watch them.;;;;;;;;;;;;x
+EVTOPTI_ZE_12064;I'll join in.;;;;;;;;;;;;x
+EVTDESCA_ZE_12066;[From.GetFirstName]の腕をつかんで「これでは木は切れないな」というと、[From.GetHerHis]は腕の痛みを訴えるようになった。;;;;;;;;;;;;x
+EVTDESCB_ZE_12066;[From.GetFirstName]にパンと紅茶を持ってくると[From.GetHerHim]は幸せそうだった。[From.GetSheHe]はすぐに良くなるだろう;;;;;;;;;;;;x
+EVTDESCC_ZE_12066;Some motivation can give good results, apparently the pain is all gone now after some convincing and [From.GetFirstName] will come join me.;;;;;;;;;;;;x
+EVTOPTA_ZE_12066;絶望的だ…;;;;;;;;;;;;x
+EVTOPTB_ZE_12066;かわいそうな子だ。;;;;;;;;;;;;x
+EVTOPTC_ZE_12066;Suddenly better, that's great.;;;;;;;;;;;;x
+EVTDESCA_ZE_12050;[brooding_events_char_1.GetTitledName] promised to take me riding today, but when I came to see [brooding_events_char_1.GetHerHim] [brooding_events_char_1.GetSheHe] was drunk and half asleep.;;;;;;;;;;;;x
+EVTDESCB_ZE_12050;「もう一度やってみましょう。」[brooding_events_char_2.GetFirstName]が言った。でも、できないんだ！口笛が吹けないよ。;;;;;;;;;;;;x
+EVTDESCC_ZE_12050;誰もが家のことで忙しいので、平民たちが使う市場に潜入してみることにした。着いてみると子供の何人かがボロ衣を着た小さな子供に意地悪していた。;;;;;;;;;;;;x
+EVTOPTA_ZE_12050;Pour some water on [brooding_events_char_1.GetHerHim].;;;;;;;;;;;;x
+EVTOPTB_ZE_12050;Leave [brooding_events_char_1.GetHerHim] alone.;;;;;;;;;;;;x
+EVTOPTC_ZE_12050;どうしてそれができるの？;;;;;;;;;;;;x
+EVTOPTD_ZE_12050;挑戦し続けよう;;;;;;;;;;;;x
+EVTOPTE_ZE_12050;彼らを止めなければ;;;;;;;;;;;;x
+EVTOPTF_ZE_12050;誰も私がここにいるとは思わないだろう;;;;;;;;;;;;x
+EVTDESCA_ZE_12052;確かに、私は[From.GetFirstName]との約束を忘れてしまっていた。しかしそれにしても、[From.GetSheHe]は私が寝ている時にいきなり水をかけてきたのだ。おかげで少し飲んでしまった。私はこれでも[Root.PrimaryTitle.GetRulerTitle]なのだぞ！;;;;;;;;;;;;x
+EVTDESCB_ZE_12052;I woke up feeling a bit hung over, and it's already evening. I vaguely recall [From.GetFirstName] looking at me before I fell asleep. I think I had plans with [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCC_ZE_12052;[From.GetFirstName]は口笛ができるようになりたいようだ。しばらく練習した後、[From.GetSheHe]は私に「どうしてそれができるの？」と尋ねてきた。;;;;;;;;;;;;x
+EVTDESCD_ZE_12052;[From.GetFirstName] asked me to teach [From.GetHerHim] how to whistle. I must have inspired [From.GetHerHim], now [From.GetSheHe] has been at it for hours.;;;;;;;;;;;;x
+EVTOPTA_ZE_12052;[From.GetSheHe]に態度を示す必要がある！;;;;;;;;;;;;x
+EVTOPTB_ZE_12052;私が悪かった、[From.GetFirstName]。;;;;;;;;;;;;x
+EVTOPTC_ZE_12052;まったく気分が悪い。;;;;;;;;;;;;x
+EVTOPTD_ZE_12052;簡単さ、君ならできる。;;;;;;;;;;;;x
+EVTOPTE_ZE_12052;誰でもできることではないよ。;;;;;;;;;;;;x
+EVTOPTF_ZE_12052;[From.GetSheHeCap]'ll get it right soon.;;;;;;;;;;;;x
+EVTDESCA_ZE_12054;[From.GetFirstName] tried to say something, but I couldn't hear what it was. Then [From.GetSheHeCap] got up and raised [From.GetHerHis] fist at me before stumbling and falling. Now [From.GetSheHe] is snoring.;;;;;;;;;;;;x
+EVTDESCB_ZE_12054;[From.GetFirstName] is quietly mumbling some words and rubbing [From.GetHerHis] face. 'Sorry, I'm sorry' [From.GetSheHe] says..;;;;;;;;;;;;x
+EVTDESCC_ZE_12054;[From.GetFirstName] told me that whistling is easy. That I can do it if I try. But I've tried many times already.;;;;;;;;;;;;x
+EVTDESCD_ZE_12054;[From.GetFirstName] said that not everyone learns to whistle. Some can never do it.;;;;;;;;;;;;x
+EVTDESCE_ZE_12054;止めるように話すといじめっ子たちは皆何処かへ去った。その小さな子供が私を見るとさっきのいじめっ子や彼らが行ったことは一切言及せずひたすら食べ物をねだってきた。ここではいったいどうやって庶民は暮らしているんだ？;;;;;;;;;;;;x
+EVTOPTA_ZE_12054;My life will never be like this.;;;;;;;;;;;;x
+EVTOPTB_ZE_12054;Take some money while [From.GetSheHe] is sleeping.;;;;;;;;;;;;x
+EVTOPTC_ZE_12054;[From.GetFirstName] is not a grown up.;;;;;;;;;;;;x
+EVTOPTD_ZE_12054;Comfort [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTE_ZE_12054;Everyone can do it but me.;;;;;;;;;;;;x
+EVTOPTF_ZE_12054;I am good at other things.;;;;;;;;;;;;x
+EVTOPTG_ZE_12054;食料や衣類をいくつか寄付しよう;;;;;;;;;;;;x
+EVTOPTH_ZE_12054;彼らの親にそう頼んでほしい;;;;;;;;;;;;x
+EVTDESCA_ZE_12056;ひどい頭痛とともに、[From.GetFirstName]との思い出がゆっくりと蘇る。私のふるまいに対する言い訳はしない。さらに悪いことに、私は子供から講義を受けることさえあったのだから。;;;;;;;;;;;;x
+EVTDESCB_ZE_12056;自室で目を覚ましたとき、財布の中身が少なくなっているのに気づいた。[From.GetFirstName]がここに居たのはぼんやりと覚えている。[From.GetSheHe]がやったのか？;;;;;;;;;;;;x
+EVTDESCC_ZE_12056;眠りに落ちる前の最後の記憶は、[From.GetFirstName]に謝っているところだった。だが謝罪は[From.GetSheHe]が求めていることではないようだ。;;;;;;;;;;;;x
+EVTDESCD_ZE_12056;I wake up, and [From.GetFirstName] is still by my side. [From.GetSheHeCap] has brought me some water to drink, and covered me with a blanket. I don't deserve treatment like this. But if [From.GetSheHe] sees good in me...;;;;;;;;;;;;x
+EVTDESCE_ZE_12056;[From.GetFirstName] は自分の試みが上手くいかないことに苛ついているようだ。 [From.GetSheHeCap] は、私の激励の言葉もほとんど耳に届いていない。;;;;;;;;;;;;x
+EVTDESCF_ZE_12056;[From.GetFirstName]は[From.GetHerHis]の部屋に行き他のことをやるようになった。;;;;;;;;;;;;x
+EVTOPTA_ZE_12056;I have seen better days.;;;;;;;;;;;;x
+EVTOPTB_ZE_12056;That brat.;;;;;;;;;;;;x
+EVTOPTC_ZE_12056;悲しい気分だ。;;;;;;;;;;;;x
+EVTOPTD_ZE_12056;I can change. I will change.;;;;;;;;;;;;x
+EVTOPTE_ZE_12056;多くの物事が、この子を苦しめているようだ。;;;;;;;;;;;;x
+EVTOPTF_ZE_12056;[From.GetSheHe]がこんなことにこだわらなくてよかった。;;;;;;;;;;;;x
+EVTDESCA_ZE_12040;[willful_events_char_1.GetFirstName]はこっちを見て眉をひそめたんだ。「もういい歳なんだ、それはもう似合っていない。捨てる時なんだ」[willful_events_char_1.GetSheHe]はこういうけど、とってもお気に入りの帽子なんだ!!;;;;;;;;;;;;x
+EVTDESCB_ZE_12040;[willful_events_char_2.GetFirstName]と外で遊ぶうちに、朽ち果てた幽霊屋敷に行き着いた。そこに行く予定はなかったし、[willful_events_char_2.GetFirstName]は怯えている。;;;;;;;;;;;;x
+EVTDESCC_ZE_12040;数時間の間釣りをしに出かけたんだけど、使用人の子供が釣ったような大きい魚を捕まえることはできなかったよ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12040;一緒に工夫してくれればまだ大丈夫だよ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12040;他の小さい子に上げよう。;;;;;;;;;;;;x
+EVTOPTC_ZE_12040;行ってみよう。;;;;;;;;;;;;x
+EVTOPTD_ZE_12040;戻ろう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12040;もう少し待ってみよう。;;;;;;;;;;;;x
+EVTOPTF_ZE_12040;もう家に帰ろう。;;;;;;;;;;;;x
+EVTOPTE_ZE_12040_TOOLTIP1;何かを捕まえる。;;;;;;;;;;;;x
+EVTOPTE_ZE_12040_TOOLTIP2;時間を無駄にする。;;;;;;;;;;;;x
+EVTDESCA_ZE_12042;[From.GetFirstName]は、お似合いの古い帽子が欲しいと言っている。 [From.GetSheHe]にはまだ大きすぎると、何度か言っているが[From.GetHerHim]は言うことは聞かない。;;;;;;;;;;;;x
+EVTDESCB_ZE_12042;[From.GetFirstName] really wants to go inside the scary haunted house. It looks like it's dangerous and we have been told not to go near it.;;;;;;;;;;;;x
+EVTOPTA_ZE_12042;子供が私に指示するな。;;;;;;;;;;;;x
+EVTOPTB_ZE_12042;要求する通りにしよう;;;;;;;;;;;;x
+EVTOPTC_ZE_12042;I don't want to go in there.;;;;;;;;;;;;x
+EVTOPTD_ZE_12042;I can do this.;;;;;;;;;;;;x
+EVTDESCA_ZE_12044;[From.GetFirstName] hit me over the head for not listening to [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCB_ZE_12044;[From.GetFirstName] は、すぐに引き返すべきだと言った。もしそうしなければ[From.GetSheHe]はきっと告げ口するだろう。;;;;;;;;;;;;x
+EVTDESCC_ZE_12044;数時間以上後になって、何か手ごたえを感じた。捕まえた魚はむちゃくちゃ大きくて、多分[Root.Capital.GetName]ないで一番の大きさなんじゃないかな!!;;;;;;;;;;;;x
+EVTDESCD_ZE_12044;あきらめようと考えていたらちょうど糸に反応があった。でも捕まえた魚はそんなに大きいものではなかったんだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_12044;[From.GetSheHeCap]'s a meanie!;;;;;;;;;;;;x
+EVTOPTB_ZE_12044;Someone else can make it fit.;;;;;;;;;;;;x
+EVTOPTC_ZE_12044;Come, or I'll say it was your idea.;;;;;;;;;;;;x
+EVTOPTD_ZE_12044;You're right.;;;;;;;;;;;;x
+EVTOPTE_ZE_12044;They will tell stories of today.;;;;;;;;;;;;x
+EVTOPTF_ZE_12044;やってはみたよ。;;;;;;;;;;;;x
+EVTDESCA_ZE_12046;[From.GetFirstName]は、私は当てにならないという意味に受け取った。[From.GetSheHeCap]は[From.GetHerHis]の舌を私に向かって出した。;;;;;;;;;;;;x
+EVTDESCB_ZE_12046;[From.GetFirstName] says [From.GetSheHe] will get someone else to help [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCC_ZE_12046;[From.GetFirstName] still wants to go, and will lie and say it was my idea unless I go with [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCD_ZE_12046;[From.GetFirstName] said I was right and we went back home, away from the scary house.;;;;;;;;;;;;x
+EVTOPTA_ZE_12046;ああ、[From.GetSheHe]の愚かさよ。;;;;;;;;;;;;x
+EVTOPTB_ZE_12046;At least [From.GetSheHe] knows what [From.GetSheHe] wants.;;;;;;;;;;;;x
+EVTOPTC_ZE_12046;I'm so angry!;;;;;;;;;;;;x
+EVTOPTD_ZE_12046;[Root.GetFirstName]に口出しするな。;;;;;;;;;;;;x
+EVTDESCA_ZE_13700;真夜中に飛び起きた。心臓はバクバクしていて全身が何か変な感じだ。一体何の夢を見ていたんだっけ？;;;;;;;;;;;;x
+EVTOPTA_ZE_13700;前会った農家の[Root.GetBoyGirl]の夢だ。;;;;;;;;;;;;x
+EVTOPTB_ZE_13700;[lustful_target.GetFirstName]が私にキスしてくる夢だ。;;;;;;;;;;;;x
+EVTOPTC_ZE_13700;何にせよ特に重要なことじゃない。;;;;;;;;;;;;x
+EVTOPTD_ZE_13700;とりあえず寝なければ。;;;;;;;;;;;;x
+EVTDESCA_ZE_13701;Oh it's just something about [Root.GetHerHim] that I can't get off my mind. [Root.GetHerHisCap] hair, the way [Root.GetSheHe] moved. I'm getting all worked up just thinking about [Root.GetHerHim] again.;;;;;;;;;;;;x
+EVTOPTA_ZE_13701;What would it be like to hold [Root.GetHerHim]?;;;;;;;;;;;;x
+EVTOPTB_ZE_13701;[Root.GetSheHeCap] is the one for me.;;;;;;;;;;;;x
+EVTOPTC_ZE_13701;If I see [Root.GetHerHim] again we'll have some fun.;;;;;;;;;;;;x
+EVTOPTD_ZE_13701;I shouldn't. It's a sin.;;;;;;;;;;;;x
+EVTDESCA_ZE_13702;[lustful_target.GetHerHisCap]の唇と私の唇が触れ合う。私の手が[lustful_target.GetHerHim]を優しく触れる。[lustful_target.GetFirstName]は私と同じ感情を抱いているのだろうか？;;;;;;;;;;;;x
+EVTOPTA_ZE_13702;[lustful_target.GetHerHim]のために自制しよう。;;;;;;;;;;;;x
+EVTOPTB_ZE_13702;[lustful_target.GetSheHeCap]は私を完全に興奮させた。;;;;;;;;;;;;x
+EVTDESCA_ZE_13703;These kind of thoughts have been distracting me lately. I don't find them very interesting and they are disturbing my sleep.;;;;;;;;;;;;x
+EVTOPTA_ZE_13703;I would do well to focus on other things.;;;;;;;;;;;;x
+EVTOPTB_ZE_13703;Maybe it will change with time.;;;;;;;;;;;;x
+EVTDESCA_ZE_13704;[From.GetFirstName]は最近私への見方を変えたようだ。私が [From.GetHerHim]と話すといつでもくすくす笑い、面白くもないことでも笑みをうかべる。;;;;;;;;;;;;x
+EVTOPTA_ZE_13704;私に夢中になっているようだ…;;;;;;;;;;;;x
+EVTOPTD63041;よかろう、そのかわり。;;;;;;;;;;;;x
+EVTOPTC_ZE_12060_TOOLTIP;申し出を受け入れない可能性があります。\n;;;;;;;;;;;;x
+EVTDESC20134;我が主よ、[FromFrom.Location.GetName]での私の任務がようやく実を結ぼうとしております。賄賂や甘言、強要、脅迫、書類の偽造によって、今は[From.GetTitledName]が保持している[FromFrom.Location.Kingdom.GetFullName]への請求権を偽造することに成功しました。これをお使いになるかならないかは貴方様がお決めになることです。\n\n[Root.GetChancellorName]より敬具\n[FromFrom.GetTitledName]にて;;;;;;;;;;;;x
+EVTDESCA_ZE_14700;特に明確な目標もなく教育を終えた。外交に関する勉強には魅力を覚えたが、適切な指導が無かったのでそれほど上手くはできるようにならなかった。;;;;;;;;;;;;x
+EVTDESCB_ZE_14700;特に明確な目標もなく教育を終えた。軍事に関する勉強には魅力を覚えたが、適切な指導が無かったのでそれほど上手くはできるようにならなかった。;;;;;;;;;;;;x
+EVTDESCC_ZE_14700;特に明確な目標もなく教育を終えた。管理に関する勉強には魅力を覚えたが、適切な指導が無かったのでそれほど上手くはできるようにならなかった。;;;;;;;;;;;;x
+EVTDESCD_ZE_14700;特に明確な目標もなく教育を終えた。策略に関する勉強には魅力を覚えたが、適切な指導が無かったのでそれほど上手くはできるようにならなかった。;;;;;;;;;;;;x
+EVTDESCE_ZE_14700;特に明確な目標もなく教育を終えた。学識に関する勉強には魅力を覚えたが、適切な指導が無かったのでそれほど上手くはできるようにならなかった。;;;;;;;;;;;;x
+EVTOPTA_ZE_14700;これが重要なことだなんて誰も教えてくれなかったんだ。;;;;;;;;;;;;x
+EVTDESCA_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が外交に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
+EVTDESCB_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が軍事に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
+EVTDESCC_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が管理に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
+EVTDESCD_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が策謀に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
+EVTDESCE_ZE_14710;[From.GetFirstName]の教育が終わった。[From.GetHerHis]の教育方針が全く定められていなかったので、[From.GetSheHe]が学識に関する勉強を頑張ったにも関わらず、残念ながら[From.GetHerHis]の努力は無駄にしかならなかった;;;;;;;;;;;;x
+EVTOPTA_ZE_14710;[From.GetHerHim]はどちらにせよ駄目だったのだ。;;;;;;;;;;;;x
+loyalist_desc;忠臣の評議員は通常当主に忠実な僕となり、自分の権力を直接削ることになるものを除き、主のあらゆる政策に関してその支持に回ります。;;;;;;;;;;;;x
+pragmatist_desc;現実主義者の評議員は領邦を強大化させ、自分たちが利益を得ることにかけては常に最短ルートを狙っています。現実主義者は慣習的領土や当主の文化の州を回復する戦争を支持する傾向にあります。また自分たちより弱い相手に対する戦争も支持するでしょう。現実主義者は領邦に新たに有力な封臣を置くことを好まず、既存の有力な封臣から称号を剥奪することを支持するでしょう。;;;;;;;;;;;;x
+glory_hound_desc;見栄っ張りの評議員は常に領邦が栄光を求めて高い威信を得ることを求めています。見栄っ張りは弱い隣国を攻撃することを好まず、より強大な相手に敵対することに関してはそれが領邦を強大化させるならば戦争の理由すら気にしません。また見栄っ張りの評議員は集権化された強い領邦を好む傾向にあります。;;;;;;;;;;;;x
+LAWS_TAB_INHERITANCE;継承法;;;;;;;;;;;;x
+LAWS_TAB_COUNCIL;評議会法;;;;;;;;;;;;x
+LAWS_TAB_OBLIGATIONS;法的義務;;;;;;;;;;;;x
+LAWS_TAB_REALM;分国法;;;;;;;;;;;;x
+TAX;税;;;;;;;;;;;;x
+LEVY;徴兵;;;;;;;;;;;;x
+COUNCIL_VOTER_NAME;$VOTER_TITLE$\n[GetFirstName];;;;;;;;;;;;x
+title_councilmember_king;相談役;;;;;;;;;;;;x
+title_councilmember_emperor;相談役;;;;;;;;;;;;x
+LAWS_VASSAL_OBLIGATIONS;封臣の法的義務;;;;;;;;;;;;x
+LAWS_CIVIC_RELIGIOUS;市民と聖職者の義務;;;;;;;;;;;;x
+war_taxes;戦時税;;;;;;;;;;;;x
+war_taxes_desc;この人物は臣下に戦時税を課しています。;;;;;;;;;;;;x
+extra_tax;三重徴税！;;;;;;;;;;;;x
+extra_tax_desc;この州は非常に多く徴税されており、農民にはほとんど何も残っていません！;;;;;;;;;;;;x
+extra_tax_kind;臨時特別税;;;;;;;;;;;;x
+extra_tax_kind_desc;この州の領主は、今後の戦争に備えるために農民から余分に徴税しています。;;;;;;;;;;;;x
+seize_church_assets;教会財産の略奪;;;;;;;;;;;;x
+seize_church_assets_desc;この教会はありとあらゆる貴重品を略奪されました！;;;;;;;;;;;;x
+extort_subjects;臣下から強制徴発する;;;;;;;;;;;;x
+extort_subjects_desc;臣下からの強制徴発は速やかに軍資金を集めるうってつけの手段です―しかし、この行動は家臣から暴君とみなされるでしょう。臣下を気にする統治者の精神もこの行動によってダメージを受けるかもしれません。;;;;;;;;;;;;x
+obj_build_a_war_chest_title;軍資金を貯める;;;;;;;;;;;;x
+obj_build_a_war_chest_desc;[This.GetTitledFirstName]は戦争に備え軍資金を貯めようとしています！;;;;;;;;;;;;x
+obj_build_a_war_chest_success_custom_tooltip;[This.GetHerHis]の領国に見合った量の大量の資金を貯め始めています：伯爵級領主なら300¤、公爵級領主なら500¤、王国級領主なら700¤、帝国級領主なら1000¤です。;;;;;;;;;;;;x
+extort_consequences_custom_tooltip;選択肢が出現します。;;;;;;;;;;;;x
+extort_cooldown_custom_tooltip;過去6ヶ月の間に臣下から強制挑発を行っていないかもしれません;;;;;;;;;;;;x
+EVTTOOLTIP_ZE_21100;[extra_tax_target.GetName]の庶民に臨時徴税を行います;;;;;;;;;;;;x
+EVTDESC_ZE_21000;軍資金は勝手に湧いて出てくるものではありません！そこで自ら事に当たり、軍資金を忠実な臣下達からの「寄付」で集めることにしました。さて具体的には誰から軍資金を集めることとしようか？;;;;;;;;;;;;x
+EVTOPTA_ZE_21000;[extra_tax_target.GetName]の庶民はもっと税金を払えるはずだ！;;;;;;;;;;;;x
+EVTOPTB_ZE_21000;[extortion_target.GetFullName]は裕福だ。[extortion_target.GetSheHe]からもっと金をむしり取れるはずだ！;;;;;;;;;;;;x
+EVTOPTC_ZE_21000;[seize_church_target.GetName]の聖職者はこんなに裕福である必要もないはずだ！;;;;;;;;;;;;x
+EVTOPTD_ZE_21000;いやどれもあまりいい考えとは思えない…;;;;;;;;;;;;x
+extort_tyrant_custom_tooltip;これを行うと暴君とみなされ、自分に対する全臣下の評価が§R-10§!低下します。\n;;;;;;;;;;;;x
+EVTDESC_ZE_21100;予想通り、[extra_tax_target.GetName]の庶民は強制された「臨時」税をよく思わなかった。庶民はなぜこんな臨時徴税が必要なのかと言い始めて代表者まで立て、このままでは餓死してしまうと叫んでいる。奴らが熊手を取って反乱を起こさないように何か手を打たねば！;;;;;;;;;;;;x
+EVTOPTA_ZE_21100;この臨時税がなぜ必要なのか説明し、臨時減税を行う。;;;;;;;;;;;;x
+EVTOPTB_ZE_21100;この臨時税の必要性など言うまでもない。貪欲な農民め！;;;;;;;;;;;;x
+EVTTOOLTIP_ZE_21200;容赦ない手段を用いて[extortion_target.GetFullName]を強要する。;;;;;;;;;;;;x
+EVTDESC_ZE_21200;[extortion_target.GetFirstName]には事細かに説明しておいたにもかかわらず、[extortion_target.GetSheHe]はまだなぜ[extortion_target.GetHerHis]の邸宅が略奪されなければいけないのかが分かっていないようだ。自分の資産の幾らかをこの邦を助かるために使うことが正しいことなのは明らかなのに、[extortion_target.GetFirstName]はそれを受け入れないのだ。;;;;;;;;;;;;x
+EVTOPTA_ZE_21200;謝罪してこの措置が邦の助けになる理由を説明する。;;;;;;;;;;;;x
+EVTOPTB_ZE_21200;どうして納得しないのだ。君はこれを私に捧げて邦の誇りとなるのだぞ！;;;;;;;;;;;;x
+EVTTOOLTIP_ZE_21300;兵士たちに命じて[seize_church_target.GetFullName]の資産を差し押さえる。;;;;;;;;;;;;x
+EVTDESC_ZE_21300;兵士たちが[seize_church_target.GetFullName]の資産を荷車に積み込んでいると、こちらに怒り狂った聖職者たちが歩み寄ってきた。どうやら自分たちの価値ある聖器物を差し押さえられたことにご機嫌ではない様子で「お前がこの冒涜的行為を自己正当化しても、[Root.Religion.GetRandomEvilGodName]がお前を懲らしめるであろう！」と言われた。;;;;;;;;;;;;x
+EVTOPTA_ZE_21300;[Root.Religion.GetRandomGodNameCap]が私にかくせよと仰られたのです！;;;;;;;;;;;;x
+EVTOPTB_ZE_21300;[Root.Religion.GetRandomEvilGodNameCap]なぞクソ食らえ。この資産は国庫にある方が役に立つのだ！;;;;;;;;;;;;x
+extort_dynasty_upset_custom_tooltip;これによって§Y[extortion_target.GetFullName]§!の一族全体が大きく動揺します。\n;;;;;;;;;;;;x
+sensitive_character_custom_tooltip;自分に暴君の特性がないため、この行動は自分に悪い影響を与える可能性があります。\n;;;;;;;;;;;;x
+EVTDESC_ZE_22000;あなたの忠実なる封臣[From.GetFullName]から使者がやってきた。その使者が言うには[From.GetSheHeCap]はあなたの軍用金のために、莫大な寄付をしてもよいという。しかしその見返りに将来この借りを返さなくてはならない。さてどうするべきか。;;;;;;;;;;;;x
+EVTOPTA_ZE_22000;ちょうど必要としていたところだった!;;;;;;;;;;;;x
+EVTOPTB_ZE_22000;[From.GetSheHeCap]は単に私への影響力を得たいだけだろう！お断りする。;;;;;;;;;;;;x
+EVTOPTC_ZE_22000;親友からの莫大な寄付!;;;;;;;;;;;;x
+EVTDESC_ZE_22100;[From.GetFullName]は私からの寄付の申し出を受け取った。これで[From.GetHerHim]に一つ貸しを作れた。この貸しを賢明に利用するべきだろう。;;;;;;;;;;;;x
+EVTDESC_ZE_22200;[From.GetFullName]は私からの寛大な寄付の申し出を拒絶した。[From.GetSheHeCap]は私がただ[From.GetHerHim]に対する影響力を得ようとしただけだと主張している。失礼な！;;;;;;;;;;;;x
+EVTOPTA_ZE_22200;残念だ。;;;;;;;;;;;;x
+donate_to_liege;主に200¤の寄付を申し出る;;;;;;;;;;;;x
+donate_to_liege_desc;自分の主が軍資金を貯め始めている今こそ、主に寄付を行う絶好の機会です。この好機に200¤を送ることによって主に貸しを作ることができるでしょう！;;;;;;;;;;;;x
+offer_donation_custom_tooltip;主は寄付を受け取りました。\n;;;;;;;;;;;;x
+donation_cooldown_custom_tooltip;過去5年の間に寄付が断られたことがあったかもしれません。;;;;;;;;;;;;x
+HIRED_MERCENARIES_INCOME_ENTRY;$HOLDER$：$INCOME|Y$;;;;;;;;;;;;x
+INCOME_MERCENARY_HIRED;傭兵雇用;;;;;;;;;;;;x
+HAS_MERCENARY_MAINTENANCE_MODIFIER;$TITLE|Y$が$MOD|Y$の補正を持っている;;;;;;;;;;;;x
+HAS_MERCENARY_MAINTENANCE_MODIFIER_NOT;$TITLE|Y$が$MOD|Y$の補正を持っていない;;;;;;;;;;;;x
+HAS_MERCENARY_BAND;$CHARACTER|Y$は傭兵団を持っています。\n;;;;;;;;;;;;x
+HAS_MERCENARY_BAND_NOT;$CHARACTER|Y$はいかなる傭兵団も持っていません。\n;;;;;;;;;;;;x
+CUT_MERCENARY_CREATOR_RELATION;$MERCENARY|Y$は$CREATOR|Y$との関係を断ちました;;;;;;;;;;;;x
+CUT_MERCENARY_CREATOR_RELATION_NOT;$MERCENARY|Y$は$CREATOR|Y$との関係を断ちませんでした;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_TITLE;傭兵団長の変更;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_DESC;傭兵団長の変更の説明;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_LONG_DESC;現在の団長を適任者に変更します;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECT;$CURRENT|Y$にかわる団長を選ぶ;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECTED;$REPLACEMENT|Y$を$BAND|Y$の新しい隊長にする;;;;;;;;;;;;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_REQ;適任者に変えます;;;;;;;;;;;;x
+ENABLE_COUNCIL_VOTING_ON_ISSUE;$ISSUE|Y$は評議員による投票ができます\n;;;;;;;;;;;;x
+DISABLE_COUNCIL_VOTING_ON_ISSUE;$ISSUE|Y$は評議員による投票ができません\n;;;;;;;;;;;;x
+declare_war_interaction_voting;宣戦布告;;;;;;;;;;;;x
+REJECTED_LAW_TIMEOUT;§R評議会はこの法を否決しました。この法を変更するための再採決は$DATE$に可能になります§!;;;;;;;;;;;;x
+CAN_SWAP_JOB_TITLE;$CHARACTER|Y$と$TARGET|Y$とならば互いの評議員職を入れ替えられます;;;;;;;;;;;;x
+CAN_NOT_SWAP_JOB_TITLE;$CHARACTER|Y$と$TARGET|Y$とでは互いの評議員職を入れ替えられません;;;;;;;;;;;;x
+FORM_ALLIANCE_NOT_LANDLESS;領地を持っている;;;;;;;;;;;;x
+SET_FACTION_JOIN_RESTRICTION_ON;封臣は主君に対する派閥に加入することができない\n;;;;;;;;;;;;x
+SET_FACTION_JOIN_RESTRICTION_OFF;封臣は主君に対する派閥に加入することができる\n;;;;;;;;;;;;x
+HAS_FACTION_JOIN_RESTRICTION;派閥への参加制限がある;;;;;;;;;;;;x
+HAS_NO_FACTION_JOIN_RESTRICTION;派閥への参加制限がない;;;;;;;;;;;;x
+EVTDESC750;私も[From.GetProposedLaw]を制定すべきという[From.GetLawProposer]の提案に大いに納得させられた。後必要なのは貴方と他の忠実なる封臣たちの賛成だけだ！\n\n[From.Holder.GetTitle];;;;;;;;;;;;x
+COUNCIL_LAW_VOTING_DISABLED;§R現行法では、法改正を提案することはできない§!;;;;;;;;;;;;x
+COUNCIL_LAW_VOTING_DISABLED_BY_FAVOR_OWNER;§R法改正の提案に賛成することはできない§!;;;;;;;;;;;;x
+LAW_VOTE_DISABLED_UNDER_FAVOR;§R法改正の投票に賛成することはできない§!;;;;;;;;;;;;x
+VOTE_AS_FAVOR_OWNER_LOG;$CHARACTER|Y$は$TARGET|Y$に貸しを返すために、$LAW|Y$には$VOTE$に投票しました。;;;;;;;;;;;;x
+CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP;借りを返させる;;;;;;;;;;;;x
+CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG;$ACTOR|Y$は$RECIPIENT|Y$への貸しを返してもらいました。;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_DECLINE_SETUP;金を貰って借りを作ることを拒否;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetDynName]§!は、金を貰って§Y[Actor.GetDynName]§!に借りを作ることを拒否した。;;;;;;;;;;;;x
+LOAD_OLD_SAVE_TO_ZEUS_TITLE;古いセーブデータをロードしています;;;;;;;;;;;;x
+LOAD_OLD_SAVE_TO_ZEUS_DESC;古いバージョンのセーブデータを新しいバージョンでロードしようとしています。これは予期せぬ結果を引き起こす可能性があり、推奨されません。続行しますか？;;;;;;;;;;;;x
+LOAD_ZEUS_SAVE_TO_OLD_VERSION;§RこのセーブデータはDLC『Conclave』を使っており、続けるためにはDLC『Conclave』が必要です。§!;;;;;;;;;;;;x
+FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;$RECIPIENT|Y$は法改正に投票していません。;;;;;;;;;;;;x
+LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC;貴方は利用できる評議会法を持っていません。ロックを解除するには部族組織法の権力を増大する必要があります。;;;;;;;;;;;;x
+LAW_VIEW_NO_COUNCIL_LAWS_DESC;現時点で利用できる評議会法はありません。;;;;;;;;;;;;x
+COUNCIL_JOBS_INSTANT;この画面は、領内に影響を与える顧問を示しています。;;;;;;;;;;;;x
+COUNCIL_JOBS_DELAYED;顧問は、それぞれの分野において影響を与える専門的な仕事を持っています。顧問が適切なステータスを高い値で持っていれば、より良く仕事を行えるでしょう。;;;;;;;;;;;;x
+MINOR_TITLES_TITLE;§Y下級称号§!;;;;;;;;;;;;x
+MINOR_TITLES_INSTANT;この画面では名誉称号や指揮官称号がまとめて表示されます。;;;;;;;;;;;;x
+MINOR_TITLES_DELAYED;名誉称号を与えて、自分に対する評価を変化させることができます。指揮官は軍隊を率いるのに使われます。この画面から直接、称号に人物を割り当てることができます。;;;;;;;;;;;;x
+MY_COUNCIL_TITLE;§Y自分の評議会§!;;;;;;;;;;;;x
+MY_COUNCIL_INSTANT;この画面では自分の評議会の概要を見ることができます。;;;;;;;;;;;;x
+MY_COUNCIL_DELAYED;自分の評議会の全評議員及び空席となっている評議員職が表示されます。また評議員の行動に影響を与える評議員の性向も表示されます。;;;;;;;;;;;;x
+LIEGE_COUNCIL_TITLE;§Y主君の評議会§!;;;;;;;;;;;;x
+LIEGE_COUNCIL_INSTANT;この画面では主君の評議会の概要を見ることができます。;;;;;;;;;;;;x
+LIEGE_COUNCIL_DELAYED;主君の評議会の全評議員及び空席となっている評議員職が表示されます。また評議員の行動に影響を与える評議員の性向も表示されます。;;;;;;;;;;;;x
+ENFORCE_PEACE_EXECUTE_BUTTON_TITLE;§Y施行§!;;;;;;;;;;;;x
+ENFORCE_PEACE_EXECUTE_BUTTON_DESC_DELAYED;評議会の承認;;;;;;;;;;;;x
+LAW_COUNCIL_REJECTED_LOG;$TITLE$の評議会は"$LAW$"法の制定を否決しました。;;;;;;;;;;;;x
+tut_9b_6;分国法と法的義務のタブには自分自身に影響する法及び封臣が提供する兵力と上納金を決定する法が表示されています。自分の好みに合わせて領国をカスタマイズできます。次をクリックしてこのパートを終了します。;;;;;;;;;;;;x
+tut_8b_6;分国法のタブには叙任法が表示されています。叙任法は教皇が司教を任命する教皇と、自分で司教を任命できる自由の二種があります。後者では勿論教皇の機嫌を損ねることになります。次をクリックしてこのパートを終了します。;;;;;;;;;;;;x
+tut_9c_6;分国法のタブには継承に関係ない諸法が表示されています。一番上には王冠の印が付いた方が表示されており、これは王国法です。王国法によって王および皇帝がどれだけの自由を享受するかが決定されます。封臣を納得させることは難しいでしょうが、威信が高ければ高いほど封臣からの評価は高くなり、少なくとも表面上なら大した問題ではなくなります。;;;;;;;;;;;;x
+HINT_CHAR_VIEW_TEXT_2;キャラクター画面の下半分には近しい関係者が表示されます。 封臣は選択中の人物に封土を与えられている封建領主です。 宮廷タブにはこの人物の宮廷にいる人々の一覧が表示されます。 協定一覧には同盟協定のような外交関係を結んでいる領主が表示され、国外タブには何らかの理由で現在離れている廷臣が表示されます。;;;;;;;;;;;;x
+HINT_COUNCIL_VIEW_TEXT_4;評議員の地位を得ることを夢見ている人物もいます。希望の職を与えることでこちらへの感謝の気持ちを持たせることができます。;;;;;;;;;;;;x
+tut_4b_9;一時的な補正には有効期限があります。例えば特定のイベントによって他の人物に対する評価補正が与えられ、有限な期間（例えば1・2年）に渡って継続します。次をクリックして続けます。;;;;;;;;;;;;x
+EVTDESC107301;あなたと同盟を結んでいる人物は、あなたのすべての戦争に自動的に参加してくれます。(封臣の部族のような)いくつかのタイプでは戦争に参加するよう呼びかける必要があります(賛同してくれればですが)。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_ACTIVE_FAVOR;$OWES_FAVOR|Y$にはまだ§Y借り§!がない;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_LETTER;\nI offer you a gift of $GOLD$§W¤§! to repay the Favor I owe you.;;;;;;;;;;;;x
+BUY_FAVOR_INTERACTION_LETTER_GET;\nI offer you a gift of $GOLD$§W¤§! and in return you will owe me a Favor.;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET;§Y[Recipient.GetTitledFirstName]§! cannot be influenced by a §YFavor§! from §Y[Actor.GetTitledFirstName]§!;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NOT_OWING_FAVOR;$OWES_FAVOR|Y$には$HAS_FAVOR|Y$からの§Y貸し§!はありません。;;;;;;;;;;;;x
+EVTDESC_ZE_1031;Your daughter [target_daughter_killed_her_friend.GetFirstName] is furious with you: 'Damn you, [Root.GetFatherMother] - you killed [From.GetFirstName], I will never forgive you!'.;;;;;;;;;;;;x
+EVTDESC_ZE_2061B;The coffers are left open and unattended again. Surely, this is [Root.Liege.GetTitledFirstName]'s way of telling me that a small bonus is in order. [Root.Liege.GetSheHeCap] knows the other councillors would object if it were mentioned in their presence.;;;;;;;;;;;;x
+EVTOOLTIP38228;[Root.Guardian.GetFullName]は[Root.GetFirstName]の質問に答えてくれた。;;;;;;;;;;;;x
+EVTDESC1928;今日訪れたお客さまたちは、見慣れない服装で変な言葉を話していて変わった色の肌をしていたけれど、[Root.Guardian.GetFullName]はあの人たちに真心のこもった挨拶をしていた。あの人たちと話して、どこから来たどんな人たちなのか知りたいものだけれど、[Root.Guardian.GetTitledFirstName]が許してくれるかはよくわからない。;;;;;;;;;;;;x
+EVTDESC3516;I offered to hand [From.GetTitledFirstName]'s buzzard to the falconer, but was careless enough to forget to put on its hood, and then lost my grip on the jesses as the bird flew to freedom.;;;;;;;;;;;;x
+EVTDESC_SOA_4111;The inquisitors are returning home after failing to accomplish much in [Root.GetName] - aside from riling up the peasants.;;;;;;;;;;;;x
+EVTDESC_SOA_4113;After successfully stomping out the heresy in [Root.GetName], the inquisitors are returning home.;;;;;;;;;;;;x
+EVTDESC_SOA_4131;[FromFrom.PrimaryTitle.GetRulerTitle] によって[Root.GetName]に派遣された神学者たちは、尻尾を巻いて逃げ帰ってきた。;;;;;;;;;;;;x
+EVTDESC_SOA_4133;[FromFrom.PrimaryTitle.GetRulerTitle] によって[Root.GetName]に派遣された神学者たちは、勝利と共に凱旋した。異端者たちは、誤った信仰を放棄した!;;;;;;;;;;;;x
+RESIGN_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは指揮官§Y[Recipient.GetTitledFirstName]§Wを解任した。;;;;;;;;;;;;x
+EVTDESCdiploresponse.1;私[From.GetBestName]は貴方からの同盟の提案をお受けいたしましょう！;;;;;;;;;;;;x
+EVTDESCdiploresponse.2;残念ながら、私[From.GetBestName]は貴方からの同盟の提案をお受けできないのです！;;;;;;;;;;;;x
+EVTOPTC_ZE_12002;あとで[From.GetHerHim]に飴玉でもやらないとな。;;;;;;;;;;;;x
+EVTDESC_ZE_8000;[target_ruler.GetTitledName]の[target_spouse.GetHusbandWife][target_spouse.GetTitledName]は[capital.GetName]で数日を過ごされた。[target_spouse.GetHerHim]とお会いするのはとても良い経験だった。もしかしたら我々は案外似た者同士なのかもしれない。;;;;;;;;;;;;x
+EVTDESC_ZE_8001;親愛なる[target_ruler.GetTitledName]殿、\nこの前あなたの[target_ruler.GetHusbandWifeOpp]が[capital.GetName]に訪れたおり、実は我々は似た者同士ではないかという話で大いに盛り上がりました。そこで不可侵協定を提案いたします。あなたの領国から来るいかなる訪問者でも両手を上げて歓迎いたしましょう。\n\n敬具、\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_ZE_8002;親愛なる[Root.GetTitledName]殿、\n\nもしこの協定が我々のより良き相互理解に繋がるのなら、貴方の領国より来る訪問者に門戸を開きましょう。\n\n敬具\n [target_ruler.GetTitledName].;;;;;;;;;;;;x
+EVTDESC_ZE_2075;[Root.GetSpymasterName] [Root.job_spymaster.GetFirstName]から追加資金の請求を受けた。 [Root.job_spymaster.GetSheHeCap]は、密偵があなたの家の中に侵入するのが簡単すぎることを心配しており、敵対的な作戦に対して予防策を講じたいと考えている。;;;;;;;;;;;;x
+MERCENARY_ON_CONTRACT;契約中;;;;;;;;;;;;x
+LAW_VOTER;$NAME$\n;;;;;;;;;;;;x
+LAW_VOTER_X;$NAME$ x$NUM|Y$\n;;;;;;;;;;;;x
+CANCEL_LAW_VOTE;§Y現行法の改正に票を投じず棄権する§!;;;;;;;;;;;;x
+VOTE_FOR_LAW;§Y現行法の改正に賛成票を投じる§!;;;;;;;;;;;;x
+VOTE_AGAINST_LAW;§Y現行法の改正に反対票を投じる§!;;;;;;;;;;;;x
+OPEN_LIST_OF_UNDECIDED_VOTERS;§Yまだ投票していない評議員の一覧を表示§!;;;;;;;;;;;;x
+LAW_VOTE_STATUS_ZEUS;§Y$LAW$§!への投票 ( $YES|G$/$NO|R$/$WAITING$ );;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_ACCEPT_SETUP;投票支援の要請を受け入れ;;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§Wは§Y[Recipient.GetDynName]§Wへの投票支援を受け入れました。;;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_DECLINE_SETUP;投票支援の要請を拒否;;;;;;;;;;;;x
+REQUEST_SUPPORT_INTERACTION_DECLINE_LOG;§Y[Actor.GetDynName]§Wは§Y[Recipient.GetDynName]§Wへの投票支援を拒否しました。;;;;;;;;;;;;x
+FAM_EDUCATOR;教育者;;;;;;;;;;;;x
+ZEUS_WARD_DESC;成人は2人の子供の後見人になれます。;;;;;;;;;;;;x
+ZEUS_GUARDIAN_DESC;後見人は子供の先生であり、助言者です。子供は後見人と同じ宮廷に住み、近親の子供がいる宮廷の所有者に宣戦布告することはできません。;;;;;;;;;;;;x
+HOSTAGE_NAME;\n        $WHO|Y$;;;;;;;;;;;;x
+CHANGE_MERCENARY_COMPOSITION_CONVERT;$COUNT|Y$の$FROM$を$TYPE$に変換します\n;;;;;;;;;;;;x
+CHANGE_MERCENARY_COMPOSITION;$TYPE$: $COUNT|=-+$\n;;;;;;;;;;;;x
+alert_child_needs_focus_instant;§Y$NUM$人の子供に養育方針がありません§!;;;;;;;;;;;;x
+alert_child_needs_focus_delayed;以下の子供に養育方針が必要です：\n$LIST$;;;;;;;;;;;;x
+alert_child_needs_focus_name;子供に養育方針がありません;;;;;;;;;;;;x
+alert_adolescent_needs_focus_instant;§Y$NUM$人の子供に教育方針がありません§!;;;;;;;;;;;;x
+alert_adolescent_needs_focus_delayed;以下の子供に教育方針が必要です:\n$LIST$;;;;;;;;;;;;x
+alert_adolescent_needs_focus_name;子供に教育方針がありません;;;;;;;;;;;;x
+GOV_FLAVOR;$TYPE$;;;;;;;;;;;;x
+gov_feudal_monarchy;封建君主制;;;;;;;;;;;;x
+opinion_inherited;先代への評価;;;;;;;;;;;;x
+opinion_inherited_negative;先代への評価;;;;;;;;;;;;x
+CHARACTER_POWERFUL_TOOLTIP;§Y有力な封臣§!;;;;;;;;;;;;x
+CHARACTER_POWERFUL_TOOLTIP_ANGRY;§R評議員でないことに怒っています。§!;;;;;;;;;;;;x
+alert_has_favor_instant;§Y$NUM$人に貸しがある§!;;;;;;;;;;;;x
+alert_has_favor_delayed;以下の人物に貸しがあります：\n$LIST$\n\n彼らへの貸しは以下のことに使うことができます：\n$ACTIONS$;;;;;;;;;;;;x
+alert_has_favor_name;貸しがあります;;;;;;;;;;;;x
+HAS_FAVOR_ON;\n§Y貸しがある:§!\n;;;;;;;;;;;;x
+OWES_FAVOR_TO_TOOLTIP;\n§Y借りがある:§!\n;;;;;;;;;;;;x
+COUNCIL_LAW_VOTING_DISABLED_FOR_GROUP;\n§Yこの種の法律に対して評議会が動議を提出することはできません。§!;;;;;;;;;;;;x
+COUNCIL_LAW_VOTING_ENABLED_FOR_GROUP;\n§Y評議員は過去の主への貸しを使ってこの種の法律に対し動議を提出することが可能です。§!;;;;;;;;;;;;x
+tribal_duchy;大族長領;;;;;;;;;;;;x
+tribal_duchy_norse;ジャール領;;;;;;;;;;;;x
+duchy_norse;ジャール領;;;;;;;;;;;;x
+gov_default;無政府;;;;;;;;;;;;x
+gov_electorial_absolute_autocracy;選挙制絶対専制帝国;;;;;;;;;;;;x
+gov_electorial_absolute_autocracy_norse;選挙制絶対専制帝国;;;;;;;;;;;;x
+gov_electorial_absolute_autocracy_tengri;選挙制絶対帝政貴族政治;;;;;;;;;;;;x
+gov_electorial_absolute_monarchy;選挙制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_absolute_monarchy_norse;選挙制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_absolute_monarchy_tengri;選挙制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_aristocratic_autocracy;選挙制貴族制専制帝国;;;;;;;;;;;;x
+gov_electorial_aristocratic_autocracy_norse;選挙制貴族制専制帝国;;;;;;;;;;;;x
+gov_electorial_aristocratic_autocracy_tengri;選挙制貴族制専制帝国;;;;;;;;;;;;x
+gov_electorial_aristocratic_monarchy;選挙制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_aristocratic_monarchy_norse;選挙制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_aristocratic_monarchy_tengri;選挙制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_despotic_autocracy;選挙制独裁専制帝国;;;;;;;;;;;;x
+gov_electorial_despotic_autocracy_norse;選挙制独裁専制帝国;;;;;;;;;;;;x
+gov_electorial_despotic_autocracy_tengri;選挙制独裁専制帝国;;;;;;;;;;;;x
+gov_electorial_despotic_monarchy;選挙制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_despotic_monarchy_zoro;選挙制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_despotic_monarchy_norse;選挙制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_despotic_monarchy_tengri;選挙制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_absolute_autocracy;世襲制絶対専制帝国;;;;;;;;;;;;x
+gov_hereditary_absolute_autocracy_indian;絶対専制帝国;;;;;;;;;;;;x
+gov_hereditary_absolute_autocracy_norse;世襲制絶対専制帝国;;;;;;;;;;;;x
+gov_hereditary_absolute_autocracy_tengri;世襲制絶対専制帝国;;;;;;;;;;;;x
+gov_hereditary_absolute_monarchy;世襲制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_indian;絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_norse;世襲制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_absolute_monarchy_tengri;世襲制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_aristocratic_autocracy;世襲制貴族制専制帝国;;;;;;;;;;;;x
+gov_hereditary_aristocratic_autocracy_indian;貴族制専制帝国;;;;;;;;;;;;x
+gov_hereditary_aristocratic_autocracy_norse;世襲制貴族制専制帝国;;;;;;;;;;;;x
+gov_hereditary_aristocratic_autocracy_tengri;世襲制貴族制専制帝国;;;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy;世襲制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_indian;貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_norse;世襲制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_tengri;世襲制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_autocracy;世襲制独裁専制帝国;;;;;;;;;;;;x
+gov_hereditary_despotic_autocracy_indian;独裁専制帝国;;;;;;;;;;;;x
+gov_hereditary_despotic_autocracy_norse;世襲制独裁専制帝国;;;;;;;;;;;;x
+gov_hereditary_despotic_autocracy_tengri;世襲制独裁専制帝国;;;;;;;;;;;;x
+gov_hereditary_despotic_monarchy;世襲制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_zoro;世襲制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_indian;独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_norse;世襲制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_monarchy_tengri;世襲制独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_muslim_absolute_autocracy;絶対専制帝国;;;;;;;;;;;;x
+gov_muslim_absolute_monarchy;絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_muslim_aristocratic_autocracy;貴族制専制帝国;;;;;;;;;;;;x
+gov_muslim_aristocratic_monarchy;貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_muslim_despotic_autocracy;独裁専制帝国;;;;;;;;;;;;x
+gov_muslim_despotic_monarchy;独裁[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_aristocratic_republic;貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_plutocratic_republic;金権制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_oligarchic_republic;寡頭制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_patrician;[GetOnlyDynastyName]元老;;;;;;;;;;;;x
+gov_prince_electorate;選王侯;;;;;;;;;;;;x
+gov_king_electorate;選帝侯;;;;;;;;;;;;x
+gov_carolingian_hegemony;カロリング朝覇権国家;;;;;;;;;;;;x
+gov_imperial_carolingian_hegemony;カロリング朝覇権帝国;;;;;;;;;;;;x
+gov_chiefdom;[Religion.GetGroupName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_grand_chiefdom;[Religion.GetGroupName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_noble_chiefdom;貴族[Religion.GetGroupName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_crusader_state;十字軍国家;;;;;;;;;;;;x
+gov_crusader_kingdom;十字軍王国;;;;;;;;;;;;x
+gov_hereditary_zun;太陽世襲制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_zun;太陽選挙制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_terror;[PrimaryTitle.GetTier] of Terror;;;;;;;;;;;;x
+gov_duchy_viceroy;[Liege.PrimaryTitle.GetAdjective]属州;;;;;;;;;;;;x
+gov_king_viceroy;[Liege.PrimaryTitle.GetAdjective]大属州;;;;;;;;;;;;x
+gov_duchy_viceroy_byz;[Liege.PrimaryTitle.GetAdjective]軍管区;;;;;;;;;;;;x
+gov_king_viceroy_byz;[Liege.PrimaryTitle.GetAdjective]総督府;;;;;;;;;;;;x
+gov_aztec;アステカ植民地;;;;;;;;;;;;x
+gov_electorial_absolute_hre;選挙制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_absolute_hre;世襲制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_electorial_despotic_hre;選挙制専制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_despotic_hre;世襲制絶対[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_aristocratic_electorial_hre;選挙制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_aristocratic_hereditary_hre;世襲制貴族制[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_nomadic_mongol_empire;イェケ・モンゴル・ウルス;;;;;;;;;;;;x
+gov_khaganate;[Culture.GetName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_clan;[GetOnlyDynastyName]朝[PrimaryTitle.GetTier];;;;;;;;;;;;x
+LAW_COUNCIL_REJECTED_SETUP;評議会は提案された法律を否決します;;;;;;;;;;;;x
+ALLOW_FEMINISM_ON;女性君主は悪い評価補正を受けない\n;;;;;;;;;;;;x
+ALLOW_FEMINISM_OFF;女性君主は悪い評価補正を受ける\n;;;;;;;;;;;;x
+ALLOW_GENDER_LAWS_ON;性別の優先度に関する法律の変更を許可する\n;;;;;;;;;;;;x
+ALLOW_GENDER_LAWS_OFF;性別の優先度に関する法律の変更許可を取り消す\n;;;;;;;;;;;;x
+alert_my_peace_soon_enforced_instant;§Y私戦禁止令を布告している！§!;;;;;;;;;;;;x
+alert_my_peace_soon_enforced_delayed;あなたの評議会は、領内での私闘を禁じることを宣言しています！\nあなたの封臣間で行われている領土紛争は$MONTHS|Y$ヶ月の間に§Y白紙和平§!で終結します！;;;;;;;;;;;;x
+alert_my_peace_being_enforced_instant;§Y私戦禁止令を布告した！§!;;;;;;;;;;;;x
+alert_my_peace_being_enforced_delayed;あなたの評議会は、領内での私闘を禁じることを宣言しています！\n$MONTHS|Y$ヶ月の間、あなたの封臣はお互いに戦争することができません！;;;;;;;;;;;;x
+tribal_county;族長領;;;;;;;;;;;;x
+tribal_kingdom_old_saxon;部族王国;;;;;;;;;;;;x
+tribal_kingdom_altaic;汗国;;;;;;;;;;;;x
+tribal_empire_altaic;大汗国;;;;;;;;;;;;x
+tribal_kingdom_arabic;王国;;;;;;;;;;;;x
+tribal_empire_russian;ツァーリ国;;;;;;;;;;;;x
+duchy_russian;大公国;;;;;;;;;;;;x
+empire_russian;ツァーリ国;;;;;;;;;;;;x
+gov_revolt;[PrimaryTitle.GetAdjective]反乱軍;;;;;;;;;;;;x
+gov_romuva_eldership;[Religion.GetName]長老制;;;;;;;;;;;;x
+gov_norse_chiefdom;[Religion.GetName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_noble_norse_chiefdom;[Religion.GetName]貴族[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_muslim_chiefdom;[Religion.GetGroupName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_noble_muslim_chiefdom;[Religion.GetGroupName]貴族[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_african_chiefdom;[Religion.GetGroupName][PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_noble_african_chiefdom;[Religion.GetGroupName]貴族[PrimaryTitle.GetTier];;;;;;;;;;;;x
+gov_hereditary_danelaw;世襲制デーンロウ;;;;;;;;;;;;x
+gov_electorial_danelaw;選挙制デーンロウ;;;;;;;;;;;;x
+COUNCIL_DISCONTENT_FROM_SUCCESSION;継承は例外なく評議会に不満を生じさせます。;;;;;;;;;;;;x
+FAVOR_ALERT_ACTION;§Y- $ACTION$§!\n;;;;;;;;;;;;x
+FAVOR_FORCE_VOTE;評議会や法に関する事柄で自分と同じ票を投じさせる;;;;;;;;;;;;x
+FAVOR_PRESS_CLAIM;自分の請求権を主君に代理行使するよう要求する;;;;;;;;;;;;x
+FAVOR_START_LAW_VOTE;貴方の主君に対して法の投票を開始させる;;;;;;;;;;;;x
+FAVOR_FORCE_MARRIAGE;婚約の提案を受け入れさせる;;;;;;;;;;;;x
+FAVOR_FORCE_GUARDIANSHIP;子供の教育方針を受け入れさせる;;;;;;;;;;;;x
+FAVOR_END_PLOT;陰謀の終了または陰謀からの離脱を強制する;;;;;;;;;;;;x
+COUNCIL_CONTENT;評議会は満足している;;;;;;;;;;;;x
+COUNCIL_DISCONTENT;$UNTIL$まで不満を抱える;;;;;;;;;;;;x
+COUNCIL_STATUS_LONG_CONTENT_PLAYER;[Actor.GetCouncilName]は§Y満足§!しています;;;;;;;;;;;;x
+COUNCIL_STATUS_LONG_CONTENT_LIEGE;§Y[Actor.GetBestName]§!の[Actor.GetCouncilName]は§Y満足§!しています;;;;;;;;;;;;x
+COUNCIL_STATUS_LONG_DISCONTENT_PLAYER;[Actor.GetCouncilName]は$DISCONTENT_DURATION$ヶ月間に渡って§Y不満§!を抱えています。;;;;;;;;;;;;x
+COUNCIL_STATUS_LONG_DISCONTENT_LIEGE;[Actor.GetBestName]の[Actor.GetCouncilName]は$DISCONTENT_DURATION$ヶ月間に渡って§Y不満§!を抱えています。;;;;;;;;;;;;x
+COUNCIL_REASON_FOR_DISCONTENT;不満の理由：\n$REASON|Y$\n\n;;;;;;;;;;;;x
+GENERIC_DISCONTENT_REASON;評議会の投票結果で反対となった決定を行う。;;;;;;;;;;;;x
+INHERITANCE_TAB;§Y継承法§!;;;;;;;;;;;;x
+INHERITANCE_TAB_DELAYED;この法律は継承がどのように行われるのか、誰が何を相続するのかを規定します。;;;;;;;;;;;;x
+REALM_TAB;§Y分国法§!;;;;;;;;;;;;x
+REALM_TAB_DELAYED;これらの法律は領国をどのように統治するか、君主は何をしてもいいかを規定します。;;;;;;;;;;;;x
+OBLIGATIONS_TAB;§Y封建義務法§!;;;;;;;;;;;;x
+OBLIGATIONS_TAB_DELAYED;これらの法律は封臣が主に提供すべき上納金と兵力を規定します。;;;;;;;;;;;;x
+COUNCIL_LAW_TAB;§Y評議会法§!;;;;;;;;;;;;x
+COUNCIL_LAW_TAB_DELAYED;これらの法律は評議会を置くか否か、そして評議会が権限をもつ事柄を規定します。;;;;;;;;;;;;x
+revoke_title_interaction_voting;称号の剥奪;;;;;;;;;;;;x
+imprison_character_interaction_voting;投獄;;;;;;;;;;;;x
+grant_landed_title_interaction_voting;称号の授与;;;;;;;;;;;;x
+exile_imprisoned_interaction_voting;追放;;;;;;;;;;;;x
+execute_imprisoned_interaction_voting;囚人の処刑;;;;;;;;;;;;x
+laws_voting;法律の変更;;;;;;;;;;;;x
+IMPRISON_DISCONTENT_REASON;[Actor.GetBestName]は評議会の投票結果が反対だったにも関わらず[Recipient.GetBestName]の投獄を試みました。;;;;;;;;;;;;x
+EXECUTE_DISCONTENT_REASON;[Actor.GetBestName]は評議会の投票結果が反対だったにも関わらず[Recipient.GetBestName]を処刑しました。;;;;;;;;;;;;x
+REVOKE_TITLE_DISCONTENT_REASON;[Actor.GetBestName]は評議会の投票結果が反対だったにも関わらず[ThirdPartyTitle.GetFullName]を[Recipient.GetBestName]から剥奪しました。;;;;;;;;;;;;x
+GRANT_TITLE_DISCONTENT_REASON;[Actor.GetBestName]は評議会の投票結果が反対だったにも関わらず[ThirdPartyTitle.GetFullName]を[Recipient.GetBestName]に授与しました。;;;;;;;;;;;;x
+EXILE_IMPRISONED_DISCONTENT_REASON;[Actor.GetBestName]は評議会の投票結果が反対だったにも関わらず[Recipient.GetBestName]を追放しました。;;;;;;;;;;;;x
+CB_NAME_INCREASE_COUNCIL_POWER;評議会の権限強化;;;;;;;;;;;;x
+WAR_NAME_INCREASE_COUNCIL_POWER;$ORDER$評議会権限強化を求める$SECOND_ADJ$内乱;;;;;;;;;;;;x
+council_off_custom;§Y私戦禁止令§!の使用を無効化;;;;;;;;;;;;x
+council_on_custom;追加の評議会権限をアンロック\n§Y私戦禁止令§!の使用を許可;;;;;;;;;;;;x
+EVTDESC8215;貴方はあまりに長きに渡って我ら封臣の政治的影響力を制限し過ぎたのです。もうそろそろ[Root.GetCouncilName]により強い権力を与えるべきです。この要求を貴方が平和裏に受け入れぬ場合、しかるべき結果がもたらされるでしょう。同じく怒りを抱えているもの達が私の元に集っていることをお忘れなく…\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+opinion_childhood_sweetheart;子供の頃の恋人;;;;;;;;;;;;x
+pattern_loyalist_vote_as_liege_custom_tooltip;この評議員は忠臣であり、主の政策に賛成票を投じます\n;;;;;;;;;;;;x
+pattern_pragmatist_weak_opponent_custom_tooltip;この相手はこちらより遥かに弱い\n;;;;;;;;;;;;x
+pattern_pragmatist_de_jure_or_culture_custom_tooltip;対象の土地はこちらの慣習的領土の一部かこちらの文化グループに属する土地だ\n;;;;;;;;;;;;x
+pattern_pragmatist_strong_opponent_custom_tooltip;楯突くには相手が強すぎる！\n;;;;;;;;;;;;x
+pattern_pragmatist_dislike_large_demesne_custom_tooltip;目標の人物の直轄領は4以上ある\n;;;;;;;;;;;;x
+pattern_glory_hound_glorious_war_custom_tooltip;敵は我らより強大であり、勝利すれば栄光が得られる！\n;;;;;;;;;;;;x
+pattern_glory_hound_preferred_war_custom_tooltip;この戦争対象は自分もいいと思う！\n;;;;;;;;;;;;x
+pattern_glory_hound_land_grab_custom_tooltip;この戦争に勝利することで領国が拡大する！\n;;;;;;;;;;;;x
+pattern_glory_hound_opponent_too_weak_custom_tooltip;この戦争で栄光は得られまい。敵があまりに弱すぎる！\n;;;;;;;;;;;;x
+pattern_zealot_depose_wicked_pope_custom_tooltip;この戦争は邪悪な教皇を退位させることになる\n;;;;;;;;;;;;x
+pattern_zealot_dislikes_heathens_heretics_custom_tooltip;この戦争は宗敵に対するものだ！\n;;;;;;;;;;;;x
+pattern_attacking_excom_or_antipope_custom_tooltip;この戦争は破門された人物もしくは対立教皇に対するものだ\n;;;;;;;;;;;;x
+pattern_zealot_not_other_religion_antipope_custom_tooltip;戦争目標は他の宗教の対立教皇ではない。\n;;;;;;;;;;;;x
+pattern_malcontent_vote_against_liege_custom_tooltip;この評議員は不満を抱えており、主の意見に反対するだろう\n;;;;;;;;;;;;x
+pattern_selfish_gain_title_custom_tooltip;私が称号を得る！\n;;;;;;;;;;;;x
+pattern_selfish_save_my_hide_custom_tooltip;これは戦況が不利な我々にとって助けとなるでしょう！\n;;;;;;;;;;;;x
+pattern_selfish_save_ally_custom_tooltip;これは戦況が不利な我が同盟国にとって助けとなるでしょう\n;;;;;;;;;;;;x
+pattern_selfish_lose_title_custom_tooltip;称号を失うでしょう！\n;;;;;;;;;;;;x
+pattern_selfish_affects_me_custom_tooltip;これは私に不利に働きます\n;;;;;;;;;;;;x
+pattern_i_am_unlanded_custom_tooltip;私は領地を持っていない、その称号は私が得るべきだ！\n;;;;;;;;;;;;x
+pattern_my_de_jure_title_custom_tooltip;この称号は私の慣習的領域の一部であり、私のものであるべきだ！\n;;;;;;;;;;;;x
+pattern_i_desire_this_title_custom_tooltip;この称号を欲する\n;;;;;;;;;;;;x
+pattern_selfish_i_am_winning_custom_tooltip;戦況は我が方に有利だ\n;;;;;;;;;;;;x
+pattern_selfish_ally_is_winning_custom_tooltip;戦況は我が同盟相手に有利だ\n;;;;;;;;;;;;x
+pattern_family_member_gain_title_custom_tooltip;私の一族の人物が称号を得ます！\n;;;;;;;;;;;;x
+pattern_family_against_family_custom_tooltip;この戦争は私の一族の一人に対するものです\n;;;;;;;;;;;;x
+pattern_family_member_lose_title_custom_tooltip;私の一族の人物が称号を失います\n;;;;;;;;;;;;x
+pattern_family_member_affected_negatively_custom_tooltip;私の一族は悪影響を受けるでしょう\n;;;;;;;;;;;;x
+pattern_this_is_my_war_target_custom_tooltip;これは私の優先戦争目標です！\n;;;;;;;;;;;;x
+pattern_interaction_dislike_custom_tooltip;私はこの人物が嫌いです\n;;;;;;;;;;;;x
+pattern_interaction_like_custom_tooltip;私はこの人物が好きです\n;;;;;;;;;;;;x
+pattern_interaction_dont_dislike_unlanded_custom_tooltip;私はこの人物が嫌いであり、この人物は領主ではありません\n;;;;;;;;;;;;x
+PICK_CHILDHOOD_FOCUS_DESC;養育方針は一度設定すると変更することが出来ません。\n§R設定を行わないままにすると、子供の養育はよりランダムに選ばれます。§!;;;;;;;;;;;;x
+PICK_ADOLESCENCE_FOCUS_DESC;教育方針は一度設定すると変更することが出来ません。\n§R設定を行わないままにすると、子供はランダムな教育を受け、教育を自分で選んだ場合よりかなり悪い結果となるでしょう。§!;;;;;;;;;;;;x
+CANNOT_CHANGE_CHILDHOOD_FOCUS;§R養育方針は一度設定すると変更できません。§!\n§Y養育方針はその人物が12歳を過ぎると自動的になくなり、代わりに教育方針を選択できるようになります。§!;;;;;;;;;;;;x
+CANNOT_CHANGE_EDUCATION_FOCUS;§R教育方針は一度設定すると変更できません。§!\n§Y教育方針はその人物が成人になると自動的になくなります。§!;;;;;;;;;;;;x
+LAW_CHANGE_TIMEOUT;§R評議会は法の変更を最近否決しました。法の変更のための採決は$DATE$に再度試みることができます§!;;;;;;;;;;;;x
+dissolve_mercenary_company_feudal;傭兵隊の解散;;;;;;;;;;;;x
+INTERACTION_TITLE_REVOCATION_ALLOWED;称号剥奪法が§Y$TITLE$§!で可決されている;;;;;;;;;;;;x
+EVTOPTB63043;これは無駄だ。;;;;;;;;;;;;x
+EVTOPTB63043_TOOLTIP;野心を放棄します。;;;;;;;;;;;;x
+EVTOPTB_ZE_13102;男の子は男の子だ。;;;;;;;;;;;;x
+EVTOPTC_ZE_13102;女の子は女の子だ。;;;;;;;;;;;;x
+SAME_POSITION_AS;$TARGET|Y$と同じ投票態度（$POSITION$）を持つ;;;;;;;;;;;;x
+HAS_POSITION;$POSITION|Y$の投票態度を持つ;;;;;;;;;;;;x
+HAS_MERCENARY_UNITS;$CHARACTER$は傭兵部隊を所有している;;;;;;;;;;;;x
+COUNCILOR_VOTES;$ISSUE|Y$に投票;;;;;;;;;;;;x

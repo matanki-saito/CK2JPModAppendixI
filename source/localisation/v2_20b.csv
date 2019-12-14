@@ -1,0 +1,345 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTC91355;[From.GetHerHis]の貪欲さに付け込めば…;;;;;;;;;;;;x
+EVTOPTD91355;いくらか寄付をすれば[Root.Religion.GetRandomGodName]はお喜びになるだろう。;;;;;;;;;;;;x
+EVTOPTE91355;[From.GetHerHis]の[From.Spouse.GetHusbandWife]を私の側に来させよう。;;;;;;;;;;;;x
+EVTDESC91372;外交員から[From.GetTitledFirstName]の伝言が届きましたが、依然として[From.GetSheHe]を正すための要求を拒否しています！[From.GetSheHeCap]は、素晴らしい軍事能力をもつ強力な宦官を与えることと引き換えに[From.GetHerHis]の退廃を保持し続けることを[From.GetHerHim]に許すことを提案しています。;;;;;;;;;;;;x
+EVTOPTA91372;私は確かにそのような宦官を雇用することができる！;;;;;;;;;;;;x
+EVTDESC91373;[From.GetTitledFirstName]は[From.GetSheHe]がどのようにして今のような生き方をするに至ったかについて語ってきた。[From.GetSubjectPronounCap]は私が退廃だと思っているものは、単に異なる方法で[From.Religion.GetRandomGodName]の意思を称揚しているだけにすぎないと主張している。[From.GetFirstName]はまた、友好の証として私の名で喜捨を行うことを提案してきた。;;;;;;;;;;;;x
+EVTOPTA91373;このような寄付は確実に[From.Religion.GetRandomGodName]を喜ばせるだろう。;;;;;;;;;;;;x
+EVTDESC91374;[From.GetTitledFirstName]が私の執務室に来て、とんでもないことをささやいてきた。[Root.Spouse.GetTitledFirstName]は、[From.GetSheHe]はその放埒な行状ゆえに投獄されるべきだと主張しているが、今の[From.GetTitledFirstName]は私が聞き及んでいた人物とは全く違っているように思える。;;;;;;;;;;;;x
+EVTOPTA91374;私は恋に落ちてしまった！;;;;;;;;;;;;x
+EVTOPTB91374;演技に決まっている！;;;;;;;;;;;;x
+EVTDESC91375;My spouse is upset about what [From.GetSheHe] refers to as my unnecessarily harsh attitude towards [FromFrom.GetTitledFirstName] and [FromFrom.GetHerHis] decadent ways, and asks me to leave [FromFrom.GetHerHim] alone.;;;;;;;;;;;;x
+EVTOPTA91375;Everything for you, my love.;;;;;;;;;;;;x
+EVTDESC91376;[From.GetHusbandWife]から衝撃的な報せを受けた。[FromFrom.GetTitledFirstName]が愛するわが[From.GetHusbandWife]を誘惑し、私を裏切らせようとしているというのだ。;;;;;;;;;;;;x
+EVTDESC7950;[Root.PlotTarget.GetTitledName]の退廃した行状を聞くにつけ、[Root.PlotTarget.GetTitledFirstName]を殺す計画は[Root.PlotTarget.GetHerHis]自身の宮廷で遂行されるべきだということが明確になった……;;;;;;;;;;;;x
+EVTOPTA7950;共謀者が[Root.PlotTarget.GetHerHis]の召使いを買収するだろう。;;;;;;;;;;;;x
+EVTOPTB7950;[Root.PlotTarget.GetHerHis]の召使いを買収しよう。;;;;;;;;;;;;x
+EVTOPTC7950;[Root.PlotTarget.GetHerHis]の召使いを私のものとすり替えよう。;;;;;;;;;;;;x
+EVTDESC7951;All of a sudden, I realized that such decadent fools surely are the most vulnerable in their own palace.;;;;;;;;;;;;x
+EVTDESC7953;[From.GetTitledName] has sent me the necessary funds to bribe [From.PlotTarget.GetTitledName]'s servants to join our cause.;;;;;;;;;;;;x
+EVTDESC7954;[From.GetTitledName] has refused to give me the necessary funds for bribes to have [From.PlotTarget.GetTitledName] killed in his own palace.;;;;;;;;;;;;x
+EVTDESC7955;How wonderful it is to just sit at home and enjoy the 'simple' things in life. Servants, more wine please! More food too for that matter!;;;;;;;;;;;;x
+EVTTOOLTIP7955;[This.GetTitledName] will no longer be a stain on my dynasty!;;;;;;;;;;;;x
+EVTOPTA7955;That's right, do hurry!;;;;;;;;;;;;x
+EVTOPTB7955;Why is my servant running towards me?;;;;;;;;;;;;x
+EVTDESC7956;A hidden dagger held by my own servant, is this really how I must die? [Root.Religion.GetRandomGodName] forgive me, for I have sinned...;;;;;;;;;;;;x
+EVTOPTA7956;[FromFrom.GetTitledFirstName]に死を！;;;;;;;;;;;;x
+EVTOPTA7957;なぜ？誰が？[Root.Religion.GetRandomGodName]よ……;;;;;;;;;;;;x
+EVTDESC7958;I was sitting comfortably along with my beautiful servants, enjoying a cup of expensive wine after a grand dinner, when suddenly I saw one of my servants dashing towards me with a dagger in her hand. I jumped away just in time and my guards caught her before she had the time to strike again. Before she was taken care of, she uttered the name of the one behind the plan.;;;;;;;;;;;;x
+EVTOPTA7958;忌々しい[FromFrom.GetTitledFirstName]め！;;;;;;;;;;;;x
+EVTDESC7959;豪華な晩餐のあと、私は高価なワインで満たされた杯を手に、美しい召使いたちを侍らせていた。そのとき、召使いの一人が短剣を手にして私に飛びかかってきた。私はすんでの所で飛びすさり、女が次の一撃を繰り出す前に衛兵に捕えさせた。その召使いはしかるべき処遇を受けているが、彼女は捨て駒に過ぎないのではないか。裏で糸を引いているのは誰だ？;;;;;;;;;;;;x
+EVTOPTA7959;I fear I shall never know.;;;;;;;;;;;;x
+EVTDESC7960;My co-conspirator, [From.GetTitledName], has let me know that [Root.PlotTarget.GetTitledName] will die in [Root.PlotTarget.GetHerHis] own palace, with a dagger taken to [Root.PlotTarget.GetHerHis] throat by [Root.PlotTarget.GetHerHis] own servants.;;;;;;;;;;;;x
+EVTOPTA7960;これが退廃の報いだ！;;;;;;;;;;;;x
+EVTDESC7961;[From.GetTitledName] approves of my idea to have [From.PlotTarget.GetTitledName] killed by [From.PlotTarget.GetHerHis] own servants. [Root.Religion.GetRandomGodName] will surely forgive me due to [From.PlotTarget.GetTitledFirstName]'s decadent ways.;;;;;;;;;;;;x
+EVTDESC7962;[From.GetTitledName] has let me know that the plot to kill [From.PlotTarget.GetTitledName] is proceeding well. Several of [From.PlotTarget.GetHerHis] servants are loyal to our cause and we will be ready to strike in one month's time.;;;;;;;;;;;;x
+EVTDESC7963;成功だ！[From.GetTitledName]は死んだ。だが不幸なことに、私が関与していることが発覚してしまった。;;;;;;;;;;;;x
+EVTOPTA7963;よくやった。しかし…これはまずいな。;;;;;;;;;;;;x
+EVTDESC7964;Success! [From.GetTitledName] died not knowing the name of [From.GetPossPronoun] killer. The bribed servants have been taken care of and will not speak of what happened this day.;;;;;;;;;;;;x
+EVTOPTA7964;I shall celebrate this... modestly.;;;;;;;;;;;;x
+EVTDESC7965;Failure! [From.GetTitledName] overheard our servants talking and uncovered our plot to kill [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA7965;良くないな。;;;;;;;;;;;;x
+EVTDESC7966;Failure! [From.GetTitledName] realized something was off and had the servants taken away. However, he was unable to uncover our plot.;;;;;;;;;;;;x
+title_appointed_regent;摂政;;;;;;;;;;;;x
+title_appointed_regent_desc;摂政が必要となった場合、この人物が就任します。;;;;;;;;;;;;x
+INTERACTION_REQ_REC_IS_DJ_LIEGE_OR_ADJ;§Y[Recipient.GetTitledFirstName]§!が隣接しているか、自分の首都の慣習的な君主でなければならない;;;;;;;;;;;;x
+WELCOME_TEXT;中世における任意の時代において、小さな伯爵から偉大な皇帝まで好きな君主を選んでプレイすることができます。操作キャラクターが死亡した際、ゲームプレイを続行するにはその後継者が必要となります。このように操作キャラクターが切り替わりながら時代が進んでいきます。他の多くのゲームとは異なり、開始時点での状況は歴史に準拠しているため、キャラクター毎にプレイ難易度は全く異なってきます。キャラクターを選んだときに表示される予想難易度を確認しておきましょう。;;;;;;;;;;;;x
+tribal_duke;大族長;;;;;;;;;;;;x
+tribal_duke_female;大族長;;;;;;;;;;;;x
+tribal_duchy_of;大族長領;;;;;;;;;;;;x
+tribal_duchy_of_norse;ジャール領;;;;;;;;;;;;x
+tribal_count_west_african;ファリン;;;;;;;;;;;;x
+tribal_count_female_west_african;ファリーナ;;;;;;;;;;;;x
+tribal_duke_west_african;ファーバス;;;;;;;;;;;;x
+tribal_duke_female_west_african;ファーバ;;;;;;;;;;;;x
+tribal_king_west_african;マンサ;;;;;;;;;;;;x
+tribal_baron_mongol;タイシ;;;;;;;;;;;;x
+tribal_barony_of_mongol;タイシ領;;;;;;;;;;;;x
+EVTDESC_CM_11;[Root.GetName]の州の人々は遠方からの習慣を受け入れ、自らのスラブのしきたりと混ぜ合わせています。そして自らを「ルス」「ロシア人」と呼ぶようになっています。;;;;;;;;;;;;x
+EVTOPTA_CM_11;新しい…が、認知できる。;;;;;;;;;;;;x
+convert_to_russian;ロシア文化を受容;;;;;;;;;;;;x
+convert_to_russian_desc;我々の臣民の多数は異邦人がもたらした新しい習慣や伝統を地元のしきたりと統合し、受け入れています。おそらくは我々もそうしなければならないでしょう…;;;;;;;;;;;;x
+EVTDESC_CM_2102;You grow weary of spending so much time in your castle, performing tedious duties of government and diplomacy. Meanwhile, [From.GetTitledFirstName] keeps telling you of all the interesting adventures he experiences in your service. But perhaps you could join him next time he rides out...;;;;;;;;;;;;x
+EVTOPTA_CM_2102;Yes, I think I will!;;;;;;;;;;;;x
+EVTOPTB_CM_2102;No, I must tend to my duties as [Root.GetTitle].;;;;;;;;;;;;x
+EVTDESC_CM_2104;You ride out one fine morning in the company of [From.GetTitledFirstNameWithNick], taking no escort and wearing practical rather than regal attire. This will be a good break from the monotony of your court. You catch [From.GetTitledFirstName] giving you a sceptical look, but you are sure this will be a fine journey.;;;;;;;;;;;;x
+EVTOPTA_CM_2104;What could possibly go wrong?;;;;;;;;;;;;x
+d_yatviags;ヤトヴャギア;;;;;;;;;;;;x
+d_pechenegs;ペチェネグ;;;;;;;;;;;;x
+e_seljuk_turks;セルジューク帝国;;;;;;;;;;;;x
+action_settle_tribe;部族の定住;;;;;;;;;;;;x
+action_settle_tribe_desc;[GetMyTreasurerName]に命じて同胞の入植事業を行うことで、この州が§Y[Culture.GetName]§!文化に変わる可能性を増加させます。;;;;;;;;;;;;x
+EVTNAME925;部族の定住;;;;;;;;;;;;x
+EVTDESC925;My efforts to settle our tribe in [Root.Location.GetName] have met with success! My liege will be pleased!;;;;;;;;;;;;x
+EVTOPTA925;[Root.Liege.Culture.GetName] ways are superior.;;;;;;;;;;;;x
+EVTDESC20205;[Root.GetMyTreasurerName][From.GetTitledFirstName]が嬉しそうに報告してきた。[From.Location.GetName]において、[Root.Culture.GetName]の流れを汲む有力階級が数多く定着しだしているとのこと。現地では、つまずきはあったものの、我々の言語と文化が取り入れられ始めているのだ!;;;;;;;;;;;;x
+EVTOPTA20205;[From.GetFirstName]はいつも頼りになる;;;;;;;;;;;;x
+EVTNAME20206;[Root.GetMyTreasurerName]の負傷;;;;;;;;;;;;x
+EVTDESC20206;The locals in [Root.Location.GetName], angered by the increasing numbers of [Root.Liege.Culture.GetName] settlers, stormed my house and almost killed me! I took a wound in the shoulder fighting for my life!;;;;;;;;;;;;x
+EVTOPTA20206;I can't say I blame them...;;;;;;;;;;;;x
+EVTDESC20207;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], has been stabbed and wounded by the locals in [From.Location.GetName], who are fiercely resisting our settlers.;;;;;;;;;;;;x
+EVTOPTA20207;Such is to be expected...;;;;;;;;;;;;x
+action_build_legend;伝説を構築;;;;;;;;;;;;x
+EVTNAME20208;Warriors Raised;;;;;;;;;;;;x
+EVTDESC20208;My efforts at building the legend of [Root.Liege.GetTitledFirstName] have met with great success. Bands of warriors has converged at [Root.Location.Capital.GetName] lusting for plunder and glory!;;;;;;;;;;;;x
+EVTOPTA20208;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;x
+EVTDESC20209;[Root.GetMyTreasurerName]、[From.GetTitledFirstName]が、我が名と行いを称える努力が大成功を収めたと報告してきた！ 少人数の戦士が[Root.Capital.Capital.GetName]に集まって私に仕える準備ができている。 戦士たちには戦う相手が必要だ -  1年以内に - …面倒を起こす前に。;;;;;;;;;;;;x
+EVTOPTA20209;素晴らしい！;;;;;;;;;;;;x
+EVTDESC20217;我が栄光のため戦う[Root.GetMyTreasurerName]が育てた戦士たちは、女々しい平和主義に幻滅し嫌悪感を抱いて家に帰ってしまい、私は面目を失った。;;;;;;;;;;;;x
+EVTOPTA20217;おのれ！;;;;;;;;;;;;x
+action_build_zeal;情熱の増強;;;;;;;;;;;;x
+EVTNAME20218;高まる情熱;;;;;;;;;;;;x
+EVTDESC20218;私は[Root.Location.GetName]の宗教的情熱を狂気へと変貌させた。[Root.Liege.Religion.GetRandomGodName]の名の下に集まった熱心な戦士は異教徒に破滅をもたらすだろう！;;;;;;;;;;;;x
+EVTOPTA20218;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;x
+EVTDESC20219;私の[Root.GetMyLordSpiritualName]、[From.GetTitledFirstName]は、[From.GetPossPronoun]人々の間で宗教的熱意を増す努力が大成功を収めていると報告してきた！ 少数の狂信者たちが[Root.Capital.Capital.GetName]に集まって私に仕える準備をしている。 ただし、異教徒を攻撃しなければ、彼らは解散してしまうだろう。;;;;;;;;;;;;x
+EVTOPTA20219;[Root.Religion.GetRandomGodName]を讃えよ！;;;;;;;;;;;;x
+EVTDESC20220;[Root.Religion.GetRandomGodName]のために戦う[Root.GetMyLordSpiritualName]が惹きよせた聖戦士たちは、私が聖戦の闘いに対して不誠実であることに幻滅して散り散りになってしまい、私の信仰は大きく損なわれた。;;;;;;;;;;;;x
+EVTOPTA20220;忍耐はどこへいった？;;;;;;;;;;;;x
+action_organize_raid;略奪の準備;;;;;;;;;;;;x
+EVTNAME20221;略奪準備の完了;;;;;;;;;;;;x
+EVTDESC20221;With enticing words of riches beyond measure, I have gathered up a mighty host in [Root.Location.GetName]. These men do not like to sit idle though...;;;;;;;;;;;;x
+EVTOPTA20221;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;x
+EVTDESC20222;[Root.GetMyMarshalName]、[From.GetTitledFirstName]は、略奪を渇望し、破壊に戯れる多数の略奪者を集めた。この男たちを利用しなければならない。長い間放置することは許されない！;;;;;;;;;;;;x
+EVTOPTA20222;実に良い知らせだ！;;;;;;;;;;;;x
+EVTDESC20224;私のために戦う[Root.GetMyMarshalName]が集めた略奪者の一団は、女々しい平和主義に飽きてきて妻のもとへと帰っていった。彼らは見つけた高価なものはすべて手に入れてから去っていった！;;;;;;;;;;;;x
+EVTOPTA20224;盗賊め！うぬぬ......;;;;;;;;;;;;x
+CHRONICLE_PLAYER_INHERITANCE_NORMAL;[GetDateText]、[From.GetTitledName]が[From.GetDeathReason]。その[GetFromReverseRelation][Root.GetFirstName]が[From.PrimaryTitle.GetTier]の座を襲し、[Root.Capital.Capital.GetName]にて大式典が催された。;;;;;;;;;;;;x
+CHRONICLE_PLAYER_INHERITANCE_NEW_RELIGION;[GetDateText]、[From.GetTitledName]は[From.GetDeathReason]。その後を継いだのはその[GetFromReverseRelation]の[Root.Religion.GetName][Root.Religion.GetGroupName][Root.GetFirstName]であった。;;;;;;;;;;;;x
+CHRONICLE_PLAYER_INHERITANCE_NEW_CULTURE;[GetDateText]、[From.GetTitledName]は[From.GetDeathReason]。その[GetFromReverseRelation]の[Root.Culture.GetName]人[Root.GetFirstName]が[Root.GetTitledFirstName]として[From.PrimaryTitle.GetTier]の玉座を襲した。;;;;;;;;;;;;x
+CHRONICLE_PLAYER_INHERITANCE_NEW_CULTURE_AND_RELIGION;[GetDateText]、[From.GetTitledName]は[From.GetDeathReason]。その後に[From.PrimaryTitle.GetTier]の玉座を襲したのは[Root.Religion.GetName][Root.Religion.GetGroupName]を奉じる[GetFromReverseRelation]の[Root.Culture.GetName]人[Root.GetFirstName]であった。;;;;;;;;;;;;x
+jewish_group;イスラエル;;;;;;;;;;;;x
+zoroastrian_group;マズダ;;;;;;;;;;;;x
+embargo_cb_desc;この開戦事由で§Y$TARGET$§!が貴方の領地に持つ全ての交易所を破壊することができます。;;;;;;;;;;;;x
+vice_royalty_desc;皇帝は総督として王国級、また公爵級の称号を封臣へ与えることができます。この称号は相続されず、総督が亡くなった際には皇帝へ戻ってきます。封臣限界を下回るのにお得なやり方です。;;;;;;;;;;;;x
+opinion_castrated_close_kin;親族を去勢した;;;;;;;;;;;;x
+opinion_blinded_close_kin;親族を盲目にした;;;;;;;;;;;;x
+TITLE_USURPTION_TEMPORARY_TITLE;暫定称号の保持者及びその封臣は既存の称号を簒奪できない;;;;;;;;;;;;x
+EVTDESC107001;一族を維持するために後継者へ相続させていくことになるでしょう。このラーニングシナリオでは、あなたが40歳になるまで他国からの攻撃や内戦は起きません。40歳になると[Root.GetFirstName]は死亡し(通常はキャラクターは老齢、病気、暴力で死亡します)、ラーニングシナリオは終了します。もし[Root.GetSubjectPronoun]が死亡した場合は[Root.GetPossPronoun]の跡継ぎとして通常のプレイを続けることができます。 そのときはあなたが望むように自由にプレイしてください。よってラーニングシナリオの指示はもう出なくなってしまいます。;;;;;;;;;;;;x
+EVTDESC107303;輸送船が足りないようです。戦時において直轄領と封臣からの軍勢では戦力が足りないこともあるでしょう。そのときは傭兵を雇うと良いです。軍事インターフェイスの傭兵タブから行えます。雇われた傭兵はあなたの首都に現れます。傭兵は非常に高価で、雇う時はもちろんですが維持するだけでもお金がかかります。雇う前に彼らの編制を見てください。陸兵だけで構成されているものとガレー船だけで構成されているものがあります。海の傭兵を雇いましょう!彼らは領地近くの海域に出現するでしょう。;;;;;;;;;;;;x
+CHRONICLE_JOINED_ALLY_IN_WAR;敵と戦う[From.GetTitledName]に[Prev.GetTitledName]が助力に加わった。;;;;;;;;;;;;x
+CHRONICLE_JOINED_ALLY_IN_WAR_2;敵と戦う[From.GetTitledName]に[Prev.GetTitledName]が助力に加わった。;;;;;;;;;;;;x
+CHRONICLE_CRUSADE_LOST_NO_HEAD;[From.Religion.GetName]が宗教指導者を持たなくなったため[From.Religion.GetCrusadeName]は終了した。;;;;;;;;;;;;x
+ASK_FOR_DIVORCE_INTERACTION_1;§Y[Actor.Spouse.GetFirstName]§Wと離婚すると威信が§R$COST$§W減少します。;;;;;;;;;;;;x
+DIVORCE_INTERACTION_1;離婚によって威信§R$COST$§Wもまた減少します。;;;;;;;;;;;;x
+ERA_CHAR_INFO_3096;カイロで生まれたアル＝ムスタンスィルは、わずか6歳の時にカリフになった。彼が幼年の間は母マド・アブ・タミムが摂政として活動し、彼の安全を確保していた。彼の治世は強大なワズィールによって支配されており、また飢饉の混乱からくる国土の弱体化、強力なトルコ人傭兵に支配されたエジプト、それに権力闘争に悩まされていた。アル＝ムスタンスィルは集中的な権力を握ることはなかったが、歴史上最も長く統治していたカリフではあった。;;;;;;;;;;;;x
+ERA_CHAR_INFO_3040;セルジュークのひ孫であるアルプ・アルスラーンはムハンマド・ビン・ダウド・チャグリーの名で生まれたが、彼の強さ、資質、勇猛さはすぐに別の名前を与えることとなり、彼は「勇猛なるライオン」と讃えて呼ばれる事となった。初期には、彼はコルラサンの知事を父親から継承し、1064年の継承危機の後、彼は武力でスルタンの称号をとり、巨大なセルジューク帝国の支配者になった。それから彼はビザンチン帝国に戦争を挑み、マラズギルトの有名な戦いで彼らを完敗させて皇帝を捕虜とした。 この勝利は、アナトリアでのトルコの支配への第一歩であり、十字軍を引き起こした主要な出来事の1つとなった。42歳になった時、短剣を持った反逆者に対して彼は助けに来ようとする護衛を制して名の通りの死を遂げた。;;;;;;;;;;;;x
+ERA_CHAR_INFO_457620;カスティーリャとレオンの王として、フェルナンドは、レコンキスタ史上最も重要な人物の1人で、最終的にイベリア半島から追い出されたイスラム教徒を見るまでとなった。フェルナンドの下にあるカスティーリャは、コルドバやセビリアなどのアンダルシアの都市を奪取するために武力と外交を組み合わせて、スペイン南部まで拡大した。彼は死後400年以上経ってから、教皇クレメンス10世によって正式に列聖され、歴史年代記で聖フェルナンドとして知られるようになった。;;;;;;;;;;;;x
+ERA_CHAR_INFO_167219;ハンザ同盟はリューベックを中心としたドイツ諸都市の緩い同盟で、ヴィスビューからこの地域の商業の中心地としての地位を取って代わった後、中世後期以降バルト海の交易を牛耳りました。「コントール」と呼ばれた商館は西はロンドン、東はノヴゴロドまでの主要な港や商業の結節点ではどこでも開設されていました。そして同盟は1368年にデンマーク首都コペンハーゲンを占領するなど大国に直接挑むまでに強大化したのです。;;;;;;;;;;;;x
+ERA_CHAR_INFO_212513;同時代にラテン語でStupor-Mundi、「世界の驚異」と呼ばれたフリードリヒ2世は、中世における神聖ローマ帝国の中で最も強力で影響力の強い皇帝の一人だった。 彼の統治で特筆すべきは教皇領との頻繁な戦争であり、フリードリヒは生涯4回破門された。教皇グレゴリー9世は彼を反キリストと呼びさえした。彼は、実際の戦いにはほとんど関与していないにもかかわらず、第6次十字軍では、エルサレムにキリスト教統治を復帰（無血奪還）させる仲介をした。1250年に55歳で赤痢で死ぬと、彼の系譜もすぐに途絶え、結果としてホーエンシュタウフェン家は断絶した。;;;;;;;;;;;;x
+ERA_CHAR_INFO_74656;シンガナ2世は精力的なインドの支配者であり、南北に向かって自分の領土を大きく拡大させた。科学と芸術の素晴らしい後援者として、彼は天文学の大学を設立し、シニャプールの街を創設した。;;;;;;;;;;;;x
+ERA_CHAR_INFO_454500;エドワード3世は1327年に父親の悲惨な統治が終わった後に戴冠し、いろいろな意味で「戦争王」であった。エドワードのもとで、イングランドはヨーロッパで最も恐るべき軍隊を持つ国に変身し、後に百年戦争として知られる紛争をフランス王座をかけて始めた。彼の長い治世の間、これは50年間続くのだが、エドワードは主として軍事問題に傾倒した。彼は自ら天下分け目の戦いであるクレシーの戦いを引率した。この戦いでは大部分が長弓兵で構成された英軍が、はるかに大きなフランス軍を打ち破った。;;;;;;;;;;;;x
+ERA_CHAR_INFO_455500;フィリップ幸運王はフランス王として初のヴァロワ家出身の王であり、彼の統治下で百年戦争がはじまることとなります。その幸運というあだ名に反し、戦争はうまくいかず、軍はクレシーの戦いでイングランド軍の手により事実上全滅しました。治世の終わり頃にフランスにはじめて黒死病が登場し、妻ジャンヌを含む王国の３分の1の人命が失われました。;;;;;;;;;;;;x
+ERA_CHAR_INFO_476500;彼の名前から取られた名だたるオスマン朝の創始者であるオスマン1世の息子、オルハンは父の死後その地位を継承した。彼は当初、兄弟アラジンと共同で支配することを提案したが彼は辞退し、そのかわり1332年に死ぬまでオルハンに影響力を持ったワズィールとして仕えた。オルハンの下、オスマンは北西部のアナトリアで 一連の内戦に巻き込まれていたビザンチン帝国を食い物にして大きく拡大した。;;;;;;;;;;;;x
+ERA_CHAR_INFO_480000;ウズベク・ハンはジョチ・ウルスで最長で在位したカーンであり、モンゴルの諸国家は彼の下で権力のピークに達した。ウズベクは幼い頃にイスラム教に改宗し、王座につくとそれを国家宗教として採用した。それにもかかわらず、彼はキリスト教徒に対して非常に寛容であることが知られていた。教皇ヨハネ2世が個人的な手紙で彼に感謝を示したりした。;;;;;;;;;;;;x
+ERA_CHAR_INFO_170258;ムハンマド2世は、インドで広大なイスラム教帝国を築き上げたトゥグルク朝の頭領である。彼の下で、帝国は当初、インドのほとんどを一時的に支配するまでに拡大したが、それは持続することはなかった。ムハンマドは無慈悲と残忍さでよく知られるようになり、彼の帝国の収税は膨大なレベルに達した。彼は数多くの反乱に立ち向かわなければならず、死のまぎわにはすでに帝国は分裂し始めていた。;;;;;;;;;;;;x
+ERA_SELECTION_TEXT;Each era will offer you different challenges and a different flavor. Here are some of the highlights of each:\n- Early Middle Ages: Carolingian Empire, Picts, the first Viking raids, founding of the Holy Roman Empire, Byzantine Iconoclasm.\n- Viking Age: Viking realms, Jewish Khazars, Carolingian successor kingdoms, Umayyads and Rashtrakutas.\n- High Middle Ages: William the Conqueror, Seljuk Turks, Kievan Rus, splintered realms in Spain and Rajastan. Latest start with a strong Byzantium.\n- Age of the Mongols: Golden Horde, Ilkhanate, Muslim Ghulams in India.\n- Late Middle Ages: Hundred Years War, Ottomans, Lithuania, Mongol Khanates, Tughluq Dynasty, Christian Spain.;;;;;;;;;;;;x
+convert_to_parent_religion;異端を放棄;;;;;;;;;;;;x
+raise_tribal_units;部族軍を召集;;;;;;;;;;;;x
+raise_tribal_units_desc;I can summon an army of true and steadfast [Root.Culture.GetName] warriors to fight in the war. They will surely come, as my Prestige and Influence in these lands are great, but once peace ensues they will return to their homes. They fight mainly for honor, but I will need to pay for their food and other provisions.;;;;;;;;;;;;x
+EXPENSE_EVENT_LEVIES;雇用したイベント陸軍の維持費;;;;;;;;;;;;x
+EXPENSE_EVENT_FLEETS;雇用したイベント海軍の維持費;;;;;;;;;;;;x
+HIRED_COSTS;傭兵維持費: §Y$MERC$§!\nイベント軍維持費: §Y$EVENT$§!;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_MAINTENANCE;毎月の維持費: §R$COST$§!¤;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT;§Y$NUM_TROOPS$§!人の連隊が§Y$WHERE$§!に到着;;;;;;;;;;;;x
+SPAWN_UNIT_EFFECT_SHIPS;§Y$NUM_SHIPS$§!隻の船舶は§Y$WHERE$§!に到着します。;;;;;;;;;;;;x
+nick_the_hunchback;せむしの;;;;;;;;;;;;x
+EVTDESC_CM_1040;貴方の息子ピピンは非嫡出だが、ことによってはフランクを統治するに足る者に成長するだろうか？彼の身体はねじれ、虚弱に見えるが、かかる逆境を克服した少年はより強靭な統治者となるのではないだろうか？;;;;;;;;;;;;x
+EVTOPTA_CM_1040;彼を正嫡としよう！;;;;;;;;;;;;x
+EVTOPTB_CM_1040;そんなことはないだろう。;;;;;;;;;;;;x
+EVTOPTB_CM_1100;今は放っておいてやる;;;;;;;;;;;;x
+EVTTITLE_CM_1003;[From.GetFirstName]の死;;;;;;;;;;;;x
+tribal_barony_of;部族の土地;;;;;;;;;;;;x
+EVTTITLE_CM_1010;ランゴバルドの王女;;;;;;;;;;;;x
+EVTDESC_CM_1010;陛下、周囲の敵共は着実に力をつけていますが、配下の諸侯の忠誠に疑いの余地は有りません。フランクの領邦の外に慎重に目を向けてはいかがでしょうか。もし、陛下がランゴバルド王の娘を娶れば、御兄弟の狡猾な企みが手に負えなくなったとき、その脅威に対抗する強力な味方を得られるでしょう。;;;;;;;;;;;;x
+EVTOPTA_CM_1010;うむ、それは良い縁談だな。;;;;;;;;;;;;x
+EVTOPTB_CM_1010;私のベッドにランゴバルド人はいらぬ!;;;;;;;;;;;;x
+EVTTITLE_CM_1011;ランゴバルドの女王;;;;;;;;;;;;x
+EVTDESC_CM_1011;主よ、領主たちの間には多くの不平がたまりつつあります。 [Root.Spouse.GetFirstName]との結婚には大きな政治的有用性があることは理解していますが、我々の仇敵であるロンバルド王国の王女との結婚であるという点が受け入れがたいのです。 何人かの貴族の支持を失うことさえあるかもしれないという状況にまで達しています。 ただ、おそらく状況を是正するにはまだ遅すぎるということはございません...;;;;;;;;;;;;x
+EVTOPTA_CM_1011;良い考えとはいえなかった。彼女と離婚しよう。;;;;;;;;;;;;x
+EVTOPTB_CM_1011;今は彼女が女王だ。やつらはその状況を受け入れることを学ばなければならない。;;;;;;;;;;;;x
+EVTDESC_CM_1076;[From.GetDynName], the wife of the recently deceased [FromFrom.GetTitledName], has arrived at your gates, asking for refuge for herself and her offspring. She claims that her late husband's evil brother murdered him in cold blood in order to take control of the realm for himself, and now she fears for her life as well.;;;;;;;;;;;;x
+EVTOPTA_CM_1076;You shall be welcome here.;;;;;;;;;;;;x
+EVTOPTB_CM_1076;I am sorry, this does not concern me.;;;;;;;;;;;;x
+EVTDESC_CM_1077;Word reaches you that [FromFromFrom.GetFirstName]'s wife [FromFrom.GetDynName] has received refuge at the court of [From.GetTitledName]. Surely, there is a plot against you brewing here...;;;;;;;;;;;;x
+EVTOPTA_CM_1077;This will not go unpunished.;;;;;;;;;;;;x
+EVTDESC_CM_1078;Your soldiers have brought [FromFromFrom.GetFirstName]'s family before you. [FromFrom.GetDynName] falls to her knees, begging you for mercy.;;;;;;;;;;;;x
+EVTOPTA_CM_1078;Lock them up in houses of God.;;;;;;;;;;;;x
+EVTOPTB_CM_1078;They must die, there is no other way.;;;;;;;;;;;;x
+EVTDESC_CM_1080;[From.GetDynName] has appeared at your gate, begging for protecton. They are destitute and alone, woman and child. She speaks weakly and nervously: 'My Lord, I have nothing left and I throw myself at your feet and put faith in your mercy. Remember that it is not I but your brother that was your enemy'.;;;;;;;;;;;;x
+EVTOPTA_CM_1080;To the convent with you.;;;;;;;;;;;;x
+EVTOPTB_CM_1080;Snake-spawn must be killed ere they bite.;;;;;;;;;;;;x
+EVTTITLE_CM_1120;弟の保護者;;;;;;;;;;;;x
+EVTDESC_CM_1120;あなたの母親が会いに来た。「息子よ、弟があなたを貶めようと危険な計画を立てています。私と同じように、あなたが彼を深く愛しているのは知っていますが、無策ではいけません。あなたさえよければ、彼のところへ行って、この諍いを収めるように努力しましょう。全フランクの統治者たる貴方の運命を邪魔させるわけにはいきませんが、私は戦争で多くの血が流れる事態を恐れています。どうか私を信じてください、事態は必ず良い方向へと進むでしょう。\n\nあなたが考えを読もうと母の表情を見つめると、その瞳からは、奇妙な決断の色が見て取れた。;;;;;;;;;;;;x
+EVTOPTA_CM_1120;はい、母よ。この諍いを収めてください。;;;;;;;;;;;;x
+EVTOPTB_CM_1120;無駄だろうな。;;;;;;;;;;;;x
+EVTDESC_CM_1121;Your mother Bertrada has arrived at the gate. She travels with a but a small escort and she is asking to see you. Shall we let her in?;;;;;;;;;;;;x
+EVTOPTA_CM_1121;Yes, let her in.;;;;;;;;;;;;x
+EVTOPTB_CM_1121;I have nothing to say to that woman.;;;;;;;;;;;;x
+EVTTITLE_CM_1122;母と息子;;;;;;;;;;;;x
+EVTDESC_CM_1122;As you dine with your mother that night, she speaks with you of your youth and of her great love for you: 'I know it pains you that I support your brother, but please let us speak of happier days. I would like to forget for a moment these troublesome times and spend the evening with you in intimacy and friendship. We can dine and reminisce, and you shall be my beloved son as always. Here, i brought some excellent wine for you to drink while we talk of old times.';;;;;;;;;;;;x
+EVTOPTA_CM_1122;Ah, wine... good!;;;;;;;;;;;;x
+EVTOPTB_CM_1122;I don't trust you, mother. Please leave.;;;;;;;;;;;;x
+EVTDESC_CM_1123;Your mother left early this morning, before you woke. It was strange to see her again like that. You have a strange, slow pain in your stomach as well, and you feel rather weak. Maybe it's something you ate or drank.;;;;;;;;;;;;x
+EVTOPTA_CM_1123;Something is wrong...;;;;;;;;;;;;x
+BM_BM_CHARLEMAGNE_DESC;The Early Middle Ages started with the fall of the Western Roman Empire in the early 5th century. The earlier part of this era saw the great Germanic and Slavic migrations across Europe, with peoples such as the Goths and Lombards settling in Southern Europe, the Franks settling in Gaul and Saxons crossing the sea and settling in Britain. The Eastern Roman Empire was violently shaken by the pressure from the Goths and Avars, and fought bitterly with the ancient Persian enemy. The rise of Islam saw the Arabs conquering immense amounts of territory in the Middle East and North Africa, and in India several great dynasties vied for dominance, with the Rashtrakutas rising towards the end of the 8th century. In the steppes, the Khazars grew in power, and in Scandinavia things were about to change in a way that was to affect the entire continent...;;;;;;;;;;;;x
+winter_soldier_desc;この人物は冬季戦の技術に熟達し、冬季の悪条件を自らの優位に変える方法を知っています。;;;;;;;;;;;;x
+tut_0a_15;封臣限界。この限界値を超えてプレイし続けることは、税や封臣からの徴兵に悪影響を及ぼし、かつプレイヤーキャラの死亡時に独立される危険があります。この対策としては貴方の封臣に対しより高位の称号を授けることで彼自身に封臣を持たせることです。限界値が何から算出されているか見るには限界数の上にマウスをドラッグしてください。;;;;;;;;;;;;x
+tut_4a_8;If we for example want to make a character to like us a bit more, we can grant them an honorary title. Click the 'award honorary title' button. The Court Jester title is not very nice to give someone if you want to stay on their good side. Click Keeper of the Swans instead.;;;;;;;;;;;;x
+tut_5a_21;You have the organization bar, the disband unit button and the split (create new unit) button. Then you have information on the number of ships, and towards the bottom we have the load capacity. This is how many troops will fit on the ships in this fleet. Unfortunately this number is a smaller number than the number of men in your current army, so select the army again. ;;;;;;;;;;;;x
+BAD_SERVER_PASSWORD;パスワードが無効です。もう一度お試しください。;;;;;;;;;;;;x
+OBSERVE;ゲームを観戦;;;;;;;;;;;;x
+EVTTOOLTIP91374A;[Root.Spouse.GetName] is asked to leave [From.GetName] alone.;;;;;;;;;;;;x
+EVTTOOLTIP91374B;[Root.Spouse.GetName] is informed about [From.GetName]s plans..;;;;;;;;;;;;x
+LEARNING_SCENARIO;ラーニングシナリオ;;;;;;;;;;;;x
+tb_steppe_barracks_1;兵舎;;;;;;;;;;;;x
+tb_steppe_barracks_2;兵舎;;;;;;;;;;;;x
+tb_steppe_barracks_3;兵舎;;;;;;;;;;;;x
+tb_steppe_barracks_4;兵舎;;;;;;;;;;;;x
+tb_steppe_stable_1;厩舎;;;;;;;;;;;;x
+tb_steppe_stable_2;厩舎;;;;;;;;;;;;x
+tb_steppe_stable_3;厩舎;;;;;;;;;;;;x
+tb_steppe_stable_4;厩舎;;;;;;;;;;;;x
+tb_arsenal_1;武器鍛冶;;;;;;;;;;;;x
+tb_arsenal_2;武器鍛冶;;;;;;;;;;;;x
+tb_arsenal_3;武器鍛冶;;;;;;;;;;;;x
+tb_arsenal_4;武器鍛冶;;;;;;;;;;;;x
+tb_hillfort_1_desc;単純な土塁は我らの敵に対して限られた防衛効果しかありません。;;;;;;;;;;;;x
+tb_hillfort_2_desc;木の柵と土塁はあるていどの防衛効果を発揮します。;;;;;;;;;;;;x
+tb_hillfort_3_desc;石積で強化された木の柵は砦にさらなる防衛効果を与えます。;;;;;;;;;;;;x
+tb_hillfort_4_desc;石壁を用いることでより強化されます。;;;;;;;;;;;;x
+tb_market_town_1_desc;我々の交易を改善するためには、居住地内に定住用の村を設立することが不可欠です。;;;;;;;;;;;;x
+tb_market_town_2_desc;更に多くの住民を定住させ、我々の交易を改善するために村を町へと広げます。;;;;;;;;;;;;x
+tb_market_town_3_desc;幾らか金を使用することで、町は多くの商人が住む都市へと成長し、我々の交易を改善するでしょう。;;;;;;;;;;;;x
+tb_market_town_4_desc;街は大きく成長し、多数の交易所を保持するようになり、さながら貿易の中心地となったようです。;;;;;;;;;;;;x
+tb_market_town_1;市のある村;;;;;;;;;;;;x
+tb_market_town_2;市場町;;;;;;;;;;;;x
+tb_market_town_3;市場のある市;;;;;;;;;;;;x
+tb_market_town_4;大市場のある市;;;;;;;;;;;;x
+tb_arsenal_desc;これは戦争の準備のために武器が作られ、修理され、保存される場所です。;;;;;;;;;;;;x
+tb_training_grounds_desc;我々の民兵は訓練し、武装するためにここに集結します。;;;;;;;;;;;;x
+tb_barracks_desc;ここは我らの精兵が戦争の際に集まる場所です。;;;;;;;;;;;;x
+tb_militia_barracks_desc;ここは我らの入植者が戦争の準備をする場所です。;;;;;;;;;;;;x
+CB_NAME_DECADENCE_USURPTION;退廃を口実とした簒奪;;;;;;;;;;;;x
+WAR_NAME_DECADENCE_USURPTION;退廃を口実とした$FIRST_ADJ$による$ORDER$簒奪戦争;;;;;;;;;;;;x
+cb_decadence_usurption_desc;イスラム教徒は、退廃した親族から称号を簒奪するための開戦事由を用いることができます。;;;;;;;;;;;;x
+tribal_organization_desc;部族組織法は王権法に相当するものです。しかし高度に組織化された部族であっても、家臣に対する支配力は弱いです。;;;;;;;;;;;;x
+tribal_organization_0_desc;組織化の程度が低いため、族長はかろうじて家臣を支配できています。;;;;;;;;;;;;x
+tribal_organization_1_desc;族長の家臣を支配する力が制限されています。;;;;;;;;;;;;x
+tribal_organization_2_desc;族長と家臣の権力は一応バランスが取れています。;;;;;;;;;;;;x
+tribal_organization_3_desc;族長の家臣を支配する力が高まっています。;;;;;;;;;;;;x
+tribal_organization_4_desc;族長は封建領主と同様の法律で家臣を支配しています。;;;;;;;;;;;;x
+adopt_republicanism;商業共和国の設立;;;;;;;;;;;;x
+form_new_kingdom_requirement_tooltip;3つの公爵号を保持\n;;;;;;;;;;;;x
+form_new_empire_requirement_tooltip;3つの王号を保持\n;;;;;;;;;;;;x
+EVTDESC8027;For too long you have restricted our rights. The time has come to decrease the level of Tribal Organization - you must submit to this demand peacefully or face the consequences! Rest assured that I have the support of others who are equally determined to see things returned to the natural order...\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
+AIREASON_ENVIOUS;嫉妬;;;;;;;;;;;;x
+FE_LOAD;ロード;;;;;;;;;;;;x
+PLAY;始める;;;;;;;;;;;;x
+AIREASON_DOESNT_CARE;[GetTitledFirstName]は関心がない;;;;;;;;;;;;x
+AIREASON_KIND;親切;;;;;;;;;;;;x
+AIREASON_CRUEL;残虐;;;;;;;;;;;;x
+AIREASON_JUST;正当な理由;;;;;;;;;;;;x
+AIREASON_WROTH;憤怒;;;;;;;;;;;;x
+vassal_zun_judgement_decision;Have [Root.GetTitledFirstName] judged by Zun;;;;;;;;;;;;x
+vassal_zun_judgement_decision_desc;By having [Root.GetTitledFirstName] thrown into a pit in the middle of the desert, [Root.GetSheHe] shall be exposed to Zun for days and will be most likely given the 'justice' that [Root.GetSheHe] deserves.;;;;;;;;;;;;x
+EVTDESCCM15002;The guards visited me today, they merely tossed down a rope I hope I have the strength to climb.;;;;;;;;;;;;x
+EVTOPTACM15002;Oh sweet freedom!;;;;;;;;;;;;x
+EVTDESCCM15004;The rays from the sun dig into my skin, it cracks and bleeds and I feel myself slipping away almost as if floating out of this pit.;;;;;;;;;;;;x
+EVTOPTACM15004;Is this how I die?;;;;;;;;;;;;x
+EVTDESCCM15005;Who's there, who are you? I can hear you but can't touch you? P-Please help me I can hear you just outside the pit please i'm begging you.!;;;;;;;;;;;;x
+EVTOPTACM15005;Was that a person leaning over the edge, or a figment of my imagination!;;;;;;;;;;;;x
+EVTDESCCM15006;As I lie in the pit hoping for salvation yet another day I realize that none will come. Has I been forsaken? No that can't be it! I must keep believing, its the only thing I have left.;;;;;;;;;;;;x
+EVTOPTACM15006;I will prove myself worthy to be [Root.Religion.GetHighGodName]'s servant.;;;;;;;;;;;;x
+EVTDESCCM15007;On my back, staring up at the sun beating down upon me. This pit is torture, the heat scratches my skin like a thousand tiny blades I hope for salvation, I hope for freedom, I hope that my captors will release me but deep down I'm starting to realise...;;;;;;;;;;;;x
+EVTOPTACM15007;The only one that can release me from this torture, from the unbearable heat is my new overlord Zun!;;;;;;;;;;;;x
+CANNOT_PLAY_CHARLEMANGE_BOOKMARK_WITHOUT_DLC;DLC『Charlemagne』が必要;;;;;;;;;;;;x
+CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;DLC『The Old Gods』が必要;;;;;;;;;;;;x
+frisian;フリジア;;;;;;;;;;;;x
+tribal_duke_frisian;大族長;;;;;;;;;;;;x
+tribal_duke_female_frisian;大族長;;;;;;;;;;;;x
+tribal_duchy_of_frisian;大族長領;;;;;;;;;;;;x
+viking_age_cb_tooltip;ゲルマン原始宗教のキャラクターは新しい開戦事由を手に入れます。;;;;;;;;;;;;x
+tb_war_camp_1;軍野営地;;;;;;;;;;;;x
+tb_war_camp_2;軍野営地;;;;;;;;;;;;x
+tb_war_camp_3;軍野営地;;;;;;;;;;;;x
+tb_war_camp_4;軍野営地;;;;;;;;;;;;x
+tb_war_camp_desc;部族の戦士達が集まり、戦時に備えるために腕前を磨くための場所です。;;;;;;;;;;;;x
+tb_practice_range_1;射撃練習場;;;;;;;;;;;;x
+tb_practice_range_2;射撃練習場;;;;;;;;;;;;x
+tb_practice_range_3;射撃練習場;;;;;;;;;;;;x
+tb_practice_range_4;射撃練習場;;;;;;;;;;;;x
+tb_practice_range_desc;部族の射手はここに集まって競い合い、射撃技術を磨きます。;;;;;;;;;;;;x
+d_pskov;プスコフ;;;;;;;;;;;;x
+d_kola;コラ;;;;;;;;;;;;x
+d_kola_adj;コラ;;;;;;;;;;;;x
+expel_zun_warriors;太陽の騎士団を追放;;;;;;;;;;;;x
+donate_money_to_zun_warriors;太陽の騎士団に300¤を寄付;;;;;;;;;;;;x
+expel_zun_warriors_desc;I can drive the Knights of the Sun from my realm and seize their castles. However, it is a very impious thing to do...;;;;;;;;;;;;x
+donate_money_to_zun_warriors_desc;I can donate money to the Knights of the Sun in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Priesthood.;;;;;;;;;;;;x
+d_haruriyyah;ハルリ派;;;;;;;;;;;;x
+d_haruriyyah_adj;ハルリ派;;;;;;;;;;;;x
+donate_money_to_haruriyyah;ハルリ派に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_haruriyyah_desc;I can donate money to the Haruriyyah in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Priesthood.;;;;;;;;;;;;x
+expelled_d_zun_warriors;太陽の騎士団を追放;;;;;;;;;;;;x
+expelled_d_haruriyyah;ハルリ派を追放;;;;;;;;;;;;x
+EVTDESC_CM_4399;Your Highness, this extremely generous donation will not be forgotten. You have my friendship, as well as that of the Priesthood. Rest assured that you will be rewarded in Heaven, if not on Earth!\nPraise [Root.Religion.GetRandomGodName],\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_CM_4399;Praised be [Root.Religion.GetRandomGodName].;;;;;;;;;;;;x
+OVERWRITE_HOLDING;新しい地区を建設し、部族の集落を破壊する;;;;;;;;;;;;x
+borrowed_from_haruriyyah;ハルリ派から300¤を借りている;;;;;;;;;;;;x
+EVTDESC_CM_4303;Peace be upon you, most magnificent [Root.GetTitledFirstName]. As you may know, our order is in need of leaders, and, considering your debt to us, I would like to request that your able and noble son [FromFrom.GetFirstName] serve in our ranks. Naturally, this would disinherit him. Allah be with you,\n\n[From.GetTitledName];;;;;;;;;;;;x
+EVTTITLE_CM_4309;The Haruriyyah;;;;;;;;;;;;x
+EVTDESC_CM_4309;A new order of Muslim warriors has been founded, claiming descent from the old Haruri traditions and swearing to protect Islam and combat infidels and polytheists of all kinds. It was a Haruri who killed the Caliph Ali with a poisoned sword since they saw him as corrupting Islam, and this new group now vows to show the same courage and detemination in fighting any enemies of the true faith. They call themselves simply 'The Haruriyyah'.;;;;;;;;;;;;x
+EVTOPTA_CM_4309;I am sure we can make use of them.;;;;;;;;;;;;x
+EVTOPTB_CM_4309;Poisoned swords? Hmm...;;;;;;;;;;;;x
+EVTDESC_CM_4311;Most righteous [Root.GetTitledFirstName], of course we, the Haruriyyah, can lend you 300 gold. All that we ask in return is your future assistance in certain matters as they might arise. Salaam alaykum,\n\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_CM_4323;Great [Root.GetTitledFirstName], the Order needs more castles in order to train recruits and generate a supporting income. I am willing to cancel your debt to us if you will simply allow us to build a castle in [FromFrom.GetName]. Peace be with you,\n\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_CM_4324;The Haruriyyah have constructed a castle in [Root.GetName]!;;;;;;;;;;;;x
+EVTDESC_CM_4331;My [GetFromRelation], [From.GetTitledFirstName], has requested to join the Haruriyyah to fight the infidel! This will forever disinherit him and he will never disgrace the dynasty with his decadence.;;;;;;;;;;;;x
+EVTDESC_CM_4353;Most wise [Root.GetTitledFirstName], the Order needs more castles in order to train troops and generate a supporting income. It has come to my attention that there is a suitable location in your demesne - in [FromFrom.GetName] to be specific. I am willing to pay you 100 gold in exchange for the right to construct a fortress there.\nPeace be upon you,\n\n[From.GetTitledName];;;;;;;;;;;;x
+OOS_DESC;§Y$PLAYER$§! is no longer in sync!\n$MESSAGE$;;;;;;;;;;;;x
+TRIBAL_VIEW_ON_TRAIT;$TRAIT$に対する部族の見解：$VALUE$;;;;;;;;;;;;x
+TRAIT_OPINION_TRIBAL;部族の評価: $VALUE$;;;;;;;;;;;;x
+DONT_HAVE_A_X;Have a §Y$X$§!;;;;;;;;;;;;x
+HAVE_A_X;Have a §Y$X$§!;;;;;;;;;;;;x
+CHRONICLE_FILL0010;住民曰く、[Root.GetName]で太陽が同時に2つ現れたとのことだ。;;;;;;;;;;;;x
+CHRONICLE_FILL0011;[Root.GetName]で3つの頭を持つヤギが生まれた。;;;;;;;;;;;;x
+CHRONICLE_FILL0012;収穫期のちょうど前に[Root.GetName]をカラスの大群が襲い、畑の作物に重大な被害が生じた。;;;;;;;;;;;;x
+CHRONICLE_FILL0013;[Root.GetName]ではこの年異常なまでに多く子供が生まれた。;;;;;;;;;;;;x
+CHRONICLE_FILL0014;[Root.GetName]で[From.GetTitledFirstName]の慈悲深い支配を祝う催しが行われた。;;;;;;;;;;;;x
+CHRONICLE_FILL0015;[Root.GetName]に星が降り、3頭の牛が死んだ。;;;;;;;;;;;;x
+CHRONICLE_PLAYER_INHERITANCE_LANDLESS;[GetDateText]、[From.GetFirstName]が保有していた称号を失ったことにより、この一族の年代記は[Root.GetTitledName]に受け継がれることとなった。;;;;;;;;;;;;x
+CHRONICLE_WON_BATTLE_FOUGHT;[Root.GetTitledName]は[From.GetTitledName]率いる[From.TopLiege.PrimaryTitle.GetName]軍に[Root.Location.GetName]の戦いで勝利をおさめた。;;;;;;;;;;;;x
+CHRONICLE_LOST_BATTLE_FOUGHT;[Root.GetTitledName]は[From.GetTitledName]率いる[From.TopLiege.PrimaryTitle.GetName]軍に[Root.Location.GetName]の戦いで敗北した。;;;;;;;;;;;;x
+CHRONICLE_WON_BATTLE_BUT_DIDNT_FIGHT;[Root.GetTitledName]率いる[Root.TopLiege.GetTitledName]軍は[From.TopLiege.PrimaryTitle.GetName]軍に[Root.Location.GetName]の戦いで勝利をおさめた。;;;;;;;;;;;;x
+CHRONICLE_LOST_BATTLE_BUT_DIDNT_FIGHT;[Root.GetTitledName]率いる[Root.TopLiege.GetTitledName]軍は[From.TopLiege.PrimaryTitle.GetName]軍に[Root.Location.GetName]の戦いで敗北した。;;;;;;;;;;;;x
+EVTOPTM96500;冬季戦の達人;;;;;;;;;;;;x
+in_hiding_desc;この人物は[GetHerHis]の命を奪う陰謀から逃れるために雲隠れしてしまっています。それは暗殺をより困難にしますが、潜伏生活には費用が掛かります...;;;;;;;;;;;;x
+INTERACTION_NOT_IN_HIDING;目標は雲隠れしていない\n;;;;;;;;;;;;x
+zun_judgement;Being Judged by Zun;;;;;;;;;;;;x
+IS_DYING;瀕死である;;;;;;;;;;;;x
+ISNT_DYING;瀕死ではない;;;;;;;;;;;;x
+LANDED_SIBLING_BONUS;領地持ちの兄弟姉妹;;;;;;;;;;;;x
+LANDED_HALF_SIBLING_BONUS;領地持ちの異母兄弟姉妹;;;;;;;;;;;;x
+LANDED_NIECE_BONUS;領地持ちの姪;;;;;;;;;;;;x
+LANDED_CHILD_BONUS;領地持ちの[Root.GetSonDaughter];;;;;;;;;;;;x
+LANDED_GRAND_CHILD_BONUS;領地持ちの孫[Root.GetSonDaughter];;;;;;;;;;;;x
+LANDED_PARENT_BONUS;領地持ちの[Root.GetFatherMother];;;;;;;;;;;;x
+LANDED_UNCLE_AUNT_BONUS;領地持ちの[Root.GetUncleAunt];;;;;;;;;;;;x
+LANDED_GRAND_PARENT_BONUS;領地持ちの祖父母;;;;;;;;;;;;x
+LANDED_GREAT_GRAND_PARENT_BONUS;領地持ちの曽祖父母;;;;;;;;;;;;x
+LANDED_COUSIN_BONUS;領地持ちのいとこ;;;;;;;;;;;;x
+LIEGE_PRESTIGE;封臣からの威信: §G+$VALUE$§!;;;;;;;;;;;;x
+INTERACTION_TRIBAL_TITLE_ALLOWS_REVOKATION;§Y$TITLE$§!の部族組織法で称号の剥奪が可能;;;;;;;;;;;;x
+CHRONICLE_FOUNDED_NEW_KINGDOM_OR_EMPIRE;[Root.GetDynName]は新たに[Root.PrimaryTitle.GetFullName]を創設して自らの力の強大さを示した。;;;;;;;;;;;;x
+CHRONICLE_FILL0016;この年の[Root.PrimaryTitle.GetName]は常ならぬほどの豊作だった。;;;;;;;;;;;;x
+EVTDESC_CM_1160;One evening at court, your mother [Root.Mother.GetFirstName] takes to voicing very aggressive criticism of your [Root.Spouse.GetHusbandWife] in front of everyone. She says your [Root.Spouse.GetHusbandWife] doesn't know [Root.Spouse.GetHerHis] place and should be kept on a tighter leash. Your [Root.Spouse.GetHusbandWife] looks pleadingly at you for support...;;;;;;;;;;;;x
+EVTOPTA_CM_1160;Mother is right.;;;;;;;;;;;;x
+EVTOPTB_CM_1160;Quiet, Mother. You are out of line.;;;;;;;;;;;;x
+EVTOPTC_CM_1160;I've had enough. It's the convent for you!;;;;;;;;;;;;x
+EVTDESC_CM_1172;あなたの母親が会いに来て言った。「[Root.GetSonDaughter]よ、私は不安でなりません。[From.GetJobTitle][From.GetTitledFirstName]が職場の仕事を行っている時、良からぬ事を考えているように見えます。いつか危険を招くのではないかと恐ろしいのです」。;;;;;;;;;;;;x
+EVTOPTA_CM_1172;貴方の言うとおりだ、母よ。[From.GetJobTitle]はクビにしよう。;;;;;;;;;;;;x
+EVTOPTB_CM_1172;[From.GetTitledFirstName]を追い払うつもりはない。;;;;;;;;;;;;x
+EVTOPTC_CM_1172;Enough of your meddling. It's the convent for you!;;;;;;;;;;;;x
+TRIBAL_VASSAL_TAX_MODIFIER;部族封臣の税;;;;;;;;;;;;x

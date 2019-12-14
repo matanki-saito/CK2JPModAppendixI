@@ -1,0 +1,95 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_connacht_adj;コノート;;;;;;;;;;;;x
+d_leinster_adj;レンスター;;;;;;;;;;;;x
+d_munster_adj;マンスター;;;;;;;;;;;;x
+d_ulster_adj;アルスター;;;;;;;;;;;;x
+d_argyll_adj;アーガイル;;;;;;;;;;;;x
+d_lothian_adj;ロージアン;;;;;;;;;;;;x
+d_galloway_adj;ギャロウェイ;;;;;;;;;;;;x
+d_northumberland_adj;ノーサンバーランド;;;;;;;;;;;;x
+d_gelre_adj;ヘルレ;;;;;;;;;;;;x
+d_ryazan_adj;リャザン;;;;;;;;;;;;x
+d_bulgar_adj;ブルガール;;;;;;;;;;;;x
+d_mazandaran_adj;マーザンダラーン;;;;;;;;;;;;x
+d_moray_adj;モレー;;;;;;;;;;;;x
+d_meath_adj;ミーズ;;;;;;;;;;;;x
+d_deheubarth_adj;デハバース;;;;;;;;;;;;x
+d_brunswick_adj;ブラウンシュヴァイク;;;;;;;;;;;;x
+d_dauphine_adj;ドーフィネ;;;;;;;;;;;;x
+d_constantine_adj;コンスタンティン;;;;;;;;;;;;x
+d_abbasid_adj;アッバース;;;;;;;;;;;;x
+d_balearic_adj;バレアレス;;;;;;;;;;;;x
+d_bergen_adj;ベルゲン;;;;;;;;;;;;x
+d_bordeaux_adj;ボルドー;;;;;;;;;;;;x
+d_gilan_adj;ギーラーン;;;;;;;;;;;;x
+FE_CREATE_GAME;ゲームを作成;;;;;;;;;;;;x
+HOST_DESC;他の人が参加できるようにゲームをホストする\nホストした後は開始日を変更したりゲームを保存したりすることはできません;;;;;;;;;;;;x
+DEATH_BY_MURDER_NO_KILLER;殺害された;;;;;;;;;;;;x
+DEATH_EXECUTION_NO_KILLER;処刑された;;;;;;;;;;;;x
+DEATH_DUNGEON_NO_KILLER;監獄で死亡した;;;;;;;;;;;;x
+DEATH_DUEL_NO_KILLER;一騎打ちで殺害された;;;;;;;;;;;;x
+EVTOPTB3335;[Root.Liege.GetTitledFirstName]は大丈夫だ;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_title;新しい君主に付与された[This.GetFullName]を参照してください;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_desc;[This.Holder.GetHerHis]の領地を分割し、[This.GetFullName]を[This.Holder.GetHerHis]の家臣に授与することで[This.Holder.GetTitledName]の権力基盤を弱めます。;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision;[Root.GetPlot];;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_desc;[Root.PlotTarget.GetTitledName]に最後通牒を送って，この陰謀を実行する;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_liege;[Root.TopLiege.GetTitledFirstName]の支持を求める。;;;;;;;;;;;;x
+plot_weaken_fellow_vassal_decision_liege_desc;[Root.TopLiege.GetHerHim]に手紙を送付し、[Root.PlotTarget.GetTitledName]の領地を分割する際に、[Root.TopLiege.GetTitledFirstName]の援助を求めます。もし[Root.TopLiege.GetTitle]が陰謀を支持していなければ、恐らく宮廷で漏洩するでしょう...;;;;;;;;;;;;x
+EVTDESC7500;[Root.GetTitle]閣下、私自身も含め、閣下の忠実なる臣下たちの多くは、 [From.PlotTarget.GetTitledName] は、[From.PlotTarget.GetHerHis]の身分に認められたもの以上に権力と称号を集めているものと存じております。もしも閣下が親切にも、[From.PlotTarget.GetHerHim]に[From.PlotTargetTitle.GetFullName]の称号を放棄するよう助言なさるのならば、その決断を我々は心から歓迎して支持するとお知りになることでしょう。\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7500;素晴らしい考えだ。;;;;;;;;;;;;x
+EVTOPTB7500;私はこの陰謀に関わるつもりはない。;;;;;;;;;;;;x
+EVTTOOLTIP7500;[Root.TopLiege.GetTitledFirstName]は手紙を受け取りました。;;;;;;;;;;;;x
+EVTDESC7501;[Root.PlotTarget.GetTitledName]の成金ぶりについては、実のところ我々も憂慮していたのだ。国家の平和のため、ただちに[Root.PlotTarget.GetHerHim]に連絡を取り、貴君の提案に沿って解決を図るとしよう。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7501;素晴らしい！;;;;;;;;;;;;x
+EVTTOOLTIP7501;あなたの肯定的な返事を受け取ります。;;;;;;;;;;;;x
+EVTDESC7502;たわ言を言うでない、[Root.GetFirstName]よ！　策略をめぐらす輩や、それに目をつぶるような輩によって、この国を分裂させるつもりはない。この陰謀を即刻中止しなければ、必ずや後悔することになるぞ！\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7502;なるほど。;;;;;;;;;;;;x
+EVTTOOLTIP7502;あなたの否定的な返事を受け取ります。;;;;;;;;;;;;x
+EVTDESC7504;親愛なる[Root.GetTitle]よ、貴君にはますますご健勝のこととお喜び申し上げる。貴君もご承知のとおり、国内の力の均衡は今にも崩れそうな状況だ。これに関して、複数の関係者から対策を講じるよう要請を受けた。我々は、貴君が[From.PlotTargetTitle]を家臣に譲るのが最善の道であると考えており、貴君にもご賛同いただけると確信している。\n\n（署名）\n[From.Liege.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7504;結構。;;;;;;;;;;;;x
+EVTOPTB7504;彼は正気なのか？;;;;;;;;;;;;x
+EVTTOOLTIP7504;[Root.PlotTarget.GetTitledName]が[Root.Liege.GetTitle]から最後通牒に等しい書状を受け取る。;;;;;;;;;;;;x
+EVTDESC7505;[From.PlotTarget.GetTitledFirstName]よ、貴君は国内の危うい力の均衡を崩してしまった。ここは皆のため、[From.PlotTargetTitle.GetFullName]の支配権を家臣に譲るのだ。承諾いただけぬ場合は、我が同志とともに武力をもって成し遂げることになるだろう。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7505;私にはほとんど選択肢がありません。;;;;;;;;;;;;x
+EVTOPTB7505;断固拒否する！;;;;;;;;;;;;x
+EVTOPTC7505;適任者はいませんので、あなた自身でそれを取らなければなりません。;;;;;;;;;;;;x
+EVTTOOLTIP7505;[Root.PlotTarget.GetTitledName]が手紙を受け取る。;;;;;;;;;;;;x
+EVTDESC7506;貴殿の名を永久に呪うことになるだろうが、平和のために要求に応じることにしよう。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7506;素晴らしい。;;;;;;;;;;;;x
+EVTDESC7507;たとえ腕をもがれても、私は[Root.PlotTargetTitle.GetFullName]を手放さない。お前や卑劣な仲間どもが私に立ち向かう勇気があるというのなら、喜んで最後の一人までお相手しよう。さあ来い！\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7507;後悔させてやるぞ、親愛なる[From.GetTitle]よ。;;;;;;;;;;;;x
+EVTOPTB7507;戦争の危険を冒すべきではないのだろうが…;;;;;;;;;;;;x
+EVTTOOLTIP7507;最後通牒は拒否された。;;;;;;;;;;;;x
+EVTDESC7508;あなたは私を苦しい立場に置きましたぞ、我が君よ。しかし、これが最善の道だというのなら、お好きになされよ。私は称号を手放します。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA7508;たいへん結構。;;;;;;;;;;;;x
+EVTOPTA7509;無礼なやつだ！;;;;;;;;;;;;x
+EVTDESC7510;[Root.Liege.GetTitle]は称号放棄の手続きの都合をつけててくれた。これより[Root.PlotTarget.GetTitledFirstName]が[Root.PlotTargetTitle.GetFullName]を支配する。;;;;;;;;;;;;x
+EVTOPTA7510;よろしい。;;;;;;;;;;;;x
+EVTDESC7511;[Root.PlotTarget.GetTitledFirstName]は、[Root.PlotTargetTitle.GetFullName]を放棄するようにとの[Root.Liege.GetTitle]の道理ある要求を拒んだが、これで少なくともあなたの主君は将来的に称号を剥奪する意思を持った。さしあたり、この計画は据え置いたほうがいいだろう。;;;;;;;;;;;;x
+EVTOPTA7511;ならばそれでよい。;;;;;;;;;;;;x
+EVTDESC7515;貴族の秘密の陰謀によって、[From.GetTitledName]は[From.GetHerHis]公爵称号の１つを放棄することを余儀なくされた。長い討議の末に、領内の諸侯は最も無難な候補であるあなたに称号を授与することをようやく承諾した。おめでとう、[From.GetTitle]。;;;;;;;;;;;;x
+EVTOPTA7515;待ち望む者にこそ喜びは来る。;;;;;;;;;;;;x
+EVTDESC7517;[From.GetTitledName] はその称号を授与されるにはふさわしくなく、そのため、その称号は代わりにあなたに適切であるとして与えられた。;;;;;;;;;;;;x
+PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName]はもはや[This.GetFullName]の君主ではありません。;;;;;;;;;;;;x
+CB_NAME_WEAKEN_VASSAL;[Title.GetName]への請求権;;;;;;;;;;;;x
+VASSAL_TRANSFER_SETUP;新たな封臣が移されてきた;;;;;;;;;;;;x
+VASSAL_TRANSFER_LOG;$OLD_LIEGE$は$NEW_LIEGE$に家臣$VASSAL$を転属させた。;;;;;;;;;;;;x
+WAR_NAME_WEAKEN_VASSAL;$OTHER_TITLE$の新たな支配者をめぐる戦争;;;;;;;;;;;;x
+TRIGGER_ATTACKER;主要攻撃者;;;;;;;;;;;;x
+TRIGGER_MOST_PART_ATTACKER;最も貢献した攻撃者;;;;;;;;;;;;x
+TRIGGER_DEFENDER;主要防衛者;;;;;;;;;;;;x
+TRIGGER_MOST_PART_DEFENDER;最も貢献した防衛者;;;;;;;;;;;;x
+CHAR_IS_NOT;人物は以下に該当しない;;;;;;;;;;;;x
+CHAR_IS;人物は以下に該当する;;;;;;;;;;;;x
+CHAR_EXISTS;人物が存在する;;;;;;;;;;;;x
+THREAT_NOT_DE_JURE_LIEGE;慣習的封臣でない;;;;;;;;;;;;x
+THREAT_INFIDEL;邪教徒;;;;;;;;;;;;x
+THREAT_FOREIGNER;外国人;;;;;;;;;;;;x
+THREAT_LOW_LEVIES;召集軍が枯渇;;;;;;;;;;;;x
+THREAT_OTHER_INDEP_WARS;進行中の独立を求める反乱;;;;;;;;;;;;x
+force_converting;改宗を強制;;;;;;;;;;;;x
+EVTTOOLTIP3336;このように続けることは許されません！ 無責任な[This.GetHerHis]の振る舞いを[This.GetTitledFirstName]に伝えなければなりません！;;;;;;;;;;;;x
+SongsOfAlbionDLC;『Songs of Albion』;;;;;;;;;;;;x
+SongsOfFaithDLC;『Songs of Faith』;;;;;;;;;;;;x
+SongsOfTheHolyLandDLC;『Songs of the Holy Land』;;;;;;;;;;;;x

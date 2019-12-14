@@ -1,0 +1,10 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+SELECT_CHARACTER_TO_RANSOM;身受けする人物を選択;;;;;;;;;;;;x
+AIREASON_NEEDS_OUR_COUNCILLOR;我らが§Y[GetJobTitle]§!;;;;;;;;;;;;x
+AIREASON_SKILLED_COURTIER;§Y[GetBestName]§!の能力;;;;;;;;;;;;x
+AIREASON_IS_UNIMPORTANT;§Y[GetBestName]§!は重要人物ではない;;;;;;;;;;;;x
+INTERACTION_REQUIRES_INV_REASON;領域の領地が§Y[ThirdPartyCharacter.GetTitledFirstName]§!より少ないか、主要称号である;;;;;;;;;;;;x
+TRANSFER_TREASURY_EFFECT;§Y$FROM$§!は§Y$VALUE$§!¤を§Y$TO$§!に支払う\n;;;;;;;;;;;;x
+EVTDESC3407;ステンドグラスの窓について[From.GetTitledFirstName]と同じ意見を言うことで切り抜けようとしたが、[From.GetHerHis]徹底的な質問でついに私は白状した。色は気に入らないし、飾りはつまらない。;;;;;;;;;;;;x
+EVTDESC5042;我々は太陽が水平線から顔を出したばかりの早朝から始めた。たくさんの獲物がいて、犬たちは多くの兎を捕まえ、私は猪が私の馬を殺す前に倒した。;;;;;;;;;;;;x

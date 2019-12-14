@@ -1,0 +1,5 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_INVALID;Failed to save game.\n\nError: Save file not valid;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_NOSPACE;Failed to save game.\n\nError: Not enough disk space;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_TOOBIG;Failed to save game.\n\nError: Save file too big;;;;;;;;;;;;x

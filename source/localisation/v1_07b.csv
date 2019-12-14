@@ -1,0 +1,97 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+FACTION_LEADER;派閥の指導者;;;;;;;;;;;;x
+FACTION_MEMBER;派閥の構成員;;;;;;;;;;;;x
+opinion_defeated_major_revolt;大規模な反乱を打倒した;;;;;;;;;;;;x
+opinion_spared_after_revolt;叛乱後許された;;;;;;;;;;;;x
+opinion_divine_blood_marriage;神統結婚;;;;;;;;;;;;x
+opinion_non_divine_marriage;不浄な婚姻;;;;;;;;;;;;x
+action_uncover_plots;策謀;;;;;;;;;;;;x
+miaphysite;合性論派;;;;;;;;;;;;x
+monothelite;単意論派;;;;;;;;;;;;x
+d_miaphysite;合性論派総主教庁;;;;;;;;;;;;x
+d_miaphysite_adj;合性論派総主教庁;;;;;;;;;;;;x
+COPTIC_POPE;合性論派総主教;;;;;;;;;;;;x
+INTERACTION_CANNOT_REVOKE_LAST_TEMPLE_OFF_REL_HEAD;あなたの宗教指導者から最後の教区を剥奪することはできない;;;;;;;;;;;;x
+d_monophysite;単性論派総主教庁;;;;;;;;;;;;x
+d_monophysite_adj;単性論派総主教庁;;;;;;;;;;;;x
+MONOPHYSITE_POPE;単性論派総主教;;;;;;;;;;;;x
+d_nestorian;東方総主教庁;;;;;;;;;;;;x
+d_nestorian_adj;東方総主教庁;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST;東方総主教;;;;;;;;;;;;x
+d_monothelite;単意論派総主教庁;;;;;;;;;;;;x
+d_monothelite_adj;単意論派総主教庁;;;;;;;;;;;;x
+MONOTHELITE_PATRIARCH;単意論派総主教;;;;;;;;;;;;x
+INTERACTION_TITLE_NOT_CONTESTED;称号は現在進行中の戦争の標的または根拠であってはならない;;;;;;;;;;;;x
+AND_TRIGGER_STARTS;以下の全てが満たされている;;;;;;;;;;;;x
+WAR_INVALID_LOG;$WAR$は和平が結ばれないまま終了しました$REASON$;;;;;;;;;;;;x
+WAR_INVALID_CHARACTER_UNLANDED;\n（$CHARACTER$は土地を失った）;;;;;;;;;;;;x
+WAR_INVALID_LIEGE_HIERARCHY;\n（$CHARACTER$の主君が代わった）;;;;;;;;;;;;x
+REL_PENTARCHS_NON_ORTHODOX_DESC;五大総主教座は、初期キリスト教における５つの総主教のことでした。彼らの古代にあったような独立総主教としての権威は今でも$RELIGION$教会において認められています。;;;;;;;;;;;;x
+PENTARCH_DESC;現在§Y$TITLE$§!の$RELIGION$司祭は存在しません。;;;;;;;;;;;;x
+HEAD_NOT_PENTARCH_DESC;$REL_HEAD$は現在§Y$TITLE$§!を持ちません。;;;;;;;;;;;;x
+LEAVE_FACTION_DIPLO_IMMUNE;最後通牒が提示された後に脱退することはできません！;;;;;;;;;;;;x
+IS_DIPLO_IMMUNE;敵対的な君主の行動に影響を受けない;;;;;;;;;;;;x
+IS_NOT_DIPLO_IMMUNE;敵対的な君主の行動に影響を受ける;;;;;;;;;;;;x
+INTERACTION_NO_HOSTILE_ACTIONS_VS_DIPLO_IMMUNE;§Y[Recipient.GetTitledFirstName]§!は現在敵対行為から影響を受けない;;;;;;;;;;;;x
+NO_FACTIONS_POSSIBLE_NOW;§R現時点で開始可能な派閥はありません。§!;;;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_ENEMIES;私達の現在の敵に対する戦争に参加することはできない;;;;;;;;;;;;x
+AIREASON_IS_MY_REGENT;§Y[GetTitledFirstName]§!は私の摂政である;;;;;;;;;;;;x
+EVTDESC45000;我々の正当なる主張は全領土内から広範なる支持を集めています！[From.GetTitledFirstName]注意してください…;;;;;;;;;;;;x
+EVTDESC45001;巨大なる反乱者共と日和見主義者が[From.Capital.GetName]の不信心の裏切り者[From.GetTitledFirstName]の旗のもとに集まっています！;;;;;;;;;;;;x
+EVTOPTA45001;屍肉をハゲタカにくれてやろう！;;;;;;;;;;;;x
+EVTDESC45002;進行中の内戦は、忠実な退役軍人と様々な冒険者の両方を、[Root.Capital.GetName]へ集結させています！;;;;;;;;;;;;x
+EVTDESC45003;我々と戦うため、日和見主義者達と忠誠厚き古参兵達が[From.Capital.GetName]の[From.GetTitledName]の旗の下に集まっています！;;;;;;;;;;;;x
+EVTOPTA45003;次は何だ？女や子供か？;;;;;;;;;;;;x
+EVTDESC8037;偉大なる[Root.GetTitledFirstName]よ！私と力ある忠臣の一団は簒奪者[From.Liege.GetTitledName]に対し、統治権を[From.SupportedClaimantTitle.GetName]に渡すよう最後通牒を発してきました。我らに幸運あれ！\n\n署名、\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8037;これはたちが悪い…;;;;;;;;;;;;x
+EVTDESC20369;我が主、[FromFrom.GetTitledName]は彼の家臣を動揺させる危険を冒さぬよう、汚職の疑惑について告白しました。[FromFrom.GetHerHis]の威信が回復するには時間がかかるでしょう。また、罰金を徴収しました。\n\nあなたの忠実なる密偵頭\n[From.GetTitledName];;;;;;;;;;;;x
+EVTTOOLTIP2484;この子供は後見人から指導されています。;;;;;;;;;;;;x
+EVTOPTD4140;悲しいかな、”私たちはアッラーに属し、彼に帰る”、か。。;;;;;;;;;;;;x
+blinded_death;盲目による合併症で;;;;;;;;;;;;x
+successful_sally;防御中の軍隊は§G10.0%§!の士気を得ます。\n防御中の軍隊は§R2.5%§!の損害を受けます。\n§G敵側:§! 攻撃中の軍隊は§R5.0%§!の損害を受けます。;;;;;;;;;;;;x
+successful_sally_attacker;攻撃中の軍隊は§R5.0%§!の損害を受けます。\n§G敵側:§! 防御中の軍隊は§G10.0%§!の士気を得ます。\n防御中の軍隊は§R2.5%§!の損害を受けます。;;;;;;;;;;;;x
+failed_sally;防御中の軍隊は§R-10.0%§!の士気を得ます。\n防御中の軍隊は§R5.0%§!の損害を受けます。\n§G敵側:§! 攻撃中の軍隊は§R2.5%§!の損害を受けます。;;;;;;;;;;;;x
+siege_treachery;防御中の軍隊は§R-10.0%§!の士気を得ます。;;;;;;;;;;;;x
+siege_disease;§G敵側:§! 攻撃中の軍隊は§R5.0%§!の損害を受けます。;;;;;;;;;;;;x
+siege_raiders;§G敵側:§! 攻撃中の軍隊は§R1.0%§!の損害を受けます。;;;;;;;;;;;;x
+siege_execute;§G敵側:§! 防御中の軍隊は§G10.0%§!の士気を得ます。;;;;;;;;;;;;x
+siege_hunger;§G敵側:§! 防御中の軍隊は§R5.0%§!の損害を受けます。;;;;;;;;;;;;x
+siege_trader;§G敵側:§! 防御中の軍隊は§G10.0%§!の士気を得ます。;;;;;;;;;;;;x
+siege_miracle;攻撃中の軍隊は§R90.0%§!の損害を受けます。\n攻撃中の軍隊は§R-90.0%§!の士気を得ます。\n§G敵側:§! 防御中の軍隊は§G100.0%§!の士気を得ます。;;;;;;;;;;;;x
+siege_personal_charge;防御中の軍隊は§R-10.0%§!の士気を得ます。;;;;;;;;;;;;x
+siege_assault;防御中の軍隊は§R-20.0%§!の士気を得ます。\n防御中の軍隊は§R20.0%§!の損害を受けます。\n§G敵側:§! 攻撃中の軍隊は§R10.0%§!の損害を受けます。;;;;;;;;;;;;x
+siege_hide;防御中の軍隊は§R-5.0%§!の士気を得ます。\n防御中の軍隊は§R5.0%§!の損害を受けます。\n§G敵側:§! 攻撃中の軍隊は§R15.0%§!の損害を受けます。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_BOTH_OF_AGE;§Y$ACTOR_PERSON$§Wと§Y$RECIPIENT_PERSON$§Wが共に最低でも§Y$YEARS$§!歳;;;;;;;;;;;;x
+EVTOPTA62039;よくやった、山賊！;;;;;;;;;;;;x
+EVTNAME62011;奇跡だ！;;;;;;;;;;;;x
+EVTNAME62041;何と悲惨なことか！;;;;;;;;;;;;x
+EVTOPTA62034;奴らはこの報いをうけるだろう！;;;;;;;;;;;;x
+EVTOPTA62041;何がおこったのだ？;;;;;;;;;;;;x
+EVTNAME62044;敵の突撃;;;;;;;;;;;;x
+EVTDESC62044;我らが要塞を包囲するキリスト教徒の指揮官は彼単騎が先頭に立って城壁への突撃を敢行しました！彼の狂ったような疾走は我らが勇気ある防衛兵に驚きを与えました！;;;;;;;;;;;;x
+EVTOPTA62044;きちがいだ！;;;;;;;;;;;;x
+EVTDESC62045;敵は我らの包囲された要塞への大規模な突撃を開始しました！我らの防衛兵は不意を突かれました！;;;;;;;;;;;;x
+EVTOPTA62045;守護る漢たちよ！;;;;;;;;;;;;x
+CB_NAME_IMPERIAL;帝国旧領[Title.GetBaseName]回復;;;;;;;;;;;;x
+WAR_NAME_IMPERIAL;$FIRST_ADJ$による$ORDER$帝国旧領$OTHER_TITLE$回復戦争;;;;;;;;;;;;x
+imperial_reconquest_desc;失われたローマ帝国の領域は再復されるべきです！§Y$CLAIMANT$§!はこの開戦事由を§Y$TARGET$§!が§Y$TITLE$§!の慣習的領域内に保持する全ての称号に対し使用することができます。;;;;;;;;;;;;x
+COUNTS_AS_PURPLE_BORN;緋紫色の産室生れとみなす;;;;;;;;;;;;x
+AIREASON_IS_MY_PARENT;私の両親;;;;;;;;;;;;x
+FLANK_DOES_NOT_HAVE_LEADER;この支隊には指揮官がいない;;;;;;;;;;;;x
+FLANK_HAS_LEADER;この支隊には指揮官がいる;;;;;;;;;;;;x
+CANNOT_BUY_RET_OCCUPIED;\nこの常備兵を創設できません、直轄領の領地を一つも実効支配できていません。;;;;;;;;;;;;x
+duke_russian;大公;;;;;;;;;;;;x
+duke_female_russian;女大公;;;;;;;;;;;;x
+duchy_of_russian;大公国;;;;;;;;;;;;x
+king_iranian;シャー;;;;;;;;;;;;x
+kingdom_of_iranian;シャー国;;;;;;;;;;;;x
+emperor_female_greek;女帝;;;;;;;;;;;;x
+EVTTOOLTIP94066;庭園の改善に励みます。;;;;;;;;;;;;x
+MediterraneanPortraitsDLC;『Mediterranean Portraits』;;;;;;;;;;;;x
+SongsOfByzantiumDLC;『Songs of Byzantium』;;;;;;;;;;;;x
+ByzantineUnitsDLC;『Byzantine Unit Pack』;;;;;;;;;;;;x
+CK2CoA2DLC;『Dynasty Coat of Arms Pack 2』;;;;;;;;;;;;x
+ALL_DIRECT_DE_JURE_VASSAL_TITLES;全ての慣習的直臣;;;;;;;;;;;;x
+WAR_INVALID_CB_TRIGGER;\n(開戦事由が有効ではなくなった);;;;;;;;;;;;x
+AfricanPortraitsDLC;『African Portraits』;;;;;;;;;;;;x

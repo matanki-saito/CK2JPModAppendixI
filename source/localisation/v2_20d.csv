@@ -1,0 +1,20 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+vice_royalty_2_desc;王国級と公爵級の総督制を有効にします。;;;;;;;;;;;;x
+duke_vice_royalties;王国級と公爵級の総督制を許可;;;;;;;;;;;;x
+PLOT_POWER_DESC;陰謀はより強力な支持者を持つことにより、より実行されやすくなります。陰謀達成力がより高くなると、特別な選択肢やイベントが発生します。あなたの密偵頭を陰謀の対象者の居場所に送り込み、諜報網を構築すれば、陰謀達成力は更に高まるでしょう。;;;;;;;;;;;;x
+LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;$PRONOUN$の主君§Y$LIEGE$§!が §Y$LIEGE_WAR$§!の§Y$SIDE$§!に参加したことにより§Y$VASSAL$§!は§Y$VASSAL_WAR$§!から離脱しました。;;;;;;;;;;;;x
+LIEGE_ENDED_OTHER_WAR_LOG;§Y$LIEGE$§!が§Y$LIEGE_WAR$§!の§Y$SIDE$§!に参加したことにより§Y$VASSAL_WAR$§!は終戦となりました。;;;;;;;;;;;;x
+NOT_ANY_WAR_STARTS;戦争なし;;;;;;;;;;;;x
+not_under_attack;防御側の戦争ではない;;;;;;;;;;;;x
+temple_king_pagan_group;聖王;;;;;;;;;;;;x
+EVTTITLE_CM_1402;反逆者[From.PrimaryTitle.GetRulerTitle];;;;;;;;;;;;x
+EVTDESC_CM_1410;[Root.GetLordLady]殿、裏切り者の[From.GetTitledName]は以前の[From.GetHerHis]の発言を翻し、あなたのウマイヤ朝との戦いに手を貸すことを拒否しました！;;;;;;;;;;;;x
+TRIBAL_VASSAL_LEVY_CONTROL_ON;部族の封臣はもはやあなたに徴兵を提供しません。\n;;;;;;;;;;;;x
+TRIBAL_VASSAL_LEVY_CONTROL_OFF;部族の封臣はもはやあなたに徴兵を提供しません。\n;;;;;;;;;;;;x
+TRIBAL_VASSAL_TAX_INCOME_ON;部族の封臣はもはやあなたに税を支払いません。\n;;;;;;;;;;;;x
+TRIBAL_VASSAL_TAX_INCOME_OFF;部族の封臣はもはやあなたに税を支払いません。\n;;;;;;;;;;;;x
+LIEGE_TAX_TRIBAL;独立した部族や遊牧民の当主は封臣から税を取りません;;;;;;;;;;;;x
+CHRONICLE_WAR_WON;[From.GetTitledNameWithNick]は[Root.GetTitledNameWithNick]との戦争に勝利した。;;;;;;;;;;;;x
+CHRONICLE_WAR_WHITEPEACE;[From.GetTitledNameWithNick]は[Root.GetTitledNameWithNick]と和平を結んだ。;;;;;;;;;;;;x
+CHRONICLE_WAR_LOST;[From.GetTitledNameWithNick]は[Root.GetTitledNameWithNick]に敗北した。;;;;;;;;;;;;x

@@ -1,0 +1,1308 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+AIREASON_CAN_PAY_OWN_RANSOM;§Y[GetTitledFirstName]§!は[GetHerHis]自身の身代金を払う余裕があります;;;;;;;;;;;;x
+AIREASON_MARRIAGE_DOES_NOT_MATCH_BETROTHAL;結婚の方式が婚約時と異なる;;;;;;;;;;;;x
+appointment;任命制;;;;;;;;;;;;x
+AIREASON_WILL_NOT_BE_CONSORT_INFIDELS;§Y[GetTitledFirstName]§!は邪教徒の側室になってはいけない;;;;;;;;;;;;x
+SPLIT_IN_HALF_UNIT;等分割;;;;;;;;;;;;x
+SPLIT_IN_HALF_UNIT_DRO;この部隊をほぼ等しい戦力に二分割します。非常に大規模な連隊を持つ部隊は等分できないかもしれません。;;;;;;;;;;;;x
+succ_appointment;任命制;;;;;;;;;;;;x
+succ_appointment_desc;死亡の際、全ての称号が君主に帰します。;;;;;;;;;;;;x
+papal_succession;教皇選出選挙制;;;;;;;;;;;;x
+succ_papal_succession;教皇選出選挙制;;;;;;;;;;;;x
+succ_papal_succession_desc;教皇は年齢、信仰点、人気その他の要因を考慮され枢機卿により選出されます。;;;;;;;;;;;;x
+COMMANDER;指揮官;;;;;;;;;;;;x
+FAMILY_PALACE;家族の大邸宅;;;;;;;;;;;;x
+HAS_LOWER_SCORE_THAN;スコアが右記未満：;;;;;;;;;;;;x
+HAS_HIGHER_SCORE_THAN;スコアが右記以上：;;;;;;;;;;;;x
+REP_HAS_FEWER_TPS_THAN;共和国が§Y$NUM$§!未満の交易所を保有している;;;;;;;;;;;;x
+REP_HAS_MORE_TPS_THAN;共和国が§Y$NUM$§!以上の交易所を保有している;;;;;;;;;;;;x
+title_cardinal;枢機卿;;;;;;;;;;;;x
+crushed_revolt;反乱は鎮圧された;;;;;;;;;;;;x
+crushed_major_revolt;大規模な反乱が鎮圧された;;;;;;;;;;;;x
+COLLEGE_OF_CARDINALS;枢機卿会;;;;;;;;;;;;x
+expected_next_title_cardinal;次期枢機卿;;;;;;;;;;;;x
+expected_next_title_cardinal_tooltip;この司祭は枢機卿の地位が空いたときに加入する次期枢機卿です。;;;;;;;;;;;;x
+best_candidate_title_cardinal;自領内の枢機卿候補;;;;;;;;;;;;x
+best_candidate_title_cardinal_tooltip;自分の領国内の司祭のうち、教皇によって枢機卿に叙任される可能性が最も高い人物です。;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_SETUP;新しい枢機卿が叙任しました。;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_LETTER;$NEWHOLDER$は枢機卿の座を与えられました。;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_LOG;$NEWHOLDER$は枢機卿の座を与えられました。;;;;;;;;;;;;x
+alert_deficits_instant;§Y財政赤字§!;;;;;;;;;;;;x
+alert_deficits_delayed;あなたの財源はもう空であり、被支配者層からお金を借りています。あなたの軍の士気が損なわれ、さらにこの状態が続けば続くほどより多くの汚職や犯罪が発生しあなたの州を蝕むでしょう。;;;;;;;;;;;;x
+EVTDESC68000;行政官に給料を支払う余裕がなく、下層民への負債は危険なほど高くなっている。[Root.GetName]の農民は、私が神から授かった支配権を完全に無視している！;;;;;;;;;;;;x
+EVTDESC68001;[Root.GetName]の農民が、徐々に再び私の支配に従い始めている。二度と財政が赤字にならないようにすべきだ！;;;;;;;;;;;;x
+EVTDESC68010;法執行官と行政官に支払う資金が不足しているため、[Root.GetName]に盗賊ギルドが設立された。;;;;;;;;;;;;x
+EVTDESC68020;急激な財政赤字により、[Root.GetName]に密輸団が現れた。;;;;;;;;;;;;x
+EVTDESC68030;法執行官への給料未払いにより、[Root.GetName]で強盗が増加している。しかし奴らは、我が城を攻撃するほどの度胸は持っていない。;;;;;;;;;;;;x
+EVTDESC315;今回のお産は難産であった。私はどこか悪くしたのではないかと不安になっている。産婆たちは不安そうに見えるし、自分でもとても衰弱しているのがわかる…;;;;;;;;;;;;x
+EVTOPTA315;[Root.Religion.GetRandomGodName]に祈らなければならぬ。;;;;;;;;;;;;x
+EVTDESC6062;婆やは、私がもう病気ではないと言っている。;;;;;;;;;;;;x
+EVTOPTA6062;走れる！;;;;;;;;;;;;x
+sickly;病弱;;;;;;;;;;;;x
+sickly_desc;この子供は病弱で、幼年時代を越せないかもしれません;;;;;;;;;;;;x
+sickly_death;病弱な幼児だったため;;;;;;;;;;;;x
+REL_SISTER_WIFE;姉妹-妻;;;;;;;;;;;;x
+REL_MOTHER_WIFE;母-妻;;;;;;;;;;;;x
+REL_DAUGHTER_WIFE;娘-妻;;;;;;;;;;;;x
+REL_BROTHER_HUSBAND;兄弟-夫;;;;;;;;;;;;x
+REL_SON_HUSBAND;息子-夫;;;;;;;;;;;;x
+REL_FATHER_HUSBAND;父-夫;;;;;;;;;;;;x
+jewish;ユダヤ教;;;;;;;;;;;;x
+samaritan;サマリア教;;;;;;;;;;;;x
+karaite;カライ派;;;;;;;;;;;;x
+THE_TORAH;トーラー;;;;;;;;;;;;x
+THE_TANAKH;タナハ;;;;;;;;;;;;x
+RANDOM_CHARACTER;ランダムなキャラクター;;;;;;;;;;;;x
+jewish_DESC;ユダヤ教はアブラハム宗教の中で最古であり、その起源は青銅器時代までさかのぼることができます。この一神教の信仰で最も神聖な都市は、古代イスラエル王国の首都となったエルサレムです。;;;;;;;;;;;;x
+build_third_temple;第三神殿を建設;;;;;;;;;;;;x
+build_third_temple_desc;エルサレムにあった第一、第二の聖なる神殿は侵略軍によって破壊されました。都市がユダヤ人の支配へと戻った今こそ、第三神殿の建設を始める時です。;;;;;;;;;;;;x
+EVTDESC_SoA_100;第三神殿の建設は、エルサレムを見下ろす神殿の丘ですぐに始まるでしょう。新たな神殿の設計は、ソロモン王によって建設された伝説の第一神殿よりも大きな規模になっています。 建築家は、建設にはおよそ4年の月日がかかると見積もっています。4年後には、現実の光景となっているでしょう！;;;;;;;;;;;;x
+EVTOPTA_SoA_100;人々が必要としていますが、もう少し待ってください。;;;;;;;;;;;;x
+EVTNAME_SoA_101;第三神殿;;;;;;;;;;;;x
+EVTDESC_SoA_101;ソロモン王によって建てられた第一神殿は、バビロニア人たちの侵略によって破壊されました。ペルシャの偉大なるキュロス二世の援助によって建てられた第二神殿は、ローマ軍の包囲の後に完全に破壊されました。しかし偉大なる[FromFrom.GetTitledFirstName]によって建てられた第三神殿は永久に残ることになるでしょう！\n\n神殿の丘に建てられたその壮大な姿は、エルサレムの中でも最も目立つシンボルとなり、街に向かう途中の旅人たちからも一目で分かります。もしソロモン王がこの光景を見たら涙を流したに違いありません。;;;;;;;;;;;;x
+EVTOPTA_SoA_101;なんと美しいことか。;;;;;;;;;;;;x
+restore_high_priesthood;大祭司の復興;;;;;;;;;;;;x
+restore_high_priesthood_desc;コーヘーン・ガードール(ユダヤ教の大祭司)はローマ人の手による第二神殿の破壊依頼、空席となっています。第三神殿が建立された今、新たな大祭司を任命するべきでしょう。;;;;;;;;;;;;x
+create_israel;イスラエルを建国;;;;;;;;;;;;x
+create_israel_desc;イスラエルの子らよ、エルサレムと約束の地に新たな統一王国を建てる時がきた。ユダヤ人は再び平和と調和をもって共に生きることができるであろう。;;;;;;;;;;;;x
+k_israel;イスラエル;;;;;;;;;;;;x
+k_israel_adj;イスラエル;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_102;イスラエル王国の再誕;;;;;;;;;;;;x
+EVTNAME_SoA_102;約束の地;;;;;;;;;;;;x
+EVTDESC_SoA_102;ユダヤ人の支配するエルサレムと約束の地に、新たな統一王国ー古代のダビデ王やソロモン王の時代のような偉大な国ーを打ち立てる時が来た。\n\n ユダヤの人々は長き苦難の時を経て、遂に、再び自らの国を手に入れるのだ。もはやキリスト教やイスラム教の君主たちに聖地を荒らさせはしない。新たな王国がこの地に平和と繁栄の時代の到来を告げるであろう！;;;;;;;;;;;;x
+EVTOPTA_SoA_102;イスラエル万歳！;;;;;;;;;;;;x
+job_spiritual_jewish_group;宮廷ラビ;;;;;;;;;;;;x
+HEAD_KOHEN_GADOL;大祭司;;;;;;;;;;;;x
+d_jewish;ユダヤ大祭司領;;;;;;;;;;;;x
+d_jewish_adj;ユダヤ;;;;;;;;;;;;x
+third_temple_construction;第三神殿の建設が始まっています。;;;;;;;;;;;;x
+INTERACTION_GRANT_THEOCRACY_NEIGHBOR;新しい神政領は、既存のものと隣接してはいけない;;;;;;;;;;;;x
+INTERACTION_GRANT_THEOCRACY_MAX;神政領の封臣は§Y$MAX$§!人(§Y$MAX_PERC$%§!)しか持つことができません。現在は§Y$CURRENT$§!人(§Y$CURRENT_PERC$%§!)です。;;;;;;;;;;;;x
+INTERACTION_GRANT_REPUBLIC_MAX;共和国の封臣は§Y$MAX$§!人(§Y$MAX_PERC$%§!)しか持つことができません。現在は§Y$CURRENT$§!人(§Y$CURRENT_PERC$%§!)です。;;;;;;;;;;;;x
+DEATH_CHILDBIRTH;出産時に死亡した;;;;;;;;;;;;x
+DEATH_POOR_HEALTH;体調不良で死亡した;;;;;;;;;;;;x
+STILLBIRTH_SETUP;死産;;;;;;;;;;;;x
+STILLBIRTH_LOG;§Y$MOTHER$§!は§Y$SEX$§!を死産しました。;;;;;;;;;;;;x
+religious_revolt_desc;異なる宗教グループの農民たちは、圧制から抜け出し、兵火と武力で信仰を広めるために蜂起することができます。;;;;;;;;;;;;x
+lost_religious_revolt;邪教徒の反乱軍が勝利;;;;;;;;;;;;x
+won_religious_revolt;邪教徒の反乱軍を粉砕;;;;;;;;;;;;x
+PRIEST;祭司;;;;;;;;;;;;x
+IMAM_PRIEST;イマーム;;;;;;;;;;;;x
+SHEIKH_PRIEST;シェイク;;;;;;;;;;;;x
+MULLAH;ムッラ;;;;;;;;;;;;x
+GODI;ゴジ;;;;;;;;;;;;x
+SHAMAN;呪術師;;;;;;;;;;;;x
+VOLHV;呪術師;;;;;;;;;;;;x
+AUGUR;卜占官;;;;;;;;;;;;x
+HERBAD;下級司祭;;;;;;;;;;;;x
+RABBI;ラビ;;;;;;;;;;;;x
+NOTIFICATION_EVENT_SETUP;通知イベント;;;;;;;;;;;;x
+CTT_CHRISTIAN_CRUSADES_UNLOCKED;十字軍時代が始まった\n;;;;;;;;;;;;x
+CTT_MUSLIM_JIHADS_UNLOCKED;大ジハード時代が始まった\n;;;;;;;;;;;;x
+CTT_PAGAN_GHWS_UNLOCKED;異教大聖戦の時代が始まった\n;;;;;;;;;;;;x
+EVTNAME39660;クルセイダーキングス;;;;;;;;;;;;x
+EVTDESC39660;聖地へと巡礼するキリスト教徒はその旅の途上で様々な危険に直面している。[Root.GetTitledName]台下はキリストの名と信仰心の向くままに巡礼者とエルサレムを守護するためにはキリスト教徒の連合軍による全面的な侵攻が必要であるとの認識を示した。この知らせはキリスト教徒によるかつて無い聖戦の時代が到来したことを意味する - すなわち十字軍である。;;;;;;;;;;;;x
+EVTOPTA39660;神もそれを欲したもう！;;;;;;;;;;;;x
+EVTOPTB39660;愚かなことだ！;;;;;;;;;;;;x
+EVTDESC39661;東のローマ帝国、ビザンチンが滅亡した。 オリエントの邪教徒、マホメットの信者からキリスト教世界の防波堤となっていた同帝国の滅亡は[Root.GetTitledName]台下にキリスト教徒の連合軍による侵攻が必要であると確信させるに至った。この知らせはキリスト教徒によるかつて無い聖戦の時代が到来したことを意味する - すなわち十字軍である。;;;;;;;;;;;;x
+EVTDESC39662;聖ペトロの殉教地であり、教皇座が置かれていたローマは邪教徒たちの手に落ちた。これに応じて、亡命中の[Root.GetTitledName]猊下は永遠なる都を取り戻すために、キリスト教諸侯による大同盟の結成を呼びかけた。この知らせはキリスト教徒によるかつて無い聖戦の時代が到来したことを意味する - すなわち十字軍である。;;;;;;;;;;;;x
+EVTDESC39663;西方教会の中心地が邪教徒の包囲下に置かれている！絶望的なキリスト教徒の領主たちは、邪教徒を追放するための偉大で正義の同盟を築くために[Root.GetTitledName]猊下に申し立てを行った。この知らせはキリスト教徒によるかつて無い聖戦の時代が到来したことを意味する - すなわち十字軍である。;;;;;;;;;;;;x
+EVTNAME39670;新たなるジハード;;;;;;;;;;;;x
+EVTDESC39670;荘厳な[Root.GetTitledName]は、[Root.Religion.GetPriestTitle]の名を持って、初代カリフのような大征服の時代を宣言する時だと確信している。ダール･アルイスラームは再び成長しなければならない。すべての正しきイスラム教徒は次の闘争のためにムジャーヒディーンに加わる準備をすべきだ。この知らせはイスラム教徒によるかつてない拡大の時代が到来したことを意味する。;;;;;;;;;;;;x
+EVTOPTA39670;アッラーフ・アクバル！;;;;;;;;;;;;x
+EVTOPTB39670;不穏な報;;;;;;;;;;;;x
+EVTDESC39671;預言者が天に連れられた聖地イェルサレムは、邪教徒の手に落ちました！ 荘厳な[Root.GetTitledName]は、これを許さず、初代カリフの時代のような大征服の時代が来たと宣言した。ダール･アルイスラームは聖地を守らなければならない。すべての正しきイスラム教徒は次の闘争のためにムジャーヒディーンに加わる準備をすべきだ。この知らせはイスラム教徒によるかつてない拡大の時代が到来したことを意味する。;;;;;;;;;;;;x
+EVTDESC39672;考えもつかないようなことが起きてしまった！ 聖地メッカが邪教徒の手に落ち、カアバは今も彼らの存在によって穢されている。荘厳な[Root.GetTitledName]は、新たなるジハードの時代だと世界に宣言した。聖地は、いかなる代償を支払ってでも取り戻さなければなりません。すべての正しきイスラム教徒は次の闘争のためにムジャーヒディーンに加わる準備をすべきだ。この知らせはイスラム教徒によるかつてない拡大の時代が到来したことを意味する。;;;;;;;;;;;;x
+EVTDESC39673;イスラムの家の中心地は、異教徒や邪教徒の襲撃によって重大な脅威にさらされている。それらに対抗するために、[Root.GetTitledName]は新たなるジハードの時代だと世界に宣言した。ダール･アルイスラームの中核地域は、いかなる代償を支払ってでも取り戻さなければなりません。すべての正しきイスラム教徒は次の闘争のためにムジャーヒディーンに加わる準備をすべきだ。この知らせはイスラム教徒によるかつてない拡大の時代が到来したことを意味する。;;;;;;;;;;;;x
+EVTDESC39674;アフリカのイスラムの家は、異教徒や邪教徒の襲撃によって重大な脅威にさらされている。それらに対抗するために、[Root.GetTitledName]は新たなるジハードの時代だと世界に宣言した。ウンマの西部地域は、いかなる代償を支払ってでも取り戻さなければなりません。すべての正しきイスラム教徒は次の闘争のためにムジャーヒディーンに加わる準備をすべきだ。この知らせはイスラム教徒によるかつてない拡大の時代が到来したことを意味する。;;;;;;;;;;;;x
+EVTNAME39680;古き神々の怒り;;;;;;;;;;;;x
+EVTDESC39680;アブラハムの一神教主義者の間で十字軍とジハードが行われる新しい時代に、偉大なる[Root.GetTitledName]は壮大な[Root.Religion.GetName]異教徒のための[Root.GetPossPronoun]計画を[Root.Religion.GetName][Root.Religion.GetPriestTitle]達すべてに伝えた。事実、今すべての異教徒の宗教指導者は大聖戦をおこすことができる。かつてない異教徒の攻撃が始まるかもしれない。;;;;;;;;;;;;x
+EVTOPTA39680;偉大なる[Root.Religion.GetRandomGodName]は我らとともにあり！;;;;;;;;;;;;x
+EVTOPTB39680;旧き神々のなんと勁いことよ！;;;;;;;;;;;;x
+EVTOPTC39680;お前の息子や娘を留めおけ！;;;;;;;;;;;;x
+EVTDESC_TOG_1060;[Root.Religion.GetName]の反逆者が[Root.GetName]で蜂起し、[Root.Religion.GetPriestTitle]に率いられています。もし速やかにこれを叩けない場合、この反乱は野火のように広がるでしょう！;;;;;;;;;;;;x
+EVTOPTA_TOG_1060;なんてことだ！;;;;;;;;;;;;x
+EVTOPTB_TOG_1060;呪われた邪教徒どもめ！;;;;;;;;;;;;x
+EVTDESC_TOG_1061;[From.Religion.GetName]の反乱軍が闘士[From.Religion.GetPriestTitle]に率いられて[From.GetName]にて蜂起しました。迅速に叩き潰さなければ、この反乱は燎原の火のように燃え広がるでしょう！;;;;;;;;;;;;x
+EVTDESC_TOG_1070;邪教[Root.Religion.GetName]を奉じる暴徒どもが[Root.GetName]で決起した！叛乱はさらに拡大している！;;;;;;;;;;;;x
+EVTOPTA_TOG_1070;邪教徒のクズが！;;;;;;;;;;;;x
+EVTDESC_TOG_1071;邪教[From.Religion.GetName]を奉じる暴徒どもが[From.GetName]で決起した！叛乱はさらに拡大している！;;;;;;;;;;;;x
+EVTDESC_TOG_1190;反乱軍の暴徒どもが扉を破壊し、部屋へ流れ込んできた。私は命乞いなどしない、戦うのみだ！;;;;;;;;;;;;x
+EVTOPTA_TOG_1190;死ねくそったれ共め！ウワーッ……;;;;;;;;;;;;x
+EVTOPTA_TOG_1191;どいつも吊るしてやる！;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_TITLE;修道会に加入要請;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_DESC;§Y[Recipient.GetBestName]§!に誓願を立て、修道会に加入するように命じます。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_LONG_DESC;領主ではない廷臣に誓願を立て、修道会に加入するように命じることができます。通常の継承権を失いますが、依然として請求者になることはできます。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_0;§Y[Recipient.GetFirstName]§!は[Recipient.Religion.GetName]の信仰を護るため§Y$TITLE$§!に参加するでしょう。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_1;§Y[Recipient.GetFirstName]§!は修道僧となるでしょうが、貴方の宮廷には残ります。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_2;§Y[Recipient.GetFirstName]§!は尼となるでしょうが、貴方の宮廷には残ります。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_3;§Y[Recipient.GetFirstName]§!は牢から開放されるでしょう。;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_ACCEPT_SETUP;人物は修道会に参加します;;;;;;;;;;;;x
+RETIRE_TO_MONASTERY_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§!は§Y[Recipient.GetBestName]§!に修道会に加入するよう命じました。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_UNMARRIED;§Y[Recipient.GetTitledFirstName]§!は未婚である;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_PRISONER_OR_NOT_HEIR;§Y[Recipient.GetTitledFirstName]§!は囚人である、または称号の跡継ぎではない;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_REGENT;§Y[Actor.GetTitledFirstName]§!は摂政を持っていない;;;;;;;;;;;;x
+monk;修道僧;;;;;;;;;;;;x
+monk_desc;この男性は修道院で日々を暮らし、通常の継承から離脱しています。;;;;;;;;;;;;x
+nun;尼;;;;;;;;;;;;x
+nun_desc;この女性は修道院で日々を暮らし、通常の継承から離脱しています。;;;;;;;;;;;;x
+AIREASON_FOUND_MY_CALLING;私の使命を見つけた;;;;;;;;;;;;x
+d_bektashi;ベクタシュ教団;;;;;;;;;;;;x
+d_bektashi_adj;ベクタシュ教団;;;;;;;;;;;;x
+d_immortals;不死隊;;;;;;;;;;;;x
+d_immortals_adj;不死隊;;;;;;;;;;;;x
+d_zealots;熱心党;;;;;;;;;;;;x
+d_zealots_adj;熱心党;;;;;;;;;;;;x
+d_holy_sepulchre;聖墳墓同胞団;;;;;;;;;;;;x
+d_holy_sepulchre_adj;聖墳墓同胞団;;;;;;;;;;;;x
+d_saint_anthony;聖アントニウス騎士団;;;;;;;;;;;;x
+d_saint_anthony_adj;聖アントニウス騎士団;;;;;;;;;;;;x
+d_sky_lords;天上神党;;;;;;;;;;;;x
+d_sky_lords_adj;天上神党;;;;;;;;;;;;x
+d_spirit_guardians;精霊の守護者;;;;;;;;;;;;x
+d_spirit_guardians_adj;精霊の守護者;;;;;;;;;;;;x
+d_warriors_perun;ペルーン戦士団;;;;;;;;;;;;x
+d_warriors_perun_adj;ペルーン戦士団;;;;;;;;;;;;x
+d_chosen_perkunas;ペルクナスに選ばれし者達;;;;;;;;;;;;x
+d_chosen_perkunas_adj;ペルクナス;;;;;;;;;;;;x
+d_sons_kaleva;カレヴァの息子達;;;;;;;;;;;;x
+d_sons_kaleva_adj;カレヴァ;;;;;;;;;;;;x
+d_huitzilopochtli;ウィツィロポチトリ教団;;;;;;;;;;;;x
+d_huitzilopochtli_adj;ウィツィロポチトリ教団;;;;;;;;;;;;x
+d_knights_santiago;サンティアゴ騎士団;;;;;;;;;;;;x
+d_knights_santiago_adj;サンティアゴ騎士団;;;;;;;;;;;;x
+d_knights_calatrava;カラトヴァ騎士団;;;;;;;;;;;;x
+d_knights_calatrava_adj;カラトヴァ騎士団;;;;;;;;;;;;x
+DEDEBABA;デデババ;;;;;;;;;;;;x
+DYNASTY_CONTROLS_HOLY_ORDER;一族は$ORDER$を支配: §G+$VALUE$§!;;;;;;;;;;;;x
+DYNASTY_CONTROLS_RELIGIOUS_HEAD;一族は$RELIGION$を支配: §G+$VALUE$§!;;;;;;;;;;;;x
+opinion_generous_donation;気前の良い寄付;;;;;;;;;;;;x
+opinion_defending_vs_foreigners;外国の侵攻軍と戦っている;;;;;;;;;;;;x
+donate_money_to_knights_hospitaler;ホスピタル騎士団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_teutonic_order;ドイツ騎士団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_jomsvikings;ヨムスヴァイキングに300¤を寄付;;;;;;;;;;;;x
+donate_money_to_jomsvikings_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、ヨスムヴァイキングにお金を寄付します。;;;;;;;;;;;;x
+donated_to_holy_order;宗教騎士団への寄付;;;;;;;;;;;;x
+borrow_money_knights_templar;テンプル騎士団から300¤を借りる;;;;;;;;;;;;x
+borrow_money_knights_templar_desc;テンプル騎士団から借金して、またいつでもその同額を返済できます。しかしながら借金をしている間、総長はさまざまな要求をしてきます。息子の一人を兵として入隊させよ、などです。;;;;;;;;;;;;x
+borrowed_from_knights_templar;テンプル騎士団から300¤を借りている;;;;;;;;;;;;x
+borrow_money_assassins;アサシン教団から300¤を借りる;;;;;;;;;;;;x
+borrow_money_assassins_desc;アサシン教団から借金して、またいつでもその同額を返済できます。しかしながら借金をしている間、総長はさまざまな要求をしてきます。息子の一人を兵として入隊させよ、などです。;;;;;;;;;;;;x
+borrowed_from_assassins;アサシン教団から300¤を借りている;;;;;;;;;;;;x
+borrow_money_bektashi;ベクタシュ教団から300¤を借りる;;;;;;;;;;;;x
+borrow_money_bektashi_desc;ベクタシュ教団からお金を借りて、またいつでもその同額を返済できます。しかしながら借金をしている間、総長はさまざまな要求をしてきます。息子の一人を兵として入隊させよ、などです。;;;;;;;;;;;;x
+borrowed_from_bektashi;ベクタシュ教団から300¤を借りている;;;;;;;;;;;;x
+vassalize_knights_templar;テンプル騎士団を臣従させる;;;;;;;;;;;;x
+vassalize_knights_templar_desc;エルサレム王としての権限で、500金をもって力強いテンプル騎士団を家臣とすることができます。;;;;;;;;;;;;x
+vassalize_knights_hospitaler;ホスピタル騎士団を臣従させる;;;;;;;;;;;;x
+vassalize_knights_hospitaler_desc;エルサレム王としての権限で、500金をもって力強いホスピタル騎士団を家臣とすることができます。;;;;;;;;;;;;x
+expelled_d_knights_templar;テンプル騎士団を追放;;;;;;;;;;;;x
+expel_the_knights_templar;テンプル騎士団を追放;;;;;;;;;;;;x
+expel_the_knights_templar_desc;領土からテンプル騎士団を追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x
+expel_the_knights_hospitaler;ホスピタル騎士団を追放;;;;;;;;;;;;x
+expel_the_knights_hospitaler_desc;領土からホスピタル騎士団を追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x
+expel_the_teutonic_order;ドイツ騎士団を追放;;;;;;;;;;;;x
+expel_the_teutonic_order_desc;領土からドイツ騎士団を追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x
+expel_the_assassins;アサシン教団を追放;;;;;;;;;;;;x
+expel_the_assassins_desc;領土から恐ろしいアサシン教団を追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x
+expel_the_bektashi;ベクタシュ教団を追放;;;;;;;;;;;;x
+expel_the_bektashi_desc;領土からベクタシュ教団を追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x
+expelled_d_knights_hospitaler;ホスピタル騎士団を追放;;;;;;;;;;;;x
+expelled_d_teutonic_order;ドイツ騎士団を追放;;;;;;;;;;;;x
+expelled_d_jomsvikings;ヨムスヴァイキングを追放;;;;;;;;;;;;x
+expelled_d_bektashi;ベクタシュ教団を追放;;;;;;;;;;;;x
+expelled_d_hashshashin;アサシン教団を追放;;;;;;;;;;;;x
+holy_order_expelled;宗教騎士団を追放;;;;;;;;;;;;x
+opinion_expelled_from_realm;領国より追放;;;;;;;;;;;;x
+ANY_PROVINCE_HOLDING_STARTS;任意の州区;;;;;;;;;;;;x
+ALL_PROVINCE_HOLDINGS;全ての州区;;;;;;;;;;;;x
+EVTDESC_SOA_1003;正義の士、[Root.GetTitledFirstName]よ、我々に対する借金を考慮して、私は謙虚な要求をしよう。 邪教徒に対する防衛には休みはなく、部下を導くために多くの騎士が本当に必要なのだ。そう、この機会に有能なそして高貴なあなたの息子、[FromFrom.GetFirstName]を教団に仕えさせてはどうだろうか。 当然、このことは彼を失望させるだろうが。 キリストに敬意を表して。\n\nグランドマスター [From.GetFirstName]（署名）;;;;;;;;;;;;x
+EVTOPTA_SOA_1003;素晴らしい。良い人生だ。;;;;;;;;;;;;x
+EVTOPTB_SOA_1003;その代わりに返済する;;;;;;;;;;;;x
+EVTOPTC_SOA_1003;お断りだ！;;;;;;;;;;;;x
+EVTDESC_SOA_1011;最も礼儀正しい[Root.GetTitledFirstName]よ、もちろん我々、テンプル騎士団はあなたに300¤を貸すことができる。我々が引き換えに求めるのは、将来発生する可能性がある特定の問題に対するあなたの援助だけだ。 キリストに平穏がありますように。\n\nグランドマスター[From.GetFirstName]（署名）;;;;;;;;;;;;x
+EVTDESC_SOA_1016;我が主よ、テンプル騎士団はキリスト教と聖地の防衛のために、貴方様のもとに馳せ参じる準備が整っております！キリストに平穏がありますように。\n\nグランドマスター　[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1023;我が愛する[Root.GetTitledFirstName]よ、騎士団は兵士の訓練とそれを支える収入を得るため更なる城を必要としております。[FromFrom.GetName]に城を建てることを許可していただくだけで、あなたへの借金をキャンセルするつもりです。キリストの平和に。\n\nグランドマスター[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_SOA_1023;合理的な要求;;;;;;;;;;;;x
+EVTDESC_SOA_1024;テンプル騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTOPTA_SOA_1024;素晴らしい！;;;;;;;;;;;;x
+EVTDESC_SOA_1031;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「テンプル騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTOPTA_SOA_1031;我が祝福と共にあらんことを。;;;;;;;;;;;;x
+EVTOPTB_SOA_1031;絶対に駄目だ！;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1032;[This.GetTitledFirstName]がテンプル騎士団の一員となります。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1033;[This.GetTitledFirstName]はがっかりしています。;;;;;;;;;;;;x
+EVTDESC_SOA_1053;最も高潔なる[Root.GetTitledFirstName]殿よ、騎士団は兵士の訓練とそれを支える収入を得るため更なる城を必要としております。貴方の直轄領にはそれにおあつらえ向きの土地があります。具体的には[FromFrom.GetName]のことです。100ゴールドを支払いますので我らに城を建造する権利をいただけないでしょうか？\nキリストの平和に\n\n総長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1054;テンプル騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1061;陛下、この敵対的行為は全く不当なことです！我々教団はキリストにお仕えする事こそを目的としていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 総長[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTB_SOA_1061;いい厄介払いだ！;;;;;;;;;;;;x
+EVTDESC_SOA_1116;我が主よ、聖ヨハネ騎士団はキリスト教と聖地の防衛のために、貴方様のもとに馳せ参じる準備が整っております！キリストに平穏がありますように。\n\nグランドマスター　[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1131;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「ホスピタル騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1132;[This.GetTitledFirstName]がホスピタル騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1141;殿下、この非常に寛大な寄付は忘れられないでしょう。私と教会の友情をお受け取りください。地上でなくても、あなたは天国で報われることを安心してください！ \nキリストの平和に\n\nグランドマスター[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1153;最も高潔なる[Root.GetTitledFirstName]殿よ、騎士団は邪教徒からキリスト教を防衛するために更なる城を必要としております。貴方の直轄領にはそれにおあつらえ向きの土地があります。具体的には[FromFrom.GetName]のことです。100ゴールドを支払いますので我らに城を建造する権利をいただけないでしょうか？\nキリストの平和に\n\n総長[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTB_SOA_1153;駄目だ、そこは私の土地だ;;;;;;;;;;;;x
+EVTDESC_SOA_1154;ホスピタル騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1203;最も壮大な[Root.GetTitledFirstName]よ、あなたに平和がありますように。 ご存知かもしれませんが、我々の目的には指導者が必要であり、我々に対するあなたの借金を考えると、私は有能なそして高貴なあなたの息子[FromFrom.GetFirstName]を教団に仕えさえてはどうだろうか。 当然、これは彼を失望させるだろうが。 アッラーはあなたと共に。\n\nグランドマスター[From.GetFirstName];;;;;;;;;;;;x
+EVTTITLE_SOA_1209;ベクタシュ教団;;;;;;;;;;;;x
+EVTOPTA_SOA_1209;奴らは役に立つかもな…;;;;;;;;;;;;x
+EVTOPTB_SOA_1209;神秘主義者の戦士たち? へーえ!;;;;;;;;;;;;x
+EVTDESC_SOA_1211;正義の士、[Root.GetTitledFirstName]よ、もちろん我々、ベクタシュ教団はあなたに300¤を貸すことができる。我々が引き換えに求めるのは、将来発生する可能性がある特定の問題に対するあなたの援助だけだ。 サラーム、アレイカム\n\nグランドマスター[From.GetFirstName]（署名）;;;;;;;;;;;;x
+EVTDESC_SOA_1223;偉大な[Root.GetTitledFirstName]よ、教団は兵士の訓練とそれを支える収入を得るため更なる城を必要としております。[FromFrom.GetName]に城を建てることを許可していただくだけで、あなたへの借金をキャンセルするつもりです。平和とともに。\n\nグランドマスター[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1224;ベクタシュ教団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1231;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「ベクタシュ教団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。また、彼が王朝の退廃へ及ぼす影響もなくなる。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1232;[This.GetTitledFirstName]がベクタシュ教団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1253;最も賢い[Root.GetTitledFirstName]殿よ、教団は兵士の訓練とそれを支える収入を得るため更なる城を必要としております。貴方の直轄領にはそれにおあつらえ向きの土地があります。具体的には[FromFrom.GetName]のことです。100ゴールドを支払いますので我らに城を建造する権利をいただけないでしょうか？\n平和とともに\n\nグランドマスター[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1331;私の[GetFromRelation]である[From.GetTitledFirstName]が、異教徒と戦う「ドイツ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1332;[This.GetTitledFirstName]がドイツ騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1353;最も高潔なる[Root.GetTitledFirstName]殿よ、騎士団は異教徒からキリスト教を防衛するために更なる城を必要としております。貴方の直轄領にはそれにおあつらえ向きの土地があります。具体的には[FromFrom.GetName]のことです。100ゴールドを支払いますので我らに城を建造する権利をいただけないでしょうか？\nキリストの平和に\n\n総長[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTB_SOA_1353;駄目だ、そこは私の土地だ;;;;;;;;;;;;x
+EVTDESC_SOA_1354;ドイツ騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTOPTA_SOA_1403;結構だ;;;;;;;;;;;;x
+EVTDESC_SOA_1411;正義の士、[Root.GetTitledFirstName]よ、もちろん我々、ニザーリ・イスマーイール（アサシン教団）はあなたに300¤を貸すことができる。我々が引き換えに求めるのは、将来発生する可能性がある特定の問題に対するあなたの援助だけだ。 サラーム、アレイカム\n\nグランドマスター[From.GetFirstName]（署名）;;;;;;;;;;;;x
+EVTDESC_SOA_1424;ニーザリ・イスマーイール・アサシン教団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1431;私の[GetFromRelation]である[From.GetTitledFirstName]が、恐ろしき闇の担い手である「アサシン教団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。また、彼が王朝の退廃へ及ぼす影響もなくなる。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1432;[This.GetTitledFirstName]がアサシン教団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1454;アサシン教団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1461;偉大な[Root.PrimaryTitle.GetRulerTitle]よ、この敵対的行為は全く不当なことです！我々教団はアラーにお仕えする事こそを目的としていますが、それを疑うというのでしょうか？ \n\n 義憤をこめて \n\n 総長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1531;私の[GetFromRelation]である[From.GetTitledFirstName]が、恐ろしき冒険者である「ヨムスヴァイキング」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1532;[This.GetTitledFirstName]がヨムスヴァイキングの一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1541;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、あなたの非常に寛大なる寄付が、古き神々の栄光のための我々の闘いの大きな助けとなるでしょう！私のあなたへの友情は、聖職者たちへ向けるそれと同じです。 \n神々の加護ぞあれ。 \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1553;強力な[Root.GetTitledFirstName]よ、ヨムスヴァイキング同胞団は劣った神々のひ弱な信者を打ちのめすためにより多くの砦を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \nオーディンの栄光に！\n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTB_SOA_1553;駄目だ、そこは私の土地だ;;;;;;;;;;;;x
+EVTDESC_SOA_1554;ヨムスヴァイキングが[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1561;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、貴方の怒りは見当違いもいいところだ！騎士団は神に忠実に仕えるのみだが、それが不思議だというのか？ \n\n[From.Religion.GetRandomGodNameCap]の呪いあれ！ \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTC_SOA_4000;これは農民たちを煽り立てるだろう……;;;;;;;;;;;;x
+EVTDESC_SOA_4020;地元の[Root.Location.Religion.GetName]の説教者の叡智に大いに感銘を受けた。異端であろうとなかろうと、私は信じ始めている...;;;;;;;;;;;;x
+EVTOPTA_SOA_4020;[Root.Location.Religion.GetName]の信条を受け入れよう！;;;;;;;;;;;;x
+EVTOPTB_SOA_4020;危険すぎる…;;;;;;;;;;;;x
+EVTDESC_SOA_4021;私の[GetFromRelation]、[From.GetBestName]は間違いなく地元の説教師の影響を受け、危険な異端派を受け入れた。;;;;;;;;;;;;x
+EVTOPTA_SOA_4021;改宗させろ！;;;;;;;;;;;;x
+EVTOPTB_SOA_4021;見逃してやろう。;;;;;;;;;;;;x
+EVTOPTC_SOA_4021;[From.GetObjectPronoun]との神学論争に参加する;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4022;[This.GetTitledFirstName]は最後通牒を受け取りました。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4025;[This.GetTitledFirstName]のもとに注意深く書かれた手紙が送られる;;;;;;;;;;;;x
+EVTDESC_SOA_4022;あなたの心が異端の戯言によって曇っていることが私の注意を引いています。これは[From.Religion.GetRandomGodName]への侮辱です！真の道に戻るか、我が怒りに立ち向かうかです。あなたの君主\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4023;[This.GetTitledFirstName]は私の返答を受け取りました。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4024;[This.GetTitledFirstName]は私の拒絶について話している。;;;;;;;;;;;;x
+EVTDESC_SOA_4023;親愛なる[GetFromReverseRelation]よ、私は正しい信者であるとを約束します。 地域の異端者の世迷い言には耳を塞ぎながら、彼らが一刻も早く根絶されるよう祈っています！\n\nあなたの忠実なる[GetFromRelation]\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_4024;我が[GetFromReverseRelation]よ、実に悩みましたが、自らの心の声に従うべきであるとの結論に至りました。[From.Religion.GetName]の教義に照らせば、[Root.Religion.GetName]は従うべきでない教えです。正しき道へとお戻り頂けるよう、祈っております。\n\n貴方様の忠節なる[GetFromRelation]、\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTC_SOA_4024;彼に災いあれ！;;;;;;;;;;;;x
+EVTDESC_SOA_4025;親愛なる[Root.GetFirstName]よ、[Root.Religion.GetName]の説教者の誤った議論に左右されないでください。 気を悪くしないでください - 以前から彼らの欠陥品の推論の餌食になる人はいたのです。 同封したこの問題に関する以前の神学的討論の要約を学んでくだされば、目が覚めるはずです。 あなたの友達であり主人\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_4026;親愛なる[GetFromReverseRelation]よ、あなたの突き抜けた視線は最も厚い神学的な霧でさえも見通すことができます。私はあなたが学んだ議論に完全に納得しています！安心してください。私は二度と道を外れません。\n\n[GetFromRelation]に感謝して\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_4031;我が[GetFromRelation]、[From.GetTitledFirstName]が慎重に[From.GetPossPronoun] [From.Religion.GetName]の信念について私に近づいてきました。私を[From.GetPossPronoun]の崇拝の方法に変えようとしています！;;;;;;;;;;;;x
+EVTOPTA_SOA_4031;[Root.Religion.GetRandomGodName]の名にかけて、[From.GetSubjectPronoun]は正しい！;;;;;;;;;;;;x
+EVTOPTB_SOA_4031;いいや、しない;;;;;;;;;;;;x
+EVTOPTC_SOA_4031;[From.GetObjectPronoun]を神学論争で交戦させる;;;;;;;;;;;;x
+EVTOPTD_SOA_4031;衛兵！異端者を捕まえろ！;;;;;;;;;;;;x
+EVTOPTE_SOA_4031;[From.Liege.GetTitledFirstName]に報告してください...;;;;;;;;;;;;x
+EVTDESC_SOA_4032;親愛なる[GetFromReverseRelation]、私はつい先ほど [FromFrom.GetBestName]にアプローチされ、恥ずべき異端の信仰に参加するよう勧誘されました！ 貴方なら [FromFrom.GetObjectPronoun]に、その愚かさに気づかせて頂けると望んでおります。\n\nあなたの忠実なる[GetFromRelation]、\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_4101;[From.Religion.GetName]の異端は[From.GetName]に野火のように広がっています。真の[Root.Religion.GetName]信仰のリーダーとして、[Root.Religion.GetRandomGodName]の名の下に異端を鎮めるために行動を起こさなければなりません！;;;;;;;;;;;;x
+EVTOPTA_SOA_4101;異端審問に送れ！;;;;;;;;;;;;x
+EVTOPTB_SOA_4101;[From.Holder.TopLiege.GetTitledName]に使節を送れ;;;;;;;;;;;;x
+EVTOPTC_SOA_4101;異端者との対話の道を開く;;;;;;;;;;;;x
+EVTOPTD_SOA_4101;私の手は縛られている;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4110;大勢の説教師と武装衛兵が派遣された;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4120;[This.GetTitledName]に使節を送る;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4130;神学者が派遣された;;;;;;;;;;;;x
+EVTDESC_SOA_4110;[From.GetTitledFirstName]は異端者を鎮圧するために大勢の司祭と武装衛兵を[Root.GetName]に派遣した！;;;;;;;;;;;;x
+EVTOPTA_SOA_4110;面倒なことだ…;;;;;;;;;;;;x
+EVTOPTA_SOA_4111;だから、すでに私の問題だ。;;;;;;;;;;;;x
+EVTDESC_SOA_4112;[From.GetName]の異端審問は失敗した。異端思想があまりにも定着してしまっていた。;;;;;;;;;;;;x
+EVTOPTA_SOA_4112;その背教者どもを罵れ！;;;;;;;;;;;;x
+EVTOPTA_SOA_4113;なんと驚きだ！;;;;;;;;;;;;x
+EVTDESC_SOA_4114;[From.GetName]の異端審問は成功した。地区の異端者は効果的に抑制された。;;;;;;;;;;;;x
+EVTOPTA_SOA_4114;[Root.Religion.GetRandomGodName]に賛美を！;;;;;;;;;;;;x
+EVTDESC_SOA_4120;[From.GetTitledName]からの特別な申し立てが裁判所に届いた。 [From.PrimaryTitle.GetRulerTitle]は、[FromFrom.GetName]の異端について非常に心配していて、その状況に対処するよう私に強く勧めてきた。;;;;;;;;;;;;x
+EVTOPTA_SOA_4120;これは10年以内に行われなければならぬ！;;;;;;;;;;;;x
+EVTDESC_SOA_4122;[From.GetName]の異端者は[From.Holder.TopLiege.GetTitledName]が指示した使節によって根絶しました。;;;;;;;;;;;;x
+EVTOPTA_SOA_4122;感謝の意を示すために100¤を送る;;;;;;;;;;;;x
+EVTOPTB_SOA_4122;[From.Holder.TopLiege.GetTitledFirstName]の信心深さを宣言する;;;;;;;;;;;;x
+EVTOPTC_SOA_4122;[From.Holder.TopLiege.GetTitledFirstName]の破門を解除する;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4123;[This.GetTitledFirstName]は私の贈り物を得る;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4124;[This.GetTitledFirstName]は信仰点を200得る;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_4125;[This.GetTitledFirstName]の破門は解除される;;;;;;;;;;;;x
+EVTDESC_SOA_4123;[From.PrimaryTitle.GetRulerTitle]陛下は、[FromFrom.GetName]の異端者を根絶したことに感謝の意を表して100¤を与えてくれました。;;;;;;;;;;;;x
+EVTOPTA_SOA_4123;[Root.Religion.GetRandomGodName]を崇めよ！;;;;;;;;;;;;x
+EVTDESC_SOA_4124;[From.GetPossPronounCap][From.PrimaryTitle.GetRulerTitle]は[FromFrom.GetName]で異端者を根絶したことに感謝して、私の美徳を賞賛しました。;;;;;;;;;;;;x
+EVTDESC_SOA_4125;[From.GetPossPronounCap][From.PrimaryTitle.GetRulerTitle]は[FromFrom.GetName]で異端者が根絶されたことに感謝し、私の破門を解除しました。;;;;;;;;;;;;x
+EVTDESC_SOA_4130;[From.GetTitledFirstName] は高名な神学者を派遣して、[Root.GetName]の異端者たちと平和的対話を始めました!;;;;;;;;;;;;x
+EVTOPTA_SOA_4130;[From.PrimaryTitle.GetRulerTitle] は賢明だ。;;;;;;;;;;;;x
+EVTOPTA_SOA_4131;もっと良くやってくれると思っていた;;;;;;;;;;;;x
+EVTDESC_SOA_4132;[From.GetName]に派遣した神学者は失敗しました――異端者は教養があり、よく準備していました。;;;;;;;;;;;;x
+EVTOPTA_SOA_4132;この背教者どもめ！;;;;;;;;;;;;x
+EVTOPTA_SOA_4133;よろしい。;;;;;;;;;;;;x
+EVTDESC_SOA_4134;[From.GetName]へと送った神学者は、異端者を信徒へと説得して戻すことに成功した。;;;;;;;;;;;;x
+EVTOPTA_SOA_4134;[Root.Religion.GetRandomGodName]を崇めよ！;;;;;;;;;;;;x
+EVTTITLE_SOA_4200;[From.Religion.GetName]教信徒凱旋;;;;;;;;;;;;x
+EVTDESC_SOA_4200;[FromFrom.GetName]の信者はその数を減らし続け、ついに[From.GetName]が多数派を占めるに至った。このような新たな情勢のもとでは、[FromFrom.GetName]はもはや異端信仰となった！これまで[FromFrom.GetName]の騎士団であった者達は、いまや全て[From.GetName]の信徒となった。;;;;;;;;;;;;x
+EVTOPTA_SOA_4200;[From.Religion.GetRandomGodNameCap]よ、お慶び申し上げます！;;;;;;;;;;;;x
+EVTOPTB_SOA_4200;[FromFrom.Religion.GetRandomGodNameCap]よ、我々を守り給え！;;;;;;;;;;;;x
+EVTOPTC_SOA_4200;愚か者の口論など気にするまでもない;;;;;;;;;;;;x
+active_inquisition;異端尋問の継続;;;;;;;;;;;;x
+theological_dialogue;神学的問答;;;;;;;;;;;;x
+failed_inquisition;異端尋問の失敗;;;;;;;;;;;;x
+successful_inquisition;異端尋問の成功;;;;;;;;;;;;x
+failed_heretic_dialogue;神学論争に敗北;;;;;;;;;;;;x
+successful_heretic_dialogue;神学論争に勝利;;;;;;;;;;;;x
+opinion_refused_request_holy_order;宗教騎士団への参加禁止;;;;;;;;;;;;x
+BANISH_ALL_OF_RELIGION_EFFECT;領国から§Y$RELIGION$§!の人物を追放\n;;;;;;;;;;;;x
+DOES_NOT_HAVE_HERESIES;宗教に異端がある;;;;;;;;;;;;x
+HAS_HERESIES;宗教に異端がない;;;;;;;;;;;;x
+THE_EPISTLES_OF_WISDOM;知恵の書簡;;;;;;;;;;;;x
+THE_BOOK_OF_ILLUMINATION;啓蒙の書;;;;;;;;;;;;x
+GOD_THE_PEACOCK_ANGEL;孔雀天使;;;;;;;;;;;;x
+GOD_TAWUSE_MELEK;マラク・ターウース;;;;;;;;;;;;x
+GOD_SHAYTAN;シャイターン;;;;;;;;;;;;x
+temple_barony_druze;ハルワート;;;;;;;;;;;;x
+temple_barony_of_druze;ハルワート領;;;;;;;;;;;;x
+temple_barony_yazidi;神殿領;;;;;;;;;;;;x
+temple_barony_of_yazidi;神殿領;;;;;;;;;;;;x
+d_fraticelli;フラティチェリ派教皇領;;;;;;;;;;;;x
+d_fraticelli_adj;フラティチェリ派教皇領;;;;;;;;;;;;x
+d_iconoclast;聖像破壊派総主教庁;;;;;;;;;;;;x
+d_iconoclast_adj;聖像破壊派総主教庁;;;;;;;;;;;;x
+d_yazidi;ヤジーディー首長国;;;;;;;;;;;;x
+d_yazidi_adj;ヤジーディー領;;;;;;;;;;;;x
+d_ibadi;イバード派カリフ国;;;;;;;;;;;;x
+d_ibadi_adj;イバード派カリフ領;;;;;;;;;;;;x
+d_hurufi;フルフィ首長国;;;;;;;;;;;;x
+d_hurufi_adj;フルフィ領;;;;;;;;;;;;x
+SHEIKH;シャイフ;;;;;;;;;;;;x
+SHEIKHA;シャイハ;;;;;;;;;;;;x
+VASSAL_RETRACTION_SETUP;封臣が引き抜かれた;;;;;;;;;;;;x
+papacy_instituted;Papacy Instituted;;;;;;;;;;;;x
+patriarchy_instituted;Patriarchate Instituted;;;;;;;;;;;;x
+create_fraticelli_papacy;フラティチェリ派教皇の創設;;;;;;;;;;;;x
+create_fraticelli_papacy_desc;If I am pious enough and control Rome, I can create a Fraticelli Pope to serve as the head of the faith in opposition to the vile Catholic Pope.;;;;;;;;;;;;x
+create_iconoclast_patriarchy;聖像破壊派総主教の創設;;;;;;;;;;;;x
+create_iconoclast_patriarchy_desc;If I am pious enough and control Constantinople, I can create an Iconoclast Ecumenical Patriarch to serve as the head of the faith in opposition to the deluded icon worshipping Patriarch.;;;;;;;;;;;;x
+EVTOPTA_SoA_105;金は君主のものだ;;;;;;;;;;;;x
+EVTDESC_SoA_106;ユダヤ人はしばらくの間あなたの領地へ入ることを禁じられていました。しかし奇妙なことに、これは彼らが原因と考えられていた飢饉や病気のような不安事の多くに影響を及ぼさなかったようです。 今ではほとんどのユダヤ人があなたの罪を許しているようで、あなたは両手を広げて彼らを歓迎することにしました。;;;;;;;;;;;;x
+EVTOPTA_SoA_106;過ちであった。許してほしい。;;;;;;;;;;;;x
+health_travel_condition;旅するのに十分な健康状態\n;;;;;;;;;;;;x
+CARDINAL_VOTE;投票:;;;;;;;;;;;;x
+CURRENT_CHOICE;現在の指名;;;;;;;;;;;;x
+CURRENT_CHOICE_DESC;これは現在、枢機卿が指名する次期教皇です。;;;;;;;;;;;;x
+SAME_RELIGION_REQ_NOMINATION;§R後継者を指名するには$RELIGION$でなければならない§!;;;;;;;;;;;;x
+EVTOPTA_SoA_200;本当に？;;;;;;;;;;;;x
+israelite;イスラエル;;;;;;;;;;;;x
+ashkenazi;アシュケナジ;;;;;;;;;;;;x
+sephardi;セファルディ;;;;;;;;;;;;x
+passover_invitations_sent;あなたは伝統的な過越祭の晩餐を開催するため、ユダヤ人の家臣に招待状を送ります。;;;;;;;;;;;;x
+passover_accepted;あなたは招待を受け入れます。;;;;;;;;;;;;x
+passover_declined;あなたは招待を辞退します。;;;;;;;;;;;;x
+EVTDESC_SoA_500;二千年以上前、神は十の災いを古代エジプトにもたらし、イスラエルの子らを奴隷の身から救い出してくださった。最後の災いでは主の聖霊がエジプト中の新生児を殺戮して回ったが、生贄にした子羊の血を家の扉の鴨居に塗ったユダヤ人の家だけは「過ぎ越した」。この祭は奴隷にされたユダヤの人々が自由を取り戻したことを祝うものだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_500;招待状を送る。;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_501;過越祭の晩餐への招待状を送る;;;;;;;;;;;;x
+EVTDESC_SoA_501;あなたの領主[From.GetTitledFirstName]は自分が今年は主宰している過越祭に、あなたを招待した。この儀式的な夕食は過越祭の最初の夜に行われ、出エジプト記の朗読も含まれてる。;;;;;;;;;;;;x
+EVTOPTA_SoA_501;なんて親切な！;;;;;;;;;;;;x
+EVTOPTB_SoA_501;申し訳ませんが、他の用事があるのです。;;;;;;;;;;;;x
+EVTDESC_SoA_502;[From.GetTitledFirstName]は、他に予定があると言って、過越祭へのあなたの招待を断った。;;;;;;;;;;;;x
+EVTOPTA_SoA_502;分かった。;;;;;;;;;;;;x
+EVTDESC_SoA_503;過越祭の最初の夜に伝統的である、晩餐が始まりました。 平らなマッツァパンを苦ヨモギと一緒にたくさん食べます。 出エジプト記が語られ議論されている間に、誰もが4杯のワインをそれぞれ晩餐の間の特定の時点で飲むことを求められます。;;;;;;;;;;;;x
+EVTOPTA_SoA_503;マッツァーをこちらに回してくれ;;;;;;;;;;;;x
+EVTDESC_SoA_504;晩餐は夜中まで続きましたが、どんな楽しい時間でもいつかは終わりが来ます。あなたの封臣は過越祭の残りを祝うために家に帰っていきましたが、彼らのほとんどは今回の晩餐はわざわざ来るだけの価値があったと思っているようです。;;;;;;;;;;;;x
+EVTOPTA_SoA_504;今年は異郷の地にあっても、来年こそはエルサレムで！;;;;;;;;;;;;x
+EVTDESC_SoA_505;晩餐は夜中まで続きましたが、どんな楽しい時間でもいつかは終わりが来ます。あなたは過越祭の残りを祝うために家に帰りましたが、あなたも他の客も、今回の晩餐はわざわざ来るだけの価値があったと思っているようです。;;;;;;;;;;;;x
+opinion_passover;過越祭の晩餐を主催した;;;;;;;;;;;;x
+opinion_refused_passover;過越祭への招待を断る;;;;;;;;;;;;x
+celebrate_passover;過越祭を祝う;;;;;;;;;;;;x
+celebrate_passover_desc;過越祭はイスラエルの人々がエジプトの奴隷の身から自由になったことを記念して毎年行なわれる。今年の祭を思い出深いものにするために、封臣を招き、大いに贅沢をしましょう！;;;;;;;;;;;;x
+passover_celebrations;今年の過越祭の準備を始めます。\n;;;;;;;;;;;;x
+opinion_supported_cardinal;枢機卿選挙の支援;;;;;;;;;;;;x
+opinion_supported_pope;教皇選挙の支援;;;;;;;;;;;;x
+PREFERATI;選出者;;;;;;;;;;;;x
+PREFERATI_TOOLTIP;選出者は、現教皇から継承すると予想される枢機卿です。;;;;;;;;;;;;x
+POPE_VOTE_SCORE;§Y教皇適性: $SCORE$§!;;;;;;;;;;;;x
+CANDIDATE_SCORE;§Y枢機卿叙任点§!;;;;;;;;;;;;x
+CANDIDATE_OPINION;評価;;;;;;;;;;;;x
+CANDIDATE_REALM_POWER;世俗的権力;;;;;;;;;;;;x
+CANDIDATE_LIEGE_OPINION;主君の評価;;;;;;;;;;;;x
+CANDIDATE_CULTURE_GROUP;$GROUP$文化グループ;;;;;;;;;;;;x
+CANDIDATE_CULTURE;$CULTURE$文化;;;;;;;;;;;;x
+CANDIDATE_FAMOUS_DYNASTY;名門一族;;;;;;;;;;;;x
+CANDIDATE_VIRTUE;美徳(特性);;;;;;;;;;;;x
+CANDIDATE_SIN;大罪(特性);;;;;;;;;;;;x
+CANDIDATE_AT_CAPITAL;$LOCATION$にいる;;;;;;;;;;;;x
+HIGHPRIEST;大祭司;;;;;;;;;;;;x
+EVTTITLE_SOA_1609;聖墳墓同胞団;;;;;;;;;;;;x
+EVTDESC_SOA_1609;同胞団は、ミラノ勅令がローマ帝国中でキリスト教を合法化した313年に創立されました。以来、聖地のキリスト教の聖地や遺物を守るために絶え間なく働いてきました。 最近まで、同胞団は、主に平和的な方法でこれらの宗教的建造物を維持し保護するために任命された聖職者で構成されていました。 \n\n変化の風が世界中に広がるにつれて、この聖なる同胞団は今やますます軍事化されてきており、彼らの階級には本職の兵士も含まれるようになり、劇的に成長しました。 聖地を異教徒の侵略者から守るために彼らの献身の誓約は再定義され、今や正統派のキリスト教世界のすべての防衛を含むように拡大しました。;;;;;;;;;;;;x
+EVTOPTA_SOA_1609;賞賛に値する結果だ！;;;;;;;;;;;;x
+EVTOPTB_SOA_1609;聖職者は修道院に留まるべきだ;;;;;;;;;;;;x
+EVTDESC_SOA_1631;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「聖墳墓同胞団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1632;[This.GetTitledFirstName]が聖墳墓同胞団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1653;最も高潔なる[Root.GetTitledFirstName]よ、同胞団は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　パクス・クリスティ \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1654;聖墳墓同胞団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1661;陛下、この敵対的行為は全く不当なことです！我々同胞団はキリストにお仕えする事こそを目的としていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_the_holy_sepulchre;聖墳墓同胞団を追放;;;;;;;;;;;;x
+expel_the_holy_sepulchre_desc;私の領国から聖墳墓同胞団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_holy_sepulchre;聖墳墓同胞団に300¤を寄付;;;;;;;;;;;;x
+expelled_d_holy_sepulchre;聖墳墓同胞団を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_1709;聖アントニウス騎士団;;;;;;;;;;;;x
+EVTOPTA_SOA_1709;この騎士団は最終的に誓いを果たすことができる。;;;;;;;;;;;;x
+EVTOPTB_SOA_1709;聖... 誰だって？;;;;;;;;;;;;x
+EVTDESC_SOA_1731;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「聖アントニウス騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1732;[This.GetTitledFirstName]が聖アントニウス騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1754;聖アントニウス騎士団は[Root.GetName]に城を建てた！;;;;;;;;;;;;x
+expel_d_saint_anthony;聖アントニウス騎士団を追放;;;;;;;;;;;;x
+expel_d_saint_anthony_desc;私の領国から聖アントニウス騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_saint_anthony;聖アントニウス騎士団に300¤を寄付;;;;;;;;;;;;x
+expelled_d_saint_anthony;聖アントニウス騎士団を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_1809;不死隊;;;;;;;;;;;;x
+EVTOPTA_SOA_1809;伝説の戦士達が戻ってきた！;;;;;;;;;;;;x
+EVTOPTB_SOA_1809;不死隊？ふん、過去の遺物だな。;;;;;;;;;;;;x
+EVTDESC_SOA_1831;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「不死隊」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1832;[This.GetTitledFirstName]が不死隊の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1853;最も高潔なる[Root.GetTitledFirstName]よ、「不死隊」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n ゾロアスターの御心のままに \n 隊長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1854;不死隊が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1861;陛下、この敵対的行為は全く不当なことです！我々不死隊は預言者ゾロアスターの教えを実行するのみですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 隊長[From.GetFirstName];;;;;;;;;;;;x
+expel_immortals;不死隊を追放;;;;;;;;;;;;x
+expel_immortals_desc;私の領国から不死隊を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_the_immortals;不死隊に300¤を寄付;;;;;;;;;;;;x
+expelled_d_immortals;不死隊を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_1909;熱心党;;;;;;;;;;;;x
+EVTDESC_SOA_1909;The Third Temple now stands tall on Temple Mount in Jerusalem, and several pious Jews have formed a new holy order modelled after the ancient Zealots to protect Judaism against its enemies. Just like the Jewish sect that is their namesake, these new Zealots will not shy away from violence against those they feel are deserving.\n\nSome within the Jewish religious community have accused the Zealots of taking their faith to extreme levels, but the ranks of this new order continue to swell as Jewish exiles returning to the Promised Land flock to their banner. Their numbers now include everyone from uneducated peasants to veteran soldiers from distant European wars.;;;;;;;;;;;;x
+EVTOPTA_SOA_1909;ユダヤ教の防衛は大歓迎。;;;;;;;;;;;;x
+EVTOPTB_SOA_1909;急進派も過激派も、同じようなものだ！;;;;;;;;;;;;x
+EVTDESC_SOA_1931;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「熱心党」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_1932;[This.GetTitledFirstName]が熱心党の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_1953;最も高潔なる[Root.GetTitledFirstName]よ、「熱心党」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n マサダを忘れるなかれ！ \n 党首[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1954;熱心党が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_1961;陛下、この敵対的行為は全く不当なことです！我々熱心党は数々の敵からユダヤ教を守り抜く事のみを目的としていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 党首[From.GetFirstName];;;;;;;;;;;;x
+expel_zealots;熱心党を追放;;;;;;;;;;;;x
+expel_zealots_desc;私の領国から熱心党を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_the_zealots;熱心党に300¤を寄付;;;;;;;;;;;;x
+expelled_d_zealots;熱心党を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2009;天上神党;;;;;;;;;;;;x
+EVTDESC_SOA_2009;テングリ教の天空神はすべてを見通しているが、地上では人間の遣いを必要としている。天上神党はテングリ教の改革をきっかけに設立された新しい宗教騎士団であり、邪教徒と闘い天空神の意志を広げるために馬に跨る。騎乗する彼らの轟音は空の雷のようなものだ。この音を聞いただけで改宗したものもいるという話だ。;;;;;;;;;;;;x
+EVTOPTA_SOA_2009;天空神の名の下に前進しろ！;;;;;;;;;;;;x
+EVTOPTB_SOA_2009;次は何をしようとしているんだ？この野蛮人どもは;;;;;;;;;;;;x
+EVTDESC_SOA_2031;私の[GetFromRelation]である[From.GetTitledFirstName]が、異教徒と戦う「天上神党」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2041;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation will aid us greatly as we ride into battle against the enemies of the Sky-Father! Upon my honor, I shall name one of my finest steeds after you!\n\nFor the Sky-Father!\nWarchief [From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2032;[This.GetTitledFirstName]が天上神党の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2053;最も高潔なる[Root.GetTitledFirstName]よ、「天上神党」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n 天上神のために！ \n 党首[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2054;天上神党が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2061;陛下、この敵対的行為は全く不当なことです！我々天上神党は天上神の敵と戦う事こそを目的としていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 党首[From.GetFirstName];;;;;;;;;;;;x
+expel_sky_lords;天上神党を追放;;;;;;;;;;;;x
+expel_sky_lords_desc;私の領国から天上神党を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_sky_lords;天上神党に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_sky_lords_desc;I can donate money to the Lords of the Sky in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Tengri Priesthood.;;;;;;;;;;;;x
+expelled_d_sky_lords;天上神党を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2109;精霊の守護者;;;;;;;;;;;;x
+EVTDESC_SOA_2109;アフリカ原始宗教の多くの宗教体系を一つに纏め上げたことで、諸部族は最高の戦士たちを一つの宗教騎士団に纏めることに同意した。彼らは精霊の守護者を自称して、精霊とその信者に仇なす物から守ると誓った。;;;;;;;;;;;;x
+EVTOPTA_SOA_2109;精霊に祝福あれ！;;;;;;;;;;;;x
+EVTDESC_SOA_2131;私の[GetFromRelation]である[From.GetTitledFirstName]が、信仰を守る勇者である「精霊の守護者」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2141;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation shall aid us greatly in our unceasing efforts to defend the Spirits and their faithful believers! You have my friendship, as well as that of the priesthood.\n\nMay the Spirits walk with you,\nWarchief [From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2132;[This.GetTitledFirstName]が精霊の守護者の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2153;最も高潔なる[Root.GetTitledFirstName]よ、「精霊の守護者」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　精霊があなたと共に歩まんことを \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2154;精霊の守護者が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2161;陛下、この敵対的行為は全く不当なことです！我々精霊の守護者は精霊と共に歩み、彼らを護ることに命を捧げていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_spirit_guardians;精霊の守護者を追放;;;;;;;;;;;;x
+expel_spirit_guardians_desc;私の領国から魂の守護団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_spirit_guardians;精霊の守護者に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_spirit_guardians_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、精霊の守護者にお金を寄付します。;;;;;;;;;;;;x
+expelled_d_spirit_guardians;精霊の守護者を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2209;ペルーン戦士団;;;;;;;;;;;;x
+EVTDESC_SOA_2209;The Slavic faith has been reformed and this has led to a religious fervor throughout the lands of the Slavs the likes of which has never been seen before. Many of the greatest champions have come together to form a new Slavic holy order. They call themselves the Warriors of Perun, the god of thunder, and have all taken vows to defend the Slavic faith and its believers to their dying breaths.;;;;;;;;;;;;x
+EVTOPTA_SOA_2209;ペルーンの敵たちよ、震えおののくがいい！;;;;;;;;;;;;x
+EVTDESC_SOA_2231;私の[GetFromRelation]である[From.GetTitledFirstName]が、神の敵を討ち滅ぼす「ペルーン戦士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2241;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、あなたの非常に寛大なる寄付が我々のペルーンの意志を果たす探求の大きな助けとなるでしょう！私のあなたへの友情は、聖職者たちへ向けるそれと同じです。 \n\n ペルーンの加護ぞあれ。 \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2232;[This.GetTitledFirstName]がペルーン戦士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2253;最も高潔なる[Root.GetTitledFirstName]よ、「ペルーン戦士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　ペルーンの加護ぞあれ \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2254;ペルーン戦士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2261;陛下、この敵対的行為は全く不当なことです！我々ペルーン戦士団は神々にお仕えする事こそを喜びとしていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_warriors_perun;ペルーン戦士団を追放;;;;;;;;;;;;x
+expel_warriors_perun_desc;私の領国からペルーン戦士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_warriors_perun;ペルーン戦士団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_warriors_perun_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、ペルーン戦士団にお金を寄付します。;;;;;;;;;;;;x
+expelled_d_warriors_perun;ペルーン戦士団を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2309;ペルクナスに選ばれし者達;;;;;;;;;;;;x
+EVTDESC_SOA_2309;雷神ペルクナスの託宣である！現代の世界に立ち向かうためロムヴァ宗教の改革を行った際、数人の戦士たちが歩み出て、ペルクナスより宗教騎士団を創設せよと仰せつかったと述べた。彼らは「ペルクナスの選ばれし者達」と自称し、ロムヴァの信仰を護り、神々の敵の頭蓋にその怒りを叩きつけることを誓っている。;;;;;;;;;;;;x
+EVTOPTA_SOA_2309;落雷の如く、彼らは敵を打ち砕くであろう！;;;;;;;;;;;;x
+EVTDESC_SOA_2331;私の[GetFromRelation]である[From.GetTitledFirstName]が、不信心者と戦う「ペルクナスに選ばれし者達」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2341;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、あなたの非常に寛大なる寄付が我々の ペルクナスの意志を果たす探求の大きな助けとなるでしょう！私のあなたへの友情は、聖職者たちへ向けるそれと同じです。 \n\n ペルクナスの加護ぞあれ。 \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2332;[This.GetTitledFirstName]がペルクナスに選ばれし者達の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2353;最も高潔なる[Root.GetTitledFirstName]よ、「ペルクナスに選ばれし者達」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　ペルクナスの加護ぞあれ \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2354;ペルナクスに選ばれし者達が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2361;陛下、この敵対的行為は全く不当なことです！｢ペルクナスに選ばれし者達」は神にお仕えする事こそが喜びですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_chosen_perkunas;ペルクナスに選ばれし者達を追放;;;;;;;;;;;;x
+expel_chosen_perkunas_desc;私の領国からペルナクスに選ばれし者達を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_chosen_perkunas;ペルクナスに選ばれし者達に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_chosen_perkunas_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、ペルクナスに選ばれし者達にお金を寄付します。;;;;;;;;;;;;x
+expelled_d_chosen_perkunas;ペルクナスに選ばれし者達を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2409;カレヴァの息子達;;;;;;;;;;;;x
+EVTDESC_SOA_2409;新たなフィンランドの宗教騎士団は改革されたスオメヌスコ多神教の継続と保護のためにその身を捧げた。この騎士団の戦士は「カレヴァの息子達」と呼ばれ、信仰の真実を否定する人々との戦いに備えている。多くのフィンランド人が彼らを古代神話の英雄として尊敬しており、騎士団の新兵が不足することはない。;;;;;;;;;;;;x
+EVTOPTA_SOA_2409;まるで神話の英雄のようだ！;;;;;;;;;;;;x
+EVTDESC_SOA_2431;私の[GetFromRelation]である[From.GetTitledFirstName]が、異教徒と戦う英雄である「カレヴァの息子達」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2441;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、あなたの非常に寛大なる寄付が我々のカレヴァの意志を果たす探求の大きな助けとなるでしょう！私のあなたへの友情は、聖職者たちへ向けるそれと同じです。 \n\n 神々の加護ぞあれ。 \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2432;[This.GetTitledFirstName]がカレヴァの息子達の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2453;最も高潔なる[Root.GetTitledFirstName]よ、「カレヴァの息子達」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　神々の加護ぞあれ。 \n 団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2454;カレヴァの息子達が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2461;陛下、この敵対的行為は全く不当なことです！｢カレヴァの息子達」は神々に奉仕する事こそを喜びとしていますが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_sons_kaleva;カレヴァの息子達を追放する;;;;;;;;;;;;x
+expel_sons_kaleva_desc;私の領国から「カレヴァの息子達」を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_sons_kaleva;カレヴァの息子達に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_sons_kaleva_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、カレヴァの息子達にお金を寄付します。;;;;;;;;;;;;x
+expelled_d_sons_kaleva;カレヴァの息子達を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2509;ウィツィロポチトリ教団;;;;;;;;;;;;x
+EVTDESC_SOA_2509;The Easterners across the sea have more religions than a parrot has feathers, but the Aztec faith has now been reformed and reorganized to better stand against the heathens. Several warrior-priests have also founded a new holy order: the Cult of Huitzilopochtli. Devoted to the Aztec deity of war, this cult is bent on the forceful conversion of the world – preferably with lots of human sacrifice in the process.;;;;;;;;;;;;x
+EVTOPTA_SOA_2509;貴君の犠牲が多く凄絶なものであらんことを。;;;;;;;;;;;;x
+EVTDESC_SOA_2531;私の[GetFromRelation]である[From.GetTitledFirstName]が、すべての異教徒や不信心者の心臓を神に捧げる「ウィツィロポチトリ教団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTDESC_SOA_2541;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation shall aid us greatly in organizing the sacrifice rituals that Huitzilopochtli demand! You have my friendship, as well as that of the priesthood.\n\nHuitzilopochtli's faithful servant,\nHigh Priest [From.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2532;[This.GetTitledFirstName]がウィツィロポチトリ教団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2553;最も高潔なる[Root.GetTitledFirstName]よ、ウィツィロポチトリ教団は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　ウィツィロポチトリの忠実なる下僕、 \n 大導師[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2554;ウィツィロポチトリ教団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2561;陛下、この敵対的行為は全く不当なことです！｢ウィツィロポチトリ教団」はウィツィロポチトリの御心に従うのみですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n\n 団長[From.GetFirstName];;;;;;;;;;;;x
+expel_huitzilopochtli;ウィツィロポチトリ教団を追放;;;;;;;;;;;;x
+expel_huitzilopochtli_desc;私の領国からウィツロポチトリ教団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_huitzilopochtli;ウィツィロポチトリ教団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_huitzilopochtli_desc;I can donate money to the Cult of Huitzilopochtli in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Priesthood.;;;;;;;;;;;;x
+expelled_d_huitzilopochtli;ウィツィロポチトリ教団を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2609;サンティアゴ騎士団;;;;;;;;;;;;x
+EVTOPTA_SOA_2609;キリストの戦士よ、勇敢なれ！;;;;;;;;;;;;x
+EVTOPTB_SOA_2609;心配だ……;;;;;;;;;;;;x
+EVTDESC_SOA_2631;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「サンティアゴ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2632;[This.GetTitledFirstName]がサンティアゴ騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2653;最も高潔なる[Root.GetTitledFirstName]よ、「サンティアゴ騎士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　パクス・クリスティ \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2654;サンティアゴ騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2661;陛下、この敵対的行為は全く不当なことです！｢サンティアゴ騎士団」はキリストにお仕えする者ですが、それを疑うというのでしょうか？ \n 悲憤をこめて \n\n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+expel_knights_santiago;サンティアゴ騎士団を追放;;;;;;;;;;;;x
+expel_knights_santiago_desc;私の領国からサンティアゴ騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_knights_santiago;サンティアゴ騎士団に300¤を寄付;;;;;;;;;;;;x
+expelled_d_knights_santiago;サンティアゴ騎士団を追放;;;;;;;;;;;;x
+EVTTITLE_SOA_2709;カラトラヴァ騎士団;;;;;;;;;;;;x
+EVTOPTA_SOA_2709;彼らの戦いは勝利を以て終わるであろう！;;;;;;;;;;;;x
+EVTOPTB_SOA_2709;More sheep to the slaughter!;;;;;;;;;;;;x
+EVTDESC_SOA_2731;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「カラトラヴァ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2732;[This.GetTitledFirstName]がカラトラヴァ騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2753;最も高潔なる[Root.GetTitledFirstName]よ、「カラトラヴァ騎士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　パクス・クリスティ \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2754;カラトラヴァ騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2761;陛下、この敵対的行為は全く不当なことです！｢カラトラヴァ騎士団」はキリストにお仕えする者ですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+expel_knights_calatrava;カラトラヴァ騎士団を追放;;;;;;;;;;;;x
+expel_knights_calatrava_desc;私の領国からカラトラヴァ騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
+donate_money_to_knights_calatrava;カラトヴァ騎士団に300¤を寄付;;;;;;;;;;;;x
+expelled_d_knights_calatrava;カラトヴァ騎士団を追放;;;;;;;;;;;;x
+catholic_pilgrimage;巡礼に行く;;;;;;;;;;;;x
+catholic_pilgrimage_desc;Some faithful Christians choose to make a great pilgrimage at some point in their lives. The devout pilgrim is prepared to travel long distances in order to visit the holiest places of the faith.;;;;;;;;;;;;x
+on_pilgrimage;巡礼中;;;;;;;;;;;;x
+on_pilgrimage_desc;この人物は大いなる巡礼の旅路の途上にいます。;;;;;;;;;;;;x
+appeased_religious_desc;The people living in this county feel that they and their ruler are blessed by God. They are therefore less likely to revolt.;;;;;;;;;;;;x
+defied_church;あなたは聖なる教会の意志に反している。彼らは満足していない。;;;;;;;;;;;;x
+owns_relic;聖遺物を所有している;;;;;;;;;;;;x
+EVTDESC_SoA_5000;私はキリスト教の聖地の一つに、神の恵みを求めて巡礼に行こうと思う。;;;;;;;;;;;;x
+EVTOPTA_SoA_5000;旅の計画を作り始める。;;;;;;;;;;;;x
+EVTDESC_SoA_5011;あなたが巡礼に訪れる事ができる聖地はいくつかあります。そのどれもが教会によって神聖だと考えられていますが、近めの目的地ほど安全な旅となると考えられます。;;;;;;;;;;;;x
+EVTOPTA_SoA_5011;私はエルサレムへ向かい、聖地の素晴らしさをこの目にしたい。;;;;;;;;;;;;x
+EVTOPTB_SoA_5011;私はコンステタンティノープルへ向かい、大聖堂をこの目にしたい。;;;;;;;;;;;;x
+EVTOPTC_SoA_5011;私は使徒たちのように、アンティオキアへ向かいたい。;;;;;;;;;;;;x
+EVTOPTD_SoA_5011;私は契約の箱があると言われるアスクムへ旅をしたい。;;;;;;;;;;;;x
+EVTDESC_SoA_5016;私は[Root.Capital.GetName]にて暮らすよう祝福を受けたが、巡礼となれば最も聖なる地へ向かわなければならないだろう……エルサレムに！;;;;;;;;;;;;x
+EVTOPTA_SoA_5016;旅の計画を作り始める。;;;;;;;;;;;;x
+EVTDESC_SoA_5017;私はパレスチナの聖地のそばに住むよう祝福を受けたが、ならば使徒たちの足跡をたどり、ローマへ巡礼するとしよう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5017;旅の計画を作り始める。;;;;;;;;;;;;x
+EVTDESC_SoA_5018;あなたが巡礼に訪れる事ができる聖地は多様でたくさんあります。そのどれもが教会によって神聖だと考えられていますが、近めの目的地ほど安全な旅となると考えられます。;;;;;;;;;;;;x
+EVTOPTA_SoA_5018;西方にある聖地を訪れるべきだ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5018;古代遺跡の一つ、エルサレムやローマに行く。;;;;;;;;;;;;x
+EVTDESC_SoA_5019;西方への巡礼は、エルサレムやローマへの旅と同じくらいの価値がある。;;;;;;;;;;;;x
+EVTOPTA_SoA_5019;カンタベリーにあるトマス＝ベケットの墓を訪問する。;;;;;;;;;;;;x
+EVTOPTB_SoA_5019;東方の三王の聖遺物を見るためにケルンを訪問する。;;;;;;;;;;;;x
+EVTOPTC_SoA_5019;サンティエゴにある聖ヤコブの墓を訪問する。;;;;;;;;;;;;x
+EVTDESC_SoA_5020;エルサレムとローマは[catholic.GetName]教会にとって最も古く神聖な場所だ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5020;聖地へと旅をしよう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5020;ローマに行って使徒たちの墓を見ようと思う。;;;;;;;;;;;;x
+EVTDESC_SoA_5021;荷造りは終わり、すべては計画通りに進んでいる。もうすぐ私はカンタベリーの大市とトマス・ベケットの墓をこの目で見ることだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5021;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5022;荷造りは終わり、すべては計画通りに進んでいる。旅の果てには聖地が私を待っているのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5022;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5023;荷造りは終わり、すべては計画通りに進んでいる。もうすぐ私はケルンと東方の三王の聖骨箱をこの目で見ることだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5023;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5024;荷造りは終わり、すべては計画通りに進んでいる。もうすぐ私は永遠の都ローマの大通りを歩き回って、そのすべての驚異を目にすることになるのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5024;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5025;荷造りは終わり、すべては計画通りに進んでいる。聖ヤコブの巡礼路をたどる準備は万全だ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5025;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5094;荷造りは終わり、すべては計画通りに進んでいる。もうすぐ私はボスポラス海峡の岸辺に立ってコンスタンティノープルの驚異をこの目で見ることになるのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5094;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5095;荷造りは終わり、すべては計画通りに進んでいる。もうすぐ私は、アフリカのキリスト教世界で最も神聖な地である、古の街アクスムをこの目で見ることになるのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5095;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5096;荷造りは終わり、すべては計画通りに進んでいる。古のアンティオキアが私を待っているのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5096;さあ、旅の始まりだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5026;数日間、雨が降り注がれ、道路を通って旅をすることはほぼ不可能だ。どうして主は忠実な巡礼者たちを罰するのだろうか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5026;試練に耐える者は幸いである。;;;;;;;;;;;;x
+EVTOPTB_SoA_5026;馬鹿げている。これなら家に居たほうがマシだった！;;;;;;;;;;;;x
+EVTDESC_SoA_5027;目の前に広がる美しい渓谷を見渡す。ここに谷があるべきではないという事実さえなければ、それは素晴らしい瞬間だった。あなたはなじみのない土地の巡礼者であり、自分がどこにいるのかわからなくなった。;;;;;;;;;;;;x
+EVTOPTA_SoA_5027;方角を教えてくれた暗愚な農民の言葉に耳を傾けてさえいなければ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5027;方角を教えてくれた農民の言葉にもっと耳を傾けてさえいれば。;;;;;;;;;;;;x
+EVTNAME_SoA_5028;夜も更けて;;;;;;;;;;;;x
+EVTDESC_SoA_5028;巡礼宿での夜、あなたは美しい夢を見た。深い森の中を、すばらしい自然の音や香りに包まれて歩いていた。リスが小径を横切り、木の上では鳥が歌っている。さらに歩みを進めると、妙な匂いを感じるようになった。よく知った匂いだが、それが何であったかはっきりとはわからない。うーむ、たしかに知っているはずだ、とても大事なものだ……ええと、あれは……たしか……火だ！はっと飛び起きた。部屋が熱い、炎がパチパチとはぜる音がする、少し遅れて誰かの叫び声が聞こえた。間違いない、火事だ！;;;;;;;;;;;;x
+EVTOPTA_SoA_5028;だれか！火を消してくれ！;;;;;;;;;;;;x
+EVTOPTB_SoA_5028;自分の身を守り他の人に対処を任せます。;;;;;;;;;;;;x
+EVTDESC_SoA_5029;ここは無法者がはびこる街道といわれているが、それでも、あなたは少々運が悪かったと思った。強盗どもは人数が多く武装しており、ここを通るのを許してほしければ、「通行料」を払うように要求してきたのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5029;払ってやる。;;;;;;;;;;;;x
+EVTOPTB_SoA_5029;この悪党どもにくれてやる物は…剣だけだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5030;古い木造の橋は、その日、多くの巡礼者を通行させた。その橋は、あなたが歩く度にギシギシ軋んだ音をたてた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5030;止まるんじゃない、この橋はまだ大丈夫だ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5030;立ち止まって、修理を手伝おう。;;;;;;;;;;;;x
+EVTOPTC_SoA_5030;巡礼者たちは石橋を渡るに値する。私が、負担して建てよう。;;;;;;;;;;;;x
+EVTDESC_SoA_5031;巡礼のせいか、あなたは横になっても眠ることができません。巡礼は肉体だけでなく内なる心の旅でもあります。ですが、あなたの旅の行く先に確信は持てますか?確実を期したいですか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5031;心の赴くままに向かおう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5031;地図を見れば大丈夫。もう寝る時間だ!;;;;;;;;;;;;x
+EVTDESC_SoA_5032;人里離れた長い道程を歩いていると、男が道に横たわっていた。彼は強盗に遭い、酷く殴られたようだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5032;傷を塞いで、宿屋に連れて行き、治療費を払ってやろう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5032;放って置こう。どっちにしろ死ぬだろう。;;;;;;;;;;;;x
+EVTNAME_SoA_5033;洪水;;;;;;;;;;;;x
+EVTDESC_SoA_5033;近頃、この地域には大雨が降っており、渡ろうとしていた谷は大きな湖へと変貌した。水位はまだ上昇しており、横断するために大きな筏を造り始める。ほぼ完成した頃、農民の一団が現れ、家に帰るために谷を渡る必要があると説明した。彼らは洪水から助け出した動物を連れている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5033;私は人であれ獣であれ、筏に乗せるつもりはない。;;;;;;;;;;;;x
+EVTOPTB_SoA_5033;農民とすべての動物を連れて行く。;;;;;;;;;;;;x
+EVTOPTC_SoA_5033;農民に犬と猫だけ連れて行かせる。;;;;;;;;;;;;x
+noahs_ark_cats_dogs;もう雨なんて降らないほうがいいな。;;;;;;;;;;;;x
+EVTDESC_SoA_5034;夜中の野営地に、巡礼者の大きな一団が現れた。彼らは遠くまで旅をし、空腹で食料も尽きていた。自分の食料を見るが、パンが半ダース以上と少しの魚がわずかに残っていた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5034;周りに分け与えよう、これは見た目以上に食べ応えがある。;;;;;;;;;;;;x
+EVTOPTB_SoA_5034;申し訳ないが、皆に分け与えるほど持っていない。;;;;;;;;;;;;x
+EVTDESC_SoA_5035;旅の最後の数日間を水上で過ごした。航海中の船は風によって穏やかに揺れ動き、船員は業務に取り掛かる。船の中にいることは、地上と全く異なっており、ここでの作業用の不思議な言葉が飛び交っている。スターボード？アバフト？アグラウンド？それはどういう意味だろうか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5035;これは魅力的だ。学ぶ機会は生かさなければならない。;;;;;;;;;;;;x
+EVTOPTB_SoA_5035;私には関係ない。祈りに時間を費やすつもりだ。;;;;;;;;;;;;x
+EVTDESC_SoA_5036;貴方は他の巡礼者と川が交差している場所の近くにキャンプを設営していたが一旦手を止め、上流付近に新しい橋を建設している大工の一団を観察した。貴方は近づき、橋のアーチが既に半分完成していることがわかった。大工の親方は貴方が興味を示していることに気づき、使っている建築技術について教えようかと提案してきた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5036;これについて詳しく教えてくれ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5036;貴族は城を築くのだ。このような農民の技術は必要ない。;;;;;;;;;;;;x
+EVTDESC_SoA_5037;巡礼の旅路は長く過酷だ。脚が痛む、背中もだ。城にいたときとはほど遠い、食べ物かどうかすら怪しいものしか食べられない。何よりも四六時中寒さに震えるのは耐えがたい。巡礼というものは、私には向いていないのではないか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5037;信仰を貫き通してみせるぞ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5037;これはよくない考えだ。しばらく留まり休息しよう。;;;;;;;;;;;;x
+EVTDESC_SoA_5038;貴方が巡礼の旅路を辿って小さな村を通り過ぎようとした時、老婆が貴方に近づいてきた。彼女は貴方を巡礼者だと認識し、娘とその家族が貴方の目的地付近に住んでいることを説明した。彼女らは厳しい時代に苦しんでおり、大金の入った袋を届けて欲しいと頼んできた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5038;もちろん助けよう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5038;もちろん助けよう。(秘かに自分のお金を加える);;;;;;;;;;;;x
+EVTOPTC_SoA_5038;もちろん助けよう。(嘘をつき、全て自分のものにする);;;;;;;;;;;;x
+EVTOPTD_SoA_5038;私には関係ないことだ。;;;;;;;;;;;;x
+EVTDESC_SoA_5039;澄んだ空に、はっきりと明るく輝く星があった。毎晩、その星を見ることができ、その位置は巡礼地の方角とほぼ一致している。;;;;;;;;;;;;x
+EVTOPTA_SoA_5039;主は私に道を示している。;;;;;;;;;;;;x
+EVTOPTB_SoA_5039;明るい星だな。だからなんだ？;;;;;;;;;;;;x
+EVTNAME_SoA_5045;馬に乗った者たちが近づいてきた…;;;;;;;;;;;;x
+EVTDESC_SoA_5045;道の向こうから蹄の轟く音が聞こえてきた。巡礼者たちは、もうもうと巻き上がる砂ぼこりに不安そうな様子を見せている。騎士たちが近づいてきて、彼らが身にまとう鋼の鎧と鉄で覆われた槍の先端は、陽の光を照り返して輝いている。皆は緊張していたが、武装した男たちの上に修道騎士団の旗がはためいているのが見えると、辺りから安堵のため息が聞こえてきた。騎士たちは巡礼者たちの前で停止すると、丁重にここからの旅に同行することを提案した。;;;;;;;;;;;;x
+EVTOPTA_SoA_5045; [Root.Religion.GetRandomGodName]に賞賛あれ！護衛を心から歓迎する！;;;;;;;;;;;;x
+EVTOPTB_SoA_5045;どこからともなく現れた武装した連中など信用すべきでない。;;;;;;;;;;;;x
+EVTDESC_SoA_5046;旅路での長い一日が終わり、日が暮れ始めたので、一行は所々で荷を下ろして焚き火を起こし始めた。あなたはその焚き火の周りに、一日じゅう騎乗した疲れを癒している修道騎士たちの一団を見つけた。彼らは一緒に食事をしながら語り合わないかと誘ってきた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5046;騎士たちと神学について話し合う。;;;;;;;;;;;;x
+EVTOPTB_SoA_5046;戦いでの経験について語り合う。;;;;;;;;;;;;x
+EVTDESC_SoA_5047;最後の二、三日間、あなたは自分と同じ方向へと旅する修道騎士の一人と同行することになった。あなたは活発で楽しい会話を楽しみ、そして互いに多くの共通したところがあることに気づいた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5047;こんな故郷から遠く離れた地で、友人ができるとは思わなかった。;;;;;;;;;;;;x
+EVTOPTB_SoA_5047;私は友人など必要としない。;;;;;;;;;;;;x
+gain_friend;[Root.GetTitledName]は新しい友人を得ます。;;;;;;;;;;;;x
+EVTDESC_SoA_5087;[From.GetTitledName]と友人になりました。;;;;;;;;;;;;x
+EVTOPTA_SoA_5087;素晴らしい！;;;;;;;;;;;;x
+EVTNAME_SoA_5050;カンタベリー;;;;;;;;;;;;x
+EVTDESC_SoA_5050;あなたはついにカンタベリーに到着した！ そこはイングランド南東部のケント州にあり、ストゥール川のほとりに位置する美しい街だ。街中とそれを取り巻く牧草地はヨーロッパじゅうから訪れた巡礼者でいっぱいだ。あなたは、かの有名な聖堂を拝観し、その聖堂内で酷い殺されかたをした殉教者トマス・ベケットの墓所をよく見ようと、人混みをかき分けて進み始めた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5050;緑あふれる豊かな土地だ！;;;;;;;;;;;;x
+EVTNAME_SoA_5051;エルサレム;;;;;;;;;;;;x
+EVTDESC_SoA_5051;あなたはついにエルサレムに到着した！ あなたはオリーブ山を通り過ぎ、城門に入っていくと、たちまちおそろしく長い旅路をたどってきたという感慨に襲われた。街は様々な人種と宗教を持つ人々でいっぱいであり、街の空気は嗅ぎ慣れない香辛料と異国の植物の濃厚な匂いがしている。あなたは今やイエスのたどった苦難の道と他の聖所の近くにいることに高ぶりを覚えながら、人ごみと動物の群れをかき分けて進んでいく。あなたはベツレヘムの降誕教会も訪れるつもりであるが、まずは何はともあれ宿泊場所を見つける必要がある。いくらなんでも、馬小屋で寝なければならなくなるのは御免ですよね？;;;;;;;;;;;;x
+EVTOPTA_SoA_5051;ああ、エルサレムよ、エルサレム！;;;;;;;;;;;;x
+EVTNAME_SoA_5052;ケルン;;;;;;;;;;;;x
+EVTDESC_SoA_5052;あなたはついにケルンに到着した！ 三王の聖遺物を納める巨大な聖堂はまだ建設中だが、それでもなお、それは目を見張るような建造物である。街は広大なライン河のほとりにあり、そこでは、せわしない商人たちに交じって多くの巡礼者がひしめいている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5052;三王の聖骨箱に祈りを捧げるとしよう！;;;;;;;;;;;;x
+EVTNAME_SoA_5053;ローマ;;;;;;;;;;;;x
+EVTDESC_SoA_5053;あなたはついにローマに到着した！ あなたはこの永遠の都に入り、通りを進むにつれて、側を通り過ぎていく多くの古代の建築と記念碑に感銘を受けた。あまりに強い印象を受けたので、あなたはこの都市の権威が絶頂に達していた時代に、伝道の使命を帯びて初めてこの街に来た使徒たちが、これらを見てどう思ったのかを想像しようとした。多くの地区は住民が減ってしまったようだが、それでもこの街はテヴェレ川周辺から集めた膨大な人口を誇っている。あなたが、なにより先に訪れたい聖所はサン・ピエトロ大聖堂とサン・パオロ・フオーリ・レ・ムーラ大聖堂である。これらは他の初期の教会堂や聖所と同様に、殉教者たちと関わりがある。人混みが激しくなってきたので、あなたは混雑のせいで道に迷いたくないなと思いながら、町の中心へと歩き始めた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5053;全ての道はローマに通ず！;;;;;;;;;;;;x
+EVTNAME_SoA_5054;サンティアゴ;;;;;;;;;;;;x
+EVTDESC_SoA_5054;あなたはついに西欧で最も古い重要な巡礼地、サンティアゴに到着した。そこは大西洋に近い内陸の街であり、その起源は少なくともローマ帝国の頃にまでさかのぼるといわれている。噂に名高い聖ヤコブの道は旅をするにあまりに長い道であり、あなたは多くの町や村を通り過ぎてここまでたどり着いたのだ。\n\n伝説によると、聖ヤコブの遺体はエルサレムから船でここまで運ばれたとされている。船は海のただ中で嵐のために行方不明となってしまったが、しばらくして奇跡によってホタテガイに覆われて陸に打ち上げられたのだ。このため、ホタテガイの貝殻は巡礼者たちのあいだで人気のあるお土産となっている。\n\nあなたは街の中心へと人混みのなかを進みながら、この聖地にまつわる伝説のことが頭から離れずにいる。;;;;;;;;;;;;x
+EVTOPTA_SoA_5054;貝殻をお土産にするのを忘れないようにしないとな！;;;;;;;;;;;;x
+EVTNAME_SoA_5097;コンスタンティノープル;;;;;;;;;;;;x
+EVTDESC_SoA_5097;あなたはついにコンスタンティノープルに到着した！ この街は途方もなく大きく、これに較べるとあなたが今まで見たあらゆる街が小さいものに思えててくる。そこにはあなたの感覚を圧倒してめまいを起こさせるほどの、人々の喧噪に盛んな商取引に、おびただしい音と臭いにあふれていている。あなたは宿泊する場所を探すために通りを歩くうちに、行く先々で姿を見せる古代の教会と記念碑の数と大きさに強い印象を受けた。\n\nあなたは群衆をかき分けながら、なんとかして、ハギア・ソフィア大聖堂や聖ゲオルギウス教会のような名高い教会堂の数々を拝観したいものだとしきりに考えている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5097;ああ、コンスタンティヌスの都よ！;;;;;;;;;;;;x
+EVTNAME_SoA_5098;アクスム;;;;;;;;;;;;x
+EVTDESC_SoA_5098;あなたはついにアクスムに到着した！ ここは古の時代からあるキリスト教信仰の中心地の一つで、シオンのマリア教会には修道士たちの守護のもと、契約の聖櫃が納められている。もはやかつてのような大都市ではないとはいえ、アクスムの街は今でも巡礼者の集まる重要な土地であり、あなたは街中では多くの旅行者を目にしている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5098;古の都アクスム、なんと美しい！;;;;;;;;;;;;x
+EVTNAME_SoA_5099;アンティオキア;;;;;;;;;;;;x
+EVTDESC_SoA_5099;あなたはついにアンティオキアに到着した！ ここは実際に人々が自ら「キリスト教徒」と名乗りはじめた地であり、キリスト教信仰における最古の街である。聖イグナティオスと同様に、聖ペテロと聖パウロは二人ともこの街で活動した。ここでキリスト教が形成されて明確な形をとるようになり、その後に西へ、ローマとその彼方へと広がっていったのである。\n\nあなたは自分の足で古のアンティオキアの大通りを歩きながら、自らを取り巻く空気に歴史と伝統を感じとっている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5099;偉大なる古の街だ！;;;;;;;;;;;;x
+EVTDESC_SoA_5056;あなたはこの聖地を巡り歩きながら、神の神秘と本質について思いを巡らせている。教会の教えは今では自分にとってしっくり来ないのだ。ここに保管されている聖典にある知識を思い浮べてみるのだ！;;;;;;;;;;;;x
+EVTOPTA_SoA_5056;研究を通じて天国へ至るのだ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5056;いや、私は祈りに時を費やそう。;;;;;;;;;;;;x
+EVTDESC_SoA_5057;聖人たち、この聖地、それらすべてがこれほどまで私の魂を動かすとは！ これまでの私の人生はすべて、この旅のための準備に過ぎなかったことを私はいま理解した。 主の光が哀れな罪人である私の中で強く輝いているというのはなんと驚くべきことだろうか。 これからは、私は常に主のために尽くすつもりだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5057;[Root.Religion.GetRandomGodName]を讃えよ！;;;;;;;;;;;;x
+EVTDESC_SoA_5058;聖地を見るためにはるばる旅をしたのに、現実は想像を大きく下回った。大勢の人、いくつかの教会、そして数個の骨。どれも極めて大きな疑念を抱かせる。ここに来る前に、他の巡礼者から荘厳な物語を聞いたが、どうも彼らはこの地の話をしたわけではないようだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5058;なんだこれは？;;;;;;;;;;;;x
+EVTDESC_SoA_5059;聖なる神殿を訪れた際に、数人の司祭たちが神学の議論をしているのをふと耳にした。立ち止まって彼らの会話に混ざり、自分が得意としているいくつかの論題に話を広げてみたところ、彼らはその学識にとても感心し、集まっている神学者たちの前で講演をするよう勧めてきた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5059;知識を分かち合うことができてとても嬉しい。;;;;;;;;;;;;x
+EVTDESC_SoA_5060;多くの言語、肌の色、衣装があり、賑やかな巡礼者たちは印象的である。人々は東西南北からやって来る。あなたは道路が交わる場所に立っており、そこは様々な人々と考えが出会う場所だ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5060;この機会を利用して、様々な言語や習慣を学ぼう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5060;この機会を利用して、多くの人々と出会うとしよう。;;;;;;;;;;;;x
+EVTDESC_SoA_5061;他の巡礼者たちは口を揃えて、この地がいかに素晴らしいところであるかを語っていた。いま自分の目で聖地を見ているが、彼らと同様に賞賛するしかない。キリスト教信仰においてこの上なく神聖な地の一つに来ることができて良かったと思う。;;;;;;;;;;;;x
+EVTOPTA_SoA_5061;長旅をした甲斐があった！;;;;;;;;;;;;x
+EVTDESC_SoA_5062;故郷から遠く離れて自分一人だけで、私と同じ境遇の人がたくさんいる。これは遊ぶにうってつけの機会ではないだろうか、そうだろう？;;;;;;;;;;;;x
+EVTOPTA_SoA_5062;それくらい構わないだろ？;;;;;;;;;;;;x
+EVTOPTB_SoA_5062;私はそんなことのために、ここに来たわけではない。;;;;;;;;;;;;x
+EVTDESC_SoA_5063;聖地は世界中から来る巡礼者でにぎわっていて、庭園や広場では無数の言語や訛りが混じりあっている。この大いなる文化のるつぼのなかで、私の本当に思うところを表現するまたとない機会なのではないか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5063;故郷の人々にバレるはずはないしな。;;;;;;;;;;;;x
+EVTOPTB_SoA_5063;いいや、それは罪だ！;;;;;;;;;;;;x
+EVTNAME_SoA_5064;癒し手;;;;;;;;;;;;x
+EVTDESC_SoA_5064;聖所の近くで、あなたは病いに奇妙な治療を行う修道士の集団がいるという噂を耳にした。自分を救ってくれるというわずかな希望を抱きながら、懸命になってに彼らを探し出した。あなたは彼らの治療をうけることになり、奇妙な水薬や食品や薬草を投与された。その過程のほとんどの間、意識不明であったり錯乱状態であったので、治療内容をほとんど覚えていないが、目が覚めてみると奇跡的なことに、あなたの病いは癒えているのに気づいた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5064;神の手が触れて私を癒してくださったのだ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5064;この修道士たちは優れた腕を持っているなあ。;;;;;;;;;;;;x
+EVTOPTC_SoA_5064;この神秘的な魔術を少しでも学ばねばならない。;;;;;;;;;;;;x
+EVTDESC_SoA_5065;この壮大な寺院の数々はあなたを讃えるために建てられたものだ！ああ、なんと光栄であることか！つまり、この巡礼者すべての賞賛の嵐の酔いしれてもよいのだ。なんなら、あなたを崇敬するためにここを訪れたこの人々に自分の正体を明かしてみますか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5065;皆に話そう！;;;;;;;;;;;;x
+EVTOPTB_SoA_5065;いや、この栄光に満ちたひとときを静かに楽しもう。;;;;;;;;;;;;x
+EVTDESC_SoA_5066;あなたは聖地を訪れて、その信仰心を示してみせた。しかし実のところ、まずは少しばかり楽しんでも問題ないのではないだろうか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5066;酒場に行こう！;;;;;;;;;;;;x
+EVTOPTB_SoA_5066;いや…自制…しなくては…;;;;;;;;;;;;x
+EVTDESC_SoA_5067;エルサレムはなんと魅力的なところだろう！ 三つの偉大な宗教がここを聖地としていて、街なかもその周囲も神を讃える記念碑や建造物でいっぱいだ。どういうわけか、これらの宗教に以前より親しみをを持つようになり、さして違いのあるものに思えなくなった。むしろ違いはないとしか思えないぞ、どうだ？;;;;;;;;;;;;x
+EVTOPTA_SoA_5067;ムハンマドは偉大なる思想家だった。;;;;;;;;;;;;x
+EVTOPTB_SoA_5067;イエスはユダヤ人だったんだろう？;;;;;;;;;;;;x
+EVTDESC_SoA_5080;神を冒涜する愚か者どもめ！ 奴らは自分たちの神をなんだと思っているのか。よくも私を神殿から放り出してくれたな！;;;;;;;;;;;;x
+EVTOPTA_SoA_5080;いつか復讐してやるぞ！;;;;;;;;;;;;x
+EVTDESC_SoA_5091;あなたは、ついに巡礼を終えました。この旅はとても有益で興味深く、あなたは可能なら、また挑戦する気です。しかし今は、家路に就けたことを喜びましょう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5091;素晴らしい経験だった！;;;;;;;;;;;;x
+EVTDESC_SoA_5092;あなたは、ついに巡礼を終えました。あなたは期待を裏切られ、そもそもあそこに行かないほうが良かったのかもしれないと後悔しましたが、今やもうどうしようもありません。少なくとも家に戻って旅のことを忘れることはできるでしょう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5092;あそこで何があったか家族に話したくはない。;;;;;;;;;;;;x
+EVTDESC_SoA_5093;あなたは、ついに巡礼を終えました。傲慢なネズミたちはあなたを受け入れず、敬意を払うこともありませんでしたが、それでも啓発的な体験ではありました。今は報復の準備をする時間もたっぷりあります。;;;;;;;;;;;;x
+EVTOPTA_SoA_5093;奴らは偽の偶像を崇拝した報いを受けるだろう。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_MONEY_RECIPIENT;§Y[Actor.RelHead.GetTitledFirstName]§Wは§Y$WEALTH$§!¤の富を失うでしょう;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_TITLE;金銭の要求;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_DESC;§Y[Actor.RelHead.GetTitledFirstName]§Wに§Y$PIETY$§!の[Player.Religion.GetPietyName]を払って、§Y$WEALTH$§!¤の金を要求します。;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_LONG_DESC;宗教指導者は気に入っている統治者に金を与えることができます。しかし要求する行為は[Player.Religion.GetPietyName]を消費することになります。;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_ACCEPT_SETUP;金銭要求の申し入れを承諾;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! has received a gift from §Y[Recipient.GetBestName]§!;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_DECLINE_SETUP;金銭要求の申し入れを拒否;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! has declined a request to gift §Y[Actor.GetBestName]§!;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_OFFER;[Actor.GetBestName] has presented a request for §Y$COST$§W to us!;;;;;;;;;;;;x
+ASK_FOR_MONEY_INTERACTION_LETTER;Please accept my request of §Y$COST$§!.;;;;;;;;;;;;x
+EVTDESC_SOA_3100;Of course I will give you some funds to help spread the Faith in your realm. I trust §Y[GetDiploGiftSize]§!¤ will do?;;;;;;;;;;;;x
+EVTDESC_SOA_3101;Your request for §Y[GetDiploGiftSize]§!¤ is denied. I doubt you would use the money to aid the Faith.;;;;;;;;;;;;x
+asked_for_money;資金を要求した;;;;;;;;;;;;x
+AIREASON_FREE_VS_PAPAL_INVEST_ASK_FOR_MONEY;貴方は叙任権を持っている;;;;;;;;;;;;x
+AIREASON_SUPPORTED_ELECTION;貴方はこの教皇の選挙を支持した;;;;;;;;;;;;x
+ASK_FOR_CRUSADE_INTERACTION_TITLE;十字軍の要請;;;;;;;;;;;;x
+ASK_FOR_CRUSADE_INTERACTION_DESC;Ask §Y[Actor.RelHead.GetTitledFirstName]§W to launch a [Actor.Religion.GetCrusadeName]. This will cost you [Player.Religion.GetPietyName].;;;;;;;;;;;;x
+ASK_FOR_CRUSADE_INTERACTION_LONG_DESC;The head of a religion can start a [Actor.Religion.GetCrusadeName] at your request. However, the very act of asking will cost you [Player.Religion.GetPietyName].;;;;;;;;;;;;x
+asked_for_crusade;宗教戦争を要求した;;;;;;;;;;;;x
+EVTDESC62000;§Y[From.Siege.GetName]§!の守備隊が攻囲軍の陣地に対して果敢な突撃を敢行してこれに成功、攻囲軍の兵士に多数の死傷者が出ました。;;;;;;;;;;;;x
+EVTDESC62002;§Y[From.Siege.GetName]§!の守備隊が攻囲軍の陣地に対して果敢な突撃を敢行したものの、逆に大きな損害を出して失敗しました。;;;;;;;;;;;;x
+EVTDESC62004;§Y[From.Siege.GetName]§!の守備隊が見せしめに捕虜の処刑を防壁上で行った模様です。攻囲軍は怒りに燃え、決意を固めました。;;;;;;;;;;;;x
+EVTDESC62005;§Y[From.Siege.GetName]§!において、攻囲軍と通じる裏切り者の噂が広がっており、守備隊の士気が低下しています。;;;;;;;;;;;;x
+EVTDESC62006;§Y[From.Siege.GetName]§!を取り囲む攻囲軍の野営地において病気が蔓延しており、多数の病死者が出ました。;;;;;;;;;;;;x
+EVTDESC62007;§Y[From.Siege.GetName]§!の守備隊に飢えが蔓延しており、多数の餓死者が出ました。;;;;;;;;;;;;x
+EVTDESC62008;§Y[From.Siege.GetName]§!に食料や物資が密かに運び込まれ、守備隊の士気が高まっています。;;;;;;;;;;;;x
+EVTDESC62009;§Y[From.Siege.GetName]§!を取り囲む攻囲軍の野営地を盗賊が襲撃し、攻囲軍の兵士に多数の死傷者が出ました。;;;;;;;;;;;;x
+EVTDESC62010;§Y[From.Siege.GetName]§!を取り囲む攻囲軍の野営地をトスカーナ人の侵略者が襲撃し、攻囲軍の兵士に多数の死傷者が出ました。;;;;;;;;;;;;x
+EVTDESC62040;§Y[From.Siege.GetName]§!を取り囲む攻囲軍の野営地をトスカーナ人の侵略者が襲撃したものの、なんと返り討ちにしました。;;;;;;;;;;;;x
+EVTDESC62011;§Y[From.Siege.GetName]§!において、神聖なる前兆によって勢いづいた敬虔なキリスト教徒の守備隊が、攻囲する異教徒に対して果敢なる突撃を敢行、ムスリムの攻城陣地に大混乱を引き起こしました。;;;;;;;;;;;;x
+EVTDESC62012;§Y[From.Siege.GetName]§!において、聖遺物を発見して勢いづいた敬虔なキリスト教徒の守備隊が、異教徒の攻囲軍に対して果敢なる突撃を敢行、ムスリムの攻城陣地に大混乱を引き起こしました。;;;;;;;;;;;;x
+EVTDESC62013;§Y[From.Siege.GetName]§!において、敬虔なムスリムの守備隊に感銘を受けたスーフィ教徒たちが、攻囲する邪教徒に手痛い損害を与えました。;;;;;;;;;;;;x
+repay_money_jews;[Root.GoldOwedToJews]¤の借金を返済;;;;;;;;;;;;x
+asked_for_excommunication;破門を要求した;;;;;;;;;;;;x
+asked_to_lift_excommunication;破門解除を要求した;;;;;;;;;;;;x
+asked_for_invasion;侵略許可を要求した;;;;;;;;;;;;x
+asked_for_divorce;離婚許可を要求した;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RELIGIOUS_INVESTITURE;教皇による叙任権が必要;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_TITLE;司祭指名;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_DESC;選択した廷臣をあなたの教会の次の司祭として選ぶように§Y[Actor.RelHead.GetTitledFirstName]§Wに要求します。これは信仰点を消費します。;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_ACCEPT_SETUP;司祭指名の申し入れを承諾;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは§Y[Recipient.GetBestName]§Wを司祭に指名した;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_DECLINE_SETUP;司祭指名の申し入れを拒否;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_DECLINE_LOG;§Y[Actor.GetBestName]§Wは§Y[Recipient.GetBestName]§Wを司祭に指名した;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_OFFER;[Actor.GetBestName]は司祭の指名を我々に提示しました！;;;;;;;;;;;;x
+NOMINATE_BISHOP_TO_POPE_INTERACTION_LETTER;私が指名したこの司祭を承諾してください。;;;;;;;;;;;;x
+EVTDESC_SOA_3102;司祭指名の要求を受け入れる。;;;;;;;;;;;;x
+EVTDESC_SOA_3103;司祭指名の要求を断る。;;;;;;;;;;;;x
+asked_to_nominate_bishop;司祭指名を要求した;;;;;;;;;;;;x
+SHOW_COLLEGE_OF_CARDINALS;枢機卿会;;;;;;;;;;;;x
+BACK_TO_RELIGION_VIEW;宗教インターフェースに戻る;;;;;;;;;;;;x
+CAMPAIGN_FUND_CARDINALS_DESC;Money in the Campaign Fund will increase your influence with the Papacy and make your candidate more likely to be elected the next $RULER_TITLE$. You can freely adjust the amount until the next $RULER_TITLE$ is elected, when the Fund will be used up in the election campaign.;;;;;;;;;;;;x
+EVTDESC_SoA_107;Your liege, [From.GetTitledFirstName], has issued a decree calling for the expulsion of all unlanded Jews from the entire realm, citing various grievances committed by them against the Crown.;;;;;;;;;;;;x
+EVTOPTA_SoA_107;そうか。;;;;;;;;;;;;x
+EVTOPTB_SoA_107;Alas, this means my loan cannot be repaid...;;;;;;;;;;;;x
+EVTDESC_SoA_108;主君 [Root.TopLiege.GetTitledFirstName] は、ユダヤ人追放の法令を取り下げることを決定した。彼らは、再び領国内での居住が許可されるようになった。;;;;;;;;;;;;x
+EVTOPTA_SoA_300;愚か者め！;;;;;;;;;;;;x
+EVTOPTA_SoA_301;Who needs culture?;;;;;;;;;;;;x
+EVTOPTA_SoA_302;全部自分でやらなければいけないのか？;;;;;;;;;;;;x
+mutazilite;ムタジル派;;;;;;;;;;;;x
+mutazilite_desc;この人物は合理性、理性、自由意志に重点を置き、スンニ派のムタジル学派を支持しています。;;;;;;;;;;;;x
+ashari;アシュアリー学派;;;;;;;;;;;;x
+ashari_desc;この人物は伝統、啓示、偶因論に重点を置き、スンニ派のアシュアリー学派を支持しています。;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_600;あなたは神学においてムタジル学派を受け入れます。;;;;;;;;;;;;x
+EVTDESC_SoA_600;神学におけるムタジル学派は、コーランは創造物であり不滅ではなく、アッラーの神命は合理的思考と探求によって理解できるものであると考えている。この学派の影響で領国の博識で賢明な人々による科学研究の生産性があがった。;;;;;;;;;;;;x
+EVTOPTA_SoA_600;この道で合っている。;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_601;あなたは神学においてアシュアリー学派を受け入れます。;;;;;;;;;;;;x
+EVTDESC_SoA_601;神学におけるアシュアリー学派は、コーランは不滅で絶対であり、アッラーをすべて理解することは人智を越えたもので、道徳的真理は啓示によってのみもたらされると考えている。領国の聖職者はこの学派を完全に受け入れ、宗教的熱狂のうねりを導いた。;;;;;;;;;;;;x
+embrace_mutazila;ムタジル学派の受け入れ;;;;;;;;;;;;x
+embrace_mutazila_desc;あなたはムタジル学派を受け入れる。イスラム神学の一派で、合理性、理性、自由意志に重きを置く。これは研究に利益をもたらすが、対立するアシュアリー学派のメンバーが不満を示すだろう。;;;;;;;;;;;;x
+embrace_ashari;アシュアリー学派の受け入れ;;;;;;;;;;;;x
+embrace_ashari_desc;あなたはアシュアリー学派を受け入れる。イスラム神学の一派で、伝統、啓示、偶因論に重きを置く。これは信仰点を増やすが、対立するムタジル学派のメンバーが不満を示すだろう。;;;;;;;;;;;;x
+opinion_rejected_school;神学校は拒否された;;;;;;;;;;;;x
+EVTDESC_SoA_603;[From.GetTitledFirstName]はムタジル学派の信奉者であり、あなたが誓ったアシュアリー学派とは正反対の立場にいる。ことによると、一言[From.GetHerHim]に言うべきだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_603;Yes, I will enlighten [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTB_SoA_603;No, it is not my concern.;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_604;You ask your vassal to switch theological school.;;;;;;;;;;;;x
+EVTDESC_SoA_604;あなたがあの異端のムタジル学派の信奉者だと知ったよ。彼らの教義と哲学はアッラーと預言者(彼に平安あれ)に対しての侮辱だ。アシュアリー学派の教義を受け入れることをあなたに強く勧める。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_604;うむ、おそらくそれが最善だろう...;;;;;;;;;;;;x
+EVTOPTB_SoA_604;ありえない！;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_605;アシュアリー学派の採用に同意したことを通告した。;;;;;;;;;;;;x
+EVTDESC_SoA_605;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれがベストだと思うのでしたら、ムタジル学派の教えを捨ててアシュアリー学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_605;賢明な選択だ。;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_606;アシュアリー学派の採用を拒否したことを通告した。;;;;;;;;;;;;x
+EVTDESC_SoA_606;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。。それは私とアッラー、預言者(彼に平安あれ)の間のことなのです。アシュアリー学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_606;That impudent...!;;;;;;;;;;;;x
+EVTDESC_SoA_611;[From.GetTitledFirstName]はアシュアリー学派の信奉者であり、あなたが誓ったムタジル学派とは正反対の立場にいる。ことによると、一言[From.GetHerHim]に言うべきだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_611;Yes, I will enlighten [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTB_SoA_611;No, it is not my concern.;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_612;You ask your vassal to switch theological school.;;;;;;;;;;;;x
+EVTDESC_SoA_612;あなたがあの的はずれなアシュアリー学派の信奉者だと知ったよ。彼らの教義と哲学はアッラーと預言者(彼に平安あれ)に対しての侮辱だ。ムタジル学派の教義を受け入れることをあなたに強く勧める。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_612;うむ、おそらくそれが最善だろう...;;;;;;;;;;;;x
+EVTOPTB_SoA_612;ありえない！;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_613;ムタジル学派の採用に同意したことを通告した。;;;;;;;;;;;;x
+EVTDESC_SoA_613;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれがベストだと思うのでしたら、アシュアリー学派の教えを捨ててムタジル学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_613;賢明な選択だ。;;;;;;;;;;;;x
+EVTTOOLTIP_SoA_614;ムタジル学派の採用を拒否したことを通告した。;;;;;;;;;;;;x
+EVTDESC_SoA_614;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。。それは私とアッラー、預言者(彼に平安あれ)との間のことなのです。ムタジル学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_614;That impudent...!;;;;;;;;;;;;x
+EVTDESC_SoA_620;あなたの冷笑的な本質が、現在のアシュアリー学派の基本教義に問いかけ始めた。対立するムタジル学派の教えに目を向けるほど、そちらのほうが有意義なものに思えてくる。;;;;;;;;;;;;x
+EVTOPTA_SoA_620;もしかして道を間違えたのか…;;;;;;;;;;;;x
+EVTOPTB_SoA_620;No! I must purge my mind of such heretical thoughts.;;;;;;;;;;;;x
+EVTDESC_SoA_621;あなたの熱狂的な本質が、現在のムタジル学派の基本教義に問いかけ始めた。対立するアシュアリー学派の教えに目を向けるほど、そちらのほうが有意義なものに思えてくる。;;;;;;;;;;;;x
+EVTOPTB_SoA_621;No! I must purge my mind of such misguided notions.;;;;;;;;;;;;x
+EVTDESC_TOG_1191;§Y[From.GetTitledName]§!は、§Y[FromFrom.GetName]§!の§Y[FromFrom.County.GetName]§!にて捕縛された後、群衆に殺害された。;;;;;;;;;;;;x
+ACHIEVEMENT_GAINED_SETUP;Achievement gained!;;;;;;;;;;;;x
+ACHIEVEMENT_GAINED_LOG;You unlocked $ACHIEVEMENT$!;;;;;;;;;;;;x
+EVTDESC_SoA_5200;As you are leading your troops on campaign, one day a sergeant from your army rides up and asks to speak to you. He presents you with a small box containing a holy relic, and explains that it was found by a foraging party in the ashes of a nearby church.;;;;;;;;;;;;x
+EVTOPTA_SoA_5200;This shall henceforth be an heirloom of my family.;;;;;;;;;;;;x
+EVTOPTB_SoA_5200;I will give it to the local church back home.;;;;;;;;;;;;x
+EVTDESC_SoA_5201;ある日のこと、市場で奇妙な男が近づいてきて言うには、これはバプテスマの聖ヨハネの指であるから、どうだ買わないかと申し出た。 あなたが疑いつつも見てみると、それは確かに古びた人間の骨であるように見えた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5201;これほどに重要な聖遺物を買わないわけにはいかない！;;;;;;;;;;;;x
+EVTOPTB_SoA_5201;こんなものは何でもない誰かの指だろう。;;;;;;;;;;;;x
+EVTDESC_SoA_5202;一人の司祭がやってきて、話を聞いてほしいという。地方で野盗が発生し、もはや彼の小さな教会は保管している聖遺物を守り切れないのだそうだ。そしてそれを、貴方の一族に託したいと頼んできた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5202;恐れることはない、私が守ってやる。;;;;;;;;;;;;x
+EVTDESC_SoA_5203;That old relic that has been in your family's care... you realize you haven't seen it around it in a very long time. You look for it, but you can't find it anywhere. Why do these things always happen to you?;;;;;;;;;;;;x
+EVTOPTA_SoA_5203;Better not mention this to anyone.;;;;;;;;;;;;x
+EVTDESC_SoA_5204;Enemy raiders have attacked the small chapel where your family relic was kept. The priest tending the chapel tried to stop them but was slain on the doorstep.;;;;;;;;;;;;x
+EVTOPTA_SoA_5204;Thieves and murderers!;;;;;;;;;;;;x
+EVTDESC_SoA_5205;Disaster, My [Root.GetLordLady]! Your court chaplain was attacked by a stray dog while he was carrying your family's relic shrine, and the holy bones fell out on the floor. And... well, the dog... we found it burying the bones in the yard among a lot of other bones stolen from the kitchens. Now it's impossible to sort out what is what.;;;;;;;;;;;;x
+EVTOPTA_SoA_5205;Curses! My ancestors will be turning in their graves.;;;;;;;;;;;;x
+EVTOPTB_SoA_5205;Just put any old bones in there, no one will know the difference.;;;;;;;;;;;;x
+EVTOPTC_SoA_5205;Hang on, let me see...;;;;;;;;;;;;x
+EVTDESC_SoA_5206;Your court chaplain comes to you and suggests that the family relic could be used to help heal your pains. A night of prayers and the presence of this holy item might bring the Lord's attention to you and drive the sickness out.;;;;;;;;;;;;x
+EVTOPTA_SoA_5206;Our holy relic will surely be my salvation!;;;;;;;;;;;;x
+EVTOPTB_SoA_5206;Bring a healer but keep those old bones away from me.;;;;;;;;;;;;x
+EVTDESC_SoA_5207;As the farmers prepare for sowing their spring crops, your court chaplain suggests that you bring out the holy relic in procession and bless the fields. Surely, this would increase the likelihood of a bountiful harvest this year.;;;;;;;;;;;;x
+EVTOPTA_SoA_5207;Yes, it will bless the land and pacify the peasants.;;;;;;;;;;;;x
+EVTOPTB_SoA_5207;No, I don't think it would do any good.;;;;;;;;;;;;x
+EVTDESC_SoA_5208;洗礼者ヨハネの指、10箱の割引特価！\n司教は、聖遺物の贋作が暴利で市場で販売されていることに、あなたの注意を向けさせます。それらはもちろん、多くの商取引と税収を産み出しますが、それはかなり不道徳で冒涜的なやり方です。;;;;;;;;;;;;x
+EVTOPTA_SoA_5208;犯罪者共を厳しく取り締まれ!;;;;;;;;;;;;x
+EVTOPTB_SoA_5208;放っておけ。;;;;;;;;;;;;x
+EVTOPTC_SoA_5208;そのビジネスに参入しよう!;;;;;;;;;;;;x
+EVTDESC_SoA_5209;地元の修道士があなたの所持している聖遺物は教会に寄付するべきだと嘆願した。つまり彼が言うには、それは全てのクリスチャンに属するべきもので、一人の人間が所持すべきものではないということだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5209;こっそりと寄付する。;;;;;;;;;;;;x
+EVTOPTB_SoA_5209;受け渡すための盛大なセレモニーを催す。;;;;;;;;;;;;x
+EVTOPTC_SoA_5209;この不躾な司祭を誰かつまみ出してくれないか？;;;;;;;;;;;;x
+EVTDESC_SoA_5229;You no longer follow the Christian faith. What should be done with your family's Christian relic?;;;;;;;;;;;;x
+EVTOPTA_SoA_5229;Keep it on display as a trinket.;;;;;;;;;;;;x
+EVTOPTB_SoA_5229;Sell it to the Christians.;;;;;;;;;;;;x
+EVTOPTC_SoA_5229;Throw it to the dogs.;;;;;;;;;;;;x
+insulted_realm_christians;Christians in your Realm will be gravely insulted.;;;;;;;;;;;;x
+EVTDESC_SoA_5210;なめらかでやや麦芽風味、微かな苦味が心地よい。 ああ、この僧侶たちはまぎれもなく醸造の神髄を知っている！;;;;;;;;;;;;x
+EVTOPTA_SoA_5210;もっとこの修道院に通わねばならぬ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5210;ありがとう、でもけっこうです。;;;;;;;;;;;;x
+EVTDESC_SoA_5211;なんと素晴らしい芳香だ。絡み合うようにブレンドされた香りが舌の上に広がり、腹の中が温まる。ここの修道士たちは確かに良いワインの作り方を知っている！;;;;;;;;;;;;x
+EVTOPTA_SoA_5211;もっとこの修道院に通わねばならぬ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5211;ありがとう、だが遠慮しておくよ。;;;;;;;;;;;;x
+EVTDESC_SoA_5212;Monks from a nearby monastery have arrived bringing healing herbs and offering to help treat your illness.;;;;;;;;;;;;x
+EVTOPTA_SoA_5212;Thank them and let them help you.;;;;;;;;;;;;x
+EVTOPTB_SoA_5212;I think not - these herbs smell funny.;;;;;;;;;;;;x
+EVTDESC_SoA_5213;ある日、修道院のそばを通り過ぎると、畑に座って絵を描いている修道士が現れる。 あなたは彼の作品を観察し、シンプルなキャンバスを生き生きとさせる構成、色、そして細かい筆使いに驚嘆する。 この修道士は本当に芸術的な天才だ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5213;この絵を買って城に飾ろう！;;;;;;;;;;;;x
+EVTOPTB_SoA_5213;いいね、さあ食事の時間だ。;;;;;;;;;;;;x
+EVTDESC_SoA_5214;地元の修道院を滞在し、丁重なもてなしを受けていたところ、修道士のグループが、挿絵の美しい書物をあなたの言語に翻訳しているところを目撃しました。;;;;;;;;;;;;x
+EVTOPTA_SoA_5214;いくつか本を買おう。もしかしたら読むかもしれない。;;;;;;;;;;;;x
+EVTOPTB_SoA_5214;可愛らしい絵だ。しかし、私には他にやらねばならない事がある。;;;;;;;;;;;;x
+EVTDESC_SoA_5215;近くの修道院の修道士は、最近頻繁に立ち寄って物資を取引しています。そしていつも世間話をしては知識を交換しています。;;;;;;;;;;;;x
+EVTOPTA_SoA_5215;I should seek their company more often.;;;;;;;;;;;;x
+EVTOPTB_SoA_5215;How tedious, these men of God.;;;;;;;;;;;;x
+EVTDESC_SoA_5218;昨年ごろから、あなたの[From.GetSonDaughter] の[From.GetFirstName]は、地元の修道士たちと共に過ごす時が増えていた。あなたもまた、[From.GetSheHe]が、週ごとに何時間も熱心に祈りを捧げているのを知っていた。そしてある日、[From.GetSheHe]はあなたに近づき、 [From.GetHerHis]の人生をキリストのために捧げたいと願い出た。;;;;;;;;;;;;x
+EVTOPTA_SoA_5218;よろしい。それが[From.GetSheHe]の真の望みなら。;;;;;;;;;;;;x
+EVTOPTB_SoA_5218;絶対に駄目!;;;;;;;;;;;;x
+EVTTOOLTIPA_SOA_5218;[From.GetFirstName]はとても喜んでいる;;;;;;;;;;;;x
+EVTTOOLTIPB_SOA_5218;[From.GetFirstName]はうんざりしている;;;;;;;;;;;;x
+EVTDESC_SoA_5240;今朝、目を覚ますと、両手と両足から血が流れていた。そして、わきから激しい痛みを感じる。 私の身に何が起きたのか？;;;;;;;;;;;;x
+EVTOPTA_SoA_5240;これは聖痕だ! 私は神に祝福されたのだ!;;;;;;;;;;;;x
+EVTOPTB_SoA_5240;不安だ。治療師に会いに行くべきだな。;;;;;;;;;;;;x
+EVTDESC_SoA_5241;Walking alone on the battlements late one night, you suddenly see a shining white shape appearing in the sky above you. It seems to be moving towards you, or maybe away. There's a strange sound in the air too, like a whispering... what is going on?;;;;;;;;;;;;x
+EVTOPTA_SoA_5241;The Virgin has appeared to me - I have been blessed!;;;;;;;;;;;;x
+EVTOPTB_SoA_5241;Strange how clouds and wind can play tricks on one's mind.;;;;;;;;;;;;x
+EVTDESC_SoA_5242;My belly is growing, and no one can doubt that I am with child. But my husband and I have not been intimate for a long time, how can I explain this?;;;;;;;;;;;;x
+EVTOPTA_SoA_5242;I have been blessed like the Virgin Mary!;;;;;;;;;;;;x
+EVTOPTB_SoA_5242;No miracle. But maybe my husband will believe that it is.;;;;;;;;;;;;x
+EVTDESC_SoA_5243;My wife is with child, though she and I have not laid together for a very long time. She claims she has been blessed by our Lord just like the Virgin Mary.;;;;;;;;;;;;x
+EVTOPTA_SoA_5243;私もヨセフのように祝福するぞ！;;;;;;;;;;;;x
+EVTOPTB_SoA_5243;I shall pretend that I believe this.;;;;;;;;;;;;x
+EVTOPTC_SoA_5243;ちょっと待って...;;;;;;;;;;;;x
+EVTDESC_SoA_5244;あなたは、年老いた僧侶から除霊を持ち掛けられた。彼は、憑りついている悪魔から、あなたを解放することができると言い張っている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5244;なんとしても、あの悪魔どもを叩き出せ!;;;;;;;;;;;;x
+EVTOPTB_SoA_5244;断る!我々は永久に一緒だ。;;;;;;;;;;;;x
+EVTOPTC_SoA_5244;Maybe some time of rest and introspection would serve me better.;;;;;;;;;;;;x
+OWNER_MARTIAL;領主の軍事能力により;;;;;;;;;;;;x
+AbrahamDLC;『Sons of Abraham』;;;;;;;;;;;;x
+bad_priest_christian;邪悪な司祭;;;;;;;;;;;;x
+bad_priest_christian_desc;この司祭の性格や習慣は、[GetHerHis]の地位にとって非常に不適切です。更に悪いことに、[GetSheHe]は公共の場からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+bad_priest_muslim;邪悪なカリフ;;;;;;;;;;;;x
+bad_priest_muslim_desc;このカリフの性格や習慣は、彼の地位にとって非常に不適切です。更に悪いことに、彼は人々の目からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+bad_priest_norse;相応しくない司祭;;;;;;;;;;;;x
+bad_priest_norse_desc;この司祭の性格や習慣は、[GetHerHis]の地位にとって非常に不適切です。更に悪いことに、[GetSheHe]は人々の目からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+bad_priest_tengri;相応しくない司祭;;;;;;;;;;;;x
+bad_priest_tengri_desc;この司祭の性格や習慣は、彼の地位にとって非常に不適切です。更に悪いことに、彼は人々の目からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+bad_priest_zoroastrian;不道徳な司祭;;;;;;;;;;;;x
+bad_priest_zoroastrian_desc;この司祭の性格や習慣は、彼の地位にとって非常に不適切です。更に悪いことに、彼は人々の目からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+bad_priest_aztec;相応しくない司祭;;;;;;;;;;;;x
+bad_priest_aztec_desc;この司祭の性格や習慣は、彼の地位にとって非常に不適切です。更に悪いことに、彼は人々の目からそれらを隠すことができませんでした。;;;;;;;;;;;;x
+CAPITAL_COUNTY;首都州;;;;;;;;;;;;x
+CAPITAL_DUCHY;首都が属する公爵領;;;;;;;;;;;;x
+CAPITAL_KINGDOM;首都が属する王国;;;;;;;;;;;;x
+CAPITAL_EMPIRE;首都が属する帝国;;;;;;;;;;;;x
+OUTSIDE_CAPITAL_REGIONS;首都圏の郊外;;;;;;;;;;;;x
+THE_DEVIL;悪魔;;;;;;;;;;;;x
+SATAN;サタン;;;;;;;;;;;;x
+LUCIFER;ルシファー;;;;;;;;;;;;x
+IBLIS;イブリース;;;;;;;;;;;;x
+SHAYTAN;シャイターン;;;;;;;;;;;;x
+THE_DARK_SPIRITS;悪霊;;;;;;;;;;;;x
+LOKI;ロキ;;;;;;;;;;;;x
+HEL;ヘル;;;;;;;;;;;;x
+FENRIR;フェンリル;;;;;;;;;;;;x
+JORMUNGANDR;ヨルムンガンド;;;;;;;;;;;;x
+ERLIK;エルリク;;;;;;;;;;;;x
+KOMUR_HAN;コムル・ハン;;;;;;;;;;;;x
+VELNIAS;ヴェルニアス;;;;;;;;;;;;x
+TUONI;トゥオニ;;;;;;;;;;;;x
+TUONETAR;トゥオネタル;;;;;;;;;;;;x
+TLAZOLTEOTL;トラソルテオトル;;;;;;;;;;;;x
+XOLOTL;ショロトル;;;;;;;;;;;;x
+CHERNOBOG;チェルノボーグ;;;;;;;;;;;;x
+PLUTO;プルートー;;;;;;;;;;;;x
+AHRIMAN;アフリマン;;;;;;;;;;;;x
+ANGRA_MAINYU;アンラ・マンユ;;;;;;;;;;;;x
+ADONAI;アドナイ;;;;;;;;;;;;x
+BIRTH_NAME;出生名;;;;;;;;;;;;x
+suspected_witch;魔女の疑い;;;;;;;;;;;;x
+suspected_demon_spawn;悪魔誕生の疑い;;;;;;;;;;;;x
+opinion_witch;魔女;;;;;;;;;;;;x
+opinion_the_chosen_one;選ばれし者;;;;;;;;;;;;x
+known_witch;魔女;;;;;;;;;;;;x
+FATHER_IS_REAL_FATHER;父は実の父親である;;;;;;;;;;;;x
+FATHER_IS_NOT_REAL_FATHER;父は実の父親ではない;;;;;;;;;;;;x
+EVTTITLE_SOA_3002;[From.Mother.GetFirstName]の赤ん坊;;;;;;;;;;;;x
+EVTDESC_SOA_3002;私の小さな[GetFromRelation][From.GetFirstName]は他の子供とは違う。[From.GetSubjectPronounCap]は悲鳴をあげることも動揺を見せることもなくが、[From.GetSubjectPronoun]はこの世界を熱心な好奇心を持って観察しているのは確かである。今朝、料理人が手を傷つけ血を吹き出すと、それを見た[From.GetSubjectPronoun]は突然笑い出したのだ。動物は[From.GetObjectPronoun]に懐くことはなく、また[From.GetSubjectPronoun]は他の子供たちの近くで奇妙な声を出している。廷臣達は「悪魔が誕生した」と噂をし使用人たちも目をそらし悪魔払いの動作をしている。;;;;;;;;;;;;x
+EVTOPTA_SOA_3002;一刻でも早く[Root.Religion.GetRandomGodName]に祈らなければ…;;;;;;;;;;;;x
+EVTOPTB_SOA_3002;我が子[From.GetFirstName]が悪魔であるはずがない！;;;;;;;;;;;;x
+EVTOPTC_SOA_3002;[Root.GetLordSpiritualName]に相談しよう;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3003;[This.GetTitledFirstName]に助言をもらおう;;;;;;;;;;;;x
+EVTDESC_SOA_3003;私の[GetFromRelation]、[From.GetTitledFirstName]は[From.GetPossPronoun]の子供である[FromFrom.GetFirstName]の気になる行動について私に助言を求めた。宮廷内全体でその子供が闇の力を持っていると信じているようだ…;;;;;;;;;;;;x
+EVTOPTA_SOA_3003;くだらん!![From.GetObjectPronoun]が心配することでもない！;;;;;;;;;;;;x
+EVTOPTB_SOA_3003;その子供は明らかに忌み子だ！;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3005;[From.GetFirstName]に告発させよう！彼女が悪魔を身ごもり魔法を教えたのではないか？;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3006;魔法使いの母とその横にいる子供を糾弾せよ！;;;;;;;;;;;;x
+EVTDESC_SOA_3007;聡明な[Root.GetLordSpiritualName][FromFrom.GetFirstName]はその子供を調査すると、[From.GetFirstName]は普通の子供であり悪魔である噂は荒唐無稽だと話した。[Root.Religion.GetScriptureName]がこの事実を明らかにしたのだ。;;;;;;;;;;;;x
+EVTOPTA_SOA_3007;安心した！;;;;;;;;;;;;x
+EVTDESC_SOA_3008;私の[Root.GetLordSpiritualName][FromFrom.GetFirstName]は小さな子供である[From.GetFirstName]が[Root.Religion.GetRandomEvilGodName]の生まれ変わりだと信じている！さらに最悪なことに、[FromFrom.GetSubjectPronoun]は私を魔女とし悪魔と戯れていると告発商としている！;;;;;;;;;;;;x
+EVTOPTA_SOA_3008;私は[Root.Religion.GetRandomEvilGodName]を信仰していない;;;;;;;;;;;;x
+EVTOPTB_SOA_3008;本当か？恐ろしい悪夢の中にいるようだ…;;;;;;;;;;;;x
+EVTOPTC_SOA_3008;この嘘が広められれば[FromFrom.GetSubjectPronounCap]は生きていけまい…;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3011;[This.GetFirstName]に鮮明とした恐ろしい夢を話そう;;;;;;;;;;;;x
+EVTDESC_SOA_3009;私の[Root.GetLordSpiritualName][FromFrom.GetFirstName]は小さな子供である[From.GetFirstName]が[Root.Religion.GetRandomEvilGodName]の生まれ変わりだと信じている！さらに最悪なことに、[FromFrom.GetSubjectPronoun]は[From.GetPossPronoun]の母である[From.Mother.GetTitledFirstName]が、悪魔を集めている魔女だと信じている！;;;;;;;;;;;;x
+EVTOPTA_SOA_3009;とんでもない！これは真実ではない;;;;;;;;;;;;x
+EVTOPTB_SOA_3009;[Root.Religion.GetRandomGodNameCap]の知らせだ、母親とその子供を捕らえよ;;;;;;;;;;;;x
+EVTDESC_SOA_3010;[From.GetTitledFirstName]は彼女の無実を保証しているが、私は彼女を疑っている…;;;;;;;;;;;;x
+EVTOPTA_SOA_3010;両人に対し注意を向けよう;;;;;;;;;;;;x
+EVTDESC_SOA_3011;[From.GetTitledFirstName]は夜ゾッとするような夢を見ていると涙ながら告発してきた。夢の中にはミノタウロスのような架空上の生物が出るという。;;;;;;;;;;;;x
+EVTOPTA_SOA_3011;魔女め！;;;;;;;;;;;;x
+EVTOPTB_SOA_3011;誰しも怖い夢くらい見るだろ？;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3012;公の場で[This.GetTitledFirstName]が不浄のものだと糾弾された。彼女は退位を要求され子供は非嫡出子と宣言される！;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3013;彼女を冷静にさせこの噂を断つ努力をしよう。;;;;;;;;;;;;x
+EVTDESC_SOA_3013; 聡明な[Root.GetLordSpiritualName][FromFrom.GetFirstName]は誰しもが恐ろしい夢を見ることがあると私に話し、また[From.GetFirstName]は変わっている子だが、心配することは何もないと保証してくれた。;;;;;;;;;;;;x
+EVTDESC_SOA_3014;裏切り者の[Root.GetLordSpiritualName][FromFrom.GetFirstName]は公の場で私が呪術使いであり、私の[GetFromRelation][From.GetFirstName]が[Root.Religion.GetRandomEvilGodName]の生まれ変わりだと糾弾した！ 多数の名士たちが私の退位を要求し、[From.GetFirstName]を非嫡出子だと宣言した。;;;;;;;;;;;;x
+EVTOPTA_SOA_3014;退位する;;;;;;;;;;;;x
+EVTOPTB_SOA_3014;ふざけるな！衛兵！[FromFrom.GetFirstName]を捕らえよ！;;;;;;;;;;;;x
+EVTDESC_SOA_3015;[From.GetTitledFirstName]は[FromFrom.Mother.GetFirstName]の無実を保証しており、どちらの意見を信じればいいか分からない…;;;;;;;;;;;;x
+EVTOPTA_SOA_3015;子供である[FromFrom.GetFirstName]を用心しよう。;;;;;;;;;;;;x
+EVTDESC_SOA_3020;私の本当の父親が夢の中で私に話しかけ、とあることを私に明かしてくれた。世界は私の力に屈しており人々は[Root.Religion.GetRandomEvilGodName]の真実を受け入れるか…死ぬしかないのだと！;;;;;;;;;;;;x
+EVTOPTA_SOA_3020;力よ！;;;;;;;;;;;;x
+EVTTITLE_SOA_3021;[Root.Religion.GetRandomEvilGodName]の生まれ変わりなの？;;;;;;;;;;;;x
+EVTDESC_SOA_3021;私の[GetFromRelation]である[From.GetFirstName]はいつもおかしな人物であった。冷酷で非道な行いをしている[From.GetPossPronoun]の近くにいる聖職者だけでなく、友人や親戚について心配しており、ぞっとするようなうなり声を出す[From.GetSubjectPronoun]や空から落ちる鳥の死体や[From.GetObjectPronoun]の周りで起きている小さな出来事については何も言及しなかった。教育やしっかりとした教師の指導による最大限の努力にもかかわらず、希望は打ちのめされていった。[From.GetSubjectPronoun]はもはや子供ではなく、本当に恐ろしい[From.GetManWoman]へと変貌していったのだ…;;;;;;;;;;;;x
+EVTOPTA_SOA_3021;悪魔め！;;;;;;;;;;;;x
+EVTDESC_SOA_3032;私の可愛い[GetFromRelation]の [From.GetFirstName] は、とても心穏やかな様子で[From.GetPossPronoun]のベッドで寝ている…　さて、[From.GetSubjectPronoun] には永遠の休息についてもらわねばなるまい。;;;;;;;;;;;;x
+EVTOPTA_SOA_3032;悪魔に栄光あれ！;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_3035; [This.GetPossPronoun]の目の側を長い針で突き刺す;;;;;;;;;;;;x
+EVTDESC_SOA_3035;うわああっ！私は目に激しい痛みを感じて目を覚ました！ 悪魔の子[From.GetFirstName]が私の胸に座って突き刺していたのだ…うぐぐ…;;;;;;;;;;;;x
+EVTOPTA_SOA_3035;[Root.Religion.GetRandomEvilGodNameCap] shall not have my soul!;;;;;;;;;;;;x
+EVTDESC_SOA_3036;I wake up with a start. There is a pressure on my chest! As I scream for help, a small shape scampers off, hissing loudly, hurling a long needle at me!;;;;;;;;;;;;x
+EVTOPTA_SOA_3036;The demon spawn, [From.GetFirstName], I know it!;;;;;;;;;;;;x
+EVTDESC_SOA_3037;Aaack! I wake to an excruciating PAIN in my eye! As I scream for help, a small shape scampers off, hissing loudly, hurling a long needle at me!;;;;;;;;;;;;x
+EVTOPTA_SOA_3037;My eye! I... why can't I think straight?;;;;;;;;;;;;x
+EVTTITLE_SOA_3039;死に至る悪夢;;;;;;;;;;;;x
+EVTDESC_SOA_3039;私の大切な[GetFromRelation]、[From.GetFirstName]が死んでしまった！[From.GetSubjectPronounCap]はベッドの上で、死体となって見つかった。顔は恐怖にゆがみ、血の気が引いていた。外科医たちをしても死体に悪い箇所は見当たらず、まるで恐ろしい悪夢を見たせいで死んだかのようだ。「悪魔の子」、[GetFromFromRelation]の[FromFrom.GetFirstName]にまつわる不吉な噂が再び頭をもたげてきた…… 当の[FromFrom.GetFirstName]はいつになく幸せそうだった。何か恐ろしいことがあったときはいつもこうだ。;;;;;;;;;;;;x
+EVTOPTA_SOA_3039;本当に他殺なのか?;;;;;;;;;;;;x
+EVTTITLE_SOA_3040;死に至る悪夢;;;;;;;;;;;;x
+EVTDESC_SOA_3040;My beloved [GetFromRelation] [From.GetFirstName] claims that some... thing tried to kill [From.GetObjectPronoun] last night. [From.GetSubjectPronounCap] woke up with a small shape pressing down on [From.GetPossPronoun] chest. It ran off hissing, but left a nasty long needle behind. I think it was just a nightmare - the maids leave needles lying around everywhere. However, there are dark rumours about the so called 'demon child', my [GetFromFromRelation] [FromFrom.GetFirstName], again...;;;;;;;;;;;;x
+EVTOPTA_SOA_3040;I am surrounded by nonsense;;;;;;;;;;;;x
+EVTTITLE_SOA_3041;死に至る悪夢;;;;;;;;;;;;x
+EVTDESC_SOA_3041;My dear [GetFromRelation] [From.GetFirstName] must have suffered a stroke in [From.GetPossPronoun] sleep last night. [From.GetSubjectPronounCap] was found drooling in bed, one eye bloodshot, mumbling about a small monster that stabbed [From.GetObjectPronoun] in the eye before it ran off. There are dark rumours about the so called 'demon child', my [GetFromFromRelation] [FromFrom.GetFirstName], again... As always when something terrible happens, [FromFrom.GetSubjectPronoun] does seem inordinately happy.;;;;;;;;;;;;x
+EVTOPTA_SOA_3041;信じられない...;;;;;;;;;;;;x
+EVTDESC_SOA_3050;By the grace of [Root.Religion.GetRandomEvilGodName], my limb has grown back!;;;;;;;;;;;;x
+EVTOPTA_SOA_3050;悪魔に栄光あれ！;;;;;;;;;;;;x
+EVTDESC_SOA_3051;My eyesight has been restored by the power of [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;x
+EVTOPTA_SOA_3051;Sanguinem Bibimus!;;;;;;;;;;;;x
+EVTDESC_SOA_3052;The seed of [Root.Religion.GetRandomEvilGodName] will not be denied. My manhood is restored!;;;;;;;;;;;;x
+EVTOPTA_SOA_3052;Elevate corpus Satanae!;;;;;;;;;;;;x
+EVTDESC_SOA_3053;The dark animus of [Root.Religion.GetRandomEvilGodName] courses through my veins. My mind is clear once more!;;;;;;;;;;;;x
+EVTOPTA_SOA_3053;我ラハ肉体ヲ喰ラウ！;;;;;;;;;;;;x
+EVTDESC_SOA_3054;[Root.Religion.GetRandomEvilGodNameCap] gifted me with this disease to strengthen my resolve... Now, my will is like a sharpened blade and I wish this blight gone from my body!;;;;;;;;;;;;x
+EVTOPTA_SOA_3054;Ave Antichriste!;;;;;;;;;;;;x
+EVTDESC_SOA_3060;No bars can hold [Root.Religion.GetRandomEvilGodName]'s own! The senses of my gaolers were blinded long enough for me to escape.;;;;;;;;;;;;x
+EVTOPTA_SOA_3060;Hail [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;x
+EVTDESC_SOA_3061;My prisoner, the depraved [From.GetTitledName], who is rumored to be the spawn of [From.Religion.GetRandomEvilGodName], has somehow escaped my dungeons! The guards have no explanation - the cell was still locked, but empty.;;;;;;;;;;;;x
+EVTOPTA_SOA_3061;These are dark tidings...;;;;;;;;;;;;x
+EVTDESC_SOA_3065;A well equipped army of cultists, followers of [Root.Religion.GetRandomEvilGodName], has arrived in [Root.Location.GetName] led by three powerful witches. They stand ready to serve me and our dread master in this important war.;;;;;;;;;;;;x
+EVTOPTA_SOA_3065;Hail [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;x
+EVTDESC_SOA_3071;My [GetFromRelation], little [From.GetFirstName], has really taken to [From.GetPossPronoun] nanny - a remarkably talented young woman, learned as any [Root.Religion.GetPriestTitle]. It is strange though... I have no idea when this girl showed up or where she came from, exactly.;;;;;;;;;;;;x
+EVTOPTA_SOA_3071;She really is most impressive;;;;;;;;;;;;x
+EVTDESC_SOA_3072;My new nanny is a gift from [Root.Religion.GetRandomEvilGodName] - literally. She is remarkably talented, more learned than any [Root.Religion.GetPriestTitle].;;;;;;;;;;;;x
+EVTOPTA_SOA_3072;I will put her to good use;;;;;;;;;;;;x
+EVTDESC_SOA_3074;My talented courtier, the nanny [From.GetFirstName], has left court to follow her young charge.;;;;;;;;;;;;x
+EVTOPTA_SOA_3074;That's dedication!;;;;;;;;;;;;x
+EVTTITLE_SOA_3077;悪しき前兆;;;;;;;;;;;;x
+EVTDESC_SOA_3077;During a nice family outing by the river, everyone suddenly noticed the talented nanny [From.GetFirstName] standing on top of the old tower. Smiling and looking straight at my little [GetFromFromRelation], she cried out 'I love you [FromFrom.GetFirstName]!' and calmly took a step forward into empty air, falling to the ground with black clothes flapping like the wings of some huge crow. [FromFrom.GetFirstName] laughed delightedly at the loud thump, clapping [FromFrom.GetPossPronoun] hands as everyone else stared in utter shock and disbelief.;;;;;;;;;;;;x
+EVTOPTA_SOA_3077;衝撃的だ！;;;;;;;;;;;;x
+EVTTITLE_SOA_3078;吉兆;;;;;;;;;;;;x
+EVTDESC_SOA_3078;During a nice outing by the river, everyone suddenly noticed my talented nanny [From.GetFirstName] standing on top of the old tower. Smiling and looking straight at me, she cried out 'I love you [FromFrom.GetFirstName]!' and calmly took a step forward into empty air, falling to the ground with black clothes flapping like the wings of a demon. Everyone else stared in utter shock and disbelief, but I could only laugh and clap my hands in approval. [Root.Religion.GetRandomEvilGodNameCap] be praised!;;;;;;;;;;;;x
+EVTOPTA_SOA_3078;A worthy sacrifice!;;;;;;;;;;;;x
+EVTNAME_SoA_5307;死体裁判;;;;;;;;;;;;x
+EVTDESC_SoA_5307;ローマから奇怪な報せが届いた。前教皇[From.GetTitledFirstName]が、生前の教皇の品位を汚す振る舞いのために、ローマ法王庁に死体で告発されたのだ!\n[From.GetTitledFirstName]の死体は、墓から掘り起こされ、審判の場に持ち込まれた。そして玉座に立てかけられた彼のために、一人の助祭が法廷代理人に選ばれた。\n当然ながら被告人は、全ての訴訟で有罪となり、悲惨な処罰を受けた。教皇の法衣ははぎ取られ、三本の指(祝福に用いられた)は切断され、身分の低い外国人用墓地に葬られた。しかし罰はまだ不十分だとして、遺体はまた掘り返され、重しをつけてテヴェレ川に投げ込まれた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5307;私は、これが賢明な裁きだと信じている。;;;;;;;;;;;;x
+EVTDESC_SoA_5312;広く流布された噂によると、[From.GetTitledFirstName]は、非常に堕落した生活を送っているため、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5312;我らは、彼の不滅の魂のために祈らねばならない;;;;;;;;;;;;x
+EVTDESC_SoA_5314;広く流布された噂によると、[From.GetTitledFirstName]は、非常に堕落した生活を送っており、全てのムスリムの魂を導く者としてふさわしくないという。;;;;;;;;;;;;x
+EVTOPTA_SoA_5314;こうして、彼はアッラーの祝福を失うであろう。;;;;;;;;;;;;x
+EVTDESC_SoA_5316;広く流布された噂によると、[From.GetTitledFirstName]は非常に厄介な性格で問題のある生活をしているため、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5316;神々はお喜びになるまい。;;;;;;;;;;;;x
+EVTDESC_SoA_5318;広く流布された噂によると、[From.GetTitledFirstName]は非常に厄介な性格で問題のある生活をしているため、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5318;奴にはテングリの怒りが下ることだろう。;;;;;;;;;;;;x
+EVTDESC_SoA_5320;広く流布された噂によると、[From.GetTitledFirstName]は、邪悪な生活の先導者であり、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ;;;;;;;;;;;;x
+EVTOPTA_SoA_5320;すべてに裁きが下ることだろう。;;;;;;;;;;;;x
+EVTDESC_SoA_5322;広く流布された噂によると、[From.GetTitledFirstName]は非常に厄介な性格で問題のある生活をしているため、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5322;おそらく、奴を神の生贄に捧げるときであろうな…;;;;;;;;;;;;x
+EVTDESC_SoA_5301;There are things a Caliph should not do and should not be. But we are only human after all, and as long as people aren't aware of your vices and faults it's not a problem. However, it seems you've been slipping in discretion lately - gossip is starting to spread, and there are murmurings all over the Muslim world about your wicked habits.;;;;;;;;;;;;x
+EVTOPTA_SoA_5301;[Root.Religion.GetRandomGodName]が私に憐みを垂れ給わんことを。;;;;;;;;;;;;x
+EVTDESC_SoA_5302;A Fylkir of the Norse faith is expected to uphold certain standards of morality and strength. But we are only human after all, and as long as people aren't aware of your vices and faults it's not a problem. However, it seems you've been slipping in discretion lately - gossip is starting to spread, and there are murmurings all over the Norse world about your unworthy traits and habits.;;;;;;;;;;;;x
+EVTOPTA_SoA_5302;May the Gods still judge me favorably.;;;;;;;;;;;;x
+EVTNAME_SoA_5341;訪問者;;;;;;;;;;;;x
+EVTDESC_SoA_5341;あなたは、あの有名なクリュニー大修道院の修道士から訪問を受けました。彼によると、そこにいる修道士たちは、一日の大半を献身的な祈りに費やし、その祈りの中で、最も敬虔なクリスチャンたちの名を絶えず唱えるそうです。\n\nもし、あなたがクリュニー修道院への多額の献金でその途方もない敬虔さを示せば、修道士たちが唱える名前の中に、あなたも含まれるでしょう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5341;私の援助を受け取れ!;;;;;;;;;;;;x
+EVTOPTB_SoA_5341;自力でなんとかやっていけるだろう。;;;;;;;;;;;;x
+EVTNAME_SoA_5342;招待状;;;;;;;;;;;;x
+EVTDESC_SoA_5342;[Root.GetLordLady]、偉大なるクリュニー修道院から、ご来駕を賜りたいとの書状が届いています！\n\n招待を受けるなら、非常に興味深い旅行をすることになるでしょう。クリュニー修道院は910年にブルゴーニュ公爵に独立を許されて以降、際立った名声と力を獲得していきました。現在はローマ教皇にのみ従属し、広大な所領に加えて、惜しげもなく贈られる寄付金によって運営されています。ここはまさに富と知識の巨大な集積地となっているのです。この修道院の教会堂はローマやコンスタンティノープルにある様々な大聖堂でさえ比べ物にならない規模であり、ヨーロッパで最大のものなのです。;;;;;;;;;;;;x
+EVTOPTA_SoA_5342;これはまたとない機会だ！;;;;;;;;;;;;x
+EVTOPTB_SoA_5342;行けないと伝えてくれ。;;;;;;;;;;;;x
+EVTNAME_SoA_5343;クリュニー修道院;;;;;;;;;;;;x
+EVTDESC_SoA_5343;さあ、クリュニー修道院に到着しました！ 目前に途方もなく広がる建物の数々を上から覆うように巨大な教会の塔がいくつも荘厳にそびえ立っています。その周囲をぐるりと囲む農地は肥沃で作物はよく実っていて、小作人たちは懸命に働き、収穫物を修道院の倉庫へと運びこんでいます。たくさんの修道士たちが歩き回り、そのなかには一人か二人の尼僧の姿も見えます。あなたはそこに学問と信心深さと権威の入り混じった雰囲気があるのがわかるでしょう。ここは教皇はもちろん、王や強大な貴族たちの惜しみない支援を享受しているのです。;;;;;;;;;;;;x
+EVTOPTA_SoA_5343;この壮麗な建築について学びたいものだな！;;;;;;;;;;;;x
+EVTOPTB_SoA_5343;図書室を見せていただけるだろうか？;;;;;;;;;;;;x
+EVTOPTC_SoA_5343;ここの修道士たちは本当によく食べるなあ…;;;;;;;;;;;;x
+EVTOPTD_SoA_5343;私はここに祈りに来たのだ。;;;;;;;;;;;;x
+EVTDESC_SoA_5219;近くの修道院の修道院長が、修道院教会の修繕に向けて寄付をするよう依頼してきた。確かに、修道士の祈りに自分が寄り添っていると証明することは悪いこととは言えまいが…;;;;;;;;;;;;x
+EVTOPTA_SoA_5219;主は私の教会への援助を知るだろう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5219;申し訳ないが、すぐに資金を用立てることができないのだ。;;;;;;;;;;;;x
+nick_the_maid;女将軍;;;;;;;;;;;;x
+nick_darc;ジャンヌダルク;;;;;;;;;;;;x
+most_lords_angry;この領国の領主の多くが[Root.GetTitledFirstName]に激怒するだろう。;;;;;;;;;;;;x
+most_clergy_angry;この領国の聖職者の多くが[Root.GetTitledFirstName]に激怒するだろう。;;;;;;;;;;;;x
+realm_religious_fervor;領国じゅうの人々が、宗教的情熱と領主の神聖なる使命に対する絶対的な信仰に心惹かれている。;;;;;;;;;;;;x
+EVTNAME_SoA_5353;[From.GetName]の乙女、[FromFrom.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_5353;[Root.GetLordLady]、[From.GetName]州から奇妙な知らせが届いています。かの州の人々は戦禍に苦しんでおり、ひとりの若い娘が皆の前に出て語るところによると、神が語りかけてきて、かの地に仇なす敵から我らを救うよう彼女に命じたとのことです。彼女は兵士たちとともに馬に乗り、鎧をまとい剣を振るっています。彼女の名は[FromFrom.GetFullName]といい、あなたの宮廷に働きかけて、この時より一指揮官としてあなたに仕えようと申し出ているそうです。\n\nもちろん、農民の小娘が[Root.GetTitle]の軍の元帥や将軍の役目を仰せつかるなど馬鹿げた話ですよね？;;;;;;;;;;;;x
+EVTOPTA_SoA_5353;彼女の願いを受け入れ、何ができるのか見せてもらおう。;;;;;;;;;;;;x
+jeanne_arrives_message;[From.GetName]の乙女、[FromFrom.GetFirstName]が[Root.GetTitledName]の宮廷に到着しました。;;;;;;;;;;;;x
+EVTNAME_SoA_5355;[From.GetFirstName] – 貴族たちの反応;;;;;;;;;;;;x
+EVTDESC_SoA_5355;[Root.GetTitle]、領国の諸侯が不満を言っています。彼らは、意欲があり軍を率いる資格がある高貴な貴族がいくらでもいるのに、生まれの賤しい小娘がこのような際立った地位に就くのを許されているのは、不適切でおかしなことだと考えているようです。なかには、このようなことをなさるのは自分たちを故意に侮辱しているのではないかと問いただす者までいる始末です。\n\nまた、彼女自身が神に使わされたと主張しているという問題があります。これにはどこか異端めいたところがあります。;;;;;;;;;;;;x
+EVTOPTA_SoA_5355;言わせておけ。私は[Root.GetTitle]なのだぞ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5355;わかっている。だがあの娘は下々の者に人気があるのでな。;;;;;;;;;;;;x
+EVTOPTC_SoA_5355;よろしい。あの娘を異端審問にかけてやる。;;;;;;;;;;;;x
+EVTNAME_SoA_5357;[From.GetFirstName]と[Root.GetTitle]位;;;;;;;;;;;;x
+EVTDESC_SoA_5357;ある晩、宮廷で[From.GetFirstName]が近くに来て、内密に話したいと言って来た。あなたは了解し、自分の個室へ招き座って話すことにした。[From.GetFirstName]は、キリストに関する彼女の考えと、敵から領邦を守るために戦った日々について話し始めた。彼女があなたの目を見て熱っぽく話す様からは、飾らない誠意と強い情熱がうかがい知れた。そして彼女は、選ばれし[Root.GetTitle]であるあなたに熱烈な忠誠心と愛情を抱いていると断言したのである。あなたは彼女の情熱と知性と誠意に強い感銘を受けた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5357;私に会いに来てくれてありがとう、[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTB_SoA_5357;親愛なる[From.GetFirstName]よ、そなたは本当に[Root.Religion.GetRandomGodName]から送られた者だ！;;;;;;;;;;;;x
+EVTOPTC_SoA_5357;お前が権力を欲しがっている偽者なのはわかっているぞ、[From.GetFirstName]。;;;;;;;;;;;;x
+EVTOPTD_SoA_5357;愛しているだって？ こちらに来るがいい…;;;;;;;;;;;;x
+EVTNAME_SoA_5358;使命;;;;;;;;;;;;x
+EVTDESC_SoA_5358;[FromFrom.GetFirstName]は、あなたに真剣な眼差しを向けて言った。「[Root.GetLordLady]、どうかお聞きください。この国は傷ついており、それを癒せるのは正当な支配権をお持ちのあなただけです。私があなたをお助けします。それが我らの主キリストから私に授けられた使命なのです。」;;;;;;;;;;;;x
+EVTOPTA_SoA_5358;まったくその通りだ。;;;;;;;;;;;;x
+EVTNAME_SoA_5359;熱情;;;;;;;;;;;;x
+EVTDESC_SoA_5359;[FromFrom.GetFirstName]は嬉し涙をいっぱいに浮かべてあなたを見つめた。「[Root.GetLordLady]、あなたはこの国で一番高貴で賢明な[Root.GetManWoman]性です。神は私を通じてあなたをお導きになり、人々をお守りになります。神のご意志とあなたの智恵によって導かれた、私の手にある正義の剣で私たちは勝利へ至るでしょう！」;;;;;;;;;;;;x
+EVTOPTA_SoA_5359;そうなるべきだ！;;;;;;;;;;;;x
+EVTNAME_SoA_5360;不信;;;;;;;;;;;;x
+EVTDESC_SoA_5360;[FromFrom.GetFirstName]は立ち上がったが、ショックを受け、その顔には戸惑いの色を浮かべていた。「[Root.GetLordLady]、あなたの非難は私をひどく傷つけるものです！私について邪悪な噂があることは聞いていましたが、あなたからそれを聞くとは考えもしませんでした。それでも、あなたへの忠誠はキリストから与えられたものであり、その方はあなたの信仰を汚す悪魔よりも強いのです。[Root.GetLordLady]、私は常にあなたの臣下にあり続けようと思います。」\n\n言い終えると同時に、涙を流しながら[FromFrom.GetFirstName]はあなたの前に跪いた。;;;;;;;;;;;;x
+EVTOPTA_SoA_5360;おい、そんな馬鹿げた小芝居は止めろ。;;;;;;;;;;;;x
+EVTNAME_SoA_5361;恋人たち;;;;;;;;;;;;x
+EVTDESC_SoA_5361;[FromFrom.GetFirstName]は黙ってあなたの隣に座り、あなたの目を見つめた。あなたは彼女を抱きしめてキスをした。彼女はかすかに身じろぎをしてささやいた。「閣下、貴方に触れられて私の手が震えているのにお気づきですか。私はキリストが最初に語りかけてきた時に戸惑いながらも言いしれないほどの嬉しさを感じました。そしていま貴方のお側にいられることにあの時と同じくらい体中に血が駆け巡っていくのを感じています。私たちが共にあるのは神のご意志であるように私は思います。」;;;;;;;;;;;;x
+EVTOPTA_SoA_5361;[FromFrom.GetFirstName]、後で寝室へ来るように。;;;;;;;;;;;;x
+EVTNAME_SoA_5362;貞節なる[FromFrom.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_5362;[FromFrom.GetFirstName]は口説き文句を聞いて後じさりをした。彼女はあなたに目を向けたが、その目には驚きと悲しみと怒りの色が浮かんでいた。「閣下、悪魔が私の貞節を試してつけ入るために、あなたにそのような邪悪な欲望の種をまくなど私は思いもしませんでした！私はキリストのものであり、どんな男のものでもないのです。ですが、ご安心ください、閣下。貴方への忠誠は以前のままです。ただ私の身体は冷たい鋼に傷つけられたり殉教することのないように残さねばならないのです。」;;;;;;;;;;;;x
+EVTOPTA_SoA_5362;わかった。;;;;;;;;;;;;x
+EVTNAME_SoA_5364;[From.GetFirstName]と民衆;;;;;;;;;;;;x
+EVTDESC_SoA_5364;領国じゅうに、身分の低い田舎娘の[From.GetFullName]が[Root.GetTitle]の信頼の厚い臣下となったという噂が飛び交っている。領国の敵を打ち負かす希望がふくらんできており、どの農民も、社会の最下層から救世主である乙女が出たという途方もない話を語りあい喜んでいる。;;;;;;;;;;;;x
+EVTOPTA_SoA_5364;あの娘はまさに生ける伝説だな！;;;;;;;;;;;;x
+EVTNAME_SoA_5366;[From.GetFirstName]が謁見を願い出た;;;;;;;;;;;;x
+EVTDESC_SoA_5366;[From.GetFirstName]が評議会の場に現れ、あなたに意見を述べる許可を求めてきた。彼女が言うには、軍事組織そのものが古い戦闘教義にとらわれてしまっており、指揮官たちに、より攻撃的な考え方を教えれば利益をもたらすことになるだろうし、もちろんさらなる宗教教育も必要なのだそうだ。\n\n出席した貴族のなかには、彼女の話を聞いて不平の声を漏らしている者もいる。;;;;;;;;;;;;x
+EVTOPTA_SoA_5366;ありがとう[From.GetFirstName]、とても良い考えだ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5366;助言が必要なときは私から聞く。でしゃばるな。;;;;;;;;;;;;x
+EVTOPTC_SoA_5366;思い上がりもはなはだしい！あの娘を捕らえよ！;;;;;;;;;;;;x
+EVTNAME_SoA_5368;[From.GetFirstName]と教会;;;;;;;;;;;;x
+EVTDESC_SoA_5368;ある朝、[Root.GetLordSpiritualName]の[Root.job_spiritual.GetFullName]が来て率直に思ったことを話した。「[Root.GetLordLady]、聖職者たちは、あの[From.GetFirstName]とかいう若い娘が高い地位に昇ったことに強い不満を持っています。教会組織には、あの娘の言っていることは異端だと考えている者もいれば、正直なところ、あの卑賤の出でほとんど教育も受けていないのに高い地位に昇っている者のせいで自分たちの立場が脅かされていると考えている者もいます。私が言いたいのは、将来の大きな危険を覚悟してまで、あんな小娘をかばう価値があるのか、お考えになる必要があるということなのです。」;;;;;;;;;;;;x
+EVTOPTA_SoA_5368;誰が[Root.GetTitle]なのか、その聖職者たちに思い出させて欲しい。;;;;;;;;;;;;x
+EVTOPTB_SoA_5368;あの娘はただの道具だ。教会が恐れる必要などない。;;;;;;;;;;;;x
+EVTOPTC_SoA_5368;よろしい。あの娘を審問にかけて異端かどうかはっきりさせよう。;;;;;;;;;;;;x
+EVTNAME_SoA_5370;[From.GetFirstName]の影響;;;;;;;;;;;;x
+EVTDESC_SoA_5370;奇妙な風潮だ。どこへ行っても、いたるところに[From.GetFirstName]の影響が感じられる。庶民たちはあの娘を祖国の救世主でありほとんどキリストの似姿のように考えており、彼らのなかには宗教的情熱が渦巻いているようだ。貴族の多くはあの娘を危険な成り上がり者と考えているにもかかわらず、同時にその素朴な信心深さと激しい情熱に魅了されている。一方で聖職者は異端と考えている者と聖人だと考えている者とに完全に分かれてしまっている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5370;我々は皆、あの娘のようになるよう努めねばならぬ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5370;狂信者は嫌いだが、今はあの娘を黙認しよう。;;;;;;;;;;;;x
+EVTNAME_SoA_5373;[From.GetName]の下賤な少女;;;;;;;;;;;;x
+EVTDESC_SoA_5373;[Root.GetChancellorName][Root.job_chancellor.GetFullName]が憂鬱そうな顔をして謁見を求めてきた。[Root.job_chancellor.GetSheHe]によると、貴族のあいだで、あなたが庇護している[FromFrom.GetFirstName]の地位について不平が高まってきているそうだ。彼らのほとんどは、あの娘がいくら敬虔で有能であるとはいえ、[From.GetName]の賤しい出自の娘が普通なら貴族のものであるはずの特権を享受していることを認めることができないのだ。これは農民たちにとってよくない先例となり、社会の不穏のもととなるかもしれないと彼らは恐れている。すでに[FromFrom.GetFirstName]と名門出身の軍の指揮官との間で礼法についての面倒ごとや無礼な言動が何度も起きている。\n\n多くの貴族はあの娘に長い間我慢を重ねてきたと感じており、なかにはいまだに彼女を捕らえて異端審問にかけたいと望んでいるものまでいるようなのだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5373;ふん！自分たちが無能だから嫉妬するはめになっているだけなのに！;;;;;;;;;;;;x
+EVTOPTB_SoA_5373;あの娘にもっと慎ましく話すよう言い聞かせておかねば。;;;;;;;;;;;;x
+EVTOPTC_SoA_5373;高貴な身分ではないだと？あの娘をつれてこい！騎士に叙すぞ！;;;;;;;;;;;;x
+EVTOPTD_SoA_5373;もう我慢の限界だ。あの娘を投獄せよ！;;;;;;;;;;;;x
+EVTNAME_SoA_5382;[From.GetFirstName]の結婚;;;;;;;;;;;;x
+EVTDESC_SoA_5382;高貴な生まれではない者の結婚式にこれほどの注目が集まるのは、この領国ではけっして見られなかったことだ。[From.GetFirstName]の結婚式では教会の鐘が鳴り響き、饗宴は十分な準備もできなかったが、領国じゅうの至るところで庶民たちによって礼拝が行われた。\n\nもはや乙女ではないだろうが、それでもいまだに領国じゅうで崇拝の対象となっているのだ。[Root.GetTitle]であろうと、この新郎新婦を祝して皆の前で乾杯をしなければならないだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5382;まったくだな！;;;;;;;;;;;;x
+EVTNAME_SoA_5385;母となった[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_5385;[From.GetFirstName]もかつては乙女であったが、もはやそうではない。教会はそのような言説には難色を示しているとはいえ、彼女の支持者のなかには処女受胎について語る者もいる。[From.GetFirstName]の姿がいまや変わってしまっていることは多くの人々の目にも明らかなのだが、彼女は賞賛の的であり続けようとしており、そして出産が終わると間もなく再び剣をとり、馬にまたがっている。;;;;;;;;;;;;x
+EVTOPTA_SoA_5385;なんとたくましい！;;;;;;;;;;;;x
+EVTNAME_SoA_5391;[From.GetFirstName]の審問;;;;;;;;;;;;x
+EVTDESC_SoA_5391;[From.GetFirstName]は異端審問にかけられた。彼女は自分がキリストによって、その使者として送られてきたと主張している。彼女は悪魔によって送り込まれ、なにより自らを神の娘であると称したうえに男装をするという罪を犯している̚かどで告発された。審問官はほとんどが聖職者で占められ、強硬な態度でその若い娘への尋問が始められた。多くの彼女の支持者たちが審問が行われている城の外に集まって祈りをささげ、口々に彼女の無実を主張しており、そこには不穏な空気が広がっていた。審問はまもなく終わろうとしているようだ。;;;;;;;;;;;;x
+EVTOPTA_SoA_5391;我々には真実だけが重要なのだ。;;;;;;;;;;;;x
+EVTNAME_SoA_5392;[From.GetFirstName]の審問 ー判決;;;;;;;;;;;;x
+EVTDESC_SoA_5392;[From.GetFirstName]は1ヶ月以上にわたる法廷での長い尋問をやり遂げた。法律と神学に証言の審査とあらゆる面から検討を重ねていったものの、審問はいまだ多くの真実を明らかでできていないようだ。彼女が神に使わされたのか悪魔に使わされたのか、全てはあなたがどちらだと信じたいのかに帰着するらしい。むしろ、彼女を有罪にするか無罪にするかのどちらが政治的に有利なのかということなっているのだ。若い[From.GetFirstName]自身は悲しい運命を迎えるものと思っているらしい。彼女は自らの運命を幻に見て何が起こるのか知っていると言ったのだ。\n法廷を囲む群衆はみな緊張して判決を待っている。もし[From.GetFirstName]が無罪となれば、審問での恥辱そのものが、彼女が国王の愛顧を失い、かつての地位に戻ることはないことを意味するであろう。だが有罪となれば、火刑による恐るべき死が確実に彼女を待ち受けることになるのだ。異端の徒には、いささかの慈悲もありはしないのだから。;;;;;;;;;;;;x
+EVTOPTA_SoA_5392;彼女は有罪だ。;;;;;;;;;;;;x
+EVTOPTB_SoA_5392;彼女は無罪だ。;;;;;;;;;;;;x
+EVTNAME_SoA_5394;[From.GetFirstName]の処刑;;;;;;;;;;;;x
+EVTDESC_SoA_5394;炎が段々強く燃え上がっていき、薪を食いちぎるかのようにパチパチという音をたてている。炎は[From.GetFirstName]の足下まで寄っていき、彼女は次第に身をよじり始めた。集まった群衆は呆然と黙り込んだままその光景をみつめている。彼女の死を強く願っている者もいるが、他の者は目の前の光景への恐怖に気圧されているのだ。この数ヶ月のあいだ領国じゅうの関心を集めていたこの女性の生涯は終わりを迎えつつある。彼女が聖人か悪魔かは見物人たちの中でも見解は分かれるだろうが、彼女が長年に渡って人々の記憶に残るであろうことは確かだ。やがては彼女の名誉回復が行われるかもしれないが、あるいはそうならないかもしれない。\n火が次第に高く燃えて[From.GetFirstName]の身体を包み込んでいくとともに、彼女は激しくけいれんしたが叫びはしなかった。その眼差しは天空にしっかりと向けられ、頬には涙が流れていた。今や多くの見物人は立ち去って行ったが、幾人かはその場に留まり目をそらすことができずにいる。やがて炎は[From.GetFirstName]を囲むように燃え上がり、彼女は視界から姿を消した。;;;;;;;;;;;;x
+EVTOPTA_SoA_5394;主よ、彼女の魂に慈悲をたれ給まえ。;;;;;;;;;;;;x
+EVTNAME_SoA_5395;無罪の[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_5395;[From.GetFirstName]の無罪判決は領国じゅうに様々な反応を起こした。農民たちはそれを祝ったが貴族と聖職者はより複雑な反応を示している。[From.GetFirstName]はこの数日を祈りに費やした。彼女はもはや以前のように軍隊を指揮することも、[Root.GetTitle]に快く意見を聞き容れられることもないということを理解している。それでも無罪判決は彼女の言動についての嫌疑を晴らしたのであり、彼女の身辺は平穏のようだ。彼女はもはや政治や軍略に関わることなく、その生涯を修道女として過ごすことに満足しているらしい。;;;;;;;;;;;;x
+EVTOPTA_SoA_5395;お前の身はもう安全だ、[From.GetFirstName]。;;;;;;;;;;;;x
+EVTNAME_SoA_5398;数年後…;;;;;;;;;;;;x
+EVTDESC_SoA_5398;最初の何年かは波瀾に満ちたものであったが、この国の皆は[FromFrom.GetFullName]に慣れてしまった。彼女を高く評価する人もいたがそうではない人もいた。しかし非常に激しい論争と騒動は収まり、今では人々はその他の問題に心を奪われている。彼女は今日も生きているのだ、若い頃の[From.GetName]の乙女の物語はもはや伝説の類になってしまってはいても。;;;;;;;;;;;;x
+EVTOPTA_SoA_5398;時が経てば、あらゆることが当たり前のものになってしまう。;;;;;;;;;;;;x
+EVTTOOLTIP306;[This.GetFirstName]はあなたの[This.GetSonDaughter]と見なされ、この後で嫡出子と認めることもできます;;;;;;;;;;;;x
+EVTNAME_SoA_550;大祭司（コヘン・ガドル）;;;;;;;;;;;;x
+EVTDESC_SoA_550;There has not been a Kohen Gadol – a High Priest of Judaism – since the Romans destroyed the Second Temple roughly a thousand years ago. At long last, this position has been filled and the High Priesthood reconstituted.\n\nLike the Jewish priests of ancient times, the Kohen Gadol was traditionally required to be a descendant of Aaron, the older brother of Moses. Due to a lack of suitable candidates this requirement has been waived, but the new High Priest still enjoys the respect of the Jewish religious communities, and the Priesthood has moved into and established itself at the Third Temple.;;;;;;;;;;;;x
+EVTOPTA_SoA_550;大祭司よ永遠なれ！;;;;;;;;;;;;x
+COMBATVIEW_PHASE_DESC_NARROW;この支隊の指揮官は、戦闘に有利な§Y狭い側面部§Wを見つけ、敵軍が全戦力投入をできなくしました。;;;;;;;;;;;;x
+NARROW_FLANK_BOTTLENECK;この側面部には難所があるため、支隊は$MAX_TROOPS$だけが戦うことができます。;;;;;;;;;;;;x
+EVTOPTE4140;そなたのことは忘れぬ;;;;;;;;;;;;x
+stop_backing_ambition;陰謀を断念した;;;;;;;;;;;;x
+succ_gavelkind_desc;統治者の称号は子供たちの間で分割され、最年長の者が主要称号を継承する。もし継承できる子供がいない場合は長子相続制と同様となる。領地を持たない子供がいても威信のペナルティを受けず、§Y30%§!多い直轄領を保有することができる。分割相続は長子以外の全員から見て好ましい法律である。分割相続制の下では称号を廃止することはできない。;;;;;;;;;;;;x
+SELECT_VASSAL_TO_TRANSFER;移譲する封臣を選んでください;;;;;;;;;;;;x
+EXECUTE_IMPRISONED_INTERACTION_7;§Y[Recipient.GetTitledFirstName]§!は取るに足らない人物なので、気にする者は誰もいないでしょう。;;;;;;;;;;;;x
+DUCHY_CAPITAL;公都;;;;;;;;;;;;x
+KINGDOM_CAPITAL;王都;;;;;;;;;;;;x
+EMPIRE_CAPITAL;帝都;;;;;;;;;;;;x
+CONTENTVIEW_INACTIVE;§R無効§!;;;;;;;;;;;;x
+CONTENTVIEW_ACTIVE;§G有効§!;;;;;;;;;;;;x
+CONTENTVIEW_MANAGE;管理;;;;;;;;;;;;x
+CONTENTVIEW_BROWSE;ブラウザ;;;;;;;;;;;;x
+CONTENTVIEW_DLC;DLC;;;;;;;;;;;;x
+CONTENTVIEW_MOD;MOD;;;;;;;;;;;;x
+CONTENTVIEW_HEADER;新たなコンテンツのダウンロード;;;;;;;;;;;;x
+CONTENTVIEW_PUBLISH_HEADER;MODを公開;;;;;;;;;;;;x
+CONTENTVIEW_PUBLISH_TITLE_LABEL;称号：;;;;;;;;;;;;x
+CONTENTVIEW_PUBLISH_DESC_LABEL;詳細：;;;;;;;;;;;;x
+CONTENTVIEW_PUBLISH;公開;;;;;;;;;;;;x
+CONTENTVIEW_UPDATE;更新;;;;;;;;;;;;x
+ALL_SUBUNITS_EITHER_MERC_OR_HOLY;傭兵団と宗教騎士団だけで構成されている翼部隊に指揮官を任命することはできません。;;;;;;;;;;;;x
+SM_AUTOSAVETOCLOUD;本Modはクラウド自動保存無効;;;;;;;;;;;;x
+FE_LOCAL;ローカル;;;;;;;;;;;;x
+FE_REMOTE;クラウド;;;;;;;;;;;;x
+SPLIT_QUICK_MENU;特殊な部隊を分離;;;;;;;;;;;;x
+SPLIT_MERCENARIES_OPTION;傭兵団を分離;;;;;;;;;;;;x
+SPLIT_HOLY_ORDERS_OPTION;宗教騎士団を分離;;;;;;;;;;;;x
+SPLIT_RETINUES_OPTION;常備軍を分離;;;;;;;;;;;;x
+SPLIT_EVENT_SPAWNED_OPTION;イベント部隊を分離;;;;;;;;;;;;x
+VASSAL_OPINION_CHANGE;すべての家臣の§Y$ACTIVE$§!への評価が$MUCH$変化します;;;;;;;;;;;;x
+FE_IRONMAN;Ironman;;;;;;;;;;;;x
+RANDOM_CHARACTER_DESC;プレイ可能なキャラクターをランダムで選択します;;;;;;;;;;;;x
+IRONMAN_MODE_DESC;鉄人モードでプレイすると、ゲームを手動セーブすることができません。鉄人モードでのみSteam実績を解除することができます。;;;;;;;;;;;;x
+KING;王;;;;;;;;;;;;x
+QUEEN;女王;;;;;;;;;;;;x
+IRONMAN_MOD_NOSTART;ゲームが変更されている場合、鉄人モードで開始することはできません。;;;;;;;;;;;;x
+IRONMAN_MODE_ENABLED;鉄人モード: §G有効§!;;;;;;;;;;;;x
+IRONMAN_MODE_DISABLED;鉄人モード: §R無効§!;;;;;;;;;;;;x
+CHARACTER_CHANGE_DISABLED;You cannot change character right now.;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING;セーブに失敗しました;;;;;;;;;;;;x
+SAVEGAME_ERROR_WRITING_UNKNOWN;不明な理由によってゲームを保存できませんでした。\n\nファイル名に禁止文字を使用していませんか？\n十分な空き容量はありますか？;;;;;;;;;;;;x
+FE_SAVE_UNSYNC_TITLE;ファイルを非同期にする;;;;;;;;;;;;x
+FE_SAVE_UNSYNC_DESC;これによりクラウドストレージからセーブデータが削除されます。ローカルファイルは削除されません。;;;;;;;;;;;;x
+IRONMAN_START;鉄人モード開始;;;;;;;;;;;;x
+tribal_invasion_succ_tip;§Y[Root.GetTitledFirstName]§!は全ての領地を獲得します。\n§Y[Root.GetTitledFirstName]§!は§Y[From.GetTitledFirstName]§!に属する§Y[This.GetFullBaseName]§!内の全ての称号を獲得するか、臣従させます。\n;;;;;;;;;;;;x
+CONTENTVIEW_TERMS;このアイテムを投稿することにより、Steam Workshopの利用規約に同意したことになります。;;;;;;;;;;;;x
+AIREASON_TARGET_MORE_POWERFUL_COLLEGE;相手は貴方より多くの枢機卿を支配しています。;;;;;;;;;;;;x
+RELHEAD_IMMORAL;悪評判を持っている;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_SETUP;貴方の家臣は枢機卿に任命されました。;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_LETTER;貴方の封臣$NEWHOLDER$は枢機卿の座を与えられました。;;;;;;;;;;;;x
+TITLE_GAINED_RELIGIOUS_PLAYER_LOG;貴方の封臣$NEWHOLDER$は枢機卿の座を与えられました。;;;;;;;;;;;;x
+SHEPHERDS_CRUSADE;牧童十字軍;;;;;;;;;;;;x
+INTERACTION_REQUIRED_NONCONTESTED_TITLE;§Y[ThirdPartyTitle.GetFullName]§!は§Y進行中の戦争§!に関わっていない;;;;;;;;;;;;x
+HINT_CARDINAL_VIEW_TITLE;枢機卿インターフェース;;;;;;;;;;;;x
+HINT_CARDINAL_VIEW_TEXT_1;この画面では枢機卿会を見ることができます。現教皇が亡くなった際に彼らの中から次の教皇を選出する責任を持っています。また、その際に誰が教皇に選出される可能性が高いかを示してもいます。;;;;;;;;;;;;x
+HINT_CARDINAL_VIEW_TEXT_2;カトリックの司教は誰もが枢機卿会の一員となりえます。すべての司教は教皇が空いた議席に入れるのに用いる得点を持っています。この得点は非常に多くの要素から算定されますが、教皇に金を約束することで、あなたも直接それに影響を与えることができます。これにより教皇はあなたの領国の司祭を選ぼうとする傾向が高くなるでしょう。;;;;;;;;;;;;x
+HINT_CARDINAL_VIEW_TEXT_3;Each cardinal has a single vote he can cast for who he wants to become the next Holy Father of the Catholic Church. The one with the most support is known as the Preferatus and is most likely to become the new Pope.;;;;;;;;;;;;x
+EVTNAME_SoA_5400;[From.GetName]の虐殺;;;;;;;;;;;;x
+EVTDESC_SoA_5400;[Root.GetLordLady]、異教徒どもの都市[From.GetName]が我々に降伏しました。我々はその地で略奪を行なって異教徒どもを懲らしめていたのですが、一部で行き過ぎがあったようです。その街の住民には様々な信仰を持つ者たちがおり、兵士たちには異教徒とそうではない者との区別が付かなかったのでしょう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5400;皆殺しにしろ！神は信徒だけを救ってくださるだろう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5400;我々は自制せねばならん。兵たちを止めよ。;;;;;;;;;;;;x
+EVTNAME_SoA_5401;牧童十字軍;;;;;;;;;;;;x
+EVTDESC_SoA_5401;現在の十字軍によって生じた経済的圧力と宗教的情熱によって、農民たちの間にはただならぬ不安が生じている。「ハンガリーの主」と呼ばれている、一人の奇妙な年老いた修道士が教会組織を批判し、庶民たちに「牧童十字軍」について説いて回っている。彼はすでに多くの支持者を集めている。彼らはまるで羊飼いの軍勢のようであり、国じゅうで司祭たちを襲撃しユダヤ人たちを殺害している。言うまでもなく教会はこれを快く思っていない。首都を歩き回っているこの群衆は[Root.GetTitle]の支援が得られるかどうか話し合っている。これがどう終わるのか知る者はいない。;;;;;;;;;;;;x
+EVTOPTA_SoA_5401;金で奴らをなだめてみよう。;;;;;;;;;;;;x
+EVTOPTB_SoA_5401;我らの理念のために彼らから兵を募ってみるべきだ。;;;;;;;;;;;;x
+EVTOPTC_SoA_5401;犯人たちを吊るさねばならん。;;;;;;;;;;;;x
+EVTDESC_SoA_5403;牧童十字軍は大変な恐怖と苦しみを引き起こし、この国を何ヶ月にも渡って悩ませ続けている。しかし最近では、次第に最初にあった強さと情熱を失いつつあるようだ。いくつかの報告によれば、人々は故郷に帰り、冒険すべてを諦めていっており、運動そのものが解散しつつあるという。;;;;;;;;;;;;x
+EVTOPTA_SoA_5403;[Root.Religion.GetRandomGodName]を讃えよ！;;;;;;;;;;;;x
+EVTDESC_SoA_5409;[From.GetTitledName]が牧童十字軍の者たちに捕らえられ処刑された！;;;;;;;;;;;;x
+EVTOPTA_SoA_5409;なんてことだ！;;;;;;;;;;;;x
+EVTDESC_SoA_5410;私がキリスト教に関心を持っていることが領国のとある医師の耳に届いたらしい。私たちは会って神学や様々なことについて非常に実りのある議論を交わした。;;;;;;;;;;;;x
+EVTOPTA_SoA_5410;友ができた！;;;;;;;;;;;;x
+EVTDESC_SoA_5411;私がイスラム教に関心を持っていることが領国のとある医師の耳に届いたらしい。私たちは会って神学や様々なことについて非常に実りのある議論を交わした。;;;;;;;;;;;;x
+EVTOPTA_SoA_5411;友ができた！;;;;;;;;;;;;x
+EVTDESC_SoA_5412;私が原始宗教に関心を持っていることが領国のとある医師の耳に届いたらしい。私たちは会って神学や様々なことについて非常に実りのある議論を交わした。;;;;;;;;;;;;x
+EVTOPTA_SoA_5412;友ができた！;;;;;;;;;;;;x
+EVTDESC_SoA_5413;私がゾロアスター教に関心を持っていることが領国のとある医師の耳に届いたらしい。私たちは会って神学や様々なことについて非常に実りのある議論を交わした。;;;;;;;;;;;;x
+EVTOPTA_SoA_5413;友ができた！;;;;;;;;;;;;x
+EVTDESC_SoA_5414;私がユダヤ教に関心を持っていることが領国のとある医師の耳に届いたらしい。私たちは会って神学や様々なことについて非常に実りのある議論を交わした。;;;;;;;;;;;;x
+EVTOPTA_SoA_5414;友ができた！;;;;;;;;;;;;x
+EVTDESC_SoA_5420;私はどうしようもなく邪教徒どもが憎い！奴らを叩き潰し、何があろうともあのクズどもを殺し、この地上から追い払ってしまえ！邪教徒の畜生どもめ！ああああ！どうしようもなく奴らが憎い！大っ嫌いだ！;;;;;;;;;;;;x
+EVTOPTA_SoA_5420;おっと、大声を出してしまったかな？;;;;;;;;;;;;x
+EVTDESC_SoA_5422;新たな信仰は私を強くしてくれるが、かつて私がしてきたことを忘れたり、いまだに古い教えに従っている者を見下すつもりはない。;;;;;;;;;;;;x
+EVTOPTA_SoA_5422;彼らもやがて真理を理解するだろう。;;;;;;;;;;;;x
+EVTDESC_SoA_5423;My new faith infuses me with strength. But it vexes me that there are still those who do not follow the way of [Root.Religion.GetRandomGodName].;;;;;;;;;;;;x
+EVTOPTA_SoA_5423;邪教徒どもめ！;;;;;;;;;;;;x
+EVTDESC_SoA_5425;イスラム教徒である我々は、アブラハムから、イシュマエルから、イサクから、ヤコブから、その子孫から信じ続けられ、モーセやイエス、すべての予言者に御告げを授けた神を信仰している。そのすべてを区別するべきではなく、蔑ろにすることは神への信仰として相応しくない。;;;;;;;;;;;;x
+EVTOPTA_SoA_5425;我々はユダヤ教徒やキリスト教徒を、彼ら自身の過ちを論って責めるべきではない。;;;;;;;;;;;;x
+nick_the_master_of_hungary;ハンガリーの名士;;;;;;;;;;;;x
+insulted_realm_infidels;貴方の領地内で異教徒が侮辱されている。;;;;;;;;;;;;x
+EVTNAME_SoA_5345;滞在者;;;;;;;;;;;;x
+EVTDESC_SoA_5345;You have received a visitor, a monk from one of the monasteries on the fabled Mount Athos on the Chalkidiki peninsula in Greece. He tells you that the monks are constantly expanding their presence and constructing new monasteries at this most holy site. However, building for the glory of [Root.Religion.GetRandomGodName] requires earthly funds, he explains, and this is why he has come to see you.\n\nIf you would demonstrate your piety by donating a large sum of gold to the monasteries on Mount Athos, it would surely become known all over the land that you have done so, and you would of course also be mentioned in the monks' daily prayers.;;;;;;;;;;;;x
+EVTOPTA_SoA_5345;もちろん彼らは私に援助されるべきだろう！;;;;;;;;;;;;x
+EVTOPTB_SoA_5345;今手持ちがないのだ…;;;;;;;;;;;;x
+EVTNAME_SoA_5346;招待状;;;;;;;;;;;;x
+EVTDESC_SoA_5346;殿、かのアトス山の神聖なる修道院からぜひともご来駕願いたいとの書状が届いています！あそこの修道士たちは自分たちの領域に人を寄せ付けようとしないので、このような招待は確実にあなたの衆に抜きん出た高貴さの現れといえるでしょう。\n\n聖地としてのアトス山は聖母マリアがそこを訪れたときには始まったと言われています。彼女は自分のための庭園を造ってくれるよう、その息子イエスに頼んだところから、この地を愛していました。そのため、かの山と半島は「神の母の庭園」として捧げられました。こうした経緯から、いかなる女性もこの神聖な土地に足を踏み入れることをを禁じられているのです。しかし修道士たちは何百年ものあいだそこに住んでおり、年月が経つにつれて幾多の修道院が建てられていったのです。;;;;;;;;;;;;x
+EVTOPTA_SoA_5346;ぜひとも行かねば！;;;;;;;;;;;;x
+EVTOPTB_SoA_5346;行けないと修道士たちに伝えてくれ。;;;;;;;;;;;;x
+EVTNAME_SoA_5347;アトス山;;;;;;;;;;;;x
+EVTDESC_SoA_5347;さあ、ここがアトス山です！小舟から岸に上がると、あなたは修道士たちの一団に迎えられ、この近くにある今夜宿泊する予定の修道院へと案内されていきます。素晴らしい光景と今もなお建て続けられている修道院の建物の数々にあなたは感銘を受けました。ここは本当に不思議で素晴らしいところです！\n\nあなたは何日かここに滞在し、この訪問の機会を最大限に利用したいと考えています。;;;;;;;;;;;;x
+EVTOPTA_SoA_5347;ここの修道院の全てを見なければ。ここの建築物はなんとも魅力的だ！;;;;;;;;;;;;x
+EVTOPTB_SoA_5347;ここの賢明な修道士たちと対話して過ごそう。;;;;;;;;;;;;x
+EVTOPTC_SoA_5347;私はここに祈りに来たのだ。;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_TITLE;請求権要求;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_DESC;§Y[Actor.RelHead.GetTitledFirstName]§!に§Y[ThirdPartyTitle.GetFullName]§!の称号に対する請求権を授与するように要求します。[Player.Religion.GetPietyName]を§R[GetPietyCost]§!消費します。;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_LONG_DESC;宗教指導者は、公爵位や伯爵位の強い請求権を与えることができます。しかし要求する行為は[Player.Religion.GetPietyName]を消費します。;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!は§Y[Recipient.GetBestName]§!から§Y[ThirdPartyTitle.GetFullName]§!の強い請求権を受け取った;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_DECLINE_SETUP;請求権要求を拒否;;;;;;;;;;;;x
+ASK_FOR_CLAIM_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!は§Y[Actor.GetBestName]§!による§Y[ThirdPartyTitle.GetFullName]§!の強い請求権の要求を拒否した;;;;;;;;;;;;x
+AIREASON_TARGET_EXCOMMUNICATED;相手は破門されてます。;;;;;;;;;;;;x
+TITLE_REQUEST_CLAIM_SELECTED_COST;これは§Y$RELHEADNAME$§!のあなたに対する評価を、§Y$MONTHS$§!カ月の間、§R$AMOUNT$§!変化させます。;;;;;;;;;;;;x
+EVTDESC_SOA_3104;請求権の要求が認められました。;;;;;;;;;;;;x
+EVTDESC_SOA_3105;請求権の要求が拒否されました。;;;;;;;;;;;;x

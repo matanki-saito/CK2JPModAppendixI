@@ -1,0 +1,66 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+WIKIPEDIA_LINK;§Yウィキペディアリンク§W;;;;;;;;;;;;x
+WIKIPEDIA_LINK_DESC;ブラウザでこの人物のウィキペディアのページを開きます;;;;;;;;;;;;x
+WIKIPEDIA_LINK_MISSING;§Yこの人物のウィキペディアリンクはありません§W;;;;;;;;;;;;x
+WIKIPEDIA_LINK_DISABLED;ウィキペディアリンクが無効になっています;;;;;;;;;;;;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§!は最近、[GetPossPronoun]の罪を悔い改めた;;;;;;;;;;;;x
+OL_DISABLED_ALERTS;アラートを無効化;;;;;;;;;;;;x
+alert_deficits_name;赤字;;;;;;;;;;;;x
+alert_country_at_war_name;戦時下だ;;;;;;;;;;;;x
+alert_casus_belli_will_expire_name;一時的な開戦事由;;;;;;;;;;;;x
+alert_allies_not_called_in_name;同盟国に参戦要請が可能;;;;;;;;;;;;x
+alert_build_province_improvement_name;州で新しい建物を建築可能;;;;;;;;;;;;x
+alert_troops_in_foreign_territory_name;部隊が外国の領土にいる;;;;;;;;;;;;x
+alert_revoltrisk_in_provinces_name;反乱の恐れ;;;;;;;;;;;;x
+alert_available_decision_name;重要な決断;;;;;;;;;;;;x
+alert_noheir_name;跡継ぎが不在;;;;;;;;;;;;x
+alert_court_not_filled_name;評議会の欠員;;;;;;;;;;;;x
+alert_lose_title_on_succ_name;継承による称号の損失;;;;;;;;;;;;x
+alert_should_nominate_heir_name;後継者の指名;;;;;;;;;;;;x
+alert_you_can_create_titles_name;称号を創設可能;;;;;;;;;;;;x
+alert_you_can_usurp_titles_name;称号を簒奪可能;;;;;;;;;;;;x
+alert_ruler_should_marry_name;当主が未婚;;;;;;;;;;;;x
+alert_heir_should_marry_name;跡継ぎが未婚;;;;;;;;;;;;x
+alert_should_appoint_guardian_name;後見人のいない子供がいる;;;;;;;;;;;;x
+alert_demesne_too_big_name;直轄領が多すぎる;;;;;;;;;;;;x
+alert_adult_sons_notitle_name;所領を持たない息子がいる;;;;;;;;;;;;x
+alert_betrothed_should_marry_name;婚約者と婚姻可能;;;;;;;;;;;;x
+alert_can_imprison_name;正当な投獄理由;;;;;;;;;;;;x
+alert_titles_may_pass_from_realm_name;封臣の継承の警告;;;;;;;;;;;;x
+alert_can_call_vassals_to_arms_name;かつての主君の封臣を戦争に参加させることができる。;;;;;;;;;;;;x
+alert_available_plot_name;新たに陰謀を行うことができる;;;;;;;;;;;;x
+alert_vassal_levies_raised_long_name;封臣の召集軍動員が長すぎる;;;;;;;;;;;;x
+alert_owns_wrong_settlement_type_name;直轄領の中に不適切な種類の領地がある;;;;;;;;;;;;x
+alert_no_ambition_name;野心を選択;;;;;;;;;;;;x
+alert_dejure_claim_name;慣習的領有権を行使可能;;;;;;;;;;;;x
+alert_truce_expiring_name;休戦協定の失効が近い;;;;;;;;;;;;x
+OPINION_OF_ME;私への評価;;;;;;;;;;;;x
+MY_OPINION_OF_CHAR;私の$CHAR$の評価;;;;;;;;;;;;x
+ALERT_DISABLED;無効;;;;;;;;;;;;x
+ALERT_DISABLED_TOOLTIP;無効\n§Yクリックすると適用される§!;;;;;;;;;;;;x
+ALERT_DISMISSED;却下;;;;;;;;;;;;x
+ALERT_DISMISSED_TOOLTIP;却下\n§Yクリックすると適用される§!;;;;;;;;;;;;x
+SAME_GUARDIAN_AS;後見人が同一;;;;;;;;;;;;x
+NOT_SAME_GUARDIAN_AS;後見人が同一でない;;;;;;;;;;;;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;戦力補充: §Y+$NUM$§!/月;;;;;;;;;;;;x
+NO_LEVY_REINF_GARRISON;§R召集軍は守備隊が満員になるまで増強されません§!;;;;;;;;;;;;x
+d_ghilman;グラーム;;;;;;;;;;;;x
+d_ghilman_adj;グラーム;;;;;;;;;;;;x
+county_isolated;孤立した州;;;;;;;;;;;;x
+TITLE_TIER_IS_LOWER;§Y$NAME$§!は §Y$RANK$§!より下級の称号だ\n;;;;;;;;;;;;x
+TITLE_TIER_IS_NOT_LOWER;§Y$NAME$§!は §Y$RANK$§!より下級の称号でない\n;;;;;;;;;;;;x
+TITLE_TIER_IS_HIGHER;§Y$NAME$§!は §Y$RANK$§!より上級の称号だ\n;;;;;;;;;;;;x
+TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$§!は §Y$RANK$§!より上級の称号でない\n;;;;;;;;;;;;x
+MSG_SETTING_PRIO6;ゲームを一時停止します。;;;;;;;;;;;;x
+MSG_SETTING_CLOSE_COL;この行は、あなたと土地を持たない近親者に対するメッセージの挙動を決定します。;;;;;;;;;;;;x
+MSG_SETTING_OTHER_COL;この行は、注目している人物に対するメッセージの挙動を決定します。;;;;;;;;;;;;x
+MSG_SETTING_INTEREST_COL;この行は、特に注目している人物に対するメッセージの挙動を決定します。;;;;;;;;;;;;x
+MSG_SETTING_CLOSE_BUT;このボタンは、あなたと土地を持たない近親者に対するメッセージの挙動を示している。;;;;;;;;;;;;x
+MSG_SETTING_INTEREST_BUT;このボタンは、特に注目している人物に対するメッセージの挙動を示している。;;;;;;;;;;;;x
+MSG_SETTING_OTHER_BUT;このボタンは、注目している人物に対するメッセージの挙動を示している。;;;;;;;;;;;;x
+SPECIAL_INTEREST_CHARACTERS;特に注目している人物;;;;;;;;;;;;x
+CIW_MESSAGES;§Y特に注目するを切り替え§!;;;;;;;;;;;;x
+CIW_MESSAGES_DEL;特に注目している人物は、アウトライナーに表示され、また固有のメッセージ設定を持つ。;;;;;;;;;;;;x
+EVTDESC24503;他の息子達は[From.GetTitledFirstName]の才能に足元にも及ばない。あいつは剣の扱い方を分かっていたし、私の死後は偉大な[Root.GetTitle]になっていただろう。;;;;;;;;;;;;x
+EVTOPTD50006;しかし...お前はもう解放しなかったか？;;;;;;;;;;;;x

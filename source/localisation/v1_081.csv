@@ -1,0 +1,10 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_SETUP;派閥が新しいリーダーを擁立;;;;;;;;;;;;x
+FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§!が「$OBJECTIVE$」派閥の新しいリーダーになった;;;;;;;;;;;;x
+BUILDING_PREREQ_FAIL;（§RX§!）§G$BUILDING$§!がある;;;;;;;;;;;;x
+IS_NOT_AT_SEA;海上にいない;;;;;;;;;;;;x
+IS_AT_SEA;海上にいる;;;;;;;;;;;;x
+SongsOfTheRusDLC;『Songs of the Rus』;;;;;;;;;;;;x
+RussianUnitPackDLC;『Russian Unit Pack』;;;;;;;;;;;;x
+RussianPortraitsDLC;『Russian Portraits』;;;;;;;;;;;;x

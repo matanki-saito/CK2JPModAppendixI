@@ -1,0 +1,59 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+HOLD_ELECTION_EFFECT;$TITLE$の保持者に選出された。\n;;;;;;;;;;;;x
+ANTI_POPE_CESSATION_LOG;§Y$ANTIPOPE$§!の対立教皇は終わりました。;;;;;;;;;;;;x
+TRIGGER_BEST_CRUSADE_CLAIMANT;Best Claimant;;;;;;;;;;;;x
+CRUSADE_DESC_DRO_3;§Y$TITLE$§!の冠には優れた$RELIGION$請求者がいるため、獲得した領土は、すべて最強の候補者 - 現在は§Y$RULER$§!に与えられる。 戦争に貢献した請求者が優先される。;;;;;;;;;;;;x
+restore_pope_in_rome;ローマ教皇庁を復興;;;;;;;;;;;;x
+restore_pope_in_rome_desc;The Holy Father has lost control of his secular domain, but it is within my power to restore the Eternal City to him!;;;;;;;;;;;;x
+opinion_restored_to_rome;ローマの再建;;;;;;;;;;;;x
+opinion_creator_of_rel_heal;Created my Office;;;;;;;;;;;;x
+EVTDESC_SOA_2609;この騎士団はその名を、別の地ではムーア人殺しの聖ヤコブとしても知られているサンティアゴ・マタモロスから借りている。サンティアゴ騎士団は[Root.Religion.GetName]教会からの公式な支援を受け、その騎士たちは皆[Root.Religion.GetName]当主からの依頼があれば異教徒と異端者の領地をすべて浄化することを誓っている。;;;;;;;;;;;;x
+EVTDESC_SOA_2709;カラトラヴァ騎士団は十字架の兵士たちに最も新しく加わった、[Root.Religion.GetName]教会の布告によって認可されたばかりの騎士団である。この騎士たちはその名前をムスリムの邪教徒共の支配から奪還したイベリアの城から取っており、維持費を提供してくれる[Root.Religion.GetName]の全ての当主の名のもとに邪教徒と戦い信仰を守る準備がある。;;;;;;;;;;;;x
+EVTDESC39100;新しい宗教騎士団の設立を認可する法令が布告された―聖ヨハネ騎士団である。以前から既にエルサレムでの病気の巡礼者の保護と治療のために働いていた騎士たちは今や[Root.Religion.GetName]教会の力を背後に得ている。敬虔な[Root.Religion.GetName]の当主は異端者や異教徒に対する戦争に彼らの支援を要請することが出来るが、彼らは自身の信仰のためには戦うことはない。;;;;;;;;;;;;x
+EVTDESC39101;新しいキリスト教騎士団が裕福な騎士の小集団によって設立された。キリストとソロモン神殿の貧しき戦友たち、あるいは略してテンプル騎士団は、聖地を巡って旅する巡礼者を保護する誓いを立てている。[Root.Religion.GetName]教会は騎士団を全力で支持しており、そのために敬虔な[Root.Religion.GetName]の当主は異端者や邪教徒と戦うときにだけ援助を求めることが出来る。;;;;;;;;;;;;x
+EVTDESC39102;[Root.Religion.GetName]教会と神聖ローマ皇帝の支援の下、「ドイツ人の聖母マリア騎士修道会」が結成された。 聖ヨハネ騎士団、テンプル騎士団とよく似たチュートン騎士団は、聖地への巡礼者の護衛と治療を主な目的としていたが、活動資金を喜んで支払ってくれる[Root.Religion.GetName]の領主であれば誰にでも仕えた。 宗教騎士団であるため、彼らが戦うのは異端者と異教徒に対してのみである。;;;;;;;;;;;;x
+EVTDESC_SOA_1709;聖アントニウスの騎士たちは世界でも有数の歴史を持つ騎士集団である。370年、隠者アントニウスの弟子達がエチオピア皇帝の庇護の下で創設したのが聖アントニウス騎士団である。\n\nこの騎士団は何世紀ものあいだ目立たないままでいたが、いま再び強大な勢力として表舞台に現れた。彼らの掲げる目的は、[Root.Religion.GetName]のキリスト教徒を彼らに害なすあらゆる者から守り、あらゆる異端と邪教の土地を見つけ次第一掃することである。;;;;;;;;;;;;x
+EVTDESC_SOA_1809;Some of Persia's finest warriors have taken it upon themselves to found a new holy order dedicated to safeguarding the [Root.Religion.GetName] faith. They call themselves the Immortals, just like the ancient Persian warrior elite described by Herodotus, and they seem intent on carrying on the martial traditions of their legendary predecessors.\n\nThis militant holy order has sworn to fight against all who would threaten the legacy of Zoroaster, and to never again allow Zoroastrianism to suffer the reverses it did in the wake of the Arab conquests of the 7th century.;;;;;;;;;;;;x
+EVTDESC_SOA_1209;ホラーサーンの神秘主義者 ハジュ・べクタシュ・ワリの指導のもと、ダルウィーシュ(托鉢僧)のスーフィー教団が生まれた。'存在一性' を目指し、ベクタシュ教徒は瞑想とコーランの内なる意味への黙考を通じて魂を高めている。ベクタシュ教戦士は、好戦的で [Root.Religion.GetName]のムスリム戦士たちの間では、特に人気がある。彼らはイスラームを守護し、あらゆる邪教徒や多神教徒と戦うのだ。;;;;;;;;;;;;x
+EVTDESC88000;[Root.Religion.GetName]の宣教師ハサン・サッバーフが、ペルシア西部のどこかで「ハッシャーシーン」という宗教団体を結成したという噂が広がりつつある。この訓練された暗殺者たちで構成された謎めいた狂信者集団は、策略と狡猾な手段を用いてアラムート山の要塞を支配下に置き、そこを本拠地にしてしまった。すでにハサンに盲従し恐れを知らない弟子たちの手による凶悪な殺人が続発している…;;;;;;;;;;;;x
+donate_money_to_assassins;アサシン教団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_assassins_desc;[Player.Religion.GetPietyName]を得るのと引き換えに、アサシン教団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_bektashi;ベクタシュ教団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_bektashi_desc;[Player.Religion.GetPietyName]を得るのと引き換えに、ベクタシュ教団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_knights_templar;テンプル騎士団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_knights_templar_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、テンプル騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_knights_hospitaler_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖ヨハネ騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_teutonic_order_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、ドイツ騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_knights_santiago_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、サンティアゴ騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_knights_calatrava_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、カラトラヴァ騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_holy_sepulchre_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖墳墓同胞団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_saint_anthony_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬される続けるのと引き換えに、聖アントニウス騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_the_immortals_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、不死隊にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_the_zealots_desc;[Root.Religion.GetName]の聖職者たちからその[Root.Religion.GetPietyName]を生涯にわたって尊敬され続けるのと引き換えに、熱心党にお金を寄付します。;;;;;;;;;;;;x
+EVTDESC_SOA_1841;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation will aid us greatly in our continued defense of the [Root.Religion.GetName] faithful! You have my friendship, as well as that of the priesthood.\n\nBy Zoroaster's will,\nGrand Master [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1941;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation will aid us greatly in our continued defense of Jerusalem, the Third Temple and the [Root.Religion.GetName] faith! You have my friendship, as well as that of the priesthood.\n\nRemember Masada!\nGrand Master [From.GetFirstName];;;;;;;;;;;;x
+PREVENT_DECADENCE;この人物は一族の退廃に影響を与えません。;;;;;;;;;;;;x
+TITLE_REQUEST_CLAIM;請求権;;;;;;;;;;;;x
+TITLE_REQUEST_CLAIM_TOOLTIP;この称号の請求権を求める;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_COUNTIES_OTHER_REALM;§R自分の領地外にある伯爵位を簒奪することはできません;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_BARONIES;§R男爵位を簒奪することはできません;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_OWN;§R強い請求権なしに自分の領地の称号を簒奪することはできません！;;;;;;;;;;;;x
+TITLE_NEW_PRIMARY_NOT_SAME_RANK;§R新しい主要称号は、元の主要称号と同じ階位でなければなりません！;;;;;;;;;;;;x
+TITLE_NEW_PRIMARY_IS_SAME;既に主要称号になっています！;;;;;;;;;;;;x
+TITLE_NEW_PRIMARY_IS_PATRICIAN;§R都市貴族の居住地を主要称号に設定することはできません！;;;;;;;;;;;;x
+asked_for_claim;請求権を求めた;;;;;;;;;;;;x
+REQUEST_ANSWER_YES;§Gこの要求は受諾される§!;;;;;;;;;;;;x
+REQUEST_ANSWER_MAYBE;§Yこの要求は受諾される可能性あり§!;;;;;;;;;;;;x
+REQUEST_ANSWER_NO;§Rこの要求は拒否される§!;;;;;;;;;;;;x
+HymnsOfAbrahamDLC;『Hymns of Abraham』;;;;;;;;;;;;x
+WoFUPDLC;『Warriors of Faith Unit Pack』;;;;;;;;;;;;x
+MOUPDLC;『Military Orders Unit Pack』;;;;;;;;;;;;x
+REVOKE_TITLE_TOOLTIP;§Y$HOLDER$§!から§Y$TITLE$§!の称号を剥奪する;;;;;;;;;;;;x
+TITLE_DESTROY_TOOLTIP_IS_NOT_PRIMARY;称号は主要称号ではない;;;;;;;;;;;;x
+TITLE_DESTROY_TOOLTIP_CAN_AFFORD;威信§Y$PRESTIGE$§!を失う余裕があります;;;;;;;;;;;;x
+TITLE_DESTROY_IS_NOT_GAVELKIND;継承法が分割相続制ではない;;;;;;;;;;;;x
+temple_baron_jewish_group;ラビ;;;;;;;;;;;;x
+temple_count_jewish_group;コーエン;;;;;;;;;;;;x
+temple_duke_jewish_group;ラバン;;;;;;;;;;;;x
+temple_king_jewish_group;ナシ;;;;;;;;;;;;x

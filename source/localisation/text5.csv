@@ -1,0 +1,49 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC60010;偉大な[Root.GetTitledName]と[Root.GetHerHis]の全ての封臣が改宗し、[catholic.GetName]の信仰を受け入れました！;;;;;;;;;;;;x
+EVTDESC60011;偉大な[Root.GetTitledName]と[Root.GetHerHis]の全ての封臣が改宗し、正教会の信仰を受け入れました！;;;;;;;;;;;;x
+EVTDESC60012;偉大な[Root.GetTitledName]と[Root.GetHerHis]の全ての封臣が改宗し、スンニ派の信仰を受け入れました！;;;;;;;;;;;;x
+EVTDESC60013;偉大な[Root.GetTitledName]と[Root.GetHerHis]の全ての封臣が改宗し、シーア派の信仰を受け入れました！;;;;;;;;;;;;x
+MONTHLY_PROJECTED_COST;月次経費の見積：§Y$COST$§!;;;;;;;;;;;;x
+YEARLY_PROJECTED_COST;年次経費の見積：§Y$COST$§!;;;;;;;;;;;;x
+PER_MONTH;§Y$VAL$§!／月;;;;;;;;;;;;x
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;私は王である！;;;;;;;;;;;;x
+ACCEPT;同意;;;;;;;;;;;;x
+DECLINE;却下;;;;;;;;;;;;x
+HAS_LESS_RAISED_TROOP_DAYS;軍は§Y$DAYS$§! 以内に召集されます\n;;;;;;;;;;;;x
+HAS_MORE_RAISED_TROOP_DAYS;軍の召集には少なくとも§Y$DAYS$§! 日かかります\n;;;;;;;;;;;;x
+SET_RAISED_TROOP_OPINION;§Y$ACTIVE$'s§! 召集軍維持期間による §Y$PASSIVE$§! への評価が §Y$MUCH$§! に\n;;;;;;;;;;;;x
+CONTESTED_TITLE;係争中の称号：$TITLE$;;;;;;;;;;;;x
+THREAT_REASON_HATRED;低評価;;;;;;;;;;;;x
+THREAT_REASON_LOVE;高評価;;;;;;;;;;;;x
+THREAT_REASON_CB;開戦事由;;;;;;;;;;;;x
+THREAT_REASON_PRETENDER;僭称者;;;;;;;;;;;;x
+THREAT_REASON_CLAIMANT;請求者;;;;;;;;;;;;x
+THREAT_REASON_DISTANCE;距離;;;;;;;;;;;;x
+THREAT_LIEGE_CULTURE;同じ文化;;;;;;;;;;;;x
+THREAT_LIEGE_RELIGION;同じ宗教;;;;;;;;;;;;x
+THREAT_LIEGE_DEJURELIEGE;慣習上の主;;;;;;;;;;;;x
+INGAME_STORE;ゲーム内ストア;;;;;;;;;;;;x
+tut_3c_6;多層にわたる法律制度;;;;;;;;;;;;x
+tut_3c_7;法律画面を開くと、ブルターニュ公爵の法律が見えます。ブルターニュは慣習上のフランスの一部なので、フランスの王権法はあなたにも影響します。確認するには、右上の盾をクリックしてください。;;;;;;;;;;;;x
+tut_3c_8;多層にわたる法律制度2;;;;;;;;;;;;x
+tut_3c_9;フランスの法律はブルターニュに影響を及ぼします。上部に見える継承法はフランスが適用しているもので、下部の王権法も同様です。説明を終了するには次をクリックしてください。;;;;;;;;;;;;x
+REINFORCE_TOOLTIP;次の月には、$NUM$の新しい兵士が雇用されます。;;;;;;;;;;;;x
+TECH_GROWTH_PROG_SETUP;直轄領内での発展状況;;;;;;;;;;;;x
+TECH_GROWTH_PROG_LOG;$PROV$の$TECH$が§Y$PROG$§!へ発展しました;;;;;;;;;;;;x
+TECH_GROWTH_REALM_SETUP;領地での発展;;;;;;;;;;;;x
+TECH_GROWTH_REALM_LOG;$PROV$での$TECH$の知識が§Y$LEVEL$§!レベルに増えました;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_SETUP;領地での発展状況;;;;;;;;;;;;x
+TECH_GROWTH_PROG_REALM_LOG;$PROV$での$TECH$が§Y$PROG$§!へ発展しました;;;;;;;;;;;;x
+LOADING_TIP_0;「直轄領」とはある1人の人が所有している城砦、都市、教区の集合体のことです。;;;;;;;;;;;;x
+LOADING_TIP_49;妻の特性はよく確認しておきましょう;;;;;;;;;;;;x
+EVTDESC3340;仲の良い廷臣が挨拶に来た時、私は何も言えなかった。彼は、私が立腹したと思って当惑した。;;;;;;;;;;;;x
+EVTOPTA3340;彼からの尊敬を失ってしまったな…;;;;;;;;;;;;x
+alert_dejure_claim_instant;§Y慣習的領有権を行使可能§!;;;;;;;;;;;;x
+alert_dejure_claim_delayed;以下の慣習的領有権を行使可能：$LIST$;;;;;;;;;;;;x
+PRESSABLE_CLAIM;$COUNTY$ を $CLAIMANT$ のものとする;;;;;;;;;;;;x
+OPT_draw_trees;森を描画する;;;;;;;;;;;;x
+OPT_draw_rivers;川を描画する;;;;;;;;;;;;x
+OPT_draw_citysprawl;都市の様子を描画する;;;;;;;;;;;;x
+tut_4c_11;婚姻の影響;;;;;;;;;;;;x
+OPT_legacy_shaders;レガシーグラフィックモード;;;;;;;;;;;;x

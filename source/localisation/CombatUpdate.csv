@@ -1,0 +1,20 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MOVEMENT_SPEED;移動速度;;;;;;;;;;;;x
+EXPERIMENTALITY;実験的傾向;;;;;;;;;;;;x
+CU_LIGHT_INFANTRY;軽歩兵;;;;;;;;;;;;x
+CU_HEAVY_INFANTRY;重歩兵;;;;;;;;;;;;x
+CU_CAVALRY;騎兵;;;;;;;;;;;;x
+MORALE_DEFENCE;士気防御;;;;;;;;;;;;x
+DAMAGE;ダメージ;;;;;;;;;;;;x
+PURSUIT;追撃;;;;;;;;;;;;x
+RETREAT;退却;;;;;;;;;;;;x
+MARTIAL_INFLUENCE;「軍事」値による影響;;;;;;;;;;;;x
+FLANKING;回り込み;;;;;;;;;;;;x
+CENTER;中央部隊指揮;;;;;;;;;;;;x
+DEFENCE;防御;;;;;;;;;;;;x
+CANNOT_PLAY_MUSLIM_WITHOUT_DLC;DLC『The Sword of Islam』がなければイスラム教徒でプレイできません;;;;;;;;;;;;x
+NOT_ALLOWED_MUSLIM;DLC『The Sword of Islam』がなければ§Yイスラム教徒§!でプレイできません;;;;;;;;;;;;x
+NOT_ALLOWED_MUSLIM_MP;DLC『The Sword of Islam』がなければ、§Y$PLAYER$§!が§Yイスラム教徒§!でプレイすることは出来ません;;;;;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;イスラム教徒でプレイするには、DLC『The Sword of Islam』が必要です;;;;;;;;;;;;x
+MUST_SELECT_PLAYER;プレイするキャラクターを決める必要があります！;;;;;;;;;;;;x

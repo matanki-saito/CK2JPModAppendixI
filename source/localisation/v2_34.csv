@@ -1,0 +1,17 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WOL_431;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。私たちは笑って、少なくとも1時間は内緒話を共有しました。 これは真実の瞬間... [FromFrom.GetSubjectPronoun]は別の[FromFrom.GetManWoman]に落ちる準備ができていますか？ 私は[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
+EVTDESC_WOL_431_CR;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。 私たちは笑って、少なくとも1時間は内緒話を共有しました。 心地よい沈黙が流れ、私は一番の秘密 ―― [FromFrom.GetObjectPronoun]への本当の気持ちをすべて明らかにすることにしました。 私は[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
+EVTDESC_WOL_1003_SPY_RESULT;[target_spy_on.GetFirstName]を尾行させていた召使いの少年のひとりは、青ざめた顔で、言葉を詰まらせながら私の[GetFromFromRelation]が[From.GetTitledName]とゲストルームでなにをやっていたのかを報告しました！ 少年はことが行われている間、ずっとタペストリーの後ろに隠れていたのだ...;;;;;;;;;;;;x
+student_of_strategy;戦略学学生;;;;;;;;;;;;x
+student_of_strategy_desc;この人物は歴史上の偉大な指揮官の軍事的知見の研究に専念しています。;;;;;;;;;;;;x
+adept_of_strategy;戦略の達人;;;;;;;;;;;;x
+adept_of_strategy_desc;この人物は歴史上の偉大な指揮官の軍事的知見の研究に多くの時間を費やしてきました。;;;;;;;;;;;;x
+EVTDESC94018_india;歴史学はいつも貴方を魅了する対象であり、最近の数週間もアショーカ大王の事績の研究に費やしました。この征服行には多くの学ぶべきところがあります。;;;;;;;;;;;;x
+EVTOPTB_94018;おそらくは私もまた、かかる偉大な事績を成し遂げるであろう。;;;;;;;;;;;;x
+EVTOPTC_94018;まだこの事績から学ぶには時間がかかるな…;;;;;;;;;;;;x
+studying_strategy_tooltip;[Root.GetTitledName]は軍事戦略を研究します。;;;;;;;;;;;;x
+EVTDESC_94019;アレクサンドロス大王の事績を数ヶ月間学び、貴方は多くの興味深い識見と軍事問題への新たな知恵を得ることができました。貴方は戦争芸術には学ぶ価値があると実感します。;;;;;;;;;;;;x
+EVTDESC_94019_india;アショーカ大王の事績を数ヶ月間学び、貴方は多くの興味深い識見と軍事問題への新たな知恵を得ることができました。貴方は戦争芸術には学ぶ価値があると実感します。;;;;;;;;;;;;x
+EVTOPTA_94019;私は戦略を極めます。;;;;;;;;;;;;x
+EVTOPTB_94019;人生には他にもよいものがある。;;;;;;;;;;;;x

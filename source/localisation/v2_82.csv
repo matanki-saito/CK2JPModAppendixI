@@ -1,0 +1,343 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+IMMORTAL_AGE_TRIGGER;不死年齢が$VALUE|Y$歳$COMPARISON$;;;;;;;;;;;;x
+PRACTICAL_AGE_TRIGGER;実質年齢が$VALUE|Y$歳$COMPARISON$;;;;;;;;;;;;x
+INCREASE_CAMPAIGN_FUND_DESC;クリックすると選挙資金が10ずつ増加します。SHIFT+クリックで100ずつ増加します。CTRL+クリックで最良候補者を破るのに十分なだけ増加します。貴方の候補者が最良候補者なら100ずつ増加します。;;;;;;;;;;;;x
+DECREASE_CAMPAIGN_FUND_DESC;クリックすると選挙資金が10ずつ減少します。SHIFT+クリックで100ずつ減少します。CTRL+クリックで資金を完全に削除します。;;;;;;;;;;;;x
+HAVE_READ_PP;プライバシーポリシーを読み、その内容を理解しました;;;;;;;;;;;;x
+NOT_READ_TOS_ERROR;§Rアカウントを作成するには利用規約を読み、それに同意する必要があります§!;;;;;;;;;;;;x
+NOT_READ_PP_ERROR;§Rアカウントを作成するにはプライバシーポリシーを確認する必要があります§!;;;;;;;;;;;;x
+REJECT;拒否;;;;;;;;;;;;x
+CONFIRM;確認;;;;;;;;;;;;x
+TRIBUTARY_BREAKS_ON_REALM_CHANGE;* 従属関係はどちらかの当事者が別の領国の一部になると破棄される可能性がある;;;;;;;;;;;;x
+OL_COURT_INTERFACE_LABEL;§Y評議会§!;;;;;;;;;;;;x
+INTERACTION_REQUIRES_COUNCIL_APPROVAL;摂政によって承認される必要がある;;;;;;;;;;;;x
+EVTDESC20130;[From.Host.PrimaryTitle.GetName]の[From.GetJobTitle]である[From.GetTitledName]が、私の所有している称号を狙って領内で活動していたとの報告が入った。[From.GetHerHis]のやり方は人々に賄賂を送ったり脅したりしていたとのこと。[From.GetSheHe]は[From.GetHerHis]の主君である[From.Liege.GetTitledName]のために請求権を捏造したようだ。;;;;;;;;;;;;x
+DEATH_DATE_MISSING;失踪：$DATE|Y$、$AGE|Y$歳のとき;;;;;;;;;;;;x
+EVTOPTA61212_TT;[Root.PrimaryTitle.GetName]の新しい§Y摂政§!になります。;;;;;;;;;;;;x
+EVTOPTA61212_B_TT;暗い牢獄に投げ込まれます。;;;;;;;;;;;;x
+tr_enclave_1_desc;この地方の商人たちが、交易を営むために建設した小さな在外領地。;;;;;;;;;;;;x
+tooltip_west_francia_to_france;[k_france.GetName]はフランスに名前が変わった。;;;;;;;;;;;;x
+tooltip_east_francia_to_germany;[k_germany.GetName]はドイツに名前が変わった。;;;;;;;;;;;;x
+EVTOPTB_RIP_4101_TT;貴方の近親者も改宗するかもしれません。;;;;;;;;;;;;x
+opinion_hermetic_apprentice;私の師匠;;;;;;;;;;;;x
+EVTDESC_MNM_9890;ついに、[relic_hunter.GetTitledFirstName]は強力な宝物探索の[relic_hunter.GetHerHis]の仕事から帰って来ました。 古代の木製の箱を持ち、[relic_hunter.GetJobTitle]はあなたの前に現れると、お辞儀をし、あなたにそれを差し出しました。「我が[Root.GetLordLady]、私はあちこち捜し求めて、あなたに聖約の箱”聖櫃”を見つけだしました！ \n\n興味深い木箱には、黄金の天使と古代の絵飾りが飾られています。\n\n 伝説によると、その中には、主がシナイ山でモーセにお与えになった十戒を記した石板が保持されています。\n\nさてどうやらあなたの称賛の言を期待して、[relic_hunter.GetFirstName]はあなたの前で忍耐強く待っています。;;;;;;;;;;;;x
+EVTTITLE_MNM_9890;契約の箱;;;;;;;;;;;;x
+MODIFIER_TRIBAL_LEVY_SIZE;部族召集軍の規模;;;;;;;;;;;;x
+EVTDESC_JD_20005_B;歓迎の宴が終わり、[From.GetJobTitle][From.GetDynName]と私は、[Root.Capital.Capital.GetHolding]の城壁から月を眺めながら、私的な会話を済ませるために退出した。突然、眩い閃光が空を切り裂き、[From.GetJobTitle]の村が灰燼に帰した。「凶兆だ」[From.GetSheHe]はそうつぶやくと、慌ただしく城を去って行った。;;;;;;;;;;;;x
+EVTDESC_JD_20012_B;客人の[From.GetJobTitle][From.GetDynName]と庭園を歩いているとき、私はその日のよい天気を話題にした。[From.GetDynName]は一瞬考えてから、強烈な熱意を持ってそれに返答した。どうやら[From.GetSheHe]は私の社交辞令を偉大なる[From.Offmap.Ruler.GetTitle]の開明さを言いあらわした比喩表現だととらえたようだ！;;;;;;;;;;;;x
+EVTOPTC_MNM_9103_TT_KING;安価な宝石で王冠を飾るよう命じる。;;;;;;;;;;;;x
+EVTOPTC_MNM_9103_KING;中程度の職人技量で私には十分だ;;;;;;;;;;;;x
+EVTOPTC_MNM_9103_TT_GENERIC;私の地位にふさわしい宝石で王冠を飾るよう命じる。;;;;;;;;;;;;x
+EVTOPTC_MNM_9103_GENERIC;美しい宝石で王冠を飾るよう命じる。;;;;;;;;;;;;x
+EVTOPTB_MNM_9103_KING;印象的な宝石で王冠を飾るよう命じる。;;;;;;;;;;;;x
+EVTOPTB_MNM_9103_TT_KING;高度な職人技と高価な素材が美しさの鍵だ。;;;;;;;;;;;;x
+EVTOPTC_MNM_9120_KING;効果的でありながら、安価な品を作ってくれ、[From.GetMasterMistressCap]。;;;;;;;;;;;;x
+EVTOPTC_MNM_9120_GENERIC;戦場にも持って行けるような、質の高いものを作ってくれ。;;;;;;;;;;;;x
+EVTOPTC_MNM_9120_TT_ARMOR_EMPEROR;最も安価な[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y毎月の威信§!、§Y軍事力§!、§Y個人戦闘能力§!をわずかに上昇させます。;;;;;;;;;;;;x
+EVTOPTC_MNM_9120_TT_ARMOR_KING;比較的安価な[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y毎月の威信§!、§Y軍事力§!、§Y個人戦闘能力§!をいくらか上昇させます。;;;;;;;;;;;;x
+EVTOPTC_MNM_9120_TT_ARMOR_GENERIC;[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y毎月の威信§!、§Y軍事力§!、§Y個人戦闘能力§!を上昇させます。;;;;;;;;;;;;x
+EVTOPTB_MNM_9120_TT_ARMOR_EMPEROR;上質な[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y士気攻撃力§!、§Y毎月の威信§!、§Y軍事力§!、§Y個人戦闘能力§!を上昇させます。;;;;;;;;;;;;x
+EVTOPTB_MNM_9120_TT_ARMOR_KING;高品質の[From.GetWeaponsmithWeapon]を発注する。この[From.GetWeaponsmithWeapon]はあなたの §Y士気攻撃能力§! を改善するだけでなく §Y毎月の威信§!や §Y軍事力§! そして §Y個人戦闘能力§!を増やします。;;;;;;;;;;;;x
+EVTOPTB_MNM_9120_KING;あなたの最高傑作といえる [From.GetWeaponsmithWeapon]を作ってくれ;;;;;;;;;;;;x
+EVTOPTA_MNM_9120_TT_ARMOR_EMPEROR;最高級の[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y士気攻撃力§!、§Y毎月の威信§!、§Y軍事点§!、§Y個人戦闘力§!を大幅に増加させるでしょう。;;;;;;;;;;;;x
+EVTDESC_MNM_9107_KING;重量のある箱が私の前に運ばれてきた。[From.GetFirstName]は[From.GetHerHis]に与えられた仕事を終え、戴冠宝器の一式が完成した。私は[From.GetFirstName]の手技を検めるときを心待ちにしている。;;;;;;;;;;;;x
+EVTDESC_MNM_9107_GENERIC;重量のある箱が私の前に運ばれてきた。[From.GetFirstName]は[From.GetHerHis]に与えられた仕事を終え、戴冠宝器の一式が完成した。私はこれが[Root.PrimaryTitle.GetName]の[Root.GetTitle]としての地位に資するものであることを期待し、[From.GetHerHis]の手技を検めるときを心待ちにしている。;;;;;;;;;;;;x
+EVTDESC_MNM_9120_NEW;「[From.GetWeaponsmithWeapon]。しかと承りました。素晴らしい選択です、[Root.GetTitle]」。[From.GetMasterMistressCap] [From.GetFirstName]はそう述べると、徒弟を呼びつけ、いくつかの[From.GetWeaponsmithWeapon]を腕に抱えて持ってこさせた。「こちらに見本があります。いずれも殿下には相応しいものと存じますが、作る品と支払い額を決めていただかなくてはなりません。」;;;;;;;;;;;;x
+EVTDESC_MNM_9124_KING;[From.GetMasterMistressCap] [From.GetFirstName]の一番弟子が、完成した[From.GetWeaponsmithWeapon]を運んできた。造形はシンプルだが上品だ。そして、戦場へ持って行くのに問題ない品質に見える。;;;;;;;;;;;;x
+EVTDESC_MNM_9124_GENERIC;[From.GetMasterMistressCap] [From.GetFirstName]の一番弟子が、遂に完成した[From.GetWeaponsmithWeapon]を私の元へと運んできた。私が長らく心待ちにしていたものだ。それは美しく、また優雅で、私の期待を超える出来映えに心が躍った。;;;;;;;;;;;;x
+EVTDESC_MNM_9129_NEW;「[Root.GetTitle]、良い知らせです」。[From.GetFirstName]は興奮して言った。[GetWeaponArmorSmith]によれば、貴金属と宝石が近隣のプロヴィンスに存在しているようです。遠征を送ることで、現在製作している[From.GetWeaponsmithWeapon]の品質を向上させることも可能でしょう。;;;;;;;;;;;;x
+EVTDESC_MNM_40000;私は[From.GetMasterMistressCap][From.GetFirstName]が[From.GetWeaponsmithWeapon]の完成が近いと報告したときから緊張していた。そして今日、玉座の間で[From.GetMasterMistressCap]を迎える運びとなった。[From.GetHerHis]の腕の中にあるどっしりとした箱が開けられたとき、私は息すらできなかった。「何と名付けるつもりですか、[Root.GetTitle]？」;;;;;;;;;;;;x
+EVTDESC_MNM_40000_B;私は[From.GetMasterMistressCap][From.GetFirstName]が[From.GetWeaponsmithWeapon]の完成が近いと報告したときから緊張していた。そして今日、玉座の間で[From.GetMasterMistressCap]を迎える運びとなった。[From.GetSheHe]が鎧立ての覆いを取った時は、息すらできなかった。「何と名付けるつもりですか、[Root.GetTitle]？」;;;;;;;;;;;;x
+sword_tier_4_heartseeker;竜を追う者;;;;;;;;;;;;x
+sword_tier_4_vengeance;天罰;;;;;;;;;;;;x
+sword_tier_4_fury;[Root.Religion.GetHighGodName]の怒り;;;;;;;;;;;;x
+scimitar_tier_4_golden;黄金の復讐;;;;;;;;;;;;x
+scimitar_tier_4_fortune;夜陰のシミター;;;;;;;;;;;;x
+scimitar_tier_4_conquest;死のシミター;;;;;;;;;;;;x
+lance_tier_4_impaler;アスカロン;;;;;;;;;;;;x
+lance_tier_4_trident;流血の槍;;;;;;;;;;;;x
+lance_tier_4_piercer;死を与える者;;;;;;;;;;;;x
+axe_tier_4_cleaver;竜を裂く者;;;;;;;;;;;;x
+axe_tier_4_ravager;天の破壊者;;;;;;;;;;;;x
+axe_tier_4_marauder;ダークブリンガー;;;;;;;;;;;;x
+mace_tier_4_foe_hammer;スカルクラッシャー;;;;;;;;;;;;x
+mace_tier_4_bone_breaker;黄昏の鎚;;;;;;;;;;;;x
+mace_tier_4_shatterer;巨人の粉砕者;;;;;;;;;;;;x
+bow_tier_4_silent_wind;死の風;;;;;;;;;;;;x
+bow_tier_4_lightning;落雷;;;;;;;;;;;;x
+bow_tier_4_eagle;氷の鷲;;;;;;;;;;;;x
+armor_tier_4_guardian;天使の守護者;;;;;;;;;;;;x
+armor_tier_4_champion;緑の鎧;;;;;;;;;;;;x
+armor_tier_4_warden;不死者;;;;;;;;;;;;x
+sword_tier_4_heartseeker_desc;ドラゴンの肉をも切り裂くという、伝説の剣。;;;;;;;;;;;;x
+sword_tier_4_vengeance_desc;神の怒りの真の具現化であると言われる伝説の剣。;;;;;;;;;;;;x
+sword_tier_4_fury_desc;[Root.Religion.GetHighGodName]の怒りによって鍛えられたと言われる伝説の剣。;;;;;;;;;;;;x
+scimitar_tier_4_golden_desc;金から作り出された伝説の三日月刀。;;;;;;;;;;;;x
+scimitar_tier_4_fortune_desc;夜に亡くなった人々の全ての魂が注ぎ込まれたと噂される伝説の三日月刀。;;;;;;;;;;;;x
+scimitar_tier_4_conquest_desc;死の具現化であると噂される伝説の三日月刀。;;;;;;;;;;;;x
+lance_tier_4_impaler_desc;聖ゲオルギオスの槍を鍛え直して作られたといわれています。;;;;;;;;;;;;x
+lance_tier_4_trident_desc;かの救世主を貫いた鋭さを、今も保っているといわれる伝説の槍。;;;;;;;;;;;;x
+lance_tier_4_piercer_desc;この伝説の槍はどんなに頑丈な素材でも貫通できると噂されている。;;;;;;;;;;;;x
+axe_tier_4_cleaver_desc;この伝説の斧は無数のドラゴンを切り裂いたと言われている。;;;;;;;;;;;;x
+axe_tier_4_ravager_desc;[Root.Religion.GetHighGodName]の使者が用いたと噂される伝説の斧。;;;;;;;;;;;;x
+axe_tier_4_marauder_desc;夜の真の本質を注ぎ込んだと噂される伝説の斧。;;;;;;;;;;;;x
+mace_tier_4_foe_hammer_desc;無数の敵を打ち砕いてきたと言われる伝説の鎚矛。;;;;;;;;;;;;x
+mace_tier_4_bone_breaker_desc;夜の真の本質を注ぎ込んだと言われる伝説の鎚矛。;;;;;;;;;;;;x
+mace_tier_4_shatterer_desc;巨人の骨から作られたと言われる伝説の鎚矛。;;;;;;;;;;;;x
+bow_tier_4_silent_wind_desc;死者の魂を注ぎ込んだと言われる伝説の弓。;;;;;;;;;;;;x
+bow_tier_4_lightning_desc;嵐の中、その真の本質を注ぎ込まれて作られたと言われる伝説の弓。;;;;;;;;;;;;x
+bow_tier_4_eagle_desc;神話の鷲の骨から作られたと言われる伝説の弓。;;;;;;;;;;;;x
+armor_tier_4_guardian_desc;天使が身に着けていると噂される伝説の鎧。;;;;;;;;;;;;x
+armor_tier_4_champion_desc;アーサー王伝説の緑の騎士が身につけていたと言われる伝説の鎧。;;;;;;;;;;;;x
+armor_tier_4_warden_desc;どんな致命的な手段でも破壊できないと言われる伝説の鎧。;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_SWORD;この剣は竜を追う者として知れ渡るだろう！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_SCIMITAR;黄金の復讐！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_LANCE;この槍はアスカロンとして知れ渡るだろう！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_AXE;この斧は竜を裂く者として知れ渡るだろう！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_MACE;スカルクラッシャー！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_BOW;この弓は死の風として知れ渡るだろう！;;;;;;;;;;;;x
+EVTOPTA_MNM_40000_ARMOR;この鎧は私の天使の守護者になるだろう。;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_SWORD;私の敵は皆天の復讐を恐れるだろう！;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_SCIMITAR;夜陰のシミターって相応しい名前じゃないか？;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_LANCE;私の敵は皆流血の槍を恐れるだろう！;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_AXE;私の敵は皆天の破壊者を恐れるだろう！;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_MACE;私の敵は皆黄昏の鎚を恐れるだろう！;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_BOW;私の敵は皆落雷を恐れるだろう！;;;;;;;;;;;;x
+EVTOPTB_MNM_40000_ARMOR;この鎧は私の緑の鎧になるだろう。;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_SWORD;彼女って[Root.Religion.GetHighGodName]の怒りに似てるよな？;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_SCIMITAR;死のシミター。;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_LANCE;死を与える者って相応しい名前じゃないか？;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_AXE;彼女ってダークブリンガーと似てるよな？;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_MACE;巨人の粉砕者って相応しい名前じゃないか？;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_BOW;彼女って氷の鷲と似てるよな？;;;;;;;;;;;;x
+EVTOPTC_MNM_40000_ARMOR;誰もが不死者を恐れるだろう。;;;;;;;;;;;;x
+crown_of_majesty_2;威厳の王冠;;;;;;;;;;;;x
+emerald_scepter_2;エメラルドの笏;;;;;;;;;;;;x
+sword_of_heroes_2;英雄の剣;;;;;;;;;;;;x
+dagger_of_glory_2;栄光のダガー;;;;;;;;;;;;x
+ruby_bracelets_2;ルビーの腕輪;;;;;;;;;;;;x
+celestial_necklace_2;神々しい首飾り;;;;;;;;;;;;x
+circlet_of_the_heavens_2;天のサークレット;;;;;;;;;;;;x
+staff_of_majesty_2;威厳の杖;;;;;;;;;;;;x
+crown_of_crows_2;烏の王冠;;;;;;;;;;;;x
+heros_crown_2;英雄の王冠;;;;;;;;;;;;x
+axe_of_the_ancestors_2;祖先の斧;;;;;;;;;;;;x
+EVTDESC_MNM_40001;戴冠宝器が完成したと[From.GetFirstName]から報告を受けたとき、私は興奮と好奇心でいてもたってもいられなくなった！ [From.GetHerHis]の召使いが部屋に入り大きな箱を運んで来るのを玉座で待っている間、私は椅子から飛び上がって早く受け取りたい自分を抑えるのに苦労した。 ついに重い蓋に指が触れたとき、私の手は震えていた...;;;;;;;;;;;;x
+EVTDESC_MNM_9109_NEW;「[Root.GetTitle]、良い知らせです」。[From.GetFirstName]は興奮して言った。金細工師によれば、貴金属と宝石が近隣のプロヴィンスに存在しているようです。遠征を送ることで、現在製作している戴冠宝器の品質を向上させることも可能でしょう。;;;;;;;;;;;;x
+EVTOPTA_MNM_9109_TT_NEW;最初に注文したものより上質な戴冠宝器を得る可能性に資金を使う。;;;;;;;;;;;;x
+EVTOPTB_MNM_9109_TT_NEW;最初に注文した戴冠宝器で済ませる。;;;;;;;;;;;;x
+EVTOPTC_MNM_9109_TT_NEW;最初に注文したものより上質な戴冠宝器を得る可能性に資金を使う。;;;;;;;;;;;;x
+EVTOPTD_MNM_9109_TT_NEW;最初に注文した戴冠宝器で済ませる。;;;;;;;;;;;;x
+EVTOPTA_MNM_9129_TT_NEW;最初に注文したものより上質な[From.GetWeaponsmithWeapon]を得る可能性に資金を使う。;;;;;;;;;;;;x
+EVTOPTB_MNM_9129_TT_NEW;最初に注文した[From.GetWeaponsmithWeapon]で済ませる。;;;;;;;;;;;;x
+EVTOPTC_MNM_9129_TT_NEW;最初に注文したものより上質な[From.GetWeaponsmithWeapon]を得る可能性に資金を使う。;;;;;;;;;;;;x
+EVTOPTD_MNM_9129_TT_NEW;最初に注文した[From.GetWeaponsmithWeapon]で済ませる。;;;;;;;;;;;;x
+artifact_name;[GetWeaponName];;;;;;;;;;;;x
+artifact_description_smith_tier_1;[From.GetTitledName]によって[Root.GetTitledName]の要求によって作られた良く出来た[Root.GetWeaponType]。;;;;;;;;;;;;x
+artifact_description_smith_tier_2;[From.GetTitledName]によって[Root.GetTitledName]の要求によって作られた優れた[Root.GetWeaponType]。;;;;;;;;;;;;x
+string_sword;剣;;;;;;;;;;;;x
+string_blade;刃;;;;;;;;;;;;x
+string_falchion;ファルシオン;;;;;;;;;;;;x
+string_longsword;長剣;;;;;;;;;;;;x
+string_greatsword;グレートソード;;;;;;;;;;;;x
+string_scimitar;シミター;;;;;;;;;;;;x
+string_shamshir;シャムシール;;;;;;;;;;;;x
+string_lance;ランス;;;;;;;;;;;;x
+string_spear;槍;;;;;;;;;;;;x
+string_axe;斧;;;;;;;;;;;;x
+string_battleaxe;闘斧;;;;;;;;;;;;x
+string_waraxe;戦斧;;;;;;;;;;;;x
+string_mace;メイス;;;;;;;;;;;;x
+string_warhammer;戦鎚;;;;;;;;;;;;x
+string_bow;弓;;;;;;;;;;;;x
+string_longbow;長弓;;;;;;;;;;;;x
+string_compositebow;複合弓;;;;;;;;;;;;x
+string_majestic;壮大な;;;;;;;;;;;;x
+string_magnificent;壮麗な;;;;;;;;;;;;x
+string_royal;豪華な;;;;;;;;;;;;x
+string_impervious;不朽の;;;;;;;;;;;;x
+string_illustrious;輝かしい;;;;;;;;;;;;x
+string_august;立派な;;;;;;;;;;;;x
+string_regal;堂々たる;;;;;;;;;;;;x
+string_renowned;高名な;;;;;;;;;;;;x
+string_imposing;印象的な;;;;;;;;;;;;x
+string_noble;上品な;;;;;;;;;;;;x
+string_exalted;高貴な;;;;;;;;;;;;x
+string_elegant;優雅な;;;;;;;;;;;;x
+string_supreme;最高の;;;;;;;;;;;;x
+string_culture_weapon;[Root.Culture.GetName]の[GetPositiveWeaponAttribute][Root.GetWeaponType];;;;;;;;;;;;x
+string_dynasty_weapon;[Root.GetOnlyDynastyName]家の[GetPositiveWeaponAttribute][Root.GetWeaponType];;;;;;;;;;;;x
+string_silver_weapon;銀の柄の[Root.GetWeaponType];;;;;;;;;;;;x
+string_first_name_weapon;[Root.GetTitledFirstName]の[GetPositiveWeaponAttribute][Root.GetWeaponType];;;;;;;;;;;;x
+string_royal_title_weapon;[Root.PrimaryTitle.GetName]の[GetPositiveWeaponAttribute][Root.GetWeaponType];;;;;;;;;;;;x
+sword_tier_1_new;剣;;;;;;;;;;;;x
+sword_tier_1_new_desc;良く出来た剣。;;;;;;;;;;;;x
+sword_tier_2_new;剣;;;;;;;;;;;;x
+sword_tier_2_new_desc;名匠の鍛えた剣。;;;;;;;;;;;;x
+scimitar_tier_1_new;シミター;;;;;;;;;;;;x
+scimitar_tier_1_new_desc;良く出来たシミター;;;;;;;;;;;;x
+scimitar_tier_2_new;シミター;;;;;;;;;;;;x
+scimitar_tier_2_new_desc;名匠の鍛えたシミター。;;;;;;;;;;;;x
+lance_tier_1_new;槍;;;;;;;;;;;;x
+lance_tier_1_new_desc;良く出来た槍。;;;;;;;;;;;;x
+lance_tier_2_new;槍;;;;;;;;;;;;x
+lance_tier_2_new_desc;名匠の鍛えた槍。;;;;;;;;;;;;x
+axe_tier_1_new;斧;;;;;;;;;;;;x
+axe_tier_1_new_desc;良く出来た斧;;;;;;;;;;;;x
+axe_tier_2_new;斧;;;;;;;;;;;;x
+axe_tier_2_new_desc;名匠の鍛えた斧。;;;;;;;;;;;;x
+mace_tier_1_new;メイス;;;;;;;;;;;;x
+mace_tier_1_new_desc;良く出来たメイス。;;;;;;;;;;;;x
+mace_tier_2_new;メイス;;;;;;;;;;;;x
+mace_tier_2_new_desc;名匠の鍛えたメイス。;;;;;;;;;;;;x
+bow_tier_1_new;弓;;;;;;;;;;;;x
+bow_tier_1_new_desc;良く出来た弓。;;;;;;;;;;;;x
+bow_tier_2_new;弓;;;;;;;;;;;;x
+bow_tier_2_new_desc;名匠の手による弓。;;;;;;;;;;;;x
+MNM_9124_TT_SWORD_T1;ついに待ち望んでいた剣を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_SCIMITAR_T1;ついに待ち望んでいたシミターを手にする。;;;;;;;;;;;;x
+MNM_9124_TT_LANCE_T1;ついに待ち望んでいた槍を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_AXE_T1;ついに待ち望んでいた斧を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_MACE_T1;ついに待ち望んでいたメイスを手にする。;;;;;;;;;;;;x
+MNM_9124_TT_BOW_T1;ついに待ち望んでいた弓を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_SWORD_T2;つい待ち望んでいた剣を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_SCIMITAR_T2;ついに待ち望んでいたシミターを手にする。;;;;;;;;;;;;x
+MNM_9124_TT_LANCE_T2;ついに待ち望んでいた槍を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_AXE_T2;ついに待ち望んでいた斧を手にする。;;;;;;;;;;;;x
+MNM_9124_TT_MACE_T2;ついに待ち望んでいたメイスを手にする。;;;;;;;;;;;;x
+MNM_9124_TT_BOW_T2;ついに待ち望んでいた弓を手にする。;;;;;;;;;;;;x
+EVTDESC_TOG_3320;貴方の名の下で数々の略奪行為が行われ、恐ろしい海賊であるとの評判を得ることとなった。沿岸沿いでは、夜に母親が子供達を寝かせて、いい子にしないと、怖い海の祟りの[Root.GetFirstName]が、亡霊の戦士達と陸に上がってあなたたちを食べてしまうよと注意した。;;;;;;;;;;;;x
+TOG.3322.d;あなたは[GetSeaQueenKing][GetFirstName]として知られるようになった。あなたは荒波が砂を洗い、岩に打ちつけるあらゆる岸辺に現れ、望むものは何でも手に入る。どの[Root.GetManWoman]よりも巧に船を操り、どの[Root.GetManWoman]よりも勇猛に戦い、どの[Root.GetManWoman]よりも恐れられる存在となった。;;;;;;;;;;;;x
+string_seaqueen;海の女王;;;;;;;;;;;;x
+string_seaking;海の王;;;;;;;;;;;;x
+local_religion_conversion_tooltip;§Y[Root.GetTitledFirstName]§!は§Y[Root.Capital.Religion.GetName]§!に改宗した。;;;;;;;;;;;;x
+HINT_THIS;ヒントを無効にします。;;;;;;;;;;;;x
+b_silvio;シルヴィオ;;;;;;;;;;;;x
+b_mastropiero;マストロピエーロ;;;;;;;;;;;;x
+b_tiepolo;ティエポロ;;;;;;;;;;;;x
+b_kastriotis;カストリオティス;;;;;;;;;;;;x
+b_skleros;スキエロス;;;;;;;;;;;;x
+b_monomachos;モノマコス;;;;;;;;;;;;x
+b_kourkoas;Kourkoas;;;;;;;;;;;;x
+b_euferbenos;Euferbenos;;;;;;;;;;;;x
+b_scarponnois;スケァプノア;;;;;;;;;;;;x
+e_rajastan;ラージャスターン;;;;;;;;;;;;x
+recently_invited_ascetic;最近苦行者を招いた;;;;;;;;;;;;x
+NOMAD_CONVERSION_TROOP_SPAWN;Horde troops will be disbanded. You  gain troops proportional to land you're abandoning on the steppe.\n;;;;;;;;;;;;x
+nomad_settle_conversion_tooltip;Due to population, additional provinces may be converted to §Y[From.Culture.GetName]§! culture and the §Y[From.Religion.GetName]§! faith.\n;;;;;;;;;;;;x
+nomad_adopt_feudalism_desc;封建制の統治者になります。;;;;;;;;;;;;x
+north_germanic_FEATURES;§Y*§!1150年までルーンストーンの建立ができる;;;;;;;;;;;;x
+byzantine_FEATURES;§Y*§! 囚人を盲目にできる\n§Y*§! 囚人を去勢できる;;;;;;;;;;;;x
+mongol_FEATURES;§Y*§! チンギス・ハンになれる;;;;;;;;;;;;x
+celtic_FEATURES;§Y*§! タニストリー相続制が利用可能;;;;;;;;;;;;x
+KINGDOM_LAW_DESC_CONCLAVE;§Y*§! 国主法は王か皇帝によってのみ制定可能です。\n§Y*§! 国主法は王国や帝国の慣習的封臣に影響します。\n§Y*§! 慣習的な王国や帝国が存在しない場合は、そこを実効支配する王国や帝国の国主法が優先されます。;;;;;;;;;;;;x
+HINT_REL_VIEW_TEXT_4_INDIAN;インド宗教はそれぞれよく似ていますが、明確に違う点もあります。ジャイナ教は最も安定した国を作れますが、最も非好戦的であり、聖戦の開戦事由を持っていません。ヒンドゥー教はこの中で最も好戦的ですが、彼らの地位や人間関係を制限するカースト制度を持っています。最後に、仏教は技術的進歩に大きな恩恵をもたらします。;;;;;;;;;;;;x
+WAR_NAME_INVASION_OF_CHINA;[offmap_china.GetFullName]の$ORDER$$FIRST_ADJ$侵略;;;;;;;;;;;;x
+nick_the_hawk_of_quarysh;クライシュ族の鷹;;;;;;;;;;;;x
+WEAK_CLAIM_DESC;継承時、継承順位2番目、3番目以外の子供には弱い請求権が与えられます。弱い請求権は以下の条件を満たす対象に行使可能:\n§Y* 女性統治者 \n  * 現在の称号保有者は完全な女性の地位を持っていない\n  * 請求者が男性であるか、完全な女性の地位を持っている場合は女性も行使可能\n* 摂政政治\n* すでに称号を巡って請求戦争または継承戦争が行われている\n* 請求者が2番目、3番目の継承順位の称号である§!;;;;;;;;;;;;x
+ALTAIC_BUT_NOT_JURCHEN_TT;[jurchen.GetName]以外の[altaic.GetGroupName]文化;;;;;;;;;;;;x
+EVTOPTA_RIP_29009_A;[From.GetFirstName]と親しくなった。;;;;;;;;;;;;x
+vassal_blinding_decision_desc;あなたは§Y[Root.GetFirstName]§!を永遠に盲目にする命令を下すことが出来る。これは政治的ライバルを皆殺しにすることなく無力化するビザンツの一般的な手段である。;;;;;;;;;;;;x
+cruel_imprisoner_trait_chance_TT;25%の確率で§Y残酷§!になる;;;;;;;;;;;;x
+desc_prosperity_5_year;§Y内政を重視する§!野心はこの補正が期限切れになったときに達成されます。\n野心が有効である間、§Y包括的反乱リスク§!が1％減少します。;;;;;;;;;;;;x
+alert_can_imprison_delayed;専制的とみなされずに投獄することができます。評議会が反対する可能性があることに注意してください。\n$LIST$;;;;;;;;;;;;x
+CALL_ALL_NO_ALLIES_TO_CALL;参戦要請が可能な同盟勢力がいない;;;;;;;;;;;;x
+CALL_ALL_NO_VASSALS_TO_CALL;参戦要請が可能な封臣がいない;;;;;;;;;;;;x
+REGIONAL_PERCENTAGE_TRIGGER;$REGION|Y$の州の$PERCENT|Y$% ($VALUE|Y$) $COMPARISON$：;;;;;;;;;;;;x
+CANT_LOOT_SHORT;§R略奪はできない§!;;;;;;;;;;;;x
+LOOTING_LOOT;この州は§Y$DAYS$§!日ごとに§Y$LOOT$§!¤まで略奪される可能性があります。この額は略奪するすべての部隊に分配されます。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_CHILD_NOT_IN_PRISON;$CHILD|Y$は投獄することは出来ない;;;;;;;;;;;;x
+DISBAND_AFFECTS_EMBARKED;§R乗船中の部隊は全て解散されます。§!;;;;;;;;;;;;x
+CONFIRM_DISBAND_NO_EVT_SHIPS;\n特別イベントの艦隊は解散しません。;;;;;;;;;;;;x
+CONFIRM_DISBAND_EVT_SHIPS;\n§R特別イベントの艦隊は全て解散されます！§!;;;;;;;;;;;;x
+CONTESTED_CLAIM_ALL_DESC;$PERC$: $PERSON|Y$が請求中のすべての称号を保持している;;;;;;;;;;;;x
+TITLE_CANNOT_CREATE_INACTIVE_TITLE;無効に指定された称号を創設することはできない;;;;;;;;;;;;x
+GENDERED_SUCCESSION_LAW;$GENDER_RULE$$SUCCESSION_LAW$;;;;;;;;;;;;x
+DESIGNATE_HEIR_LEGAL_HEIR;継承の可能性がある人物しか指名できない;;;;;;;;;;;;x
+HOLDING_GARRISON_PERCENT_TRIGGER;地区の守備隊が$PERC|Y%0$$COMPARISON|Y$;;;;;;;;;;;;x
+HOLDING_RAISABLE_LEVY_PERCENT_TRIGGER;地区の動員可能な召集軍が$PERC|Y%0$$COMPARISON|Y$;;;;;;;;;;;;x
+HOLDING_TOTAL_LEVY_PERCENT_TRIGGER;地区の召集軍総数が$PERC|Y%0$$COMPARISON|Y$;;;;;;;;;;;;x
+EVTDESC_JD_50031_MONGOLS;[offmap_china.GetChinaPreviousStatusEnd]. [Root.Religion.GetHighGodNameCap] must be displeased with the Dragon Throne, for a great Mongol Horde has managed to cross the mighty fortifications of Northern China, intent on disrupting the harmony and prosperity of the 'Divine Land'. [offmap_china.Ruler.GetEmperorEmpress] [offmap_china.Ruler.GetDynName] is mustering [offmap_china.Ruler.GetHerHis] armies in [GetRandomChineseRegion] for a swift response, but [offmap_china.Ruler.GetSubjectPronoun] could be in for a long war...\n\nFor tributary states of China this means that their suzerain will be unable to lend them military aid. Others point out that it is an opportune time to break free.;;;;;;;;;;;;x
+EVTDESC_JD_50031_JURCHENS;[FromFrom.GetChinaPreviousStatusEnd]。中国の官僚体制の傲慢さに[Root.Religion.GetHighGodNameCap]が神罰を下したのであろうか、先頃女真族の大集団が「神州」の安寧を破り、混乱に陥れた。数え切れないほどの勇猛な騎馬が遼河を越えて華北の地を脅かし、帝国の全土を征服せんとするかのようだ。[FromFrom.Ruler.GetEmperorEmpress][FromFrom.Ruler.GetDynName]は緩慢ながらも[GetRandomChineseRegion]の[FromFrom.Ruler.GetPossPronoun]兵を集めているが、その多くは、すでに[FromFrom.Ruler.GetEmperorEmpress]が天命を喪っているのではないかと疑問を抱いている……\n\n中国の朝貢国にとっては、宗主から軍事的支援が得られないことを意味する。別の見方に立てば、中国の軛から解き放たれる機会でもある。;;;;;;;;;;;;x
+angered_china_tt;[Root.GetTitledFirstName] gets 'Angered China' for 50 years, decreasing Monthly Prestige by §R-0.50§! and Monthly Grace by §R-2§!.;;;;;;;;;;;;x
+EVTOPTB_WOL_10306;But I am not ready to commit to a pastime so whole-heartedly...;;;;;;;;;;;;x
+tribal_government_desc;部族とは定住しているものの、農耕は行わない人々を指します。各州にはひとつだけ部族「地区」が存在し、その地に住む部族民全体を表します。すなわち空きスロットが多いほど、部族地区は強力になります。部族の統治者は「選抜分割相続制」の継承法を採用していることが最も多く、この継承法のもとでは族長の死に際し、領地が息子達によって分割される傾向にあります。;;;;;;;;;;;;x
+EVTOPTA_JD_20004;よくやった、[corresponding_councilor.GetJobTitle][corresponding_councilor.GetFirstName]。;;;;;;;;;;;;x
+EVTDESC_WoL_4030;私が催した宴に私の客がやってきた。陽気に飲み騒ぐ時間の始まりだ！;;;;;;;;;;;;x
+EVTDESC_WoL_4031;私は[From.GetTitledFirstName]の私室に到着した。そこには沢山の食べ物と飲み物があり、雰囲気は見るからに陽気だ。これは楽しみだ！;;;;;;;;;;;;x
+EVTDESC_WoL_4101;宴の三日目の夜遅く、私は独り起きたまま座ってお祭り騒ぎについて考え込んでいた。寝椅子の私の隣には友人の一人が酒に酔い潰れて寝ており、蝋燭の明かりが無防備で美しい肌を照らしていた。;;;;;;;;;;;;x
+EVTDESC_WoL_4112;共に宴を過ごした数日の間に、こちらを「特別な」目で見つめる[From.GetFirstName]を何度も見た。ついには夜更けにワインを一杯飲んだ後、[From.GetSheHe]は[From.GetHerHis]の腕を私の体に回し、素晴らしい提案を私に耳打ちしてきた。;;;;;;;;;;;;x
+EVTDESC_WoL_4113;[From.GetFirstName]は私の誘いに応じ、私達は残りの夜を共に過ごした。お互いに楽しみながら…;;;;;;;;;;;;x
+EVTDESC_WoL_4114;[From.GetFirstName]は私の好色な誘いを拒絶した。私は言い訳して宴会の席へと戻った。すぐに、恥ずかしい瞬間は忘れ去られた…ほとんど。;;;;;;;;;;;;x
+EVTDESC_WoL_4120;ここ数日の馬鹿騒ぎはいい息抜きになった。こんなに多くの笑い声と、激しい議論がこのような短い時間で...　彼らとの距離が近づき既に良き友人であるように感じられた。;;;;;;;;;;;;x
+EVTDESC_WoL_4131;これが酒だというのか？ そんなことを誰が言ったんだ？ 私にはまったく思い出せないが、そいつはけじめをつけなければいけないぞ！ かかってこい！;;;;;;;;;;;;x
+EVTDESC_WoL_4132;素晴らしい酒に食べ物、陽気な騒ぎ、すべて問題ない。だがそれも[From.GetTitledFirstName]が予想外に激怒しだすまでのことだった。理由は定かではないが、[From.GetSheHe]は拳をかかげ、今すぐにも私のところにやってきそうだ。;;;;;;;;;;;;x
+EVTDESC_WoL_4133_fight;[From.GetTitledFirstName]は私と同様に酔っぱらっているにもかかわらず、いい闘いぶりを見せてくれた。しばらくして、私たちは疲れ切ってしまい、お互いに引き分けだと認めざるをえなかった。;;;;;;;;;;;;x
+EVTDESC_WoL_4133_talk;[From.GetTitledFirstName] started speaking to me calmly, explaining that there was no need to be upset. I considered it for a moment, and then realized that [From.GetSheHe] was right. We ended up sitting down to eat and drink together again.;;;;;;;;;;;;x
+EVTDESC_WoL_4133_hide;最終的に、[From.GetSheHe]は椅子を投げて私を躓かせ、そのまま走っていった。あちこち探し回ったが、ついに[From.GetHerHim]は見つからなかった。;;;;;;;;;;;;x
+EVTDESC_WoL_4142;[From.GetTitledFirstName] is feasting and reveling like a lunatic. I can hardly stand up, I am laughing so hard.;;;;;;;;;;;;x
+EVTDESC_WoL_4161_gamer;気のいい仲間たちと大いに飲みながら、陽気に遊ぶひとときを過ごすのは素晴らしいことだ。そして何より素晴らしいことに、そろそろ私が楽しみにしていたお気に入りの遊戯盤を宴席に持ち込む時がきたようだ。;;;;;;;;;;;;x
+EVTDESC_WoL_4161_non_gamer;愉快な仲間たちと大いに飲んで騒ぐひとときを過ごすのは素晴らしいことだ。幾度も盃が干されては満たされる間に、[From.GetTitledFirstName]が変わった遊戯盤と装飾された多くの駒を持ってきた。説明によるとこれは戦略ゲームの一種らしい。[From.GetSheHeCap]は大いに飲みながらこれで遊ぶのはよい気晴らしになりますよと請け合った。;;;;;;;;;;;;x
+EVTDESC_WoL_4162_money_i_suggest;私は[From.GetTitledFirstName]に、遊戯盤と駒を持ってきて、誰が優れた戦略家かはっきりさせるために対戦しようと提案した。[From.GetSheHeCap]はそれに応じ、お金を賭けるという条件で対戦することにした。;;;;;;;;;;;;x
+EVTDESC_WoL_4162_not_money_i_suggest;私は[From.GetTitledFirstName]に、遊戯盤と駒を持ってきて、誰が優れた戦略家かはっきりさせるために対戦しようと提案した。[From.GetSheHeCap]は誘いに応じ、ただし名誉を賭けて対戦するよう求めてきた。;;;;;;;;;;;;x
+EVTDESC_WoL_4162_money_they_suggest;[From.GetTitledFirstName]は盤と駒を取り出して、誰がより優れた戦略家であるかを明らかにするためにお金をかけて数回プレイしようじゃないかと言った。;;;;;;;;;;;;x
+EVTDESC_WoL_4162_not_money_they_suggest;[From.GetTitledFirstName]は盤と駒を取り出して、誰がより優れた戦略家であるかを明らかにするために名誉をかけて数回プレイしようじゃないかと言った。;;;;;;;;;;;;x
+EVTDESC_WoL_4163_win;対局は何時間にもおよんだ。私は隙を見せることなく敵陣を攻撃しようとしたが、戦況は拮抗していた。結局、私は相手の決定的な隙を見つけ、いくつかの妙手によってそれを攻めたててゲームに勝利した！;;;;;;;;;;;;x
+EVTDESC_WoL_4163_loss;対局は何時間にもおよんだ。私は隙を見せることなく敵陣を攻撃しようとしたが、戦況は拮抗していた。結局、私は致命的なミスを犯し、それを対戦相手に利用され負けてしまった。;;;;;;;;;;;;x
+string_Church;教会;;;;;;;;;;;;x
+string_Mosque;モスク;;;;;;;;;;;;x
+string_Temple;寺院;;;;;;;;;;;;x
+tp_monastery_1;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;x
+tp_monastery_2;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;x
+tp_monastery_3;[Root.Holder.GetHouseOfWorshipCap];;;;;;;;;;;;x
+tp_town_1;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+tp_town_2;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+tp_town_3;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+tp_town_4;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+tp_town_5;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+tp_town_6;[Root.Holder.GetHouseOfWorshipCap]市街区;;;;;;;;;;;;x
+FAM_TRUE_FATHER;本当の父親;;;;;;;;;;;;x
+SET_IMMUNE_TO_PRUNING_EFFECT;$CHARACTER|Y$は間引き処理の対象外に設定されている;;;;;;;;;;;;x
+NOT_IS_IMMUNE_TO_PRUNING_TRIGGER;間引き処理の対象にならない;;;;;;;;;;;;x
+IS_IMMUNE_TO_PRUNING_TRIGGER;間引き処理の対象になる;;;;;;;;;;;;x
+FAM_TWIN;双子;;;;;;;;;;;;x
+IS_TWIN_OF;§Y[GetBestName]§!の双子である;;;;;;;;;;;;x
+IS_NOT_TWIN_OF;§Y[GetBestName]§!の双子ではない;;;;;;;;;;;;x
+REL_TWIN_MALE;双子;;;;;;;;;;;;x
+REL_TWIN_FEMALE;双子;;;;;;;;;;;;x
+DOES_NOT_HAVE_CLAIM_PRESSED;$TITLE$に対して行使した請求権がない;;;;;;;;;;;;x
+HAS_CLAIM_PRESSED;$TITLE$に対して行使した請求権がある;;;;;;;;;;;;x
+HAS_NOT_STRONG_CLAIM_PRESSED;$TITLE$に対して行使した強い請求権がない;;;;;;;;;;;;x
+HAS_STRONG_CLAIM_PRESSED;$TITLE$に対して行使した強い請求権がある;;;;;;;;;;;;x
+HAS_NOT_WEAK_CLAIM_PRESSED;$TITLE$に対して行使した弱い請求権がない;;;;;;;;;;;;x
+HAS_WEAK_CLAIM_PRESSED;$TITLE$に対して行使した弱い請求権がある;;;;;;;;;;;;x
+MODULO_VARIABLE;§Y$VAR$§!を§Y$VALUE$§!で割って剰余をとる;;;;;;;;;;;;x
+MODIFIER_MALE_OPINION;男性の評価;;;;;;;;;;;;x
+MODIFIER_FEMALE_OPINION;女性の評価;;;;;;;;;;;;x
+INTERACTION_RELIGION_CANNOT_DEMAND_CONVERSION;§Y[Actor.GetTitledFirstName]§!は改宗を要求することができる宗教である;;;;;;;;;;;;x
+CANCEL_PREGNANCY_EFFECT;$CHARACTER|Y$は、流産した。;;;;;;;;;;;;x
+GOV_USES_BRIDE_PRICE;高貴な女性との結婚の際は結納金を支払わなければならない;;;;;;;;;;;;x
+EVTTOOLTIP63053;§Y[This.GetTitledName]§!は自由になります。;;;;;;;;;;;;x
+EVTTOOLTIP63055;§Y[This.GetTitledName]§!は逮捕され、投獄されます。;;;;;;;;;;;;x
+EVTTOOLTIP63056;§Y[This.GetTitledName]§!は私の説明に感心している。;;;;;;;;;;;;x
+EVTDESC_MNM_4022_fallback;Oh, blessed [Root.Religion.GetHighGodName]. I, [Root.GetSocietyRank] [Root.GetFirstName], have completed a pilgrimage in your name.\n\nI pray you are pleased with me.\n\n\n– From the journal of [From.GetSocietyRank] [From.GetFirstName] of [Root.Society.GetName];;;;;;;;;;;;x
+GetRelation_MotherInLaw;義母;;;;;;;;;;;;x
+GetRelation_FatherInLaw;義父;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_FORCED_LOOT;この部隊は特別イベントの部隊ではありません。命令「§Y略奪の準備§!」によって評議員が召集した部隊です。;;;;;;;;;;;;x
+CONFIRM_DISBAND_DESC4;$NAME$は解散し、船は港に帰還します。;;;;;;;;;;;;x
+DEATH_DATE_DESC;死亡：$DATE|Y$、享年$AGE|Y$歳;;;;;;;;;;;;x
+DEATH_DATE_CHINA;中国へ去った：$DATE|Y$、$AGE|Y$歳のとき;;;;;;;;;;;;x
+DEATH_DATE_CHINA_RETURN;中国へ帰った：$DATE|Y$、$AGE|Y$歳のとき;;;;;;;;;;;;x
+EVTDESC_ZE_3001;A merchant approaches the court and carefully pleads to make a payment plan for the recent loan taken by [target_treasurer.GetTitledFirstName]. It seems the fruits of [target_treasurer.GetHerHis] labor may have been exaggerated, and since the loan was made in your name, this reflect poorly on you too. What will the consequence be for [target_treasurer.GetTitledFirstName]?;;;;;;;;;;;;x
+crown_of_majesty_2_desc;The hooped crown is made from gold and decorated with foreign precious stones – emeralds, rubies, sapphires and diamonds – the finest ones the size of quails eggs.;;;;;;;;;;;;x
+emerald_scepter_2_desc;This scepter is famed for the unusual amount and quality of emeralds adorning it. The origins of the stones are shrouded in mysteries, the tales are as numerous as the stars.;;;;;;;;;;;;x
+sword_of_heroes_2_desc;This ornamental weapon is an impressive sight. The blade is gilded and the hilt is adorned with foreign precious stones, such as rubies and sapphires, and agate cameos depicting legendary warriors.;;;;;;;;;;;;x
+dagger_of_glory_2_desc;金箔の刃とひどく飾られた柄のこの短剣は力を放っている。輝くルビー、ガーネット、ダイヤモンドが柄に渦巻状に埋め込まれている。;;;;;;;;;;;;x
+ruby_bracelets_2_desc;この黄金のブレスレットはルビーや彫刻された象牙の欠片で装飾されている。;;;;;;;;;;;;x
+celestial_necklace_2_desc;With its dozens upon dozens of diamonds and sapphires, this necklace is as beautiful as the night sky itself. Its centerpiece is a marvelous, walnut-sized blue diamond.;;;;;;;;;;;;x
+circlet_of_the_heavens_2_desc;This majestic circlet is adorned with golden wings and uncommonly big and lustrous sapphires.;;;;;;;;;;;;x
+staff_of_majesty_2_desc;この重い金箔の杖には太古の物語の場面が刻まれており、エメラルドと象牙の両方が飾られている。;;;;;;;;;;;;x
+crown_of_crows_2_desc;This golden masterpiece is decorated with filigree leaves and vines. A dozen gleaming crows with amber eyes are perched along the top, their wings spread out as if they are about to take flight.;;;;;;;;;;;;x
+heros_crown_2_desc;The base of the crown is a heavy golden band, and each peak is shaped and engraved in the likeness of legendary warriors. The centerpiece is a single, gleaming ruby.;;;;;;;;;;;;x
+axe_of_the_ancestors_2_desc;この金箔の斧には先祖代々の伝説の絵が刻まれ、琥珀が柄に埋め込まれている。;;;;;;;;;;;;x

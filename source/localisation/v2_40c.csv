@@ -1,0 +1,333 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ONLY_ONE_TRIBAL;一つの州に存在できる部族は一つのみです。;;;;;;;;;;;;x
+INTERACTION_INVALID_CB;有効な開戦事由;;;;;;;;;;;;x
+lappish;サーミ;;;;;;;;;;;;x
+d_lappish_band;サーミ傭兵団;;;;;;;;;;;;x
+d_lappish_band_adj;サーミ;;;;;;;;;;;;x
+IRONMAN_MODE_CHECKSUM_DESC;このセーブデータには編集された形跡があるため、実績は無効となります。MODを導入していないかの確認や、ゲームファイルが編集されていないことの確認を行いましょう。ルーラーデザイナーを用いた場合も実績は無効となります。;;;;;;;;;;;;x
+NAND_TRIGGER_STARTS;以下の全てが満たされていない;;;;;;;;;;;;x
+MATCHMAKING_SERVER_DENIED;拒否された;;;;;;;;;;;;x
+PROVINCE_EXTEND;拡張;;;;;;;;;;;;x
+CONFIRM_BUILD_EXTRA_HOLDING_TITLE;$TYPE$の建設;;;;;;;;;;;;x
+CONFIRM_BUILD_EXTRA_HOLDING_DESC;本当に$TYPE$を建設しますか?\n資金§Y$COST$§!¤必要です。§Y$FINISHED$§!に完了します。;;;;;;;;;;;;x
+GOVERNMENT_ALLOWS_BUILDING;§Y$GOVERNMENT$§!が§Y$TYPE$§!を建設可能である;;;;;;;;;;;;x
+CONTROLS_PROVINCE;§Y$PROVINCE$§!を保有している;;;;;;;;;;;;x
+EXTRA_HOLDING_UNDER_CONSTRUCTION;§Y$BUILDER$§!\nによって行われている'$TYPE$の建設は§Y$DATE$§!に完了します。;;;;;;;;;;;;x
+BUILD_EXTRA_HOLDING;§Y新しい$TYPE$の建設§!;;;;;;;;;;;;x
+NO_EXTRA_HOLDING_BUILT;$TYPE$が建てられていません。;;;;;;;;;;;;x
+EXTRA_HOLDING_UNDER_CON;$TYPE$は建設中です。;;;;;;;;;;;;x
+CREATE_EXTRA_HOLDING_EFFECT;$TYPE$を$LOCATION$に建設します。;;;;;;;;;;;;x
+NOMAD_TAX_MODIFIER;遊牧民税;;;;;;;;;;;;x
+FROM_FORTS;砦から：§G$AMOUNT$§!\n;;;;;;;;;;;;x
+DESTROY_EXTRA_HOLDING_EFFECT;$LOCATION$の$TYPE$が破壊された。;;;;;;;;;;;;x
+SEIZE_EXTRA_HOLDING_EFFECT;§Y$TAKER$§!が§Y$PROV$§!の$TYPE$を押収した。;;;;;;;;;;;;x
+ANY_FORT_STARTS;任意の砦;;;;;;;;;;;;x
+num_fort_diff_lower_than;§Y$FIRST$§!と§Y$SECOND$§!の砦数の差が§Y$VAL$§!未満である;;;;;;;;;;;;x
+num_fort_diff_at_least;§Y$FIRST$§!と§Y$SECOND$§!の砦数の差が§Y$VAL$§!以上である;;;;;;;;;;;;x
+has_fewer_fort_than;§Y$NUM$§!未満の砦を持っている;;;;;;;;;;;;x
+has_more_fort_than;§Y$NUM$§!以上の砦を持っている;;;;;;;;;;;;x
+HAS_EXTRA_HOLDING;$TYPE$を持っている;;;;;;;;;;;;x
+HAS_NOT_EXTRA_HOLDING;$TYPE$を持っていない;;;;;;;;;;;;x
+TRIGGER_FORT_OWNER;砦の所有者;;;;;;;;;;;;x
+FORT_PROV;$PROV$の砦;;;;;;;;;;;;x
+strengthened_loyalty;強まる忠誠;;;;;;;;;;;;x
+proud_parent;誇らしげな両親;;;;;;;;;;;;x
+wolf_child;狼に育てられた子供;;;;;;;;;;;;x
+wolf_child_desc;この子は妙なところがある・・・;;;;;;;;;;;;x
+wolf_blood;狼の血;;;;;;;;;;;;x
+wolf_blood_desc;[GetHerHis]の中には狼の血が流れていると噂されている。;;;;;;;;;;;;x
+sleep_deprivation;よく寝られない;;;;;;;;;;;;x
+sleep_deprivation_desc;この人物は十分な睡眠が取れていません。;;;;;;;;;;;;x
+EVTTITLE_HL_1001;狼少年;;;;;;;;;;;;x
+EVTDESC_HL_1001;幼い[From.GetFirstName]はすくすく育っています。[From.GetSheHeCap]は活発でのみ込みが早く、強く健康的です。[From.GetHerHisCap]の声は少し変わっており、身を低くして、じゃれるように唸り声を上げます。[From.GetSheHeCap]は、[From.GetHerHis]の玩具を探すとき、奇妙な方法で周りの匂いを嗅ぐことが多く、そして異常なほどに毛深いです。\n\n[From.GetSheHeCap]はさらに[From.GetHerHis]の乳母に数回噛みついたことがあるが、それ以外は普通の子供です。;;;;;;;;;;;;x
+EVTOPTA_HL_1001;元気な小さな[From.GetBoyGirl]！;;;;;;;;;;;;x
+EVTOPTB_HL_1001;これは奇妙で心配だ・・・;;;;;;;;;;;;x
+EVTDESC_HL_1010;あなたは最高の兵士を引き連れて、領地を視察しています。吹きさらしの木々が並ぶ浅い渓谷を通り過ぎると、突然、異常な音が聞こえました。あなたは隊列に止めて、耳を傾けて聞くように指示します。すると、まるで子犬のように泣き叫ぶ声が聞こえてきました。\n馬に拍車を当てて、音がする場所を突き止めようと前に進むと、すぐに小さな洞窟に辿り着きました。洞窟の中に入り、暗闇を光で照らすと、あなたは奇妙な光景を目撃します。 死んだメスの狼は、洞穴入り口の近くで横たわり、彼女の死体には病気の痕跡がはっきりと見えます。この奇妙な場所で、狼の近くにある草と葉でできたベッドで、まるで動物のような奇妙な声色でうつ伏せになって泣き叫ぶ子供がいました。;;;;;;;;;;;;x
+EVTOPTA_HL_1010;この子を私の[New.GetSonDaughter]として連れて行こう。;;;;;;;;;;;;x
+EVTOPTB_HL_1010;私には関係のないことだ！;;;;;;;;;;;;x
+EVTDESC_HL_1020;ある日、あなたが外で遊んでいると、ふと大人たちはせわしなく働いており、あなたを見ている人がいないことに気付きます。誰にも邪魔されないで探検するまたとない機会であり、あなたは素早く抜け出すと、普段では一人ではいけない森の中に向かいました…\n数時間後、あなたは道に迷いました。まはや自力で家に帰るのは絶望的です。あなたが岩の上に座って泣き始めると、あなたの後ろから奇妙な音が聞こえます。 あなたが振り向くと、あなたを眺める大きな灰色の狼が見えます。彼女から敵意は全く感じません。 しばらくすると、あなたは彼女が家を見つけるのを手伝ってくれることを理解します。あなたは一緒に走り出すと、あっという間に狼が近づかない人の居住地に辿り着きます。あなたは彼女に手を振り、家に帰って両親にこのすばらしい冒険を伝えます。;;;;;;;;;;;;x
+EVTOPTA_HL_1020;なんて刺激的な日だ！;;;;;;;;;;;;x
+EVTDESC_HL_1021;[From.GetFirstName]の行方が分かりません。[From.GetSheHeCap]が今朝姿を消してから見つかっていません。あなたは[From.GetSheHe]を見つけるために大人数で探しましたがどこにも見つけることができません。\nあなたがますます心配していると、外から幸せそうな大声が聞こえてきます。あなたが外を見てみると、[From.GetFirstName]はスキップしながらあなたに近づき、[From.GetHerHis]の表情は満面の笑顔でした。[From.GetSheHeCap]が大声で話します。「[Root.GetFatherMotherCap]!私は今日すごく遠くまで冒険して、優しい狼に出会って、家に帰ることが出来たんだ。今日はすごい一日だった！」;;;;;;;;;;;;x
+EVTOPTA_HL_1021;なんて奇妙な話だ・・・;;;;;;;;;;;;x
+EVTOPTB_HL_1021;私はおそらく[From.GetHerHim]を拘留すべきだろう。;;;;;;;;;;;;x
+EVTTITLE_HL_1030;狼の[Root.GetSonDaughter]？;;;;;;;;;;;;x
+EVTDESC_HL_1030;ここの所、宮廷の人々があなたについて話しているように感じます。あなたが部屋に入ると止まる会話、あなたの背後から聞こえるひそひそ話の言葉、あなたが歩いていると向けられる視線。あなたは時間を掛けて推測します…好奇心、恐怖、嫉妬、3つのいずれかか組み合わせの感情があなたに向けられていると思われます。\n\nあなたが盗み聞いた噂話の中で頻繁に出てくる言葉は…狼です。先日、あなたはそれまでも何度か聞いている噂を耳にします。あなたの「本当の」母親は狼であると…;;;;;;;;;;;;x
+EVTOPTA_HL_1030;そうだ私は狼だ！ガオォォ！;;;;;;;;;;;;x
+EVTOPTB_HL_1030;母を侮辱しないよう彼らに教えてやろう。;;;;;;;;;;;;x
+EVTOPTC_HL_1030;彼らは決して噂を止めないだろう！;;;;;;;;;;;;x
+EVTOPTD_HL_1030;このような人たちは気にするに値しない。;;;;;;;;;;;;x
+EVTDESC_HL_1031;ここの所、宮廷の人々があなた[From.GetSonDaughter] である[From.GetFirstName]について話しているように感じます。あなたが部屋に入ると止まる会話、あなたの背後から聞こえるひそひそ話の言葉、あなたが歩いていると向けられる視線。あなたは時間を掛けて推測します…好奇心、恐怖、嫉妬、3つのいずれかか組み合わせの感情が[From.GetFirstName]に向けられていると思われます。\n\nあなたが盗み聞いた噂話の中で頻繁に出てくる言葉は…狼です。先日、あなたはそれまでも何度か聞いている噂を耳にします。[From.GetHerHis]の「本当の」母親は狼であると…;;;;;;;;;;;;x
+EVTOPTA_HL_1031;私は[From.GetSonDaughter]が狼と呼ばれて嬉しい。;;;;;;;;;;;;x
+EVTOPTB_HL_1031;この話は止めなければいけない。;;;;;;;;;;;;x
+EVTTITLE_HL_1040;狼の血;;;;;;;;;;;;x
+EVTDESC_HL_1040;時が経つにつれて、年は取りましたが、それ以外のことは変わっていません。 どういうわけか、あなたは狼の血があなたの体の中を流れていることを知っています。この知識はあなたを強くしますが、時々自身が一体何者なのか考えてしまいます…;;;;;;;;;;;;x
+EVTOPTA_HL_1040;私の未来は偽りであり続けます。;;;;;;;;;;;;x
+EVTDESC_HL_1041;あなたの[From.GetSonDaughter]である[From.GetFirstName]は、大人になりました。奇妙な[From.GetHerHis]の狼のような性格は、未だその名残があります。恐らく時の経過と共により明白になっていくでしょう…;;;;;;;;;;;;x
+EVTOPTA_HL_1041;私はそれが呪いではなく祝福されることを望む。;;;;;;;;;;;;x
+EVTTITLE_HL_1100;狼たち;;;;;;;;;;;;x
+EVTDESC_HL_1100;狩りをしていると、時々狼の群れを見かけます。彼らは、あなたが一人でいる時や、誰も見ていない時にしか現れないようです。彼らを見かけると奇妙な爽快感を感じることができ、血が滾り、あなたの狩猟本能が引き出されます。;;;;;;;;;;;;x
+EVTOPTA_HL_1100;狩りだ！私は生きている！;;;;;;;;;;;;x
+EVTTITLE_HL_1200;夜の淵;;;;;;;;;;;;x
+EVTDESC_HL_1200;この数日間、あなたはよく眠ることができませんでした。いつも通りの夜の始まりに外から狼の遠吠えが聞こえてきます。あなたが寝返りを打って眠りに就こうとしますが、遠吠えは夜遅くまで止まりません。夜が深まれば深まるほど、狼の鳴き声が風に乗って聞こえてきます。あなたは落ち着くことができません…;;;;;;;;;;;;x
+EVTOPTA_HL_1200;これは何だ？;;;;;;;;;;;;x
+INCOME_EXTRA_HOLDING;$TYPE$からの収入;;;;;;;;;;;;x
+MODIFIER_GLOBAL_MOVEMENT_SPEED;移動速度;;;;;;;;;;;;x
+BUILDING_CAPITAL;§Y$CAPITAL$§!の建築物: $BONUS$;;;;;;;;;;;;x
+CB_NAME_DISPUTE;[Title.GetBaseName]紛争;;;;;;;;;;;;x
+WAR_NAME_DISPUTE;$OTHER_TITLE$紛争;;;;;;;;;;;;x
+HAS_SETTLEMENT_CONSTRUCTION;移民施設を持っている;;;;;;;;;;;;x
+NOT_HAS_SETTLEMENT_CONSTRUCTION;移民施設を持っていない;;;;;;;;;;;;x
+HAS_SETTLEMENT;$TYPE$を持っている;;;;;;;;;;;;x
+NOT_HAS_SETTLEMENT;$TYPE$を持っていない;;;;;;;;;;;;x
+EVTTITLE_HL_1201;狼の呼び声;;;;;;;;;;;;x
+EVTDESC_HL_1201;それは決して止まない。毎晩、狼は吠え続ける。誰もが寝不足になっているだろうが、貴方はおそらく誰よりも苦しんでいることだろう。遠吠えは睡眠を妨害するだけではなく、遠吠えが止むとそれについて考えるのをやめることができなくなる。再び遠吠えが始まるのを期待している...;;;;;;;;;;;;x
+EVTOPTA_HL_1201;一人で狼たちに会いに行こう。;;;;;;;;;;;;x
+EVTOPTB_HL_1201;ボディガードを連れて行こう。;;;;;;;;;;;;x
+EVTOPTC_HL_1201;待とうーこの狂気はすぐに収まる。;;;;;;;;;;;;x
+wolves_go_out_alone_tooltip;狼の中の狼;;;;;;;;;;;;x
+wolves_go_out_with_guards_tooltip;重装備の男たちが出発した。;;;;;;;;;;;;x
+wolves_ignore_tooltip;今から狼たちを無視する。;;;;;;;;;;;;x
+EVTTITLE_HL_1202;躊躇い;;;;;;;;;;;;x
+EVTDESC_HL_1202;貴方は夜のうちに出かけ、遠吠えをする狼と会いに、彼らが集まっていそうな近くの丘に近づいた。貴方と衛兵が近づくと、狼たちはやや後退りし、警戒している。;;;;;;;;;;;;x
+EVTOPTA_HL_1202;衛兵、一人でこの獣と会うために私を残して立ち去れ。;;;;;;;;;;;;x
+wolves_continue_alone_tooltip;一人で獣と会うために進む。;;;;;;;;;;;;x
+EVTOPTB_HL_1202;こんなことしても無意味だ、帰ろう。;;;;;;;;;;;;x
+EVTTITLE_HL_1203;欠けているもの;;;;;;;;;;;;x
+EVTDESC_HL_1203;The wolves have finally stopped their nightly howling outside your home, and there has been silence at night for almost two weeks now. Everyone at your court is relieved, saying they sleep better. Everyone except you... you find that there is a void in your soul, something missing now. You often dream of the wolves howling, and sometimes in your dreams you are running with them through the night, only to wake up early in the morning with a feeling of emptiness.;;;;;;;;;;;;x
+EVTOPTA_HL_1203;私は誰ですか？;;;;;;;;;;;;x
+EVTTITLE_HL_1210;群狼;;;;;;;;;;;;x
+EVTDESC_HL_1210;As you carefully approach the wolves, alone, they stand and wait for you, absolutely still. It turns out to be a pack of about a dozen. As you reach them, they approach you, one by one, smelling you and nudging you with their noses, growling softly. A feeling of belonging wells up inside you, and you feel a quickening throughout your entire body. After a few moments, the wolves begin to move, beckoning you to join them, and you start to jog, breaking into a run. Soon, you are running at full speed, following the pack of wolves into the wild...;;;;;;;;;;;;x
+EVTOPTA_HL_1210;アオーーーン！;;;;;;;;;;;;x
+wolves_run_with_wolves_tooltip;群狼に加わる。;;;;;;;;;;;;x
+EVTTITLE_HL_1230;狼の狩り;;;;;;;;;;;;x
+EVTDESC_HL_1230;You have been running with the wolves for a while now. Keeping up with their pace exerts you to near your physical limits, but it also makes you feel strong and alive. You stop occasionally to rest and to drink the cold water of small streams in the wild.\n\nEventually hunger sets in, and you hunt. The pack works in a perfectly coordinated way, cornering a large deer and slaying it. The time has come to feast!;;;;;;;;;;;;x
+EVTOPTA_HL_1230;Rip, tear, devour!;;;;;;;;;;;;x
+EVTOPTB_HL_1230;Raw meat? Very well, only because I'm so hungry...;;;;;;;;;;;;x
+EVTTITLE_HL_1240;別れ;;;;;;;;;;;;x
+EVTDESC_HL_1240;You have spent a long time out in the wild with the wolfpack now, losing track of the days. The wolves treat you as one of their own. You’ve always felt the coursing of the wolf blood in your veins, but never as strong as now. You start to realize, however, that you have a home to return to, domains to oversee and envious relatives that might covet your position. Reluctantly, you decide that it’s time to return home.;;;;;;;;;;;;x
+EVTOPTA_HL_1240;また会いましょう！;;;;;;;;;;;;x
+EVTTITLE_HL_1250;帰郷;;;;;;;;;;;;x
+EVTDESCA_HL_1250;You’ve returned after spending several days out in the wild, running with the wolves. As you appear at court, people stare in awed silence. Your clothes are torn and full of dirt, leaves and blood. Your hair is disheveled and your face has scratches from branches and form the loving attentions of your packmates. But what perhaps impresses your subjects the most is the wide wolfish grin on your face.\n\nYour servants come to meet you, abject and impressed but also clearly trying to hide their fear and worry. Everyone is wondering where you've been.;;;;;;;;;;;;x
+EVTDESCB_HL_1250;You’ve returned after spending several days out in the wild, running with the wolves. As you appear at court, people stare in awed silence. Your clothes are torn and full of dirt, leaves and blood. Your hair is disheveled and your face has scratches from branches and form the loving attentions of your packmates. But what perhaps impresses your subjects the most is the wide wolfish grin on your face.\n\n[wolf_worried_homecoming.GetName] rushes out to meet you, fussing over you and asking where you’ve been.;;;;;;;;;;;;x
+EVTOPTA_HL_1250;It's my own business.;;;;;;;;;;;;x
+EVTOPTB_HL_1250;すべては変わりゆく。;;;;;;;;;;;;x
+EVTOPTC_HL_1250;いつも貴方のことを考えていました。;;;;;;;;;;;;x
+lycanthropy;狼男;;;;;;;;;;;;x
+lycanthropy_desc;満月の時、この人物の周りで奇妙な事が起こります。;;;;;;;;;;;;x
+EVTTITLE_HL_1400;狼男;;;;;;;;;;;;x
+EVTDESC_HL_1400;ここ数日、夜眠りにつくと、緊張して落ち着かず、あなたの心を不思議な感覚が占めていた。何日もの間、疲れてはいたが、何か重要なことが訪れるのを想像をしてしまい、またも緊張していた。\n\n深夜、目が覚め満月が昇るのを見ると、ついに理解した。月だ、月が私に話しかけるのだ、時が来たと。立ち上がり狼になる時だと、荒野に出て自由になる時だと、そして月の狂気に我を失う時だと...;;;;;;;;;;;;x
+EVTTITLE_HL_1401;満月;;;;;;;;;;;;x
+EVTDESC_HL_1401;The moon has been growing full during the past couple of nights, and with your restlessness is growing. You can sense it coming. It is time again, time to embrace the moon-madness...;;;;;;;;;;;;x
+EVTOPTA_HL_1401;What will the night bring?;;;;;;;;;;;;x
+EVTDESC_HL_1410;あなたは、目についた最も高い丘に達するまで、夜通し走る。月に向かって何時間もの間遠吠えし、月光と狂気の中で喜びに打ち震える。;;;;;;;;;;;;x
+EVTDESC_HL_1420;あなたは夜の間中、ずっと遠くまで、月の狂気に駆り立てられ走り続ける。谷を飛び越え、丘を登り、小さな川で泳ぐ。疲れ果てるまで走り、また走り、そして柔らかい地面の上に体を横たえ、しばしまどろむ…;;;;;;;;;;;;x
+EVTOPTA_HL_1420;So good but so tiring...;;;;;;;;;;;;x
+EVTDESC_HL_1430;あなたは獲物を求めて夜通し走る。ついに獲物を見つけ、襲い掛かる。引き裂き、斬り、丸のみするその間ずっとあなたはオオカミのように吠えている。ついには狂乱した鳴き声は止まる...;;;;;;;;;;;;x
+EVTOPTA_HL_1430;血を！;;;;;;;;;;;;x
+EVTDESC_HL_1440;あなたは獲物を求めて夜通し走る。ついに獲物を見つけ、襲い掛かる。引き裂き、斬り、丸のみするその間ずっとあなたはオオカミのように吠えている。ついには狂乱した叫び声は止まる...;;;;;;;;;;;;x
+EVTDESC_HL_1450;あなたは獲物を求めて夜通し走る。ついに獲物を見つけ、襲い掛かる。引き裂き、斬り、丸のみするその間ずっとあなたはオオカミのように吠えている。ついには狂乱した吠え声は止まる...;;;;;;;;;;;;x
+EVTDESC_HL_1460;あなたは獲物を求めて夜通し走る。ついに獲物を見つけ、襲い掛かる。引き裂き、斬り、丸のみするその間ずっとあなたはオオカミのように吠えている。ついには狂乱した叫び声は止まる...;;;;;;;;;;;;x
+werewolf_killed_cow_tooltip;牛を殺しました。;;;;;;;;;;;;x
+werewolf_killed_pig_tooltip;豚を殺しました。;;;;;;;;;;;;x
+werewolf_killed_dog_tooltip;犬をを殺しました。;;;;;;;;;;;;x
+werewolf_killed_someone_tooltip;誰かを殺しました。;;;;;;;;;;;;x
+EVTTITLE_HL_1490;次の朝;;;;;;;;;;;;x
+EVTDESCA_HL_1490;貴方は朝目覚めたが、全く寝れていないように感じた。筋肉が痛み、そして喉も痛い。貴方は話そうとすると、かなりかすれていることに気付いた。どうしてこうなった？全く覚えていない。;;;;;;;;;;;;x
+EVTDESCB_HL_1490;貴方は朝目覚めたが、全く寝れていないように感じた。ぼんやりと悪夢を見ていたことは覚えている。そして体は冷え、濡れていた。夜に一体何があった？全く覚えていない。;;;;;;;;;;;;x
+EVTDESCC_HL_1490;貴方は朝目覚めたが、全く寝れていないように感じた。筋肉が痛み、そして喉も痛い。何かべたべたとしたもので胸が濡れていた。下を見下ろすと、血で覆われていることに気付く。これは明らかに自分の血ではなく、どうしてこうなったか覚えていない。それは何ともいえないが、漠然とした高揚感を掻き立てる...;;;;;;;;;;;;x
+EVTOPTA_HL_1490;奇妙だ。;;;;;;;;;;;;x
+hoarse;枯れた声;;;;;;;;;;;;x
+hoarse_desc;この人物は声の出しすぎで、ほとんど話すことができません。;;;;;;;;;;;;x
+werewolf_killed;満月の熱狂;;;;;;;;;;;;x
+werewolf_killed_desc;この人物は、最近満月の下で血を求めました。;;;;;;;;;;;;x
+EVTDESC_HL_1500;The blood and spirit of the wolf is within you. You feel it as you walk among the people - you are not like them, you are superior. And the air is fragrant with the smell of meat, it is all around you. It could all be yours for the taking, if you are careful...;;;;;;;;;;;;x
+EVTOPTA_HL_1500;狼は空腹だ！;;;;;;;;;;;;x
+EVTOPTB_HL_1500;I... must... resist... it...;;;;;;;;;;;;x
+EVTDESC_HL_1510;The moon is high in the night sky. She casts her light over the lands, illuminating the night. You turn your gaze skywards, sensing a strange longing. Your wolf’s blood runs quicker, the moon beckons. You raise your voice in tribute to her...;;;;;;;;;;;;x
+EVTOPTA_HL_1510;アォォォォゥゥゥゥゥゥゥゥ!!!;;;;;;;;;;;;x
+EVTDESC_HL_1520;One night at dinner, you accidentally drop a piece of meat on the floor. A small dog runs up and snatches it before you can grab it. Enraged, without thinking, you draw your sword and jump at the dog, skewering it. [wolf_hunting_instinct_at_court_courtier.GetTitledName] is horrified, as you have just killed [wolf_hunting_instinct_at_court_courtier.GetHerHis] favorite dog.;;;;;;;;;;;;x
+EVTOPTA_HL_1520;No one touches my meat.;;;;;;;;;;;;x
+EVTDESC_HL_1530;In your daily martial training and discussions on military matters with your commanders, you find that there are often moves and tactics that occur to no one else but you. People seem to be impressed by your instinctive understanding of encirclement tactics, trickery and stealth.;;;;;;;;;;;;x
+EVTOPTA_HL_1530;The wolves always catch their prey.;;;;;;;;;;;;x
+EVTDESC_HL_1540;You often run and wrestle to keep fit. It is a hunger and desire for the hunt that drives you, and you often see the movement patterns of wolves before your inner eye as you train.;;;;;;;;;;;;x
+EVTOPTA_HL_1540;I feel strong!;;;;;;;;;;;;x
+EVTDESC_HL_1550;You consider yourself a clever person, effectively applying your mind to any problem that needs solving. You have found that true strength comes when the animal cunning of the wolf is added to the human intellect.;;;;;;;;;;;;x
+EVTOPTA_HL_1550;Few have it.;;;;;;;;;;;;x
+EVTDESC_HL_1560;Lately, you have been feeling a strange wolfish hunger as you look at some members of your court. You have been taught to control your desires like everyone else, but there is a deep animal instinct within you that keeps increasing in intensity, pressing more and more on your patience. You feel it will soon no longer be possible to control it - and perhaps you don’t want to?;;;;;;;;;;;;x
+EVTOPTA_HL_1560;Growl.;;;;;;;;;;;;x
+EVTOPTB_HL_1560;It's like an animal inside me!;;;;;;;;;;;;x
+EVTOPTC_HL_1560;I smell new smells...;;;;;;;;;;;;x
+EVTDESC_HL_1570;The lone wolf will not survive, and prosperity is only possible when the pack hunts together as one. You know this, and you feel a deep need to include everyone and thus make your court stronger.;;;;;;;;;;;;x
+EVTOPTA_HL_1570;I almost licked someone today.;;;;;;;;;;;;x
+EVTOPTB_HL_1570;I have a new sense of... belonging.;;;;;;;;;;;;x
+EVTDESC_HL_1580;The prey starts and flees at the slightest sound. The prey is fearful. The wolf goes forth without fear, knowing [Root.GetSheHe] will be the one to eat and not be eaten, knowing [Root.GetSheHe] will prevail.;;;;;;;;;;;;x
+EVTOPTA_HL_1580;I am the wolf.;;;;;;;;;;;;x
+EVTOPTB_HL_1580;I see it now.;;;;;;;;;;;;x
+EVTDESC_HL_1590;The strongest are the ones who survive. The weak shall perish, such is the law of the steppe. And on the steppe, the wolf is strongest.;;;;;;;;;;;;x
+EVTOPTA_HL_1590;The law must be respected.;;;;;;;;;;;;x
+EVTOPTB_HL_1590;I did not see it before.;;;;;;;;;;;;x
+EVTDESC_HL_1610;There is a rage that strikes you sometimes. They say your ancestors were wolves, and maybe they are right.;;;;;;;;;;;;x
+EVTOPTA_HL_1610;Let the wolf rage.;;;;;;;;;;;;x
+EVTOPTB_HL_1610;I cannot stop it!;;;;;;;;;;;;x
+EVTDESC_HL_1620;Occasionally, as you look into a mirror, it occurs to you that your face more and more resembles that of a wolf. It seems to be a slow but inexorable change occurring over the years. You can’t quite decide if you like it or not, but you sense that people at court have started to look at you in a funny way.;;;;;;;;;;;;x
+EVTOPTA_HL_1620;There is nothing I can do about it.;;;;;;;;;;;;x
+EVTOPTB_HL_1620;And they used to think me fair...;;;;;;;;;;;;x
+EVTDESC_HL_1630;Sometimes when you sit down to reason and try to straighten out a problem, your mind only bends back in on itself. Your almost seem to forget your learning as animal instincts take over, seeking solutions that are more simple and direct.;;;;;;;;;;;;x
+EVTOPTA_HL_1630;Maybe instinct is better than learning.;;;;;;;;;;;;x
+EVTDESC_HL_1640;The moon is high in the night sky. She casts Her light over the lands, illuminating the night. You turn your gaze skywards, basking in Her radiant love. Your wolf’s blood runs quicker as She beckons to you. You slowly raise your voice in tribute to Her, howling as you would howl until the world ends. It fills you with joy, and you exult in Her being, knowing that She and you are one!;;;;;;;;;;;;x
+EVTTITLE_HL_1702;狼の遺産;;;;;;;;;;;;x
+EVTDESCA_HL_1702;Little [From.GetFirstName] is not like most other children. You notice that [From.GetSheHe] growls when other children cry, and is quicker and stronger than other children [From.GetHerHis] age. There is also that sniffing thing [From.GetSheHe] does. You recognize the signs - [From.GetSheHe] has inherited your blood, the blood of wolves...;;;;;;;;;;;;x
+EVTDESCB_HL_1702;Little [From.GetFirstName] is not like most other children. You notice that [From.GetSheHe] growls when other children cry, and is quicker and stronger than other children [From.GetHerHis] age. There is also that sniffing thing [From.GetSheHe] does. If you didn’t know better, you’d say [From.GetSheHe] has inherited [From.GetHerHis] [Spouse.GetFatherMother]’s blood, the blood of wolves...;;;;;;;;;;;;x
+EVTOPTA_HL_1702;[From.GetSheHeCap] will grow to be a strong [From.GetManWoman]!;;;;;;;;;;;;x
+EVTOPTB_HL_1702;Alas, I wish it were not so!;;;;;;;;;;;;x
+nick_the_wolf;狼;;;;;;;;;;;;x
+sky_burial_decision;鳥葬執行;;;;;;;;;;;;x
+sky_burial_decision_desc;私は前任者が自然に還るよう外へ横たえてくることができます。;;;;;;;;;;;;x
+sky_burial_custom_tooltip;鳥葬を執り行う。;;;;;;;;;;;;x
+EVTNAME_HL_8005;鳥葬;;;;;;;;;;;;x
+EVTOPTA_HL_8005;私は彼を私自身で山まで運んでいかねばなりません。;;;;;;;;;;;;x
+EVTOPTB_HL_8005;いや、彼は彼の名に相応しい黄金の墓を持つべきだ。;;;;;;;;;;;;x
+EVTOPTC_HL_8005;彼は鳥でなくオルゴイホルホイ（モンゴリアンデスワーム）に食われるべきだ！;;;;;;;;;;;;x
+EVTOPTC_HL_8005_custom_tooltip_a;鳥葬が準備されます。;;;;;;;;;;;;x
+EVTOPTC_HL_8005_custom_tooltip_b;強大な墳墓の建設が開始されます。;;;;;;;;;;;;x
+EVTOPTC_HL_8005_custom_tooltip_c;それは砂漠を渡る困難な旅となり、貴方の生命を大いに危険に晒します。いくらかの健康問題などはまったくささいなものと言えるほどでしょう…;;;;;;;;;;;;x
+EVTNAME_HL_8006;悪天候;;;;;;;;;;;;x
+EVTDESC_HL_8006;山々への道中、貴方の一団は大雨を伴う小さな嵐に遭遇しました。雨は大地を軟化させ、空気は冷えました。;;;;;;;;;;;;x
+EVTOPTA_HL_8006;嵐が去るまで避難所を見つけよう。;;;;;;;;;;;;x
+EVTOPTB_HL_8006;ささいな雨が人を殺すなどあるものか！;;;;;;;;;;;;x
+EVTNAME_HL_8008;孤独な隠者;;;;;;;;;;;;x
+EVTDESC_HL_8008;山へ行く途中、貴方は孤独な隠者と出会った。彼は擦り切れたテントと病気の年老いた馬、数匹の羊以外に多くの物を持っていない。しかし老人は塩漬けのお茶を一緒に飲もうと誘ってきた。話している内に、貴方は彼と一緒に過ごすのを楽しんでいることに気付いた。;;;;;;;;;;;;x
+EVTOPTA_HL_8008;これを受け取ってくれ。;;;;;;;;;;;;x
+EVTOPTB_HL_8008;私の家臣にならないか？;;;;;;;;;;;;x
+EVTOPTC_HL_8008;ありがとう、しかしもう行かなければ。;;;;;;;;;;;;x
+EVTNAME_HL_8010;鳥葬;;;;;;;;;;;;x
+EVTDESC_HL_8010;山に登りふさわしい場所に遺体を慎重に置き、ハゲワシが空に舞い上がる音を聞きながら、鳥葬の儀式を行った。山を下り始めてすぐにくちばしと爪でハゲワシが肉を裂き始めるのが見えた。;;;;;;;;;;;;x
+EVTOPTA_HL_8010;今あなたは、[Root.Religion.GetRandomGodName]と共にある。;;;;;;;;;;;;x
+EVTNAME_HL_8011;Being Followed;;;;;;;;;;;;x
+EVTDESC_HL_8011;Ever since you left the mountains, you have had the odd feeling that someone is following you. But when you turn to look, there is nothing there. But as you reach the top of a small hill, you quickly turn your head and see that one of the vultures has been following you! And not just any vulture. It's a bearded vulture!;;;;;;;;;;;;x
+EVTOPTA_HL_8011;Can I keep it?!;;;;;;;;;;;;x
+EVTOPTB_HL_8011;Just scare it away.;;;;;;;;;;;;x
+EVTNAME_HL_8020;Constructing Tomb;;;;;;;;;;;;x
+EVTDESC_HL_8020;You have selected a remote and secluded location for the tomb. The men are ready and waiting for your command to start digging.;;;;;;;;;;;;x
+EVTOPTA_HL_8020;Well then. Put your back into it!;;;;;;;;;;;;x
+EVTNAME_HL_8022;黄金の墳墓;;;;;;;;;;;;x
+EVTDESC_HL_8022;The tomb stand completed. It sparkles with all the gold and steel within. You make sure to properly seal and cover the tomb, taking extra caution to make sure that no markings reveals its location. You kill all the workers so that no one but you, and your personal guard, know where to find it.;;;;;;;;;;;;x
+EVTOPTA_HL_8022;Magnificent, and no one shall ever disturb it.;;;;;;;;;;;;x
+EVTOPTB_HL_8022;Have the guards killed as well.;;;;;;;;;;;;x
+EVTNAME_HL_8030;ゴビ砂漠;;;;;;;;;;;;x
+EVTDESC_HL_8030;The days have been agonizingly warm. Your water has almost run out. The body has already started to decompose and can be smelled from quite the distance. Yet, you haven't reached the place where the death worm is rumored to exist. The others of your party beg you to go back.;;;;;;;;;;;;x
+EVTOPTA_HL_8030;Nonsense! We must continue!;;;;;;;;;;;;x
+EVTOPTB_HL_8030;This was a bad idea.. Lets go back..;;;;;;;;;;;;x
+EVTNAME_HL_8032;ゴビ砂漠;;;;;;;;;;;;x
+EVTDESC_HL_8032;Finally reaching the area where the olgoi-khorkhoi are supposedly found, you feel satisfied with your achievement. You see no sign of the worm, but you are sure that it lurkers just beneath the sands! You place the body on the ground, or what's left of it, to be sacrificed to the mighty creature.;;;;;;;;;;;;x
+EVTOPTA_HL_8032;A worthy burial! Now to get back home..;;;;;;;;;;;;x
+EVTOPTA_HL_8032_custom_tooltip;safely reaching home.;;;;;;;;;;;;x
+EVTOPTB_HL_8032;That was fun! But now, I must rest.. right here..;;;;;;;;;;;;x
+EVTNAME_HL_8035;Home at Last;;;;;;;;;;;;x
+EVTDESC_HL_8035;It was a difficult journey, but you made it home safely. Most of your party perished in the desert, and it seems that you alone were able to complete the journey without severely straining your health.;;;;;;;;;;;;x
+EVTOPTA_HL_8035;あなたを殺さないのは、あなたを強くするためだ！;;;;;;;;;;;;x
+EVTDESC_HL_9000;You and your men are practicing wrestling when you notice a crowd starting to form around you. Wrestling is an honored tradition that keeps nomad warriors fit for war, but ever so often it happens that training sessions turn into competitive spectacles. Your men have already started putting on a show for the crowd. They beckon you to join them.;;;;;;;;;;;;x
+EVTOPTA_HL_9000;I can't disappoint the audience, now can I?;;;;;;;;;;;;x
+EVTTOOLTIP_HL_9000A;You decide to join the contest.;;;;;;;;;;;;x
+EVTOPTB_HL_9000;There's no time for this, get back to training the lot of you!;;;;;;;;;;;;x
+EVTOPTD_HL_9000;今、楽しむこともできるが、やめておこう...;;;;;;;;;;;;x
+EVTDESC_HL_9001;With matches lasting upwards of two hours, Bökh wrestling is an excellent way to prove your endurance. You and your opponent are expected to dance as you enter and leave the contest field, and it's also expected of the winner to help the opponent up off the ground as the match is over. You know that this will require you to exert yourself to your very limit.;;;;;;;;;;;;x
+EVTOPTA_HL_9001;I'll challenge one of my greatest warriors!;;;;;;;;;;;;x
+EVTOPTD_HL_9001;I'll challenge my trusty steed, Glitterhoof!;;;;;;;;;;;;x
+EVTTOOLTIP_HL_9001A;Is challenged to a wrestling match!;;;;;;;;;;;;x
+EVTOPTB_HL_9001;当然、私が挑む人は誰でも降伏すると期待している。;;;;;;;;;;;;x
+EVTOPTC_HL_9001;On the other hand, this seems dangerous...;;;;;;;;;;;;x
+EVTDESC_HL_9003;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you spot a weakness in your opponent's defense. You quickly let go of his upper body and grab his legs, tipping him over. He falls over and his elbows touch the ground – you are the victor!;;;;;;;;;;;;x
+EVTOPTA_HL_9003;My opponent was pathetic, I won't help him up!;;;;;;;;;;;;x
+EVTOPTB_HL_9003;I have triumphed! Now take my hand, I'll help you up.;;;;;;;;;;;;x
+EVTOPTC_HL_9003;I may have won, but we'll share the glory!;;;;;;;;;;;;x
+EVTOPTD_HL_9003;That was a thrilling experience! Meet me in my tent later?;;;;;;;;;;;;x
+EVTDESC_HL_9004;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you start to feel the strain. Suddenly your opponent catches you off guard and grabs your legs. He lifts you into the air and lets you fall to the ground. You've been defeated!;;;;;;;;;;;;x
+EVTOPTA_HL_9004;Maybe this wasn't such a good idea after all...;;;;;;;;;;;;x
+EVTOPTB_HL_9004;私の正々堂々たる敗北だった、何と素晴らしき相手であったことよ！;;;;;;;;;;;;x
+EVTOPTC_HL_9004;You dare defeat the Khan? Now feel my wrath!;;;;;;;;;;;;x
+EVTOPTD_HL_9004;I may have lost, but it was a thrilling experience!;;;;;;;;;;;;x
+manly_skill_wrestling;レスリングの達人;;;;;;;;;;;;x
+manly_skill_wrestling_desc;この人物はレスリングの技術を習得しています。;;;;;;;;;;;;x
+denied_wrestling;レスリング大会を辞退;;;;;;;;;;;;x
+denied_wrestling_desc;この人物はレスリング大会への挑戦を辞退しました。;;;;;;;;;;;;x
+wrestling_win_vs_horse;貴方の勝利です！;;;;;;;;;;;;x
+revoke_primary;州都の取り消し;;;;;;;;;;;;x
+revoke_primary_desc;この領地から州都を取り消すことができます。;;;;;;;;;;;;x
+pillage_settlement_named;[Root.GetName]を略奪;;;;;;;;;;;;x
+SELECT_FLANKLEADER_RIGHT;右翼軍を指揮する指揮官を選択します;;;;;;;;;;;;x
+SELECT_FLANKLEADER_CENTER;中央軍を指揮する指揮官を選択します;;;;;;;;;;;;x
+SELECT_FLANKLEADER_LEFT;左翼軍を指揮する指揮官を選択します;;;;;;;;;;;;x
+SELECT_SUBUNIT_LEADER;この予備軍を指揮する指揮官を選択します;;;;;;;;;;;;x
+title_commander;指揮官;;;;;;;;;;;;x
+EVTDESC_WOL_11115;敵の侵略から我々の土地を守るための演習に参加する人々を宮廷に招待しました。演習は侵略軍を表す木の模型を使用して行われます。私は巧妙な戦術を用いて相手を打ち負かさねばなりません。;;;;;;;;;;;;x
+EVTOPTA_WOL_11115;きっと充実した時間となろう。;;;;;;;;;;;;x
+EVTOPTB_WOL_11115;今日でなくていいだろ、忙しいのだ。;;;;;;;;;;;;x
+EVTDESC_WOL_11117;誰も今日の戦争演習のゲームに参加したがらなかった。;;;;;;;;;;;;x
+EVTOPTA_WOL_11117;それはがっかりだ。;;;;;;;;;;;;x
+EVTDESC_WOL_11118;ゲームを始めるにあたって役割を決めた。[defender.GetFirstName]と私は防衛軍を、[attacker.GetFirstName]は侵略軍を指揮することになった。;;;;;;;;;;;;x
+EVTOPTA_WOL_11118;勝った者が最高の将軍だ。;;;;;;;;;;;;x
+EVTDESC_WOL_11120;ゲームが始まると、敵軍はあなたの中央陣に対して、強力な正面攻撃を敢行することにした。;;;;;;;;;;;;x
+EVTOPTA_WOL_11120;中央の補修と強化のため、あらゆる手段を講じろ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11120;中央の軍をゆっくりと後退させろ。;;;;;;;;;;;;x
+EVTDESC_WOL_11121_GOOD;The war game gets intense as you use your forces to reinforce the center, while [attacker.GetFirstName]’s troops begins to pressure your flanks, and they’re failing fast.  [defender.GetFirstName] suggests that we should respond with pressure in the center flank.;;;;;;;;;;;;x
+EVTDESC_WOL_11121_BAD;The war game gets intense as you use your forces to reinforce the center, while [attacker.GetFirstName]’s troops begins to pressure your flanks, and they’re failing fast. [defender.GetFirstName] suggests that we should use the cavalry on the side flanks.;;;;;;;;;;;;x
+EVTOPTA_WOL_11121;騎兵を使って翼を圧迫しろ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11121;中央を押し込め。;;;;;;;;;;;;x
+EVTOPTC_WOL_11121;Focus our efforts on keeping one flank up.;;;;;;;;;;;;x
+EVTDESC_WOL_11122_GOOD;[attacker.GetFirstName] が率いる敵軍の攻撃を、中央陣が受け続ける中、敵の騎兵部隊が我が軍の背後に姿を現した。[defender.GetFirstName]は、敵騎兵部隊の撃破を提案した。;;;;;;;;;;;;x
+EVTDESC_WOL_11122_BAD;[attacker.GetFirstName] が率いる敵軍の攻撃を、中央陣が受け続ける中、敵の騎兵部隊が我が軍の背後に姿を現した。[defender.GetFirstName]は、中央陣の増強を提案した。;;;;;;;;;;;;x
+EVTOPTA_WOL_11122;両翼から大部隊を引き抜いて、騎兵を撃破しろ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11122;小部隊を掻き集めて、騎兵を捕捉するのだ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11122;戦力を中央に集中しろ。;;;;;;;;;;;;x
+EVTDESC_WOL_11123_GOOD;自軍中央陣が後退する中、[attacker.GetFirstName]は、その中央をさらに激しく圧迫することに決めた。[defender.GetFirstName]は、突出した敵中央を、包囲するよう進言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11123_BAD;While your troops withdraw from the center flank [attacker.GetFirstName] decides to push the center flank hard. [defender.GetFirstName] suggests that we keep the formation.;;;;;;;;;;;;x
+EVTOPTA_WOL_11123;予備軍すべてを中央に投入する。;;;;;;;;;;;;x
+EVTOPTB_WOL_11123;両翼も後退させて、横陣を維持せよ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11123;両翼を畳み込ませ、敵を包囲せよ。;;;;;;;;;;;;x
+EVTDESC_WOL_11124_GOOD;[attacker.GetFirstName] decides to hold [attacker.GetHerHis] line when our troops withdraw from the center flank. [defender.GetFirstName] suggests that we charge the center while the enemy hesitates.;;;;;;;;;;;;x
+EVTDESC_WOL_11124_BAD;[attacker.GetFirstName] decides to hold [attacker.GetHerHis] line when our troops withdraw from the center flank. [defender.GetFirstName] suggests that we strengthen our side flanks with our idle troops.;;;;;;;;;;;;x
+EVTOPTA_WOL_11124;Prepare a counterattack in the center flank.;;;;;;;;;;;;x
+EVTOPTB_WOL_11124;Use our center troops as reserve for our now pressured side flanks.;;;;;;;;;;;;x
+EVTOPTC_WOL_11124;Prepare a large push on our left flank with support from the center.;;;;;;;;;;;;x
+EVTDESC_WOL_11130;ゲームが始まると、敵軍は戦略的要地となる丘に向かって、素早い侵攻を試みた。;;;;;;;;;;;;x
+EVTOPTA_WOL_11130;防御拠点の奪い合いに、全兵力を投入する。;;;;;;;;;;;;x
+EVTOPTB_WOL_11130;敵軍が丘に到達する前に、軽装の散兵部隊を急行させろ。;;;;;;;;;;;;x
+EVTDESC_WOL_11131_GOOD;私の部隊が丘の上に辿り着いた時、[attacker.GetFirstName]がほくそ笑む。彼は丘の向こう側に隠していた部隊を明らかにした。[defender.GetFirstName]は敵軍の一つを素早く落とすことを進言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11131_BAD;私の部隊が丘の上に辿り着いた時、[attacker.GetFirstName]がほくそ笑む。彼は丘の向こう側に隠していた部隊を明らかにした。[defender.GetFirstName]は敵軍に対処するために戦力を分割することを進言した。;;;;;;;;;;;;x
+EVTOPTA_WOL_11131;あなたの部隊に防御陣形を取らせて、衝突に備えよ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11131;伏兵に対処するために小規模な戦力を差し向けろ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11131;速やかに敵伏兵を追い散らせ。;;;;;;;;;;;;x
+EVTDESC_WOL_11132_GOOD;敵は我が軍と競い合うように素早く丘を駈け上がる。そして同時に頂上に辿り着くと両軍は乱戦となった。 [defender.GetFirstName] は、疲弊した部隊を均等に分散配置するよう進言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11132_BAD;敵は我が軍と競い合うように素早く丘を駈け上がる。そして同時に頂上に辿り着くと両軍は乱戦となった。 [defender.GetFirstName] は、敵軍の側面を粉砕するよう進言した。;;;;;;;;;;;;x
+EVTOPTA_WOL_11132;重装歩兵および軽装歩兵を前線に沿って均等に展開させよ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11132;重装歩兵を中央に集結させるのだ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11132;動かせる全ての部隊を左翼に集結させろ。;;;;;;;;;;;;x
+EVTDESC_WOL_11133_GOOD;[attacker.GetFirstName]は丘を奪取する機会を失い、部隊を我が軍の散兵部隊に突撃させてきた。[defender.GetFirstName]は我が軍を丘へ移動させるよう進言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11133_BAD;[attacker.GetFirstName]は丘を奪取する機会を失い、部隊を我が軍の散兵部隊に突撃させてきた。[defender.GetFirstName]は敵を妨害し交戦するよう進言した。;;;;;;;;;;;;x
+EVTOPTA_WOL_11133;我が軍の主力で敵軍の側面に攻撃を試みよ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11133;我が軍の散兵部隊の救援を急げ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11133;騎兵部隊に散兵部隊を援護させ、丘を奪取しつつ散兵を後退させよ。;;;;;;;;;;;;x
+EVTDESC_WOL_11134_GOOD;[attacker.GetFirstName]の軍は我が散兵部隊の攻撃をものともせず、じわじわと丘へと攻め寄せている。[defender.GetFirstName]は一刻も早く我が軍を丘の上に移すことを進言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11134_BAD;[attacker.GetFirstName]の軍は我が散兵部隊の攻撃をものともせず、じわじわと丘へと攻め寄せている。[defender.GetFirstName]は敵軍の背後を突くよう進言した。;;;;;;;;;;;;x
+EVTOPTA_WOL_11134;圧力を受け、弱体化した箇所に突撃せよ。;;;;;;;;;;;;x
+EVTOPTB_WOL_11134;我らが主力部隊を彼らの軍より高所へ進軍させよ。;;;;;;;;;;;;x
+EVTOPTC_WOL_11134;動きの鈍った敵を包囲し、背後から攻撃せよ。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN1;敵軍は明らかに疲労の色を見せ、かつ我々に高所の利を占められたことで明確に劣勢となりました。これは防衛側が勝利したことを意味します。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN2;我々が安定線を確保したことにより敵軍を排除することができ、戦争ゲームの明らかな勝者となりました。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN3;小規模な敵軍の発見によって、我々の軍が数でも優勢であることは明確となった。平地でも敵軍を打ち破ることに成功したことで勝利を宣言した。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN4;我々が攻撃を開始すると、敵陣の中央を突破し、分割された軍を容易に制圧することができた。我々は圧倒的な勝利を飾った。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN5;敵軍が愚かにも前進したとき、我々は容易にそれを包囲することができた。敵は囲みを破れず、我が軍が優勢となった。防御側の決定的な勝利だった。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_WIN6;The opposing forces focused their efforts on our center, but were unable to break it. However, our side flanks managed to advance in return, surrounding their center flank and securing our victory.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS1;As we keep the troops at the center mostly unused, the enemy manages to weaken the side flanks. Slowly but steadily, we are defeated.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS2;Our decision to attack an opponent who holds a defensive high-ground proves disastrous. As our troops suffer massive losses, we are forced to admit defeat.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS3;With our troops being split up and exhausted, we cannot fight the united forces of [attacker.GetFirstName]. We fail to inflict any lasting damage on our opponent, and are quickly overwhelmed. It is clear that we are defeated.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS4;乱戦の中、まず我が方の翼軍で疲弊した部隊が怯みだすと、敵はその好機を見逃さなかった。我が軍はたちまち圧倒され、対戦相手は紛れもない勝利者としてそびえ立っていた。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS5;Our troops are surrounded in the blink of an eye, and we take more casualties than the opponent. In the aftermath [attacker.GetFirstName] stands as the obvious victor.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS6;Our attempt to reinforce the center is much too late, and our troops end up disarrayed as we scramble to defend against the united forces of [attacker.GetFirstName]. It is clear that we cannot hold the line, and so we admit defeat.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS7;我が軍は騎兵部隊に耐えきれず、敵の突撃によって中央陣は蹂躙された。我が軍は分断され、瞬く間に打ち負かされてしまった。;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS8;With our troops struggling to keep the flanks reinforced, exhaustion is upon them before the fighting has gotten truly grim. [attacker.GetFirstName] only needs to order a decisive push, and our troops are defeated.;;;;;;;;;;;;x
+EVTOPTA_WOL_11140;戦略こそは我が悦びだ！;;;;;;;;;;;;x
+EVTOPTB_WOL_11140;いいゲームだった。;;;;;;;;;;;;x
+EVTOPTD_WOL_11140;テーブルを叩きつけ、駒を吹き飛ばす！;;;;;;;;;;;;x

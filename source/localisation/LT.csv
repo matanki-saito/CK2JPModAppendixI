@@ -1,0 +1,2074 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC38321;将来必要になるものを他人にあげるのは、最善の選択とは限らない。私は§Y慈善§!の特性を失った。;;;;;;;;;;;;x
+EVTDESC38322;自分のものを他人に分け与えるのは、ときに気分がいいものだ。私は§Y強欲§!の特性を失った。;;;;;;;;;;;;x
+wonder_library;大図書館;;;;;;;;;;;;x
+wonder_library_desc;今昔の物事の知識が書き込まれている本は貴重なものです。この知識の灯台には数千冊の本を収められる書庫と読書室が備えられることになります。;;;;;;;;;;;;x
+String_Library;図書館;;;;;;;;;;;;x
+String_Drama;戯曲;;;;;;;;;;;;x
+String_Poetry;詩集;;;;;;;;;;;;x
+String_Architecture;建築書;;;;;;;;;;;;x
+String_Philosophy;哲学書;;;;;;;;;;;;x
+String_History;歴史書;;;;;;;;;;;;x
+String_Astronomy;天文書;;;;;;;;;;;;x
+String_Medical;解剖学書;;;;;;;;;;;;x
+String_aDrama;戯曲;;;;;;;;;;;;x
+String_aPoetry;詩集;;;;;;;;;;;;x
+String_anArchitecture;建築書;;;;;;;;;;;;x
+String_aPhilosophy;哲学書;;;;;;;;;;;;x
+String_aHistory;歴史書;;;;;;;;;;;;x
+String_anAstronomy;天文書;;;;;;;;;;;;x
+String_aMedical;解剖学書;;;;;;;;;;;;x
+String_ADrama;戯曲;;;;;;;;;;;;x
+String_APoetry;詩集;;;;;;;;;;;;x
+String_AnArchitecture;建築書;;;;;;;;;;;;x
+String_APhilosophy;哲学書;;;;;;;;;;;;x
+String_AHistory;歴史書;;;;;;;;;;;;x
+String_AnAstronomy;天文書;;;;;;;;;;;;x
+String_AMedical;解剖学書;;;;;;;;;;;;x
+String_Writer;劇作家;;;;;;;;;;;;x
+String_Poet;詩人;;;;;;;;;;;;x
+String_Architect;建築家;;;;;;;;;;;;x
+String_Philosopher;哲学者;;;;;;;;;;;;x
+String_Historian;歴史家;;;;;;;;;;;;x
+String_Astronomer;天文学者にして哲学者;;;;;;;;;;;;x
+String_Medic;侍医;;;;;;;;;;;;x
+String_greek;古代ギリシャ;;;;;;;;;;;;x
+String_roman;古代ローマ;;;;;;;;;;;;x
+String_Euripedes;エウリピデス;;;;;;;;;;;;x
+String_Sophocles;ソフォクレス;;;;;;;;;;;;x
+String_Aristophanes;アリストファネス;;;;;;;;;;;;x
+String_Philemon;フィレモン;;;;;;;;;;;;x
+String_Aeschylus;アイスキュロス;;;;;;;;;;;;x
+String_Archilochus;アルキロコス;;;;;;;;;;;;x
+String_Alcman_of_Sparta;スパルタのアルクマン;;;;;;;;;;;;x
+String_Theocritus;テオクリトス;;;;;;;;;;;;x
+String_Sappho;サッフォー;;;;;;;;;;;;x
+String_Asclepiades_of_Samos;サモスのアスクレピアデス;;;;;;;;;;;;x
+String_Hermodorus_of_Salamis;サラミスのヘルモドロス;;;;;;;;;;;;x
+String_Vitruvius;ウィトルウィウス;;;;;;;;;;;;x
+String_Rabirius;ラビリウス;;;;;;;;;;;;x
+String_Cocceius_Auctus;コッケイウス・アウクトゥス;;;;;;;;;;;;x
+String_Plato;プラトン;;;;;;;;;;;;x
+String_Aristotle;アリストテレス;;;;;;;;;;;;x
+String_Pythagoras;ピュタゴラス;;;;;;;;;;;;x
+String_Thales_of_Mileto;ミレトスのタレス;;;;;;;;;;;;x
+String_Zeno_of_Elea;エレアのゼノン;;;;;;;;;;;;x
+String_Herodotus;ヘロドトス;;;;;;;;;;;;x
+String_Thucydides;トゥキュディデス;;;;;;;;;;;;x
+String_Polybius;ポリュビオス;;;;;;;;;;;;x
+String_Strabo;ストラボン;;;;;;;;;;;;x
+String_Hypatia_of_Alexandria;アレキサンドリアのヒュパティア;;;;;;;;;;;;x
+String_Ptolemy;プトレマイオス;;;;;;;;;;;;x
+String_Aristarchus_of_Samos;サモスのアリスタルコス;;;;;;;;;;;;x
+String_Hippocrates_of_Kos;コスのヒポクラテス;;;;;;;;;;;;x
+String_Virgil;ウェルギリウス;;;;;;;;;;;;x
+String_s;s;;;;;;;;;;;;x
+String_politely;politely;;;;;;;;;;;;x
+antiquity_book_poetry;散逸した傑作詩集;;;;;;;;;;;;x
+antiquity_book_play;散逸した戯曲;;;;;;;;;;;;x
+antiquity_book_medicine;散逸した医学書;;;;;;;;;;;;x
+antiquity_book_philosophy;散逸した哲学書;;;;;;;;;;;;x
+antiquity_book_architecture;散逸した建築書;;;;;;;;;;;;x
+antiquity_book_history;古代史書;;;;;;;;;;;;x
+antiquity_book_astronomy;散逸した天文書;;;;;;;;;;;;x
+antiquity_book_fake;よく出来た偽書;;;;;;;;;;;;x
+lost_masterpiece_book_desc;[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]による[Root.GetBookThemeCap]は散逸したと思われていましたが、再発見され[Root.GetTitledNameWithNick]の大図書館に収蔵されました;;;;;;;;;;;;x
+fake_masterpiece_book_desc;最初は[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]による[Root.GetBookThemeWithArticle]だと考えられていましたが、今はよく出来た偽書であると考えられています。;;;;;;;;;;;;x
+tomb_armor_desc;謎の墓から出土した古代の騎士の鎧;;;;;;;;;;;;x
+tomb_sword_desc;謎の墓から出土した古代の騎士の剣;;;;;;;;;;;;x
+tomb_scepter_desc;嘗ての王の墓から出土したエメラルドが散りばめられた古代の王笏;;;;;;;;;;;;x
+terrible_armor;拙い出来の鎧;;;;;;;;;;;;x
+terrible_armor_desc;素材だけは上質ながらくた。これを作った鎧鍛冶は酔っ払っていたことでしょう。;;;;;;;;;;;;x
+zweihander_sword;[GetZweihanderSwordName];;;;;;;;;;;;x
+zweihander_sword_desc;強力だが重量のある両手剣。これをまともに扱えるのは屈強な戦士だけです。;;;;;;;;;;;;x
+String_ZweihanderSword;ツヴァイヘンダー;;;;;;;;;;;;x
+String_TwoHandedSword;両手剣;;;;;;;;;;;;x
+caught_with_forgery;偽書が発見された;;;;;;;;;;;;x
+ate_beating_heart;心臓喰らい;;;;;;;;;;;;x
+opinion_liked_a_good_joke;Liked a Good Joke;;;;;;;;;;;;x
+opinion_refused_invitation_to_meet;招待を断った;;;;;;;;;;;;x
+recruit_academy_hero;名剣闘士を雇用;;;;;;;;;;;;x
+recruit_academy_hero_desc;§Y円形競技場§!の§Y剣闘士訓練学校§!には沢山のよく訓練された戦士が所属しています。その内で一番強い者を雇えばよい軍事指揮官となるでしょう。;;;;;;;;;;;;x
+has_not_recruited_in_5_years_TT;過去5年間名剣闘士を雇用していない。;;;;;;;;;;;;x
+gladiator_commander_TT;剣闘士の訓練を受けた戦士が§Y[Root.GetTitledName]§!の宮廷に現れます。;;;;;;;;;;;;x
+gladiator;剣闘士;;;;;;;;;;;;x
+gladiator_desc;この人物はこの闘技場で剣闘士としての訓練を受けました。;;;;;;;;;;;;x
+EVTDESCHF23002_C;神官たちは恐怖に叫ぶ[From.GetTitledFirstName]を引き連れて[the_temple.GetName]に至り、神殿の天辺にある[the_sacrificial_altar.GetName]に[From.GetHerHim]を横たえた。それから儀式用の短剣で[From.GetHerHis]の胸を切り開き、いまだ脈打っている心臓を取り出すと、群衆から歓声が上がった。;;;;;;;;;;;;x
+EVTDESCHF23002_D;The priests drag [From.GetTitledFirstName] screaming to the top of the [the_temple.GetName] and they keep [From.GetHerHim] steady on the [the_sacrificial_altar.GetName] that stands there while I slice [From.GetHerHim] open with a ceremonial dagger. I then tear out [From.GetHerHis] still beating heart to the cheers of the assembled crowd.;;;;;;;;;;;;x
+EVTOPTBHF23002;I eat the beating heart!;;;;;;;;;;;;x
+EVTOPTBHF23002_TT;§Y[the_sacrificial_altar.GetName]§!があるため、これが選択可能です;;;;;;;;;;;;x
+EVT_TITLE_LT_20010;散逸した書;;;;;;;;;;;;x
+EVTDESC_LT_20010.1;宮廷に来た客人から[book_province_realm.GetFullBaseName]の[book_province.GetName]に住む裕福な商人が、[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]による今まで知られていない[Root.GetBookTheme]を手に入れたという話を聞いた。;;;;;;;;;;;;x
+EVTDESC_LT_20010.2;[book_province_realm.GetFullBaseName]の[book_province.GetName]から手紙が届いた。曰く、[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]作の[Root.GetBookThemeWithArticle]の写本を手に入れたが、それは今まで全く知られていなかった作品のものらしい。;;;;;;;;;;;;x
+EVTOPTA_LT_20010;[possible_emissary1.GetFirstName]に本を取りに行ってくれるよう頼まなければ！;;;;;;;;;;;;x
+EVTOPTA_LT_20010_TT;[possible_emissary1.GetFirstName]が[book_province.GetName]へと送られます。;;;;;;;;;;;;x
+EVTOPTB_LT_20010;あるいは[possible_emissary2.GetFirstName]に行かせてもよいかも知れない;;;;;;;;;;;;x
+EVTOPTB_LT_20010_TT;[possible_emissary2.GetFirstName]が[book_province.GetName]へと送られます。;;;;;;;;;;;;x
+EVTOPTC_LT_20010;興味深い知らせだが、今の所もっと関心を払わねばならない切迫した事柄があるのだ。;;;;;;;;;;;;x
+EVTOPTD_LT_20010;実際のところ失われた本に興味がないのだ。私のコレクションはこれで十分だ。;;;;;;;;;;;;x
+EVTOPTD_LT_20010_TT;以降散逸した本に関する知らせに悩まされることはなくなるでしょう。;;;;;;;;;;;;x
+EVT_TITLE_LT_20020;散逸した書;;;;;;;;;;;;x
+EVTDESC_LT_20020;今日帰ってきた廷臣[emissary.GetTitledNameWithNick]の報告は悲しいものだった。[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]の[Root.GetBookTheme]を手に入れることができなかったばかりか、そもそもそんなものは存在すらしていなかったというのだ。[emissary.GetFirstName]からは旅費を差し引いて残った金が返却されてきた。;;;;;;;;;;;;x
+EVTOPTA_LT_20020;悲しいなぁ。;;;;;;;;;;;;x
+EVT_TITLE_LT_20030;散逸した書の価値;;;;;;;;;;;;x
+EVTDESC_LT_20030;[Root.GetTitle]殿へ\nあなたの下僕たる私め[emissary.GetTitledNameWithNick]は[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]による[Root.GetBookTheme]を手に入れるべく今も励んでおります。\nしかし残念ながら資金が尽きてしまったのです。寛大なるあなた様がもっとお金を送ってくだされば、求める書を発見し、手に入れることが間違いなくできるはずです。;;;;;;;;;;;;x
+EVTOPTA_LT_20030;金を送ろう。その価値はあるはずだ！;;;;;;;;;;;;x
+EVTOPTB_LT_20030;いいや。金がかかりすぎる。手ぶらで戻ってこさせよう。;;;;;;;;;;;;x
+EVT_TITLE_LT_20035;散逸した書;;;;;;;;;;;;x
+EVTDESC_LT_20035;[emissary.GetTitledNameWithNick]が[emissary_current_host.GetTitledNameWithNick]の宮廷に滞在したまま渡した金を浪費し、帰ってくるつもりもないようだという知らせが入ってきた！そして[Root.GetAuthorName]の著作[Root.GetBookTheme]はどこにも見つかっていない。;;;;;;;;;;;;x
+EVTOPTA_LT_20035;次はもっと慎重に人を選ぶことにしなければ。;;;;;;;;;;;;x
+EVTOPTB_LT_20035;誰かこの裏切り者を処理してくれる者はいないか？;;;;;;;;;;;;x
+EVTOPTB_LT_20035_TT;[emissary.GetTitledNameWithNick]の暗殺を試みます;;;;;;;;;;;;x
+EVT_TITLE_LT_20036;散逸した書;;;;;;;;;;;;x
+EVTDESC_LT_20036_DEAD;裏切り者の[emissary.GetTitledNameWithNick]はもう死んだ。そして奴の死の原因が私であると証明できる者は誰もいないだろう。;;;;;;;;;;;;x
+EVTDESC_LT_20036_ALIVE;畜生！[emissary.GetTitledNameWithNick]の命を狙おうとしたが失敗した。暗殺の試み自体も露見してしまっただろう。;;;;;;;;;;;;x
+EVTOPTA_LT_20036;この私を裏切った者は生きては帰れんぞ。;;;;;;;;;;;;x
+EVTOPTB_LT_20036;あんまり良い考えではなかったかもしれない。;;;;;;;;;;;;x
+EVT_TITLE_LT_20040;散逸した書だ！;;;;;;;;;;;;x
+EVTDESC_LT_20040;[emissary.GetTitledNameWithNick]が[Root.GetAuthorName]によって書かれたと思われる[Root.GetBookTheme]を手に入れ戻ってきた！もしかしたら教育を受けた学者を招いてこの貴重な発見について協議した方がいいだろうか？;;;;;;;;;;;;x
+EVTOPTA_LT_20040;自分で読んで確認しよう。;;;;;;;;;;;;x
+EVTOPTB_LT_20040;書簡を送って学者を招こう;;;;;;;;;;;;x
+EVTOPTC_LT_20040;何もせずにとりあえずこの発見を公表だけして自分の蔵書に加えよう;;;;;;;;;;;;x
+EVTOPT_LT_20040_TT;宝物[the_book.GetName]を手に入れた。;;;;;;;;;;;;x
+EVT_TITLE_LT_20050;散逸した書は偽物だった！;;;;;;;;;;;;x
+EVTDESC_LT_20050;図書館である学者が作業していると、[the_whistleblower.GetTitledNameWithNick]が貴重な蔵書である[Root.GetAuthorName]によって書かれたと言われてきた[Root.GetBookTheme]は偽物ではないかと言い始めた。\n[the_whistleblower.GetTitledNameWithNick]を牢に放り込むこともできるが、一方で真実を語ることができる廷臣は自分の側に置いておくべき存在かもしれない。;;;;;;;;;;;;x
+EVTOPTA_LT_20050;よくもまあそんなことを！この痴呆を牢に叩き込め！;;;;;;;;;;;;x
+EVTOPTB_LT_20050;真実を話すよう報酬を渡す;;;;;;;;;;;;x
+EVT_TITLE_LT_20055;この書は偽物のようだ！;;;;;;;;;;;;x
+EVTDESC_LT_20055;[Root.GetAuthorName]が書いたとされる[Root.GetBookTheme]を精読したが、これは偽物に違いない。まあだが確かによく書けてはいる。;;;;;;;;;;;;x
+EVTOPTA_LT_20055;確かにこの本から学べるものはあった。;;;;;;;;;;;;x
+EVTOPTB_LT_20055;このクソッタレな本を焼いてしまえ！;;;;;;;;;;;;x
+EVT_TITLE_LT_20060;散逸した書;;;;;;;;;;;;x
+EVTDESC_LT_20060_real_book;多くの学者が私の招きに応じて集まり、[Root.GetAuthorName]の著作にとどまらず様々な古代の知識について数日の議論を交わした。件の本は散逸したと考えられていた傑作そのものであるとの結論にいたり、わが宮廷はいまや文化、学術的議論、知識の中心地として知られるようになった。;;;;;;;;;;;;x
+EVTDESC_LT_20060_fake_book;多くの学者が私の招きに応じて集まり、[Root.GetAuthorName]の著作にとどまらず様々な古代の知識について数日の議論を交わした。残念ながら議論のすえに件の本は偽書であるとの結論になったが、ともかくわが宮廷はいまや文化、学術的議論、知識の中心地として知られるようになった。;;;;;;;;;;;;x
+EVTOPTA_LT_20060_real_book;文化の中心か、悪くない。;;;;;;;;;;;;x
+EVTOPTA_LT_20060_fake_book;結構。次こそは本物を見つけてみせる。;;;;;;;;;;;;x
+CHRONICLE_FOUND_REAL_BOOK;[Root.GetAuthorNationAdj]の名[Root.GetAuthorTitle][Root.GetAuthorName]による散逸したと思われていた[Root.GetBookTheme]が書かれた本が見つかり、この日その真贋を確かめるための学者達による大会議が行われた。当時、遠方より学者達が訪れた[wonder_province.GetName]は文化の地として知られることとなった。;;;;;;;;;;;;x
+EVT_TITLE_LT_20101;発見;;;;;;;;;;;;x
+EVTDESC_LT_20101.1;[wonder_or_upgrade.GetName]の建設のために地面を掘削していた作業員が閉ざされた地下室の扉らしきものを発見した。;;;;;;;;;;;;x
+EVTDESC_LT_20101.2;[wonder_or_upgrade.GetName]の建設の監督から掘削の途中に穴に落ちた作業員がその中で骨を見つけたと教えてもらった。どうやら古い墓か何かを掘り当てたようだ。;;;;;;;;;;;;x
+EVTOPTA_LT_20101;金と時間をかけて調査させてくれ。;;;;;;;;;;;;x
+EVTOPTA_LT_20101_TT;中には何か価値のある古いものがあるかもしれません。\n;;;;;;;;;;;;x
+EVTOPTB_LT_20101;無視して作業を続ける。;;;;;;;;;;;;x
+EVTOPTC_LT_20101;もう二度とそんな細々したことで面倒をかけさせないでくれ！;;;;;;;;;;;;x
+EVTOPTC_LT_20101_TT;以降文化遺産の建設中の発見に関する知らせに悩まされることはなくなるでしょう。\n;;;;;;;;;;;;x
+EVTOPTD_LT_20101;古代の墓かもしれない。慎重に調査しろ。;;;;;;;;;;;;x
+EVTOPTD_LT_20101_TT;高い学識値を持つか、博識あるいは建築家の特性を持っているためこれを選択できます。\n;;;;;;;;;;;;x
+EVTDESC_LT_20110_accident;発掘を行っていた作業員が崩落に巻き込まれ、数人が犠牲になってしまった。これから崩落した箇所を整備しなければ。;;;;;;;;;;;;x
+EVTDESC_LT_20110_found_nothing;数日間に渡って発掘が続けられたが、見つけられたものは古い骨と壊れた壺くらいだった。なんという時間と金の無駄。;;;;;;;;;;;;x
+EVTDESC_LT_20110_found_valuables_1;発掘を続けると入り口を塞ぐ大きな石が現れた。作業員がその石をどかすと古い墓が現れ、その中には少量の銀と金があった。;;;;;;;;;;;;x
+EVTDESC_LT_20110_found_valuables_2;作業員は[wonder_or_upgrade.GetName]の地下に互いにつながった複数の小さな地下室をと古い遺体、そして大量の金銀財宝を発見した！;;;;;;;;;;;;x
+EVTDESC_LT_20110_found_artifact;発掘を続けた作業員は昔の王か何かが眠る広い玄室を発見した。その中には黄金の財宝と[found_artifact.GetName]があった。;;;;;;;;;;;;x
+EVTOPT_LT_20110_TT;宝物として[found_artifact.GetName]を手に入れた。\n;;;;;;;;;;;;x
+EVTOPTA_LT_20110;作業を続行させろ！;;;;;;;;;;;;x
+EVTOPTA_LT_20110_TT_unhappy;亡くなった労働者の妻と子供に補償を行いません。これは将来問題になる可能性があります\n;;;;;;;;;;;;x
+EVTOPTB_LT_20110;全て私のものだ！;;;;;;;;;;;;x
+EVTOPTB_LT_20110_TT_unhappy;何ももらえないのが分かると作業員は怒るかもしれません。\n;;;;;;;;;;;;x
+EVTOPTC_LT_20110;作業員にも金の分前をくれてやろう;;;;;;;;;;;;x
+EVTOPTD_LT_20110;財宝も[found_artifact.GetName]も両方私が保管しよう。;;;;;;;;;;;;x
+EVTOPTE_LT_20110;金は労働者に褒美としてくれてやろう。;;;;;;;;;;;;x
+EVTOPTF_LT_20110;犠牲者の家族に幾らかの金をくれてやろう。;;;;;;;;;;;;x
+EVTOPTC_MNM_9115;The smiths in our own [the_armory.GetName] are capable enough!;;;;;;;;;;;;x
+EVTOPTC_MNM_9115_TT;§Y[the_wonder.GetWonderTypeShortCap]§!に§Y[the_armory.GetName]§!があるため、これを選択可能です;;;;;;;;;;;;x
+MNM_9999_DESC_armor;The castle blacksmith, more used to horseshoes and helmets than work fit for royalty, presented you with a dirty old box. "Ta da" he says, nervously, "It was an armor you wanted right?" he adds.;;;;;;;;;;;;x
+EVTDESC_LT_20201;My master [GetWeaponArmorSmith] came to see me in the throne room. [smith.GetSheHeCap] gestured towards [smith.GetHerHis] numerous assistants, who all carried examples of [smith.GetHerHis] work. 'Does my [Root.GetTitle] have anything special in mind?';;;;;;;;;;;;x
+EVTOPTA_zweihanded_LT_20201;I want a heavy two-handed sword.;;;;;;;;;;;;x
+EVTOPTA_MNM_LT_20201_TT;This sword can only be handled by a strong warrior, but is sure to impress friend and foe alike.;;;;;;;;;;;;x
+use_scary_upgrade;脅しをかけてみる;;;;;;;;;;;;x
+use_scary_upgrade_desc;§Y[Root.GetFirstNameWithNick]§!と丁度良い場所で話をすることで、[Root.GetHerHim]がより協力的になるかもしれません。;;;;;;;;;;;;x
+use_scary_upgrade_tt;You will take §Y[target_character.GetFirstNameWithNick]§! near the §Y[target_upgrade.GetName]§! in your §Y[target_wonder.GetName]§! and have a talk with [target_character.GetHerHim] about the importance of cooperation.;;;;;;;;;;;;x
+use_scary_upgrade_cooldown_tt;Has NOT attempted to intimidate a character in the past 2 years[From.GetScaryCD];;;;;;;;;;;;x
+string_scary_cd;- 以下の日付まで人物に脅しをかけられません: §Y[This.used_scary_upgrade_cd.GetExpiryDate]§!;;;;;;;;;;;;x
+EVTDESC_LT_20301;I invited [target_character.GetBestName] for a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, while [target_character.GetBestName] grew more and more uncomfortable, before I leaned in to say...;;;;;;;;;;;;x
+EVTDESC_LT_20301_evil_reaction;I invited [target_character.GetBestName] on a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, but [target_character.GetSheHe] seemed to be enjoying the view. Then I said...;;;;;;;;;;;;x
+EVTOPTA_LT_20301;...'I hope my meaning is clear'.;;;;;;;;;;;;x
+EVTOPTA_LT_20301_TT;the attempt to intimidate §Y[target_character.GetFirstNameWithNick]§! fails;;;;;;;;;;;;x
+EVTOPTB_LT_20301;...'I hope you understand how important this favor is'.;;;;;;;;;;;;x
+EVTOPTB_LT_20301_TT;the attempt to coerce a favor fails;;;;;;;;;;;;x
+EVTOPTC_LT_20301;...'What do you think of my toy?'.;;;;;;;;;;;;x
+EVTOPTD_LT_20301;... 'This bloody thing scares me too!'.;;;;;;;;;;;;x
+EVTDESC_LT_20310;[target_character.GetBestName] just laughed at me! A lot! How dare [target_character.GetSheHe]?! I even shouted at a servant this morning, when her giggling woke me up. I... I can still hear [target_character.GetTitledFirstName] laughing, mocking me in my dreams.;;;;;;;;;;;;x
+EVTOPTA_LT_20310;I should not have brought him to the [target_upgrade.GetName].;;;;;;;;;;;;x
+use_secluded_upgrade;密談をする;;;;;;;;;;;;x
+use_secluded_upgrade_desc;§Y[Root.GetFirstNameWithNick]§!と人目のない所で会えば面白いことになるかもしれない。;;;;;;;;;;;;x
+use_secluded_upgrade_tt;人目につかないところで話すために、§Y[target_character.GetFirstNameWithNick]§!を§Y[target_wonder.GetName]§!にある§Y[target_upgrade.GetName]§!に招待します。;;;;;;;;;;;;x
+use_secluded_upgrade_cooldown_tt;過去§Y6§!ヶ月のあいだ誰も密談に招いていない[From.GetSecludedCD];;;;;;;;;;;;x
+EVTDESC_LT_20405;[From.GetBestName]が、 [target_wonder.GetName]の[target_upgrade.GetName] で会って話しあいをしたいと招待してきた。;;;;;;;;;;;;x
+EVTOPTA_LT_20405;招待に応じよう。;;;;;;;;;;;;x
+EVTOPTB_LT_20405;お断りだ。;;;;;;;;;;;;x
+EVTOPTC_LT_20405;それ相応の口実を作り、礼儀正しく断ろう。;;;;;;;;;;;;x
+EVTDESC_LT_20410;[target_character.GetBestName]は、[target_wonder.GetName]にある[target_upgrade.GetName]で人目を避けて会合をするという誘いに応じてくれた。しばらく会話した後…;;;;;;;;;;;;x
+EVTOPTA_LT_20410;…わずかであるが、お互いのことが分かり合えたようだ。;;;;;;;;;;;;x
+EVTOPTB_LT_20410;...[target_character.GetHerHim]に色目を使ってみた。;;;;;;;;;;;;x
+EVTOPTB_LT_20410_TT;口づけを迫ると§Y[target_character.GetTitledFirstName]§!がどう反応するかはわからない。だが、ひょっとしたら、私の想いは成就するかもしれない。;;;;;;;;;;;;x
+EVTOPTC_LT_20410;…そして私は短剣を抜いて、[target_character.GetHerHim]の心臓を刺そうとした。;;;;;;;;;;;;x
+EVTOPTC_LT_20410_TT;高い§Y策謀§!値を持っているか、関係する特質をもっているため、これを選択できます\n;;;;;;;;;;;;x
+EVTOPTC_LT_20410_TT_murder;この結果はあなたの§Y個人的な戦闘スキル§!によりますが、同時に§Y[From.GetTitledFirstName]§!はあなたの暗殺の試みに抵抗するかもしれません…;;;;;;;;;;;;x
+EVTDESC_LT_20412;[target_character.GetBestName][target_character.GetPoliteRefuse]は、[target_wonder.GetName]の[target_upgrade.GetName]で人目を避けて会合をするという私の招待を断った。;;;;;;;;;;;;x
+EVTOPTA_LT_20412;残念だ。;;;;;;;;;;;;x
+EVTDESC_LT_20421;[target_wonder.GetName]の[target_upgrade.GetName]での[From.GetBestName]との密会の場へと赴いた。私たちは楽しく会話をした。;;;;;;;;;;;;x
+EVTOPTA_LT_20421;私はすっかり[From.GetTitledFirstName]の話に感心してしまった！;;;;;;;;;;;;x
+EVTOPTB_LT_20421;私は[From.GetTitledFirstName]の言うことに感心した。;;;;;;;;;;;;x
+EVTOPTC_LT_20421;楽しかったが、有意義な時間ではなかったな。;;;;;;;;;;;;x
+EVTDESC_LT_20422;[From.GetBestName]は私との会話に感銘を受けたようだった。;;;;;;;;;;;;x
+EVTDESC_LT_20431;私は[target_wonder.Location.GetName]の[target_upgrade.GetName]で[From.GetTitledFirstName]と人目を避けて会うことにした。ありふれた世間話をしたあと、[From.GetSheHe]は一息入れてからこう言った。「[Root.GetFirstName]、私はずっとこういう機会を探していたのですよ」 [From.GetHerHis]はそわそわとして視線をさまよわせていた。;;;;;;;;;;;;x
+EVTOPTA_LT_20431;私も愛している、[From.GetFirstName]…！;;;;;;;;;;;;x
+EVTOPTB_LT_20431;私は[From.GetHerHim]の誘いを拒んで後ずさりした。;;;;;;;;;;;;x
+EVTOPTC_LT_20431;私は短剣を抜いて、[From.GetHerHim]の心臓を刺そうとした！;;;;;;;;;;;;x
+EVTDESC_LT_20434;[target_character.GetHerHim] へと口づけを迫った。しかし[target_character.GetSheHe] は、その顔面に恐怖と嫌悪を張付かせ、私から後ずさるばかりであった。;;;;;;;;;;;;x
+EVTOPTA_LT_20434;なんてことだ！;;;;;;;;;;;;x
+EVTDESC_LT_20441;私は[From.GetBestName]に人目を避けて会うために、[target_wonder.GetName]の[target_upgrade.GetName]に行った。[From.GetSheHe]はしばらくの間、愛想よく話をしていたが、服のなかから短剣を取りだすと私を刺そうとしてきた！;;;;;;;;;;;;x
+EVTDESC_LT_20441_murderer_target;私が[From.GetTitledFirstName]のすぐ近くまで踏み込んできたので、[From.GetHerHim]は驚いて目をしばたかせた。しかし、[From.GetHerHis]の頬を撫でようとしたとき、私はその[From.GetManWoman]の手中に刃物が光っているのに気づいた！　「お前は…お前はこの私相手にそんなものを使おうというのか？！」;;;;;;;;;;;;x
+EVTOPTA_LT_20441;お前はまず私を捕まえないといけないというわけか！;;;;;;;;;;;;x
+EVTOPTA_LT_20441_TT_escape;あなたは逃げようとした。;;;;;;;;;;;;x
+EVTOPTA_LT_20441_TT_wounded;あなたは逃げようとしたが、傷を負った。;;;;;;;;;;;;x
+EVTOPTA_LT_20441_TT_dead;あなたは逃げようとしたが、殺されてしまった。;;;;;;;;;;;;x
+EVTOPTB_LT_20441;私は戦いもせずに倒れないぞ！;;;;;;;;;;;;x
+EVTOPTB_LT_20441_TT_win;あなたは闘いに勝った。;;;;;;;;;;;;x
+EVTOPTB_LT_20441_TT_lose;あなたは闘いに負けてしまった。;;;;;;;;;;;;x
+EVTDESC_LT_20450;[From.GetTitledFirstName]と[target_upgrade.GetName]で人目を避けて会うというのは全くよくない思い付きだった。私は命からがら逃げだすことができたが、あの時のことを思い出すと今でも手が震えてしまう。;;;;;;;;;;;;x
+EVTDESC_LT_20450_wounded;運よく[From.GetTitledFirstName]の短剣の先は私の心臓から逸れた。私は必死に逃げだして、なんとか生きのびることができた。医者が言うには、命に別状はないだろうとのことだ。やれやれ。;;;;;;;;;;;;x
+EVTOPTA_LT_20450;まさか、こんなことになるなんて…！;;;;;;;;;;;;x
+EVTDESC_LT_20455;私の身体から血がゆっくりと流れだして床に血だまりができるのが見え、死神の手が自分に伸びてきているのを感じる。そして、もし今日こんなことが起きると知っていたならば、前もって何ができたかを考えている。;;;;;;;;;;;;x
+EVTOPTA_LT_20455;ああっ…;;;;;;;;;;;;x
+EVTDESC_LT_20460;私の持つ短剣が[From.GetHerHis]の心臓に刺さろうとしたそのときに、[From.GetTitledFirstName]が腕を振り上げたので狙いがそれてしまった。そして[From.GetSheHe]には逃げられてしまった。さて、この後起こるであろうことに私は上手く対処しなければならないだろう。;;;;;;;;;;;;x
+EVTDESC_LT_20460_wounded;私の持つ短剣が[From.GetHerHis]の心臓に刺さろうとしたそのときに、[From.GetTitledFirstName]が腕を振り上げたので狙いがそれてしまった。[From.GetHerHim]は傷を負ったものの、血痕を後に残しながら必死に逃げ出していった。さて、この後起こるであろうことに私は上手く対処しなければならないだろう。;;;;;;;;;;;;x
+EVTDESC_LT_20465;[murderer.GetSheHe]が逃げ去る前に、私は短剣で[murderer.GetHerHis]の胸を突き刺した！床に倒れた[murderer.GetTitledFirstName]を残して私はその場を立ち去った。[murderer.GetHerHim]の周りには次第に血だまりができていき、[murderer.GetHerHisCap]の顔は裏切り者にふさわしくひきつった形相のままだった。;;;;;;;;;;;;x
+EVTDESC_LT_20465_fight;取っ組み合いの末、私が勝ち、短剣を[murderer.GetHerHis]の胸に突き刺した！　私は血だまりのなかに倒れ伏した[murderer.GetTitledFirstName]を置いてその場を立ち去った。;;;;;;;;;;;;x
+EVTOPTA_LT_20465;これでよし！;;;;;;;;;;;;x
+CLOUD_SAVE;クラウドに保存する;;;;;;;;;;;;x
+EVT_TITLE_HFP_16001;ロシアの誕生;;;;;;;;;;;;x
+EVTDESC_HFP_16001;帝国の新たな国境線の確立に何年も粘り強く取り組んできたが、今こそ公にロシア帝国の創設を宣言すべきだ。なんと輝かしい日だ！;;;;;;;;;;;;x
+EVTOPTA_HFP_16001;皆のもの[Root.GetBestName]に屈するべし…！;;;;;;;;;;;;x
+EVT_TITLE_HFP_16002;新たなるロシア;;;;;;;;;;;;x
+EVTDESC_HFP_16002;何年もの準備の果てに、遂に[From.GetBestName]はロシア皇帝の創設を宣言し、その広大な領域に対する完全なる主権を宣言することにした。;;;;;;;;;;;;x
+EVTOPTA_HFP_16002;本当にこんなことが必要なのか？;;;;;;;;;;;;x
+create_russian_empire;ロシア帝国を創設;;;;;;;;;;;;x
+create_russian_empire_desc;ルーシ帝国を手中に収めるだけでは十分ではないーーなかには「ロシア帝国」のほうがもっと素晴らしいものだと考え始めている者もいるようだ。;;;;;;;;;;;;x
+e_russian_empire;ロシア;;;;;;;;;;;;x
+e_russian_empire_adj;ロシア;;;;;;;;;;;;x
+russian_empire_cheaper_tribal_upgrades;部族領地を城に建て替える条件を緩和;;;;;;;;;;;;x
+EVTDESC_HFP_16006_book;「主殿、[inherited_artifact.GetArtifactStorage]で何かが見つかりました。」と写字生が走り寄ってきた。「古い本です。[previous_owner.GetTitledFirstName]の蔵書でしょうか？」一緒にまじまじと実物を調べてみると、なるほど確かにその通りだ。「確かに古いな」そう頷くと写字生がこう言ってきた「誰かこの本を手入れする人が必要ではないでしょうか」;;;;;;;;;;;;x
+EVTDESC_HFP_16006_combat_weapon;[inherited_artifact.GetArtifactStorage]を調査していると衛兵が古びた武器[inherited_artifact.GetName]を見つけた。「これは[previous_owner.GetTitledFirstName]の物だったに違いありません。」衛兵達は言った。「状態が悪いのが残念です」衛兵たちは口ごもった。;;;;;;;;;;;;x
+EVTDESC_HFP_16006_armor;最近、私は[previous_owner.GetTitledFirstName]から[inherited_artifact.GetName]という鎧を受け継いだ。「[Root.GetLordLady]、こちらの品は装備できるような状態ではございません。」と需品係から伝えられた私は、鎧の表面の模様を片手でなぞった。;;;;;;;;;;;;x
+EVTDESC_HFP_16006_quality_1;先日[previous_owner.GetTitledFirstName]より宝物を受け継いだ。「往時はもっとよい見栄えだったはずです、[Root.GetMasterMistress]」衛兵はそう言うと続けた「わざわざ申し訳ありません。ただこれを捨てるつもりなのか否かだけ確認しておきたいのです。」;;;;;;;;;;;;x
+EVTDESC_HFP_16006_quality_2;先日[previous_owner.GetTitledFirstName]より[inherited_artifact.GetName]を受け継いだ。状態はよくない。;;;;;;;;;;;;x
+EVTDESC_HFP_16006_quality_3;[inherited_artifact.GetArtifactStorage]には現在、[previous_owner.GetTitledFirstName]から受け継いだ価値ある品々が保管されている。だが誰かが面倒を見なくてはならないだろう。;;;;;;;;;;;;x
+EVTDESC_HFP_16006_child;「なんだって？」思わず衛兵を問いただした「お前はこれを…[inherited_artifact.GetName]を受け継いだのか？」「[previous_owner.GetTitledFirstName]からです」衛兵は説明した「もしこれを手にされたいなら、献上いたしましょう、[Root.GetMasterMistress]。ただしおそらくいくらか手入れの必要はありますが。」;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_1_A;いつの日かなにかの役に立つ時もあるかもしれない…;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_1_B;誰かに調べさせたい気分だな。;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_2_A;手入れの金は私が出そう。;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_2_B;確かに手入れは必要だろうな。;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_3;金に糸目は付けぬ。;;;;;;;;;;;;x
+EVTOPTA_HFP_16006_4;このような遺産の価値は金銭で測れるようなものではない。金に糸目はつけるな！;;;;;;;;;;;;x
+EVTOPTB_HFP_16006_1;私にはあまり必要ない気がするな。;;;;;;;;;;;;x
+EVTOPTB_HFP_16006_2;このような古びたガラクタに出せるほどの金の余裕はないのだ。;;;;;;;;;;;;x
+title_HFP_16006;古い宝物庫;;;;;;;;;;;;x
+String_armory;武器庫;;;;;;;;;;;;x
+String_old_armory;古い武器庫;;;;;;;;;;;;x
+String_library;図書館;;;;;;;;;;;;x
+String_treasury;宝物庫;;;;;;;;;;;;x
+String_house_of_worship;礼拝堂;;;;;;;;;;;;x
+GetRelation_enemy;敵;;;;;;;;;;;;x
+GetRelation_sway_target;target of diplomatic efforts;;;;;;;;;;;;x
+GetRelation_antagonist;antagonist;;;;;;;;;;;;x
+wonder_cathedral;大聖堂;;;;;;;;;;;;x
+wonder_cathedral_desc;これを建てた者の敬虔さの証として、天へと聳え立つ教会です。;;;;;;;;;;;;x
+wonder_mosque;大モスク;;;;;;;;;;;;x
+wonder_mosque_desc;この建物こそ、これを建てた者の敬虔さを証明するものです。;;;;;;;;;;;;x
+wonder_synagogue;大シナゴーグ;;;;;;;;;;;;x
+wonder_synagogue_desc;この建物に足を踏み入れた者は教団の価値を思い知ることでしょう。;;;;;;;;;;;;x
+wonder_temple_pagan;大寺院;;;;;;;;;;;;x
+wonder_temple_pagan_desc;この寺院の建つこの地はこの邦で最も神聖な土地だと噂されています。;;;;;;;;;;;;x
+wonder_statue_ruler;領主の巨像;;;;;;;;;;;;x
+wonder_statue_ruler_desc;領主はこの巨像として永遠の命を得ました。;;;;;;;;;;;;x
+wonder_fortress;大要塞;;;;;;;;;;;;x
+wonder_fortress_desc;この要塞は安全な避難場所であり、家族から遠く離れて過ごす戦士たちにとっての家となるところです。;;;;;;;;;;;;x
+wonder_underground_city;大地下都市;;;;;;;;;;;;x
+wonder_underground_city_desc;Partially carved from the very rock it sits on, only its owner knows exactly how far these tunnels sprawl.;;;;;;;;;;;;x
+wonder_wall;大城壁;;;;;;;;;;;;x
+wonder_wall_desc;巨大な市壁を建設するという巨大事業です。;;;;;;;;;;;;x
+wonder_harbor;大湊;;;;;;;;;;;;x
+wonder_harbor_desc;取引が盛んに行われるこの壮大な港によってこの地域に交易と旅行者がもたらされます。;;;;;;;;;;;;x
+wonder_lighthouse;大灯台;;;;;;;;;;;;x
+wonder_lighthouse_desc;この巨大で目立つ陸標は船乗りたちの助けとなり、夜に港に入る船の目印となります。;;;;;;;;;;;;x
+wonder_amphitheater;大円形競技場;;;;;;;;;;;;x
+wonder_amphitheater_desc;上位文化の縮図たる円形闘技場はこの領国における特異な魅力となります。;;;;;;;;;;;;x
+wonder_palace;王宮;;;;;;;;;;;;x
+wonder_palace_desc;この王宮はこれを建てたものの権威ある系譜を示す王威の象徴の最たるものです。;;;;;;;;;;;;x
+wonder_garden;大庭園;;;;;;;;;;;;x
+wonder_garden_desc;この庭園は科学と美の驚異です。;;;;;;;;;;;;x
+wonder_university;大学;;;;;;;;;;;;x
+wonder_university_desc;A high seat of learning, famous throughout the realm.;;;;;;;;;;;;x
+wonder_mausoleum;大霊廟;;;;;;;;;;;;x
+wonder_mausoleum_desc;ただの墓では足りない格の領主もいます。;;;;;;;;;;;;x
+wonder_pyramid;大ピラミッド;;;;;;;;;;;;x
+wonder_pyramid_desc;「もっと高く！」おそらくそれがこれを建てた建築家の最期の言葉だったでしょう。;;;;;;;;;;;;x
+wonder_pagan_stones;大環状列石;;;;;;;;;;;;x
+wonder_pagan_stones_desc;巨大な岩が環状に立てられ、東側に空いた隙間から日が昇ります。;;;;;;;;;;;;x
+wonder_pyramid_giza;クフの大ピラミッド;;;;;;;;;;;;x
+wonder_pyramid_giza_desc;この奇妙な形のピラミッドはずっと前からここにあります。;;;;;;;;;;;;x
+wonder_amphitheater_colosseum;コロッセウム;;;;;;;;;;;;x
+wonder_amphitheater_colosseum_desc;この円形競技場は最初は剣闘士や猛獣の闘技会、後には街の商人達の露店まで、何世紀にも渡り様々な用途に供されてきました。;;;;;;;;;;;;x
+wonder_cathedral_hagia_sophia;ハギア・ソフィア;;;;;;;;;;;;x
+wonder_cathedral_hagia_sophia_desc;神の聖なる知恵の器であるこの偉大なる教会は世界で最も巨大な建物の一つです。西暦562年に完成し、[FromFrom.GetHagiaSophiaUse]。;;;;;;;;;;;;x
+wonder_pagan_stones_stonehenge;ストーンヘンジ;;;;;;;;;;;;x
+wonder_pagan_stones_stonehenge_desc;これらの巨石が神々によって立てられたと考える者もいます。またこれを古の迷信として、近寄ろうともしない者もいます。;;;;;;;;;;;;x
+wonder_mausoleum_halicarnassus;ハリカルナッソスのマウソロス廟;;;;;;;;;;;;x
+wonder_mausoleum_halicarnassus_desc;ペルシャ帝国の太守マウソロスとカリアのアルテミシアII世によって建てられた巨大な地上墓です。;;;;;;;;;;;;x
+wonder_temple_solomon;ソロモンの神殿;;;;;;;;;;;;x
+wonder_temple_solomon_desc;この丘は古のソロモンの神殿があった場所とされ、ユダヤ人にとって重要な聖地となっています。;;;;;;;;;;;;x
+wonder_lighthouse_alexandria;アレキサンドリア灯台;;;;;;;;;;;;x
+wonder_lighthouse_alexandria_desc;長きに渡り世界で一番高い建物だったこの灯台は、とても遠くからでも見えるそれ自体驚異的な建造物である一方、今尚港に入る船の目印というその目的を果たしています。;;;;;;;;;;;;x
+upgrade_roads;大路;;;;;;;;;;;;x
+upgrade_roads_desc;この州での大規模な建設事業により、この領国に多くの道路網が作られました。;;;;;;;;;;;;x
+upgrade_watchtower_network;見張り塔網;;;;;;;;;;;;x
+upgrade_watchtower_network_desc;見張り塔と駐屯兵が領国中に張り巡らされました。;;;;;;;;;;;;x
+upgrade_spikes;獄門台;;;;;;;;;;;;x
+upgrade_spikes_desc;大建築を囲む形で設けられた獄門台に首が晒されます。;;;;;;;;;;;;x
+chance_to_spread_cruel_tt;人物を§Y残酷§!にする傾向があります;;;;;;;;;;;;x
+upgrade_tower;塔;;;;;;;;;;;;x
+upgrade_tower_desc;塔からは遠くが見えます。;;;;;;;;;;;;x
+upgrade_hypocausts;ハイポコースト床暖房;;;;;;;;;;;;x
+upgrade_hypocausts_desc;地下の竈から通気管を通って暖気が建物の中に行き渡ります。;;;;;;;;;;;;x
+upgrade_heating_pipes;暖房配管;;;;;;;;;;;;x
+upgrade_heating_pipes_desc;パイプと温水を組み合わせた機構で、建物の床を暖かくしている。;;;;;;;;;;;;x
+upgrade_retinue;[FromFrom.GetWonderTypeShortCap]従士隊;;;;;;;;;;;;x
+upgrade_retinue_desc;この州に駐屯する特別部隊で、[FromFrom.GetWonderTypeShortCap]周囲の安全を主任務とします。;;;;;;;;;;;;x
+upgrade_gargoyles;ガーゴイル;;;;;;;;;;;;x
+upgrade_gargoyles_desc;醜い怪物が威嚇するように[FromFrom.GetWonderTypeShortCap]のファサードから突き出しています。;;;;;;;;;;;;x
+upgrade_bells;鐘;;;;;;;;;;;;x
+upgrade_bells_desc;鐘は本来祝典の際に鳴らされるものですが、危機の際にも鳴らされ、州中に危険を知らせます。;;;;;;;;;;;;x
+upgrade_stained_glass_window;ステンドグラスの窓;;;;;;;;;;;;x
+upgrade_stained_glass_window_desc;聖書の場面を写した美しい芸術です。;;;;;;;;;;;;x
+upgrade_relic_tomb;遺物の墓;;;;;;;;;;;;x
+upgrade_relic_tomb_desc;宝物を保管しておく場所です。;;;;;;;;;;;;x
+upgrade_grand_basilica;大バシリカ;;;;;;;;;;;;x
+upgrade_grand_basilica_desc;アーチ状の窓が数階をぶち抜いており、[FromFrom.GetWonderTypeShortCap]に比べるものなき程の壮大さをもたらしています。;;;;;;;;;;;;x
+upgrade_catacombs;カタコンベ;;;;;;;;;;;;x
+upgrade_catacombs_desc;地下通路は魅力的なものですが、本来は宗教的実践のための神聖な空間でした。;;;;;;;;;;;;x
+upgrade_giant_cross;大十字架;;;;;;;;;;;;x
+upgrade_giant_cross_desc;[FromFrom.GetWonderTypeShortCap]の天辺には大きな十字架が聳え立ち、建物の姿を更に輝かしいものにします。;;;;;;;;;;;;x
+upgrade_bells_golden;黄金の鐘;;;;;;;;;;;;x
+upgrade_bells_golden_desc;[FromFrom.GetWonderTypeShortCap]の鐘は金で鍍金されています。;;;;;;;;;;;;x
+upgrade_statue_god;神の巨像;;;;;;;;;;;;x
+upgrade_statue_god_desc;[Root.Religion.GetRandomGodName]の巨大な像は[Root.PrimaryTitle.GetName]の教えの信者にもそうでない異国の者にも感銘を与えます。;;;;;;;;;;;;x
+upgrade_temple_guards;[FromFrom.GetWonderTypeShortCap]衛兵隊;;;;;;;;;;;;x
+upgrade_temple_guards_desc;[FromFrom.GetWonderTypeShortCap]衛兵隊は[FromFrom.GetWonderTypeShortCap]の防御専用の部隊です。;;;;;;;;;;;;x
+upgrade_sacrificial_altar;供犠台;;;;;;;;;;;;x
+upgrade_sacrificial_altar_desc;[Root.PrimaryTitle.GetName]人は生き物を犠牲に捧げることで神への勤行を行います。;;;;;;;;;;;;x
+upgrade_sacred_grove;聖なる杜;;;;;;;;;;;;x
+upgrade_sacred_grove_desc;この杜の中心には一本の木が植わっています。年月を経て、その枝は根のように大きくなったその木は2つの世界をつなぐものです。;;;;;;;;;;;;x
+upgrade_prophecy_rooms;予言の間;;;;;;;;;;;;x
+upgrade_prophecy_rooms_desc;A secluded series of rooms the Priests and Priestesses can retire to while maintaining communication with the Gods.;;;;;;;;;;;;x
+upgrade_temple_precinct;寺院の境内;;;;;;;;;;;;x
+upgrade_temple_precinct_desc;[FromFrom.GetWonderTypeShortCap]を囲む区域は[FromFrom.GetWonderTypeShortCap]のものとなっており、小さな建物、そして特別沢山の信者達のために空き地が確保してあります。;;;;;;;;;;;;x
+upgrade_inner_sanctuary;至聖所;;;;;;;;;;;;x
+upgrade_minaret;ミナレット;;;;;;;;;;;;x
+upgrade_minaret_desc;[FromFrom.GetWonderTypeShortCap]に付属する塔です。ここから礼拝を呼びかけます。;;;;;;;;;;;;x
+upgrade_open_courtyard;中庭;;;;;;;;;;;;x
+upgrade_open_courtyard_desc;身を清め、信者の心を洗うための噴水のついた中庭です。;;;;;;;;;;;;x
+upgrade_dome;ドーム;;;;;;;;;;;;x
+upgrade_dome_desc;天球の象徴的表現であるドームがキブラの壁龕の上を覆います。;;;;;;;;;;;;x
+upgrade_lamps_hanging;壮大な吊りランプ;;;;;;;;;;;;x
+upgrade_lamps_hanging_desc;多くの礼拝が夜間になされる[FromFrom.GetWonderTypeShortCap]では照明がとても重要になります。何百もの凝ったランプから放たれる柔らかな光が目の眩むような効果を生みます。;;;;;;;;;;;;x
+upgrade_soup_kitchen;炊き出し;;;;;;;;;;;;x
+upgrade_soup_kitchen_desc;[FromFrom.GetWonderTypeShortCap]は礼拝の場としてだけではなく市民にとっても重要な場所であり、必要な際は市民の世話も行います。;;;;;;;;;;;;x
+upgrade_school_mosque;学校;;;;;;;;;;;;x
+upgrade_school_mosque_desc;[FromFrom.GetWonderTypeShortCap]はまた学びの場でもあります。;;;;;;;;;;;;x
+upgrade_hostel;キャラバンサライ;;;;;;;;;;;;x
+upgrade_hostel_desc;多くの疲れきった旅人たちが感謝の気持ちを覚えるであろう宿屋です。;;;;;;;;;;;;x
+upgrade_tallest_building;一番高い建物;;;;;;;;;;;;x
+upgrade_tallest_building_desc;タルムードによればシナゴーグは他のどの建物よりも高くなければならない。;;;;;;;;;;;;x
+upgrade_garden_outer;外壁と外苑;;;;;;;;;;;;x
+upgrade_garden_outer_desc;外苑を造ることで、信者が礼拝の前後の時間にくつろぐことができる。;;;;;;;;;;;;x
+upgrade_holy_ark;聖櫃;;;;;;;;;;;;x
+upgrade_holy_ark_desc;このトーラーの箱には神聖なるトーラーの巻物が納められているため、それにふさわしい重要なものと見られています。;;;;;;;;;;;;x
+upgrade_decorations;手の込んだ装飾;;;;;;;;;;;;x
+upgrade_decorations_desc;手の込んだ装飾は、敬虔な者たちの魂を天上へ昇らせる助けとなるでしょう。;;;;;;;;;;;;x
+upgrade_choir_rooms;合唱の間;;;;;;;;;;;;x
+upgrade_choir_rooms_desc;これらの部屋には音響効果があり、実際に合唱をするのに最適です。;;;;;;;;;;;;x
+upgrade_school_synagogue;学校;;;;;;;;;;;;x
+upgrade_school_synagogue_desc;[FromFrom.GetWonderTypeShortCap]はまた学びの場でもあります。;;;;;;;;;;;;x
+upgrade_great_seminars;大神学校;;;;;;;;;;;;x
+upgrade_library;大図書館;;;;;;;;;;;;x
+upgrade_library_desc;広い図書館は関連書籍を収蔵するとともにそれを必要とする学者たちに静かな研究場所となります。;;;;;;;;;;;;x
+upgrade_wing_of_diplomacy;外交学部;;;;;;;;;;;;x
+upgrade_wing_of_martial;戦略学部;;;;;;;;;;;;x
+upgrade_wing_of_stewardship;財政学部;;;;;;;;;;;;x
+upgrade_wing_of_intrigue;秘密学部;;;;;;;;;;;;x
+upgrade_wing_of_learning;神学部;;;;;;;;;;;;x
+no_other_plating_tt;無地;;;;;;;;;;;;x
+upgrade_plating_gold;金鍍金;;;;;;;;;;;;x
+upgrade_plating_gold_desc;日光がこの巨像の表面に最も美しく反射します。;;;;;;;;;;;;x
+upgrade_plating_silver;銀鍍金;;;;;;;;;;;;x
+upgrade_plating_silver_desc;月光がこの巨像の表面に美しく反射します。;;;;;;;;;;;;x
+upgrade_plating_bronze;銅鍍金;;;;;;;;;;;;x
+upgrade_plating_bronze_desc;この巨像は輝いています。;;;;;;;;;;;;x
+upgrade_statues_family;追加された像;;;;;;;;;;;;x
+upgrade_statues_family_desc;美しいこれらの像は[Root.GetTitledName]の近親の人々に似ていると言われています。;;;;;;;;;;;;x
+upgrade_stable;大厩舎;;;;;;;;;;;;x
+upgrade_stable_desc;馬が飼育されている厩舎ですが、一番重要なのはこの馬達がこの建物の上に聳える巨大な記念碑のモデルとなった馬の子孫であるということです。;;;;;;;;;;;;x
+upgrade_statues_animals;他の動物の像;;;;;;;;;;;;x
+upgrade_statues_animals_desc;様々な動物を模した、いくつものやや小さな彫像が独創的な彫像を取り巻いています。;;;;;;;;;;;;x
+upgrade_cothon;内港;;;;;;;;;;;;x
+upgrade_cothon_desc;内港です。;;;;;;;;;;;;x
+upgrade_piers;桟橋;;;;;;;;;;;;x
+upgrade_piers_desc;いくつもの桟橋が建てられて港が拡張したため、そこでは交易が盛んにおこなわれるようになりました。;;;;;;;;;;;;x
+upgrade_office_harbor;港務部;;;;;;;;;;;;x
+upgrade_office_harbor_desc;適切な港務部の導入によって[FromFrom.GetWonderTypeShortCap]における交易の管理がより適切に行えるようになります。;;;;;;;;;;;;x
+upgrade_lighthouse;灯台;;;;;;;;;;;;x
+upgrade_lighthouse_desc;港を出入りする船の目印となります。;;;;;;;;;;;;x
+upgrade_military_wharf;軍港;;;;;;;;;;;;x
+upgrade_military_wharf_desc;海軍の建造のために確保された地域です。;;;;;;;;;;;;x
+upgrade_statues_dead;死者の像;;;;;;;;;;;;x
+upgrade_statues_dead_desc;[Root.GetTitledFirstName]の亡くなって久しい親戚たちが、[FromFrom.GetWonderTypeShortCap]の暗い回廊のなかで過ぎ去りし時代の証人となっています。;;;;;;;;;;;;x
+upgrade_naval_spectacle;模擬海戦場;;;;;;;;;;;;x
+upgrade_naval_spectacle_desc;舞台を水で満たして模擬海戦を行えるようにする壮大な事業です。;;;;;;;;;;;;x
+upgrade_animal_cages;猛獣の檻;;;;;;;;;;;;x
+upgrade_animal_cages_desc;遠方の地から輸入された異国の獣との戦いを行えるようになります。;;;;;;;;;;;;x
+upgrade_hippodrome;戦車競技場;;;;;;;;;;;;x
+upgrade_hippodrome_desc;円形競技場で戦車競技が行えるようにします。;;;;;;;;;;;;x
+upgrade_training_academy;剣闘士訓練学校;;;;;;;;;;;;x
+upgrade_training_academy_desc;円形競技場で戦う剣闘士たちを訓練する学校;;;;;;;;;;;;x
+upgrade_chariot_race_course;戦車競技競争場;;;;;;;;;;;;x
+upgrade_chariot_race_course_desc;戦車競技の選手が練習と競争を行う場所です。;;;;;;;;;;;;x
+upgrade_theater_stage;劇場舞台;;;;;;;;;;;;x
+upgrade_theater_stage_desc;特に詩の朗読や演劇を行うために作られた舞台です。;;;;;;;;;;;;x
+upgrade_fountains;泉;;;;;;;;;;;;x
+upgrade_fountains_desc;小さな鳥が集まる雰囲気ある美しい泉です。;;;;;;;;;;;;x
+upgrade_fountain_of_youth;若返りの泉;;;;;;;;;;;;x
+upgrade_fountain_of_youth_desc;この井戸から湧き出る水は不気味な輝きを放っています…;;;;;;;;;;;;x
+upgrade_hanging_gardens;空中庭園;;;;;;;;;;;;x
+upgrade_hanging_gardens_desc;庭の一部を幅の広い多段式の構造にするというのは素晴らしい答えです。;;;;;;;;;;;;x
+upgrade_secluded_groves;静かな杜;;;;;;;;;;;;x
+upgrade_secluded_groves_desc;秘め事には適した場所です。;;;;;;;;;;;;x
+upgrade_hidden_burial;秘密の埋葬所;;;;;;;;;;;;x
+upgrade_hidden_burial_desc;花の甘い匂いと分厚い下生えには後ろ暗い秘密を隠すことが出来ます…;;;;;;;;;;;;x
+upgrade_poisonous_flowers;有毒な花;;;;;;;;;;;;x
+upgrade_poisonous_flowers_desc;この庭に咲く美しいが危険な花には強力な特質があります。;;;;;;;;;;;;x
+upgrade_herb_garden;薬草園;;;;;;;;;;;;x
+upgrade_herb_garden_desc;よく整備された農地です。念入りに手を入れたことが伺えます。;;;;;;;;;;;;x
+upgrade_statues_garden;庭の像;;;;;;;;;;;;x
+upgrade_statues_garden_desc;この優雅な像はくつろぐ人々を描写したものです。この庭に訪れた誰もに落ち着きを与えることでしょう。;;;;;;;;;;;;x
+upgrade_estates_choice;厳選された御料地;;;;;;;;;;;;x
+upgrade_estates_choice_desc;王権は厳選された地域と領国の中で一番良質な森を御猟地として保護し始めました。多少の不満は見られましたが、これは単に支配者の当然の権利と広くみなされています。;;;;;;;;;;;;x
+upgrade_estates_expansive;広い御料地;;;;;;;;;;;;x
+upgrade_estates_expansive_desc;この土地はただの御猟地の範囲を越え、経済的に価値ある地域を含んだ君主の私有する御料地となっています。;;;;;;;;;;;;x
+upgrade_estates_vast;広大な御料地;;;;;;;;;;;;x
+upgrade_estates_vast_desc;この王国内の王国にはいくつもの町がすっぽりと収まっており、にぎやかな村落には、近隣の御猟林のなかにはっきりとと存在する集落にあった地図を「発見」した君主の家来たちがよく訪れてきます。;;;;;;;;;;;;x
+upgrade_estate_fourth;四半御料地;;;;;;;;;;;;x
+upgrade_estate_fourth_desc;御猟林は遂に国土の3分の1を覆うまでになりました。どんな貴族や市民、聖職者個人より、直轄領の他の誰よりも全体として巨大な土地です。まさに領国の四半御料地と言えるでしょう。;;;;;;;;;;;;x
+upgrade_hunting_grounds;無人の御猟地;;;;;;;;;;;;x
+upgrade_hunting_grounds_desc;新たな森同様、巨大な地域が御猟林に指定され、地元の農民が立ち退かされました。;;;;;;;;;;;;x
+upgrade_forest_laws;明文化された林野法;;;;;;;;;;;;x
+upgrade_forest_laws_desc;御猟林において、必要な際は通常の国法に優先する特別な法体系です。;;;;;;;;;;;;x
+upgrade_verderer_courts;王領林野裁判所;;;;;;;;;;;;x
+upgrade_verderer_courts_desc;法律はその裏付けとなるシステムがあって初めて機能します。そして御猟林にも訓練された判事たちに裏付けされた裁判所と警備員、書記官からなる完全なシステムが導入されました。王権の絶対的命令を執行する準備は万端です。;;;;;;;;;;;;x
+upgrade_freeminer_charters;自由鉱夫特許状;;;;;;;;;;;;x
+upgrade_freeminer_charters_desc;御猟林の住民には、戦時の兵役義務と引き換えに地元の鉱脈に関する権利が与えられました。;;;;;;;;;;;;x
+upgrade_crown_industries;御料工業;;;;;;;;;;;;x
+upgrade_crown_industries_desc;Royal metalworks, royal armories, royal shipwrights, royal carpentries. If it's skilled and in the kingwoods, it belongs to the crown.;;;;;;;;;;;;x
+upgrade_timber_reserves;古樹森林保護区;;;;;;;;;;;;x
+upgrade_timber_reserves_desc;Reserve and cultivate ship-building timber for sale to your merchants, with the proviso that ships owe a certain amount of service to their lord.;;;;;;;;;;;;x
+upgrade_regarder_offices;Regarder Offices;;;;;;;;;;;;x
+upgrade_regarder_offices_desc;Establish a ministry that regularly beats the bounds of the royal forests, determining exactly where the edges lay, and pushing them outwards every now and then.;;;;;;;;;;;;x
+upgrade_serjeant_outposts;守衛官の前哨基地;;;;;;;;;;;;x
+upgrade_serjeant_outposts_desc;小規模な土地保有者たちに彼らが耕すことのできるわずかな土地と引き換えに、御料林の境界を巡視することを合法化します。;;;;;;;;;;;;x
+upgrade_collection_stations;Agistry Collection Stations;;;;;;;;;;;;x
+upgrade_collection_stations_desc;Agisters regulate both agistment and pannage, two of the major money-making abrogations for a royal forest. The organizations is not entirely unlike an extra layer of tax stations.;;;;;;;;;;;;x
+upgrade_locals_disgruntled;Disgruntled Locals;;;;;;;;;;;;x
+upgrade_locals_disgruntled_desc;The expansion of crown privileges at the expense of the local populace causes a certain amount of petty discontent with the crown, leading to mild negative events violating forest law.;;;;;;;;;;;;x
+upgrade_locals_angry;怒った地元住民;;;;;;;;;;;;x
+upgrade_locals_angry_desc;飽くなき王権特権の拡大はその地に実際に住まう住民達の怒りを生み、より深刻な負のイベントを引き起こします。;;;;;;;;;;;;x
+upgrade_locals_treasonous;反逆する地元住民;;;;;;;;;;;;x
+upgrade_locals_treasonous_desc;With the most recent advance of the royal forest, the crown's powers are unprecedented. Peasants, clergy, and barons alike all chafe sorely against the start of the perceived-birth of an absolutist monarchy, and a dramatic revolt is sure to follow.;;;;;;;;;;;;x
+upgrade_magna_carta;自由の大憲章;;;;;;;;;;;;x
+upgrade_magna_carta_desc;先の劇的な暴動はこの大憲章への締結とともに終了しました。;;;;;;;;;;;;x
+upgrade_armory;武器庫;;;;;;;;;;;;x
+upgrade_armory_desc;[FromFrom.GetWonderTypeShortCap]の拡張である鎧や武器用の十分な大きさの倉庫です。;;;;;;;;;;;;x
+upgrade_watch_tower;見張り塔;;;;;;;;;;;;x
+upgrade_watch_tower_desc;塔は視界を広げ、州全体の安全を高めます。;;;;;;;;;;;;x
+upgrade_vault;地下室;;;;;;;;;;;;x
+upgrade_vault_desc;要塞の中心にあり、倉庫や避難所として使える特別な地下室です。;;;;;;;;;;;;x
+upgrade_moat_pit;空堀;;;;;;;;;;;;x
+upgrade_moat_pit_desc;深い堀がこの要塞の周りを囲んでいます。;;;;;;;;;;;;x
+upgrade_moat_spike;乱杭付き空堀;;;;;;;;;;;;x
+upgrade_moat_spike_desc;この堀を作るのに少なくとも一人の職人が犠牲になりました。;;;;;;;;;;;;x
+upgrade_moat_water;水堀;;;;;;;;;;;;x
+upgrade_moat_water_desc;水堀は敵を寄せ付けません。これを渡るためには泳ぐ必要があります。;;;;;;;;;;;;x
+upgrade_moat_bones;骸の堀;;;;;;;;;;;;x
+upgrade_moat_bones_desc;恐ろしい光景です。[Root.GetTitledFirstName]を個人的に侮辱した人達の亡骸は例外なくこの堀に投げ込まれているという話です。;;;;;;;;;;;;x
+upgrade_hidden_passageways;隠し通路;;;;;;;;;;;;x
+upgrade_hidden_passageways_desc;[FromFrom.GetName]の壁の下には迷宮のようなトンネルと抜け穴の網が張り巡らされていると言われています;;;;;;;;;;;;x
+upgrade_garden_inner;城内庭園;;;;;;;;;;;;x
+upgrade_garden_inner_desc;要塞の城内に小さな小庭園があり、厭世の戦士が英気を養う場になっています。;;;;;;;;;;;;x
+upgrade_dueling_room;決闘室;;;;;;;;;;;;x
+upgrade_dueling_room_desc;一対一の戦闘の練習専用の部屋です。;;;;;;;;;;;;x
+upgrade_treasure_chamber;宝物庫;;;;;;;;;;;;x
+upgrade_treasure_chamber_desc;特に貴重な物を保管しておくための秘密の地下室です。;;;;;;;;;;;;x
+upgrade_extra_supports;追加の補強;;;;;;;;;;;;x
+upgrade_extra_supports_desc;地震による被害をなくすための建物の構造的補強です。;;;;;;;;;;;;x
+upgrade_giant_banners;巨大な旗印;;;;;;;;;;;;x
+upgrade_giant_banners_desc;誰がこの建物の所有者なのかこれで明らかです。;;;;;;;;;;;;x
+upgrade_improved_signal_fire;改良型狼煙;;;;;;;;;;;;x
+upgrade_improved_signal_fire_desc;工学的驚異です。この炎は普通のものより大きくかつ長く燃えます。;;;;;;;;;;;;x
+upgrade_lighthouse_custodian;灯台守;;;;;;;;;;;;x
+upgrade_lighthouse_custodian_desc;灯台の維持の究極的な責任者です。少なくとも紙の上ではそうです。;;;;;;;;;;;;x
+upgrade_royal_apartments;離宮;;;;;;;;;;;;x
+upgrade_royal_apartments_desc;重要な賓客が来た際でも離宮はどれほど洗練された領主にも満足できるレベルの快適さを提供します。;;;;;;;;;;;;x
+upgrade_dungeon;地下牢;;;;;;;;;;;;x
+upgrade_dungeon_desc;大きめの地下牢です;;;;;;;;;;;;x
+upgrade_caves_natural;自然の洞窟;;;;;;;;;;;;x
+upgrade_caves_natural_desc;素晴らしい自然の空洞がいくつも空いています。この空洞に人間の手による工学的改良の手は少ししか入ってません。;;;;;;;;;;;;x
+upgrade_tunnels_travel;秘密の地下通路;;;;;;;;;;;;x
+upgrade_tunnels_travel_desc;これらの地下通路はすんなりと通り抜けられるものではありませんが、これらが記された地図は高位の戦士たちが表に出せないような移動をする場合には必要不可欠です。;;;;;;;;;;;;x
+upgrade_metal_mine_precious;貴金属鉱山;;;;;;;;;;;;x
+upgrade_metal_mine_precious_desc;地下複合体の更に深いところで、労働者達が貴重な鉱石を発見しました。今は慎重に採掘が進んでいます。;;;;;;;;;;;;x
+upgrade_throne_fancy;意匠を凝らした王の間;;;;;;;;;;;;x
+upgrade_trap_door;跳ね上げ扉;;;;;;;;;;;;x
+upgrade_trap_door_desc;この木製の落とし戸は玉座の正面すぐそばの床に設置されており、喧嘩っぱやい訪問客に教訓を与えることになります。;;;;;;;;;;;;x
+upgrade_runestones;ルーン石碑;;;;;;;;;;;;x
+upgrade_runestones_desc;敬愛する一族の人々を追憶するために、石に複雑な模様と刻印がなされていおり、職人たちの手によって深い尊敬の念が吹きこまれたことがわかります。;;;;;;;;;;;;x
+upgrade_collection_drama;詩集と戯曲のコレクション;;;;;;;;;;;;x
+upgrade_collection_drama_desc;これらの作品は人間の魂、愛の意味、人生の悲劇を表現したものです。;;;;;;;;;;;;x
+upgrade_collection_architecture;建築書のコレクション;;;;;;;;;;;;x
+upgrade_collection_architecture_desc;ウィトルウィウスの古典著作やその他近年の著者たちの著作には大建造物や道、橋を建てることに関する秘密が書かれています。;;;;;;;;;;;;x
+upgrade_collection_history;歴史書のコレクション;;;;;;;;;;;;x
+upgrade_collection_history_desc;現代の文明と戦争に関する知られている限りの歴史を記録した文書たちです。;;;;;;;;;;;;x
+upgrade_collection_science;自然科学書のコレクション;;;;;;;;;;;;x
+upgrade_collection_science_desc;他者による世界とそこに生きる被造物の様々な観察結果を読むことで貴重な知識を得ることができるかも知れません。世界は本当に平らなのでしょうか？;;;;;;;;;;;;x
+upgrade_collection_math;数学書と哲学書のコレクション;;;;;;;;;;;;x
+upgrade_collection_math_desc;プラトンの著作集からつい最近書かれた数学論文の数々まで、そろえています。;;;;;;;;;;;;x
+upgrade_scribe_room;写本室;;;;;;;;;;;;x
+upgrade_scribe_room_desc;この部屋は世界中の書物を受け取ってその写本を作る写字生で一杯です;;;;;;;;;;;;x
+upgrade_extra_pyramids;追加のピラミッド;;;;;;;;;;;;x
+upgrade_extra_pyramids_desc;主[FromFrom.GetWonderTypeShortCap]の横にそれより小さいが同じ形の遺跡が2つあります。これは[Root.GetTitledFirstName]の最愛の人が眠る場所と言われています。;;;;;;;;;;;;x
+upgrade_mythological_beast;[Root.GetMythologicalBeast];;;;;;;;;;;;x
+upgrade_mythological_beast_desc;おそらくは、[Root.GetTitledName]自身の記念碑であり、その像は見た人の大半にある有名な獣を連想させます。;;;;;;;;;;;;x
+upgrade_hidden_room;隠し部屋;;;;;;;;;;;;x
+upgrade_hidden_room_desc;この部屋は[FromFrom.GetWonderTypeShortCap]の本来の平面図にはないはずのものです…;;;;;;;;;;;;x
+upgrade_necropolis;死者の町;;;;;;;;;;;;x
+upgrade_necropolis_desc;[FromFrom.GetWonderTypeShortCap]の内部には、静寂と時の経過に覆われた、その全容が知られていない死者たちの地下都市が存在します。;;;;;;;;;;;;x
+upgrade_traps;罠;;;;;;;;;;;;x
+upgrade_traps_desc;ピラミッドは貴重なものがある場所を自分からデカデカと教えているようなものです。[Root.GetTitledFirstName]は墓泥棒を罠にかけるためにいくつもの罠を仕掛けたと噂されています。;;;;;;;;;;;;x
+upgrade_lime_stone_casing;石灰岩の外装石;;;;;;;;;;;;x
+upgrade_lime_stone_casing_desc;このピラミッドの表面は極めて滑らかであり、太陽に照らされると光を反射して、時に発光しているようにも見えます。;;;;;;;;;;;;x
+upgrade_vestibule;前庭;;;;;;;;;;;;x
+upgrade_holy_place;聖所;;;;;;;;;;;;x
+upgrade_holy_of_holies;至聖所;;;;;;;;;;;;x
+upgrade_cherubim;智天使;;;;;;;;;;;;x
+upgrade_cherubim_desc;杉の木でできた2つの巨大な智天使の広げた翼が至聖所の真ん中で重なっています。;;;;;;;;;;;;x
+upgrade_great_court;大外庭;;;;;;;;;;;;x
+upgrade_great_court_desc;外庭は一般信者が礼拝を行うための場所です;;;;;;;;;;;;x
+upgrade_inner_court;内庭;;;;;;;;;;;;x
+String_location_wondertype;[target_province.GetName][This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_location_adj_wondertype;[target_province.GetName] [This.GetWonderAdjCap] [This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_adj_wondertype_of_location;[This.GetWonderAdjCap][target_province.GetName][This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_adj_wondertype_of_noun;[This.GetWonderAdjCap][This.GetWonderFluffNounCap][This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_Grand;大いなる;;;;;;;;;;;;x
+String_Great;大いなる;;;;;;;;;;;;x
+String_Holy;聖なる;;;;;;;;;;;;x
+String_Magnificent;堂々たる;;;;;;;;;;;;x
+String_Glorious;輝かしき;;;;;;;;;;;;x
+String_Bloody;血塗られた;;;;;;;;;;;;x
+String_Fortified;堅固なる;;;;;;;;;;;;x
+String_Royal;Royal;;;;;;;;;;;;x
+String_Grand_Royal;Grand Royal;;;;;;;;;;;;x
+String_Silent;静かなる;;;;;;;;;;;;x
+String_Cool;Cool;;;;;;;;;;;;x
+String_Whispering;Whispering;;;;;;;;;;;;x
+String_Bent;Bent;;;;;;;;;;;;x
+String_Leaning;傾いた;;;;;;;;;;;;x
+String_Terrible;恐るべき;;;;;;;;;;;;x
+String_Exalted;高貴なる;;;;;;;;;;;;x
+String_Marvelous;素晴らしき;;;;;;;;;;;;x
+String_grand;大いなる;;;;;;;;;;;;x
+String_great;偉大なる;;;;;;;;;;;;x
+String_holy;聖なる;;;;;;;;;;;;x
+String_magnificent;堂々たる;;;;;;;;;;;;x
+String_glorious;輝かしき;;;;;;;;;;;;x
+String_bloody;血みどろの;;;;;;;;;;;;x
+String_fortified;堅固なる;;;;;;;;;;;;x
+String_royal;royal;;;;;;;;;;;;x
+String_grand_royal;grand royal;;;;;;;;;;;;x
+String_silent;静かなる;;;;;;;;;;;;x
+String_whispering;whispering;;;;;;;;;;;;x
+String_bent;bent;;;;;;;;;;;;x
+String_leaning;傾いた;;;;;;;;;;;;x
+String_terrible;恐るべき;;;;;;;;;;;;x
+String_exalted;高貴なる;;;;;;;;;;;;x
+String_marvelous;素晴らしき;;;;;;;;;;;;x
+String_Shadows;影の;;;;;;;;;;;;x
+String_Light;光の;;;;;;;;;;;;x
+String_Secrets;秘密の;;;;;;;;;;;;x
+String_Heaven;天国の;;;;;;;;;;;;x
+String_Wonder_Province;[target_province.GetName];;;;;;;;;;;;x
+String_Cathedral;大聖堂;;;;;;;;;;;;x
+String_cathedral;大聖堂;;;;;;;;;;;;x
+String_Mosque;モスク;;;;;;;;;;;;x
+String_mosque;モスク;;;;;;;;;;;;x
+String_Synagogue;シナゴーグ;;;;;;;;;;;;x
+String_synagogue;シナゴーグ;;;;;;;;;;;;x
+String_Temple;寺院;;;;;;;;;;;;x
+String_temple;寺院;;;;;;;;;;;;x
+String_Statue;像;;;;;;;;;;;;x
+String_statue;像;;;;;;;;;;;;x
+String_Fortress;要塞;;;;;;;;;;;;x
+String_fortress;要塞;;;;;;;;;;;;x
+String_Underground_City;地下都市;;;;;;;;;;;;x
+String_underground_city;地下都市;;;;;;;;;;;;x
+String_Walls;城壁;;;;;;;;;;;;x
+String_walls;城壁;;;;;;;;;;;;x
+String_Harbor;港;;;;;;;;;;;;x
+String_harbor;港;;;;;;;;;;;;x
+String_Amphitheater;円形競技場;;;;;;;;;;;;x
+String_amphitheater;円形競技場;;;;;;;;;;;;x
+String_Palace;宮殿;;;;;;;;;;;;x
+String_palace;宮殿;;;;;;;;;;;;x
+String_Garden;庭園;;;;;;;;;;;;x
+String_garden;庭園;;;;;;;;;;;;x
+String_Forest;森;;;;;;;;;;;;x
+String_forest;森;;;;;;;;;;;;x
+String_University;大学;;;;;;;;;;;;x
+String_university;大学;;;;;;;;;;;;x
+String_Mausoleum;廟;;;;;;;;;;;;x
+String_mausoleum;廟;;;;;;;;;;;;x
+String_Pyramid;ピラミッド;;;;;;;;;;;;x
+String_pyramid;ピラミッド;;;;;;;;;;;;x
+String_Monolith;メンヒル;;;;;;;;;;;;x
+String_monolith;メンヒル;;;;;;;;;;;;x
+String_Stonehenge;ストーンヘンジ;;;;;;;;;;;;x
+String_stonehenge;ストーンヘンジ;;;;;;;;;;;;x
+String_months;数ヶ月前;;;;;;;;;;;;x
+String_years;数年前;;;;;;;;;;;;x
+String_decades;数十年前;;;;;;;;;;;;x
+String_almost_a_century;ほぼ一世紀前;;;;;;;;;;;;x
+String_ages;一世紀前;;;;;;;;;;;;x
+String_more_than_a_hundred_years;百年以上前;;;;;;;;;;;;x
+String_hundreds_of_years;数百年前;;;;;;;;;;;;x
+String_as_long_as_anyone_can_remember;誰も知らないほど昔;;;;;;;;;;;;x
+String_centuries;数世紀前;;;;;;;;;;;;x
+String_time_immemorial;太古;;;;;;;;;;;;x
+String_a_long_time;ずっと前;;;;;;;;;;;;x
+String_Wonder_Desc00;[target_wonder.GetDesc]。[upgrade_00.GetRandomUpgradeDesc]。;;;;;;;;;;;;x
+String_Wonder_Desc01;[target_province.GetName]の[target_province.GetWonderTerrain]にある[target_wonder.GetWonderAdj][target_wonder.GetWonderTypeShort]は[target_wonder.GetWonderAgeDesc]から[target_wonder.GetWonderPurpose]。;;;;;;;;;;;;x
+String_Wonder_Desc02;[target_wonder.GetWonderAdj][target_wonder.GetWonderTypeShort]は[target_wonder.GetWonderAgeDesc]より[target_wonder.GetWonderPurpose]。[upgrade_00.GetRandomUpgradeDesc]。;;;;;;;;;;;;x
+String_Wonder_Desc03;[upgrade_00.GetRandomUpgradeDesc]。[target_wonder.GetWonderAgeDesc]から[target_wonder.GetWonderTypeShort]は[target_wonder.GetWonderPurpose];;;;;;;;;;;;x
+String_inspired_pious;多くの敬虔な者に霊感を与えてきた;;;;;;;;;;;;x
+String_brought_people_together;神を畏れる者たちを団結させてきた;;;;;;;;;;;;x
+String_inspired_students;学者や熱心な学徒に霊感を与えてきた;;;;;;;;;;;;x
+String_encouraged_learning;より高度な学問を振興してきた;;;;;;;;;;;;x
+String_eased_the_burden;数えきれない人々の毎日の生活の苦しみを和らげてきた;;;;;;;;;;;;x
+String_improved_lives;その住民の生活を向上させてきた;;;;;;;;;;;;x
+String_encouraged_greatness_1;平民にも貴族にも等しく自信を与えてきた;;;;;;;;;;;;x
+String_encouraged_greatness_2;偉大さの導き手であり続けてきた;;;;;;;;;;;;x
+String_upgrade_sends_chills;[This.GetName]にはどんな勇敢な魂もゾッとせずにはいられないだろう;;;;;;;;;;;;x
+String_upgrade_send_chills;[This.GetName]にはどんな勇敢な魂もゾッとせずにはいられないだろう;;;;;;;;;;;;x
+String_upgrade_promises_safety;[This.GetName]は緊急時の安全を約束するものだ。;;;;;;;;;;;;x
+String_upgrade_promise_safety;[This.GetName]はもしもの時にはその安全を保証すると言われている;;;;;;;;;;;;x
+String_upgrade_is_a_work_of_art;[This.GetName]は芸術作品だ;;;;;;;;;;;;x
+String_upgrade_are_beautifully_made;[This.GetName]は美しい工芸品だ;;;;;;;;;;;;x
+String_statues_keep_demons_away;石でできた[This.GetName]は悪魔を寄せ付けない効果があると言われている;;;;;;;;;;;;x
+String_dome_is_second_sky;大ドームは言わば信者にとっての第二の空のようなものです;;;;;;;;;;;;x
+wonder_name_text_update;[GetWonderName];;;;;;;;;;;;x
+wonder_desc_text_update;[GetWonderDesc];;;;;;;;;;;;x
+string_In;In;;;;;;;;;;;;x
+string_On;On;;;;;;;;;;;;x
+SET_DYNASTY_NAME_EFFECT;$OLD_NAME|Y$家は$NEW_NAME|Y$家に改名される;;;;;;;;;;;;x
+EVT_TITLE_LT_60001;街の誕生;;;;;;;;;;;;x
+EVTDESC_LT_60001;[target_wonder.GetName]には旅人や商人が集まるようになり、その中には[target_wonder.GetWonderAdj]建造物の近くに定住する者が現れた。最近の報告によれば子供や犬、牛までいるらしい―住民は明らかに深く根付き始めているようだ。;;;;;;;;;;;;x
+EVTOPTA_LT_60001;[target_province.GetName]に留まる者を歓迎しよう！;;;;;;;;;;;;x
+EVTOPTB_LT_60001;そいつらを追放し、財産を没収せよ！;;;;;;;;;;;;x
+EVT_TITLE_LT_60101;[target_wonder.GetName];;;;;;;;;;;;x
+EVTDESC_LT_60101;私の本を完成させるため写字生達は足繁く[target_wonder.GetName]に通って熱心に作業をしている。本に新たに加えられた抜粋を見れば、[target_wonder.GetName]が大きな助けになっていることは明らかだ―この文書の品質に文句を付けることなどできまい！;;;;;;;;;;;;x
+EVTOPTA_LT_60101;この[target_wonder.GetName]を建設したことで写字生も輝くだろう！;;;;;;;;;;;;x
+EVTOPTA_TT_LT_60101;作品の品質を高めるため、写字生達に[target_wonder.GetName]をもっと利用するよう促します。;;;;;;;;;;;;x
+drink_from_fountain_of_youth;若返りの泉から水を飲む;;;;;;;;;;;;x
+drink_from_fountain_of_youth_desc;若返りの泉の水は飲めば誰でも老化の影響を取り除いてくれると言われています。;;;;;;;;;;;;x
+has_not_chugged_in_10_years_TT;最近は飲み過ぎである―§Y[Root.drank_from_fountain_cooldown.GetExpiryDate]§!までは飲めない;;;;;;;;;;;;x
+fountain_of_youth_custom_modifier_tt;§Y若返りの泉の水をのむ§!決断を開放します;;;;;;;;;;;;x
+EVT_TITLE_LT_60201;若返りの泉;;;;;;;;;;;;x
+EVTDESC_LT_60201_2;I jump into the [target_wonder.GetName], laughing with glee, and I am soon choking on the life-giving water as I swallow mouthful after mouthful. As I drag myself up onto the ledge with shaking arms I soon stop smiling...;;;;;;;;;;;;x
+EVTOPTA_LT_60201;飲むと歳が抜け落ちていくかのようだ。;;;;;;;;;;;;x
+EVTOPTB_LT_60201;I've never felt this old before!;;;;;;;;;;;;x
+title_lighthouse_custodian;灯台守;;;;;;;;;;;;x
+title_lighthouse_custodian_desc;この名誉は灯台の管理―灯火を守り、これを機能させることに―を任せられる責任感がある者に与えられます。;;;;;;;;;;;;x
+lighthouse_custodian_custom_modifier_tt;§Y灯台守§!の下級称号を開放します;;;;;;;;;;;;x
+upgrade_stone_custodian;石の管理人;;;;;;;;;;;;x
+upgrade_stone_custodian_desc;石のように揺るぎない不動の自制心を以て、管理人は石の管理の責任を負います。;;;;;;;;;;;;x
+stone_custodian_custom_modifier_tt;§Y石の管理人§!の下級称号を開放します;;;;;;;;;;;;x
+title_stone_custodian;石の管理人;;;;;;;;;;;;x
+title_stone_custodian_desc;この名誉称号は確固たる忠誠心と自制心を示した者に与えられます。;;;;;;;;;;;;x
+upgrade_more_stones;More Stones;;;;;;;;;;;;x
+upgrade_more_stones_desc;The colossal monoliths of this construction already inspire both awe and admiration – imagine the impact of even more stones!;;;;;;;;;;;;x
+upgrade_golden_crown;黄金の冠;;;;;;;;;;;;x
+upgrade_golden_crown_desc;純金で作られた冠が巨像の頭を飾ります。;;;;;;;;;;;;x
+upgrade_road_tolls;料金所;;;;;;;;;;;;x
+upgrade_road_tolls_desc;この地域を通りたい者は領主に少しばかりの金を寄付することが強く奨励されている。;;;;;;;;;;;;x
+upgrade_horse_graveyard;馬の墓地;;;;;;;;;;;;x
+upgrade_horse_graveyard_desc;自分の愛馬が永遠の眠りに就くための場所です。;;;;;;;;;;;;x
+upgrade_pet_graveyard;ペットの墓地;;;;;;;;;;;;x
+upgrade_pet_graveyard_desc;A quiet and serene place for all pets to find eternal rest.;;;;;;;;;;;;x
+OFFMAP_MAP_MODE_DESC_DELAYED;青は§Y[offmap_china.GetName]§!の外交範囲内にある領国を示します。\n緑は§Y[offmap_china.GetName]§!と不戦協定を結んでいる邦を示します。\n紫は§Y[offmap_china.GetName]§!の属国を示します。\n赤は§Y[offmap_china.Governor.GetTitle]§!の領国を示します。;;;;;;;;;;;;x
+WONDER_NAME_TEMPLATE;[FromFromFrom.GetName]の$TYPE_NAME$;;;;;;;;;;;;x
+WONDER_UPGRADE_NAME_TEMPLATE;[FromFromFrom.GetName]の[From.GetTypeName];;;;;;;;;;;;x
+WONDER_BEING_BUILT;§Y[This.GetName]§!が建設中である;;;;;;;;;;;;x
+WONDER_NOT_BEING_BUILT;§Y[This.GetName]§!が建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_TYPE$§!が建設中である;;;;;;;;;;;;x
+WONDER_SPECIFIC_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_TYPE$§!を建設中である;;;;;;;;;;;;x
+WONDER_SPECIFIC_BEING_BUILT;§Y[This.GetName]§!が建設中であり、その種類は§Y$WONDER_TYPE$§!である;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_TYPE$§!が建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_TYPE$§!を建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BEING_BUILT;§Y[This.GetName]§!が建設中でない、またはその種類が§Y$WONDER_TYPE$§!でない;;;;;;;;;;;;x
+WONDER_UPGRADE_BEING_BUILT;§Y[This.GetName]§!に特徴が建設中である;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BEING_BUILT;§Y[This.GetName]§!に特徴が建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!で§Y$WONDER_UPGRADE_TYPE$§!が建設中である;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_UPGRADE_TYPE$§!を建設中である;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BEING_BUILT;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設中である;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_UPGRADE_TYPE$§!を建設中でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BEING_BUILT;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設中でない;;;;;;;;;;;;x
+WONDER_BUILT;§Y[This.GetName]§!が建設済みである;;;;;;;;;;;;x
+WONDER_NOT_BUILT;§Y[This.GetName]§!が建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_TYPE$§!が建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_TYPE$§!を建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_BUILT;§Y[This.GetName]§!が建設済みであり、その種類は§Y$WONDER_TYPE$§!である;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_TYPE$§!が建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_TYPE$§!を建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_NOT_BUILT;§Y[This.GetName]§!が建設済みでない、またはその種類が§Y$WONDER_TYPE$§!でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_UPGRADE_TYPE$§!を建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BUILT_FOR_WONDER;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_BUILT;§Y$WONDER_UPGRADE_TYPE$§!が建設済みである;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BUILT_IN_PROVINCE;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が§Y$WONDER_UPGRADE_TYPE$§!を建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BUILT_FOR_WONDER;§Y[This.GetName]§!に§Y$WONDER_UPGRADE_TYPE$§!が建設済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_NOT_BUILT;§Y$WONDER_UPGRADE_TYPE$§!が建設済みでない;;;;;;;;;;;;x
+WONDER_STAGE_TRIGGER;Current stage is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
+WONDER_AGE_TRIGGER;§Y[This.GetName]§! is $COMPARISON$ $VALUE|Y$ years old;;;;;;;;;;;;x
+WONDER_STAGE_AGE_TRIGGER;The current stage is $COMPARISON$ $VALUE|Y$ years old;;;;;;;;;;;;x
+HAS_NOT_WONDER_FLAG;$FLAG|Y$フラグがない;;;;;;;;;;;;x
+HAS_WONDER_FLAG;$FLAG|Y$フラグがある;;;;;;;;;;;;x
+HAS_NOT_WONDER_UPGRADE_FLAG;$FLAG|Y$フラグがない;;;;;;;;;;;;x
+HAS_WONDER_UPGRADE_FLAG;$FLAG|Y$フラグがある;;;;;;;;;;;;x
+WONDER_EFFECT_ADD_SPECIFIC_UPGRADE;特徴$WONDER_UPGRADE_TYPE|Y$がある;;;;;;;;;;;;x
+WONDER_EFFECT_FINISH_UPGRADE;§Y[This.GetName]§!が完了;;;;;;;;;;;;x
+WONDER_EFFECT_COMPLETE_STAGE;第$NUM|Y$段階が完成;;;;;;;;;;;;x
+WONDER_OWNER_CHANGE_LOG;$WONDER_NAME|Y$の所有権が$OLD_OWNER|Y$から$NEW_OWNER|Y$へと移動しました;;;;;;;;;;;;x
+WONDER_STAGE_RESUME_TT;段階の建造を再開;;;;;;;;;;;;x
+WONDER_STAGE_RESUME_TT_DELAYED_DISABLED;§R破産状態にあるときは建設を再開できません§!;;;;;;;;;;;;x
+WONDER_STAGE_PAUSE_TT;段階の建造を中断;;;;;;;;;;;;x
+WONDER_STAGE_ABORT_TT;段階の建設を放棄;;;;;;;;;;;;x
+WONDER_OWNER_MODIFIER_TT;§Y[Root.GetBestName]§!：\n$MODIFIER_DESCRIPTION$\n;;;;;;;;;;;;x
+WONDER_LOCAL_MODIFIER_TT;§Y[FromFromFrom.GetName]§!：\n$MODIFIER_DESCRIPTION$\n;;;;;;;;;;;;x
+WONDER_STAGE_MODIFIER_TT;$OWNER_MODIFIER_TEXT$$LOCAL_MODIFIER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_NEXT_TT;次の段階（$NUM|Y$）;;;;;;;;;;;;x
+WONDER_STAGE_NEXT_TT_DELAYED;$MODIFIER_TEXT$$ALLOW_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_NEXT_BUILD_TT;次の段階を建設（$NUM|Y$）;;;;;;;;;;;;x
+WONDER_STAGE_NEXT_BUILD_TT_DELAYED;$MODIFIER_TEXT$$ALLOW_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_CURRENT_TT;現在の段階（$NUM|Y$）;;;;;;;;;;;;x
+WONDER_STAGE_CURRENT_TT_DELAYED;$MODIFIER_TEXT$$ALLOW_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_NUMBERED_TT;第$NUM|Y$段階;;;;;;;;;;;;x
+WONDER_STAGE_PROGRESS_TT;第§Y[FromFrom.GetNextStageNumber]§!段階が§Y$NUM$%§!完了;;;;;;;;;;;;x
+WONDER_UPGRADE_RESUME_DISABLED_TT_DELAYED;§R破産状態にあるときは建設を再開できません§!;;;;;;;;;;;;x
+WONDER_UPGRADE_AVAILABLE_NAME_TT;$NAME$;;;;;;;;;;;;x
+WONDER_UPGRADE_OWNED_NAME_TT;[From.GetName];;;;;;;;;;;;x
+WONDER_UPGRADE_OWNED_NAME_COMPLETE_TT_DELAYED;[From.GetDesc];;;;;;;;;;;;x
+WONDER_UPGRADE_OWNED_NAME_IN_PROGRESS_TT_DELAYED;[From.GetDesc];;;;;;;;;;;;x
+WONDER_UPGRADE_TICKING_COST_TT_DELAYED;$TIME_TO_BUILD|Y$に渡って毎月$TICKING_COST|R$¤、総計$ESTIMATED_TOTAL|R$¤の建設費用がかかると推測されます。;;;;;;;;;;;;x
+WONDER_UPGRADE_TIME_COST_OWNED_TT;建設完了までの時間;;;;;;;;;;;;x
+WONDER_UPGRADE_TIME_COST_OWNED_TT_DELAYED;§Y[From.GetEstimatedFinishDate]§!に完了と推定;;;;;;;;;;;;x
+WONDER_UPGRADE_FLAT_COST_TT;初期費用;;;;;;;;;;;;x
+WONDER_UPGRADE_IN_PROGRESS_TT;§Y[From.GetPercentComplete]§!%完了;;;;;;;;;;;;x
+WONDER_UPGRADE_IN_PROGRESS_TT_DELAYED;§Y[From.GetEstimatedFinishDate]§!に完了と推定;;;;;;;;;;;;x
+WONDER_UPGRADE_COMPLETED_TT;§Y[From.GetCompletionDate]§!に完了;;;;;;;;;;;;x
+WONDER_UPGRADE_COMPLETED_TT_DELAYED;§Y[From.Completer.GetBestName]§!が完成させた;;;;;;;;;;;;x
+IN_PROGRESS_NO_CAP;建設中;;;;;;;;;;;;x
+COMPLETED_NO_CAP;完了;;;;;;;;;;;;x
+ARTIFACT_UNICORN_TT;馬である;;;;;;;;;;;;x
+LEDGER_UPGRADES;特徴;;;;;;;;;;;;x
+LEDGER_ENTRY_WONDER_TOOLTIP;$WONDER$;;;;;;;;;;;;x
+LEDGER_HEADER_WONDER;世界七不思議;;;;;;;;;;;;x
+PROPAGATE_BLOODLINE_FROM_EFFECT;$MEMBER$ and their offspring are now considered part of the $BLOODLINE$;;;;;;;;;;;;x
+HOLY_ORDER_EXPELLED_TOOLTIP;$TITLE|Y$は以前領国より追放されたことを理由として兵を立ち上げることを拒絶しています。;;;;;;;;;;;;x
+OUTLINER_NEXT_WONDER_STAGE;現在$WONDER$の次の段階を建設中;;;;;;;;;;;;x
+panda_group;レッサーパンダ科;;;;;;;;;;;;x
+red_panda;レッサーパンダ;;;;;;;;;;;;x
+MODIFIERS_PLAIN;補正値;;;;;;;;;;;;x
+CONFIRM_ABORT_WONDER_CONSTRUCTION_TITLE;建設を放棄しますか？;;;;;;;;;;;;x
+COMPLETED_CAP;建設済み;;;;;;;;;;;;x
+AVAILABLE_CAP;建設可能;;;;;;;;;;;;x
+RESUME;再開;;;;;;;;;;;;x
+WONDER_CONFIRM_START_CONSTRUCTION_DESCRIPTION;新たに$WONDER_TYPE_NAME$を建設しますか？;;;;;;;;;;;;x
+VALUE_PER_MONTH;$VALUE$ / 月;;;;;;;;;;;;x
+YEARS_COUNT;$YEAR$年;;;;;;;;;;;;x
+YEAR_COUNT;$YEAR$年;;;;;;;;;;;;x
+MONTHS_COUNT;$MONTH$ヶ月;;;;;;;;;;;;x
+MONTH_COUNT;$MONTH$ヶ月;;;;;;;;;;;;x
+EVENT_CANCEL_DISALLOWED;このイベントは取り消しできません;;;;;;;;;;;;x
+COMPLETED;完了;;;;;;;;;;;;x
+IN_PROGRESS_CAP;建設中;;;;;;;;;;;;x
+RENAME_WONDER_BUTTON;§Y[FromFrom.GetName]の名前の変更§!;;;;;;;;;;;;x
+RENAME_WONDER_MESSAGE_LOG;[FromFrom.GetName]の名前を変更;;;;;;;;;;;;x
+WONDER_NAME;§Y[FromFrom.GetName]§!;;;;;;;;;;;;x
+UNKNOWN_OWNER;所有者不明;;;;;;;;;;;;x
+CHARACTER_TOOK_OWNERSHIP;§G$CHARACTER_NAME$§!が新たに所有者となった;;;;;;;;;;;;x
+WONDER_HISTORY_STAGE_CONSTRUCTION_STARTED;第$STAGE_NUMBER$段階の建設が開始された;;;;;;;;;;;;x
+WONDER_HISTORY_STAGE_CONSTRUCTION_FINISHED;第$STAGE_NUMBER$段階の建設が完了した;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_STARTED;§Y[This.GetName]§!の次の段階の建設が開始済み;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_NOT_STARTED;§Y[This.GetName]§!の次の段階の建設が開始済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_STARTED_IN_PROVINCE;§Y[This.GetName]§!で第§Y$WONDER_TYPE$§!段階の建設が開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が第§Y$WONDER_TYPE$§!段階の建設を開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_STARTED;§Y[This.GetName]§!の建設が開始済みであり、その種類は§Y$WONDER_TYPE$§!である;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_NOT_STARTED_IN_PROVINCE;§Y[This.GetName]§!の建設が開始済みでない、またはその種類が§Y$WONDER_TYPE$§!でない;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_NOT_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が第§Y$WONDER_TYPE$§!段階の建設を開始済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_CONSTRUCTION_NOT_STARTED;§Y[This.GetName]§!の建設が開始済みでない、またはその種類が§Y$WONDER_TYPE$§!でない;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_STARTED;§Y[This.GetName]§!の特徴の建設が開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_STARTED_IN_PROVINCE;§Y[This.GetName]§!で§Y$WONDER_UPGRADE_TYPE$§!の建設が開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_STARTED;§Y[This.GetName]§!の建設が開始済みであり、その種類は§Y$WONDER_UPGRADE_TYPE$§!である;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_NOT_STARTED_IN_PROVINCE;§Y[This.GetName]§!で§Y$WONDER_UPGRADE_TYPE$§!の建設が開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_NOT_STARTED;§Y[This.GetName]§!の建設が開始済みでない、またはその種類が§Y$WONDER_UPGRADE_TYPE$§!でない;;;;;;;;;;;;x
+obj_create_wonder_desc;[This.GetTitledFirstName]は大いに威厳ある壮大な建築物を建てることを欲しています！;;;;;;;;;;;;x
+DEATH_EXECUTION_SPIKES;$KILLER$に大建築物の獄門台で串刺しにされた;;;;;;;;;;;;x
+DEATH_EXECUTION_SPIKES_NO_KILLER;大建築物の獄門台で串刺しにされた;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_SPIKES;$KILLER$に大要塞の堀の乱杭で串刺しにされた;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_SPIKES_NO_KILLER;大要塞の堀の乱杭に串刺しにされた;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_PIT;$KILLER$の居城の堀で餓死させられた;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_PIT_NO_KILLER;居城の堀で餓死した;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_WATER;$KILLER$の居城の堀に沈められた;;;;;;;;;;;;x
+DEATH_EXECUTION_MOAT_WATER_NO_KILLER;堀で溺れ死んだ;;;;;;;;;;;;x
+String_Golden;黄金の;;;;;;;;;;;;x
+String_golden;黄金の;;;;;;;;;;;;x
+String_special_wonder_name;[GetSpecialWonderName];;;;;;;;;;;;x
+String_citadel;要塞;;;;;;;;;;;;x
+String_Citadel;要塞;;;;;;;;;;;;x
+String_iron;鉄の;;;;;;;;;;;;x
+String_Iron;鉄の;;;;;;;;;;;;x
+String_towering;聳え立つ;;;;;;;;;;;;x
+String_Towering;聳え立つ;;;;;;;;;;;;x
+String_the_evil_god_names_workshop;[Root.Religion.GetRandomEvilGodNameCap]の工房;;;;;;;;;;;;x
+String_Statue_Ruler;[wonder_owner_original.GetTitledFirstName]の巨像;;;;;;;;;;;;x
+String_statue_ruler;[wonder_owner_original.GetTitledFirstName]の巨像;;;;;;;;;;;;x
+String_statue_wonder_type;[This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_adj_statue_wonder_type;[target_province.GetName]の[This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_adj_statue_wonder_type_in_location;[This.GetWonderAdjCap][target_province.GetName]の[This.GetWonderTypeShortCap];;;;;;;;;;;;x
+String_Death;死の;;;;;;;;;;;;x
+String_Pain;Pain;;;;;;;;;;;;x
+upgrade_royal_bedchamber;高貴な寝所;;;;;;;;;;;;x
+String_Screams;Screams;;;;;;;;;;;;x
+String_divine;聖なる;;;;;;;;;;;;x
+String_Divine;聖なる;;;;;;;;;;;;x
+String_jewel_of_the_province;[target_province.GetName]の宝石;;;;;;;;;;;;x
+String_Romance;Romance;;;;;;;;;;;;x
+String_Treasures;Treasures;;;;;;;;;;;;x
+String_Verdant;Verdant;;;;;;;;;;;;x
+String_verdant;verdant;;;;;;;;;;;;x
+String_ancient;ancient;;;;;;;;;;;;x
+String_Ancient;Ancient;;;;;;;;;;;;x
+String_lighthouse;灯台;;;;;;;;;;;;x
+String_soaring;soaring;;;;;;;;;;;;x
+String_Soaring;Soaring;;;;;;;;;;;;x
+String_Hallowed;Hallowed;;;;;;;;;;;;x
+String_hallowed;hallowed;;;;;;;;;;;;x
+String_old;old;;;;;;;;;;;;x
+String_Colossus;巨像;;;;;;;;;;;;x
+String_Stallion;牡馬;;;;;;;;;;;;x
+String_Mare;Mare;;;;;;;;;;;;x
+String_Keep;砦;;;;;;;;;;;;x
+String_Castle;城;;;;;;;;;;;;x
+String_Shield;盾;;;;;;;;;;;;x
+String_Woods;林;;;;;;;;;;;;x
+upgrade_torture_chamber;拷問室;;;;;;;;;;;;x
+String_looming;looming;;;;;;;;;;;;x
+String_Looming;Looming;;;;;;;;;;;;x
+upgrade_skull_throne;髑髏の玉座;;;;;;;;;;;;x
+upgrade_torture_chamber_desc;あまり多く質問しすぎないことだ。そうでなければここに行き着くことになるぞ。;;;;;;;;;;;;x
+upgrade_skull_throne_desc;鉄の枠に髑髏と骨を嵌めて作られた玉座です。;;;;;;;;;;;;x
+upgrade_golden_throne;黄金の玉座;;;;;;;;;;;;x
+upgrade_golden_throne_desc;全部金でできた玉座です。金鍍金ではなく中まで完全に金製です。何という無駄。;;;;;;;;;;;;x
+drunkard_opinion;酒浸りの評価;;;;;;;;;;;;x
+upgrade_brewery;醸造所;;;;;;;;;;;;x
+upgrade_brewery_desc;自分のアルコール飲料を作ることが出来る醸造所です。利益にまではならないでしょうが、これで自分も有名になれるかも知れません。;;;;;;;;;;;;x
+alcohol_gift_decision;酒を贈る;;;;;;;;;;;;x
+alcohol_gift_decision_desc;§Y醸造所§!を持っているので、[Root.GetTitledFirstName]に[Root.GetAlcohol]の[Root.GetAlcoholContainerType]を贈ることができます。;;;;;;;;;;;;x
+not_recently_sent_alcohol_tooltip;[From.GetTitledFirstName]は最近アルコール飲料を送られていない。;;;;;;;;;;;;x
+String_Bottle;瓶;;;;;;;;;;;;x
+String_Case;箱;;;;;;;;;;;;x
+String_Cask;大樽;;;;;;;;;;;;x
+String_Barrel;樽;;;;;;;;;;;;x
+String_Beer;ビール;;;;;;;;;;;;x
+String_Ale;エール;;;;;;;;;;;;x
+String_Wine;葡萄酒;;;;;;;;;;;;x
+String_Cider;シードル;;;;;;;;;;;;x
+String_Mead;蜂蜜酒;;;;;;;;;;;;x
+String_Whiskey;ウイスキー;;;;;;;;;;;;x
+opinion_gifted_alcohol;醸造酒を贈られた;;;;;;;;;;;;x
+opinion_gifted_alcohol_drunkard;醸造酒を贈られた;;;;;;;;;;;;x
+upgrade_vineyard;葡萄園;;;;;;;;;;;;x
+upgrade_vineyard_desc;葡萄酒用の葡萄を育てる場所です。;;;;;;;;;;;;x
+String_Vineyard;葡萄園;;;;;;;;;;;;x
+String_Brewery;醸造所;;;;;;;;;;;;x
+upgrade_royal_bedchamber_desc;貴族に似つかわしい信じられないほど仰々しい寝室です。;;;;;;;;;;;;x
+upgrade_historical_mural;歴史画の壁;;;;;;;;;;;;x
+upgrade_historical_mural_desc;一族の歴史から題材をとった美しい絵が壁一面に描かれています。;;;;;;;;;;;;x
+upgrade_eternal_flame;永遠の炎;;;;;;;;;;;;x
+upgrade_eternal_flame_desc;The Eternal Flame is constantly tended, to ensure it never goes out.;;;;;;;;;;;;x
+upgrade_unmarked_tombs;無銘の墓;;;;;;;;;;;;x
+upgrade_unmarked_tombs_desc;誰のために作られた墓なのかはよくわかりませんが、時々中から声が聞こえるとの噂があります。;;;;;;;;;;;;x
+upgrade_quadriga_statue;四頭建て馬車の巨像;;;;;;;;;;;;x
+upgrade_quadriga_statue_desc;四頭建ての戦車を写した巨像です。;;;;;;;;;;;;x
+upgrade_chaitya-grihas;チャイティヤ堂;;;;;;;;;;;;x
+upgrade_gompa;Gompa;;;;;;;;;;;;x
+upgrade_bodhi_tree;菩提樹;;;;;;;;;;;;x
+upgrade_cave_complex;洞窟複合体;;;;;;;;;;;;x
+upgrade_vihara;僧院;;;;;;;;;;;;x
+upgrade_school_buddhist;仏教学院;;;;;;;;;;;;x
+upgrade_relic_stupa;遺物の仏塔;;;;;;;;;;;;x
+upgrade_object_stupa;Object Stupa;;;;;;;;;;;;x
+upgrade_commerative_stupa;慰霊の仏塔;;;;;;;;;;;;x
+upgrade_symbolic_stupa;Symbolic Stupa;;;;;;;;;;;;x
+upgrade_votive_stupa;奉献の仏塔;;;;;;;;;;;;x
+upgrade_chaitya-grihas_desc;仏塔を囲む拝堂です。;;;;;;;;;;;;x
+upgrade_gompa_desc;寺院を囲む要塞です。;;;;;;;;;;;;x
+upgrade_bodhi_tree_desc;後に仏陀として知られることになるガウタマ・シッダールタがその下で悟りを開いたとされる神聖な木の子孫にあたります。;;;;;;;;;;;;x
+upgrade_cave_complex_desc;複雑な洞窟;;;;;;;;;;;;x
+upgrade_vihara_desc;ここに暮らす仏僧の隠れ家となります。;;;;;;;;;;;;x
+upgrade_school_buddhist_desc;仏教の教えを学ぶ学院です。;;;;;;;;;;;;x
+upgrade_relic_stupa_desc;ここに仏陀とその弟子達の遺骨が埋葬されています。;;;;;;;;;;;;x
+upgrade_object_stupa_desc;This is where the objects belonging to Buddha and his disciples are interred.;;;;;;;;;;;;x
+upgrade_commerative_stupa_desc;Built to commemorative events in lives of Buddha and his disciples.;;;;;;;;;;;;x
+wonder_temple_buddhist;寺院;;;;;;;;;;;;x
+upgrade_walls_sea;水際城壁;;;;;;;;;;;;x
+upgrade_walls_sea_desc;特に海からの攻撃を防ぐために作られた壁です。;;;;;;;;;;;;x
+upgrade_studded_bastions;稜堡;;;;;;;;;;;;x
+upgrade_studded_bastions_desc;都市の防御設備が無秩序に拡大し始めた結果、きちんと維持された壁が街への大手道と縦横に交差した状態になっています。これに更に稜堡を加えることで、著しく費用を増やすことなく防御線を広げ、そこに更に多くの兵力を置くことができるようになります。;;;;;;;;;;;;x
+upgrade_strategic_exclaves;戦術的附城;;;;;;;;;;;;x
+upgrade_strategic_exclaves_desc;都市は郊外部なくては成り立ちません。そしてこの都市は特にそう考えています。郊外の重要な街は防御施設で守られるようになり、その費用は中心となる都市が持ち、中心都市に近いものについては都市本体と短い城壁で繋がれ、一つの巨大な防御施設となっています。;;;;;;;;;;;;x
+upgrade_soaring_fortresses;聳え立つ要塞;;;;;;;;;;;;x
+upgrade_soaring_fortresses_desc;この恐ろしい堂々たる石像建築物は巨大な拳のように天へとそびえ立っています。幾重にも重なる稜堡と無数に配置された防御塔に囲まれたこの要塞に何人たりともバレずに到達することはできず、外側の防壁が敵にいくら取られても弓兵部隊からの縦射を止めることはできないでしょう。;;;;;;;;;;;;x
+upgrade_hidden_gates;隠し門;;;;;;;;;;;;x
+upgrade_hidden_gates_desc;下水道に偽装された出口から堀の下を通って、目立たない稜堡の側面へとつながっています。この街の防御の際はこの様に偽装された隠し通路を使って攻撃をしかけ、夜の闇へと消える奇襲戦法を使えるようになります。;;;;;;;;;;;;x
+upgrade_gatehouse_forts;門楼;;;;;;;;;;;;x
+upgrade_gatehouse_forts_desc;それぞれの門を自立した完全な要塞とすることで、敵が城壁を一重突破する毎に小さな要塞の攻略を強いることができるようにします。;;;;;;;;;;;;x
+upgrade_killing_fields;Staged Killing Fields;;;;;;;;;;;;x
+upgrade_killing_fields_desc;Planned routes through the defenses that are simple, clear, devoid of cover, and looked over by the maximum possible number of defenses, always with a difficult fortress guarding the next killing ground along.;;;;;;;;;;;;x
+upgrade_deep_defense_architecture;縦深防御施設;;;;;;;;;;;;x
+upgrade_deep_defense_architecture_desc;Adapt and reshape areas of the defenses to be especially vulnerable to attack from the next layer, turning losses for the defenders into massacres for the attackers.;;;;;;;;;;;;x
+upgrade_artificial_islands;人工島;;;;;;;;;;;;x
+upgrade_artificial_islands_desc;川の流れを変えて要塞を海へと切り離すことで、攻城戦の際に攻撃側が殆ど対処困難な海上部隊を展開することが出来ます。;;;;;;;;;;;;x
+execution_possible_modifier_tt;囚人を§Y処刑§!するのに使うことが出来ます;;;;;;;;;;;;x
+intimidate_possible_modifier_tt;§Y脅迫§!の決断を開放します。;;;;;;;;;;;;x
+armoury_modifier_tt;Allows more options when §YFinding a Smith§!.;;;;;;;;;;;;x
+String_unfinished;未完成;;;;;;;;;;;;x
+wonder_artifact_bells;大聖堂の鐘;;;;;;;;;;;;x
+wonder_artifact_bells_desc;嘗てキリスト教の大聖堂で鳴り響いていた鐘です。;;;;;;;;;;;;x
+wonder_temple_hindu;ヒンドゥー寺院;;;;;;;;;;;;x
+wonder_temple_hindu_desc;神の家、座、そして肉体を象徴した寺院です。;;;;;;;;;;;;x
+wonder_temple_hindu_construction_desc;神の家、座、そして肉体を象徴した寺院です。これを建てた者の§Y業§!と§Y威信§!の印であり、一部の封臣の評価にも影響を与えます。;;;;;;;;;;;;x
+upgrade_high_gopura;塔門;;;;;;;;;;;;x
+upgrade_high_gopura_desc;寺院の出入り口となる豪華に飾り付けられた高い塔です。;;;;;;;;;;;;x
+upgrade_shikhara;高塔;;;;;;;;;;;;x
+upgrade_shikhara_desc;寺院の主塔です。;;;;;;;;;;;;x
+upgrade_mandapa;大拝堂;;;;;;;;;;;;x
+upgrade_mandapa_desc;A great pillared hall serving as the waiting room for pilgrims and devotees.;;;;;;;;;;;;x
+upgrade_temple_complex;寺院複合体;;;;;;;;;;;;x
+upgrade_temple_complex_desc;主寺院を囲むより小さな寺院の複合体です。;;;;;;;;;;;;x
+upgrade_school_hindu;Calai;;;;;;;;;;;;x
+upgrade_school_hindu_desc;A school, that also provides lodging for students and scholars.;;;;;;;;;;;;x
+upgrade_hospital_hindu;病院;;;;;;;;;;;;x
+upgrade_hospital_hindu_desc;寺院に付属する病院です。;;;;;;;;;;;;x
+wonder_cathedral_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。宝物を納めておける他、危機の際にはその鐘が人々に危険を知らせます。;;;;;;;;;;;;x
+wonder_mosque_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。邪教徒を真の教えに改宗させるのに役立つ他、評価を向上させたり、更には人々を病気からも守ってくれます。;;;;;;;;;;;;x
+wonder_synagogue_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。評価を向上させたり、軍の士気を向上させたり、暴動の危険を減らす効果があります。;;;;;;;;;;;;x
+wonder_temple_pagan_construction_desc;これを建てた者の§Y威信§!の証です。封臣から自分への評価を向上させたり、暴動の危険を減らす効果があります。;;;;;;;;;;;;x
+wonder_temple_buddhist_construction_desc;これを建てた者の§Y業§!の証です。宝物を納めておける他、危機の際にはその城壁が人々を危険から守ります。;;;;;;;;;;;;x
+wonder_statue_ruler_construction_desc;領主の姿を写してこれを不滅の存在とした巨像はこれを建てた者とその後継者たちの§Y威信§!の証であり、家族や封臣からの評価を向上させる効果があります。;;;;;;;;;;;;x
+wonder_statue_horse_construction_desc;馬の姿を写してこれを不滅の存在とした巨像はこれを建てた者とその後継者たちの§Y威信§!の証であり、家族や封臣からの評価を向上させる効果があります。;;;;;;;;;;;;x
+wonder_fortress_construction_desc;堂々たる建築物であり、州の征服をより困難なものとします。施設を建設することで所有者の軍事的能力を大きく向上させることができます。;;;;;;;;;;;;x
+wonder_underground_city_construction_desc;地下都市を建設することにより策謀能力を向上させ、更には貴金属鉱山を発見する可能性もあります。;;;;;;;;;;;;x
+wonder_wall_construction_desc;巨大な市壁とその他防御施設を建設することにより州を敵軍の包囲から守ることができるでしょう。;;;;;;;;;;;;x
+wonder_harbor_construction_desc;倉庫のある巨大港湾はこの地域の交易を支配し、利益をもたらします。また包囲を含めた海上戦力を強化します。;;;;;;;;;;;;x
+wonder_lighthouse_construction_desc;闇の中に光り、船を安全に港へと導く灯台は交易と税歳入を増加させます。また自分が休む場所としても使うことが出来ます。;;;;;;;;;;;;x
+wonder_amphitheater_construction_desc;大衆文化の縮図たる円形競技場は壮大な見世物を以て人を楽しませ、暴動の確率を低下させます。また特別な訓練を受けた人物を雇用することもできます。;;;;;;;;;;;;x
+wonder_palace_construction_desc;これを建てたものの権威ある系譜を示す王威の象徴です。またこれを建てた者の宮廷での策謀や性生活の役に立つ施設もいくつか建てることが出来ます。;;;;;;;;;;;;x
+wonder_garden_construction_desc;この庭園は科学と美の驚異となり、§Y健康§!や性生活、更には策謀に関する諸々の役に立つことがあるかもしれません。;;;;;;;;;;;;x
+wonder_university_construction_desc;大いなる学習の場は様々な技術的・§Y文化§!的進歩の役に立ちます。学問を志すものが多数集まることにより、更には自分個人の§Y能力§!が向上する場合もあります。;;;;;;;;;;;;x
+wonder_library_construction_desc;名著作を集め、収蔵しその再生産を行う場所です。ここで沢山の本を見つけ、使用することができます。;;;;;;;;;;;;x
+wonder_mausoleum_construction_desc;これを建てた者とその後継者たちの§Y威信§!の証です。ここは死者を称える場所であり、同時に親しい友人や敵の墓としても使うことが出来ます。;;;;;;;;;;;;x
+wonder_pyramid_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。自分への評価を向上させたり、更には自分の宝物を守るのにも役に立ちます。;;;;;;;;;;;;x
+wonder_pagan_stones_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。また自分に対する封臣たちの評価を向上させるのにも役に立ちます。;;;;;;;;;;;;x
+wonder_aztec_pyramid_construction_desc;これを建てた者の§Y信仰§!と§Y威信§!の証です。自分への評価を向上させたり、自分の宝物を守ったり、更には神々に犠牲を捧げることにも使えます。;;;;;;;;;;;;x
+opinion_did_not_honor_the_dead;死者を称えなかった;;;;;;;;;;;;x
+opinion_did_honor_the_dead;よい領主を称えた;;;;;;;;;;;;x
+opinion_did_not_honor_hated_ruler;憎んでいた領主を称えることを拒否;;;;;;;;;;;;x
+opinion_did_honor_hated_ruler;憎んでいた領主を称えた;;;;;;;;;;;;x
+EVTOPTD_LT_20410;…手を取って情熱的な口づけをする。;;;;;;;;;;;;x
+EVTDESC_LT_20433;I went to the [target_wonder.GetName], to meet [From.GetFirstName] in the seclusion of the [target_upgrade.GetName]. I didn't have to wait long for the [From.GetManWoman] to pull me towards [From.GetHerHim], eager to demonstrate how much [From.GetSheHe] has missed me.;;;;;;;;;;;;x
+EVT_TITLE_LT_20510;死者を称えて;;;;;;;;;;;;x
+EVTDESC_LT_20510_pagan;偉大なる[target_dead_ruler.GetTitledName]が亡くなった。[Root.Religion.GetHighGodNameCap]の身許にあるのか、[Root.Religion.GetRandomEvilGodNameCap]の元にあるのかどちらなのかはわからないが、この国にあるものとして自分は[target_dead_ruler.GetTitledName]をどう称えるべきか考えねばならない。[target_wonder.GetName]のおかげで、自分には死せる[target_dead_ruler.GetTitledName]を適切に称える設備があるのだ。;;;;;;;;;;;;x
+EVTDESC_LT_20510_christian;偉大なる[target_dead_ruler.GetTitledName]が亡くなった。[Root.Religion.GetHighGodNameCap]と聖人達の身許にあるのか、[Root.Religion.GetRandomEvilGodNameCap]共が支配する地獄にあるのかどちらなのかはわからないが、この国にあるものとして自分は[target_dead_ruler.GetTitledName]をどう称えるべきか考えねばならない。[target_dead_ruler.GetTitledName]の遺体は[target_wonder.GetName]にて眠りにつくべきではないだろうか。;;;;;;;;;;;;x
+EVTDESC_LT_20510_muslim;偉大なる[target_dead_ruler.GetTitledName]が亡くなった。天国で天女に饗されているのか、地獄で[Root.Religion.GetRandomEvilGodNameCap]共に苦しめられているのかどちらなのかはわからないが、この国にあるものとして自分は[target_dead_ruler.GetTitledName]をどう称えるべきか考えねばならない。[target_dead_ruler.GetTitledName]の遺体は[target_wonder.GetName]にて眠りにつくべきではないだろうか。;;;;;;;;;;;;x
+EVTDESC_LT_20510_jewish;偉大なる[target_dead_ruler.GetTitledName]が亡くなった。後は世界の終末を待つだけとは言え、この国にあるものとして自分は[target_dead_ruler.GetTitledName]をどう称えるべきか考えねばならない。[target_dead_ruler.GetTitledName]の遺体は[target_wonder.GetName]にて眠りにつくべきではないだろうか。;;;;;;;;;;;;x
+EVTDESC_LT_20510_indian;偉大なる[target_dead_ruler.GetTitledName]が亡くなった。その我は間もなく輪廻転生するであろうが、この国にあるものとして自分は[target_dead_ruler.GetTitledName]をどう称えるべきか考えねばならない。[target_wonder.GetName]のおかげで、自分には死せる[target_dead_ruler.GetTitledName]を適切に称える設備があるのだ。;;;;;;;;;;;;x
+EVTOPTA_LT_20510;記録に残る葬式を催そう！;;;;;;;;;;;;x
+EVTOPTA_LT_20510_TT;皆を招き、§Y[target_dead_ruler.GetTitledName]§!に敬意を評して壮大な式典を開きます。;;;;;;;;;;;;x
+EVTOPTB_LT_20510;自分が死者に敬意を払うことを皆思い知るであろう！;;;;;;;;;;;;x
+EVTOPTB_LT_20510_TT;強大な封臣を招いて慣習通りの葬式を開きます。;;;;;;;;;;;;x
+EVTOPTC_LT_20510;[target_dead_ruler.GetHerHim]を称えて密葬を開こう。;;;;;;;;;;;;x
+EVTOPTD_LT_20510;[target_dead_ruler.GetFirstNameWithNick]は適切な埋葬を行うに値しない！;;;;;;;;;;;;x
+EVTOPTD_LT_20510_TT;§Y[target_dead_ruler.GetBestName]§!に好感を抱いていた者はこちらに怒りを覚えます。逆に憎んでいた者は喜びます。;;;;;;;;;;;;x
+EVTDESC_LT_20520_pagan;[target_dead_ruler.GetTitledName]と神々を称えて大宴会が開かれた。これより[target_dead_ruler.GetHerHisCap]の遺体は[target_wonder.GetName]に安置される。自分が[target_dead_ruler.GetHerHim]をどれほど称えたか、皆の記憶に残ることであろう。;;;;;;;;;;;;x
+EVTDESC_LT_20520_monoteist;[target_dead_ruler.GetTitledName]への称賛に満ちた記憶に残る葬式と葬列だった。これより[target_dead_ruler.GetHerHisCap]の遺体は[target_wonder.GetName]に安置される。自分が[target_dead_ruler.GetHerHim]をどれほど称えたか、皆の記憶に残ることであろう。;;;;;;;;;;;;x
+EVTDESC_LT_20520_indian;[target_dead_ruler.GetTitledName]への称賛に満ちた記憶に残る葬式と葬列だった。自分が[target_dead_ruler.GetHerHim]をどれほど称えたか、皆の記憶に残ることであろう。;;;;;;;;;;;;x
+EVTOPTA_LT_20520_polyteist;神々を讃えよ！;;;;;;;;;;;;x
+EVTOPTA_LT_20520_monoteist;神を讃えよ！;;;;;;;;;;;;x
+EVTOPTA_LT_20520_muslim;アッラーを讃えよ！;;;;;;;;;;;;x
+EVTOPTA_LT_20520_TT;§Y[target_dead_ruler.GetBestName]§!に好感を抱いていた者の自分への評価を向上させます。[Root.GetBigBurialHaterSentence];;;;;;;;;;;;x
+big_burial_hater_Sentence;[target_dead_ruler.GetHerHim]を憎んでいた者は喜ばないでしょう。;;;;;;;;;;;;x
+must_be_storing_a_relic_TT;遺物が保管されているに違いない。;;;;;;;;;;;;x
+store_relic_in_wonder;遺物を保管;;;;;;;;;;;;x
+store_relic_in_wonder_desc;所有する文化遺産の内のどれかに§Y遺物§!を保管することが出来ます。;;;;;;;;;;;;x
+store_relic_TT;§Y[target_artifact_1.GetName]§!のような遺物を§Y[target_wonder.GetName]§!の§Y[target_upgrade.GetName]§!に保管しておくことが出来ます。;;;;;;;;;;;;x
+any_artifact_relic_TT;自分が聖遺物を所持している;;;;;;;;;;;;x
+EVTDESC_LT_20601_one_artifact;素晴らしい[target_artifact_1.GetName]を自分の手元に置いておくべきかどうか何時間も考えた。その様な宝物にふさわしい場所は間違いなく§Y[target_wonder.GetName]§!の§Y[target_upgrade.GetName]§!だろう。;;;;;;;;;;;;x
+EVTDESC_LT_20601_two_artifacts;素晴らしい[target_artifact_1.GetName]と聖なる[target_artifact_2.GetName]を自分の手元に置いておくべきかどうか何時間も考えた。§Y[target_wonder.GetName]§!の§Y[target_upgrade.GetName]§!こそそのどちらかを置いておく場所にふさわしいだろう。;;;;;;;;;;;;x
+EVTDESC_LT_20601_more_artifacts;[target_artifact_1.GetName]や[target_artifact_2.GetName]、[target_artifact_3.GetName]の様な聖遺物をコレクションしていることは驚くべきことであり、世界の羨望の的となっている。§Y[target_wonder.GetName]§!の§Y[target_upgrade.GetName]§!こそその内のどれかを置いておく場所にふさわしいだろう。;;;;;;;;;;;;x
+EVTOPTA_LT_20601;[target_artifact_1.GetName]を[target_upgrade.GetName]に保管しておこう;;;;;;;;;;;;x
+EVTOPTA_LT_20601_TT;§Y[This.GetName]§!は§Y[target_upgrade.GetName]§!に永久に保管されます。もう戻すことは出来ません。;;;;;;;;;;;;x
+EVTOPTB_LT_20601;[target_artifact_2.GetName]を[target_upgrade.GetName]に保管しておこう;;;;;;;;;;;;x
+EVTOPTC_LT_20601;[target_artifact_3.GetName]を[target_upgrade.GetName]に保管しておこう;;;;;;;;;;;;x
+EVTOPTD_LT_20601;[target_artifact_4.GetName]を[target_upgrade.GetName]に保管しておこう;;;;;;;;;;;;x
+EVTOPTE_LT_20601;いいや、あんまり良い考えともおもえない。;;;;;;;;;;;;x
+EVTDESC_LT_20610;突然何も見えなくなり、頭の中に力強い声が響いた「何をしているのだ？」そして雷に打たれたかのような痛みを感じ、感覚が薄らいでいった。最後に心をよぎったのは…;;;;;;;;;;;;x
+EVTOPTA_LT_20610;自分の後継者が同じ間違いを冒さないことを願おう。;;;;;;;;;;;;x
+holdings_walls_upgrade_custom_modifier_tt;この州の全ての城壁が最大レベルまでアップグレードされます。;;;;;;;;;;;;x
+better_chance_of_defender_siege_events_custom_modifier_tt;防御側が攻城戦で抵抗を行う可能性が上昇します。;;;;;;;;;;;;x
+EVT_TITLE_LT_20700;[target_upgrade.GetName]が完成した！;;;;;;;;;;;;x
+EVTDESC_LT_20700;我が[target_wonder.GetName]の[target_upgrade.GetName]の最後の防御設備が遂に完成した。[target_province.GetName]州の街はどんな小さな街までこの偉大なる防御設備に守られることとなる！;;;;;;;;;;;;x
+EVTOPTA_LT_20700;防御が固くなるのはどんなときでも歓迎すべきことだ。;;;;;;;;;;;;x
+EVTOPTA_LT_20700_TT;[target_province.GetName]の全城壁が最大レベルまでアップグレードされます。;;;;;;;;;;;;x
+EVTDESC_LT_20805;廷臣[target_courtier.GetBestName]がやってきて、[target_wonder.GetWonderTypeShort]の略奪で得た[looted_artifact.GetName]をお贈りしたいと申し出てきた。;;;;;;;;;;;;x
+EVTOPTA_LT_20805;ありがとう。喜んでこの提案を受け入れよう。;;;;;;;;;;;;x
+EVTOPTB_LT_20805;ありがとう。だがそれは君が持っていてくれていい。;;;;;;;;;;;;x
+EVTDESC_LT_20810;兵士たちによって[From.GetUnfinished]の[From.GetName]の略奪が始まると、[FromFrom.GetName]の住民の多くが自分たちの文化遺産を破壊するとはどういうことかと怒り出した。;;;;;;;;;;;;x
+EVTDESC_LT_20810_cheap;兵士たちが[From.GetUnfinished]の[From.GetName]を破壊し始めたのを見た人々が怒り始めた、社会不安を避けるために何か手を打たねば。;;;;;;;;;;;;x
+EVTOPTA_LT_20810;誰も邪魔できないよう衛兵を置こう。;;;;;;;;;;;;x
+EVTOPTB_LT_20810;[From.GetWonderTypeShort]を皆に開き、利益を分け合おう。;;;;;;;;;;;;x
+EVT_TITLE_LT_20820;文化遺産が略奪された;;;;;;;;;;;;x
+EVTDESC_LT_20820_the_end;§Y[From.GetName]§!はもはや瓦礫と化した。過去の栄光は永遠に失われ、その略奪でゴールド[global_loot.GetValue]を得た。;;;;;;;;;;;;x
+EVTDESC_LT_20820;§Y[From.GetName]§!の略奪でゴールド[global_loot.GetValue]を得ました。そしてまだ略奪できるものはあります！;;;;;;;;;;;;x
+looted_wonder_artifact_bells_rename;[target_wonder.GetName]の鐘;;;;;;;;;;;;x
+looted_wonder_artifact_bells_desc;この鐘は[target_wonder.GetName]の略奪の際に持ち帰られました。;;;;;;;;;;;;x
+less_likely_to_be_looted_modifier_tt;§Y宝物§!が盗まれ辛くなります;;;;;;;;;;;;x
+String_Old;古き;;;;;;;;;;;;x
+String_Great_Work;文化遺産;;;;;;;;;;;;x
+String_castle;城;;;;;;;;;;;;x
+String_keep;砦;;;;;;;;;;;;x
+String_stone_formation;列石;;;;;;;;;;;;x
+String_Lighthouse;灯台;;;;;;;;;;;;x
+String_hot_spot_for_gossip;陰謀と噂が渦巻く場所で有り続けてきた;;;;;;;;;;;;x
+String_house_of_envy;嫉妬と称賛を一身に受けてきた;;;;;;;;;;;;x
+String_safe_haven_for_lost_souls;死せる魂にとっての安全な天国で有り続けてきた;;;;;;;;;;;;x
+String_a_place_of_comfort_for_believers;[Root.Religion.GetName]信者皆にとって快適な場所で有り続けてきた;;;;;;;;;;;;x
+String_lent_its_protection;必要な時に人々に防備を提供してきた;;;;;;;;;;;;x
+String_shielded_its_people;人々を敵から守ってきた;;;;;;;;;;;;x
+String_been_impressive_curiosity;物珍しく印象的であり続けてきた;;;;;;;;;;;;x
+String_inspired_wonder;そこに訪れた者を感嘆させてきた;;;;;;;;;;;;x
+String_been_bringing_traffic;この地域に賑わいと観光をもたらしてきた;;;;;;;;;;;;x
+String_been_aiding_maritime_matters;海事に関する助けとなってきた;;;;;;;;;;;;x
+String_been_guiding_ships_to_port;船を港に導いてきた;;;;;;;;;;;;x
+String_tourist_attraction;成功した観光地となっている;;;;;;;;;;;;x
+String_center_of_leisure;貴族が余暇と気晴らしをするお気に入りの場所となってきた;;;;;;;;;;;;x
+String_source_of_veneration;厳粛なる崇敬の源となってきた;;;;;;;;;;;;x
+String_impressive_feat_of_architecture;建築学的偉業で有り続けてきた;;;;;;;;;;;;x
+String_inspired_imagination;そこを訪れた者の想像力を刺激してきた;;;;;;;;;;;;x
+String_said_to_be_the_envy_of_gardeners;[This.GetName]はあらゆる学識ある庭師から羨望の眼差しを受けている;;;;;;;;;;;;x
+String_brings_comfort_to_pet_owners;[This.GetName]は愛するペットを喪った社会の全階層の動物愛好家に安らぎを与える場所となっている;;;;;;;;;;;;x
+String_lends_moral_support;[This.GetName]により士気の向上と周辺地域への監視の目が得られている;;;;;;;;;;;;x
+String_keeps_people_on_their_toes;噂によれば[This.GetName]に人々は用心しているらしい;;;;;;;;;;;;x
+String_improves_accessibility;[This.GetName]によってこの地域の交通は改善された;;;;;;;;;;;;x
+String_contribute_to_heightened_security;[This.GetName]はこの地域の治安改善に一役かっている;;;;;;;;;;;;x
+String_bring_luxury_during_colder_seasons;[This.GetName]によって寒い時期には比類なき贅沢がもたらされた;;;;;;;;;;;;x
+String_acts_as_entertainment;[This.GetName]はこの地域における稀な娯楽の源となっている;;;;;;;;;;;;x
+String_can_be_seen_from_far_away;[This.GetName]は遠くからでも見える;;;;;;;;;;;;x
+String_signals_expected_obedience;その所有者によって据え付けられた[This.GetName]は忠誠たることへの一定の期待感を示している;;;;;;;;;;;;x
+String_rumored_to_be_the_best;[This.GetName]はその領国で一番だと噂されている;;;;;;;;;;;;x
+String_bring_in_cash;[This.GetName]によってこの地域にさらなる財源がもたらされた;;;;;;;;;;;;x
+String_offers_relaxation;[This.GetName]で疲れた旅人が一休みできるようになっている;;;;;;;;;;;;x
+String_inspires_awe;[This.GetName]は厳粛なる畏敬の念を呼び起こしてきた;;;;;;;;;;;;x
+ruins_of_wonder_name;[This.GetName]の廃墟;;;;;;;;;;;;x
+ruined_wonder_type;荒廃した[This.GetWonderTypeShortCap];;;;;;;;;;;;x
+destroyed_wonder_type;破壊された[This.GetWonderTypeShortCap];;;;;;;;;;;;x
+ruined_wonder_desc_1;この建造物は略奪によって重大な被害を受けており、修復するには労働者が必要となるでしょう。;;;;;;;;;;;;x
+ruined_wonder_desc_2;この建造物は何かしら価値のあるものは全て略奪されてほぼ完全に破壊されており、今は嘗ての栄光の残骸でしかありません。;;;;;;;;;;;;x
+upgrade_tavern;酒場;;;;;;;;;;;;x
+upgrade_tavern_desc;陽気な会話、注がれる酒、暖炉の暖かな火―長い仕事の後にくつろぐのにここよりいい場所などありません！;;;;;;;;;;;;x
+tavern_custom_modifier_tt;§Yストレス§!を取り除けるかもしれない;;;;;;;;;;;;x
+EVT_TITLE_LT_60301;夜更けの酒場;;;;;;;;;;;;x
+EVTDESC_LT_60301;温かい光と活気ある会話の声が[target_wonder.GetName]にほど近い[drinking_buddy.GetTitledName]酒場から漏れ聞こえてくる。通り過ぎようとすると声がした。\n\nなにかホッとするもの一杯どうですか？;;;;;;;;;;;;x
+EVTOPTA_LT_60301;案内してくれ！;;;;;;;;;;;;x
+EVTOPTA_LT_60301_TT;これによってなにか起こるかもしれません;;;;;;;;;;;;x
+EVTOPTB_LT_60301;すまん、自分たちの話を続ける方に興味があるんだ。;;;;;;;;;;;;x
+EVT_TITLE_LT_60302;もう一杯！;;;;;;;;;;;;x
+EVTDESC_LT_60302;[target_wonder.GetName]の近くの酒場に行かずにはいられない体になってしまった。気付くといつも長い仕事の後[Root.GetAlcohol]をジョッキいっぱい飲んでさっぱりしたいと考えているのだ。;;;;;;;;;;;;x
+EVTOPTA_LT_60302;もう一杯頼む！;;;;;;;;;;;;x
+EVTDESC68031_RETINUE;[target_wonder.GetName]に駐屯する衛兵たちは§Y[Root.GetName]§!を荒らす強盗団を一網打尽にして処刑するのに役に立ちました。;;;;;;;;;;;;x
+EVTDESC68031_TEMPLE_GUARDS;[target_wonder.GetName]に駐屯する寺院衛兵たちは§Y[Root.GetName]§!を荒らす強盗団を一網打尽にして処刑するのに役に立ちました。;;;;;;;;;;;;x
+EVTDESC68031_FALLBACK;[target_wonder.GetName]と自分の優れた軍事能力のおかげで§Y[Root.GetName]§!を荒らしていた強盗団は一網打尽になった！;;;;;;;;;;;;x
+EVTDESC68021_RETINUE;[target_wonder.GetName]に駐留する従士隊と自分の優れた外交能力のおかげで§Y[Root.GetName]§!の密輸組織は壊滅した。密輸組織の最後の長は獄門台に晒されている。;;;;;;;;;;;;x
+EVTDESC68021_TEMPLE_GUARDS;[target_wonder.GetName]の衛兵隊と自分の優れた外交能力のおかげで§Y[Root.GetName]§!の密輸組織は壊滅した。密輸組織の最後の長は獄門台に晒されている。;;;;;;;;;;;;x
+EVTDESC68021_FALLBACK;[target_wonder.GetName]と自分の優れた外交能力のおかげで§Y[Root.GetName]§!の密輸組織は壊滅した。密輸組織の最後の長は獄門台に晒されている。;;;;;;;;;;;;x
+EVTDESC_LT_60201_1;[target_wonder.GetName]にある噴水の側に膝をつき、杯を水へ下ろしていく。勢いよく飲み下していくと全身がぴりつくような感覚が広がり、もう何年も感じていなかった気力と活力で満たされました！;;;;;;;;;;;;x
+DEATH_ACCIDENT_TRAPS;罠にかかって死んだ;;;;;;;;;;;;x
+traps_custom_modifier_tt;[FromFrom.GetName]に忍び込もうとした者の命を奪うかもしれません;;;;;;;;;;;;x
+EVT_TITLE_LT_60401;Deadly Traps;;;;;;;;;;;;x
+EVTDESC_LT_60401;[target_wonder.GetName]の深くを探索していると、[target_courtier.GetTitledName]と[target_courtier_2.GetTitledName]がこの建造物の中に点在する危険な罠の一つにに掛かってしまった。発見された二人は殆ど原型を留めない惨状となっていた…;;;;;;;;;;;;x
+EVTOPTA_LT_60401;クソッタレの[old_owner.GetFirstName]め！;;;;;;;;;;;;x
+EVTDESC_LT_60402;[target_wonder.GetName]の深みに自分が設置した罠に[target_courtier.GetTitledName]と[target_courtier_2.GetTitledName]が掛かったとの知らせが届いた。どうやら殆ど原型を留めない惨状だったそうだ。;;;;;;;;;;;;x
+EVTOPTA_LT_60402;ハ！望むところだ！;;;;;;;;;;;;x
+upgrade_guardian_of_the_deep;深淵の守人;;;;;;;;;;;;x
+upgrade_guardian_of_the_deep_desc;用心深く下を眺める深淵の守人は深淵の石の様に不動で永遠の存在です。;;;;;;;;;;;;x
+deep_guardian_custom_modifier_tt;§Y深淵の守人§!の下級称号を開放します;;;;;;;;;;;;x
+title_guardian_of_the_deep;深淵の守人;;;;;;;;;;;;x
+title_guardian_of_the_deep_desc;この名誉称号は際立った用心深さと不動さを示した者に与えられます。;;;;;;;;;;;;x
+upgrade_watcher_of_giants;巨人の番人;;;;;;;;;;;;x
+upgrade_watcher_of_giants_desc;巨人の番人はこの地域の巨大な像に関する責任を負います。;;;;;;;;;;;;x
+watcher_of_giants_custom_modifier_tt;§Y巨人の番人§!の下級称号を開放します;;;;;;;;;;;;x
+title_watcher_of_giants;巨人の番人;;;;;;;;;;;;x
+title_watcher_of_giants_desc;この名誉称号は際立った用心深さと観察力を示した者に与えられ、巨像の修理と維持の最終的責任を負います。;;;;;;;;;;;;x
+upgrade_wall_walker;大城壁の歩哨;;;;;;;;;;;;x
+upgrade_wall_walker_desc;常に城壁の上にある大城壁の歩哨は城壁の内外のことを知る数少ない人物です。;;;;;;;;;;;;x
+wall_walker_custom_modifier_tt;§Y大城壁の歩哨§!の下級称号を開放します;;;;;;;;;;;;x
+title_wall_walker;大城壁の歩哨;;;;;;;;;;;;x
+title_wall_walker_desc;この名誉は勤勉さを示し、一日の大半を城壁の上を歩いてその点検と維持に当たれるような者に与えられます。;;;;;;;;;;;;x
+upgrade_master_of_tides;海の長官;;;;;;;;;;;;x
+upgrade_master_of_tides_desc;海事の全てに関する最終的責任を負います―港にいる全ての生き物が海の長官に答えるでしょう。;;;;;;;;;;;;x
+master_of_tides_custom_modifier_tt;§Y海の長官§!の下級称号を開放します;;;;;;;;;;;;x
+title_master_of_tides;海の長官;;;;;;;;;;;;x
+title_master_of_tides_desc;この名誉は海事の全てに関して大いなる才能を示した者に与えられ、§Y港§!に関する総体的責任がその双肩に掛かっています。;;;;;;;;;;;;x
+upgrade_master_of_the_games;試合長官;;;;;;;;;;;;x
+upgrade_master_of_the_games_desc;試合長官が響き渡る大声を上げれば喝采を引き出すも涙を引き出すも自由自在です。§Y円形競技場§!全てが自らの舞台であり、同時に責任を担うべきところでもあります。;;;;;;;;;;;;x
+game_master_custom_modifier_tt;§Y試合長官§!の下級称号を開放します;;;;;;;;;;;;x
+title_master_of_games;試合長官;;;;;;;;;;;;x
+title_master_of_games_desc;この名誉は強い個性と存在感を持ち、観客を自らの意のままに操れる者に授与されます。;;;;;;;;;;;;x
+upgrade_royal_custodian;王宮管理人;;;;;;;;;;;;x
+upgrade_royal_custodian_desc;鋼の神経と鉄の意志を以て管理人は§Y王宮§!の維持と発展にあたります。;;;;;;;;;;;;x
+royal_custodian_custom_modifier_tt;§Y王宮管理人§!の下級称号を開放します;;;;;;;;;;;;x
+title_royal_custodian;王宮管理人;;;;;;;;;;;;x
+title_royal_custodian_desc;この名誉称号は信頼に足る者に与えられ、§Y王宮§!の修理と維持に責任を持ちます。;;;;;;;;;;;;x
+upgrade_guardian_of_knowledge;知識の守人;;;;;;;;;;;;x
+upgrade_guardian_of_knowledge_desc;§Y大学§!内の全てのことに責任を持つこの称号は重々しく責任あるものです。;;;;;;;;;;;;x
+guardian_of_knowledge_custom_modifier_tt;§Y知識の守人§!の下級称号を開放します;;;;;;;;;;;;x
+title_guardian_of_knowledge;知識の守人;;;;;;;;;;;;x
+title_guardian_of_knowledge_desc;この栄誉は知恵と勇敢さを示した者に与えられます。;;;;;;;;;;;;x
+upgrade_keeper_of_tomes;書物の番人;;;;;;;;;;;;x
+upgrade_keeper_of_tomes_desc;埃を被った古い台帳から新たに刷られた本に至るまで、全ての書物にはそれを管理する人が必要です。;;;;;;;;;;;;x
+keeper_of_tomes_custom_modifier_tt;§Y書物の番人§!の下級称号を開放します;;;;;;;;;;;;x
+title_keeper_of_tomes;書物の番人;;;;;;;;;;;;x
+title_keeper_of_tomes_desc;この名誉は学識とそれに関連する能力に関して大いなる才能を示した者に与えられます。;;;;;;;;;;;;x
+upgrade_keeper_of_the_dead;死者の番人;;;;;;;;;;;;x
+upgrade_keeper_of_the_dead_desc;霊廟の死者の永遠の眠りに関する責任を担うこととなるのが死者の守人です。;;;;;;;;;;;;x
+kepper_of_dead_custom_modifier_tt;§Y死者の番人§!の下級称号を開放します;;;;;;;;;;;;x
+title_keeper_of_the_dead;死者の番人;;;;;;;;;;;;x
+title_keeper_of_the_dead_desc;死者の番人は§Y霊廟§!に安置された全員の終の眠りの責任を担います。;;;;;;;;;;;;x
+upgrade_overseer_of_rites;典礼の監督;;;;;;;;;;;;x
+upgrade_overseer_of_rites_desc;ピラミッド内で行われる全ての儀式に関する最終権限を与えられた典礼の監督は権限と責任をその両肩に担います。;;;;;;;;;;;;x
+overseer_of_rites_custom_modifier_tt;§Y典礼の監督§!の下級称号を開放します;;;;;;;;;;;;x
+title_overseer_of_rites;典礼の監督;;;;;;;;;;;;x
+title_overseer_of_rites_desc;典礼の監督は§Yピラミッド§!に関連する全ての典礼と儀式に責任を持ちます;;;;;;;;;;;;x
+upgrade_custodian_of_the_mosque;大モスクの管理人;;;;;;;;;;;;x
+upgrade_custodian_of_the_mosque_desc;大モスクの管理人は毎日の勤行と儀式のすべての権限を持つ者とみなされます;;;;;;;;;;;;x
+custodian_of_mosque_custom_modifier_tt;§Y大モスクの管理人§!の下級称号を開放します;;;;;;;;;;;;x
+title_custodian_of_the_mosque;大モスクの管理人;;;;;;;;;;;;x
+title_custodian_of_the_mosque_desc;この名誉は[Root.Religion.GetHighGodNameCap]に際立った勤行を示した者に与えられます。;;;;;;;;;;;;x
+upgrade_custodian_of_temple;大寺院の管理人;;;;;;;;;;;;x
+upgrade_custodian_of_temple_desc;大寺院の管理人は毎日の勤行と儀式のすべての責任者とみなされます;;;;;;;;;;;;x
+custodian_of_temple_custom_modifier_tt;§Y大寺院の管理人§!の下級称号を開放します;;;;;;;;;;;;x
+title_custodian_of_the_temple;大寺院の管理人;;;;;;;;;;;;x
+title_custodian_of_the_temple_desc;この名誉は[Root.Religion.GetHighGodNameCap]に際立った勤行を示した者に与えられます。;;;;;;;;;;;;x
+EVTDESC_LT_60501;[target_vassal.GetTitledName]よ、[target_wonder.GetName]を任せられた君の手腕に称賛と満足の意を示したい！\n\n敬具\n[target_liege.GetBestName];;;;;;;;;;;;x
+EVTOPTA_LT_60501;全ては貴方の導きあってのことでございます。主殿よ。;;;;;;;;;;;;x
+EVTOPTB_LT_60501;いやあよくやったでしょう？;;;;;;;;;;;;x
+EVTDESC_LT_60502;主殿よ、[target_wonder.GetName]はこの地域に繁栄と名声をもたらしております。その様な壮大な建造物を我が州に託してくださったことに感謝申し上げます。\n\n敬具\n[target_vassal.GetBestName];;;;;;;;;;;;x
+EVTOPTA_LT_60502;こちらこそ！;;;;;;;;;;;;x
+EVT_TITLE_LT_60601;崩れ行く遺産;;;;;;;;;;;;x
+EVTDESC_LT_60601;[target_wonder.GetName]から石の欠片が落ちてきて危うく見物人の頭に当たるところだった！この壮大な建造物の少なくとも一部が早急な補修を必要としているようだ。;;;;;;;;;;;;x
+EVTOPTA_LT_60601;すぐに修繕を開始せねば！;;;;;;;;;;;;x
+EVTOPTB_LT_60601;ふむ、この欠片はそれなりの値段で売れるんじゃないかね…;;;;;;;;;;;;x
+title_castellan;城代;;;;;;;;;;;;x
+title_castellan_desc;この名誉は主から高い評価を得ている封臣に与えられます。城代は要塞の日々の継続的な維持に責任を持ちます。;;;;;;;;;;;;x
+castellan_custom_modifier_tt;§Y城代§!の下級称号を開放します;;;;;;;;;;;;x
+CHAR_COURTIER_FEMALE;女;;;;;;;;;;;;x
+CHAR_COURTIER_MALE;男;;;;;;;;;;;;x
+diligent_opinion;勤勉の評価;;;;;;;;;;;;x
+scholar_opinion;学者の評価;;;;;;;;;;;;x
+religious_spread_custom_modifier_tt;§Y[Root.job_spiritual.GetJobTitle]§!が§Y諸郡§!を改宗する速度が早まります;;;;;;;;;;;;x
+culture_convertion_custom_modifier_tt;§G郡§!の自分の§G文化への同化§!速度を早めます;;;;;;;;;;;;x
+herb_event_modifier_tt;定期的に§Y薬草§!を得られます;;;;;;;;;;;;x
+EVT_TITLE_LT_60701;[target_province.GetName]の薬草;;;;;;;;;;;;x
+EVTDESC_LT_60701;[target_wonder.GetName]の緑に分け入るとガサガサという音が心地よい。報告によれば庭に地元の薬草が入り込んだらしいが、人里離れた草原というのもこの脱線のまた一つ別の目的になるだろう。;;;;;;;;;;;;x
+EVTOPTA_LT_60701;薬草を取ろう。;;;;;;;;;;;;x
+EVTOPTB_LT_60701;のんびりうたた寝こそまさに欲していたものだ！;;;;;;;;;;;;x
+wonder_temple_buddhist_desc;寺院とは神聖な建物であり、勤行と自省の場です。;;;;;;;;;;;;x
+upgrade_symbolic_stupa_desc;仏教の教理の様々な要素を具現化した建物です。;;;;;;;;;;;;x
+upgrade_votive_stupa_desc;Built to gain spiritual benefits, or to commemorate visits.;;;;;;;;;;;;x
+hidden_passageways_modifier_tt;戦闘の後で捕虜になる確率を下げます;;;;;;;;;;;;x
+NUDGE_5;文化遺産;;;;;;;;;;;;x
+NUDGE_6;水没した文化遺産;;;;;;;;;;;;x
+WONDER_REALM_PAUSED_SETUP;文化遺産の建築が中断;;;;;;;;;;;;x
+WONDER_REALM_PAUSED_LOG;$OWNER|Y$の領国にある全ての文化遺産の建築が中断されました;;;;;;;;;;;;x
+WONDER_STAGE_FINISHED_SETUP;文化遺産の段階の建設完了;;;;;;;;;;;;x
+WONDER_STAGE_FINISHED_LOG;$WONDER|Y$が第$STAGE|Y$段階の建設を完了した;;;;;;;;;;;;x
+WONDER_UPGRADE_FINISHED_SETUP;文化遺産の特徴の建設完了;;;;;;;;;;;;x
+WONDER_UPGRADE_FINISHED_LOG;$WONDER|Y$が特徴$UPGRADE|Y$の建設を完了した;;;;;;;;;;;;x
+WONDERS_INTERFACE_LABEL;§Y文化遺産§!;;;;;;;;;;;;x
+WONDER_STAGE_MODIFIER_SOURCE;$WONDER$第$STAGE$段階;;;;;;;;;;;;x
+WONDER_STACKING_PENALTY;既に文化遺産を所有：$PERCENTAGE|%-$;;;;;;;;;;;;x
+WONDER_STACKING_PENALTY_SAME_TYPE;同種ペナルティ：$PERCENTAGE|%-$;;;;;;;;;;;;x
+PREFIX_TITLED_NICK_W_NAME;$TITLE$「$NICK$」$NAME$;;;;;;;;;;;;x
+NICK_W_NAME_NO_TITLE;「$NICK$」$NAME$;;;;;;;;;;;;x
+NAME_W_NICK_NO_TITLE;「$NICK$」$NAME$;;;;;;;;;;;;x
+OPEN_WONDER_HISTORY;§Y遺産の歴史を開く§!;;;;;;;;;;;;x
+OPEN_WONDER_HISTORY_DELAYED;キャンペーン開始時から遺産に何が起こったか表示します。;;;;;;;;;;;;x
+WONDER_HISTORY_RENAME;§G$OLD_NAME$§!は§G$NEW_NAME$§!に改名されました;;;;;;;;;;;;x
+WONDER_STAGE_PROGRESS_NO_CONSTRUCTION_TT;建設中のものなし;;;;;;;;;;;;x
+EVTDESC_MNM_3409;自分の [secret_religion_inductee.GetChamber]に引っこもうとした。そしたらだ、驚くことに、寝床で、[secret_religion_inductor.TrueReligion.GetName] 信仰における聖典[secret_religion_inductor.SecretReligion.GetScriptureName] の写しを見つける羽目にあった！誰ぞ、焚きつけようとでもしてるのかと考えた。が、見開き左上の書付に気づいた。'これが興味深いことに気づいてくれるだろう。願わくば、チャンスを。親愛なる君、その友人より';;;;;;;;;;;;x
+WONDER_TYPE_NAME;$NAME$;;;;;;;;;;;;x
+WONDER_TYPE_DESC;$DESC$;;;;;;;;;;;;x
+WONDER_STAGE_TIME_COST_TT;建設期間;;;;;;;;;;;;x
+WONDER_UPGRADE_TIME_COST_AVAILABLE_TT;建設期間;;;;;;;;;;;;x
+WONDER_UPGRADE_TIME_COST_AVAILABLE_TT_DELAYED;この特徴を建設するには$TIME|Y$かかります。今建設を開始した場合、完了するのは$ESTIMATED_FINISH_DATE|Y$になると推測されます。;;;;;;;;;;;;x
+WONDER_STAGE_TIME_COST_TT_DELAYED;この文化遺産の最初の段階を建設するには$TIME|Y$かかります。今建設を開始した場合、完了するのは$ESTIMATED_FINISH_DATE|Y$になると推測されます。;;;;;;;;;;;;x
+WONDER_UPGRADE_TICKING_COST_TT;毎月の費用;;;;;;;;;;;;x
+WONDER_STAGE_TICKING_COST_TT;毎月の費用;;;;;;;;;;;;x
+WONDER_STAGE_TICKING_COST_TT_DELAYED;$TIME_TO_BUILD|Y$に渡って毎月$TICKING_COST|R$¤、総計$ESTIMATED_TOTAL|R$¤の建設費用がかかると推測されます。;;;;;;;;;;;;x
+WONDER_STAGE_FLAT_COST_TT;初期費用;;;;;;;;;;;;x
+WONDER_STAGE_FLAT_COST_TT_DELAYED;建設開始時から$OWNER|Y$より$FLAT_COST|R$¤が差し引かれます。;;;;;;;;;;;;x
+NEUTRAL_MODIFIER_TT;この州に主要な補正の影響はありません。;;;;;;;;;;;;x
+CLICK_CENTER_CAMERA;§G右クリックでこの州にカメラを移動§!;;;;;;;;;;;;x
+WONDER_STAGE_CONSTRUCT_TT;文化遺産を建てる;;;;;;;;;;;;x
+WONDER_STAGE_CONSTRUCT_TT_DELAYED;文化遺産の建設には$FLAT_COST|R$¤が掛かり、建設中には毎月$TICKING_COST|R$¤が掛かります。建設には$TIME_TO_BUILD|Y$の時間が掛かります。\n$ALLOW_TRIGGER$;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_IMAGE_TTDELAYED;第$STAGE_NUMBER$段階\n特徴枠：§Y$STAGE_UPGRADE_COUNT$§! / §Y$UPGRADE_COUNT_MAX$§!\n\n補正：\n$MODIFIERS$;;;;;;;;;;;;x
+WONDER_STAGE_NEXT_BUILD_DISABLED_TT_DELAYED;$MODIFIER_TEXT$$ACTIVE_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_RESUME_DISABLED_TT_DELAYED;§R破産状態にあるときは建設を再開できません§!;;;;;;;;;;;;x
+WONDER_ACTIVE;§Y[FromFrom.GetName]§!が有効;;;;;;;;;;;;x
+RULE_WONDERS;文化遺産;;;;;;;;;;;;x
+RULE_WONDERS_ON;領主は文化遺産を建築することが出来ます。;;;;;;;;;;;;x
+RULE_WONDERS_OFF;領主は文化遺産を建築することが出来ます。;;;;;;;;;;;;x
+RULE_WONDERS_HISTORICAL;史実の文化遺産;;;;;;;;;;;;x
+RULE_OPTION_HISTORICAL_RESTRICTIVE;史実に制限;;;;;;;;;;;;x
+RULE_WONDERS_HISTORICAL_RESTRICTIVE;史実での文化遺産は存在しますが、それをいかなる意味においても変更することはできなくなります。;;;;;;;;;;;;x
+WONDER_NOT_DAMAGED;§Y[FromFrom.GetName]§!が被害を受けていない;;;;;;;;;;;;x
+WONDER_ALREADY_LOOTING;§Y[FromFrom.GetWonderTypeShort]§!は既に略奪されている;;;;;;;;;;;;x
+WONDER_ALREADY_RESTORING;§Y[FromFrom.GetWonderTypeShort]§!は既に修復されている;;;;;;;;;;;;x
+CHARACTER_NOT_PARTICIPATED_IN_WONDER_CONSTRUCTION;§Y$CHARACTER$§!が§Y[FromFrom.GetName]§!の建設に参加;;;;;;;;;;;;x
+CHARACTER_OWNS_WONDER;§Y$CHARACTER$§!は§Y[FromFrom.GetName]§!の所有者;;;;;;;;;;;;x
+LOOT;略奪;;;;;;;;;;;;x
+WONDER_LOOT_DELAYED_TT;§Y[FromFrom.GetWonderTypeShort]§!の略奪を開始します\nこれによって宝物を得ることができますが、§Y[FromFrom.GetWonderTypeShort]§!は被害を受け、修復されるまで使用不可能になります。;;;;;;;;;;;;x
+STOP_LOOT;略奪を停止;;;;;;;;;;;;x
+WONDER_STOP_LOOT_DELAYED_TT;略奪を停止し、§Y[FromFrom.GetWonderTypeShort]§!へのこれ以上の被害は防がれます。;;;;;;;;;;;;x
+RESTORE;修復;;;;;;;;;;;;x
+STOP_RESTORE;修復を停止;;;;;;;;;;;;x
+WONDER_RESTORE_DELAYED_TT;嘗ての栄光を取り戻すべく、§Y[FromFrom.GetWonderTypeShort]§!の修復を開始します。\n修復には初期費用として§R$FLAT_COST$§!¤、そして完成するまでに毎月$TICKING_COST|R$¤が必要となります。\n完成までには$TIME_TO_BUILD|Y$かかり、完成した際には§Y[FromFrom.GetWonderTypeShort]§!は第§Y[FromFrom.GetCurrentStageNumber]§!段階となります。;;;;;;;;;;;;x
+WONDER_STOP_RESTORE_DELAYED_TT;§Y[FromFrom.GetWonderTypeShort]§!の全修復作業を放棄します。;;;;;;;;;;;;x
+WONDER_HISTORY_STAGE_LOOTED;第$STAGE_NUMBER$段階が略奪;;;;;;;;;;;;x
+WONDER_HISTORY_RESTORED;嘗ての栄光を取り戻すのだ！;;;;;;;;;;;;x
+WONDER_HISTORY_UPGRADE_DESTROYED;$UPGRADE_NAME$が破壊;;;;;;;;;;;;x
+WONDER_STAGE_LOOT_PROGRESS_TT;第§Y[FromFrom.GetCurrentStageNumber]§!段階が§Y$NUM$%§!略奪;;;;;;;;;;;;x
+WONDER_RESTORE_PROGRESS_TT;被害$NUM$%が修復;;;;;;;;;;;;x
+IS_WONDER_DAMAGED_TRIGGER;被害を受けている;;;;;;;;;;;;x
+NOT_IS_WONDER_DAMAGED_TRIGGER;被害を受けていない;;;;;;;;;;;;x
+IS_WONDER_BEING_LOOTED_TRIGGER;略奪中;;;;;;;;;;;;x
+NOT_IS_WONDER_BEING_LOOTED_TRIGGER;略奪中でない;;;;;;;;;;;;x
+IS_WONDER_BEING_RESTORED_TRIGGER;修復中;;;;;;;;;;;;x
+NOT_IS_WONDER_BEING_RESTORED_TRIGGER;修復中でない;;;;;;;;;;;;x
+WONDER_RESTORE_PAUSE_TT;修復中断;;;;;;;;;;;;x
+WONDER_RESTORE_PAUSE_TT_DELAYED;修復が中断されている間は修復費用が掛かりません。;;;;;;;;;;;;x
+WONDER_STAGE_PAUSE_TT_DELAYED;段階の建設が中断されている間は段階建設費用が掛かりません。;;;;;;;;;;;;x
+WONDER_RESTORE_RESUME_TT;修復を再開;;;;;;;;;;;;x
+WONDER_RESTORE_RESUME_TT_DELAYED_DISABLED;§R破産状態にあるときは修復を再開できません§!;;;;;;;;;;;;x
+HAS_CUSTOM_NAME;Has custom name;;;;;;;;;;;;x
+NOT_HAS_CUSTOM_NAME;Does NOT have custom name;;;;;;;;;;;;x
+HAS_CUSTOM_DESCRIPTION;Has custom description;;;;;;;;;;;;x
+NOT_HAS_CUSTOM_DESCRIPTION;Does NOT have custom description;;;;;;;;;;;;x
+OUTLINER_RESTORING_WONDER;現在§Y[FromFrom.GetWonderTypeShort]§!を修復中;;;;;;;;;;;;x
+WONDER_LOOTING_FINISHED_SETUP;文化遺産が略奪された;;;;;;;;;;;;x
+WONDER_LOOTING_FINISHED_LOG;$WONDER|Y$の第$STAGE|Y$段階の略奪が終わりました;;;;;;;;;;;;x
+WONDER_RESTORATION_FINISHED_SETUP;文化遺産が修復された;;;;;;;;;;;;x
+WONDER_RESTORATION_FINISHED_LOG;$WONDER|Y$の修復が終わり、嘗ての栄光が取り戻された！;;;;;;;;;;;;x
+WONDER_STAGE_GREATER;段階が$STAGE_NUMBER|Y$より大きい;;;;;;;;;;;;x
+NOT_WONDER_STAGE_GREATER;段階が$STAGE_NUMBER|Y$より大きくない;;;;;;;;;;;;x
+CONFIRM_ABORT_WONDER_RESTORATION_TITLE;修復を放棄しますか？;;;;;;;;;;;;x
+CONFIRM_ABORT_WONDER_RESTORATION_CONSTRUCTION_TEXT;Are you sure you want to abort restoration of the §Y[FromFrom.GetWonderTypeShort]§!?\n\nNo gold will be refunded for this action;;;;;;;;;;;;x
+CHAR_IS_INDEPENDENT;§Y[This.GetTitledFirstName]§!が独立している;;;;;;;;;;;;x
+NOT_CHAR_IS_INDEPENDENT;§Y[This.GetTitledFirstName]§!が独立していない;;;;;;;;;;;;x
+CURRENT_WONDER_STAGE_LOOTABLE;現在の段階が略奪可能;;;;;;;;;;;;x
+NOT_CURRENT_WONDER_STAGE_LOOTABLE;現在の段階が略奪可能でない;;;;;;;;;;;;x
+WONDER_IS_AT_MAX_STAGE;文化遺産が最終段階である;;;;;;;;;;;;x
+NOT_WONDER_IS_AT_MAX_STAGE;文化遺産が最終段階でない;;;;;;;;;;;;x
+String_time_immemorial_cap;太古の昔;;;;;;;;;;;;x
+recruit_wonder_guard;儀仗隊を雇用;;;;;;;;;;;;x
+recruit_wonder_guard_desc;文化遺産を防御もなしにしておくべきではありません。これを守る部隊を雇用しましょう。もしかしたら他の事にも役立つかも知れません。;;;;;;;;;;;;x
+String_Great_work;文化遺産;;;;;;;;;;;;x
+String_great_work;文化遺産;;;;;;;;;;;;x
+ANY_WONDER_STARTS;いずれかの文化遺産;;;;;;;;;;;;x
+ANY_OWNED_WONDER_STARTS;直轄領内のいずれかの文化遺産;;;;;;;;;;;;x
+ANY_REALM_WONDER_STARTS;領国内のいずれかの文化遺産;;;;;;;;;;;;x
+ANY_WONDER_UPGRADE_STARTS;いずれかの文化遺産の特徴;;;;;;;;;;;;x
+ANY_OWNED_WONDER_UPGRADE_STARTS;直轄領内のいずれかの文化遺産の特徴;;;;;;;;;;;;x
+ANY_REALM_WONDER_UPGRADE_STARTS;領国内のいずれかの文化遺産の特徴;;;;;;;;;;;;x
+ANY_UPGRADE_ON_WONDER;文化遺産のいずれかの特徴;;;;;;;;;;;;x
+WONDERS_ALL;すべての文化遺産;;;;;;;;;;;;x
+WONDERS_ALL_OWNED;直轄領内のすべての文化遺産;;;;;;;;;;;;x
+WONDERS_ALL_REALM;領国内のすべての文化遺産;;;;;;;;;;;;x
+WONDER_UPGRADES_ALL;すべての文化遺産の特徴;;;;;;;;;;;;x
+WONDER_UPGRADES_ALL_OWNED;直轄領内のすべての文化遺産の特徴;;;;;;;;;;;;x
+WONDER_UPGRADES_ALL_REALM;領国内のすべての文化遺産の特徴;;;;;;;;;;;;x
+WONDERS_ALL_OWNERS;すべての文化遺産の所有者;;;;;;;;;;;;x
+WONDERS_ALL_UPGRADES_ON;文化遺産のすべての特徴;;;;;;;;;;;;x
+WONDER_ALL_PREVIOUS_WONDER_OWNERS;文化遺産を嘗て所有したすべての人々;;;;;;;;;;;;x
+ANY_WONDER_OWNER_STARTS;あらゆる文化遺産の所有者;;;;;;;;;;;;x
+ANY_PREVIOUS_WONDER_OWNER_STARTS;文化遺産を嘗て所有したあらゆるの人々;;;;;;;;;;;;x
+WONDER_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産が建造中;;;;;;;;;;;;x
+WONDER_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産を建造中;;;;;;;;;;;;x
+WONDER_NOT_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!で文化遺産が建造中でない;;;;;;;;;;;;x
+WONDER_NOT_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産を建造中でない;;;;;;;;;;;;x
+WONDER_UPGRADE_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産の特徴が建設中;;;;;;;;;;;;x
+WONDER_UPGRADE_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴を建設中;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BEING_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産の特徴が建設中でない;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BEING_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴を建設中でない;;;;;;;;;;;;x
+WONDER_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産が建造済み;;;;;;;;;;;;x
+WONDER_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産を建造済み;;;;;;;;;;;;x
+WONDER_NOT_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産が建造済みでない;;;;;;;;;;;;x
+WONDER_NOT_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産を建造済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産の特徴が建造済み;;;;;;;;;;;;x
+WONDER_UPGRADE_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴を建造済み;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BUILT_IN_PROVINCE;§Y[This.GetName]§!に文化遺産の特徴が建造済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BUILT_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴を建造済みでない;;;;;;;;;;;;x
+WONDER_NUM_OF_CHARACTER;§Y[This.GetFirstName]§! has $COMPARISON$ $VALUE|Y$ great works;;;;;;;;;;;;x
+WONDER_NUM_IN_PROVINCE;§Y[This.GetName]§! has $COMPARISON$ $VALUE|Y$ great works;;;;;;;;;;;;x
+WONDER_UPGRADE_NUM_OF_CHARACTER;§Y[This.GetFirstName]§! has $COMPARISON$ $VALUE|Y$ great work features;;;;;;;;;;;;x
+WONDER_UPGRADE_NUM_IN_PROVINCE;§Y[This.GetName]§! has $COMPARISON$ $VALUE|Y$ great work features;;;;;;;;;;;;x
+WONDER_UPGRADE_COMPLETE;特徴の建設が完了;;;;;;;;;;;;x
+WONDER_ALREADY_HAS_UPGRADE;文化遺産にまだこの種の特徴がない;;;;;;;;;;;;x
+WONDER_OWNER_CHANGE_SETUP;文化遺産の所有者が変更;;;;;;;;;;;;x
+WONDER_STAGE_ABORT_TT_DELAYED;段階の建設を中止するとこの州からこの文化遺産が§R取り除かれます§!;;;;;;;;;;;;x
+WONDER_UPGRADE_ABORT_TT_DELAYED;特徴の建設を中止するとこの文化遺産からこの特徴が§R取り除かれます§!;;;;;;;;;;;;x
+WONDERS_MODIFIER_STRING;文化遺産;;;;;;;;;;;;x
+WONDER_UPGRADE_IS_NOT;文化遺産の特徴が以下でない;;;;;;;;;;;;x
+WONDER_UPGRADE_IS;文化遺産の特徴が以下である;;;;;;;;;;;;x
+WONDER_UPGRADE_EXISTS;文化遺産の特徴が存在する;;;;;;;;;;;;x
+WONDER_BUILD_COST_MODIFIER;文化遺産の建設費用;;;;;;;;;;;;x
+WONDER_BUILD_TIME_MODIFIER;文化遺産の建設期間;;;;;;;;;;;;x
+WONDER_IS_NOT;文化遺産が以下でない;;;;;;;;;;;;x
+WONDER_IS;文化遺産が以下である;;;;;;;;;;;;x
+WONDER_EXISTS;文化遺産が存在する;;;;;;;;;;;;x
+EXPENSE_WONDER_CONSTRUCTION;文化遺産の建設;;;;;;;;;;;;x
+CONFIRM_ABORT_WONDER_STAGE_CONSTRUCTION_TEXT;本当に§Y[FromFrom.GetWonderTypeShort]§!の建設を中止してもよろしいですか？\n\nこのアクションによってゴールドは帰ってきません;;;;;;;;;;;;x
+CONFIRM_ABORT_WONDER_UPGRADE_CONSTRUCTION_TEXT;本当にこの特徴の建設を中止してもよろしいですか？\n\nこのアクションによってゴールドは帰ってきません;;;;;;;;;;;;x
+WONDER_UPGRADES_TITLE_LABEL;文化遺産の特徴;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_VIEW_TITLE;文化遺産の建設;;;;;;;;;;;;x
+rename_wonder_desc;§Y「[FromFrom.GetName]」§!の名前を自分の好きな名前に変更します。;;;;;;;;;;;;x
+WONDERS_CAP;文化遺産;;;;;;;;;;;;x
+SHOW_CYCLE_WONDERS;この人物が所有する文化遺産を表示します。\nクリックし続けると所有する全ての文化遺産を見ることができます。;;;;;;;;;;;;x
+HAS_NO_WONDERS;この人物は文化遺産を所有していません;;;;;;;;;;;;x
+WONDER_EXTEND_DESC;§Y文化遺産画面を開く§!;;;;;;;;;;;;x
+WONDER_EXTEND_DESC_LONG;この州の文化遺産の状態を表示する画面を開きます;;;;;;;;;;;;x
+WONDER_IMAGE_DESC;[FromFrom.GetDesc]\n\n§G左クリックで文化遺産画面を表示§!;;;;;;;;;;;;x
+CONSTRUCT_WONDER;この州に文化遺産を建設;;;;;;;;;;;;x
+VIEW_BUILDABLE_WONDERS;文化遺産の建設を表示;;;;;;;;;;;;x
+VIEW_BUILDABLE_WONDERS_LONG;この州が自分の支配下にあった時に建てることのできる文化遺産を表示します。;;;;;;;;;;;;x
+NO_BUILDABLE_WONDERS_OWNED;現在この州に文化遺産を建造する資格がない;;;;;;;;;;;;x
+NO_BUILDABLE_WONDERS_NOT_OWNED;現在この州には仮に自分の支配下であっても、いかなる文化遺産も建造できません。;;;;;;;;;;;;x
+WONDER_VIEW_BUTTON_DESC;文化遺産を表示;;;;;;;;;;;;x
+WONDER_VIEW_BUTTON_DESC_LONG;文化遺産画面を表示します。§Y[FromFrom.GetName]§!の詳細を見ることが出来ます。;;;;;;;;;;;;x
+alert_wonder_construction_paused_instant;§Y文化遺産の建設中断§!;;;;;;;;;;;;x
+alert_wonder_construction_paused_delayed;以下の文化遺産の建設が中断中です：\n\n$LIST$;;;;;;;;;;;;x
+alert_wonder_construction_paused_name;中断中の文化遺産の建設;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_STARTED_IN_PROVINCE;§Y[This.GetName]§!で文化遺産の段階の建設が開始済み;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の段階の建設を開始済み;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_NOT_STARTED_IN_PROVINCE;§Y[This.GetName]§!で文化遺産の段階の建設が開始済みでない;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_NOT_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の段階の建設を開始済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_STARTED_IN_PROVINCE;§Y[This.GetName]§!で文化遺産の特徴の建設が開始済み;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴の建設を開始済み;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_NOT_STARTED_IN_PROVINCE;§Y[This.GetName]§!で文化遺産の特徴の建設が開始済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_NOT_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の特徴の建設を開始済みでない;;;;;;;;;;;;x
+obj_create_wonder_title;文化遺産を建てる;;;;;;;;;;;;x
+create_wonder_effect_tooltip;この野心を完了すると自分の文化遺産にさらなる特徴が建設されます。;;;;;;;;;;;;x
+create_wonder_condition_tooltip;文化遺産を最低段階2まで建設する。;;;;;;;;;;;;x
+WONDER_CONSTRUCTION_VIEW_FLAVOR_TEXT;これらは、覇者のために用意された建造物です。数十年の歳月と黄金の山を浪費した末に、あなたは世界の名だたる巨大建築の一つを残せるかもしれません......;;;;;;;;;;;;x
+WONDER_UPGRADE_BUILT_FOR_WONDER;§Y[This.GetName]§!に特徴が建設済み;;;;;;;;;;;;x
+WONDER_UPGRADE_BUILT;特徴が建設済み;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BUILT_FOR_WONDER;§Y[This.GetName]§!に特徴が建設済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_NOT_BUILT;特徴が建設済みでない;;;;;;;;;;;;x
+WONDER_UPGRADE_NUM_IN_WONDER;§Y[This.GetName]§! has $COMPARISON$ $VALUE|Y$ features;;;;;;;;;;;;x
+WONDER_UPGRADE_AGE_TRIGGER;Feature is $COMPARISON$ $VALUE|Y$ years old;;;;;;;;;;;;x
+HAS_WONDER_UPGRADE_FLAG_ON_WONDER;どれかの特徴に$FLAG|Y$フラグがある;;;;;;;;;;;;x
+HAS_NOT_WONDER_UPGRADE_FLAG_ON_WONDER;どれかの特徴に$FLAG|Y$フラグがない;;;;;;;;;;;;x
+WONDER_EFFECT_FINISH_UPGRADE_ANY;何らかの特徴が完成;;;;;;;;;;;;x
+WONDER_EFFECT_FINISH_IF_OF_TYPE;建設を開始した場合$WONDER_UPGRADE_TYPE|Y$に完了します;;;;;;;;;;;;x
+WONDER_EFFECT_DESTROY_UPGRADE_SPECIFIC;種類$WONDER_UPGRADE_TYPE|Y$のあらゆる特徴を破壊;;;;;;;;;;;;x
+WONDER_EFFECT_DESTROY_UPGRADE;特徴を破壊;;;;;;;;;;;;x
+WONDER_HAS_FREE_SLOT;特徴の枠に空きがある;;;;;;;;;;;;x
+WONDER_ALREADY_BUILDING;特徴が既に建造中でない;;;;;;;;;;;;x
+WONDER_ADD_UPGRADE_SLOT;特徴$NUM|Y$枠を追加;;;;;;;;;;;;x
+WONDER_ADD_UPGRADE_SLOTS;特徴$NUM|Y$枠を追加;;;;;;;;;;;;x
+WONDER_REMOVE_UPGRADE_SLOT;特徴$NUM|Y$枠を削除;;;;;;;;;;;;x
+WONDER_REMOVE_UPGRADE_SLOTS;特徴$NUM|Y$枠を削除;;;;;;;;;;;;x
+WONDER_STAGE_NUMBERED_TT_DELAYED_COMPLETE;開放済み特徴枠：$UNLOCKED_UPGRADE_SLOTS|Y$\n$COMPLETED_BY|Y$によって$COMPLETED_ON|Y$に完成\n完成から$AGE|Y$経過\n\n$MODIFIER_TEXT$$ALLOW_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_STAGE_NUMBERED_TT_DELAYED_NOT_COMPLETE;月毎の費用：$TICKING_COST|R$¤\n初期費用：$FLAT_COST|R$¤\n開放される特徴枠：$UNLOCKED_UPGRADE_SLOTS|Y$\n完了までの推定期間：$BUILD_TIME|Y$\n\n$MODIFIER_TEXT$$ALLOW_TRIGGER_TEXT$;;;;;;;;;;;;x
+WONDER_UPGRADE_COUNTER_TT;特徴全$NUM_TOTAL|Y$の内$NUM_USED|Y$枠が使用済み;;;;;;;;;;;;x
+WONDER_UPGRADE_COUNTER_USED_SINGULAR_TT;特徴全$NUM_TOTAL|Y$の内$NUM_USED|Y$枠が使用済み;;;;;;;;;;;;x
+WONDER_UPGRADE_PAUSE_TT;特徴の建造を中断;;;;;;;;;;;;x
+WONDER_UPGRADE_PAUSE_TT_DELAYED;特徴の建設が中断されている間は特徴の建設費用が掛かりません。;;;;;;;;;;;;x
+WONDER_UPGRADE_RESUME_TT;特徴の建造を再開;;;;;;;;;;;;x
+WONDER_UPGRADE_RESUME_TT_DELAYED;特徴の建設を再開すると毎月§R[From.GetTickingCost]§!¤の費用がかかります;;;;;;;;;;;;x
+WONDER_UPGRADE_ABORT_TT;特徴の建設を中止;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCT_TT;特徴を建設;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCT_TT_DELAYED;特徴の建設には$FLAT_COST|R$¤が掛かり、建設中には毎月$TICKING_COST|R$¤が掛かります。建設には$TIME_TO_BUILD|Y$の時間が掛かります。\n$ALLOW_TRIGGER$;;;;;;;;;;;;x
+WONDER_UPGRADE_AVAILABLE_NAME_TT_DELAYED;$DESCRIPTION$\n特徴の建設には$FLAT_COST|R$¤が掛かり、建設中には毎月$TICKING_COST|R$¤が掛かります。\n$ALLOW_TRIGGER$;;;;;;;;;;;;x
+WONDER_UPGRADE_FLAT_COST_TT_DELAYED;建設開始時から$OWNER|Y$より$FLAT_COST|R$¤が差し引かれます。;;;;;;;;;;;;x
+WONDER_HISTORY_UPGRADE_CONSTRUCTION_STARTED;特徴§G$UPGRADE_NAME$§!の建設が開始された;;;;;;;;;;;;x
+WONDER_HISTORY_UPGRADE_CONSTRUCTION_FINISHED;特徴§G$UPGRADE_NAME$§!の建設が完了した;;;;;;;;;;;;x
+WONDER_UPGRADE_CONSTRUCTION_NOT_STARTED;§Y[This.GetName]§!の特徴の建設が開始済みでない;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の種類§Y$WONDER_UPGRADE_TYPE$§!の特徴の建設を開始済み;;;;;;;;;;;;x
+WONDER_SPECIFIC_UPGRADE_CONSTRUCTION_NOT_STARTED_BY_CHARACTER;§Y[This.GetFirstName]§!が文化遺産の種類§Y$WONDER_UPGRADE_TYPE$§!の特徴の建設を開始済みでない;;;;;;;;;;;;x
+intimidation_possible_modifier_tt;§Y脅迫§!を行うことが可能となる;;;;;;;;;;;;x
+recruit_gladiator_modifier_tt;§Y剣闘士§!の雇用を行うことが可能になる;;;;;;;;;;;;x
+produces_alcohol_modifier_tt;§Yアルコール飲料を贈る§!決断が可能になります;;;;;;;;;;;;x
+religion_feature_pyramids;ピラミッドの建設;;;;;;;;;;;;x
+religion_feature_pyramids_desc;ピラミッドは遥か昔に古代人によって建設されました。我々もこのように高い建造物を建設すべきです。;;;;;;;;;;;;x
+tooltip_religion_feature_pyramids;§Gこの宗教の独立した君主はピラミッドを建設することができます§!;;;;;;;;;;;;x
+upgrade_automata_throne;機械仕掛けの玉座;;;;;;;;;;;;x
+upgrade_automata_throne_desc;何らかの複雑な機械仕掛けによりこの玉座は自力で自在に上がったり下がったりします。;;;;;;;;;;;;x
+upgrade_ballroom;舞踏室;;;;;;;;;;;;x
+upgrade_ballroom_desc;晩餐会に貴族が集い、踊り、陰謀を張り巡らす場所です;;;;;;;;;;;;x
+EVTOPTBHF23440;この大円形競技場で開催しなければ！;;;;;;;;;;;;x
+EVTOPTBHF23440_tt;§Y大円形競技場§!を所有しているのでこれを選択できます;;;;;;;;;;;;x
+EVTOPTEHF23445;ライオンなどはどうだ？;;;;;;;;;;;;x
+EVTOPTEHF23445_tt;このオプションは特徴§Y猛獣の檻§!を所有している時に選択できます;;;;;;;;;;;;x
+animal_cages_modifier_tt;闘技場で§Y猛獣§Yを使えるようになります;;;;;;;;;;;;x
+upgrade_earthquake_damage_small;地震の被害;;;;;;;;;;;;x
+upgrade_earthquake_damage_small_desc;この文化遺産は地震によって被害を受けており、未だ修復されていません。;;;;;;;;;;;;x
+upgrade_earthquake_damage_medium;地震の被害;;;;;;;;;;;;x
+upgrade_earthquake_damage_medium_desc;この文化遺産は地震によって被害を受けており、未だ修復されていません。;;;;;;;;;;;;x
+upgrade_earthquake_damage_large;地震の被害;;;;;;;;;;;;x
+upgrade_earthquake_damage_large_desc;この文化遺産は地震によって被害を受けており、未だ修復されていません。;;;;;;;;;;;;x
+wonder_aztec_pyramid;アステカのピラミッド;;;;;;;;;;;;x
+repair_wonder_decision;灯台を修復;;;;;;;;;;;;x
+repair_wonder_decision_desc;You will set aside funds to repair the damage on the lighthouse removing the negative features.;;;;;;;;;;;;x
+wonder_temple_hindu_konark;コナーラクの太陽神殿;;;;;;;;;;;;x
+wonder_temple_hindu_konark_desc;この寺院は太陽神スーリヤに捧げられており、飾り立てられた巨大な戦車の形をしています。;;;;;;;;;;;;x
+wonder_underground_city_petra;ペトラ;;;;;;;;;;;;x
+wonder_underground_city_petra_desc;数百年前の大いなる砂漠の街ペトラです;;;;;;;;;;;;x
+wonder_house_of_wisdom;知恵の館;;;;;;;;;;;;x
+wonder_house_of_wisdom_desc;この世界の知識の多くを収蔵する大図書館です。;;;;;;;;;;;;x
+wonder_apostolic_palace;教皇宮殿;;;;;;;;;;;;x
+wonder_apostolic_palace_desc;ローマの中心に建つ教皇自身の宮殿です。;;;;;;;;;;;;x
+wonder_statue_horse;馬の巨像;;;;;;;;;;;;x
+wonder_statue_horse_desc;強大な雄馬の巨像です！;;;;;;;;;;;;x
+upgrade_throne_fancy_desc;単なる金属の椅子に見えるかもしれないが、この統治者にとってはそれにとどまらない価値がある。;;;;;;;;;;;;x
+CHARACTER_NOT_PARTICIPATED_IN_WONDER_LOOTING;§Y$CHARACTER$§!が§Y[FromFrom.GetName]§!の略奪に参加した;;;;;;;;;;;;x
+WONDER_IS_BEING_LOOTED;文化遺産が略奪されている;;;;;;;;;;;;x
+NOT_WONDER_IS_BEING_LOOTED;文化遺産が略奪されていない;;;;;;;;;;;;x
+WONDER_LOOT_INDEPENDENT_REALM_RULER_REQUIREMENT;独立国家の領主のみが文化遺産を略奪できる;;;;;;;;;;;;x
+WONDER_MIN_LOOTABLE_STAGE_REQUIREMENT;$STAGE_NUMBER|Y$段階が完成した文化遺産のみが略奪可能;;;;;;;;;;;;x
+WONDER_RESTORE_INDEPENDENT_REALM_RULER_REQUIREMENT;独立国家の領主のみが文化遺産を修復できる;;;;;;;;;;;;x
+WONDER_RESTORE_GOLD_COST_REQUIREMENT;初期費用$COST$¤を支払えない;;;;;;;;;;;;x
+AVAILABLE_WONDER_UPGRADES;建設可能な特徴;;;;;;;;;;;;x
+WONDER_BEING_LOOTED;§Y[FromFrom.GetName]§!が略奪中;;;;;;;;;;;;x
+NOT_WONDER_BEING_LOOTED;§Y[FromFrom.GetName]§!が略奪中でない;;;;;;;;;;;;x
+NOT_WONDER_ACTIVE;§Y[FromFrom.GetName]§!が有効ではない;;;;;;;;;;;;x
+PROVINCE_IS_IN_REALM;§Y[FromFromFrom.GetName]§!が§Y[Root.PrimaryTitle.GetTier]§!の一部である;;;;;;;;;;;;x
+NOT_PROVINCE_IS_IN_REALM;§Y[FromFromFrom.GetName]§!が§Y[Root.PrimaryTitle.GetTier]§!の一部でない;;;;;;;;;;;;x
+LEDGER_TIER;段階;;;;;;;;;;;;x
+String_Sphinx;ギザの大スフィンクス;;;;;;;;;;;;x
+String_MythologicalBeast;神話の生物の巨像;;;;;;;;;;;;x
+upgrade_inner_sanctuary_desc;寺院の中でも高い地位の祭司しか入ることの許されない神聖な空間です。;;;;;;;;;;;;x
+upgrade_vestibule_desc;Two pillars of bronze frame the entrance to the temple, bidding all worshipers welcome.;;;;;;;;;;;;x
+upgrade_holy_place_desc;Cherubim, palm trees, and open flowers, all overlaid with gold, are carved into the cedar-lined walls. The floor is of cypress overlaid with gold. The door posts, of olive wood, support folding doors of cypress.;;;;;;;;;;;;x
+upgrade_holy_of_holies_desc;The inner sanctuary within the temple. It is located in the westernmost end of the temple building, a perfect cube, prepared to contain the Ark of the Covenant.;;;;;;;;;;;;x
+upgrade_inner_court_desc;The Inner Court, or Court of the Priests, is separated from the space beyond by a wall of three courses of hewn stone, surmounted by cedar beams. It contains the Altar of burnt-offering, the Brazen Sea laver, and ten other lavers.;;;;;;;;;;;;x
+upgrade_great_seminars_desc;この大講堂では有名な学者が公開講義を行い、多くの参加者が集まります。;;;;;;;;;;;;x
+upgrade_wing_of_diplomacy_desc;折衝、修辞学、そしてその究極の目的として他者を納得させるための複雑な技術の教育とその演習がここで行われています。;;;;;;;;;;;;x
+upgrade_wing_of_martial_desc;ここでは戦争の技に関する古今の論文のみならず、歴史と古代の戦争に関する古典の教育と議論が行われています。;;;;;;;;;;;;x
+upgrade_wing_of_stewardship_desc;経理や財務、経済の原則がここでは教えられています。;;;;;;;;;;;;x
+upgrade_wing_of_intrigue_desc;命に関わる混合物に使われる植物から暗号の技術まで、新米スパイが知る必要のあること全てがここで教えられています。;;;;;;;;;;;;x
+upgrade_wing_of_learning_desc;形而下学、形而上学そして聖典に関してのみならず、論理学と数学の基礎についてもここでは教えられています。;;;;;;;;;;;;x
+gardener_opinion;庭師の評価;;;;;;;;;;;;x
+EVTDESC50022;[enemy_liege.GetTitledFirstName]は[enemy_liege.Religion.GetHighGodName]の名において[sacrificed.GetTitledFirstName]を犠牲に捧げた;;;;;;;;;;;;x
+String_most_recently_added;壮麗な[This.GetName]に多くの注目が集まっている;;;;;;;;;;;;x
+recently_sent_alcohol_gift;最近アルコール飲料を贈った;;;;;;;;;;;;x
+EVTOPTA_LT_20432_B;人生は素晴らしい！;;;;;;;;;;;;x
+zun_pagan_opinion;ズン教信者の評価;;;;;;;;;;;;x
+zun_pagan_reformed_opinion;改革派ズン教信者の評価;;;;;;;;;;;;x
+TECH_CITY_CONSTRUCTION;都市と教区;;;;;;;;;;;;x
+TECH_CITY_CONSTRUCTION_DESC;都市と教区にある建物の改良;;;;;;;;;;;;x
+TECH_INFANTRY;歩兵;;;;;;;;;;;;x
+TECH_INFANTRY_DESC;歩兵のためのより良い設備と訓練;;;;;;;;;;;;x
+TECH_CAVALRY_DESC;騎兵のためのより良い設備と訓練;;;;;;;;;;;;x
+TECH_SKIRMISH;前哨戦戦術;;;;;;;;;;;;x
+TECH_SKIRMISH_DESC;前哨戦のためのより良い訓練;;;;;;;;;;;;x
+TECH_MELEE;白兵戦戦術;;;;;;;;;;;;x
+TECH_MELEE_DESC;白兵戦のためのより良い訓練;;;;;;;;;;;;x
+better_skirmisher_tactics_custom_modifier_tt;翼部隊の指揮官がより良い散兵戦術を選択する可能性が上がります;;;;;;;;;;;;x
+better_melee_tactics_custom_modifier_tt;翼部隊の指揮官がより良い白兵戦術を選択する可能性が上がります;;;;;;;;;;;;x
+religious_tolerance;宗教的寛容;;;;;;;;;;;;x
+religious_tolerance_desc;The Ruler has given signs of Religious Tolerance to the population.;;;;;;;;;;;;x
+weak_leader_modifier;弱い指揮官;;;;;;;;;;;;x
+weak_leader_modifier_desc;自分の兵を統率できない;;;;;;;;;;;;x
+strong_leader_modifier;強い指揮官;;;;;;;;;;;;x
+strong_leader_modifier_desc;軍の規律を乱すことは許されない;;;;;;;;;;;;x
+plundering_leader_modifier;略奪する指揮官;;;;;;;;;;;;x
+plundering_leader_modifier_desc;Likes to sack and plunder.;;;;;;;;;;;;x
+string_Hagia_Sophia_Orthodox;コンスタンディヌーポリ全地総主教の座所となっています;;;;;;;;;;;;x
+string_Hagia_Sophia_Latin;コンスタンティノープル陥落後はラテン教団の教会に転用されました;;;;;;;;;;;;x
+string_Hagia_Sophia_Muslim;コンスタンティノープル陥落後は皇帝のモスクに転用されました;;;;;;;;;;;;x
+string_pride_of_constantinople;コンスタンティノープルの誇りとなっています;;;;;;;;;;;;x
+EVTDESC_LT_20900_chaplain;[target_chaplain.GetJobTitle]の[target_chaplain.GetFirstName]は今すぐに[target_wonder.GetName]を真なる教えの聖堂に転用し、この壮大な建造物で人々が礼拝を行えるようにしたいといっている。;;;;;;;;;;;;x
+EVTDESC_LT_20900;今すぐ[target_wonder.GetName]を真なる教えの聖堂へと転用し、この偉大なる建造物で人々が礼拝を行えるようにせよと信者の一部が声高に主張している。;;;;;;;;;;;;x
+EVTOPTA_LT_20900;そうだな。この建造物は真なる[Root.Religion.GetName]の教えの聖堂に転換すべきだ。;;;;;;;;;;;;x
+EVTOPTB_LT_20900;いいや。そんなことをする必要はない。;;;;;;;;;;;;x
+EVTDESC_LT_21000.1;[From.GetName]の城門に兵士が押し寄せた途端、あっという間に手に負えない状態になってしまった。見境のない殺戮と目につく全ての建造物の破壊、まるで自制心を完全に失ってしまったかのようだ。;;;;;;;;;;;;x
+EVTDESC_LT_21000.2;部隊が[From.GetName]に入ると、兵士達は完全に規律を忘れ略奪や放火を始めた。;;;;;;;;;;;;x
+EVTOPTA_LT_21000;やらせておけ。それが戦争というものだ。;;;;;;;;;;;;x
+EVTOPTB_LT_21000;待て、私をおいていくな！;;;;;;;;;;;;x
+EVTOPTC_LT_21000;すぐに止めさせて、ならず者をつるすのだ！;;;;;;;;;;;;x
+EVTOPTA_LT_21000_DISHONORABLE_TT;この行動は恥ずべき行為であると多くの人々は考えるだろう。;;;;;;;;;;;;x
+EVTOPTC_LT_21000_CONTROL_TT;軍隊の規律を取り戻す。;;;;;;;;;;;;x
+EVTOPTC_LT_21000_NO_CONTROL_TT;殺戮と破壊を止めることができない。;;;;;;;;;;;;x
+private_talk_possible_modifier_tt;人物と§Y密談§!が可能になります;;;;;;;;;;;;x
+storing_a_relic_possible_modifier_tt;§Y遺物§!の保管に使うことができます。;;;;;;;;;;;;x
+wonder_aztec_pyramid_desc;神々の家であるアステカのピラミッドは生贄を斬首することで神々に使者を送ることのできる聖域です。;;;;;;;;;;;;x
+EVTTITLE_LT_21110;イングランド王ヘンリーが死去！;;;;;;;;;;;;x
+EVTDESC_LT_21110;Henry I just died without a male heir. You, together with the other nobles of the realm promised to accept his daughter Matilda as queen. But not all are happy with having a woman sitting on the English Throne. As a nephew of the late king, if you depart immediately to London you can claim the throne for yourself. Or, you can let Matilda know that she has your support.;;;;;;;;;;;;x
+EVTOPTA_LT_21110;Let Matilda know that [Root.GetTitledName] is a man of his word.;;;;;;;;;;;;x
+EVTOPTB_LT_21110;Only a fool would let this opportunity pass. I want to be King!;;;;;;;;;;;;x
+EVTDESC_LT_21120;Your father, [FromFrom.GetTitledName], just died without a male heir. A few years prior, he made his nobles promise to support you and your oldest son as his only living legitimate heirs. Granted, not all are happy having a woman sitting on the English Throne, but your cousin, the powerful [From.GetTitledName], announced [From.GetHerHis] support to your claim, followed by most of the nobility.;;;;;;;;;;;;x
+EVTOPTA_LT_21120;I will thus assume the mantle of my father.;;;;;;;;;;;;x
+EVTDESC_LT_21121;[FromFromFrom.GetTitledName] just died without a male heir. The nobles of the realm, keeping an oath given to the king, have accepted his only living legitimate heir, [From.GetName], as Queen. It is likely to also strengthen her husband, [matilda_spouse.GetTitledName], and upset the balance of power in France.;;;;;;;;;;;;x
+EVTOPTA_LT_21121;興味深い報せだ。;;;;;;;;;;;;x
+EVTDESC_LT_21130;Your father, [FromFrom.GetTitledName] just died without a male heir. A few years prior, he made his nobles promise to support you and your oldest son, as his only living legitimate heirs. However, not all were happy to have a woman sit on the English Throne – your cousin, the powerful [From.GetTitledName], took to England and in claiming the Kingdom for himself, usurped your rights, and was accepted by most of the nobility in the process.;;;;;;;;;;;;x
+EVTOPTA_LT_21130;I will fight for the throne of my father.;;;;;;;;;;;;x
+EVTDESC_LT_21131;Your father in law, [FromFrom.GetTitledName] just died without a male heir. A few years prior, he made his nobles promise to support your wife [matilda.GetFirstName] and your oldest son as his only living legitimate heirs. But not all are happy having a woman on the English Throne, and [FromFrom.GetFirstName]'s nephew [From.GetFirstName] has come to England, claiming the Kingdom for himself and usurping your rights in the process. Most of the English nobles seem ready to recognize his illegitimate claim, but perhaps decisive action could change things.;;;;;;;;;;;;x
+EVTOPTA_LT_21131;I will fight for the rights of my wife!;;;;;;;;;;;;x
+EVTOPTB_LT_21131;This is not a good time. Let's wait and see.;;;;;;;;;;;;x
+String_disease;病;;;;;;;;;;;;x
+EVTDSC_RIP_5060_PRISON;[GetFromRelation] [From.GetFirstName]の世話をしている看守から報告を受けた。 [From.GetGirlWomanBoyMan]は暗い独房に閉じ込められているだけでなく -  今では[From.GetScriptedDiseaseName]に苦しめられていた。;;;;;;;;;;;;x
+EVTOPTE_RIP_5060_release_prisoner;衛兵！私の可哀想な[GetFromRelation]を牢から解放するのだ！;;;;;;;;;;;;x
+string_coast;海岸;;;;;;;;;;;;x
+String_bottle;瓶;;;;;;;;;;;;x
+String_case;箱;;;;;;;;;;;;x
+String_cask;大樽;;;;;;;;;;;;x
+String_barrel;樽;;;;;;;;;;;;x
+opinion_was_ordered_to_leave_crowded_court;人が一杯になった宮廷から退去させられた;;;;;;;;;;;;x
+is_regent_commander_or_physician_tt;§Y摂政§!、§Y指揮官§!、§Y侍医§!のいずれかである;;;;;;;;;;;;x
+is_spouse_consort_or_of_your_dynasty;自分の配偶者、近親者、側室(男妾)のいずれかである;;;;;;;;;;;;x
+is_a_child_tt;子供である;;;;;;;;;;;;x
+is_character_in_important_chain_of_events_tt;進行中のイベントチェーンにおける重要人物である;;;;;;;;;;;;x
+is_inaccessible_tt;雲隠れ、旅行中、または重要な業務に従事している\n;;;;;;;;;;;;x
+their_spouse_must_be_allow_to_leave_tt;The spouse of [Prev.GetTitledFirstName] must also be allowed to leave;;;;;;;;;;;;x
+String_remains_a_rumor;[This.GetName] remain[This.GetSingularS] a strange rumor;;;;;;;;;;;;x
+EVTDESC_NE_1_debutant;[invited_character.GetFullName]が仕えるため宮廷に到着した。;;;;;;;;;;;;x
+EVTOPTD_LT_20410_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for lovers like you...;;;;;;;;;;;;x
+EVTOPTC_LT_20431_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for new lovers.;;;;;;;;;;;;x
+EVTOPTC_LT_20431_TT_not_serious_romance;You leave §Y[From.GetTitledFirstName]§! wanting more.;;;;;;;;;;;;x
+EVTOPTB_LT_20410_TT_unlikely;あなたの[target_character.GetRootRelation]は、おそらくよく思わないだろう。;;;;;;;;;;;;x
+EVTOPTA_LT_20431_no_love;I am not looking for anything 'serious', my [From.GetLordLady].;;;;;;;;;;;;x
+EVTDESC_LT_20432_A;[target_character.GetFirstName] returned my kiss, and more. "When will I see you again?" I asked, as we were parting. The [From.GetManWoman] chuckled, and said that this was fun, but that is all it was.;;;;;;;;;;;;x
+EVTDESC_LT_20432_B;[target_character.GetFirstName] returned my kiss, and more. Afterwards, we talked for hours, and I found myself fascinated by [From.GetHerHis] [From.GetLoverEnjoyableQuirk]. As we part, my heart is singing with [From.GetHerHis] name and I cannot wait until I can see [From.GetHerHim] again. I must learn everything about [From.GetHerHim]!;;;;;;;;;;;;x
+EVTOPTA_LT_20432_A;Wait... That's it? But I...!;;;;;;;;;;;;x
+String_boldness;boldness;;;;;;;;;;;;x
+String_love_of_life;love of life;;;;;;;;;;;;x
+String_honesty;honesty;;;;;;;;;;;;x
+String_seeing_the_best_in_people;always way of seeing the best in people;;;;;;;;;;;;x
+String_optimism;optimism;;;;;;;;;;;;x
+String_sense_of_humor;sense of humor;;;;;;;;;;;;x
+String_jaded_view_on_romance;jaded views on romance;;;;;;;;;;;;x
+EVTDESC_MNM_4090;I have decided to show my devotion to [Root.Religion.GetHighGodNameCap] and the order by taking a vow of celibacy.;;;;;;;;;;;;x
+RELATION_TRIBUTARY;属国;;;;;;;;;;;;x
+quest_the_assassins_convert_province_desc;[GetAssassinsConversionDesc];;;;;;;;;;;;x
+assassins_conversion_desc_random;The most essential goals of the Assassins is to protect the believers of the True Faith and spread the words of [shiite.GetHighGodName] to every corner of the Earth. While even the most remote lands shall be converted one day, first we must turn to places closer to home — your mission is to convert the county [FromFrom.GetName].;;;;;;;;;;;;x
+EVTDESC_MNM_6204_c;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nThe time is nigh for the people in [conversion_province.GetName] to adopt the true religion. When a majority of the population in the county has converted to the [Root.Religion.GetName] faith, your mission is complete.\n\nPraised be [Root.Religion.GetHighGodNameCap]!\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_MNM_6205_B;[conversion_province.GetName]郡の人々は[Root.Religion.GetName]の信仰を完全に受け入れた。[conversion_province.Capital.GetHolding]から田園地帯に至るまで[Root.Religion.GetHighGodNameCap]の名と[Root.Religion.GetPriestTitle]達が讃えられ、尊ばれている。任務は完了した。;;;;;;;;;;;;x
+EVTOPTA_MNM_6205_B;[Root.Religion.GetHighGodNameCap]を讃えよ！;;;;;;;;;;;;x
+EVTDESC100550_B;The [Root.Religion.GetName] [Root.Religion.GetPriestTitle]s are constantly pestering me about religion and [Root.Religion.GetRandomGodName]. No matter what I do, promise to pray more or read the [Root.Religion.GetScriptureName] more thoroughly, they won't leave me alone!;;;;;;;;;;;;x
+EVTOPTC100550;[Root.Religion.GetHighGodNameCap], help me be a better [Root.GetManWoman]!;;;;;;;;;;;;x
+EVTDESC_MNM_6021_c;Last night I approached [From.GetTitledFirstName] during a feast, intending to figure out whether [From.GetSheHe] might be persuaded to convert to the true faith. Unfortunately, as soon I steered the conversation towards the topics of the [Root.Religion.GetRandomGodName] and the [Root.Religion.GetScriptureName], the narrow-minded [From.GetManWoman] became quite disagreeable...;;;;;;;;;;;;x
+EVTDESC_MNM_6024_B;We are quiet for a moment, both seemingly contemplating these devoted souls. Then [From.GetFirstName] looks up at me, a curious intensity in [From.GetHerHis] gaze. "That is not an impossible wish, [Root.GetFirstName]. Are you ready to kill and, if They will it, get killed to defend the words of [Root.Religion.GetRandomGodName] and the [Root.Religion.GetScriptureName]?";;;;;;;;;;;;x
+EVTDESC_MNM_6027_B;"I do, [Root.GetFirstName]," says [From.GetTitledFirstName] with a solemn, almost ceremonial, voice. "There is an Order devoted to [Root.Religion.GetHighGodNameCap]. One that defends those true of faith and bring vengeance to their persecutors. The Assassins are always in need of champions. Think it over, and someone might reach out...";;;;;;;;;;;;x
+EVTDESC_MNM_6202_PERSECUTED_SHIITES;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nFor far too long, the gentle people of [shiite_province.GetName] has suffered under the cruel rule of [assassins_target.GetTitledFirstName]. It is your sacred duty to end [assassins_target.GetHerHim] and liberate our people. Turn [assassins_target.GetHerHim] into an example to fill our enemies' hearts with dread.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_6028_B;[Root.Religion.GetHighGodNameCap]に栄光あれ！;;;;;;;;;;;;x
+6252_CONVERT_APPRENTICE_TT;§Y[assassin_protege.GetTitledFirstName]§! will offer [assassin_protege.GetHerselfHimself] up to [Root.Religion.GetHighGodNameCap] and convert to the religion of [Root.Religion.GetName].;;;;;;;;;;;;x
+nick_the_festive;華やかな;;;;;;;;;;;;x
+nick_the_burden;the Burden;;;;;;;;;;;;x
+nick_the_snake;蛇の;;;;;;;;;;;;x
+EVT_TITLE_LT_61006;By Any Other Name;;;;;;;;;;;;x
+EVTDESC1_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]はその目に興奮をたたえながら近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTDESC2_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は両腕いっぱいに巻物を抱えて近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTDESC3_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は土や火で汚れた服を着て近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTDESC4_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は廷臣の集まりから抜け出て私のところへやってきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTDESC5_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]はインクに汚れた手に大きな台帳を掴んで私のところへ近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTDESC6_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は私の脇の陰から現れ、鋭い笑みを浮かべている。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
+EVTOPTA_LT_61006;貴方に相応しい名を授けよう！;;;;;;;;;;;;x
+EVTOPTB_LT_61006;うむ、何にしようか…;;;;;;;;;;;;x
+EVTOPTC_LT_61006;よし、そなたの異名はこれだ！;;;;;;;;;;;;x
+EVTOPTD_LT_61006;私は忙しいのだ。;;;;;;;;;;;;x
+opinion_happy_with_nickname;喜ばしい異名;;;;;;;;;;;;x
+opinion_dislikes_nickname;残念な異名;;;;;;;;;;;;x
+nick_the_mule;ラバ;;;;;;;;;;;;x
+courtiers_leaving_effect;宮廷を去った;;;;;;;;;;;;x
+opinion_left_court;Left With Blessings;;;;;;;;;;;;x
+EVT_TITLE_LT_61008;Time to Go;;;;;;;;;;;;x
+EVTDESC_LT_61008;A group of courtiers approach me, most of whom I barely even recognize.\n\n"We are taking our leave, my [Root.GetLordLady]. Do we go with your blessing?";;;;;;;;;;;;x
+EVTOPTA_LT_61008;お前たちはよそでもうまくやっていけるだろう！;;;;;;;;;;;;x
+EVTOPTB_LT_61008;いや、気が変わった。;;;;;;;;;;;;x
+EVTDESC30040;私の夫[Root.Spouse.GetTitledFirstName]は私たちに仕えさせるために、どうしようもなく忌々しい一人の[annoying_courtier.GetManWoman]を雇っている。[annoying_courtier.GetHerHisCap]の無礼さには限度というものがなく、私は[annoying_courtier.GetHerHim]を扱いかねている。[annoying_courtier.GetSheHeCap]は全く身の程をわきまえないのだ。;;;;;;;;;;;;x
+EVTDESC30041;妻の[Root.Spouse.GetTitledFirstName]が、忌々しく思っている廷臣の一人を辞めさせるよう求めてきた。要求を断れば[Root.Spouse.GetFirstName]は不快に思うだろうが、しかしその「忌々しい[annoying_courtier.GetManWoman]」をクビにすれば、おそらく人々は妻が私の行動に対して非常に強い影響力を持っていると思うだろう。;;;;;;;;;;;;x
+EVTDESC30042;どうやら、廷臣の一人が妻の[Root.Spouse.GetFirstName]に嫌がらせをしていたようで、彼女は私の助けは仰がずに自分の手でその廷臣が二度と迷惑をかけない、もしくは[annoying_courtier.GetSheHe]が事の重大さを知ることになったようだ。;;;;;;;;;;;;x
+EVTOPTA30040;[annoying_courtier.GetHerHim]を無視するように努めつつ、夫が上手く取り計らってくれることを祈ろう。;;;;;;;;;;;;x
+EVTOPTB30040;可能ならば、奴をクビにしてやろう。;;;;;;;;;;;;x
+EVTTOOLTIP30040;[Root.Spouse.GetFirstName]にあの忌々しい[annoying_courtier.GetManWoman]をクビにするよう頼む。;;;;;;;;;;;;x
+EVTOPTC30040;あの傲慢な[annoying_courtier.GetManWoman]に罰をあたえる。;;;;;;;;;;;;x
+EVTOPTA30045;...ふざけて[annoying_courtier.GetHerHim]を川に落とす。;;;;;;;;;;;;x
+EVTOPTB30045;…[annoying_courtier.GetHerHim]に静かにするよう命ずる。;;;;;;;;;;;;x
+EVTOPTC30045;…[annoying_courtier.GetHerHis]の迷惑な噂話を無視する。;;;;;;;;;;;;x
+EVTDESC30046;The young [annoying_courtier.GetManWoman] I pushed into the river ended up drowning. Although it was an accident rumors of my deed spread quickly.;;;;;;;;;;;;x
+EVTDESC30047;Wet, but otherwise unharmed, the courtier blasted me with foul words and angry but empty threats. Seeing [annoying_courtier.GetHerHim] standing before me dripping mud and with algae entwined into [annoying_courtier.GetHerHis] hair, I could not stop the laughter pouring out of me.;;;;;;;;;;;;x
+exodus_court_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a full court;;;;;;;;;;;;x
+already_exodus_tooltip;Has NOT asked courtiers to leave recently;;;;;;;;;;;;x
+court_exodus;廷臣に宮廷を去るよう依頼;;;;;;;;;;;;x
+court_exodus_desc;最近、私の宮廷は非常に混雑している。 あまり能力のない廷臣には、いくばくかの金を払って出て行って貰おう...;;;;;;;;;;;;x
+COURT_SIZE_TOOLTIP;宮廷の規模 $SIZE$/$LIMIT$;;;;;;;;;;;;x
+EXPENSE_OVERSIZED_COURT;宮廷支出;;;;;;;;;;;;x
+EXPENSE_OVERSIZED_COURT_TT;Expenses for $OVERFLOW|Y$ extra accommodations: $COST|R$;;;;;;;;;;;;x
+HAS_NOT_FULL_COURT_TRIGGER;宮廷が満員である;;;;;;;;;;;;x
+HAS_FULL_COURT_TRIGGER;宮廷が満員でない;;;;;;;;;;;;x
+NUM_OF_COURTIERS_TRIGGER;廷臣の数;;;;;;;;;;;;x
+FREE_COURT_SLOTS_TRIGGER;宮廷の空いている枠;;;;;;;;;;;;x
+COURT_SIZE_MODIFIER;宮廷の規模;;;;;;;;;;;;x
+COURT_SIZE_MAINTENANCE_COST_MODIFIER;宮廷の規模コスト;;;;;;;;;;;;x
+SET_WONDER_DAMAGED_EFFECT_TRUE;文化遺産が被害を受け使用できなくなった。\n;;;;;;;;;;;;x
+SET_WONDER_DAMAGED_EFFECT_FALSE;文化遺産は修復されかつての威光を取り戻した。\n;;;;;;;;;;;;x
+wonder_cathedral_notre_dame;ノートルダム大聖堂;;;;;;;;;;;;x
+wonder_cathedral_notre_dame_desc;多くの人々にとってパリの景色の一部になっているこの大聖堂はパリ市民にその伝統と偉業への誇りを思い起こさせると共に未来への希望を呼び覚まします。;;;;;;;;;;;;x
+ADD_WONDER_EFFECT;$TYPE|Y$が建設された。\n;;;;;;;;;;;;x
+IS_HISTORICAL;重要な人物もしくは進行中のイベントチェーンに関係する人物である;;;;;;;;;;;;x
+IS_NOT_HISTORICAL;重要な人物もしくは進行中のイベントチェーンに関係する人物ではない;;;;;;;;;;;;x
+IS_NOT_IMPORTANT_CHARACTER_TO;$CHAR|Y$にとって重要な人物ではない;;;;;;;;;;;;x
+IS_IMPORTANT_CHARACTER_TO;$CHAR|Y$にとって重要な人物である;;;;;;;;;;;;x
+EVTDESCHFP22006_A;[antagonize_target.GetTitledFirstName] has secluded [antagonize_target.GetHerselfHimself] with the rest of the court in [antagonize_target.Location.GetName], presumably biding their time while disease lingers in the countryside of the realm. "It will not be possible to reach [antagonize_target.GetHerHim] for some time", my council informs me.;;;;;;;;;;;;x
+EVTDESCHFP22006_B;As I have gone into seclusion with my court, my efforts to antagonize [antagonize_target.GetTitledFirstName] will have to be halted.;;;;;;;;;;;;x
+EVTDESCHFP22006_A_B;As both [antagonize_target.GetTitledFirstName] and I are both currently weathering the disease ravaging the countryside outside, my efforts to antagonize [antagonize_target.GetHerHim] will have to be put on hold...;;;;;;;;;;;;x
+tooltip_stop_antagonizing;Stop §YAntagonizing§! §Y[antagonize_target.GetTitledFirstName]§!;;;;;;;;;;;;x
+EVTOPTAHFP22006;If only we had pigeons...;;;;;;;;;;;;x
+NUDGE_4;港/交易所;;;;;;;;;;;;x
+RULE_WONDERS_HISTORICAL_ON;史実の文化遺産が存在します。;;;;;;;;;;;;x
+RULE_WONDERS_HISTORICAL_OFF;史実の文化遺産は存在しません。;;;;;;;;;;;;x
+WONDER_UPGRADE_INACTIVE;§R[From.GetName]が有効ではない§!\n[From.GetActiveTriggerDescription];;;;;;;;;;;;x
+EVTDESC_LT_10103_A;長い評議会の後、私の頭は経費報告書のことでいっぱいだった。思わずため息が出て少し落ち込んだが、[upbeat_courtier.GetFirstName]が「[Root.GetLordLady]がご存知か分かりませんが、余剰を[Root.GetCapitalHolding]の男女に使っていただいていることに大変感謝されていますよ」と言って私の思考を断ち切った。;;;;;;;;;;;;x
+EVTDESC_LT_10103_B;At the end of supper, [upbeat_courtier.GetTitledFirstName] calls me over to [upbeat_courtier.GetHerHis] table, pointing at a tall glass of [Root.GetAlcohol]. "There are many of us who want to personally thank you for your hospitality, my [Root.GetLordLady]. I know space is hard to come by inside the [Root.GetCapitalHolding]." The [upbeat_courtier.GetManWoman] presses my hand and smiles in gratitude.;;;;;;;;;;;;x
+EVTDESC_LT_10103_C;During supper, my [upbeat_courtier.GetRootRelation] [upbeat_courtier.GetTitledFirstName] stands up and clears [upbeat_courtier.GetHerHis] throat. "My [Root.GetLordLady], there are many of us who want to thank you for your hospitality, in these trying times. It is not all who would find lodgings for as many as you have managed to, [Root.GetMasterMistress].";;;;;;;;;;;;x
+EVTOPTA_LT_10103;あぁ、だが本当は厩舎で寝るのが好きなんだ！;;;;;;;;;;;;x
+EVTOPTB_LT_10103;Aaah, but there is strength in numbers, my [upbeat_courtier.GetRootRelation].;;;;;;;;;;;;x
+EVTOPTC_LT_10103;皆と共に居るだけで楽しいものだな、[upbeat_courtier.GetFirstName]！;;;;;;;;;;;;x
+EVTOPTC_LT_10103_cruel;More people means more resources for... Anything we might require.;;;;;;;;;;;;x
+EVTOPTD_LT_10103_A;A toast to you, my good [upbeat_courtier.GetManWoman]! You are all important to me.;;;;;;;;;;;;x
+EVTOPTD_LT_10103_B;ああ、[upbeat_courtier.GetRootRelation]。あなたは一番大切な人です。;;;;;;;;;;;;x
+generous_host;寛容な主;;;;;;;;;;;;x
+generous_host_desc;This character is known for [Root.GetHerHis] hospitality.;;;;;;;;;;;;x
+calculating_host;抜け目のない主;;;;;;;;;;;;x
+calculating_host_desc;This character is known for inspiring loyalty amongst [Root.GetHerHis] courtiers.;;;;;;;;;;;;x
+ruthless_host;Ruthless Host;;;;;;;;;;;;x
+ruthless_host_desc;This character is known for [Root.GetHerHis] pragmatic approach to human resources.;;;;;;;;;;;;x
+naive_host;お人好しの主;;;;;;;;;;;;x
+naive_host_desc;This character is known for being the most welcoming host in the realm.;;;;;;;;;;;;x
+charitable_opinion;Charitable Opinion;;;;;;;;;;;;x
+RULE_COURT_LIMIT;宮廷の規模の制限;;;;;;;;;;;;x
+RULE_COURT_LIMIT_ON;それぞれの宮廷にいられる廷臣の数を制限します;;;;;;;;;;;;x
+RULE_COURT_LIMIT_OFF;それぞれの宮廷にいられる廷臣の数の制限がなくなり、廷臣数制限に伴うイベントも無効となります;;;;;;;;;;;;x
+tooltip_gain_baptized_by_patriach;特性'§Y総主教による戴冠§!'を得ます。;;;;;;;;;;;;x
+EVTNAME_RIP_21099;道の終わり;;;;;;;;;;;;x
+EVTDSC_RIP_21099_YOU_MURDERED;I try to walk the path to eternal life that [eternal_life_mystic.GetBestName] set me on without her help, but I am blind without her guidance. I cannot do anything but chuckle, my path to immortality has been severed by death caused by my own two hands – the irony!;;;;;;;;;;;;x
+EVTDSC_RIP_21099_OTHER_DEATH;As if fate is playing a cruel joke on me my guide to eternal life, [eternal_life_mystic.GetBestName], has passed on. Alone I try to walk the path she set me on, but without her helping hand I fumble in the dark... Is the path to immortality forever hidden from me now?;;;;;;;;;;;;x
+EVTOPTA_RIP_21099;Just imagine what I could have learned!;;;;;;;;;;;;x
+PIETY_EFFECT_CHARACTER;§Y$WHO$§!が$PIETYNAME$を$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
+LARGE_COURT_PRESTIGE_GAIN;Large Court ($AMOUNT|Y$): §G+$VALUE$§!;;;;;;;;;;;;x
+COUNTY_KLEVE;クレーヴェ;;;;;;;;;;;;x
+COUNTY_KLEVE_ADJ;クレーヴェ;;;;;;;;;;;;x
+PROV525;オラヴァ;;;;;;;;;;;;x
+slovieni;スロヴァキア;;;;;;;;;;;;x
+c_orava_adj;オラヴァ;;;;;;;;;;;;x
+PROV187;グワルダ;;;;;;;;;;;;x
+PROV789;ティニース;;;;;;;;;;;;x
+PROV790;ベルベース;;;;;;;;;;;;x
+PROV797;エル・マハッラ;;;;;;;;;;;;x
+PROV799;ラシード;;;;;;;;;;;;x
+PROV800;ギザ;;;;;;;;;;;;x
+PROV801;バハリーヤ;;;;;;;;;;;;x
+PROV803;Siwa;;;;;;;;;;;;x
+PROV804;ジグラ;;;;;;;;;;;;x
+PROV1382;Sea of Calm;;;;;;;;;;;;x
+PROV1995;ナイル;;;;;;;;;;;;x
+PROV1996;ナイル;;;;;;;;;;;;x
+PROV1997;ナイル;;;;;;;;;;;;x
+PROV1998;ナイル;;;;;;;;;;;;x
+PROV1999;ナイル;;;;;;;;;;;;x
+PROV2000;ナイル;;;;;;;;;;;;x
+PROV2001;ファイユーム;;;;;;;;;;;;x
+PROV2002;アフミーム;;;;;;;;;;;;x
+PROV2003;エスナ;;;;;;;;;;;;x
+PROV2004;ハリブター;;;;;;;;;;;;x
+PROV2005;パラエトニウム;;;;;;;;;;;;x
+PROV2006;コルズム;;;;;;;;;;;;x
+PROV2007;ファラフラ;;;;;;;;;;;;x
+PROV2008;Tago;;;;;;;;;;;;x
+PROV2009;Tago;;;;;;;;;;;;x
+PROV2010;al-Wadi al-Kabir;;;;;;;;;;;;x
+PROV2011;al-Wadi al-Kabir;;;;;;;;;;;;x
+PROV2012;エギターニア;;;;;;;;;;;;x
+PROV2013;Almada;;;;;;;;;;;;x
+PROV2014;ウェルバ;;;;;;;;;;;;x
+b_faiyum;ファイユーム;;;;;;;;;;;;x
+b_akhmim;アフミーム;;;;;;;;;;;;x
+b_esna;エスナ;;;;;;;;;;;;x
+b_paraetonium;パラエトニウム;;;;;;;;;;;;x
+b_kharibta;Kharibta;;;;;;;;;;;;x
+b_kolzum;コルズム;;;;;;;;;;;;x
+b_sarqinya;ベルベース;;;;;;;;;;;;x
+b_malhalla;al-Malhalla;;;;;;;;;;;;x
+b_mansoura;Mansoura;;;;;;;;;;;;x
+b_tanta;Tanta;;;;;;;;;;;;x
+b_samannud;Samannud;;;;;;;;;;;;x
+b_edkhou;Edkhou;;;;;;;;;;;;x
+b_scetis;Scetis;;;;;;;;;;;;x
+b_naucratis_egypt;Naucratis;;;;;;;;;;;;x
+b_shatnuf;Shatnuf;;;;;;;;;;;;x
+b_nikiou;Nikiou;;;;;;;;;;;;x
+b_minya;Minya;;;;;;;;;;;;x
+b_wadi_el_rayan;Wadi el Rayan;;;;;;;;;;;;x
+b_ahnas;Ahnas;;;;;;;;;;;;x
+b_bahnasa;Bahnasa;;;;;;;;;;;;x
+b_heracleus;Heracleus;;;;;;;;;;;;x
+b_arsinoe_faiyum;アルシノエ;;;;;;;;;;;;x
+b_mount_anthony;Mount Anthony;;;;;;;;;;;;x
+b_suhaj;Suhaj;;;;;;;;;;;;x
+b_hiw;Hiw;;;;;;;;;;;;x
+b_khnum;Khnum;;;;;;;;;;;;x
+b_armant;Armant;;;;;;;;;;;;x
+b_edfu;Edfu;;;;;;;;;;;;x
+b_al_minya;Al Minya;;;;;;;;;;;;x
+b_antinoe;Antinoe;;;;;;;;;;;;x
+b_besa;Besa;;;;;;;;;;;;x
+b_hibeh;Hibeh;;;;;;;;;;;;x
+b_sharuna;シャルナ;;;;;;;;;;;;x
+b_merimda;Merimda;;;;;;;;;;;;x
+b_cynopolis;Cynopolis;;;;;;;;;;;;x
+b_sokhna;Sokhna;;;;;;;;;;;;x
+b_beni_suef;Beni Suef;;;;;;;;;;;;x
+b_rosetta;ラシード;;;;;;;;;;;;x
+b_pelusia;ティニース;;;;;;;;;;;;x
+b_zygra;ジグラ;;;;;;;;;;;;x
+b_al_hadid;al-Hadid;;;;;;;;;;;;x
+b_apis;Apis;;;;;;;;;;;;x
+b_zygis;Zygis;;;;;;;;;;;;x
+b_phocusa;Phocusa;;;;;;;;;;;;x
+b_selinais;Selinais;;;;;;;;;;;;x
+b_leuce;Leuce;;;;;;;;;;;;x
+b_farama;Pelusia;;;;;;;;;;;;x
+b_gizeh;Giza;;;;;;;;;;;;x
+b_buhairya;バハリーヤ;;;;;;;;;;;;x
+b_farafra;ファラフラ;;;;;;;;;;;;x
+b_wadi_hinnis;Wadi Hinnis;;;;;;;;;;;;x
+b_ain_della;Ain Della;;;;;;;;;;;;x
+b_white_desert;白い砂漠;;;;;;;;;;;;x
+b_ain_bishay;Ain Bishay;;;;;;;;;;;;x
+b_el_harrah;El Harrah;;;;;;;;;;;;x
+b_ain_et_tibniya;Ain et-Tibniya;;;;;;;;;;;;x
+b_salvius;Salvius;;;;;;;;;;;;x
+b_pius;Pius;;;;;;;;;;;;x
+b_bonda;Bonda;;;;;;;;;;;;x
+b_habsburg;ハプスブルク;;;;;;;;;;;;x
+b_alvalade;Alvalade;;;;;;;;;;;;x
+b_rodao;Rodao;;;;;;;;;;;;x
+b_idanha;Idanha;;;;;;;;;;;;x
+b_alcains;Alcains;;;;;;;;;;;;x
+b_penha;Penha;;;;;;;;;;;;x
+b_belver;Belver;;;;;;;;;;;;x
+b_alvor;Alvor;;;;;;;;;;;;x
+b_arrifana;Arrifana;;;;;;;;;;;;x
+b_ayamonte;Ayamonte;;;;;;;;;;;;x
+b_portichuelo;Portichuelo;;;;;;;;;;;;x
+b_sintra;Sintra;;;;;;;;;;;;x
+b_almada;Almada;;;;;;;;;;;;x
+b_palmela;Palmela;;;;;;;;;;;;x
+b_sesimbra;Sesimbra;;;;;;;;;;;;x
+b_alcochete;Alcochete;;;;;;;;;;;;x
+b_pegoes;Pegoes;;;;;;;;;;;;x
+b_montijo;Montijo;;;;;;;;;;;;x
+b_lamego;Lamego;;;;;;;;;;;;x
+b_lascrocinas;Las Crocinas;;;;;;;;;;;;x
+b_pilas;Pilas;;;;;;;;;;;;x
+b_ostilia;Ostilia;;;;;;;;;;;;x
+b_aroche;Aroche;;;;;;;;;;;;x
+BASILEUS_TITLE;バシレウス;;;;;;;;;;;;x
+BASILEUS_TITLE_FEMALE;バシリサ;;;;;;;;;;;;x
+title_hypatos;ヒュパトス;;;;;;;;;;;;x
+title_augusta;アウグスタ;;;;;;;;;;;;x
+county_of_sardinian;ジュディカート;;;;;;;;;;;;x
+count_sardinian;ジュディチェ;;;;;;;;;;;;x
+count_female_sardinian;ジュデッサ;;;;;;;;;;;;x
+DUCHY_HOLLAND;ホラント;;;;;;;;;;;;x
+DUCHY_HOLLAND_ADJ;ホラント;;;;;;;;;;;;x
+COUNTY_HOLLAND;ホラント;;;;;;;;;;;;x
+COUNTY_HOLLAND_ADJ;ホラント;;;;;;;;;;;;x
+COUNTY_WESTFRIESLAND;ヴェストフリースラント;;;;;;;;;;;;x
+COUNTY_WESTFRIESLAND_ADJ;ウェストフリースラント;;;;;;;;;;;;x
+COUNTY_GELRE;ヘルレ;;;;;;;;;;;;x
+COUNTY_GELRE_ADJ;ヘルレ;;;;;;;;;;;;x
+DUCHY_GELRE;ヘルレ;;;;;;;;;;;;x
+DUCHY_GELRE_ADJ;ヘルレ;;;;;;;;;;;;x
+COUNTY_BREDA;ブレダ;;;;;;;;;;;;x
+COUNTY_BREDA_ADJ;ブレダ;;;;;;;;;;;;x
+EVTDESC7830;My co-conspirator, [From.GetTitledFirstName], has procured a venomous viper, and sends word that it will soon dig its fangs into [Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;;;x
+IS_LOCAL_HUMAN_OBSERVER;The local player is an observer.;;;;;;;;;;;;x
+IS_NOT_LOCAL_HUMAN_OBSERVER;The local player is NOT an observer.;;;;;;;;;;;;x
+DESTROY_WONDER_EFFECT;The Great Work is destroyed.\n;;;;;;;;;;;;x
+OTTO_THE_FIRST_ERA;鉄の時代;;;;;;;;;;;;x
+OTTO_THE_FIRST_ERA_INFO;936年8月7日、ドイツ国王に即位したオットーI世は、神聖ローマ帝国を再興すべく、宿敵を打倒し、失われたイタリアの領土を奪還すべく困難な戦役を開始していた。カルパチア盆地に定住したマジャールは隣国への征服と略奪で悪名を轟かせ、ヨーロッパ中で恐れられることになった。北ではキリスト教会が異教の諸王の改宗を足がかりにスカンジナビア半島へと進出しようとしているが、ヴァイキング達の中では未だゲルマンの古の教えが根強い。遥か南東のバグダッドには古のアッバース朝が未だ健在だが、かつてペルシャからヒスパニアまでを支配した大帝国も、内紛に陥った結果残された領土はかつての大帝国の心臓部のみである。そしてアフリカ沿岸に新たな宿敵となるファーティマ朝が勃興し、アッバース朝の崩壊後に残された真空地帯へと進出せんとしていた。;;;;;;;;;;;;x
+ARLES;アルル;;;;;;;;;;;;x
+ARLES_ADJ;アルル;;;;;;;;;;;;x
+e_bulgaria;ブルガリア;;;;;;;;;;;;x
+e_bulgaria_adj;ブルガリア;;;;;;;;;;;;x
+k_liao;遼;;;;;;;;;;;;x
+k_liao_adj;契丹;;;;;;;;;;;;x
+d_qarmatian;カルマト派カリフ国;;;;;;;;;;;;x
+d_qarmatian_adj;カルマト派カリフ国;;;;;;;;;;;;x
+d_guiyi;帰義軍節度使;;;;;;;;;;;;x
+d_guiyi_adj;帰義軍節度使;;;;;;;;;;;;x
+HAMALAND;ハーマラント;;;;;;;;;;;;x
+HAMALAND_ADJ;ハーマラント;;;;;;;;;;;;x
+TEISTERBANT;テイスターバン;;;;;;;;;;;;x
+TEISTERBANT_ADJ;テイスターバン;;;;;;;;;;;;x
+KENNEMERLAND;ケンネメルラント;;;;;;;;;;;;x
+KENNEMERLAND_ADJ;ケンネメルラント;;;;;;;;;;;;x
+WEST_FRISIA;西フリジア;;;;;;;;;;;;x
+WEST_FRISIA_ADJ;西フリジア;;;;;;;;;;;;x
+d_scholae_palatinae;Scholae Palatinae;;;;;;;;;;;;x
+domestic;Domestic;;;;;;;;;;;;x
+domestic_female;Domestic;;;;;;;;;;;;x
+domestic_byzantine;Domestikos;;;;;;;;;;;;x
+domestic_latin;Domesticus;;;;;;;;;;;;x
+domestic_FOA;Domestic;;;;;;;;;;;;x
+d_pechina;Pechina;;;;;;;;;;;;x
+d_pechina_adj;Pechinan;;;;;;;;;;;;x
+b_al_gassani;アル＝ガッサニ;;;;;;;;;;;;x
+b_ruayn;Ru'ayn;;;;;;;;;;;;x
+b_banu_sarray;バヌ・サーライ;;;;;;;;;;;;x
+b_aswadid;アスワド;;;;;;;;;;;;x
+b_yeshayahu;Yeshayahu;;;;;;;;;;;;x
+e_cordoba;コルドバ;;;;;;;;;;;;x
+e_cordoba_adj;コルドバ;;;;;;;;;;;;x
+k_franconia_otto;フランケン;;;;;;;;;;;;x
+k_franconia_otto_adj;フランケン;;;;;;;;;;;;x
+k_thuringia_otto;チューリンゲン;;;;;;;;;;;;x
+k_thuringia_otto_adj;チューリンゲン;;;;;;;;;;;;x
+k_swabia_otto;シュヴァーベン;;;;;;;;;;;;x
+k_swabia_otto_adj;シュヴァーベン;;;;;;;;;;;;x
+title_hypatos_female;Hypatissa;;;;;;;;;;;;x
+title_hypatos_desc;執政官：現在では名誉称号だが、帝国でも重要な臣下の証である。;;;;;;;;;;;;x
+title_patrikios;パトリキオス;;;;;;;;;;;;x
+title_patrikios_female;パトリキア;;;;;;;;;;;;x
+title_patrikios_desc;パトリシアン：保持者はローマ社会で上流階級だと認識され、帝国で最も有力な臣下のために確保される。;;;;;;;;;;;;x
+title_sebastos;セバストス;;;;;;;;;;;;x
+title_sebastos_female;Sebaste;;;;;;;;;;;;x
+title_sebastos_desc;Venerable one: Only important members of the imperial family and those related to them by marriage or blood may bear this venerable title.;;;;;;;;;;;;x
+title_augusta_desc;最も敬虔なるアウグスタ：男性の場合とは異なり、アウグスタは帝国で最も重要な女性であり続ける。強大な権力と権威の持ち主は、バシレウスに次いでアウグスタが二位である。;;;;;;;;;;;;x
+sardinian;サルデーニャ;;;;;;;;;;;;x
+emperor_bulgarian;ツァーリ;;;;;;;;;;;;x
+emperor_female_bulgarian;ツァーリナ;;;;;;;;;;;;x
+qarmatian;カルマト派;;;;;;;;;;;;x
+qarmatian_DESC;カルマト派はゾロアスター教の要素を取り込んだイスラム教シーア派の一分派です。シーア派の統治者たちによる主流派の継承を否定して、10世紀のアラビア半島東部で神権共和国を樹立しました。メッカへの残忍な略奪とハッジの拒否によって歴史に名を残した。;;;;;;;;;;;;x
+athelstan;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+athelstan_desc;Famed and respected as the ruler who pushed the vikings out of the British Isles, and the first King of England.;;;;;;;;;;;;x
+rudolph;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+rudolph_desc;Known for combining the two separate parts of Burgundy to form the new Kingdom of Arles.;;;;;;;;;;;;x
+fatimid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+fatimid_desc;アッバース朝カリフの動乱の時代、[This.GetFullName]の名のもとにファーティマ朝はイフリーキヤにカリフ国を建国しました。;;;;;;;;;;;;x
+otto;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+otto_desc;Conquered Italy, regained the old lands of the Holy Roman Empire and raised its banners once more.;;;;;;;;;;;;x
+jannabid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+jannabid_desc;He is famed for conquering Bahrein and establishing the Qarmatian Republic. They would go on to haunt their neighbors for many years to come.;;;;;;;;;;;;x
+mardavij;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
+mardavij_desc;He was the last Zoroastrian ruler who fought back against the Muslims in Persia, trying to reestablish the Sasanian Empire;;;;;;;;;;;;x
+bloodline_effect_princely_elective_boon;§YPrincely Elective§! §GBoon§!;;;;;;;;;;;;x
+bloodline_effect_shiite_leader;§Y[shiite.GetName] Leadership§!;;;;;;;;;;;;x
+bloodline_effect_qarmatian_leader;§Y[qarmatian.GetName] Leadership§!;;;;;;;;;;;;x
+shiite_opinion;[shiite.GetName]信者からの評価;;;;;;;;;;;;x
+qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;;x
+vushmgir_brothers_legacy;マルダーウィージュの遺産;;;;;;;;;;;;x
+vushmgir_brothers_legacy_desc;My brother Mardavij tried to repel the Muslim faith and restore the Sasanian Empire in Persia. Though he failed, maybe it is time for me to pick up his legacy and reestablish the empire myself?;;;;;;;;;;;;x
+kievan_rus_local_traditions;地元の慣習;;;;;;;;;;;;x
+kievan_rus_local_traditions_desc;キエフの領主として敬意は払われているが、いつも一部の廷臣や封臣とは距離を置かれている。もしかしたらこの土地の文化と信仰を受け入れるべきなのだろうか？;;;;;;;;;;;;x
+empire_of_bulgaria_decision;[e_bulgaria.GetName]帝国を創設;;;;;;;;;;;;x
+empire_of_bulgaria_decision_desc;我々の領土は通常の王国の強さと規模を遙かに超えて広がっている。今こそ我らの国を[e_bulgaria.GetName]帝国として知らしめるときだ。;;;;;;;;;;;;x
+shiite_caliphate_cairo_decision;カイロの建設;;;;;;;;;;;;x
+shiite_caliphate_cairo_decision_desc;下[k_egypt.GetName]の美しきデルタのカリフのために、新しい首都を作るときだ。;;;;;;;;;;;;x
+cairo_decision_TT;§Y[c_cairo.GetName]§!を新しい首都とする;;;;;;;;;;;;x
+establishing_habsburg;ハピスブルク城を築城;;;;;;;;;;;;x
+establishing_habsburg_desc;[c_aargau.GetName]州に丁度新たな城を建てられる場所を見つけた。この城は我が一族の誇りとなるだろう。そしてこの城に因んでこれから我々はハプスブルク家として知られるようになるだろう。;;;;;;;;;;;;x
+establishing_habsburg_family;§Y[Root.GetTitledName]§!と近親者が§Yフォン・ハプスブルク§!家の一員となります。;;;;;;;;;;;;x
+nick_the_dane;デーン人;;;;;;;;;;;;x
+nick_longsword;ロングソード;;;;;;;;;;;;x
+era_char_name_1282;オットー1世;;;;;;;;;;;;x
+ERA_CHAR_INFO_1282;オットーは父ヘンリー1世の死後ドイツ国王に即位した。治世初期にはバイエルンのエーベルハルト公の反乱を鎮圧し、西フランクのルイ4世およびロレーヌのギルバート公と戦争をしなければならなかった。戦争による平和を確立した後、オットーはイタリアの王位を求め戦い続け、同時に東側でのハンガリーの脅威を押しとどめた。晩年には神聖ローマ帝国の皇帝として即位した後も、この新たな帝国の維持のためにイタリアで奮闘を続けなければならなかった。オットー家は彼の死後、半世紀近くにわたって帝国を支配し、1024年にヘンリー二世が死去するまで続いた。;;;;;;;;;;;;x
+era_char_name_32901;カリフ アル=カーイム;;;;;;;;;;;;x
+ERA_CHAR_INFO_32901;アル・カイムは父親のカリフ・アル・マフディに従ってイフリーキヤに定住し、ファーティマ朝カリフ国を建国した。バグダッドのアッバース朝カリフに真っ向から対立し、アッバース朝が周辺地域を支配できなくなったために残された空白を埋めていった。彼の治世初期、西部でアブー・ヤジドに率いられた大規模な反乱が起きた。数年後、反乱は首都マーディアに近づくにつれてますます大きくなりファーティマの軍は押し込まれていった。しかしアル・カイムの死後、彼の息子で後継者であるアブー・マンスールはついに反乱を鎮圧し、再び彼らの土地を支配することに成功した。その後、王朝はイフシード朝エジプトに侵攻しカリフ国家の新しい首都としてカイロを設立した。;;;;;;;;;;;;x
+era_char_name_33350;エゼルスタン;;;;;;;;;;;;x
+ERA_CHAR_INFO_33350;エゼルスタンはエドワード長兄王の息子として父の死後にマーシアを、弟の死後数週間もしないうちにウェセックスを得た。ヨークでノルウェーと戦争をしていた彼は、927年に北進、都市を得て真に統一したイングランド最初の王になった。それから10年後の937年、スコットランド、ストラスクライド、ダブリンの連合軍がエゼルスタンと戦い、ブルナンバラの戦いで幕を閉じた。決定的な勝利を得て、エゼルスタンはついにイングランドでの支配を確保したように見えたが、わずか2年後に彼は死亡し、異母兄弟エドモンドが後を継いだ。;;;;;;;;;;;;x
+era_char_name_260976;アブー・ターヒル・アル＝ジャンナービー;;;;;;;;;;;;x
+ERA_CHAR_INFO_260976;アブー・カシム・サイードは、ファーティマ朝が西方で勃興したとき、バーレーンにある彼の首都を中心にカルマト派を設立した。彼の父の死後、アブー・ターヒルは新たに指導者を引き継ぎ、エジプトやアッバース朝領土への襲撃をしてアラビア半島中で悪名を轟かせた。930年にはメッカを略奪し、そこを旅していた多くの巡礼者を殺害して黒石（カアバ）を奪った。この罰当たりな行為の後、カルマト派はイスラム世界全体でますます憎悪されるようになったがアブー・ターヒルは隣国への襲撃と破壊を続け、それから10年後に死亡した。;;;;;;;;;;;;x
+era_char_name_159135;アールパード・ゾルターン;;;;;;;;;;;;x
+ERA_CHAR_INFO_159135;ハンガリーの第三王子として、また伝説的なアールパードの後継者として、ゾルターンは10世紀初頭の数十年間にわたって人々を率いていた。この時代を通してハンガリーはビザンティウムからコルドバまでヨーロッパ中を旅する襲撃者たちを恐れていた。950年に彼が死ぬと、ハンガリーの襲撃者たちはオットーI世にレヒフェルトの戦いで撃退され、その暴政に終止符が打たれるのはそれからわずか数年後であった。;;;;;;;;;;;;x
+era_char_name_144001;ホーコン1世;;;;;;;;;;;;x
+ERA_CHAR_INFO_144001;ホーコンはノルウェーの伝説的な王、ハーラル美髪王のたくさんの息子の内の1人だった。兄のエイリークはノルウェーを制圧したが、その独裁政権は彼を不人気にさせ、反乱が起きるまでそう長くはかからなかった。イングランドのアゼルスタン王に養育されていたホーコンは王国の統治を引き継ぐためノルウェーに送り戻された。 圧倒的な原始宗教の中にキリスト教徒として、彼は多くのノルウェー部族に対して長きに渡り優しき支配を続けた（善王）。しかしその統治は異母兄弟であるエイリークの息子や孫たちを支持したデンマーク王に脅され続けた。結局ホーコンはフィッテャールの戦いでデンマークを撃退したときに倒れ、甥のハーラル2世灰衣王が後を継いだ。;;;;;;;;;;;;x
+RETTYPE_CUL_SAR;[sardinian.GetName] Birrudo;;;;;;;;;;;;x
+ca_culture_sardinian_1;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+ca_culture_sardinian_2;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+ca_culture_sardinian_3;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+ca_culture_sardinian_4;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+tb_culture_sardinian_1;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+tb_culture_sardinian_2;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+tb_culture_sardinian_3;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+tb_culture_sardinian_4;[sardinian.GetName] Garrison;;;;;;;;;;;;x
+ca_culture_sardinian_1_desc;これらの駐屯地は[sardinian.GetName]の地ではごく一般的で、最も優秀な部隊が地域を守るためのものです。;;;;;;;;;;;;x
+CB_NAME_THANKMARS_REBELLION;タンクマールの反乱;;;;;;;;;;;;x
+WAR_NAME_THANKMARS_REBELLION;タンクマールの反乱;;;;;;;;;;;;x
+THANKMARS_REBELLION_VICTORY_TT;§Yタンクマール§!は§Yドイツ王国§!の新たな王となるだろう。;;;;;;;;;;;;x
+RULE_OTTO_STORY;§B鉄の時代：§!ストーリーイベント;;;;;;;;;;;;x
+RULE_OTTO_STORY_ON_DESC;ブックマーク「鉄の時代」を取り巻く様々なストーリーイベントが発生します。;;;;;;;;;;;;x
+RULE_OTTO_STORY_OFF_DESC;ブックマーク「鉄の時代」を取り巻く様々なストーリーイベントが発生しません。;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_bloodline;[From.GetSheHeCap]は有名な血脈の継承者です。;;;;;;;;;;;;x
+shiite_bloodline_TT;§Y[shiite.GetName]§!のリーダーの血脈を引き継いでいる。;;;;;;;;;;;;x
+qarmatian_bloodline_TT;§Y[qarmatian.GetName]§!のリーダーの血脈を受け継いでいる。;;;;;;;;;;;;x
+shia_creation_independent;独立している、もしくは全ての主が公に§Y[shiite.GetName]§!宗教を信仰している\n;;;;;;;;;;;;x
+sunni_creation_independent;独立している、もしくは全ての主が公に§Y[sunni.GetName]§!宗教を信仰している\n;;;;;;;;;;;;x
+not_shia_caliphate_revolt_ongoing;現在§Yシーア派カリフ§!の反乱が発生していない;;;;;;;;;;;;x
+empire_bulgaria_TT;§Y[k_bulgaria.GetName]§!以外に王国号を一つ保持している;;;;;;;;;;;;x
+THANKMAR_REBELLION_01_TT;タンクマールが生きている;;;;;;;;;;;;x
+THANKMAR_REBELLION_02_TT;オットーが生きている;;;;;;;;;;;;x
+EVTTITLE_LT_40003;ロートリンゲンの裏切り者;;;;;;;;;;;;x
+EVTDESC_LT_40003;名誉ある父ハインリヒ王の死後裏切り者のロートリンゲン公ギゼルベルトは王への奉仕をやめ、今度は支援を求めてカロリング朝西フランク王国の側に変じた。\n\nギゼルベルトは古からの主君に対する奉仕を放棄しただけでなく、スパイによるとこの邦で反乱を画策してる領主共と陰謀を企んでいるらしい。もはやこれ以上の侮辱を蔑ろにするわけにはいかない。今こそ不当に奪われたものを取り返すべき時だ。;;;;;;;;;;;;x
+EVTOPTA_LT_40003;ロートリンゲンはカロリング朝西フランク王国の物でも彼奴らの封臣の物でもない。;;;;;;;;;;;;x
+EVTOPTB_LT_40003;自分たちだけでも協定は尊重されるべきだ。;;;;;;;;;;;;x
+EVTOPTA_LT_40004_TT;ギゼルベルト公にもロートリンゲンにも介入しません。;;;;;;;;;;;;x
+EVTTITLE_LT_40004;ドイツ人の攻撃;;;;;;;;;;;;x
+EVTDESC_LT_40004;東に送った斥候からの報告は懸念を裏付けるものだった。オットーはこの領地への攻撃を準備している。ドイツ人の王がロートリンゲンを主権下に取り戻されるべき理由を正当化するのに長い時間がかかったが、遂に彼奴らは後先考えぬ行動に出たようだ。\n\n今こそ防衛を行うため兵士を集める時だ。ロートリンゲンは独立邦だ。この邦を侵すつもりならその一歩毎に重たい代償を支払わせてやる。;;;;;;;;;;;;x
+EVTOPTA_LT_40004;抵抗なくこの地を通過できると思うなよ。;;;;;;;;;;;;x
+EVTTITLE_LT_40005;反逆の弟;;;;;;;;;;;;x
+EVTDESC_LT_40005;我が弟オットーは若年の頃から厄介な棘であり、それは父ヘンリーの後継者となってよりエスカレートし始めた。本来私のものであるべき正当なる称号をいくつも保有し、代わりに他の者へと分け与えた。\n\n他の領主からの書簡によると、兄の暴政に怯えているのが私だけではないことは明らかだ。もしオットーに対し戦いを起こせば、特にフランケン、東フリージアは間違いなく我が方につくだろう。;;;;;;;;;;;;x
+EVTOPTA_LT_40005;ハインリヒの正統なる後継者としての地位を取り戻すときだ。;;;;;;;;;;;;x
+EVTOPTB_LT_40005;このような戦争には誰も付いて来まい。;;;;;;;;;;;;x
+EVTTITLE_LT_40006;タンクマールの反乱;;;;;;;;;;;;x
+EVTDESC_LT_40006;ハインリヒの年上の庶子タンクマールは、我が君主であり彼の弟オットーに対して戦争を宣言した。彼が弟から軽んじられていることに長らく不満を持っていたことは明らかであり、[Root.Capital.GetName]に使者が到着した際にも驚きはなかった。\n\n長く退屈な口上が終わり、使者はついに、反乱に加わるか否か、主君に持ち帰る答えを尋ねてきた。特にオットーに対して何かしてきたわけではないが、少々やり過ぎのようにも感じる。だがこれはザクセン王としての権威を弱める良い機会である。;;;;;;;;;;;;x
+EVTOPTA_LT_40006;よし、すぐにオットーに対し進軍すると伝えよ。;;;;;;;;;;;;x
+EVTOPTB_LT_40006;我々はそのような小さな争いに興味はないと伝えよ。;;;;;;;;;;;;x
+EVTTITLE_LT_40007;タンクマールの反乱;;;;;;;;;;;;x
+EVTDESC_LT_40007;最愛の兄タンクマールが私のドイツ人への支配に対し軍を率いて叛旗を翻したようだ。宮廷の誰しもがこの出来事に驚いているが、あの男は常に野心を抱き続けていたのだ。\n\n数分の後、我が軍には全てに片をつけるべく、同胞であるザクセン人と戦う準備をせよとの命令を下した。このような事態となったことはまさに悲劇であるが、他に残された選択肢はない。\n\nこれ以上彼の旗の下に諸侯が集まらないよう願うのみだ。;;;;;;;;;;;;x
+EVTOPTA_LT_40007;タンクマール、お前もか？;;;;;;;;;;;;x
+EVTTITLE_LT_40009;タンクマールの勝利;;;;;;;;;;;;x
+EVTDESC_LT_40009;長く疲労を伴う戦争の後、ついにオットーが鎖に繋がれて連れてこられ、我々の勝利が確定した。彼の姿には疲労がにじみ、この結末を悲しんでいるように見えたが、我々の祝宴を邪魔させはしない。\n\n諸侯たちは今、ドイツの新しい王としての私に指示を求めている。しかし私は最近になり、国外の土地へのザクセンの支配を終わらせる時ではないかと感じるようになっていた。カロリング家とメロヴィング家がドイツ人を一つの支配の下へと統一する前の、過去の時代へと戻る時かもしれない。;;;;;;;;;;;;x
+EVTOPTA_LT_40009;父の代から受け継いだ統治を続けよう。;;;;;;;;;;;;x
+EVTOPTB_LT_40009;古き時代に帰るときが来たのだ。;;;;;;;;;;;;x
+EVTOPTB_LT_40009_TT;領内の強大な公爵には独立が認められ、§Yドイツ王国§!は次のように分割される。\n\n* §Yザクセン王国§!\n* §Yチューリンゲン王国§!\n* §Yフランケン王国§!\n* §Yシュヴァーベン王国§!\n\n§Y神聖ローマ帝国§!は失われた称号となり、以降取得することは出来ないだろう。;;;;;;;;;;;;x
+EVTTITLE_LT_40010;古き時代への回帰;;;;;;;;;;;;x
+EVTDESC_LT_40010;弟であるオットーの軍隊を撃破したのち、ドイツ王タンクマールは古来の部族が再び彼ら自身の手によって統治されることを宣言した。もはやサクソンの王が外国の人々を支配することはないだろう。\n\nカロリング家、メロヴィング家、そして彼自身の一族によって築き上げられてきた何世紀にもわたる権力を放棄し、ただ南部の王たちを縛り付けていた古い盟約を捨て去った。\n\nフランケン、シュヴァーベン、チューリンゲン、バイエルンはこの不安定な時代に、彼らの支配者を頼りにしている。シャルルマーニュの遺産は永遠に葬られたと言われている。;;;;;;;;;;;;x
+EVTOPTA_LT_40010;興味深い…;;;;;;;;;;;;x
+EVTTITLE_LT_40011;オットーの勝利;;;;;;;;;;;;x
+EVTDESC_LT_40011;鎖につながれ連れて来られたタンクマールに目をやる。私の前に立つ、かつて偉大であった兄は、やつれて疲れ果てたように見えた。そしてついに、彼を連れていくよう衛兵に命令を下した。\n\n祝宴は開かれなかった。それは我々にとって悲劇でしかないからだ。実に酷い結末ではあるが、この争いの中で出せる唯一の答えであったろう。\n\n王国の反動的な領主たちを抑えることができた今、これからは未来へと目を向けるときだ。;;;;;;;;;;;;x
+EVTOPTA_LT_40011;やるべきことが、まだたくさんあるぞ。;;;;;;;;;;;;x
+EVTTITLE_LT_40012;イタリア王国;;;;;;;;;;;;x
+EVTDESC_LT_40012;[italian_king.GetTitledFirstName]の恐るべき指導力により、イタリアはかつての陰と化してしまった。ローマ人とその子孫の偉大な遺産は、数十年間に及ぶ内戦と混乱により破壊された。\n\n今彼の指揮下にある多くのイタリアの小領主たちが援助を求める使者を送ってきた。彼らは私たちの支配下にあった時代を懐かしがっているらしい。我々がシャルルマーニュの旗をもう一度掲げたいと願うなら、その帝国を真に継ぐ者であることを証明するためにも、イタリア王国が必要である。;;;;;;;;;;;;x
+EVTOPTA_LT_40012;皆の者準備せよ、イタリアは我らのために必要である。;;;;;;;;;;;;x
+EVTOPTB_LT_40012;その土地に関心はない。好きに内戦でもさせておけばいい。;;;;;;;;;;;;x
+EVTTITLE_LT_40013;オットーの侵略;;;;;;;;;;;;x
+EVTDESC_LT_40013;北方のドイツ人の王、オットーは我々に宣戦布告した。これはイタリアに住む人々のためだと大声で叫び、[italian_king.GetTitledName]の支配から解放するのだと主張している。\n\nドイツ人はアルプスを超えるための準備を進めており、イタリア全土を巻き込む混乱に終止符を打とうとしている。彼らを侵略者とみなし立ち向かうのは誰だろうか、そして彼らを古くからの隣人や友人のように迎え入れるのは誰だろうか。;;;;;;;;;;;;x
+EVTOPTA_LT_40013;来るがいい！;;;;;;;;;;;;x
+EVTOPTB_LT_40013;興味深い…;;;;;;;;;;;;x
+EVTTITLE_LT_40014;神聖ローマ帝国;;;;;;;;;;;;x
+EVTDESC_LT_40014;ドイツ人の王としてイタリア王国の称号も手にした今、シャルルマーニュの名声と帝国を我が物と主張できる可能性に反論できるものはほとんど居ないだろう。残すところは公にそのようなことを宣言することだけだ。友人や相談役はその時を待っている。宮廷司祭は戴冠式の準備はもう出来ているからいつでも大丈夫だと言ってくれた。\n\n今こそずっと待ち望まれていた運命を遂にこの手で掴むべきだろうか？シャルルマーニュの旗を再び掲げ、神聖ローマ帝国の皇帝を名乗るべきだろうか？;;;;;;;;;;;;x
+EVTOPTA_LT_40014;シャルルマーニュの後継者は我々だ。;;;;;;;;;;;;x
+EVTOPTB_LT_40014;まだその時ではない。;;;;;;;;;;;;x
+EVTTITLE_LT_40015;オットー大帝の戴冠式;;;;;;;;;;;;x
+EVTDESC_LT_40015;[From.Capital.GetName]で美しい式典が開かれ、オットーは自分の西ローマ皇帝への戴冠式に友人、味方そして敵を問わず至るところから人を招いた。自分の治世の初期に逆らった領主は鎮圧され、バラバラになった父の領地が取り戻された今、王に逆らうものはほとんど残っていなかったのだ。\n\nシャルルマーニュの旗が再び掲げられ、長きに渡って失われていた帝国の権威をオットーは得た。波乱に満ちた治世の始まりからは誰も想像できなかったことを成し遂げたのだ。この次の計画はなんだというのだろう？;;;;;;;;;;;;x
+EVTOPTA_LT_40015;It is time.;;;;;;;;;;;;x
+EVTOPTB_LT_40015;彼に祝福あるべし。;;;;;;;;;;;;x
+EVTTITLE_LT_40016;Egypt Calls for Aid;;;;;;;;;;;;x
+EVTDESC_LT_40016;The Shias under the rule of [sultan_egypt.GetTitledName] have long suffered from being treated different to their Sunni neighbors, and lately it has gotten even worse. Stories of families being run out of or murdered in their homes have been told back to us, and now they are looking for someone to help them out.\n\nSeveral messengers, traders and merchants have come to [Root.Capital.GetName] to seek our aid, begging us to intervene. Egypt has long been an area that we have wished to influence, and this could be an opportunity to do just that.;;;;;;;;;;;;x
+EVTOPTA_LT_40016;And [Root.PrimaryTitle.GetName] will answer!;;;;;;;;;;;;x
+EVTOPTB_LT_40016;Sadly, we do not have the resources to help them.;;;;;;;;;;;;x
+EVTDESC_LT_41000;The name 'West-Frisia' is a relic of times past, when the Frisians had presence in these lands. With them driven out and replaced by mighty Dutch, people have begun calling our realm 'Holland' instead, after the forested lands that form the center of the duchy. Perhaps it is time for us to embrace the change and use the new name in our records?;;;;;;;;;;;;x
+EVTOPTA_LT_41000;Yes, progress is progress!;;;;;;;;;;;;x
+EVTOPTB_LT_41000;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTTITLE_LT_41001;A Land Renamed;;;;;;;;;;;;x
+EVTDESC_LT_41001;The lands north of the Rhine delta were once ruled by a mighty Frisian kingdom, but with their presence a distant memory, 'Holland' has become the accepted term for their duchy. [From.GetBestName] has encouraged the transition, and will be using it in [From.GetHerHis] official records from this moment forward.;;;;;;;;;;;;x
+EVTOPTA_LT_41001;How we have fallen...;;;;;;;;;;;;x
+EVTOPTB_LT_41001;A newer, mightier culture rules Holland now!;;;;;;;;;;;;x
+EVTOPTC_LT_41001;Good for them!;;;;;;;;;;;;x
+EVTOPTD_LT_41001;A weed by any other name...;;;;;;;;;;;;x
+EVTDESC_LT_41002;After the failed revolt of [From.GetBestName] has finally been put down, [geldern_holder.GetTitledName] has brought forward a petition to your court to be installed as the ruler of Hamaland in the traitor's stead. [geldern_holder.GetSheHeCap], a claimant to Hamaland, seems a skilled and trustworthy fellow, and would no doubt be an asset to the realm.;;;;;;;;;;;;x
+EVTOPTA_LT_41002;Welcome to my court, [geldern_holder.GetFirstName]!;;;;;;;;;;;;x
+EVTOPTB_LT_41002;For that low baron? I think not.;;;;;;;;;;;;x
+EVTDESC_LT_41003;After the failed rebellion of [FromFrom.GetBestName], a baron from Geldern has won the favor of [From.GetBestName], and [geldern_holder.GetSheHe] has been elevated to higher nobility. [geldern_holder.GetSheHeCap] now rules in the land formerly known as Chamavia.;;;;;;;;;;;;x
+EVTOPTA_LT_41003;[FromFrom.GetTitledFirstName] brought this upon [FromFrom.GetHerselfHimself].;;;;;;;;;;;;x
+EVTOPTB_LT_41003;How short-sighted of [From.GetTitledFirstName].;;;;;;;;;;;;x
+EVTOPTC_LT_41003;裏切り者どもめ！あそこは私の領地なのだぞ！;;;;;;;;;;;;x
+DUCHY_CHAMAVIA;カマウィア;;;;;;;;;;;;x
+DUCHY_CHAMAVIA_ADJ;カマウィア;;;;;;;;;;;;x
+EVTDESC_LT_41004;A representative of the newly expanded city of Breda is making demands of you. They want their status as the main population center of the county of Toxandria to be recognized. The Toxandri were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Breda instead?;;;;;;;;;;;;x
+EVTOPTA_LT_41004;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;x
+EVTOPTB_LT_41004;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTDESC_LT_41005;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Toxandria by the name of its most populous city, Breda, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;x
+EVTOPTA_LT_41005;Good for them!;;;;;;;;;;;;x
+EVTOPTB_LT_41005;A weed by any other name...;;;;;;;;;;;;x
+burghers_appeased;Burghers Appeased;;;;;;;;;;;;x
+burghers_appeased_desc;This ruler respects the third estate, and has won their favor.;;;;;;;;;;;;x
+TOXANDRIA;トクサンドリア;;;;;;;;;;;;x
+TOXANDRIA_ADJ;トクサンドリア;;;;;;;;;;;;x
+EVTDESC_LT_41006;A representative of the newly expanded city of Kleve is making demands of you. They want their status as the main population center of the county of Hattuaria to be recognized. The Chattuarii were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Kleve instead?;;;;;;;;;;;;x
+EVTOPTA_LT_41006;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;x
+EVTOPTB_LT_41006;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTDESC_LT_41007;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Hattuaria by the name of its most populous city, Kleve, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;x
+EVTOPTA_LT_41007;Good for them!;;;;;;;;;;;;x
+EVTOPTB_LT_41007;A weed by any other name...;;;;;;;;;;;;x
+HATTUARIA;ハットゥリア;;;;;;;;;;;;x
+HATTUARIA_ADJ;ハットゥリア;;;;;;;;;;;;x
+d_faiyum;ファイユーム;;;;;;;;;;;;x
+d_asyut;アスユート;;;;;;;;;;;;x
+d_paraetonium;パラエトニウム;;;;;;;;;;;;x
+d_balata;リスボン;;;;;;;;;;;;x
+d_faiyum_adj;ファイユーム;;;;;;;;;;;;x
+d_asyut_adj;アスユート;;;;;;;;;;;;x
+d_paraetonium_adj;パラエトニウム;;;;;;;;;;;;x
+d_balata_adj;リスボン;;;;;;;;;;;;x
+c_faiyum_adj;ファイユーム;;;;;;;;;;;;x
+c_akhmim_adj;Ikhmian;;;;;;;;;;;;x
+c_esna_adj;Esnian;;;;;;;;;;;;x
+c_paraetonium_adj;Paraetoni;;;;;;;;;;;;x
+c_kharibta_adj;Kharibti;;;;;;;;;;;;x
+c_kolzum_adj;Kolzumer;;;;;;;;;;;;x
+c_sarqihya_adj;Bilbayen;;;;;;;;;;;;x
+c_gabiyaha_adj;Rasheedi;;;;;;;;;;;;x
+c_manupura_adj;Malhallan;;;;;;;;;;;;x
+c_pelusia_adj;Tinnian;;;;;;;;;;;;x
+c_al_alamayn_adj;Zygran;;;;;;;;;;;;x
+c_farama_adj;Pelusian;;;;;;;;;;;;x
+c_bahariya_adj;Bahariyan;;;;;;;;;;;;x
+c_castelo_branco_adj;Guardan;;;;;;;;;;;;x
+c_almada_adj;Almadan;;;;;;;;;;;;x
+tribal_king_hungarian;大公;;;;;;;;;;;;x
+tribal_kingdom_of_hungarian;大公国;;;;;;;;;;;;x
+tribal_king_female_hungarian;女大公;;;;;;;;;;;;x
+=======;;;;;;;;;;;;;x

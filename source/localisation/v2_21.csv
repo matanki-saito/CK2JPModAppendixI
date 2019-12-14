@@ -1,0 +1,47 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTNAME62951;ラグナルの呪い;;;;;;;;;;;;x
+EVTDESC62951;臆病なアエラ王は泥中私の前に跪き、目も合わせられないようです。この男は他よりも様々な刑罰を考えてきたものです。私は静粛にするよう命じ、かつこの命運尽きた男の上に激しくはためく鴉の旗を静かに下ろすよう命じました。今やまさに亡き父ラグナルのための復讐の時間です…;;;;;;;;;;;;x
+EVTOPTA62951;血塗られた鷲の入れ墨を彫れ！;;;;;;;;;;;;x
+EVTOPTB62951;彼をオーディンにいけにえとして捧げる！;;;;;;;;;;;;x
+EVTOPTC62951;カラスに食わせてしまえ！;;;;;;;;;;;;x
+EVTOPTD62951;別の考えがある…;;;;;;;;;;;;x
+EVTDESC62952;異教の野蛮人が私の目をくり抜く前にみた最後のものは、恐ろしくニヤニヤ笑う[From.GetFirstName]の顔でした。私を責めさいなもうとすることへのせめてもの抵抗に、体を丸めました…;;;;;;;;;;;;x
+EVTOPTA62952;ああああああ！;;;;;;;;;;;;x
+AIREASON_IN_OTHER_WAR;他の戦争中;;;;;;;;;;;;x
+AIREASON_BUSY_RAIDING;略奪中;;;;;;;;;;;;x
+WRONG_RELIGION_MODIFIER;異なる宗教;;;;;;;;;;;;x
+WRONG_CULTURE_MODIFIER;異なる文化;;;;;;;;;;;;x
+opinion_infidel_tribal_liege;邪教徒;;;;;;;;;;;;x
+opinion_heretic_tribal_liege;異端者;;;;;;;;;;;;x
+opinion_related_religion_tribal_liege;宗教の違い;;;;;;;;;;;;x
+AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT;多くの威信を要する;;;;;;;;;;;;x
+opinion_granted_other_vice_royalty;総督任命に対する封臣評価;;;;;;;;;;;;x
+GRANT_VICE_ROYALTY_INTERACTION_8;総督を任命すると、封建的な公爵と王の臣下の評価が§R$OPINION$§!下がります。;;;;;;;;;;;;x
+NOT_ANY_PREVIOUS_HOLDER_STARTS;前保有者なし;;;;;;;;;;;;x
+tribal_build_zeal_ARMY_OF;$CHARACTER$の$RELIGION$狂信者;;;;;;;;;;;;x
+tribal_organize_raid_ARMY_OF;$CHARACTER$の略奪者;;;;;;;;;;;;x
+tribal_build_legend_ARMY_OF;$CHARACTER$の戦士団;;;;;;;;;;;;x
+tribal_build_zeal_ARMY;$RELIGION$狂信者;;;;;;;;;;;;x
+tribal_organize_raid_ARMY;略奪者;;;;;;;;;;;;x
+tribal_build_legend_ARMY;戦士団;;;;;;;;;;;;x
+expel_saint_anthony;聖アントニウス騎士団の追放;;;;;;;;;;;;x
+expel_saint_anthony_desc;私は私の領国から聖アントニウス騎士団を彼らの城から追放できます。しかしながら、それは大変に不敬なことです…;;;;;;;;;;;;x
+ISNT_CROWN_LAW_TITLE;国主法称号ではない;;;;;;;;;;;;x
+IS_CROWN_LAW_TITLE;国主法称号である;;;;;;;;;;;;x
+LAW_UNLOCKS;法律のロック解除: ;;;;;;;;;;;;x
+DECISION_UNLOCKS;決断のロック解除: ;;;;;;;;;;;;x
+ALLOW_FREE_DUCHY_REVOKATION_ON;公爵位の剥奪は自由です。\n;;;;;;;;;;;;x
+ALLOW_FREE_DUCHY_REVOKATION_OFF;公爵位の剥奪はもはや自由ではありません。\n;;;;;;;;;;;;x
+LIEGE_LEVY_DESC_VICE_ROY;\n   総督: $VALUE$;;;;;;;;;;;;x
+TITLE_NOT_VICE_ROYALTY;称号は総督位ではない;;;;;;;;;;;;x
+tribal_king_female;女王;;;;;;;;;;;;x
+tribal_emperor_female;女帝;;;;;;;;;;;;x
+temple_duke_female_pagan_group;大神官;;;;;;;;;;;;x
+temple_king_female_pagan_group;聖王;;;;;;;;;;;;x
+temple_emperor_female_pagan_group;女帝;;;;;;;;;;;;x
+AIREASON_SAME_RELIGION_AS_REGENT;私と同信仰;;;;;;;;;;;;x
+expel_the_haruriyyah;ハルリ派を追放;;;;;;;;;;;;x
+expel_the_haruriyyah_desc;私は私の領地からハルリ派を追放し、その城を入手できます。しかし、これは大変に不敬なことです…;;;;;;;;;;;;x
+borrow_money_haruriyyah;ハルリ派から300¤を借りる;;;;;;;;;;;;x
+borrow_money_haruriyyah_desc;私はハルリ派から借金し、いつでも同額を返済することができます。しかしながら,彼らの債務者である間、騎士団総長は私に対し私の子の１人を入隊させるなど様々な要求ができます。;;;;;;;;;;;;x

@@ -1,0 +1,470 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+nick_the_inquisitor;異端審問官;;;;;;;;;;;;x
+nick_the_purifier;浄化;;;;;;;;;;;;x
+String_man_at_arm;重騎兵;;;;;;;;;;;;x
+String_spahi;スィパーヒー;;;;;;;;;;;;x
+MNM.6668.d;貴方は最近確かに控えめな振る舞いをしていない-大変頻繁にかつ露骨に[Root.Society.GetName]の力を、隠匿すべきという深慮無しに使用したことで、公然と[Root.Religion.GetPriestTitle]に背教者だと非難されることになりました！;;;;;;;;;;;;x
+opinion_accused_apostate;棄教を非難;;;;;;;;;;;;x
+accused_apostate;背教の烙印;;;;;;;;;;;;x
+accused_apostate_desc;この人物は背教の廉で糾弾されています。が、その主張が事実かどうかはまた別の問題です…;;;;;;;;;;;;x
+accuse_rival_tooltip;敵を蹴落すため、この[rival_target.GetHerHim]の背教を非難する機会を活用しよう。§Y[rival_target.GetBestName]§!はおそらく無罪だろうが、賢明ならざる主君にはどちらか判断つかないだろう…;;;;;;;;;;;;x
+apostate_found_tooltip;貴方は§Y[accused_apostate.GetBestName]§!を§Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§!の宮廷に引き出し、[Root.Liege.GetSheHe]が背教者の運命を決定づけます！;;;;;;;;;;;;x
+MNM.70110.d.highly_suspected_society_member;After taking statement from multiple witnessess and closely examining [accused_apostate.GetHerHis] every move, you have gathered enough damning evidence to accuse [accused_apostate.GetBestName] of apostasy - [accused_apostate.GetSheHe] has obviously sworn allegiance to [accused_apostate.Society.GetName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;;;x
+MNM.70110.d.suspected_society_member;After taking statement from multiple witnessess and closely examining [accused_apostate.GetHerHis] every move, you have managed to gather just enough evidence to accuse [accused_apostate.GetBestName] of apostasy - [accused_apostate.GetSheHe] has been consorting with [accused_apostate.Society.GetName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;;;x
+MNM.70110.d.suspected_apostate;While spying on [accused_apostate.GetBestName] you have found numerous heretical trinkets and books. All together you now have enough damning evidence to accuse [accused_apostate.GetHerHim] of apostasy - [accused_apostate.GetSheHeCap] claims to be a devout [accused_apostate.Religion.GetName], but [accused_apostate.GetSheHe] is obviously lying - [accused_apostate.GetSheHe] practices [accused_apostate.GetTrueReligionAdherent] in secrecy! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;;;x
+MNM.70110.d.no_suspicion;After taking statement from a few child witnessess and concerned peasants, you have gathered some evidence pointing towards [accused_apostate.GetBestName] being an apostate - you have a good feeling that [accused_apostate.GetFirstName]'s soul has been tainted by [Root.Religion.GetRandomEvilGodName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;;;x
+MNM.70110.d.innocent_victim;After taking statement from a few child witnessess and concerned peasants, you have gathered some evidence pointing towards [accused_apostate.GetBestName] being an apostate - you have a good feeling about [accused_apostate.GetFirstName]'s soul being tainted by [Root.Religion.GetRandomEvilGodName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;;;x
+MNM.70110.a;Seize [accused_apostate.GetHerHim]! [accused_apostate.GetSheHeCap] will face [Root.Liege.GetTitle] [Root.Liege.GetFirstName]'s justice.;;;;;;;;;;;;x
+MNM.70110.b;I know who I would rather accuse...;;;;;;;;;;;;x
+MNM.70200.d.highly_suspected_society_member;[Root.GetLordSpiritualName][Root.job_spiritual.GetFirstName]は[Root.GetChamber]にて怒りを爆発させた。[accused_apostate.GetBestName]が鎖に繋がれて[Root.GetReligionWarriorPlural]達に引きずられている。「我が[Root.GetTitle]、この[accused_apostate.GetManWoman]は、[accused_apostate.Society.GetName]への忠誠を公然と宣言しています![accused_apostate.GetHerHim]をどうなされますか？」;;;;;;;;;;;;x
+MNM.70200.d.suspected_society_member;[Root.GetLordSpiritualName][Root.job_spiritual.GetFirstName]は[Root.GetChamber]にて怒りを爆発させた。[accused_apostate.GetBestName]が鎖に繋がれて[Root.GetReligionWarriorPlural]達に引きずられている。「我が[Root.GetTitle]、私はこの[accused_apostate.GetManWoman]が[accused_apostate.Society.GetName]と交わっているという反論の余地のない証拠を手に入れました![accused_apostate.GetHerHim]をどうなされますか？」;;;;;;;;;;;;x
+MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName][Root.job_spiritual.GetFirstName]は[Root.GetChamber]にて怒りを爆発させた。[accused_apostate.GetBestName]が鎖に繋がれて[Root.GetReligionWarriorPlural]達に引きずられている。「我が[Root.GetTitle]、私たちは[accused_apostate.TrueReligion.GetName]の聖典を読み、[Root.job_spiritual.Religion.GetRandomEvilGodName]を称賛する行為によって、この背教者を捕らえました！[accused_apostate.GetHerHim]をどうなされますか？」;;;;;;;;;;;;x
+MNM.70200.d.no_suspicion;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName]は[Root.GetChamber]にて怒りを爆発させた。[accused_apostate.GetBestName]が鎖に繋がれて[Root.GetReligionWarriorPlural]達に引きずられている。「我が[Root.GetTitle]、多くの農民の子供たちがこの[accused_apostate.GetManWoman]の悪夢に悩まされていると言っております。[accused_apostate.GetSheHe]は明らかに[accused_apostate.GetWarlockWitch]です！[accused_apostate.GetHerHim]をどうなされますか？」;;;;;;;;;;;;x
+MNM.70200.d.innocent_victim;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName]は[Root.GetChamber]にて怒りを爆発させた。[accused_apostate.GetBestName]が鎖に繋がれて[Root.GetReligionWarriorPlural]達に引きずられている。「我が[Root.GetTitle]、多くの農民の子供たちがこの[accused_apostate.GetManWoman]の悪夢に悩まされていると言っております。[accused_apostate.GetSheHe]は明らかに[accused_apostate.GetWarlockWitch]です！[accused_apostate.GetHerHim]をどうなされますか？」;;;;;;;;;;;;x
+MNM.70200.a;棄教者は火あぶりだ！;;;;;;;;;;;;x
+MNM.70200.b;棄教者を牢獄へ送る;;;;;;;;;;;;x
+MNM.70200.c;焼印を押せ！;;;;;;;;;;;;x
+MNM.70200.d;[accused_apostate.GetHerHim]を自由にしてやれ、奴に何ができるというのだ？;;;;;;;;;;;;x
+MNM.70300.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Now [my_liege.GetBestName] has decided that I should be burned alive!;;;;;;;;;;;;x
+MNM.70300.a;[accused_apostate.GetDWDevil]よ、我が仇を討て！;;;;;;;;;;;;x
+MNM.70300.b;[Root.Religion.GetHighGodName]よ、我が魂を救い給え！;;;;;;;;;;;;x
+MNM.70310.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Now [my_liege.GetBestName] has decided that I am to rot away in [my_liege.GetHerHis] dungeon!;;;;;;;;;;;;x
+MNM.70310.a;I will be free, and then you will all pay!;;;;;;;;;;;;x
+MNM.70320.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Fortunately enough [my_liege.GetBestName] decided that I am to go free - though I will be branded as an apostate.;;;;;;;;;;;;x
+MNM.70320.a;ある意味、幸運だ;;;;;;;;;;;;x
+MNM.70330.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Fortunately enough [my_liege.GetBestName] decided that I am to go free - [my_liege.GetFirstName] was evidently convinced of my innocence!;;;;;;;;;;;;x
+MNM.70330.a;自由に歩ける！;;;;;;;;;;;;x
+MNM.70400.d.executed;災厄だ!  [Root.Society.GetName] の同胞 [From.GetBestName] が、[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] とその[my_liege.job_spiritual.GetReligionWarriorPlural]によって捕らえられた。連中は、杭に縛り付けた [From.GetHerHim] をじっくりと火あぶりにした。;;;;;;;;;;;;x
+MNM.70400.d.imprisoned;災厄だ! [Root.Society.GetName]の同志[From.GetBestName]は、[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] と [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]によって捕らえられた![From.GetSheHeCap]は現在、[my_liege.GetTitle] [my_liege.GetFirstName]の牢獄でやつれ果てている...;;;;;;;;;;;;x
+MNM.70400.d.caught;Disaster! Your fellow member of [Root.Society.GetName], [From.GetBestName], has been caught by [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] and [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]! They used hot irons to brand [From.GetFirstName] an apostate, fortunately they spared [From.GetHerHis] life...;;;;;;;;;;;;x
+MNM.70400.a;It is a sign for me to lay low...;;;;;;;;;;;;x
+alert_close_gates_name;閉門;;;;;;;;;;;;x
+alert_open_gates_name;開門;;;;;;;;;;;;x
+EVTOPTA_TOG_621_Aztec_Religious_Head;あんたの下劣な神々はここではなんの意味もない、[From.GetBestName]!;;;;;;;;;;;;x
+String_Muslim;イスラム教徒;;;;;;;;;;;;x
+monastic_order_convert_county;州を改宗;;;;;;;;;;;;x
+monastic_order_convert_county_desc;[From.Religion.GetName]の信仰に地域住民を改宗させるために、[From.Society.GetName]からの使者を送る。;;;;;;;;;;;;x
+monastic_order_convert_county_power_desc;州の紋章を§G右クリック§!することで地域宗教を貴方の宗教に改宗できるようにする;;;;;;;;;;;;x
+EVTDESC_MNM_4990;[From.GetName]における大多数は[Root.Religion.GetName]の信仰を受け入れています;;;;;;;;;;;;x
+EVTDESC_MNM_4991;特使が持参した書簡を読み上げるには、[FromFrom.GetTitledFirstName]は[FromFrom.Religion.GetName]の信仰を人々が受け入れるようにすることに成功した[From.GetName]に対し使者を送る、とのことだ。;;;;;;;;;;;;x
+TRIGGER_ARTIFACT_OWNER;宝物所有者;;;;;;;;;;;;x
+TRIGGER_ARTIFACT_ORIGINAL_OWNER;宝物の元の所有者;;;;;;;;;;;;x
+INHERITANCE_LOST_ARTIFACTS_LOG;権力の移譲時、$CHARACTER$は$ARTIFACT$を失った。;;;;;;;;;;;;x
+ask_wards_liege_to_allow_culture_religion_swap_desc;§Y[Root.GetFirstName]§!の養育方針を変更する許可を求める手紙を§Y[Root.Liege.GetTitledFirstName]§!に送ります。§Y伝統§!に焦点を当てることで、§Y[Root.GetFirstName]§!は後見人の宗教や文化を採用することになります。;;;;;;;;;;;;x
+change_wards_focus_to_heritage_desc;§Y[Root.GetFirstName]§!の養育方針を変更します。§Y伝統§!に焦点を当てることで、§Y[Root.GetFirstName]§!は後見人の宗教や文化を採用することになります。;;;;;;;;;;;;x
+EVTDESC_ZE_2131;親愛なる[Root.GetTitledNameWithNick]、\n\n貴方が率先して[FromFrom.GetFirstName]に遺産のことを教えてくれることは大変歓迎するところです。;;;;;;;;;;;;x
+EVTOPTA_ZE_2131;[FromFrom.GetSubjectPronounCap]はよく教わるでしょう;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_TITLE;宝物を与える;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_DESC;§Y[Recipient.GetBestName]§!に宝物庫から宝物を贈る;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_LONG_DESC;贈り物として宝物を一つ提供できる;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_0;与える宝物を選択…受け取る人の感謝度合いは宝物の質と重要性によって変わります。;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_1;§Y[Recipient.GetBestName]§!へ$ARTIFACT|Y$を贈呈します、好感度§G+$OPINION$§!変化します;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_2;§Y[Recipient.GetBestName]§!に$ARTIFACT|Y$を贈呈します。§Rこれにより[Recipient.GetPossPronoun]があなたに対する評価が上がることはありません§!;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_ACCEPT_SETUP;宝物の贈り物を受け取る;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§!は§Y[Actor.GetBestName]§!からの贈り物として§Y[GetArtifactName]§!を受け取ります。;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_DECLINE_SETUP;宝物の贈り物を拒否する;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§!は§Y[Actor.GetBestName]§!からの贈り物である§Y[GetArtifactName]§!の受け取りを拒否します;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_OFFER;[Actor.GetBestName]は私に[GetArtifactName]という贈り物を送ってきている;;;;;;;;;;;;x
+GIVE_ARTIFACT_INTERACTION_LETTER;あなたは[GetArtifactName]を気の利いた贈り物として受け取ってくれるだろうか？;;;;;;;;;;;;x
+SELECT_ARTIFACT;宝物を選択;;;;;;;;;;;;x
+EVTDESC538;確かにあなたの優雅な贈り物を受け取りました。なんて立派なものなのでしょう!!;;;;;;;;;;;;x
+gave_artifact;宝物を与えられた;;;;;;;;;;;;x
+QUALITY;品質;;;;;;;;;;;;x
+desc_recently_burnt_the_land;蛮族は最近この地区を略奪しています。農民たちは自ら武装し、彼ら自身の家々を一所懸命に守っています。;;;;;;;;;;;;x
+desc_burnt_the_land;蛮族による頻繁かつ残忍な襲撃はこの土地を荒廃させています。;;;;;;;;;;;;x
+rampaging_nomads;暴れまわる群衆;;;;;;;;;;;;x
+desc_rampaging_nomads;暴れまわる野蛮人どもはこの州の住民を恐怖に陥らせています。もしこの州が文明人により征服されたならば、奴らは散り散りになるでしょう。;;;;;;;;;;;;x
+recently_burnt_the_land_not_owner;蛮族による略奪;;;;;;;;;;;;x
+desc_recently_burnt_the_land_not_owner;この州は蛮族によって略奪されています。この補正がついている限り、その州を再度略奪することはできません。;;;;;;;;;;;;x
+EVTDESC_HL_4814_NON_NOMAD;Your warriors have looted, ravaged, pillaged and plundered [target_location.GetName] to such a degree that a Holding in the county has been completely devastated. Only empty ruins remain, haunted by the shades of the slain...;;;;;;;;;;;;x
+PROVINCE_HOTKEY_INFO;§G右クリック§!で州の保有者を表示する\n§GShift+右クリック§!で州の保有者の主君を表示する\n§GAlt+右クリック§!で州の保有者と対話する\n§GAlt+Shift+右クリック§!で州の保有者の主君と対話する;;;;;;;;;;;;x
+EMPTY_SEAT_VOTES;空席$NUM|Y$;;;;;;;;;;;;x
+SET_SECRET_RELIGION_NONE;$CHARACTER|Y$は秘匿信仰を止めます\n;;;;;;;;;;;;x
+SET_SECRET_RELIGION;$CHARACTER|Y$は$RELIGION|Y$の秘匿信仰を開始します\n;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_GROUP_SECRET;$RELIGION_GROUP|Y$グループを秘匿信仰していない;;;;;;;;;;;;x
+HAVE_RELIGION_GROUP_SECRET;$RELIGION_GROUP|Y$グループの一つを秘匿信仰している;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_GROUP_TRUE;Does not truly practice a religion in the $RELIGION_GROUP|Y$ group;;;;;;;;;;;;x
+HAVE_RELIGION_GROUP_TRUE;Truly practices a religion in the $RELIGION_GROUP|Y$ group;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_GROUP_CHARACTER;$RELIGION_GROUP|Y$グループの宗教を公に信仰してない;;;;;;;;;;;;x
+HAVE_RELIGION_GROUP_CHARACTER;$RELIGION_GROUP|Y$グループの宗教を公に信仰している;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_SECRET;$RELIGION|Y$を秘匿信仰していない;;;;;;;;;;;;x
+HAVE_RELIGION_SECRET;$RELIGION|Y$を秘匿信仰している;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_TRUE;Does not truly follows the $RELIGION|Y$ religion;;;;;;;;;;;;x
+HAVE_RELIGION_TRUE;真に$RELIGION|Y$を信仰している;;;;;;;;;;;;x
+HAVE_NO_SECRET_RELIGION;秘匿信仰している宗教がない;;;;;;;;;;;;x
+HAVE_A_SECRET_RELIGION;秘匿信仰している宗教がある;;;;;;;;;;;;x
+HAVE_NOT_RELIGION_CHARACTER;公に$RELIGION|Y$を信仰していない;;;;;;;;;;;;x
+HAVE_RELIGION_CHARACTER;公に$RELIGION|Y$を信仰している;;;;;;;;;;;;x
+RELIGION_CHANGE_SECRET;$WHERE|Y$ starts secretly practicing the $NAME|Y$ religion.\n;;;;;;;;;;;;x
+String_Fire_and_blood;火と血液;;;;;;;;;;;;x
+String_Huitzilopochtlis_strength_to_you;ウィツィロポチトリの力を貴方に;;;;;;;;;;;;x
+String_hummingbird_symbol;ハチドリのしるし;;;;;;;;;;;;x
+String_Cathar;カタリ派;;;;;;;;;;;;x
+String_Fraticelli;フラティチェッリ派;;;;;;;;;;;;x
+String_Waldesian;ワルドー派;;;;;;;;;;;;x
+String_Lollard;ロラード派;;;;;;;;;;;;x
+String_Bogomilist;ボゴミール派;;;;;;;;;;;;x
+String_Monothelite;単意論派;;;;;;;;;;;;x
+String_Iconoclast;聖像破壊派;;;;;;;;;;;;x
+String_Paulician;パウロ派;;;;;;;;;;;;x
+String_Miaphysite;合性論派;;;;;;;;;;;;x
+String_Monophysite;単性論派;;;;;;;;;;;;x
+String_Nestorian;ネストリウス派;;;;;;;;;;;;x
+String_Messalian;メッサリア派;;;;;;;;;;;;x
+String_Zikri;ズィクル;;;;;;;;;;;;x
+String_Yazidi;ヤジーディー派;;;;;;;;;;;;x
+String_Druze;ドゥルーズ派;;;;;;;;;;;;x
+String_Hurufi;フルフィ;;;;;;;;;;;;x
+String_Ibadi;イバード派;;;;;;;;;;;;x
+String_Kharijite;ハワーリジュ派;;;;;;;;;;;;x
+String_Samaritan;サマリア教 ;;;;;;;;;;;;x
+String_Karaite;カライ派;;;;;;;;;;;;x
+String_Mazdaki;マズダク教;;;;;;;;;;;;x
+String_Manichean;マニ教;;;;;;;;;;;;x
+String_Aztec;アステカ;;;;;;;;;;;;x
+String_Asceticus;修道者;;;;;;;;;;;;x
+String_Book_of_Illumination;啓蒙本;;;;;;;;;;;;x
+String_Epistles_of_Wisdom;知恵の書簡;;;;;;;;;;;;x
+String_Great_Secret;大きな秘密;;;;;;;;;;;;x
+corrupting_magic_minor;魔術による毀損;;;;;;;;;;;;x
+corrupting_magic_major;魔術による毀損;;;;;;;;;;;;x
+corrupting_magic_major_desc;全ての力には代償が伴うものです。黒魔術はこの人物の身体を損ない、虚弱で病気にかかりやすくなります。;;;;;;;;;;;;x
+EVTOPTA_MNM_7051;力に代償が伴うことは知っていたが、ここまでとは…;;;;;;;;;;;;x
+EVTDESC_MNM_7051;私の身体はゆっくりと蝕まれ、そうと気づいたときには手遅れだった。今や[Root.GetDWDevil]の魔術の巻き髭は私の精神を侵し、私の力と決意を少しづつ食い荒らしている。私は不安感に満たされ、眠ることもできない。;;;;;;;;;;;;x
+EVTDESC_MNM_7052;I can feel it, it is inside of me! The mesmerizing voice, the sweet touch of my dark saviour! [Root.GetDWDevil]'s gift, the beautiful magic, is flowing freely through my veins. The sensation is dizzying, radiant, breathtaking. Nothing in the world can stop me now!;;;;;;;;;;;;x
+EVTOPTA_MNM_7052;[Root.GetDWDevil]! Whisper your wishes in my ear and they shall come true!;;;;;;;;;;;;x
+EVTOPTA_MNM_7051_TT;黒魔術の利用は肉体を損なわせる。\n;;;;;;;;;;;;x
+EVTDESC_MNM_7053;私の身体はゆっくりと蝕まれ、そうと気づいたときには手遅れだった。[Root.GetDWDevil]の魔力を宿した闇が私の口に侵入し、舌に巻き付いたのだ。話そうとしてもうまく言葉にできず、人とのやりとりが厄介になり、しゃべることが面倒になってしまった。;;;;;;;;;;;;x
+EVTDESC_MNM_7054;闇の腐食は、私の身体にゆっくりと這いより - それが間近に迫るまで、私は気づきもしなかった。最初に起こった軽く引きずるような片足の痛みは、今では醜い奇形に変わり果てた。痛みを発する、ねじれた足首をなでると、肌の下から闇の脈動が感じられた...;;;;;;;;;;;;x
+EVTDESC_MNM_7055;The corruption crept up on me so slowly - I did not realize what was happening to me before it was too late. Little by little, my spine has curved itself forward, pushing my head down towards the ground. It is as if the dark magic has twisted me away from the heavens so that I am always facing [Root.GetDWDevil].;;;;;;;;;;;;x
+EVTDESC_MNM_7056;The corruption crept up on me so slowly - I did not realize what was happening to me before it was too late. At first, I thought the lines and blotches on my face were a temporary consequence of too many nightly adventures and too little sleep. Now I barely recognize myself in the mirror.;;;;;;;;;;;;x
+EVTDESC_MNM_7057;The corruption crept up on me so slowly - I did not realize what was happening to me before it was too late. Now the dark tendrils of [Root.GetDWDevil]'s magic has invaded my body, sapping my energy and causing all sorts of aches and ailments. I cannot remember the last day when I was not sniveling, coughing or retching.;;;;;;;;;;;;x
+EVTDESC_MNM_7058;The corruption crept up on me so slowly - I did not realize what was happening to me before it was too late. Now the dark tendrils of [Root.GetDWDevil]'s magic has invaded my body, sapping my energy and causing all sorts of aches and ailments. No matter how long I sleep, I never feel quite rested.;;;;;;;;;;;;x
+EVTDESC_MNM_7059;The corruption crept up on me so slowly - I did not realize what was happening to me before it was too late. Now the dark tendrils of [Root.GetDWDevil]'s magic has invaded my body, sapping all of my energy and strength. I often feel as if I am starving, yet I struggle to keep my food down...;;;;;;;;;;;;x
+String_garden;庭園;;;;;;;;;;;;x
+String_Hibiscus;ハイビスカス;;;;;;;;;;;;x
+String_Ginger_Root;根生姜;;;;;;;;;;;;x
+String_Mandrake;マンドレイク;;;;;;;;;;;;x
+String_Lemon_Grass;レモングラス;;;;;;;;;;;;x
+String_Nettles;イラクサ;;;;;;;;;;;;x
+String_Wormwood;ニガヨモギ;;;;;;;;;;;;x
+String_Valerian;カノコソウ;;;;;;;;;;;;x
+String_Violet;スミレ;;;;;;;;;;;;x
+String_Yarrow;ノコギリソウ;;;;;;;;;;;;x
+String_Gall_Bladder;動物の胆嚢;;;;;;;;;;;;x
+String_Kidney;動物の腎臓;;;;;;;;;;;;x
+String_Eyeballs;動物の眼球;;;;;;;;;;;;x
+String_Cloven_hooves;動物の偶蹄;;;;;;;;;;;;x
+String_Antlers;動物の枝角;;;;;;;;;;;;x
+String_Snout;動物の鼻;;;;;;;;;;;;x
+String_Heart;動物の心臓;;;;;;;;;;;;x
+String_Liver;動物の肝臓;;;;;;;;;;;;x
+String_Intestines;動物の腸;;;;;;;;;;;;x
+String_Silver;銀;;;;;;;;;;;;x
+String_Mercury;水銀;;;;;;;;;;;;x
+String_Aqua_Regia;王水;;;;;;;;;;;;x
+String_Aqua_Fortis;硝酸;;;;;;;;;;;;x
+String_Brimstone;硫黄;;;;;;;;;;;;x
+String_Gold;金;;;;;;;;;;;;x
+String_Copper;銅;;;;;;;;;;;;x
+String_Iron;鉄;;;;;;;;;;;;x
+String_Tin;錫;;;;;;;;;;;;x
+String_crescent;三日月のシンボル;;;;;;;;;;;;x
+EVTOPTD_MNM_1200_herb;砕けた[GetSelectedIngredient_1]の作り出す形から占おう。;;;;;;;;;;;;x
+EVTOPTD_MNM_1200_animal_part;Actually, I should add some ground [GetSelectedIngredient_1] to help form the pattern.;;;;;;;;;;;;x
+EVTOPTD_MNM_1200_powder;Surely a sprinkle of [GetSelectedIngredient_1] will add to the pattern.;;;;;;;;;;;;x
+EVTOPTD_MNM_1200_liquid;Hmm... A few drops of [GetSelectedIngredient_1] should form a magnificent pattern.;;;;;;;;;;;;x
+EVTOPTD_MNM_1200_tt;§Y[GetSelectedIngredient_1]§!を使うことにより、水面に望ましい形の文様を生み出せる可能性が高くなります。\n;;;;;;;;;;;;x
+destroy_selected_ingredient_1_tt;§Y[GetSelectedIngredient_1]§!が宝物庫から削除されます。\n;;;;;;;;;;;;x
+destroy_selected_ingredient_2_tt;§Y[GetSelectedIngredient_2]§!が宝物庫から削除されます。\n;;;;;;;;;;;;x
+destroy_selected_ingredient_1_and_2_tt;§Y[GetSelectedIngredient_1]§!と§Y[GetSelectedIngredient_2]§!が宝物庫から削除されます。\n;;;;;;;;;;;;x
+destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIngredient_1]§!とランダムな原料が宝物庫から削除されます。\n;;;;;;;;;;;;x
+ingredient_option_available_tt;この選択は宝物庫に§Y原料§!があるため利用できます。\n \n;;;;;;;;;;;;x
+multiple_ingredient_option_available_tt;この選択は宝物庫に複数の§Y原料§!があるため利用できます。\n \n;;;;;;;;;;;;x
+EVTDESC_MNM_1200_B;自らの前にボウルを置き、湛えた水がぴたりと凪ぐまで待った。整っていく揺らめきが、バラバラだった思考を一つに集約させていく。―その一方で、見えざる何かを作り出そうと、錬金術用の棚から色々取り出していた…すると、水面のきらめきがさざ波立つ。私は、一つ、深く息をついた。;;;;;;;;;;;;x
+EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName] – when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;;;x
+EVTOPTC_MNM_5211;なんとかして気持ちを落ち着け、集中を取り戻さねば！;;;;;;;;;;;;x
+EVTOPTA_MNM_1622_use_ingredients;それなら私が良いものを持っている！;;;;;;;;;;;;x
+EVTOPTC_MNM_1842_herb;落ち着つくのだ、我が子よ。ちょっとだけ[GetSelectedIngredient_1]を淹れてあげよう。;;;;;;;;;;;;x
+EVTOPTC_MNM_1842_animal_part;ぐずるでない、我が子よ。[GetSelectedIngredient_1]を煮出した汁物を作ってあげよう。;;;;;;;;;;;;x
+EVTOPTC_MNM_1842_powder;静まれ、我が子よ。この[GetSelectedIngredient_1]を煎じた水薬が効くだろう。;;;;;;;;;;;;x
+EVTOPTC_MNM_1842_liquid;静まれ、我が子よ。何か作ってやろう、この…うーむ、[GetSelectedIngredient_1]でな。;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_herb;Let us talk about this, while I brew something soothing.;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_animal_part;I'll make it up to you! Let us share some broth from [GetSelectedIngredient_1].;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_powder;Oh, friend. You clearly need this [GetSelectedIngredient_1] infused brew of mine.;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_liquid;Well... Would you care for some experiential [GetSelectedIngredient_1] infused beer I've made?;;;;;;;;;;;;x
+nauseous_from_potion;吐き気;;;;;;;;;;;;x
+nauseous_from_potion_desc;この人物は良い状態にあるようにはとても見えません。;;;;;;;;;;;;x
+opinion_apologized;Apologized;;;;;;;;;;;;x
+opinion_cheered_up;Cheered Up;;;;;;;;;;;;x
+opinion_calmed;Calmed;;;;;;;;;;;;x
+EVTDESC_MNM_1855;現在の私の研究を熟考している内に、天国への理解を深めるための実験に使えるやもしれぬ物品をいくつか持っていることに気がついた…！;;;;;;;;;;;;x
+EVTOPTA_MNM_1855;[GetSelectedIngredient_1]を燃やし、その香りで感覚を満たそうではないか。;;;;;;;;;;;;x
+EVTOPTB_MNM_1855;私は[GetSelectedIngredient_2]のシチューを作りますよ…！;;;;;;;;;;;;x
+EVTOPTC_MNM_1855;I'll sleep with a nugget of [GetSelectedIngredient_2] under my pillow.;;;;;;;;;;;;x
+EVTOPTD_MNM_1855;新しいことを試そう…！;;;;;;;;;;;;x
+EVTOPTE_MNM_1855;やめたほうがいいな。;;;;;;;;;;;;x
+destroy_all_ingredients_tt;全ての§Y原料§!が破壊され、宝物庫から削除されます。\n;;;;;;;;;;;;x
+random_ingredients_are_destroyed_tt;いくつかの§Y原料§!が破壊され、宝物庫から削除されます。\n;;;;;;;;;;;;x
+ingredients_are_sent_tt;儀式の準備として、いくつかの§Y材料§!が宝物庫から削除され、§Y[From.GetTitledFirstName]§!に送られます。\nこれは貴重な経験を得るチャンスです。\n;;;;;;;;;;;;x
+EVTOPTB_MNM_1435_single_ingredient;簡単な薬を使う。;;;;;;;;;;;;x
+EVTDESC_MNM_5109_hermetic;最近、いくつか錬金術の材料を手に入れた。ヘルメス協会の一員として、持ち物を整理すべきだろうか...。だが、[GetSelectedIngredient_1]には[GetSelectedIngredient_1_property]かもしれない。;;;;;;;;;;;;x
+EVTDESC_MNM_5109_other_society;I have recently come into possession of some manner of 'alchemical' ingredients. I am not entirely sure what to make of it! Regardless, the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;;;x
+EVTDESC_MNM_5109_no_society;I have recently come into possession of some manner of alchemical ingredients. While I admit I'm intrigued, the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;;;x
+EVTDESC_MNM_5109_child;I am told that I have recently come into possession of 'alchemical ingredients'. While I am not certain what that means, the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;;;x
+EVTOPTA_MNM_5109;[GetSelectedIngredient_1]や[GetSelectedIngredient_2]には使い道がない。;;;;;;;;;;;;x
+EVTOPTB_MNM_5109;これらは異端染みている！;;;;;;;;;;;;x
+EVTOPTC_MNM_5109;特に気にすることでもないか。;;;;;;;;;;;;x
+String_is_surprisingly_fragrant;驚くほどいい香り;;;;;;;;;;;;x
+String_are_surprisingly_fragrant;驚くほどいい香り;;;;;;;;;;;;x
+String_is_faintly_fragrant;ほんのりいい香り;;;;;;;;;;;;x
+String_are_faintly_fragrant;ほんのりいい香り;;;;;;;;;;;;x
+String_has_turned_to_dust;ほとんど灰;;;;;;;;;;;;x
+String_have_turned_to_dust;ほとんど灰;;;;;;;;;;;;x
+String_reminds_me_of_them;somehow reminds me of something funny;;;;;;;;;;;;x
+String_remind_me_of_them;somehow remind me of something funny;;;;;;;;;;;;x
+String_carries_an_unpleasant_smell;嫌な匂いがする;;;;;;;;;;;;x
+String_carry_an_unpleasant_smell;嫌な匂いがする;;;;;;;;;;;;x
+String_is_fantastically_shiny;幻想的に光る;;;;;;;;;;;;x
+String_are_fantastically_shiny;幻想的に光る;;;;;;;;;;;;x
+String_should_not_be_touched;恐らく触れるべきではない;;;;;;;;;;;;x
+String_should_definitely_not_be_touched;絶対に触れるべきではない;;;;;;;;;;;;x
+String_would_make_most_people_uncomfortable;ほとんどの者が不快になるだろう;;;;;;;;;;;;x
+String_is_glass_jar;ガラス瓶に入れておいても尚、気味が悪い;;;;;;;;;;;;x
+String_are_in_glass_jar;ガラス瓶で保管していても尚、気味が悪い;;;;;;;;;;;;x
+String_has_an_eerie_color;不気味な色をしている;;;;;;;;;;;;x
+String_have_an_eerie_color;不気味な色をしている;;;;;;;;;;;;x
+String_is_disgusting;見てるだけで気分が悪くなってくる;;;;;;;;;;;;x
+String_are_disgusting;見た目がおぞましい;;;;;;;;;;;;x
+String_might_take_up_too_much_space;研究室でも場所を取りすぎている;;;;;;;;;;;;x
+String_does_not_send_desired_message;does not really send a message I can identify with;;;;;;;;;;;;x
+String_do_not_send_desired_message;do not really send a message I can identify with;;;;;;;;;;;;x
+String_does_not_contribute_to_the_decor;doesn't really contribute to the decor of my [Root.GetCapitalHolding];;;;;;;;;;;;x
+String_do_not_contribute_to_the_decor;don't really contribute to the decor of my [Root.GetCapitalHolding];;;;;;;;;;;;x
+String_is_somewhat_pretty;見た目がなかなか良い;;;;;;;;;;;;x
+String_are_somewhat_pretty;見た目がなかなか良い;;;;;;;;;;;;x
+String_makes_me_shiver;寒気がする;;;;;;;;;;;;x
+String_make_me_shiver;寒気がする;;;;;;;;;;;;x
+String_might_possess_hidden_uses;恐らく隠された特性がある;;;;;;;;;;;;x
+String_reeks;強い悪臭で鼻がピクピク痙攣する;;;;;;;;;;;;x
+String_reek;強い悪臭で鼻がピクピク痙攣する;;;;;;;;;;;;x
+String_glitters;かすかに光る;;;;;;;;;;;;x
+String_glitter;かすかに光る;;;;;;;;;;;;x
+EVTDESC_MNM_5110;私が所属する結社の同胞らは時々、悪魔祓いのための複雑だが魅力的でもある調合法について話している。私も用心しておくべきなのかもしれない。[GetWesternZodiacSign]の星々を思い浮かべながら、私は一人頷く - 私の棚に収めている[GetSelectedIngredient_1]は[GetSelectedIngredient_1_property]。;;;;;;;;;;;;x
+EVTOPTA_MNM_5110;私の住処に備えておいた[GetSelectedIngredient_1]で事足りるはずだ。;;;;;;;;;;;;x
+EVTOPTB_MNM_5110;今回は複数の素材を使ってみよう。;;;;;;;;;;;;x
+EVTOPTC_MNM_5110;神聖な模様で城中を埋め尽くそう！この手に限る！;;;;;;;;;;;;x
+EVTOPTD_MNM_5110;馬鹿げた妄想に過ぎぬ。;;;;;;;;;;;;x
+must_have_ingredients_tt;少なくとも二つの§Y原料§!を持っている;;;;;;;;;;;;x
+EVTDESC_MNM_5115_self;このような有り様では、霊薬の出来などあまり気にしてもいられない。それでも尚、引き出しの中をざっと眺めつつも、どの材料を使うべきか決めあぐねていた… あえて言うなら[GetSelectedIngredient_1]は[GetSelectedIngredient_1_property]ように思う。;;;;;;;;;;;;x
+EVTDESC_MNM_5115_other;[potion_target.GetTitledFirstName] will likely accept my brew, regardless of the quality. However, sifting through my recipes, I can't quite decide on which ingredients to use... While the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I wonder what my [potion_target.GetRootRelation] would think.;;;;;;;;;;;;x
+EVTOPTA_MNM_5115_herb;砕いた[GetSelectedIngredient_1]でなんとかなるはずだ。;;;;;;;;;;;;x
+EVTOPTA_MNM_5115_animal_part;粗く挽いた[GetSelectedIngredient_1]でなんとかなるはずだ。;;;;;;;;;;;;x
+EVTOPTA_MNM_5115_powder;[GetSelectedIngredient_1]の薄片少々でなんとかなるはずだ。;;;;;;;;;;;;x
+EVTOPTA_MNM_5115_liquid;A little [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;x
+EVTOPTB_MNM_5115_herb;すり潰した[GetSelectedIngredient_2]の香りは格別なものだ。;;;;;;;;;;;;x
+EVTOPTB_MNM_5115_animal_part;干した[GetSelectedIngredient_2]の後味のなんと強烈なことか。;;;;;;;;;;;;x
+EVTOPTB_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] should do the trick!;;;;;;;;;;;;x
+EVTOPTB_MNM_5115_liquid;数滴の[GetSelectedIngredient_2]こそがおそらく最良の選択であろう。;;;;;;;;;;;;x
+EVTOPTC_MNM_5115_herb;A single dose of crushed [GetSelectedIngredient_2] should be adequate.;;;;;;;;;;;;x
+EVTOPTC_MNM_5115_animal_part;A moderate amount of ground [GetSelectedIngredient_2] should suffice.;;;;;;;;;;;;x
+EVTOPTC_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] is just what I need.;;;;;;;;;;;;x
+EVTOPTC_MNM_5115_liquid;A splash of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;;x
+EVTOPTD_MNM_5115;いっそふたつとも混ぜてしまおう！;;;;;;;;;;;;x
+EVTOPTD_MNM_5115_duplicate;I could also use twice as much...!;;;;;;;;;;;;x
+EVTOPTE_MNM_5115;実を言うと、棚を空っぽにしたかったんだ。全部ぶち込んでしまえ！;;;;;;;;;;;;x
+EVTOPTE_MNM_5115_tt;Desperate times call for desperate measures.\n;;;;;;;;;;;;x
+must_not_already_be_preparing_potion_tt;NOT already preparing a potion;;;;;;;;;;;;x
+EVTDESC_MNM_4950;[From.GetTitledFirstName]としばらく語り合ってから、[From.GetHerHim]をその罪業から救い出す霊的指導を行った。;;;;;;;;;;;;x
+EVTDESC_MNM_4951;After spending some time talking with [FromFrom.GetTitledFirstName], I have realized the errors of my ways and freed myself of my sinful ways.;;;;;;;;;;;;x
+EVTDESC_MNM_4960;[From.GetTitledFirstName]に徳を高める方法を説くと、[From.GetHerHim]は私の説明に注意深く耳を傾け、その議論を通じてより善い[From.GetManWoman]になったようだ。;;;;;;;;;;;;x
+EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]は、[From.GetSheHe]がいかにこの時々容赦のなく苦痛に満ちた人生において美徳を貫き生き抜いてきたのかを教え諭してきた。[FromFrom.GetHerHim]の話を聞いている内に、私はより徳を重ねることによって、自身に平穏がもたらされるのだと学ぶことが出来た。;;;;;;;;;;;;x
+monastic_orders_spiritual_guidance;霊的指導を行う;;;;;;;;;;;;x
+monastic_orders_spiritual_guidance_desc;あなたは[Root.GetTitledFirstName]が罪深い人であることを知っています。[Root.GetHerHis]の悪徳の1つを取り除く手助けをするために霊的指導を行います。;;;;;;;;;;;;x
+monastic_orders_spiritual_guidance_power_desc;親族、結社の仲間、領内の領地持ちの人物を§G右クリック§!して悪習を取り除く事ができます。あなた自身が持っていない悪徳のみを取り除くことができます。;;;;;;;;;;;;x
+opinion_spiritual_guidance;霊的指導を受けた;;;;;;;;;;;;x
+spiritual_guidance_tooltip;Has a sin that §Y[From.GetTitledFirstName]§! does NOT have;;;;;;;;;;;;x
+monastic_orders_teach_virtue;美徳を教示;;;;;;;;;;;;x
+monastic_orders_teach_virtue_desc;あなたは[Root.GetTitledFirstName]が時々正しい行動をしようと悪戦苦闘していることに気づいた。あなたの数多ある美徳の一部を[Root.GetHerHim]に教えることで状況を改善できます。;;;;;;;;;;;;x
+monastic_orders_teach_virtue_power_desc;親族、結社の仲間、領国内の領主を§G右クリック§!して新しい美徳を与えることができます。あなた自身が持っている美徳のみを追加できます。;;;;;;;;;;;;x
+opinion_teach_virtue;美徳を教示した;;;;;;;;;;;;x
+teach_virtue_tooltip;Does NOT have all the virtues that §Y[From.GetTitledFirstName]§! has;;;;;;;;;;;;x
+EVTDESC20271;To [Root.GetTitledFirstName],\nYour findings have proven to be most fascinating and I am now convinced to follow in your footsteps and immediately convert to the [Root.Religion.GetName] faith. However, I have chosen to keep this hidden to avoid prying eyes. I urge you to do the same!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA20271;懸命な判断だ。;;;;;;;;;;;;x
+EVTOPTB20271;こそこそ隠れよと？ありえん！;;;;;;;;;;;;x
+secretly_convert_to_province_religion;[Root.Location.Religion.GetName]を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_province_religion_desc;§Y[Root.Location.GetName]§!の§Y[Root.Location.Religion.GetName]§!の人々はその信仰の深さと情熱で私に感動をもたらした。§Y[Root.Location.Religion.GetRandomGodName]§!の栄光の呼び声に、密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_close_relations_religion;[Root.Religion.GetName]を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_close_relations_religion_desc;The §Y[Root.Religion.GetName]§! faith of §Y[Root.GetFirstName]§! intrigues and fascinates me. I could not embrace it openly, but I am tempted to convert in secrecy...;;;;;;;;;;;;x
+religion_openly_norse_or_reformed_tooltip;公に§Y[norse_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_baltic_or_reformed_tooltip;公に§Y[baltic_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_finnish_or_reformed_tooltip;公に§Y[finnish_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_slavic_or_reformed_tooltip;公に§Y[slavic_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_tengri_or_reformed_tooltip;公に§Y[tengri_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_west_african_or_reformed_tooltip;公に§Y[west_african_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_zun_or_reformed_tooltip;公に§Y[zun_pagan_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+religion_openly_aztec_or_reformed_tooltip;公に§Y[aztec_reformed.GetName]§!を信仰する;;;;;;;;;;;;x
+FOLLOWS_SECRET_RELIGION_TOOLTIP;この人物は$RELIGION|Y$を秘匿信仰している;;;;;;;;;;;;x
+CAN_SEE_SECRET_RELIGION;$WHO|Y$は秘匿信者として知られている;;;;;;;;;;;;x
+CANNOT_SEE_SECRET_RELIGION;$WHO|Y$が秘匿信者かどうかは不明;;;;;;;;;;;;x
+FILTER_HAS_SECRET_RELIGION;Has Secret Religion;;;;;;;;;;;;x
+alert_society_rank_up_possible_instant;§Y結社で昇格が可能§!;;;;;;;;;;;;x
+alert_society_rank_up_possible_delayed;あなたは結社で次の階級への昇格を要求するのに十分な影響力を持っています。;;;;;;;;;;;;x
+ALLY_ORDER_BUSY_OTHER_CAMPAIGN;この人物は$WAR|Y$に忙しく、貴方を支援することができません;;;;;;;;;;;;x
+opinion_abducted;誘拐;;;;;;;;;;;;x
+known_satanist;悪魔崇拝者として知られている;;;;;;;;;;;;x
+known_satanist_desc;この人物は悪魔崇拝者として明らかにされています。;;;;;;;;;;;;x
+EVTTITLE_MNM_7855;[GetDemonHuntersEventTitle];;;;;;;;;;;;x
+EVTTITLE_MNM_7855_A;悪霊殺し;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_A_again;The Return of the Slayer;;;;;;;;;;;;x
+EVTDESC_MNM_7855_A;Night has fallen as I contemplate my latest ritual – there has to be more efficient ways of washing blood off one's clothes...?\n'You must be the [Root.GetDWDemon]', a voice sounds behind me. I spin, only to find a sinister young woman, casually raising a wooden stake. Then she shrugs. 'I can't let evil like you just walk around'.;;;;;;;;;;;;x
+EVTDESC_MNM_7855_A_again;As I retire to my quarters for the night, I am startled by a shadow, suddenly moving. 'It's been a while', a bright voice muses as a woman steps into the light, weapon raised. 'How did you get into my [Root.GetCapitalHolding]?', I demand to know, but my voice betrays my brave act. 'Your guards are sleeping, my [Root.GetLordLady]... Let's finish this'.;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_B;The Angry Villagers;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_B_again;The Angry Villagers Return;;;;;;;;;;;;x
+EVTDESC_MNM_7855_B;After having snuck out for a late walk with my pet familiar, I make my way back through the gates of [Root.Capital.Capital.GetName]. Suddenly, shadows surround me and I'm shoved into a wall. A group of angry villagers, their expressions dark in the light of their torches, has gathered around me. Someone yells: 'burn [Root.GetHerHim]!';;;;;;;;;;;;x
+EVTDESC_MNM_7855_B_again;I am moving quietly through the gates into the [Root.GetCapitalHolding] tonight, grateful for my disguise. Specific rituals sometimes require me to blend in amongst the common folk. It's become almost second nature – my [GetDWPartyClothes] would be quite the giveaway!\n'There [Root.GetSheHe] is!' someone yells. 'BURN [Root.GetHerHim]!';;;;;;;;;;;;x
+EVTTITLE_MNM_7855_C;The Demon Hunters;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_C_again;The Return of the Demon Hunters;;;;;;;;;;;;x
+EVTDESC_MNM_7855_C;Having just performed a ritual requiring the full moon, it's past midnight when I sneak back into my quarters. Satisfied, I begin washing the blood off my hands. Behind me, someone clears their throat. 'Not so fast, you evil [Root.GetDWDemon]'. I feel the tip of a sword in my back. Another voice mutters: 'Just kill it, brother'.;;;;;;;;;;;;x
+EVTDESC_MNM_7855_C_again;In honor of [GetDWRandomDemon], I've just finished a new blood ward on my wall. The flickering candlelight makes the intricate pattern glisten, and I back away to admire my art. Suddenly, two shadows grow on the wall, looming over me... The tallest one says, nonchalantly: 'I told you we'd get another shot, brother'.;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_D;The Demon Hunter;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_D_again;The Return of the Demon Hunter;;;;;;;;;;;;x
+EVTDESC_MNM_7855_D;In the middle of one of our more carnal rituals, my fellow [Root.GetSocietyRank] suddenly gasps in surprise: 'Did you invite someone else?' Before I have time to reply, a torch is thrown to the floor, sparks singeing my skin. 'We've become [Root.Religion.GetHighGodName]'s madmen, all of us', a darkly clad figure says. 'Die, you demon!';;;;;;;;;;;;x
+EVTDESC_MNM_7855_D_again;I still have nightmares about the mysterious demon hunter I once encountered. These days, while I haven't been covering my tracks, the stench of my foul deeds travels further than ever before... Staring at the ceiling in my room, the moonlight suddenly goes out. Leaning over me is a man, weapon raised. 'We meet again'.;;;;;;;;;;;;x
+EVTTITLE_MNM_7855_E;An Affront to [Root.Religion.GetHighGodName];;;;;;;;;;;;x
+EVTTITLE_MNM_7855_E_again;Still an Affront to [Root.Religion.GetHighGodName];;;;;;;;;;;;x
+EVTDESC_MNM_7855_E;I'm not sure what my steward was thinking, letting in a group of holy knights to our [Root.GetCapitalHolding]. They know. Everyone knows! What I am, what I can do... When night falls, I'm not surprised to find myself backed into a dark alley, surrounded by them. 'All [GetDWDemons] must die...!', they cry, riling each other up.;;;;;;;;;;;;x
+EVTDESC_MNM_7855_E_again;Out surveying my lands, accompanied by a small entourage of servants, I notice a huge cloud of dust being stirred up on the road up ahead... My servants begin to shout and scramble about, as we see a group of knights charging at us – their banner, clearly that of the demon hunting cohort I barely escaped before...;;;;;;;;;;;;x
+EVTOPTA_MNM_7855;What is the meaning of this? By [GetDWDevil], I will fight you!;;;;;;;;;;;;x
+EVTOPTA_MNM_7855_again;You're stubborn! By [GetDWDevil], I will still fight you!;;;;;;;;;;;;x
+EVTOPTB_MNM_7855;You have no idea who are you are dealing with...!;;;;;;;;;;;;x
+EVTOPTB_MNM_7855_TT;You pull out your enchanted dagger and jam it into your leg, where you have engraved the emergency symbol.\n;;;;;;;;;;;;x
+EVTOPTB_MNM_7855_TT_singular;Your attacker staggers away in shock.\n;;;;;;;;;;;;x
+EVTOPTB_MNM_7855_TT_plural;Your attackers stagger away in shock.\n;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_A;Then again, perhaps you could? For a price?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_B;Let's not be hasty...! We can sort this out, with gold?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_C;Woah, woah... Let's be civilized... You seem like businessmen!;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_D;I don't suppose you'd be willing to walk out of here, a rich man?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_E;But I'm a rich [Root.GetDWDemon]! Let's make a deal.;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_A_again;No, w-wait, let's talk about it! Is it money you want?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_B_again;Oh, come on... N-not again. Let's talk about this!;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_C_again;You two again...! How about we sort this out with money?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_D_again;H-how about I line your pockets with more gold than you can carry?;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_E_again;I'm still a rich [Root.GetDWDemon]! Let's talk about gold!;;;;;;;;;;;;x
+EVTOPTD_MNM_7855;W-wait! I can give you names! Track down [other_member_to_blame.GetSocietyRank] [other_member_to_blame.GetFirstName] instead!;;;;;;;;;;;;x
+EVTOPTA_MNM_7855_TT;You pray to [GetDWDevil] that your personal combat skill will save you.\n;;;;;;;;;;;;x
+EVTOPTD_MNM_7855_TT;In a moment of desperation, you betray your coven.\nThis will increase suspicion of §Y[other_member_to_blame.GetTitledFirstName]§!.\n;;;;;;;;;;;;x
+EVTOPTC_MNM_7855_TT;You reach for your money, attempting to bribe your way out.\n;;;;;;;;;;;;x
+you_are_seriously_injured_TT;you getting badly injured\n;;;;;;;;;;;;x
+you_are_killed_in_personal_combat_TT;you getting killed in personal combat\n;;;;;;;;;;;;x
+they_impale_you;the woman rolling her eyes at you, before killing you\n;;;;;;;;;;;;x
+they_drag_you_off_to_burn;them laughing at your offer, before dragging you off to be burnt at the stake\n;;;;;;;;;;;;x
+they_saw_you_in_half;the demon hunter ignoring your offer, before killing you slowly\n;;;;;;;;;;;;x
+they_escape_TT;them being defeated, leaving you alone for now\n;;;;;;;;;;;;x
+they_accept_your_offer_TT;them accepting your offer, leaving you alone for now\n;;;;;;;;;;;;x
+EVTDESC_MNM_1225_A;One of my hunting parties caught a great white boar today. [Root.Religion.GetHighGodName] must have sent us this creature, as it took ten men to bring the beast down, and the effect it has had on my soldiers is clearly the boon I have been waiting for. 'Bards are already composing songs, my [Root.GetLordLady]', a captain tells me.;;;;;;;;;;;;x
+EVTDESC_MNM_1225_B;One of my hunting parties caught a great white boar today. I am told it took ten men to bring the beast down, and rumors of the effect it has had on my soldiers is already spreading through court. 'Bards are already composing songs, my [Root.GetLordLady]', a captain tells me. This certainly goes against my expectations...;;;;;;;;;;;;x
+EVTDESC_MNM_1225_D;I am not sure whether it is a new-found interest in [envisioned_friend.GetEducationSubject], or if there is something about [envisioned_friend.GetHerHis] [envisioned_friend.GetFriendEnjoyableQuirk], but I am really connecting with [envisioned_friend.GetTitledFirstName]. We have been spending more and more time together, and I think [envisioned_friend.GetSheHe] makes me a better [Root.GetTitle].;;;;;;;;;;;;x
+EVTDESC_MNM_1225_F;I am told of an owl having taken up residence under the roofing of our barracks. One of my advisors suggest I make it a pet. But should not my scrying have revealed the symbol of wisdom to me, if this creature is what it was about? 'Do not dwell on this, [Root.GetMasterMistress]', my steward says, handing me the caged bird.;;;;;;;;;;;;x
+EVTOPTB_MNM_1225_power;How did I not foresee this event?;;;;;;;;;;;;x
+proud_hunters_spirit;Proud Hunting Parties;;;;;;;;;;;;x
+proud_hunters_spirit_desc;The hunters in the area, and the success they have brought, are currently working as an inspiration for nobles and commoners alike.;;;;;;;;;;;;x
+String_way_with_words;巧みな話術;;;;;;;;;;;;x
+String_love_of_poetry;詩への愛;;;;;;;;;;;;x
+String_fascination_with_plants;植物に夢中;;;;;;;;;;;;x
+String_morbid_sense_of_humor;morbid sense of humor;;;;;;;;;;;;x
+String_gentle_spirit;gentle spirit;;;;;;;;;;;;x
+String_what_makes_a_good_person;way of making me really consider what makes a good person;;;;;;;;;;;;x
+String_mischieveous_sense_of_humor;mischievous sense of humor;;;;;;;;;;;;x
+String_challenging_me;way of challenging me to think outside of the box;;;;;;;;;;;;x
+String_infectious_smile;infectious smile;;;;;;;;;;;;x
+String_taste_in_music;taste in music;;;;;;;;;;;;x
+String_appreciation_for_small_things;appreciation for the small things in life;;;;;;;;;;;;x
+String_optimistic_outlook_on_life;optimistic outlook on life;;;;;;;;;;;;x
+String_innocence;天真爛漫;;;;;;;;;;;;x
+String_jaded_view_of_romance;jaded view of romance;;;;;;;;;;;;x
+String_cracking_knuckles;way of cracking [This.GetHerHis] knuckles;;;;;;;;;;;;x
+String_fighting_spirit;闘志;;;;;;;;;;;;x
+String_sharp_wit;俊敏;;;;;;;;;;;;x
+EVTOPTA_MNM_1842;出ていけ！このひと時すら惜しい。;;;;;;;;;;;;x
+EVTTITLE_MNM_4217;A Cleansing Through Fire;;;;;;;;;;;;x
+EVTDESC_MNM_4217;[This.Society.GetName]の会員との議論で、[Root.Capital.Capital.GetName]の図書館に収納されているほこりっぽい古い大冊について言及する。 「ほとんどの内容が非常に難解だ。」と告げる。 仲間の目が見開かれる。「[Root.GetLordLady]よ、 [Root.Religion.GetRandomEvilGodName]についての記述を軽々しく論じるべきではありません。」;;;;;;;;;;;;x
+EVTOPTA_MNM_4217;ふむ……危険な本は破壊されるよう取り計らうべきだ。;;;;;;;;;;;;x
+EVTOPTA_MNM_4217_zealous;You misunderstand! I am getting rid of the book, tonight.;;;;;;;;;;;;x
+EVTOPTB_MNM_4217;I have actually been arranging for several tomes to be burned!;;;;;;;;;;;;x
+EVTOPTB_MNM_4217_zealous;Actually, I shall cleanse my whole [Root.GetCapitalHolding] of these accursed objects.;;;;;;;;;;;;x
+EVTOPTC_MNM_4217;少し過剰な反応に思える。;;;;;;;;;;;;x
+EVTOPTC_MNM_4217_scholar;On the other hand, all knowledge can be valuable.;;;;;;;;;;;;x
+EVTTITLE_MNM_4218;汚れた古い大冊;;;;;;;;;;;;x
+EVTDESC_MNM_4218;寝る前に、ナイトテーブルを一瞥する......何かがある......革表紙の大冊が、ベッドのすぐそばに置かれている。これはどういうことか？;;;;;;;;;;;;x
+EVTOPTA_MNM_4218_TT;その本を捨て、燃やすように命じる\n;;;;;;;;;;;;x
+EVTOPTA_MNM_4218;この本は取り除いたはずだ...;;;;;;;;;;;;x
+EVTOPTB_MNM_4218;どのくらいの間そこにあったのだ？;;;;;;;;;;;;x
+EVTOPTB_MNM_4218_TT;頭をかきむしる\n;;;;;;;;;;;;x
+secretly_convert_to_catholic_holy_site;カトリックを秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_catholic_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yカトリック§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_orthodox_holy_site;正教会を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_orthodox_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y正教会§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_miaphysite_holy_site;合性論派を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_miaphysite_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y合性論派§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_nestorian_holy_site;ネストリウス派を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_nestorian_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yネストリウス派§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_sunni_holy_site;スンニ派を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_sunni_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスンニ派§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_shiite_holy_site;シーア派を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_shiite_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yシーア派§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_ibadi_holy_site;イバード派を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_ibadi_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yイバード派§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_jewish_holy_site;ユダヤ教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_jewish_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yユダヤ教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_zoroastrian_holy_site;ゾロアスター教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zoroastrian_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゾロアスター教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_hindu_holy_site;ヒンドゥー教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_hindu_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yヒンドゥー教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_buddhist_holy_site;仏教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_buddhist_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y仏教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_jain_holy_site;ジャイナ教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_jain_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yジャイナ教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_holy_site;ゲルマン原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_reformed_holy_site;ゲルマン多神教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_holy_site;スラブ原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラブ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_reformed_holy_site;スラブ多神教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラブ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_holy_site;テングリ信仰を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ信仰§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_reformed_holy_site;テングリ教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_holy_site;ロムヴァ原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_reformed_holy_site;ロムヴァ多神教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_holy_site;スオメヌスコ原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_reformed_holy_site;スオメヌスコ多神教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_holy_site;アフリカ原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアフリカ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_reformed_holy_site;アフリカ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y西アフリカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_aztec_holy_site;アステカ原始宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_aztec_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_aztec_reformed_holy_site;アステカ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_aztec_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_holy_site;ズン教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_reformed_holy_site;改革派ズン教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y改革派ズン教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+RULE_SECRET_CULTS;秘密のカルト教団;;;;;;;;;;;;x
+RULE_SECRET_CULTS_DEFAULT_DESC;秘密のカルト教団を設立することができます。;;;;;;;;;;;;x
+RULE_SECRET_CULTS_NONE_DESC;秘密のカルト教団を設立することはできません。;;;;;;;;;;;;x
+EVTOPTC20270;私は、絶対に！貴方の下劣な異端を受け入れはしない…公には。;;;;;;;;;;;;x
+EVTOPTD_SOA_4000;興味深い…土地の者と話してみるべきか。;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_SHORT_DESC;§Y[Recipient.GetBestName]§!に宣戦布告;;;;;;;;;;;;x
+ASK_TO_DECLARE_WAR_INTERACTION_SHORT_DESC;§Y[Recipient.GetBestName]§!に宣戦布告;;;;;;;;;;;;x
+ASK_REALM_PEACE_INTERACTION_SHORT_DESC;私戦禁止令の要請;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_SHORT_DESC;§Y[Recipient.GetTitledFirstName]§!より§Y[ThirdPartyTitle.GetFullName]§!を剥奪;;;;;;;;;;;;x
+GRANT_VICE_ROYALTY_INTERACTION_SHORT_DESC;§Y[Recipient.GetTitledFirstName]§!を§Y[ThirdPartyTitle.GetFullName]§!総督に任命する;;;;;;;;;;;;x
