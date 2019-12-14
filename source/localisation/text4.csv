@@ -1,0 +1,155 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTOPTC72056;幾ばくかの金は召使を黙らせる。;;;;;;;;;;;;x
+VASSAL_RAISE_OPINION_DESC;十字軍以外の攻撃戦争で封臣から徴兵している場合、§Y$DAYS$§!日毎に§R-1§!点評価が低下します。;;;;;;;;;;;;x
+WAR_START_YEAR;開始年：$YEAR$;;;;;;;;;;;;x
+WAR_START_YEAR_DESC;この戦争は$YEARS$年$MONTHS$か月続きました;;;;;;;;;;;;x
+LEVY_PERC_DESC3;$THEM$は各兵種の§Y$PERC$%§!を召集軍として温存している;;;;;;;;;;;;x
+DYNFAIL_DESC;あなたは王朝権威点を$SCORE$点得ました。あなたは歴史に残るようなことは何もしていません。;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2B;対象への請求権を持っているため、封臣はこのことに影響を受けません。;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2C; §Y$CROWN_TITLE$§!では君主の権利が強いため、封臣はこのことに影響を受けないでしょう。;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2D;§Y[Recipient.GetTitledFirstName]§!は謀反人であるため、封臣は反発しないでしょう。;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2E;§Y[Recipient.GetTitledFirstName]§!は邪教徒であるため、§Y[Recipient.Religion.GetName]§!教徒の封臣の評価のみが低下します(§R$OPINION$§!)。;;;;;;;;;;;;x
+LOADING_TIP_28;免罪符を買って信仰点を稼ぐことができます。;;;;;;;;;;;;x
+mission_holy_war_desc;$ROOT_CHARACTERTITLE$は§Y$PROVINCE$§!を得るために§Y$TOPOWNERFULLNAME$§W!に対する$CRUSADE_NAME$を呼び掛けている。;;;;;;;;;;;;x
+TOO_MANY_HELD_DUCHIES;多すぎる公爵位;;;;;;;;;;;;x
+opinion_failed_plot;失敗した陰謀;;;;;;;;;;;;x
+e_il-khanate_adj;イルハン;;;;;;;;;;;;x
+AIREASON_WILL_NOT_PLOT_AGAINST_OFFSPRING;子孫に対して陰謀を行うことはできない。;;;;;;;;;;;;x
+AIREASON_CLAIM_ON_MY_TITLES;§Y[GetBestName]§!は私の称号に対して請求権を持っている。;;;;;;;;;;;;x
+AIREASON_HOSTAGE_SITUATION;子供が外国勢力で人質となる;;;;;;;;;;;;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0;§Y[ThirdPartyCharacter.GetBestName]§Wへの破門を解除するよう§Y[Actor.RelHead.GetTitledFirstName]§Wに求める。§R$COST$§Wの信仰点が消費されるだろう。;;;;;;;;;;;;x
+ASK_FOR_DIVORCE_INTERACTION_0;§Y[Actor.Spouse.GetFirstName]§Wとの離婚承認を§Y[Actor.RelHead.GetTitledFirstName]§Wに求める。[Player.Religion.GetPietyName]点§R$COST$§Wが消費されるだろう。[Actor.Spouse.GetPossPronoun]の親戚は侮辱されたとみるだろう。;;;;;;;;;;;;x
+EVTOPTB620;忌まわしき邪教徒共め！;;;;;;;;;;;;x
+EVTOPTA621;なんて日だ！;;;;;;;;;;;;x
+EVTOPTB621;哀れな…;;;;;;;;;;;;x
+WARSCORE_LESS_THAN;戦勝点が右記の値より低い戦争をしている。;;;;;;;;;;;;x
+WARSCORE_MORE_THAN;戦勝点が右記の値より高い戦争をしている。;;;;;;;;;;;;x
+TACTICAL_ADVANTAGE;§Y$TACTIC$§!に対する補正: $PERC$;;;;;;;;;;;;x
+LEADER_MARTIAL_SKILL;§Y$WHO$§!の武勇点: $PERC$;;;;;;;;;;;;x
+FLANKING_BONUS;回り込み： $PERC$;;;;;;;;;;;;x
+AI_REJECT_STILL_A_NO;まだ貴殿の提案を受ける気になれない;;;;;;;;;;;;x
+PLAYER_SUCCESSOR_CHANGED_LOG;後継ぎが変更されました。現在のキャラクターが死亡した場合、 §Y$NEW_SUCCESSOR$§!としてプレイすることになります。;;;;;;;;;;;;x
+TOPLIEGE_TROOPS_TOTAL;最上位の主の全召集軍：§Y$TROOPS$§!;;;;;;;;;;;;x
+TOPLIEGE_TROOPS_CURRENT;最上位の主の現在の召集軍：§Y$TROOPS$§!;;;;;;;;;;;;x
+OWN_TROOPS_TOTAL;$CHAR$の全召集軍： §Y$TROOPS$§!;;;;;;;;;;;;x
+OWN_TROOPS_CURRENT;$CHAR$の現在の召集軍： §Y$TROOPS$§!;;;;;;;;;;;;x
+RELATIVE_STRENGTH;相対的兵力： §Y$STRENGTH$§!;;;;;;;;;;;;x
+CURRENT_RELATIVE_STRENGTH;現在の相対的兵力： §Y$STRENGTH$§!;;;;;;;;;;;;x
+VASSAL_HOLDINGS;封臣の地区：§Y$HOLDINGS$§!;;;;;;;;;;;;x
+LOADING_LOCAL_SAVE;ローカルセーブを読み込み中;;;;;;;;;;;;x
+CB_NAME_DEPOSE_LIEGE;君主退位;;;;;;;;;;;;x
+WAR_NAME_DEPOSE_LIEGE;$DEFENDER$を退位を求める'$ORDER$$FIRST_ADJ$戦争;;;;;;;;;;;;x
+depose_liege_desc;§Y$CLAIMANT$§!は§Y$TARGET$§!を退位させ§Y$CLAIMANT$§!にとって好ましい跡継ぎを据えることを試みることができる。;;;;;;;;;;;;x
+issue_declaration_of_repentance;改悛宣言を発する;;;;;;;;;;;;x
+repentance_ask;聖なる父は我々の祈りを聞き届け救ってくださるだろう。;;;;;;;;;;;;x
+made_repentance;悔悛;;;;;;;;;;;;x
+refused_making_repentance;悔悛拒否;;;;;;;;;;;;x
+EVTDESC39252; [From.GetBestName]からの使者がやってきて、[From.GetHerHis]の罪について赦しを求めた。[From.GetSheHe]の犯した罪は重大なものだが、真摯に悔い改めているようだから、破門を解いてやることにした。;;;;;;;;;;;;x
+EVTOPTA39252;[From.GetHerHis]の破門を解除する。;;;;;;;;;;;;x
+EVTTOOLTIP39253;我々の返信に喜びの涙を流すだろう。;;;;;;;;;;;;x
+EVTDESC39253;聖なる父は私の破門解除に同意してくれた！;;;;;;;;;;;;x
+EVTOPTA39253;神に栄光あれ！;;;;;;;;;;;;x
+EVTOPTB39253;改悛には代償が必要とはいえ、これは実に多すぎる…;;;;;;;;;;;;x
+EVTOPTB39251;[Player.Religion.GetPietyName]には代償が必要とはいえ、これは実に多すぎる…;;;;;;;;;;;;x
+chapter_name_6;戦争;;;;;;;;;;;;x
+chapter_name_5;軍事と戦闘;;;;;;;;;;;;x
+DOWNLOADING;$DLC$をダウンロード;;;;;;;;;;;;x
+DOWNLOAD_PROGRESS;$FILE$/$FILE_MAX$ファイルをダウンロード中\n\n$COUNT$Bがダウンロード完了;;;;;;;;;;;;x
+STORE_REINSTALL;再インストール;;;;;;;;;;;;x
+STORE_BUY;購入;;;;;;;;;;;;x
+STORE_NEED_REINSTALL;DLC §Y$ITEM$§! を再インストール;;;;;;;;;;;;x
+STORE_FAILED_DOWNLOAD;いくつかのファイルは正しくインストールされず、再びダウンロードする必要があります;;;;;;;;;;;;x
+STORE_CANCEL;キャンセル;;;;;;;;;;;;x
+STORE_TOPUP;ブルーコインを購入する;;;;;;;;;;;;x
+STORE_LOGIN;ログイン;;;;;;;;;;;;x
+STORE_LOGOUT;ログアウト;;;;;;;;;;;;x
+STORE_WELCOME;ようこそ、 §Y$USERNAME$§!;;;;;;;;;;;;x
+STORE_NOT_LOGGED_IN;DLCを購入するためにはログインする必要があります;;;;;;;;;;;;x
+TRUCE;休戦;;;;;;;;;;;;x
+IS_NOT_MERCENARY;傭兵ではない;;;;;;;;;;;;x
+IS_MERCENARY;傭兵である;;;;;;;;;;;;x
+NUM_OF_TITLES_LESS;$TIER$の称号数が§Y$VAL$§W未満である;;;;;;;;;;;;x
+NUM_OF_TITLES_LEAST;$TIER$の称号数が§Y$VAL$§W以上である;;;;;;;;;;;;x
+NUM_OF_TITLES_LESS_2;称号数が§Y$VAL$§W未満である;;;;;;;;;;;;x
+NUM_OF_TITLES_LEAST_2;称号数が§Y$VAL$§W以上である;;;;;;;;;;;;x
+TIME_UNPAUSE;一時停止解除;;;;;;;;;;;;x
+EVTDESC38201;[From.GetFirstName]は尋ねました「パパ、子供はどこから来るの？」;;;;;;;;;;;;x
+EVTOPTA39000;[Root.Holder.GetLordSpiritualName]はどこだ!?;;;;;;;;;;;;x
+EVTDESC75060;州の農民たちが家令[Root.job_treasurer.GetTitledFirstName]の身勝手さに不満をこぼしている。[Root.job_treasurer.GetSheHe]は法と支配の概念を全く理解していないようだというのだ。;;;;;;;;;;;;x
+EVTOPTA75085;[Root.job_treasurer.GetHerHis]の考えを採用しよう;;;;;;;;;;;;x
+peasants_scorned;農民の伝統を蔑ろにしたな;;;;;;;;;;;;x
+tut_5a_25;では軍勢の一つを選択してください。すると搭載ボタンが青くなり、押せるようになったでしょうから、クリックしてください。船も陸軍と同様に動かせますから、この艦隊を隣接する北の海域「モレー湾」に移動させましょう。一時停止を解除して、移動するのを見守って下さい。焦れったくなったら速度を最大にしてしまいましょう。;;;;;;;;;;;;x
+tut_5a_29b;一時停止を解除するのを忘れずに。でないといつまで経っても命令は実行されません。;;;;;;;;;;;;x
+opinion_converted_province;改宗した州;;;;;;;;;;;;x
+EVTDESC3336;[From.GetTitledFirstName]は私が冒険好き過ぎると感じており、命を危険にさらすような行為をやめるよう説得しようとしている。;;;;;;;;;;;;x
+EVTNAME60010;イルハン朝の改宗;;;;;;;;;;;;x
+EVTOPTA60010;時は来たれり！;;;;;;;;;;;;x
+EVTOPTB60010;アラーよ、我らに慈悲を！;;;;;;;;;;;;x
+EVTOPTC60010;主よ、我らに慈悲を！;;;;;;;;;;;;x
+EVTOPTD60010;我らに主の加護あらんことを！;;;;;;;;;;;;x
+EVTNAME60020;ジュチ＝ウルスの改宗;;;;;;;;;;;;x
+EVTDESC8720;ドイツ騎士団は異教徒と戦うためにバルト諸国へ進出しようとしている。支持を表明するため、彼らに州を提供したほうがいいだろうか？;;;;;;;;;;;;x
+EVTOPTA8720;彼らの駐留は大歓迎だ;;;;;;;;;;;;x
+EVTOPTB8720;私が土地を放棄することなど決してない;;;;;;;;;;;;x
+EVTDESC8721;我が主君へ\nチュートン騎士団を支援するために領地を分け与えるにあたり、貴君の許可をいただきたく存じます。\n\n貴方様の忠実なる家臣\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8721;この決定は我が主に任せたほうが良いだろう;;;;;;;;;;;;x
+EVTOPTB8721;あなたは私に祝福されています;;;;;;;;;;;;x
+EVTOPTC8721;割譲される土地はありません;;;;;;;;;;;;x
+EVTDESC8722;我が主君へ\n我が家臣である[FromFrom.GetTitledName]が、チュートン騎士団を支援するため、領地の割譲を望んでおります。ことの重大性にかんがみ、まずは貴君の許しを得るのが正道であろうと判断した次第です。\n\n貴方様の忠実なる家臣\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8722;見事な提案だ！;;;;;;;;;;;;x
+EVTOPTB8722;どんな土地の割譲も認めるつもりはない;;;;;;;;;;;;x
+EVTDESC8723;チュートン騎士団に領地を譲らんとする貴殿の寛大なる意向に許可を与える。\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8723;御意！;;;;;;;;;;;;x
+EVTDESC8724;ドイツ騎士団へのいかなる領土の割譲も許可しない！\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA8724;申し出を撤回しよう;;;;;;;;;;;;x
+EVTDESC8725;偉大なる[Root.GetTitledFirstName]へ\n貴君らの武名はつとに知られている。貴君らの異教徒に対する雄々しき戦いを支援することは我も望むところであり、よってここに一州を騎士団に献ずることを提案する。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+alert_truce_expiring_instant;§Y休戦協定の失効§!;;;;;;;;;;;;x
+alert_truce_expiring_delayed;以下の休戦協定が失効する：$LIST$;;;;;;;;;;;;x
+alert_no_ambition_instant;§Y野心を選択§!;;;;;;;;;;;;x
+TOTAL_BONUS;（合計ボーナス）;;;;;;;;;;;;x
+LEVY_MULTIPLIER;召集軍乗数：$VALUE$;;;;;;;;;;;;x
+TOTAL_LEVY;召集軍合計：§Y$VALUE$§!;;;;;;;;;;;;x
+REALM_TREE;領国系統図;;;;;;;;;;;;x
+DYN14_DESC;あなたはスコア$SCORE$でゲームを終え、ゴドウィン家を超えることができ$FAILED$た。1066年1月5日、ハロルド・ゴドウィンソンはイングランド王に即位。彼の父は、クヌート王の治世の大半を通じて一族の勢力基盤を強化することに腐心していたが、エドワード懺悔王の崩御にともない、ハロルドが王座を手に入れる機会がめぐってきたのである。しかし、王位を要求していたのは彼だけではなかった。ノルウェーのハーラル3世とノルマンディー公ウィリアムも王冠を我が物とするため、イングランドに派兵したのである。ハーラル3世はスタンフォードブリッジの戦いで敗死したが、ハロルドもその後、ヘースティングズの戦いでウィリアムによって倒されてしまう（2人の兄弟も彼と運命を共にした）。ハロルドの死によってゴドウィン家の権勢は失墜。その土地は、ウィリアム配下のノルマン人諸侯によって分割されたのであった。;;;;;;;;;;;;x
+EVTOPTA38020;歪んだ司教どもめ、逮捕しろ！;;;;;;;;;;;;x
+TOURNAMENTTITLE;武芸大会;;;;;;;;;;;;x
+EVTDESC70034;[From.GetTitledName]は武芸大会の優勝者として名誉を与えられました;;;;;;;;;;;;x
+EVTOPTA70034;[From.GetSheHeCap]はそれに真に値するものだ!;;;;;;;;;;;;x
+EVTDESC70035;[From.GetTitledName]はその剛勇によって武芸大会で[From.GetHerHim] は2位を獲得しました。;;;;;;;;;;;;x
+EVTOPTA70035;最も勇敢に戦った！;;;;;;;;;;;;x
+EVTDESC70036;[From.GetTitledName]は武芸大会で勝ち上がり3位を獲得しました。;;;;;;;;;;;;x
+EVTOPTA70036;[From.GetSheHe]は奮戦した。;;;;;;;;;;;;x
+EVTDESC70037;戦争により[From.GetTitledName]が開いた武芸大会は中止されました。;;;;;;;;;;;;x
+EVTOPTA70037;私の勇気は戦いの中で示されるだろう！;;;;;;;;;;;;x
+EVTDESC70038;我が主！賓客である[From.GetTitledName]が不幸なことに大会中に亡くなられました！;;;;;;;;;;;;x
+EVTOPTA70038;本当に残念だ;;;;;;;;;;;;x
+EVTOPTB70038;そんなことでいちいち報告するな!;;;;;;;;;;;;x
+EVTDESC70039;我が主！賓客である[From.GetTitledName]が不幸なことに大会中に重症を負いました！;;;;;;;;;;;;x
+EVTDESC70040;我が主！賓客である[From.GetTitledName]が不幸なことに大会中に負傷しました！;;;;;;;;;;;;x
+opinion_tournament_participant;武芸大会を開催;;;;;;;;;;;;x
+opinion_tournament_winner;武芸大会の優勝者;;;;;;;;;;;;x
+opinion_tournament_second_place;武芸大会で準優勝;;;;;;;;;;;;x
+opinion_tournament_third_place;武芸大会で第3位;;;;;;;;;;;;x
+EVTDESC70012;接近戦を試み接敵した際、唐突な腹痛が私を襲い、腹を下した。同胞達の嫌悪の視線が私に突き刺さる。;;;;;;;;;;;;x
+EVTDESC923;[Root.Location.GetName]の建設現場を監督した際に、卓越した大工に出会った。大工は多くの経験を積んでおり、建築のあれこれについて教授する役目を快く引き受けてくれた。;;;;;;;;;;;;x
+EVTOPTA923;色々と学べそうだ;;;;;;;;;;;;x
+EVTDESC20230;我が主よ。[From.Location.GetName]で行われている建設作業は、かの大工の下で滞りなく進んでおります。大工は私を呼び寄せ、建築について知っている事を隅から隅まで教えてくれました。この知識は今後の仕事を大いに助けることでしょう。\n\n忠実なる家令\n[From.GetTitledName]より;;;;;;;;;;;;x
+EVTDESC80057;はるか遠方の地に住む統治者に対し、忠誠心らしい忠誠心を持っていなかった[FromFrom.GetName]の農民反乱軍は、[From.County.Holder.GetTitledName]に忠誠を誓った！;;;;;;;;;;;;x
+EVTDESC80062;はるか遠方の地に住む統治者に対し、忠誠心らしい忠誠心を持っていなかった[Root.GetName]の農民反乱軍は、別の統治者に忠誠を誓った！;;;;;;;;;;;;x
+EVTTOOLTIP5025;[Root.GetTitledFirstName]の自慢の種;;;;;;;;;;;;x
+EVTDESC72086;祝宴の途中、[From.GetTitledName]は内密の話があると言って、戸惑う私を連れ出した。私が持っている称号の中には、自分を正統な継承者とするものがあると思う。[From.GetTitledName]は言葉を選びながらそう語った。;;;;;;;;;;;;x
+EVTTOOLTIP72087;[Root.GetTitledFirstName]は[This.GetSheHe]が望む称号を[This.GetTitledFirstName]に授与した;;;;;;;;;;;;x
+EVTDESC72089;宴会は素晴らしかった、守衛が私を捕まえて[From.GetTitledFirstName]の牢獄に投げ込むまでは！貪欲な[From.GetTitledFirstName]は、自由のために喜んで[From.GetSheHe]が望む称号を[From.GetHerHim]に与えるだろうと思っているかもしれないが、私は[From.GetTitledFirstName]に証明する。私は[From.GetSheHe]が思うよりも強いと！;;;;;;;;;;;;x
+EVTOPTA72089;称号は決してお前のものになることはない！;;;;;;;;;;;;x
+EVTOPTB72089;待て...称号をあなたに渡そう。そして私を出してくれ！;;;;;;;;;;;;x
+EVTOPTA69058;なぜ[Root.job_spiritual.GetHerHim]を信用するたびに、[Root.job_spiritual.GetSheHe]はがっかりするのだろうか？;;;;;;;;;;;;x
+MAPMODE_RELIGION_DESC;このマップモードでは宗教の分布を示します。;;;;;;;;;;;;x
+convert_to_parent_religion_desc;私は唯一の真の信仰に再改宗する。;;;;;;;;;;;;x
+tut_6a_24;様々な戦争結果は、中級のチュートリアルで説明します。あなたはまだ何も勝利していないので、彼らに降伏要求をすることはできません。このパートを終了させるには白紙和平か降伏してください。;;;;;;;;;;;;x
+LOST_PLAYER;$NAME$は退出した...;;;;;;;;;;;;x
+SAFE_RAISE;§G§YCtrlキー§G＋クリックで敵対する軍隊のいる場所を避けて召集軍を動員します§!;;;;;;;;;;;;x
+DIPLO_ALREADY_CONSIDERING;§Y$NAME$§!は現在、我々からの$INTERACTION$の提案について検討中です;;;;;;;;;;;;x
+DIPLO_ALREADY_CONSIDERING_DAYS;、§Y$DAYS$§!日間で回答がくると予想されます;;;;;;;;;;;;x
+STORE_USERNAME;ユーザー名：;;;;;;;;;;;;x
+STORE_PASSWORD;パスワード：;;;;;;;;;;;;x

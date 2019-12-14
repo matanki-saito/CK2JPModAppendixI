@@ -1,0 +1,7 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ENDGAME_TEXT_JEWISH;あなたはユダヤ教徒になったのでDLC『Sons of Abraham』がなければプレイを続行できません。;;;;;;;;;;;;x
+NOT_ALLOWED_JEWISH;DLC『Sons of Abraham』がなければ§Yユダヤ教§!でのプレイはできません！;;;;;;;;;;;;x
+NOT_ALLOWED_JEWISH_MP;DLC『Sons of Abraham』がなければ§Y$PLAYER$§!が§Yユダヤ教§!でのプレイはできません！;;;;;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_SOA_DLC;ユダヤ教はDLC『Sons of Abraham』がなければプレイできません;;;;;;;;;;;;x
+IRONMAN_MODE_SAVEGAME_DESC;保存したファイルは何らかの形で変更されているか破損しており、アイアンマンモードではプレイできません。;;;;;;;;;;;;x

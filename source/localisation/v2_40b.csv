@@ -1,0 +1,112 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_WOL_115;私は[target_seduced.GetTitledFirstNameNoRegnal]への好色な興味を追及するのに極端に苦労している。どこか遠くに旅行にでも行ったらいいだろうか？;;;;;;;;;;;;x
+EVTDESC_WOL_115_BUSY;現在の業務は私に[target_seduced.GetTitledFirstNameNoRegnal]を追いかける時間を残してくれはしない…誰か代わってくれないものか。;;;;;;;;;;;;x
+EVTDESC_WOL_115_UNAVAILABLE;私の好色の標的、[target_seduced.GetTitledFirstNameNoRegnal]はまったく私のそばに姿を現さない！;;;;;;;;;;;;x
+EVTOPTA_WOL_115;諦めるべきか…今のところは。;;;;;;;;;;;;x
+EVTOPTB_WOL_115;急ぐことはない！;;;;;;;;;;;;x
+stop_seduce_decision;誘惑を止める;;;;;;;;;;;;x
+stop_seduce_decision_desc;私の誘惑しようとする努力を止めよう。多分別の誰かを見つけた方がいい…;;;;;;;;;;;;x
+stop_seduce_decision_tt;誘惑の終了;;;;;;;;;;;;x
+stop_seduce_decision_target;誘惑を止める;;;;;;;;;;;;x
+stop_seduce_decision_target_desc;§Y[Root.GetTitledFirstNameNoRegnal]§!を誘惑する試みをやめます。他に注意を向けるべきでしょう…;;;;;;;;;;;;x
+stop_spy_on_decision;間諜を停止;;;;;;;;;;;;x
+stop_spy_on_decision_desc;現在の標的への間諜を停止する。他にも多くの容疑者がいる…;;;;;;;;;;;;x
+stop_spy_on_decision_tt;間諜終了;;;;;;;;;;;;x
+stop_spy_on_decision_target;探りの停止;;;;;;;;;;;;x
+stop_spy_on_decision_target_desc;§Y[Root.GetTitledFirstNameNoRegnal]§!へ探りを入れるのを停止する。注意を向けるべきは他にいる…;;;;;;;;;;;;x
+EVTDESC_HL_5051;襲撃者の一団は領内の交易を脅かしている。我が主君、[Liege.GetTitledFirstName]は私に奴らの頭目を尾行し、隊商の交通の安全を確保せよと仰せだ。;;;;;;;;;;;;x
+EVTOPTA_HL_5051;それこそ我が任務だ。;;;;;;;;;;;;x
+EVTOPTB_HL_5051;危険な山賊などのために生を危険に晒したくなどはない。;;;;;;;;;;;;x
+EVTTOOLTIP_HL_5051;命令拒否は我が主君に私を逮捕する理由を与えてしまう。;;;;;;;;;;;;x
+EVTDESC_HL_5052;[From.GetTitledFirstName]は私の前に以前から[FromFrom.GetName]で商人達を悩ませていた盗賊の頭目を引っ立ててきた。;;;;;;;;;;;;x
+EVTOPTA_HL_5052;素晴らしき仕事だ！;;;;;;;;;;;;x
+EVTDESC_HL_5053;夕方、[From.GetTitledFirstName]の馬がその主無く戻ってきた。襲撃者たちが[From.GetHerHim]に何をしたのか語ることの出来る者はいない…;;;;;;;;;;;;x
+EVTOPTA_HL_5053;何と恐ろしきさだめ…;;;;;;;;;;;;x
+EVTOPTB_HL_5053;私は個人的にきゃつら破落戸どもに対処せねば。;;;;;;;;;;;;x
+EVTOPTC_HL_5053;奴らの追跡のために兵を得る。;;;;;;;;;;;;x
+EVTDESC_HL_5054;臆病者の[From.GetTitledFirstName]は隊商の襲撃者を妨げることは大変危険だと思い、我が命を拒否した。[From.GetHerHim]を逮捕することもできるが、しかし、それで商人達が交易路において襲われる問題が解決できるわけではない。;;;;;;;;;;;;x
+EVTOPTA_HL_5054;この不服従の元帥に対処せねば。;;;;;;;;;;;;x
+EVTOPTB_HL_5054;自ら襲撃者どもを根絶せねばならん。;;;;;;;;;;;;x
+EVTOPTC_HL_5054;襲撃者に対処するために兵を編成する。;;;;;;;;;;;;x
+EVTDESC_HL_5055;[From.GetTitledFirstName]が大胆にも襲撃者を追い払うために行って後、単独で傷つき帰還した。不幸にも彼が報告するには、襲撃者たちを我らが地から排除することはできなかったとのことだ。;;;;;;;;;;;;x
+EVTOPTA_HL_5055;クソ虫野郎が！;;;;;;;;;;;;x
+EVTDESC_HL_5056;日没後、私は襲撃者達の野営地を追跡するために兵を率いていく。私達が決定したことは…;;;;;;;;;;;;x
+EVTOPTA_HL_5056;……駐屯地に入り、奴らの頭目に接触しよう。;;;;;;;;;;;;x
+EVTOPTB_HL_5056;……深夜を待ち、見張りに忍び寄る。;;;;;;;;;;;;x
+EVTDESC_HL_5057;我々は野営地に入り、多くのテントやキャンプファイヤーの間を通っていく。私は少数の襲撃者しか見ることが出来なかったが、多くの視線が向けられることが分かる。野営地の中心に近づくと、襲撃者の頭目と思われる影が大きなテントのテントの出口に見え、テントに入ると笑顔で迎えてくれた。;;;;;;;;;;;;x
+EVTOPTA_HL_5057;襲撃者の一団を壊滅させるために頭目と戦うぞ。;;;;;;;;;;;;x
+EVTOPTB_HL_5057;私の土地から去るよう襲撃者を買収してみよう。;;;;;;;;;;;;x
+EVTOPTC_HL_5057;彼らに隊商を襲ってはいけない外交的理由を説明してみよう。;;;;;;;;;;;;x
+EVTDESC_HL_5058;財産と権利に関する一方的な会話に夢中になっていた私は、背後から近づいてくる刺客に気づかなかった。後頭部に対する鋭い打撃によって意識を奪われる直前、頭目が僅かに頷いたことを気づくことが出来なかった。;;;;;;;;;;;;x
+EVTOPTA_HL_5058;あっ！;;;;;;;;;;;;x
+EVTDESC_HL_5059;笑い声と叫び声で私は意識を取り戻した。容赦のない日光に目が慣れてくると、私は縛られていることに気がついた。襲撃者は私をおかしな格好で飾り立て、街中に見せびらかして練り歩き、私の解放に金塊の山を要求した。;;;;;;;;;;;;x
+EVTOPTA_HL_5059;私の自由のため彼らに支払う。;;;;;;;;;;;;x
+EVTOPTB_HL_5059;慈悲を乞い願う。;;;;;;;;;;;;x
+EVTDESC_HL_5060;襲撃者のキャンプに近づくと、我々は見つからないよう闇に紛れた。だが、突然我々は大勢に周囲を囲まれていることがわかり、我々は愚かな間違いを犯したことに気づいた。;;;;;;;;;;;;x
+EVTOPTA_HL_5060;降伏;;;;;;;;;;;;x
+EVTOPTB_HL_5060;踊ろう！;;;;;;;;;;;;x
+EVTDESC_HL_5061;見張りの兵士を制圧したあと、リーダーの天幕に入った。彼が熟睡している間に剣を抜き、彼の喉に正確に突きつけた。突然、彼の目が瞬き、呆然とした視線が慌ててテント中をさまよった。その時私は素早く動かなければ彼が騒ぎ立てるかもしれないと気付いた。;;;;;;;;;;;;x
+EVTOPTA_HL_5061;私の土地から去るよう彼を脅迫するのだ！;;;;;;;;;;;;x
+EVTOPTB_HL_5061;彼の喉を切り裂き、逃げるために戦う。;;;;;;;;;;;;x
+caravan_raiders;隊商襲撃者;;;;;;;;;;;;x
+caravan_raiders_desc;襲撃者は近郷を略奪することで、この州での交易が困難になっています。;;;;;;;;;;;;x
+caravan_guards;隊商警備隊;;;;;;;;;;;;x
+caravan_guards_desc;委託された隊商警備隊はこの州の交易を保護します。;;;;;;;;;;;;x
+trade_governor;交易管理官;;;;;;;;;;;;x
+trade_governor_desc;この州での交易は熟練の管理者によって監督されます。;;;;;;;;;;;;x
+opinion_refused_order;拒否された命令;;;;;;;;;;;;x
+dung_collector;家畜糞収集家;;;;;;;;;;;;x
+surge_of_traders;商人の殺到;;;;;;;;;;;;x
+chinese_embargo;中国禁輸;;;;;;;;;;;;x
+publicly_humiliated;公の侮辱;;;;;;;;;;;;x
+job_commander;指揮官;;;;;;;;;;;;x
+ASSIGN_LEADER;司令官を任命;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_TITLE;指揮官に任命;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_DESC;§Y[Recipient.GetTitledFirstName]§Wを貴方の指揮官の一人として任命します。;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_LONG_DESC;当主とその元帥、また指揮官に任命された者のみが戦闘において司令官となれます。;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_ACCEPT_SETUP;指揮官任命;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledFirstName]§Wは§Y[Actor.GetBestName]§Wによって指揮官に任命されました;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_DECLINE_SETUP;指揮官任命拒否;;;;;;;;;;;;x
+APPOINT_COMMANDER_INTERACTION_DECLINE_LOG;§Y[Recipient.GetTitledFirstName]§Wは§Y[Actor.GetBestName]§Wよりの指揮官任命を拒否しました;;;;;;;;;;;;x
+RESIGN_COMMANDER_INTERACTION_TITLE;指揮官解任;;;;;;;;;;;;x
+RESIGN_COMMANDER_INTERACTION_DESC;§Y[Recipient.GetTitledFirstName]§Wを[Recipient.GetHerHis]の指揮官としての業務から解任する;;;;;;;;;;;;x
+RESIGN_COMMANDER_INTERACTION_LONG_DESC;もし指揮官が負傷したり、病気に罹ったり、年老いた際は任務から解任するのがよいかもしれません;;;;;;;;;;;;x
+RESIGN_COMMANDER_INTERACTION_ACCEPT_SETUP;指揮官を解任された;;;;;;;;;;;;x
+NOT_MEMBER_OF_COUNCIL;§Y[Recipient.GetTitledFirstName]§Wはすでに§Y[Actor.GetBestName]'s§Wの協議会の一員ではいられません;;;;;;;;;;;;x
+becomes_pregnant_no_father;[Root.GetFirstName]は妊婦となります;;;;;;;;;;;;x
+IN_HIDING_DESC;Hiding somewhere around §Y$LOCATION$§!;;;;;;;;;;;;x
+EVTDESC_TOG_550B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]なる[Root.GetFirstName]、己の記憶を残さんものと考え、生あるうちにこの碑を建立す。かの者のことが歓喜と幸福と共に思い出されんことを。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_552B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる[Root.GetFirstName]、己の記憶を残さんものと考え、生あるうちにこの碑を建立す。かの者の美味き酒を愛する心、余人の追随を許さざるなり。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_553B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる[Root.GetFirstName]、生あるうちにこの石碑の建立を命ず。あまねく人の住まいし地において、かの者の美しさと麗しさに比肩する者なきは真実なり。アルフールこれを刻み、エイナールこれを塗る。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_554B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる[Root.GetFirstName]、己の記憶を残さんものと考え、生あるうちにこの碑を建立す。体躯は矮小なれど、[Root.GetFirstName]は気宇壮大なり。かの者の生あるうちに、オドールこれを刻む。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_555B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる[Root.GetFirstName]、己の大いなる英知を寿がんとこの碑を建立す。かの者は、当代はおろか、過去にも並ぶ者なき知恵者なり。トーケ、このルーンを刻む。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_556B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる不遇なる[Root.GetFirstName]、己のことを後の世に伝えるこの碑の建立を見るを得たり。多くの者がかの者を無為無価値と言いしが、そはおそらく真実なり。女にかけては百戦錬磨の偉大なるチュートムント、かの者を憐れみてこれを刻む。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_557B;建立を命じたルーン石碑が完成し、予め選んでおいた場所に安置された。碑文にはこうあった。\n\n「自然の[Root.GetSonDaughter]たる[Root.GetFirstName]、その生前にこの碑の建立を命ず。無双の剛力を持つと伝えられしかの者に、あえて挑み、その真偽を確かめんとした者は皆無なり。この碑、オルムが刻む。」\n\nこれから幾百年がたち、碑に塗られた色がすっかり褪せた頃、学者たちはこの碑に刻まれたルーンを調べ、そこに秘められた叡智を解き明かそうとするだろう。そう確信すると満足して碑の前を離れた。;;;;;;;;;;;;x
+EVTDESC_TOG_558B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName] the Learned, [Root.GetSonDaughter] of the wild, asked for this stone to be raised in [Root.GetHerHis] name. The knowledge [Root.GetSheHe] held of the world and all of its wonders was the envy of all. Hrolfr carved these words.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_559B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, had this stone raised and painted with the blood of [Root.GetHerHis] enemies while [Root.GetSheHe] still lived. Those foolish enough to go against [Root.GetFirstName] met their end impaled on a pole. Egil carved these runes before he suffered this very fate.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_560B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\nThis stone was raised by [Root.GetFirstName], [Root.GetSonDaughter] of the wild, to celebrate the beauty of the world. Like a shining rainbow or the glittering sea, [Root.GetFirstName] brought joy and light into the life of those who met [Root.GetHerHim]. Asbjörn reluctantly carved these words.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_561B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, likely parent of countless bastards, had this stone raised in memory of [Root.GetHerselfHimself]. Let no one deny the love [Root.GetSheHe] felt for others. Anund carved, Gorm painted.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_562B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, raised this stone in [Root.GetHerHis] own lifetime. Like no one before [Root.GetHerHim], [Root.GetFirstName] could appreciate a good meal. Here is the recipe for roasted boar the way [Root.GetSheHe] prefers it...\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_563B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, had this stone erected with the help of Sigtrygg. Throughout the land, [Root.GetFirstName] was known for [Root.GetHerHis] great charity to others. No wanderer seeking food or shelter at one of [Root.GetHerHis] holdings was turned away.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_564B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\nThis stone was raised by [Root.GetFirstName], [Root.GetSonDaughter] of the wild, who was renowned for [Root.GetHerHis] great kindness to all things living. May [Root.GetSheHe] be treated by all others, now and in the afterlife, in that same manner.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_565B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName] the Great, [Root.GetSonDaughter] of the wild, raised this stone to honor the legacy of [Root.GetHerHis] famous deeds. In the world of Men, no one was [Root.GetHerHis] equal.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_566B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\nThe words on this stone belong to [Root.GetFirstName], [Root.GetSonDaughter] of the wild, but the carving was done by Tyke and Ragnvald painted. Let it be known that [Root.GetFirstName] lived a simple life without distractions, grateful for the company and friendship those around [Root.GetHerHim] provided.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_567B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\nWhile [Root.GetSheHe] still lived, [Root.GetFirstName], [Root.GetSonDaughter] of the wild, had this stone raised in [Root.GetHerHis] own memory. Even [Root.GetHerHis] enemies cannot deny the great courage of [Root.GetFirstName]. Those who knew [Root.GetHerHim] can swear that when faced with danger, [Root.GetSheHe] was always without fear.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_568B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, had this stone raised in [Root.GetHerHis] own lifetime. There was no one more fair and just in all things. Men and women traveled far to seek [Root.GetHerHis] counsel in disputes. Kolbjörn carved these runes.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_569B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, ordered this stone raised in honor of the Gods. No one was more devoted to Odin, and no one was more deserving of a place in Valhalla. These runes were carved by Grim and painted by Borkvard.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_570B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, ordered this stone raised in the name of Christ and Saint Michael. May God preserve [Root.GetHerHis] soul, and lead [Root.GetHerHim] safely to light and paradise. These runes were carved by Thorolf and painted by Balder.\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+EVTDESC_TOG_571B;The runestone you commissioned has been finished and raised on the spot you chose for it. You examine the runes:\n\n[Root.GetFirstName], [Root.GetSonDaughter] of the wild, had these runes carved in [Root.GetHerHis] own lifetime. No one was more feared than [Root.GetFirstName] in the realm of Men, and [Root.GetHerHis] enemies suffered the pains of a thousand deaths for daring to oppose [Root.GetHerHim].\n\nYou leave the stone, content in the knowledge that many centuries from now, when its paint has long since faded, scholars will be studying these rune carvings in an effort to glean the wisdom of their words.;;;;;;;;;;;;x
+IS_HEALTHY;健康である\n;;;;;;;;;;;;x
+MODIFIER_MAX_MANPOWER;最大人的;;;;;;;;;;;;x
+MODIFIER_MAX_POPULATION;最大人口;;;;;;;;;;;;x
+MODIFIER_MANPOWER_GROWTH;人的増加;;;;;;;;;;;;x
+MODIFIER_POPULATION_GROWTH;人口増加;;;;;;;;;;;;x
+EVTDESC_HL_10501;貴方の[eloper.GetSonDaughter] [eloper.GetFirstName]は悪名高き傭兵[From.GetFirstName]と駆け落ちしました。;;;;;;;;;;;;x
+EVTOPTA_HL_10501;[GetRootFromInsult]!;;;;;;;;;;;;x
+EVTDESC_HL_10502;[eloper.GetTitledName]は悪名高き傭兵[From.GetTitledName]と駆け落ちしています。;;;;;;;;;;;;x
+SETTLEMENT_TYPE_ALLOWED;§Y$LOCATION$§!で§Y$TYPE$§!を持つことが許可されている;;;;;;;;;;;;x
+SETTLEMENT_TYPE_NOT_ALLOWED;§Y$LOCATION$§!で§Y$TYPE$§!を持つことが許可されていない;;;;;;;;;;;;x
+SETTLEMENT_TYPE_PREFERRED;適する領地として§Y$TYPE$§!を持っている;;;;;;;;;;;;x
+SETTLEMENT_TYPE_NOT_PREFERRED;適する領地として§Y$TYPE$§!を持ってはいけない;;;;;;;;;;;;x
+TRIBAL_VASSAL_MAX_LEVY;部族封臣による召集軍の最大規模;;;;;;;;;;;;x

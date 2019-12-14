@@ -1,0 +1,67 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_nubia;マクリア;;;;;;;;;;;;x
+d_nubia_adj;マクリア;;;;;;;;;;;;x
+LIEGEPIETY_HEADER;主君への[Player.Religion.GetPietyName];;;;;;;;;;;;x
+major_river_crossing;大河渡河;;;;;;;;;;;;x
+realm_job_spiritual;$TITLE$の領地;;;;;;;;;;;;x
+job_spiritual_finnish_pagan;占い師;;;;;;;;;;;;x
+job_spiritual_finnish_pagan_reformed;占い師;;;;;;;;;;;;x
+job_spiritual_baltic_pagan;占い師;;;;;;;;;;;;x
+job_spiritual_baltic_pagan_reformed;占い師;;;;;;;;;;;;x
+job_spiritual_slavic_pagan;占い師;;;;;;;;;;;;x
+job_spiritual_slavic_pagan_reformed;占い師;;;;;;;;;;;;x
+job_spiritual_tengri_pagan;占い師;;;;;;;;;;;;x
+job_spiritual_tengri_pagan_reformed;占い師;;;;;;;;;;;;x
+job_spiritual_zoroastrian;司祭;;;;;;;;;;;;x
+nick_hardeknud;頑強なる騎士;;;;;;;;;;;;x
+steppe;草原;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_CHARALLOWED;所有者は略奪を許可している;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_INOWNLAND;部隊は友好的な領地にいる;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_MERC;部隊に傭兵団が含まれていない;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_ISATTACHED;部隊は他の部隊に追随していない;;;;;;;;;;;;x
+TOGGLE_LOOTER_FAIL_HASATTACHED;部隊は他の部隊に追随されていない;;;;;;;;;;;;x
+INTERACTION_GRANT_GAVELKIND_EXPLOIT;均分相続制下の貴方の後継者§Y$NAME$§!は§Y$TITLE$§!を授与されることはできません;;;;;;;;;;;;x
+ca_steppe_barracks_1;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_barracks_2;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_barracks_3;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_barracks_4;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_barracks_5;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_barracks_6;草原戦士兵舎;;;;;;;;;;;;x
+ca_steppe_stable_1;草原騎兵演習場;;;;;;;;;;;;x
+ca_steppe_stable_2;草原騎兵演習場;;;;;;;;;;;;x
+ca_steppe_stable_3;草原騎兵演習場;;;;;;;;;;;;x
+ca_steppe_stable_4;草原騎兵演習場;;;;;;;;;;;;x
+ca_steppe_stable_5;草原騎兵演習場;;;;;;;;;;;;x
+ca_steppe_stable_6;草原騎兵演習場;;;;;;;;;;;;x
+CK2CoA3DLC;『Dynasty Coat of Arms Pack 3』;;;;;;;;;;;;x
+NorseUnitPackDLC;『Norse Unit Pack』;;;;;;;;;;;;x
+NorsePortraitsDLC;『Norse Portraits』;;;;;;;;;;;;x
+ca_steppe_barracks_desc;草原の人々は歩兵戦より騎馬戦に焦点を当てるものですが、この戦士兵舎で訓練する闘士は他よりも自分自身で戦い抜くことができます。;;;;;;;;;;;;x
+ca_steppe_stable_desc;草原は騎馬戦において理想的な立地であり、これら土地における遊牧民戦士の文化はこの優位性を押し出すことを知っています。この乗馬場はより多くの軽騎兵と騎馬弓兵を生産します。;;;;;;;;;;;;x
+ca_culture_nahuatl_1;ジャガー戦士兵舎;;;;;;;;;;;;x
+ca_culture_nahuatl_2;ジャガー戦士兵舎;;;;;;;;;;;;x
+ca_culture_nahuatl_3;ジャガー戦士兵舎;;;;;;;;;;;;x
+ca_culture_nahuatl_4;ジャガー戦士兵舎;;;;;;;;;;;;x
+pagan_group_succ_desc_1;神々の許へと旅立ちにけり;;;;;;;;;;;;x
+pagan_group_succ_desc_4;来世に向かいにけり;;;;;;;;;;;;x
+pagan_group_succ_desc_8;神々と饗宴を催さん。;;;;;;;;;;;;x
+norse_pagan_succ_desc_3;戦乙女の手によりて昇天す;;;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_3;戦乙女の手によりて昇天す;;;;;;;;;;;;x
+norse_pagan_succ_desc_4;アスガルドに向かいにけり;;;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_4;アスガルドに向かいにけり;;;;;;;;;;;;x
+norse_pagan_succ_desc_8;ヴァルハラにて饗宴を催さん;;;;;;;;;;;;x
+norse_pagan_reformed_succ_desc_8;ヴァルハラにて饗宴を催さん;;;;;;;;;;;;x
+muslim_succ_desc_1;至福の楽園にて白き干し葡萄を食さん;;;;;;;;;;;;x
+muslim_succ_desc_2;楽園にて白き駱駝を御するべし;;;;;;;;;;;;x
+muslim_succ_desc_3;アッラーの手によりて昇天す;;;;;;;;;;;;x
+muslim_succ_desc_4;天国に向かいにけり;;;;;;;;;;;;x
+muslim_succ_desc_8;楽園にて天女達と共にあるべし;;;;;;;;;;;;x
+west_african_pagan_succ_desc_1;祖先達の許に旅立ちにけり;;;;;;;;;;;;x
+west_african_pagan_reformed_succ_desc_1;祖先達の許に旅立ちにけり;;;;;;;;;;;;x
+DE_JURE_INDP_DESC;§Y$TITLE$§! として独立、正当性を得る (§Y$YEARS$§!/$NEEDED_YEARS$ years);;;;;;;;;;;;x
+EVTDESC_TOG_4016;[Root.GetTitledFirstName]殿、ご健勝にお過ごしのこととお喜び申し上げます。私はパルナトークと申し、トールとオーディンによって択ばれし兄弟による戦士団を作っているところです。さて私がリューゲン海岸を航行しておりましたところ、我らの牙城を構えるに最適な立地を発見致しましたので、何卒ここに施設を建設する許可を得られますようお願い申し上げます。\n\n(署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_TOG_4026;[Root.GetTitledFirstName]殿、ご健勝にお過ごしのこととお喜び申し上げます。私はパルナトークと申し、トールとオーディンによって択ばれし兄弟による戦士団を作っているところです。さて私がヴェアレ海岸を航行しておりましたところ、我らの牙城を構えるに最適な立地を発見致しましたので、何卒ここに施設を建設する許可を得られますようお願い申し上げます。\n\n(署名）\n[From.GetTitledName];;;;;;;;;;;;x
+INTERACTION_CONSORT_NOT_PREGNANT;側室が妊娠していない;;;;;;;;;;;;x
+SETTLEMENT_LOOTED_LOG;§Y$SETTLEMENT$§!は§Y$LOOTER$§!により§Y$LOOT$§!¤が略奪されました;;;;;;;;;;;;x
+EVTDESC20377;我が主、ここ[From.Location.GetName]の地元の貴族[FromFrom.GetTitledName]は私を黙らすために幾人かの刺客を送ってきました！が、幸運にも私は逃れることができました。私は[FromFrom.GetHerHis]の汚職の噂を広め、[FromFrom.GetHerHis]の家臣団における[FromFrom.GetHerHis]の評判を失墜させるつもりです。\n\nあなたの忠実なる密偵頭、\n[From.GetTitledName];;;;;;;;;;;;x

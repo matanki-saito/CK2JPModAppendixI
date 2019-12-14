@@ -1,0 +1,747 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+CONVERTING;変換中;;;;;;;;;;;;x
+opinion_humiliated_family;侮辱された家族;;;;;;;;;;;;x
+opinion_humiliated_close_kin;侮辱された近親;;;;;;;;;;;;x
+gov_mercenary;傭兵団;;;;;;;;;;;;x
+RULE_NOMAD_STABILITY;§B『Horse Lords』§!遊牧民の動向;;;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_UNSTABLE;不安定;;;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_UNSTABLE_DESC;可汗の継承に乗じて、遊牧民の諸侯は独立を宣言することができる。継承した支配者は独立された土地への請求権をもつ。;;;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_STABLE;安定;;;;;;;;;;;;x
+RULE_OPTION_NOMAD_STABILITY_STABLE_DESC;遊牧民の諸侯は可汗の継承に乗じて独立をする機会がない。;;;;;;;;;;;;x
+RULE_DE_JURE_REQUIREMENT;慣習的領土の要件;;;;;;;;;;;;x
+RULE_DE_JURE_REQUIREMENT_DEFAULT_DESC;慣習的領土の称号は状況に関係なく維持されます。;;;;;;;;;;;;x
+RULE_OPTION_DE_JURE_REQUIREMENT_REQUIRED;必須;;;;;;;;;;;;x
+RULE_OPTION_DE_JURE_REQUIREMENT_REQUIRED_DESC;キャラクターが自分の領邦内に、称号の慣習的領土である土地を1つも持っていない場合、その称号は、早晩破壊される。;;;;;;;;;;;;x
+EVTDESC_GR_1;あなたは[title_to_destroy.GetName] [title_to_destroy.GetTier]内の慣習的領土を1つも保持していない。そのため正当な支配者であると主張することは最早できなくなりました。あなたは手の届かないほど遠く離れた王座を求める、有象無象の一人と見做されています。;;;;;;;;;;;;x
+EVTOPTA_GR_1;それでも[title_to_destroy.GetName]は私のものだったのだ!;;;;;;;;;;;;x
+EVTDESC_GR_11;[From.GetFullName]の突然の死によって独立を宣言する絶好の機会が訪れた。もちろん[nomadic_heir.GetFullName]は[nomadic_heir.GetHerHis]の法律を無視した我々に対して当然の如く過酷な報復と制裁を下すだろう...;;;;;;;;;;;;x
+EVTOPTA_GR_11;いや、我々は忠誠を貫く。;;;;;;;;;;;;x
+EVTOPTB_GR_11;我々は自分の運命の支配者だ！;;;;;;;;;;;;x
+EVTDESC_GR_12;かつて家臣だった [From.GetFirstName]は私からの独立を選んだ。;;;;;;;;;;;;x
+EVTOPTA_GR_12;連中の首を取ってやる！;;;;;;;;;;;;x
+RULE_SUPERNATURAL_UNRESTRICTED_DESC;AI君主にも、悪魔の子、狼の血、不死イベントなどの超常現象イベントが起こります。;;;;;;;;;;;;x
+EVTDESC_NE_1;[invited_character.GetFullName]は貴方の宮廷に到着し、任用を待っています。;;;;;;;;;;;;x
+EVTOPTA_NE_1;[invited_character.GetFirstName]を指揮官に任命しよう。;;;;;;;;;;;;x
+EVTOPTB_NE_1;[invited_character.GetFirstName]は私の求めた者ではない。帰れ！;;;;;;;;;;;;x
+RULE_OPTION_DELAYED_RANDOM;ランダムに遅延;;;;;;;;;;;;x
+RULE_MONGOL_INVASION_DELAYED_RANDOM_DESC;ジュチ＝ウルスの侵略はランダムに開始されますが、最速でも紀元1000年、そしてゲーム開始より50年後のことになります。;;;;;;;;;;;;x
+RULE_AZTEC_INVASION_DELAYED_RANDOM_DESC;アステカの侵略はランダムに開始されますが、最速でも紀元1000年、そしてゲーム開始より50年後のことになります。;;;;;;;;;;;;x
+RIP.30300.title;不死の噂;;;;;;;;;;;;x
+RIP.30300.title.b;走り書きの手紙が届く;;;;;;;;;;;;x
+RIP.30300.d.highlander;あなたのもとに、他にも不死者が存在するという手紙が届く。ラミレスというその男があなたを探しているとも。そのスペイン人は、あなたが不死であると聞き及び、あなたに終わりをもたらすと誓ったそうだ。男の意図は不明だが、目的ははっきりとしている。奴があなたを見つけるのは時間の問題だろう。;;;;;;;;;;;;x
+RIP.30300.d.evildude;あなたのもとに怪物のような男からの手紙が届く。ウランとして知られる、この残虐な怪物は、不死であり、考えられうる最も陰惨なやり方で人々を虐待することに、その長い人生を捧げてきた。噂によると、彼の嫉妬深さは残酷さと匹敵するほど酷いもので、他に不死者がいると聞き及んだことで、肌が粟立つほどの怒りに打ち震えたという。噂を信じるならば、彼はあなたを探し出し、すぐさま殺そうとするだろう...;;;;;;;;;;;;x
+RIP.30300.d.goodguy;ある日、あなたはアーサーという不死者の物語を聞きました。彼は善の化身であり、人助けと不正を正すことに生涯を捧げているという。あなたは、気晴らしの趣味をもたないそのような人生は退屈だと考えました。あなたは自分自身を時に乱暴な所があっても決して悪い人間ではないと思っていましたが、アーサーはあなたに些か鬱憤があるようです。彼は '恐怖政治を終わらせる '流血を止める'などといった、行き過ぎた文句をあちこちで喚き散らしています。;;;;;;;;;;;;x
+RIP.30300.d.shieldmaiden;吟遊詩人達は、トゥーリルドというシールドメイデン、もとい地上を駆ける戦乙女を讃える詩を歌う。その崇高な詩とは裏腹に、彼女は不死者の一人であった。そして、不死者と戦うことで彼女は力を得ると言われています。最も有名なバラードでは、ケインという不死者と最大の決闘を行ったという。彼女は勝利をおさめると、最早これほど価値ある敵は現れないだろうと涙を流したと伝えられています。もしこの伝説が事実ならば、彼女はあなたを探し出し、決闘を申し込んでくるでしょう。;;;;;;;;;;;;x
+RIP.30300.d.horse;筆跡は酷いものですが、言葉の選び方から、筆者には高い知性が備わっていることがわかった。:\n'偽物には感心しない、特に我々全員に注意を向けさせるような、悪目立つする奴はね。私は貴様の元へ向かう、貴様は、決して私から逃れることはできない。私はあなたの街を焼き払うだろう、ちなみにこれが初めてのことではない。かつて、貴様より優れた男にやったのと同じように、貴様の民の住む土地を不毛の大地に変え、貴様の遺産を踏みにじり、汚してやろう。貴様は、愚行と傲慢によって自らを破壊した狂人として歴史に名を残すことになるだろう。私の到来を恐れながら、待て。'\n手紙は署名されていません;;;;;;;;;;;;x
+RIP.30300.a;来るなら来い!;;;;;;;;;;;;x
+RIP.30300.b;気に入らないな!;;;;;;;;;;;;x
+RIP.30300.c;私が相手をこき下ろすことなんて、滅多にないのだがな。;;;;;;;;;;;;x
+RIP.30301.title;ライバルがあなたを発見しました!;;;;;;;;;;;;x
+RIP.30301.d.highlander;あなたが部屋を出て、[immortal_rival.GetFirstName]と対面したその刹那、衛兵の行方が頭をよぎる。\nあなたの命運も尽きようとしている。彼は咆哮し剣を振りかぶる。;;;;;;;;;;;;x
+RIP.30301.d.evildude;あなたが部屋を出て、[immortal_rival.GetFirstName]と対面したその刹那、衛兵の行方が頭をよぎる。\n'年貢の納め時のようだ、あなた[GetFromRootInsult]!'彼は唸り声を漏らし、剣を高々と掲げた。;;;;;;;;;;;;x
+RIP.30301.d.goodguy;あなたは部屋を出て、[immortal_rival.GetFirstName]と対面する前に、何故か衛兵がいないことに気づく。\n'あなたに引導を渡す時がきた,'彼は幾分悲しそうに言う'あなたの信じる神のもと安からかに眠るといい';;;;;;;;;;;;x
+RIP.30301.d.shieldmaiden;人気のない回廊に佇む重武装の乙女。これが名に聞く[immortal_rival.GetFirstName]だというのか、あなたのその疑念は彼女が名乗りを上げ決闘を申し込んできたことで確信に変わった。;;;;;;;;;;;;x
+RIP.30301.d.horse;血と肉で彩られた回廊には引き裂かれた衛兵の体が散乱している。今まさに展開されている虐殺の中心には猛々しい馬の姿があり、その脇腹からは蒸気が立ち上っている。周囲に転がる肉片は[immortal_horse_victim.GetBestName]の蹄によるものだと、あなたは気づく。'我が名はインキタトゥス、国家を踏み潰す者''紛い物を見過ごすことはできん、さて次は貴様だ';;;;;;;;;;;;x
+RIP.30301.d.horse2;血と肉で彩られた回廊には引き裂かれた衛兵の体が散乱している。今まさに展開されている虐殺の中心には猛々しい馬の姿があり、その脇腹からは蒸気が立ち昇っている。周囲に転がる肉片は[immortal_horse_victim.GetBestName]の蹄によるものだと、あなたは気づく。'我が名はインキタトゥス、馬を評議会員にしたと聞いたがどうやら勘違いだったようだ。ともかく、次は貴様だ';;;;;;;;;;;;x
+RIP.30302.d;あなたは迷うことなく剣を鞘から抜き放ち、攻撃を仕掛ける。[immortal_rival.GetFirstName]はあなたの凄まじい攻撃に出鼻をくじかれ、初撃を防御することがほとんどできなかった。あなたが攻撃の手を緩めると、[immortal_rival.GetSheHe] はまんまと誘いに乗った。[immortal_rival.GetSheHe]の反撃を、あなたは剣先で弾き、流れるように[immortal_rival.GetHerHis]の手首を切り落とした。[immortal_rival.GetSheHe]が不意の痛みに喘ぐ間も与えず、あなたは剣を素早く弧を描くように持ち上げ、[immortal_rival.GetHerHis]の胴体から[immortal_rival.GetHerHis]の頭を一刀のもとに切断した。;;;;;;;;;;;;x
+RIP.30302.a;拍子抜けだな![immortal_rival.GetFirstName]!;;;;;;;;;;;;x
+RIP.30303.d;あなたは驚愕から立ち直り、ベルトから短剣を抜くと [immortal_rival.GetFirstName]に向かって飛び込んだ！[immortal_rival.GetSheHe]は、あなたの突撃の速さに驚いたようだが、即座に防御と反撃を行った。互いに準備が不十分な中で、あなたは[immortal_rival.GetHerHis]の剣を捉えることが出来ず、あなたの短剣は[immortal_rival.GetHerHis]の大きな見開いた目に突き刺さった。;;;;;;;;;;;;x
+RIP.30303.a;それぞれの勝利、それぞれの傷跡。;;;;;;;;;;;;x
+RIP.30304.d;[immortal_rival.GetFirstName]が剣を高く掲げて切り込んでくる。あなたはすんでの所で短剣を抜き、[immortal_rival.GetSheHe]が剣を振り下ろすのと同時に捨て身の突きを放った。あなたの刃は[immortal_rival.GetHerHis]の胸を貫いたが、[immortal_rival.GetHerHis]の剣もまたあなたの体を切り裂いていた。;;;;;;;;;;;;x
+RIP.30304.a;うぐぐ... まだ生きている。まだ生きているんだ！;;;;;;;;;;;;x
+RIP.30305.d;You fumble for your sword as [immortal_rival.GetFirstName] charges at you, blade hissing towards your face. Somehow you manage to parry [immortal_rival.GetHerHis] first blow, and then [immortal_rival.GetHerHis] second, but you know you are out-matched. Desperately you launch a flurry of blows, but all of a sudden there is a flash of steel coming at you and your vision begins to spin.;;;;;;;;;;;;x
+RIP.30305.a;？？？;;;;;;;;;;;;x
+RIP.30306.d;突然の衝撃とともに視界が開けた。視界が闇に包まれる直前、[immortal_rival.GetFirstName]が首のない死体の向こうに立っているのが見えた。あの体は誰だろうか、しばしいぶかった。;;;;;;;;;;;;x
+RIP.30306.a;……;;;;;;;;;;;;x
+sea_queen;海の女王;;;;;;;;;;;;x
+sea_queen_desc;この人物はあまねくところから畏怖されている。海水あるところ、すなわち海の女王あり。;;;;;;;;;;;;x
+88017.cannibal;[From.GetBestName]は恥ずべき輩だが、おかげで小腹が満たされた！;;;;;;;;;;;;x
+8469.a;[Root.Religion.GetHighGodNameCap]よ!感謝します!;;;;;;;;;;;;x
+tengri_warrior;空の君主;;;;;;;;;;;;x
+tengri_warrior_desc;この者はテングリ信仰の栄光のために戦う草原の戦士そのものだ。;;;;;;;;;;;;x
+romuvas_own;ディエヴァスの猟犬;;;;;;;;;;;;x
+romuvas_own_desc;この者は聖なる森を守るために戦ってきた。;;;;;;;;;;;;x
+ukkos_shield;ウッコのハンマー;;;;;;;;;;;;x
+ukkos_shield_desc;この人物はスオメヌスコの信仰のため戦うウッコの雷のような存在です;;;;;;;;;;;;x
+eagle_warrior;鷲の騎士;;;;;;;;;;;;x
+eagle_warrior_desc;アステカ戦士たちにとっての戦いは生活の一部であり、その中でも鷲の騎士たちは最も勇敢で恐れられている戦士だ。彼らの主な目的は罪深きものを神々に捧げることである。;;;;;;;;;;;;x
+peruns_chosen;ペルーンに選ばれし者;;;;;;;;;;;;x
+peruns_chosen_desc;ペルーンに選ばれしものが使用する戦斧は稲妻の力をもってスラヴの教えの敵を斬り刻む。;;;;;;;;;;;;x
+nyames_shield;ニャムの盾;;;;;;;;;;;;x
+nyames_shield_desc;この人物はアフリカ原始宗教の教えのために戦う選ばれし戦士の一人である。;;;;;;;;;;;;x
+sun_warrior;太陽の戦士;;;;;;;;;;;;x
+sun_warrior_desc;太陽の戦士はズン教に由来するあらゆる火の力と契約をしている;;;;;;;;;;;;x
+ares_own;アレスの戦士;;;;;;;;;;;;x
+ares_own_desc;アレスの戦士は強大で、あくなき戦いをし、破滅をもたらす大量殺戮者である。彼らは古代ギリシャ多神教の教えのために戦う。;;;;;;;;;;;;x
+sacrificed_head_bad;我々の宗教指導者が異教の神々に捧げられた。;;;;;;;;;;;;x
+sacrificed_head_good;我々は邪教の指導者を神に捧げたぞ！;;;;;;;;;;;;x
+EVTOPTA_TOG_611_Pope;[From.GetBestName]よ、教会にはあなたを救う力はない！;;;;;;;;;;;;x
+EVTOPTA_TOG_612_Caliph;[From.GetBestName]よ、あなたに平和は訪れない！;;;;;;;;;;;;x
+crazymurderdog_tooltip;彼らの家族は動揺することだろう。;;;;;;;;;;;;x
+crazymurderdog_court_tooltip;宮廷内で動揺が走っている！;;;;;;;;;;;;x
+cannibal_trait;人肉食らい;;;;;;;;;;;;x
+cannibal_trait_desc;この人物は人肉を探し求めている。;;;;;;;;;;;;x
+INSULT_CANNIBAL;人食らい;;;;;;;;;;;;x
+INSULT_CANNIBALISTIC;食人鬼;;;;;;;;;;;;x
+DEATH_PLATYPUS_NO_KILLER;カモノハシに惨殺された;;;;;;;;;;;;x
+DEATH_PLATYPUS;$KILLER$の命によりカモノハシに惨殺された;;;;;;;;;;;;x
+trapped_immortal;永久機関;;;;;;;;;;;;x
+trapped_immortal_desc;捕らえられた不老不死者は、永遠にここで車輪の中を走らされている。車輪に取り付けられた滑車及び歯車システムは製材、回転砥石、その他の様々な有用な機械を動かしている。;;;;;;;;;;;;x
+placeholdername_3;赤い霧に包まれるような感覚がした。壁に架かった戦斧をしっかりつかむと、獣のように叫びながら狂奔のまま[immortal_rival.GetFirstName]に向かって振り下ろした……\n我に返ると、頭からつま先まで全身血まみれになっていて、[immortal_rival.GetFirstName]は無数の小さな肉片とかしていた。廊下もきれいに掃除する必要がありそうだ。肩に乗った内臓を払うと、日常に戻っていった。;;;;;;;;;;;;x
+placeholdername_4;あれは誰だったのだろう？;;;;;;;;;;;;x
+placeholdername_5;GRRRRRAAARGH!;;;;;;;;;;;;x
+placeholdername_6;Huh, picked up a scratch.;;;;;;;;;;;;x
+placeholdername_7;As [immortal_rival.GetFirstName] rushes towards you, you let out a high-pitched scream and throw yourself to the floor. This seems to take [immortal_rival.GetHerHim] by surprize as [immortal_rival.GetSheHe] trips over your sprawled form. You leap to your feet and are about to flee the scene when you realize [immortal_rival.GetFirstName] is not getting up again, [immortal_rival.GetSheHe] somehow landed on [immortal_rival.GetHerHis] own sword.;;;;;;;;;;;;x
+placeholdername_8;That was lucky!;;;;;;;;;;;;x
+placeholdername_9;Oh [Root.Religion.GetHighGodName], I'm dying!;;;;;;;;;;;;x
+placeholdername_10;Not today, [immortal_rival.GetFirstName]!;;;;;;;;;;;;x
+placeholdername_11;Thinking quickly you step backwards into your chambers and press the concealed button in the door frame. The hidden trapdoor outside opens under [immortal_rival.GetFirstName]'s feet as [immortal_rival.GetHerHis] charge carries [immortal_rival.GetHerHim] towards you, turning [immortal_rival.GetHerHis] scream of anger into a squeal of surprize. While you are not sure if the spikes at the bottom can kill an Immortal, your are sure they will ruin [immortal_rival.GetHerHis] day.;;;;;;;;;;;;x
+placeholdername_12;Fill the pit with rocks, it's the only way to be sure.;;;;;;;;;;;;x
+placeholdername_13;Perhaps we can put [immortal_rival.GetFirstName] to good use...;;;;;;;;;;;;x
+placeholdername_14;As [immortal_rival.GetFirstName] makes some kind of threatening speech, you reflect that it was for exactly this kind of situation that you had concealed guard posts built throughout your home. You discreetly pull the silent-alarm rope and several squads of soldiers rush from their secret posts to swarm [immortal_rival.GetFirstName]. Although [immortal_rival.GetSheHe] seems to put up a good fight, they are no match for your well-equipped guards and are soon subdued.\n 'An excellent investment!' you think to yourself.;;;;;;;;;;;;x
+placeholdername_15;Take [immortal_rival.GetHerHim] to the cells.;;;;;;;;;;;;x
+placeholdername_16;Take [immortal_rival.GetHerHim] outside and burn [immortal_rival.GetHerHim].;;;;;;;;;;;;x
+placeholdername_17;特別なペットに餌をやる時間だ...;;;;;;;;;;;;x
+placeholdername_18;待て！　これについて話そう！;;;;;;;;;;;;x
+placeholdername_19;Using all of your natural charm and wit you are able to engage [immortal_rival.GetFirstName] in conversation before [immortal_rival.GetSheHe] can attack. You quickly find common ground and form a strong rapport with [immortal_rival.GetFirstName], soon you are chatting away like old friends. After what seems like minutes you realize you have been talking for hours, and [immortal_rival.GetFirstName] reflects that [immortal_rival.GetSheHe] cannot believe they came here to kill you.\n 'I was so foolish,' [immortal_rival.GetSheHe] says, 'violence is never the answer!';;;;;;;;;;;;x
+placeholdername_20;I keep my fiends close;;;;;;;;;;;;x
+placeholdername_21;しかし、敵が近くに迫っている！;;;;;;;;;;;;x
+placeholdername_22;彼らの学術的な議論に参加する;;;;;;;;;;;;x
+placeholdername_23;You call out a number of theorems about the nature of mortality which sound high-minded but have some obvious flaws if given more than a cursory thought. [immortal_rival.GetFirstName] is clearly torn by their desire to kill you and begone, but [immortal_rival.GetSheHe] clearly cannot resist the urge to point out the errors in your logic. Exasperated, [immortal_rival.GetSheHe] begins an exhaustive refutation of your points, one by one.;;;;;;;;;;;;x
+placeholdername_24;Raise new arguments;;;;;;;;;;;;x
+placeholdername_25;Refuse to acknowledge your errors;;;;;;;;;;;;x
+placeholdername_26;[immortal_rival.GetFirstName] is clearly getting highly invested in your debate. Your deliberate errors in your opening arguments have convinced [immortal_rival.GetHerHim] that [immortal_rival.GetSheHe] has the upper hand. Finding broad gestures are not enough to emphasize their points they sheath their sword, pull out some chalk, and begin to scrawl notes and graphs on the wall of the corridor.;;;;;;;;;;;;x
+placeholdername_27;Spring a logical trap;;;;;;;;;;;;x
+placeholdername_28;While they are distracted, smash their head with a candlestick.;;;;;;;;;;;;x
+placeholdername_29;[immortal_rival.GetFirstName] has taken the bait and is vigorously arguing against what [immortal_rival.GetSheHe] believes to be your latest nonsensical point.\n'So you see,' they conclude angrily, 'immortals cannot possibly exist!'\nThere is a brief pause wherein you think you start to see a look of startled realization begin to form on [immortal_rival.GetFirstName]'s face, but before it can fully take shape there is a clap of displaced air and [immortal_rival.GetFirstName] vanishes from existence.;;;;;;;;;;;;x
+placeholdername_30;I think, therefore I am.;;;;;;;;;;;;x
+placeholdername_31;戦え！;;;;;;;;;;;;x
+placeholdername_32;死ぬ。;;;;;;;;;;;;x
+placeholdername_33;憤怒...保て...統制を！;;;;;;;;;;;;x
+placeholdername_34;とはいえ、おそらく着替えが必要だ。;;;;;;;;;;;;x
+placeholdername_35;あなたはあきらめた。;;;;;;;;;;;;x
+placeholdername_36;[immortal_rival.GetFirstName] is disgusted by your cowardice and leaves.;;;;;;;;;;;;x
+immortal_loyalty;不老不死の忠誠心;;;;;;;;;;;;x
+placeholdername_38;この人物は不老不死の主君に忠実で、いつか秘密を学びたいと願っています。;;;;;;;;;;;;x
+immortal_suspicions;不老不死の疑惑;;;;;;;;;;;;x
+placeholdername_40;この人物はもしかすると主君は不老不死なんじゃないかと深く疑っています。;;;;;;;;;;;;x
+immortal_hate;不老不死の嫌悪;;;;;;;;;;;;x
+placeholdername_42;この人物は主君が不老不死であることにうんざりしています。;;;;;;;;;;;;x
+placeholdername_43;我が封臣の何人かは私の治世が長すぎると感じ始めている。私が不老不死であると完全には確信してはいない。しかし彼らは疑わしく信用ならない。彼らの権力をそのままにしておくと、問題を引き起こすだろう。;;;;;;;;;;;;x
+placeholdername_44;不審な封臣達は、私には異常なものがあると確信しており、間違いなく私の殺害を計画している。彼らは徹底的に鎮圧しなければならない。;;;;;;;;;;;;x
+appeased_religious;祝福された人々;;;;;;;;;;;;x
+ask_wards_liege_to_allow_faith_focus;信仰の養育方針に変える許可を求める;;;;;;;;;;;;x
+ask_wards_liege_to_allow_faith_focus_desc;§Y[Root.GetFirstName]§!の子供の養育方針を変更する許可を求め、§Y[Root.Liege.GetTitledFirstName]§!に手紙を送ります。信仰に焦点を当てると、§Y[Root.GetFirstName]§!は貴方の宗教を採用します。;;;;;;;;;;;;x
+change_wards_focus_to_faith;信仰の養育方針に変更;;;;;;;;;;;;x
+change_wards_focus_to_faith_desc;§Y[Root.GetFirstName]§!の方針を変更します。信仰に焦点を当てると、§Y[Root.GetFirstName]§!は貴方の宗教を採用します。;;;;;;;;;;;;x
+EVTDESC_ZE_2140;To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] upbringing and learn the ways of [FromFrom.Religion.GetScriptureName].\n\nSigned [FromFrom.GetTitledFirstName].;;;;;;;;;;;;x
+EVTDESC_ZE_2141;Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about your religion is most welcome and I accept your proposal.;;;;;;;;;;;;x
+EVTDESCB_ZE_2142;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nI am certain you can understand what a blasphemous suggestion you are making! [FromFrom.GetFirstName] is supposed to grow up to be a fine and dutiful [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and profane manners.;;;;;;;;;;;;x
+RULE_VASSAL_LIMIT;封臣数の制限;;;;;;;;;;;;x
+RULE_VASSAL_LIMIT_DEFAULT_DESC;ペナルティ無しで配下にできる封臣数はデフォルト値です。;;;;;;;;;;;;x
+RULE_VASSAL_LIMIT_HALF_DESC;ペナルティ無しで配下にできる封臣数はデフォルトの1/2です。;;;;;;;;;;;;x
+RULE_VASSAL_LIMIT_QUARTERED_DESC;ペナルティ無しで配下にできる封臣数はデフォルトの1/4です。;;;;;;;;;;;;x
+RULE_VASSAL_LIMIT_UNLIMITED_DESC;制限無く封臣を配下にできます。;;;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE;独立を与える;;;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC;独立を与える行動は制限されます。;;;;;;;;;;;;x
+RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC;独立を与える行動は無制限で誰にでも使用することが可能です。;;;;;;;;;;;;x
+ATTACHED_UNIT;£4£;;;;;;;;;;;;x
+ATTACHED_TO_UNIT;£5£;;;;;;;;;;;;x
+GOV_LANDED_CAN_NOT_INHERIT;領地を持つ人物は相続できない;;;;;;;;;;;;x
+RULE_DEMESNE_SIZE;直轄領数;;;;;;;;;;;;x
+RULE_DEMESNE_SIZE_DEFAULT_DESC;持てる直轄領の数をデフォルトの数とします。;;;;;;;;;;;;x
+RULE_OPTION_HALF;１/２;;;;;;;;;;;;x
+RULE_DEMESNE_SIZE_HALF_DESC;持てる直轄領の数はデフォルトの１/２に減らされます。;;;;;;;;;;;;x
+RULE_OPTION_QUARTERED;１/４;;;;;;;;;;;;x
+RULE_DEMESNE_SIZE_QUARTERED_DESC;持てる直轄領の数はデフォルトの１/４に減少しています。;;;;;;;;;;;;x
+RULE_OPTION_UNLIMITED;無制限;;;;;;;;;;;;x
+RULE_DEMESNE_SIZE_UNLIMITED_DESC;統治者が持てる直轄領の数に制限はありません。;;;;;;;;;;;;x
+RULE_TURKIC_INVASIONS;トゥルク征服者;;;;;;;;;;;;x
+RULE_TURKIC_INVASIONS_HISTORICAL_DESC;偉大なる中央アジアのトゥルク征服者たるサブクテギン、セルジューク、ティムールは彼らの歴史的登場時間に合わせて登場する可能性があります。;;;;;;;;;;;;x
+RULE_TURKIC_INVASIONS_RANDOM_DESC;サブクテギン、セルジューク、ティムールはより広い期間に渡って登場します。;;;;;;;;;;;;x
+RULE_TURKIC_INVASIONS_OFF_DESC;偉大なるトゥルクの征服者達が登場することはありません。;;;;;;;;;;;;x
+RULE_DYNASTY_TITLE_NAMES;一族に因んでつけられた称号;;;;;;;;;;;;x
+RULE_DYNASTY_TITLE_NAMES_ON_DESC;統治者の文化によっては称号名に統治する一族の名を使います（アッバード朝、バヴァンド朝など）;;;;;;;;;;;;x
+RULE_DYNASTY_TITLE_NAMES_OFF_DESC;統治者の文化に関係なく通常の名前が称号に使用されます;;;;;;;;;;;;x
+RULE_CULTURAL_TITLE_NAMES;文化的称号名;;;;;;;;;;;;x
+RULE_CULTURAL_TITLE_NAMES_ON_DESC;称号名は統治者の文化によって変化します（スウェーデンにおける「スヴィスヨッド」など）;;;;;;;;;;;;x
+RULE_CULTURAL_TITLE_NAMES_OFF_DESC;統治者の文化に関係なく英語名があらゆる称号につけられます。;;;;;;;;;;;;x
+good_times;ウッキウキ;;;;;;;;;;;;x
+desc_good_times;この人物が素敵な時間を過ごした結果、皆がその愉快な気分の恩恵を受けています。;;;;;;;;;;;;x
+EVTDESC72030;I saw my mortal enemy [feast_duel_target.GetTitledFirstName] as soon as I stepped into [Root.Liege.GetTitledFirstName]'s castle. [feast_duel_target.GetHerHisCap] presence was almost more than I could bear and I longed to pick up my sword and impale [feast_duel_target.GetHerHim] with it!;;;;;;;;;;;;x
+EVTTOOLTIP72031;[feast_duel_target.GetTitledFirstName] is challenged to a duel by [Root.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC72034;'How dare you spoil my feast with your silly quarrel?!'\n\nI managed to stop the duel before anyone was killed but I could tell [From.GetTitledFirstName] did not really listen to me, [From.GetSheHe] looked as eager as ever to settle the scores with [From.GetHerHis] 'mortal enemy' [feast_duel_target.GetTitledFirstName].;;;;;;;;;;;;x
+EVTDESC72035;[From.GetTitledFirstName] managed to kill [From.GetHerHis] opponent [feast_duel_target.GetTitledFirstName] before I managed to stop the duel.;;;;;;;;;;;;x
+EVTDESC72036;The duel was over when I reached them, [From.GetTitledFirstName]'s opponent, [feast_duel_target.GetTitledFirstName], lay wounded at [From.GetHerHis] feet.;;;;;;;;;;;;x
+EVTDESC72037;[From.GetTitledFirstName]'s maimed opponent, [feast_duel_target.GetTitledFirstName], tried to stand up when I reached them, but collapsed once again at [From.GetTitledFirstName]'s feet.;;;;;;;;;;;;x
+EVTOPTA72037;そんな所につっ立っていないで、 [feast_duel_target.GetHerHim]を助けろ！;;;;;;;;;;;;x
+EVTOPTB72037;[feast_duel_target.GetTitledFirstName] はたしかにそれに値する。;;;;;;;;;;;;x
+opinion_betrayed;私を裏切った;;;;;;;;;;;;x
+EVTDESC107100;ご結婚おめでとうございます！アルフォンソは[Root.Spouse.GetFirstName]との子作りに忙しくなるかもしれません。あなたは新たに家族向けの野心を選択した方がよいかもしれません。;;;;;;;;;;;;x
+EVTDESC_HL_8005_father;As your father's heir, it falls on you to take him to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;;x
+EVTDESC_HL_8005_brother;Without any heirs of his own, it falls on you to take your brother to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;;x
+EVTDESC_HL_8005_other;As per custom, you should take your predecessor to the mountains. They will be offered to the birds of prey and in death they will generously share their flesh with all living creatures. May their spirit soar into the heavens.;;;;;;;;;;;;x
+EVTDESC_HL_8005_mother;As your mother's heir it falls upon you to bring her to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;;x
+EVTDESC_HL_8005_sister;Without any heirs of her own, it falls upon you to bring your sister to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;;x
+EVTDESC20147;[From.Location.GetName]の称号請求権を捏造する任務を帯びていた、[Root.GetChancellorName]は、暗殺された!;;;;;;;;;;;;x
+EVTOPTA_WOL_2080_TOOLTIP;§Y[target_spy_on.GetTitledFirstName]§!の主君が[target_spy_on.GetHerHim]をどう扱うか決めることでしょう。\n;;;;;;;;;;;;x
+EVTOPTC_WOL_2080_TOOLTIP;§Y[target_spy_on.GetTitledFirstName]§!は派閥から離脱するか、または暴露され[target_spy_on.GetHerHim]を投獄する権利を得ます。\n;;;;;;;;;;;;x
+EVTOPTD_WOL_2080_TOOLTIP;§Y[target_spy_on.GetTitledFirstName]§!は貴方の派閥に参加するか、または暴露され[target_spy_on.GetHerHim]を投獄する権利を得ます。\n;;;;;;;;;;;;x
+EVTOPTE_WOL_2080_TOOLTIP;情報は使用しませんが、§Y[target_spy_on.GetTitledFirstName]§!に対するスパイ活動は続けます。\n;;;;;;;;;;;;x
+EVTOPTF_WOL_2080_TOOLTIP;情報は使用せず、§Y[target_spy_on.GetTitledFirstName]§!に対するスパイ活動もやめます。\n;;;;;;;;;;;;x
+EVTOPTE_WOL_2082_TOOLTIP;§Y[target_spy_on.GetTitledFirstName]§!の情報は使用しません。\n;;;;;;;;;;;;x
+will_not_marry;結婚しないだろう;;;;;;;;;;;;x
+will_not_marry_desc;何らかの理由で、この人物は結婚しません。;;;;;;;;;;;;x
+EVTDESCZE15002;貴方は愛馬である[From.GetBestName]の死を目の当たりする悪夢に悩まされ続けている。[From.GetHerHim]なしでどうやって生きていられようか？;;;;;;;;;;;;x
+EVTOPTAZE15002;[From.GetFirstName]に私の魔法の血を分け与えなければ！;;;;;;;;;;;;x
+EVTOPTBZE15002;不老不死は私の贈り物であり、私だけのものだ！;;;;;;;;;;;;x
+opinion_given_council_position_1;評議員に加えた;;;;;;;;;;;;x
+opinion_given_council_position_2;評議員に加えた;;;;;;;;;;;;x
+opinion_given_council_position_3;評議員に加えた;;;;;;;;;;;;x
+scandalous_councillor_1_desc;この人物の評議員としての選択は、不満の原因となっています。;;;;;;;;;;;;x
+scandalous_councillor_2_desc;この人物の評議員としての選択は、不満の原因となっています。;;;;;;;;;;;;x
+scandalous_councillor_3_desc;この人物の評議員としての選択は、不満の原因となっています。;;;;;;;;;;;;x
+opinion_distressing_encounter;悲惨な出会い;;;;;;;;;;;;x
+commit_suicide_immortal;自殺する;;;;;;;;;;;;x
+commit_suicide_immortal_desc;初めは、永遠の命というものは甘い夢のようなものだと想像していた。後になって考えると永遠というものはあまりに、あまりにも長い時間ということである;;;;;;;;;;;;x
+attempting_suicide_tooltip;最近、自殺を試みていない。;;;;;;;;;;;;x
+EVTDESC_RIP_30200_A;永遠の命は嘆きと悲しみしかもたらさなかった。周囲の人も物も、みな老い朽ちてゆき、あなただけが変わらずにいる。かわり映えのしない、退屈な日々だ。あなたはもう終わりにしようと決意した……そうできるならば。;;;;;;;;;;;;x
+EVTDESC_RIP_30200_B;You tried. You really, really did, but the endless, dreary days and even longer, empty nights have gotten the better of you. With no one to call your love, no friends to brighten your days and no children bringing dreams of a better tomorrow… life is not really worth living anymore.;;;;;;;;;;;;x
+EVTDESC_RIP_30200_C;You tried. You really, really did, but dark thoughts creep uninvited into your mind none the less. You know that you are not alone, although it sure feels that way. Being surrounded by people who do not see, cannot understand… some days that is worse than total isolation.;;;;;;;;;;;;x
+EVTOPTA_RIP_30200;決闘で最期を遂げよう。;;;;;;;;;;;;x
+EVTOPTA_RIP_30200_TOOLTIP;貴方のライバルである§Y[suicide_duel_target.GetTitledFirstName]§!に決闘を申し込みます。;;;;;;;;;;;;x
+EVTOPTB_RIP_30200;Poison will gift me sweet oblivion.;;;;;;;;;;;;x
+EVTOPTC_RIP_30200;首吊りで迅速かつ痛みの無い死を迎える。;;;;;;;;;;;;x
+EVTOPTD_RIP_30200;いちばん高い塔のバルコニーで、わが領地を眺めてから逝こう。;;;;;;;;;;;;x
+EVTDESC_RIP_30202;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様が今なお生きていること自体がこの世界の汚点である。ここに決闘を申し込む。一ヶ月の後、剣を携えて[From.Location.GetName]へ来られたし。さもなくば貴様の名声は地に落ちるであろう。我らのうち、生きて帰るのはただ一人だ。\n\n（署名）、[From.GetBestName];;;;;;;;;;;;x
+EVTOPTA_RIP_30202;あの[GetFromRootInsult]の首を刎ねてくれよう！;;;;;;;;;;;;x
+EVTOPTB_RIP_30202;いや、それは危険だ……;;;;;;;;;;;;x
+EVTDESC_RIP_30203;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様をこの世界から消し去れることを光栄に思う。首を洗って待っていろ、貴様に慈悲をかける気はない。\n\n（署名）、[From.GetBestName];;;;;;;;;;;;x
+EVTOPTA_RIP_30203;[From.GetSheHeCap]は私の掌の上だ。;;;;;;;;;;;;x
+EVTDESC_RIP_30204;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様のくだらない暇つぶしに付き合ってやるつもりも、その時間もない。もっと他にやることがあるだろう。領内を走り回ったらどうだ？\n\n（署名）、[From.GetBestName];;;;;;;;;;;;x
+EVTOPTA_RIP_30204;腰抜けの臆病者め……;;;;;;;;;;;;x
+EVTOPTA_RIP_30204_TOOLTIP;Your plans to end your life have been foiled. Perhaps you will make another attempt, in time...\n;;;;;;;;;;;;x
+EVTDESC_RIP_30205_LOST;[suicide_duel_target.GetTitledFirstName]を欺くのは簡単だった。[suicide_duel_target.GetSheHeCap]はあなたを倒すことに夢中で、あなたに防御する意思がないことにも気づかなかった。[suicide_duel_target.GetHerHis]の剣があなたの喉をとらえるのに時間はかからなかった。;;;;;;;;;;;;x
+EVTDESC_RIP_30205_WON;この無能な[suicide_duel_target.GetManWoman]は何をやらせてもだめだった！あなたがことあるごとに隙を見せていたにもかかわらず、[suicide_duel_target.GetTitledFirstName]はいくつかかすり傷をつけることしかできなかった。;;;;;;;;;;;;x
+EVTDESC_RIP_30205_INCAPABLE;すべては計画通りに進んでいるかに見えた。[suicide_duel_target.GetTitledFirstName]はあなたに防御するつもりがないとは気づかず、あなたはすぐに膝をついた。救いの剣が首に振り下ろされるのを待っていたが、[suicide_duel_target.GetSheHe]はあなたの後頭部に剣の柄を打ち込んできた……;;;;;;;;;;;;x
+EVTOPTA_RIP_30205;名誉ある死だ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30205;こんなのは無駄だ。違うやり方を考えよう。;;;;;;;;;;;;x
+EVTOPTC_RIP_30205;For this failure, [From.GetFirstName] is the one who will lose their head!;;;;;;;;;;;;x
+EVTOPTD_RIP_30205;死なせてくれ！こんなのは望んでいない……;;;;;;;;;;;;x
+EVTDESC_RIP_30206_WON;As soon as you drew your blades, you knew something was wrong. [From.GetTitledFirstName] barely attempted to parry your blows. Perhaps it was dishonorable of you to take advantage of the situation, although no one will know...;;;;;;;;;;;;x
+EVTDESC_RIP_30206_LOST;Perhaps your thirst for [From.GetTitledFirstName]'s blood got the better of you. As soon as your blades met for the first time, it felt as if you stood no chance. Yet [Root.Religion.GetHighGodName] must have been on your side, for instead of slaying you, [From.GetFirstName] cast away [From.GetHerHis] sword in anger...;;;;;;;;;;;;x
+EVTOPTA_RIP_30206;あの[GetRootFromInsult]は[Root.Religion.GetRandomEvilGodName]に召された。;;;;;;;;;;;;x
+EVTOPTB_RIP_30206;これ以上[From.GetFirstName]に悩まされることはなくなった！;;;;;;;;;;;;x
+EVTOPTC_RIP_30206;I am lucky to be alive.;;;;;;;;;;;;x
+EVTDESC_RIP_30207_SUCCESS;It had barely been a few moments before you started to cough blood after ingesting the poisonous brew you had concocted. Finally, you would be released from this dreary world...;;;;;;;;;;;;x
+EVTDESC_RIP_30207_FAIL;It had barely been a few moments before you started to cough blood after ingesting the poisonous brew you had concocted. Finally, you would be released… At least so you thought. Soon the coughing stopped, and all you were left with was a faint nausea.;;;;;;;;;;;;x
+EVTOPTA_RIP_30207;今、永遠の安息が......;;;;;;;;;;;;x
+EVTOPTB_RIP_30207;[Root.Religion.GetHighGodName]よ、なぜ死なせてくれないのですか！？;;;;;;;;;;;;x
+EVTDESC_RIP_30208_SUCCESS;かつてあなたは、人生を終わらせる最良の手段は首吊りである、と聞きました。あなたは自分自身に、首に縄を巻き付けるよう言い聞かせます。急激な落下は虚無の祝福であなたを包みこんだので、死の恐怖は一瞬でした。;;;;;;;;;;;;x
+EVTDESC_RIP_30208_FAIL;かつて、人生を終わらせる最良の手段は首吊りである、という者がいた。その者は高いところから飛び降りることの重要性も説くべきであった……。あなたは首をつられたまま、縄がゆっくりと首に食い込むのを感じていた。[found_hanger.GetTitledFirstName]が偶然あなたを見つけるまで……;;;;;;;;;;;;x
+EVTDESC_RIP_30209_SUCCESS;手すりに上る前、あなたはひとしきり周囲の景色を堪能した。美しい景色、だが名残惜しさはない。深く息を吐いて、あなたは飛び降りた。鳥になったような開放感だ……;;;;;;;;;;;;x
+EVTDESC_RIP_30209_FAIL;手すりに上る前にひとしきり周囲の景色を堪能し、それから虚空へと踏み出した。衝撃は予想より早く到来し、意識を失う代わりに激しい苦痛にさいなまれた。その叫び声は千リーグ先からでも聞こえたことだろう……;;;;;;;;;;;;x
+EVTDESC_RIP_30210_A;貴方の身体はまるで牢獄になってしまったようで、最早生存の見込みはありません。明確な思考が戻る僅かな時間、貴方は寝台の側に[suicide_assistant.GetTitledFirstName]がいることに気づきます。救いを…終わりをもたらしてくれるべき[suicide_assistant.GetSheHeCap]に…;;;;;;;;;;;;x
+EVTDESC_RIP_30210_B;貴方の身体はまるで牢獄になってしまったようで、最早生存の見込みはありません。明確な思考が戻る僅かな時間、貴方は寝台の側に誰かがいることに気づきます。救いを…終わりをもたらしてくれるべきその人に…;;;;;;;;;;;;x
+EVTOPTA_RIP_30210;どうか、どうか[suicide_assistant.GetFirstName]、もうこれ以上…どうか…;;;;;;;;;;;;x
+EVTOPTB_RIP_30210;どうか慈悲をもって…これ以上は…どうか…;;;;;;;;;;;;x
+EVTDESC_RIP_30211;貴方が[GetFromRelation][From.GetTitledFirstName]の病床の側にうとうとしつつ座っていると、[From.GetHerHis]のかすかな声がもやもやした思考に射し込んできます。身体を乗り出し[From.GetHerHim]に[From.GetHerselfHimself]を繰り返すよう促すと、まるで貴方を氷原に突き落とすような[From.GetHerHisCap]の言葉が聞こえます。「終わらせてくれ…どうか。」;;;;;;;;;;;;x
+EVTOPTA_RIP_30211;苦しみから解き放とう、親愛なる[GetFromRelation]よ…;;;;;;;;;;;;x
+EVTOPTB_RIP_30211;何を言っているのですか！そんなことはできません！;;;;;;;;;;;;x
+EVTDESC_RIP_30212_SUCCESS_A;貴方の[GetFromRelation] [From.GetTitledFirstName]の手が貴方を掴み、霧がかった貴方の思考に[From.GetHerHis]の声が響きます。「何も心配いらない、[Root.GetFirstName]。すぐ済むから…」喉に重さがかかり、貴方は少しもがいて…そうして、貴方はこと切れました。 ;;;;;;;;;;;;x
+EVTDESC_RIP_30212_SUCCESS_B;手が貴方を掴み、霧がかった貴方の思考に[From.GetHerHis]の声が響きます。「何も心配いらない、[Root.GetFirstName]。すぐ済むから…」喉に重さがかかり、貴方は少しもがいて…そうして、貴方はこと切れました。 ;;;;;;;;;;;;x
+EVTDESC_RIP_30212_FAIL;床にぶつかる音が丸で貴方の霞がかった思考に突き刺すかのようだった。[From.GetTitledFirstName]の声が遠くから聞こえたのだ…恐れや拒絶の意を示しているかのようであった。あなたはまた孤独となったのだ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30212;戻ってきてくれ…[From.GetFirstName]…;;;;;;;;;;;;x
+commit_suicide_allow_tooltip;§Y[Root.GetTitledFirstName]§!には自殺する理由が無ければならない。\n;;;;;;;;;;;;x
+EVTDESC_RIP_30222;[Root.GetTitle]の日常は楽ではない。臨席が必要な執務、嘆願を求める臣民、そして良からぬ想像から中傷に走る臣下たちが絶えずひしめいている。あなたはやっと一人になって、庭園を散策した。遠くに簡素な身なりの見知らぬ人が見えた。;;;;;;;;;;;;x
+EVTOPTA_RIP_30222;あの[From.GetManWoman]を招いて、一緒に歩こう!;;;;;;;;;;;;x
+EVTOPTB_RIP_30222;むしろ一人になりたいのだが。;;;;;;;;;;;;x
+EVTDESC_RIP_30223_A;その異邦人、[From.GetFirstName]は、尼僧で、数か月の旅路から、修道院に帰る途中だと判明した。陽が暮れたとき、あなたは生と死、信仰と疑念について語り合っていました。あなたが別れを告げて帰ろうとすると、その修道女は、数日間、部屋と食事を提供してもらえないか尋ねます。;;;;;;;;;;;;x
+EVTDESC_RIP_30223_B;その異邦人、[From.GetFirstName]は、修行僧で、数か月の旅路から、彼の修道院に帰る途中だと判明した。陽が暮れたとき、あなたは生と死、信仰と疑念について語り合っていました。あなたが別れを告げて帰ろうとすると、その修行僧は、数日間、部屋と食事を提供してもらえないか尋ねます。;;;;;;;;;;;;x
+EVTDESC_RIP_30223_C;その異邦人、[From.GetFirstName]は、[catholic.GetName]の修道女で、数か月の旅路から、修道院に帰る途中だと判明した。陽が暮れたとき、あなたは生と死、彼女の神と[Root.Religion.GetHighGodName]について語り合っていました。あなたが別れを告げて帰ろうとすると、その修道女は、数日間、部屋と食事を提供してもらえないか尋ねます。;;;;;;;;;;;;x
+EVTDESC_RIP_30223_D;その異邦人、[From.GetFirstName]は、[catholic.GetName]の修行僧で、数か月の旅路から、修道院に帰る途中だと判明した。陽が暮れたとき、あなたは生と死、彼の神と[Root.Religion.GetHighGodName]について語り合っていました。あなたが別れを告げて帰ろうとすると、その修行僧は、数日間、部屋と食事を提供してもらえないか尋ねます。;;;;;;;;;;;;x
+EVTOPTA_RIP_30223;かまわないよ、[From.GetFirstName]! 暖炉のそばで休息を取ると良い。;;;;;;;;;;;;x
+EVTOPTA_RIP_30223_TOOLTIP;Invite §Y[From.GetFirstName]§! to stay with you for a few days.\n;;;;;;;;;;;;x
+EVTOPTB_RIP_30223;ここからそう遠くない場所に、素晴らしい宿があるよ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30223_TOOLTIP;Give §Y[From.GetFirstName]§! some money and direct [From.GetHerHim] to the inn.\n;;;;;;;;;;;;x
+EVTOPTC_RIP_30223_A;苦難は巡礼の一部なのでは?;;;;;;;;;;;;x
+EVTOPTC_RIP_30223_B;I will not have an infidel under my roof!;;;;;;;;;;;;x
+EVTOPTC_RIP_30223_TOOLTIP;Turn away §Y[From.GetFirstName]§!.\n;;;;;;;;;;;;x
+EVTNAME_RIP_30224;誰が為に鐘は鳴る;;;;;;;;;;;;x
+EVTDESC_RIP_30224_A;しばしば、あなたは夕方に疲れきった気分で部屋に引っ込む。 今夜も例外ではない。 長く忙しい一日の後、通常、眠りに落ちるのは簡単だが、最近では、寝付けないことも多い。求める休息が得られることを期待して、ワインのグラスを飲みながら 、目の前にあるチェスの駒を無駄に動かして、勉強をしてみる。\n\n突然、ノックの音がする。こんな時間に誰が？身を守るために侵入者に向かって叫ぶより速く、扉は開き、[From.GetFirstName]が歩み寄る。「こんばんは、私の[Root.GetLordLady]。自己紹介がまだでしたね。私は死神。あなたの魂をいただきに来ました。」 [From.GetHerHis]の手の短剣のきらめきが見える…;;;;;;;;;;;;x
+EVTDESC_RIP_30224_B;しばしば、あなたは夕方に疲れきった気分で部屋に引っ込む。 今夜も例外ではない。 長く忙しい一日の後、通常、眠りに落ちるのは簡単だが、最近では、寝付けないことも多い。求める休息が得られることを期待して、ワインのグラスを飲みながら 、目の前にあるチェスの駒を無駄に動かして、勉強をしてみる。\n\n突然、後ろから物音が聞こえ、椅子の向きを変える。 数日前に共に歩いた[From.GetManWoman]が立っている。 「こんばんは、私の[Root.GetLordLady]。自己紹介がまだでしたね。私は死神。あなたの魂をいただきに来ました。」 [From.GetHerHis]の手の短剣のきらめきが見える…;;;;;;;;;;;;x
+EVTDESC_RIP_30224_C;しばしば、あなたは夕方に疲れきった気分で部屋に引っ込む。 今夜も例外ではない。 長く忙しい一日の後、通常、眠りに落ちるのは簡単だが、最近では、寝付けないことも多い。求める休息が得られることを期待して、ワインのグラスを飲みながら 、目の前にあるチェスの駒を無駄に動かして、勉強をしてみる。\n\n突然、後ろから物音が聞こえ、椅子の向きを変える。かすかに笑みを浮かべた見たことのない[From.GetManWoman]が立っている。「こんばんは、私の[Root.GetLordLady]。私は死神。あなたの魂をいただきに来ました。」 [From.GetHerHis]の手の短剣のきらめきが見える…;;;;;;;;;;;;x
+EVTOPTA_RIP_30224;わ...私は、チェスで勝負を申し入れる!;;;;;;;;;;;;x
+EVTOPTA_RIP_30224_TOOLTIP;チェスの試合で§Y[From.GetFirstName]§!に挑戦して、自分の時間を買おうとする。;;;;;;;;;;;;x
+EVTOPTB_RIP_30224;今日はダメだ!;;;;;;;;;;;;x
+EVTOPTB_RIP_30224_TOOLTIP;§Y[From.GetFirstName]§!を圧倒しようとして、立ち向かう。\ n;;;;;;;;;;;;x
+EVTOPTB_RIP_30224_TOOLTIP_SURVIVE;暗殺の試みを生き残るが、闘争で負傷する可能性がある。;;;;;;;;;;;;x
+EVTDESC_RIP_30225;Afterwards, you barely know what happened. It was over in a few moments of blind rage and fear. The dagger clatters to the floor as you release it. Your legs buckle under you, and you fall hard in a puddle of sticky, warm blood. Yours or [From.GetHerHis]? It is unclear...;;;;;;;;;;;;x
+EVTOPTB_RIP_30225;Help… guards...;;;;;;;;;;;;x
+EVTDESC_RIP_30226;[From.GetFirstName]は眉をつり上げ、面白がる表情を見せる。 「なぜ？世界中全ての時間に私がいるのです。単に避けられないことを延期するだけです。[Root.GetFirstName]よ、あなたが負けるのは確実なのです。」 [From.GetSheHeCap]は反対側の椅子に座り、短剣をテーブルの上に置く。 "黒にしますか、それとも白？";;;;;;;;;;;;x
+EVTOPTA_RIP_30226;白い駒で頼む。;;;;;;;;;;;;x
+EVTOPTA_RIP_30226_TOOLTIP;白い駒を選び、ゲームを始めます。;;;;;;;;;;;;x
+EVTOPTB_RIP_30226;黒でプレイする。;;;;;;;;;;;;x
+EVTOPTB_RIP_30226_TOOLTIP;黒い駒を選び、ゲームを始めます。;;;;;;;;;;;;x
+EVTDESC_RIP_30226_BLACK;「黒、私のラッキーカラーだ... まあ、それは重要ではない」、[From.GetFirstName]は無頓着に肩をすぼめながら言う。\n\n序盤はどのような戦略でいこうか？;;;;;;;;;;;;x
+EVTDESC_RIP_30226_WHITE;「白... そうだ、お前にはどんな助けも必要になるだろう」、[From.GetFirstName]はニヤニヤと笑いながら言う。\n\n序盤はどのような戦略でいこうか？;;;;;;;;;;;;x
+EVTOPTA_RIP_30227;守備的なプレイが最も安全だ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30227;危険だとしても、あらゆる好機を活用する。;;;;;;;;;;;;x
+EVTOPTC_RIP_30227;機会があるなら、不正行為もためらわない。;;;;;;;;;;;;x
+EVTOPTD_RIP_30227;私の頭には考え抜かれた戦略がある。;;;;;;;;;;;;x
+EVTOPTE_RIP_30227;時間をかけて、ボードを慎重に分析する。;;;;;;;;;;;;x
+CHESS_GREAT_MOVE;素晴らしい手を指します。;;;;;;;;;;;;x
+CHESS_GOOD_MOVE;良い手を指します。;;;;;;;;;;;;x
+CHESS_NEUTRAL_MOVE;普通の手を指します。;;;;;;;;;;;;x
+CHESS_BAD_MOVE;悪い手を指します。;;;;;;;;;;;;x
+CHESS_TERRIBLE_MOVE;酷い手を指します。;;;;;;;;;;;;x
+CHESS_GOOD_TRICK;不正行為を成功させます。;;;;;;;;;;;;x
+CHESS_BAD_TRICK;不正行為をやり損ないます。;;;;;;;;;;;;x
+EVTDESC_RIP_30228_GREAT;In the first few minutes of the game, you manage to advance across the board, taking out several of [From.GetFirstName]'s pieces while barely suffering any losses yourself. As you capture [From.GetHerHis] second knight, [From.GetSheHe] clicks [From.GetHerHis] tongue testily. "Do not get too confident. It is not over yet.";;;;;;;;;;;;x
+EVTDESC_RIP_30228_GOOD;確かに[From.GetFirstName]は熟達したプレイヤーではあるが、ゲーム序盤でなんとか[From.GetHerHim]よりも多くの駒を取ることができた。それにしても、[From.GetHerHis]の表情はなかなかに気に食わないものではある…;;;;;;;;;;;;x
+EVTDESC_RIP_30228_NEUTRAL;ゲームの最初の部分ではどちらが優勢かを知ることは不可能だ。 [From.GetFirstName]よりも多くの駒を取ったが、盤上の[From.GetHerHis]の駒の配置がより有望そうに見えることも確かだ。 [From.GetHerHisCap]の不吉な笑顔があなたを不安にさせる...;;;;;;;;;;;;x
+EVTDESC_RIP_30228_BAD;It has only been a few minutes when you realize just how badly it is going. At first you thought you were safe, having kept almost all of your pieces, but now you can see how [From.GetFirstName] has positioned [From.GetHerHis] own. Is it too late to turn this game around?;;;;;;;;;;;;x
+EVTOPTA_RIP_30228_A;[Root.Religion.GetHighGodName]よ、私に与え給うた幸運に感謝いたします！どうかこのまま…;;;;;;;;;;;;x
+EVTOPTA_RIP_30228_B;この[GetRootFromInsult]に呪いを！;;;;;;;;;;;;x
+EVTOPTA_RIP_30228_TOOLTIP;対戦は続く…;;;;;;;;;;;;x
+EVTDESC_RIP_30229_GOOD;You try to keep your nerves in check, although it is nearly impossible. You are in the lead! The scowl on [From.GetFirstName] has renewed your hopes. Or is it just a trick…?\n\nWhat is your next move?;;;;;;;;;;;;x
+EVTDESC_RIP_30229_NEUTRAL;二人ともあなたの次の手に集中しているので、対戦は沈黙のうちに続く。現時点では、対戦は互角に見える。少なくともそれは正しいと思える…\n\nあなたの次の一手は？;;;;;;;;;;;;x
+EVTDESC_RIP_30229_BAD;The game is not going well. There is a heavy, cold feeling at the pit of your stomach. You wish you could vomit, but somehow you think that would only please [From.GetFirstName] further... \n\nWhat is your next move?;;;;;;;;;;;;x
+EVTOPTA_RIP_30229;[From.GetFirstName]を酔わせれば、優勢を脅かせるかもしれない！;;;;;;;;;;;;x
+EVTOPTA_RIP_30229_TOOLTIP;§Y[From.GetFirstName]§!のグラスを満たし続けます。[From.GetHerHim]を酔い潰せるでしょう。;;;;;;;;;;;;x
+EVTOPTB_RIP_30229;死神でさえ、私の魅力には抗えまい。;;;;;;;;;;;;x
+EVTOPTB_RIP_30229_TOOLTIP;名高い誘惑の技術を駆使し、§Y[From.GetFirstName]§!の注意をそらします。;;;;;;;;;;;;x
+EVTOPTC_RIP_30229;[From.GetFirstName]に小話をしてやろう……;;;;;;;;;;;;x
+EVTOPTC_RIP_30229_TOOLTIP;自分が負かした相手に何をしているか話し、§Y[From.GetFirstName]§!が恐れるように企む。;;;;;;;;;;;;x
+EVTOPTF_RIP_30229;前回の対戦相手がいかに惨めな敗北を喫したか[From.GetFirstName]に話してやろう。;;;;;;;;;;;;x
+EVTOPTF_RIP_30229_TOOLTIP;チェスの腕前を自慢して§Y[From.GetFirstName]§!をイラつかせようとします。;;;;;;;;;;;;x
+EVTOPTD_RIP_30229;[From.GetFirstName]の注意をそらせば、失った駒を取り戻すことが出来るかもしれない。;;;;;;;;;;;;x
+EVTOPTD_RIP_30229_TOOLTIP;§Y[From.GetFirstName]§!の注意をそらすためにワイングラスをひっくり返します。\n;;;;;;;;;;;;x
+EVTOPTE_RIP_30229;ゲームに集中するのが、最善だ。;;;;;;;;;;;;x
+EVTDESC_RIP_30230_DRINKING;まったく信じられないことに――だが事実として――企みは成功した！私の感覚はまだはっきりしているが、[From.GetFirstName]は集中力を欠いているようだ。杯を再び満たすと、[From.GetSheHe]は上の空で返答した。;;;;;;;;;;;;x
+EVTDESC_RIP_30230_SEDUCTION;まったく信じられないことに――だが事実として――企みは成功した！見立ては正しかった。[From.GetFirstName]でさえあなたの魅力には逆らえず、[From.GetHerHis]は集中力を欠いているようだ。次の手を考えるふりをしてテーブルに乗り出すようにすると、[From.GetHerHis]が息をのむのが聞こえた。;;;;;;;;;;;;x
+EVTDESC_RIP_30230_INTIMIDATION;まったく信じられないことに――だが事実として――企みは成功した！対局を続けながら、あなたの犠牲になった者について事細かに語った。特にショッキングなシーンでは、駒を盤に打ちつけてさらに煽った。[From.GetFirstName]は集中力を欠いているようだ。;;;;;;;;;;;;x
+EVTDESC_RIP_30230_BRAG;まったく信じられないことに――だが事実として――企みは成功した！対局を続けながら、自分の卓越したチェスの腕前について語り、また盤上の妙手でそれを証明した。[From.GetFirstName]は集中力を欠いているようだ。;;;;;;;;;;;;x
+EVTDESC_RIP_30230_GOOD_TRICK;まったく信じられないことに――だが事実として――企みは成功した！ワインが[From.GetFirstName]の服にこぼれた。[From.GetSheHe]は赤い大きな染みをこすりながら、あなたに悪態をつく。あなたはルークをひとつ、取り返すことができた。なるほど確かに、[GetFromRootInsult]と呼ばれるにふさわしい所業だ！;;;;;;;;;;;;x
+EVTDESC_RIP_30230_BAD_TRICK;The wine spills all over [From.GetFirstName]'s garb. As [From.GetSheHe] rubs a cloth on the huge, red stain, cursing you under [From.GetHerHis] breath, you attempt to restore one of your rooks. For a moment, you think your move went undetected, but then [From.GetFirstName] scans the board and sighs "Oh, how I despise cheaters…";;;;;;;;;;;;x
+EVTOPTA_RIP_30230;こうなってくると、もしかしたら勝てるかもわからんな！;;;;;;;;;;;;x
+EVTOPTB_RIP_30230;いや、待ってくれ、違うんだ！;;;;;;;;;;;;x
+EVTOPTB_RIP_30230_TOOLTIP;§Y[From.GetFirstName]§!は短剣に手を伸ばす...\n;;;;;;;;;;;;x
+EVTDESC_RIP_30231_GOOD;これほどしつこく、気力を奪う相手と戦ったことも、これほど危険な目にあったこともない。終局が近づき、苦闘の末にあなたが優勢に立っているようだ。[From.GetFirstName]は奪ったルークをテーブルに叩きつけた。「適正な対価があれば、これをお返ししないこともありませんよ…」;;;;;;;;;;;;x
+EVTDESC_RIP_30231_NEUTRAL;これほどしつこく、気力を奪う相手と戦ったことも、これほど危険な目にあったこともない。終局は近く、局面は互角にみえる。[From.GetFirstName]は自信ありげな笑みで、奪ったクィーンをもてあそんでいる。「適正な対価があれば、これをお返ししないこともありませんよ…」;;;;;;;;;;;;x
+EVTDESC_RIP_30231_BAD;これほどしつこく、気力を奪う相手と戦ったことも、これほど危険な目にあったこともない。終局は近く、状況は実に厳しい。[From.GetFirstName]は自信ありげな笑みで、奪ったクィーンをもてあそんでいる。「適正な対価があれば、これをお返ししないこともありませんよ…」;;;;;;;;;;;;x
+EVTOPTA_RIP_30231;余計なお世話だ。私は自分の能力を信頼している。;;;;;;;;;;;;x
+EVTOPTB_RIP_30231_A;私の[chess_sacrifice.GetHusbandWife]、[chess_sacrifice.GetTitledFirstName]の命だ。私が負けたら、[chess_sacrifice.GetSheHe]はお前のものだ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30231_B;私の友人、[chess_sacrifice.GetTitledFirstName]の命だ。私が負けたら、[chess_sacrifice.GetSheHe]はお前のものだ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30231_C;私の恋人、[chess_sacrifice.GetTitledFirstName]の命だ。私が負けたら、[chess_sacrifice.GetSheHe]はお前のものだ。;;;;;;;;;;;;x
+EVTOPTB_RIP_30231_D;私の[chess_sacrifice.GetSonDaughter]、[chess_sacrifice.GetTitledFirstName]の命だ。私が負けたら、[chess_sacrifice.GetSheHe]はお前のものだ。;;;;;;;;;;;;x
+EVTNAME_RIP_30232;命の駆け引き;;;;;;;;;;;;x
+EVTDESC_RIP_30232_BAD;最後の数手の間、時間が静止しているかのように感じる。 あなたの思考は、まるで濃いシロップを通り抜けるようにゆっくりと動き、混乱している。 不規則でばらばらな思いが心の中で浮かんでは消える。 かつて訪れた場所、何年も会っていない古い友人たち、あきらめた夢。 多くのこまごまとしたことがあり、取り返すには今では遅すぎるだろう。\n\n「チェックメイト。」頭は元に戻り、[From.GetFirstName]に目が釘付けになる。初めてその本当の姿を見て、あなたは芯から凍り付く。目の前の姿は通常の[From.GetManWoman]ではない、それどころか[From.GetManWoman]ですらない。[From.GetSheHe]は死神であり、そして勝利した。「[Root.GetFirstName]よ、時間だ。」死神はうんざりとため息をつきながら言う。「無限の休息が待っている。」;;;;;;;;;;;;x
+EVTDESC_RIP_30232_GOOD;最後の数手の間、時間が静止しているかのように感じる。不規則でばらばらな思いがあなたの心の中で浮かんでは消える。かつて訪れた場所、何年も合っていない古い友人たち、あきらめた夢。手遅れか…？\n\nその時突然、ひらめく。この手だ。震える手を伸ばしてビショップを取り上げ、そっと盤の向こう側に置く。「チェックメイト。」あなたはささやきながら、[From.GetFirstName]の目を見つめる。初めてその本当の姿を見て、あなたは芯から凍り付く。これは人間ではない、死神だ。「[Root.GetFirstName]よ、そなたに出し抜かれたようだ。しからば数年の猶予を与えよう。」[From.GetSheHe]はため息をつく。「さしたる違いはない。誰しもいずれ私のもとに来ることになる。」瞬きをする間に、[From.GetSheHe]は消え去っていた。;;;;;;;;;;;;x
+EVTOPTA_RIP_30232;それは真実だろう。だが私はまだ生きねばならぬ。一日たりとも無駄にはできないのだ！;;;;;;;;;;;;x
+EVTOPTB_RIP_302232_TOOLTIP;You feel stronger...\n;;;;;;;;;;;;x
+EVTOPTB_RIP_30232;い、いや、頼む、お願いだ！あと... あと一年だけ！;;;;;;;;;;;;x
+skull_trophies;頭蓋骨の戦利品;;;;;;;;;;;;x
+skull_trophies_desc;この人物は死んだライバルの頭蓋骨をいくつか所有しています。;;;;;;;;;;;;x
+chess_score_number;[Root.chess_score.GetValue];;;;;;;;;;;;x
+deaths_gift;死神の贈り物;;;;;;;;;;;;x
+deaths_gift_desc;この人物は人生で二度目のチャンスを与えられています。;;;;;;;;;;;;x
+EVTOPTA_RIP_30233;[Root.Religion.GetHighGodName]を讃えよ！;;;;;;;;;;;;x
+EVTDSC_7852_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. When I arrived I found them playing together most enthusiastically. I watched them for several minutes before I announced myself.;;;;;;;;;;;;x
+EVTDSC_7852;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. When I arrived I found [From.GetHerHim] playing most enthusiastically with the little furball. I watched them for several minutes before I announced myself.;;;;;;;;;;;;x
+EVTOPTA_77852;Thank you, [From.GetFirstName], for taking such good care of my cat!;;;;;;;;;;;;x
+EVTOPTA_77852_TOOLTIP;You and §Y[From.GetTitledFirstName]§! bond over your love of cats.\n;;;;;;;;;;;;x
+EVTOPTA_77852_dog;Thank you, [From.GetFirstName], for taking such good care of my dog!;;;;;;;;;;;;x
+EVTOPTA_77852_TOOLTIP_dog;You and §Y[From.GetTitledFirstName]§! bond over your love of dogs.\n;;;;;;;;;;;;x
+EVTDSC_7853_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the canine. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the dog a few days earlier.;;;;;;;;;;;;x
+EVTDSC_7853;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the feline. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the cat a few days earlier.;;;;;;;;;;;;x
+EVTOPTA_77853;What have you done, you [GetRootFromInsult]?!;;;;;;;;;;;;x
+EVTOPTA_77853_TOOLTIP;You let §Y[From.GetTitledFirstName]§! know exactly what you think of [From.GetHerHis] behaviour.\n;;;;;;;;;;;;x
+pet_best_friends;親友のペット;;;;;;;;;;;;x
+pet_best_friends_desc;この人物には最高の友人であるペットがいます。;;;;;;;;;;;;x
+EVTDESC_77861;貴方の2匹のペットはまさに犬猿の仲のように喧嘩している。それぞれ別々の部屋に閉じ込めておかないと、夜はほとんど眠れない。猫は閉じ込めを恐れて就寝前に隠れるようになってしまった。昨日は猫を探すのに時間の大半を費やした。もうこれ以上は我慢できない...;;;;;;;;;;;;x
+EVTOPTA_77861;そのうち何とかなるだろう。;;;;;;;;;;;;x
+EVTOPTA_77861_TOOLTIP;猫と犬にお互い慣れるチャンスを与えます。;;;;;;;;;;;;x
+EVTOPTB_77861;犬の新しい飼い主を見つけてやろう。;;;;;;;;;;;;x
+EVTOPTC_77861;明らかに猫は不満に思っている。新しい家を見つけなければ。;;;;;;;;;;;;x
+EVTDESC_77862_A;Today, when you were going for a hunt, you couldn't find your loyal canine companion anywhere. As you called its name, the stable master came over and told you that he had seen a cat chase a dog across the courtyard. Now it is nowhere to be found…;;;;;;;;;;;;x
+EVTDESC_77862_B;It is time to go to bed and you are searching for your cat. You attempt your most recent trick, luring it out with small treats from the kitchen, but for the first time the method proves unsuccessful. Once an hour has passed, you give up and call for your dog. It comes running with a limp little body in its maw…;;;;;;;;;;;;x
+EVTDESC_77862_C;ペットたちに必要なのは時間だけだった。ある日、彼らはあっさりと喧嘩を止め、親友となった。今ではよく一緒に遊んだり、くつろいだりしている。彼らは本当に幸せそうだ。;;;;;;;;;;;;x
+EVTOPTA_77862;失敗は私のせいだ。猫は所詮動物なのだ…;;;;;;;;;;;;x
+EVTOPTB_77862;犬はもう戻ってこない。それは全部お前のせいだ！邪悪な獣め！;;;;;;;;;;;;x
+EVTOPTB_77862_TOOLTIP;あなたの猫を処分します。\n;;;;;;;;;;;;x
+EVTOPTC_77862;失敗は私のせいだ。犬は所詮動物なのだ…;;;;;;;;;;;;x
+EVTOPTD_77862;どうして...どうしてこんなことをした！このクソ犬！;;;;;;;;;;;;x
+EVTOPTD_77862_TOOLTIP;あなたの犬を処分します。\n;;;;;;;;;;;;x
+EVTOPTE_77862;なんて素敵なことだ！最後には仲良くなるだろうと思っていた。;;;;;;;;;;;;x
+RULE_DUELING;§B『Way of Life』§!決闘;;;;;;;;;;;;x
+RULE_DUELING_DEFAULT_DESC;デフォルトの決闘制限が適用されます。;;;;;;;;;;;;x
+RULE_DUELING_RESTRICTED_DESC;貴方は決闘理由を必要としませんが、彼らが健康であり、また貴方の文化と宗教に照らして有効な決闘相手である必要があります。;;;;;;;;;;;;x
+RULE_PUNISHMENT_RELEASE_PRISONER;処断後に囚人を釈放;;;;;;;;;;;;x
+RULE_PUNISHMENT_RELEASE_PRISONER_ON_DESC;囚人はそれぞれの刑罰を受けた後に釈放されます。;;;;;;;;;;;;x
+RULE_PUNISHMENT_RELEASE_PRISONER_OFF_DESC;盲目化、去勢、拷問、傷害、侮辱、あるいは詩の朗読後に囚人を開放します。;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES;§B『The Reaper's Due』§!非流行病;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_DEFAULT_DESC;人物はデフォルトの頻度で肺炎や癌のような非流行病に罹患します。;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_MORE_DESC;非流行病に罹患するケースが多くなります。;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_FEWER_DESC;非流行病に罹患するケースが小さくなります。;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_RARE_DESC;非流行病に罹患するケースが稀になります。;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_NONE_DESC;非流行病に罹患するケースがなくなります。;;;;;;;;;;;;x
+RULE_PROVINCIAL_REVOLT_STRENGTH;§B『The Old Gods』§!地方反乱の強度;;;;;;;;;;;;x
+RULE_PROVINCIAL_REVOLT_STRENGTH_DEFAULT_DESC;地方反乱の強度はデフォルト値です。;;;;;;;;;;;;x
+RULE_PROVINCIAL_REVOLT_STRENGTH_POWERFUL_DESC;地方反乱は強力です。彼らの軍の人数はデフォルトの2倍になります。;;;;;;;;;;;;x
+RULE_PROVINCIAL_REVOLT_STRENGTH_VERY_POWERFUL_DESC;地方反乱は非常に強力です。彼らの軍の人数はデフォルトの4倍になります。;;;;;;;;;;;;x
+RULE_PROVINCIAL_REVOLT_STRENGTH_EXTREMELY_POWERFUL_DESC;地方反乱は極めて強力です。彼らの軍の人数はデフォルトの6倍になります。;;;;;;;;;;;;x
+RULE_OPTION_POWERFUL;強力;;;;;;;;;;;;x
+RULE_OPTION_VERY_POWERFUL;非常に強力;;;;;;;;;;;;x
+RULE_OPTION_EXTREMELY_POWERFUL;極めて強力;;;;;;;;;;;;x
+RULE_MULTIPLAYER_ASSASSINATIONS;マルチプレイでの暗殺;;;;;;;;;;;;x
+RULE_MULTIPLAYER_ASSASSINATIONS_DEFAULT_DESC;マルチプレイであなたは誰に対しても暗殺の陰謀を企てることができます。;;;;;;;;;;;;x
+RULE_MULTIPLAYER_ASSASSINATIONS_NO_PLAYERS_DESC;他のプレイヤーに対する暗殺の陰謀は禁止されます。;;;;;;;;;;;;x
+RULE_OPTION_NO_PLAYERS;プレイヤー以外;;;;;;;;;;;;x
+pick_main_deity_tooltip;§Y[Root.GetTitledFirstName]§!は崇拝する新しい守り神を選びます。;;;;;;;;;;;;x
+pick_main_deity_timer_tooltip;10年間、守り神を選んだことはありません。\n;;;;;;;;;;;;x
+pick_main_deity;守り神を選ぶ;;;;;;;;;;;;x
+pick_main_deity_desc;人生の様々な側面を司る多くの神や女神がいる。すべての神々が崇拝されるべきだが、熱心に祈りを捧げ、供物を納める神を選ぶことが一般的だ。;;;;;;;;;;;;x
+EVTDESC_TOG_7110;多くの神々の中から信じる神を選べます。雷神ペルーンと最強の戦士たちにしますか?それとも彼の永遠の敵である地下世界の神ヴェーレス?春の豊饒の神ヤリーロとその姉妹で冬の死と再生の神モラーナもまた強大な力を持っています。;;;;;;;;;;;;x
+EVTOPTA_TOG_7110;I pledge my axe to Perun. I would give my life for his honor!;;;;;;;;;;;;x
+EVTOPTB_TOG_7110;Hallowed be wise Veles. No one can outwit him!;;;;;;;;;;;;x
+EVTOPTC_TOG_7110;May Jarilo bring prosperity and happiness to these lands!;;;;;;;;;;;;x
+EVTOPTD_TOG_7110;Mighty Morana, share your secrets with me, and I shall keep them.;;;;;;;;;;;;x
+follower_of_perun;ペルーンの信奉者;;;;;;;;;;;;x
+follower_of_perun_desc;この人物はスラブの雷の神「ペルーン」の敬虔な信者です。ペルーンは炎や山、戦争にも関わっています。;;;;;;;;;;;;x
+follower_of_veles;ヴェーレスの信奉者;;;;;;;;;;;;x
+follower_of_veles_desc;この人物はスラブの冥土の神「ヴェーレス」の敬虔な信者です。ヴェーレスは水や音楽、策略にも関わっています。;;;;;;;;;;;;x
+follower_of_jarilo;ヤリーロの信奉者;;;;;;;;;;;;x
+follower_of_jarilo_desc;この人物はスラブの豊饒の神「ヤリーロ」の敬虔な信者です。ヤリーロは春や植生にも関わっています。;;;;;;;;;;;;x
+follower_of_morana;モラナの信奉者;;;;;;;;;;;;x
+follower_of_morana_desc;この人物はスラブの死と再生の女神「モラナ」の敬虔な信者です。モラナは冬や魔法、夢にも関わっています。;;;;;;;;;;;;x
+EVTDESC_TOG_7111;Perun, the God of Thunder, is the highest of all the gods. He sits atop the world tree from where he keeps watch over the earth and the skies. His sworn enemy is Veles the Serpent, who crawls up from the Underworld to steal his cattle and children. On stormy nights, thunder is a sign of Perun defending us against Veles.;;;;;;;;;;;;x
+EVTDESC_TOG_7112;While Perun might rule our earthly world, wise and sly Veles is the God of the Underworld, where all of us will end up one day. His realm is not a dark and barren one, but wet and lush. Veles' chosen devote their life to carrying out his desires in this world, with the hopes of a glorious afterlife in the next.;;;;;;;;;;;;x
+EVTDESC_TOG_7113;Jarilo, the God of Fertility, is the son of Perun. He and his sister Morana were born on new year's eve, although Jarilo was snatched from his cradle by Veles, and brought up as his son in the Underworld. When Jarilo returned to the earthly realm, he brought with him warmth and lushness, thus creating spring.;;;;;;;;;;;;x
+EVTDESC_TOG_7114;Morana, the Goddess of Death and Rebirth, is a mighty but vengeful mistress. When her brother and husband Jarilo cheated on her, she slew him. Without him the world withered and froze, thus creating winter. Morana holds many secrets and spells which she bestows on her most faithful followers.;;;;;;;;;;;;x
+EVTOPTA_TOG_7111;信奉者にふさわしいことを知ってもらいたい。;;;;;;;;;;;;x
+EVTDESC_RIP_12099_A;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nDue to the affliction spreading through [Root.PrimaryTitle.GetName] I have been forced to seclude myself with my court at [From.Location.GetName]. Thus I will not fulfill my duties as [From.GetJobTitle] until the crisis is over.\n\nSigned, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_12099_B;To the most respectable [Root.GetTitledFirstName],\n\nDue to the affliction spreading through [Root.PrimaryTitle.GetName] I have been forced to seclude myself with my court at [From.Location.GetName]. Thus I unfortunately cannot fulfill my duties as [From.GetJobTitle] until the crisis is over.\n\nSigned, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_RIP_12099_A;こんな[GetRootFromInsult]を評議員に据えるべきではなかった！！;;;;;;;;;;;;x
+EVTOPTA_RIP_12099_B;ううむ、理解はできるがしかし...;;;;;;;;;;;;x
+EVTDESC_RIP_12100;§Y[From.GetTitledFirstName]§!が、宮廷および評議会に復帰しました。[From.GetSheHeCap]は再び、[From.GetJobTitle]としての職務遂行に当たります。;;;;;;;;;;;;x
+EVTDESC_TOG_7300;多くの神々の中から信じる神を選べる。空の神であり豊作をもたらす偉大なウッコ、または愛と保護の女神である妻のアッカ。 狩りの神と女神のタピオとミエリッキに祈るのもよい。 卑劣な誘惑の神、レンポを崇拝することもできる...;;;;;;;;;;;;x
+EVTOPTA_TOG_7300;ウッコが全てを支配する!;;;;;;;;;;;;x
+EVTOPTB_TOG_7300;私はアッカの子供の一人です。 彼女が私を守ってくれますように。;;;;;;;;;;;;x
+EVTOPTC_TOG_7300;タピオとミエリッキは森で幸運をもたらすでしょう！;;;;;;;;;;;;x
+EVTOPTD_TOG_7300;レンポが私に彼らの秘密を授けますように。;;;;;;;;;;;;x
+EVTDESC_TOG_7301;The domain of the great and mighty Ukko is the heavens. He rules over the weather and brings us good harvests. As he rides in his chariot, swinging his great hammer, he sends lightning bolts across the sky. As the chief of all gods, he grants his followers guidance in their rule and prosperity in their realm.;;;;;;;;;;;;x
+EVTDESC_TOG_7302;Akka, Goddess of love, fertility and protection, is a gentle yet powerful mistress. She cares for all of her children, although especially mothers and infants. When thunder echoes between the mountains, it is Akka making love with her husband, the chief god Ukko.;;;;;;;;;;;;x
+EVTDESC_TOG_7303;森はタピオとミエリッキ、狩りの神と女神によって統治されている。彼らに忠誠を誓う者は、常に真の目的と肉体の力に恵まれる 。ミエリッキはまた、最も熟練した治療者であり、森の中のすべてのハーブについての広大な知識を持っている。;;;;;;;;;;;;x
+EVTDESC_TOG_7304;Those who worship Lempo has chosen an erratic Master. While they may share many secrets regarding love and seduction, know that matters of the heart can be as dangerous as those of the sword. However, if you keep your wits about you, Lempo's lessons shall bring you power and influence beyond comprehension.;;;;;;;;;;;;x
+follower_of_ukko;ウッコの信奉者;;;;;;;;;;;;x
+follower_of_ukko_desc;この人物はスオメヌスコの空と収穫の神「ウッコ」の敬虔な信者です。;;;;;;;;;;;;x
+follower_of_akka;アッカの信奉者;;;;;;;;;;;;x
+follower_of_akka_desc;この人物はスオメヌスコの母性と保護、愛の神「アッカ」の敬虔な信者です。;;;;;;;;;;;;x
+follower_of_taipo_and_mielikki;タピオとミエリッキの信奉者;;;;;;;;;;;;x
+follower_of_taipo_and_mielikki_desc;この人物はスオメヌスコの森と狩猟、治癒の神「タピオとミエリッキ」の敬虔な信者です。;;;;;;;;;;;;x
+follower_of_lempo;レンポの信奉者;;;;;;;;;;;;x
+follower_of_lempo_desc;この人物はスオメヌスコの誘惑と愛の神「レンポ」の敬虔な信者です。;;;;;;;;;;;;x
+EVTDESC_TOG_7400;多くの神々の中から信じる神を選べる。我らが父である最高神ディエバス、野心高き兄弟である冥神ヴェルニアス。武運を求めるなら雷神ペルクナスに祈れ。地母神ゼミナへの忠実さは、豊穣と豊作の祝福によって報われるだろう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7400;Good Dievas, I shall serve you faithfully.;;;;;;;;;;;;x
+EVTOPTB_TOG_7400;Velnias, share the secrets of death with me!;;;;;;;;;;;;x
+EVTOPTC_TOG_7400;I will bring you honor on the battlefield, mighty Perkunas!;;;;;;;;;;;;x
+EVTOPTD_TOG_7400;My prayers go to bountiful Zemyna.;;;;;;;;;;;;x
+EVTDESC_TOG_7401;Dievas, our Father, is the supreme ruler of all Gods and Goddessess. He has created all that which is good and wonderful in this world, including us. His rule is one of peace and understanding, and those are his gifts to faithful followers.;;;;;;;;;;;;x
+EVTDESC_TOG_7402;Velnias the Serpent is God of Death and the Underworld. He is the brother of Dievas and the enemy of Perkunas. He can shapeshift into various animals, conjure up storms, and is a master of chaos and deception. Beware those who have been given his powers.;;;;;;;;;;;;x
+EVTDESC_TOG_7403;Perkunas is the God of Thunder. He rides the skies in his chariot, with his magical axe in his hand. His eternal enemy is Velnias the Serpent, Lord of the Underworld, whom he protects us from. Those who are faithful to Perkunas will be given his courage and success.;;;;;;;;;;;;x
+EVTDESC_TOG_7404;The Mother, Zemyna, is the fertile earth which nourishes us all. Every man and woman, animal and plant, owe their life force to her. When our lives in her green realm is over, we return to her again, to find the endless rest in her arms.;;;;;;;;;;;;x
+follower_of_dievas;ディエヴァスの信奉者;;;;;;;;;;;;x
+follower_of_dievas_desc;この人物はロムヴァの平和の主神「ディエヴァス」の敬虔な信奉者です。;;;;;;;;;;;;x
+follower_of_perkunas;ペルクナスの信奉者;;;;;;;;;;;;x
+follower_of_perkunas_desc;この人物はロムヴァの雷の神「ペルクナス」の敬虔な信奉者です。;;;;;;;;;;;;x
+follower_of_velnias;ヴェルニアスの信奉者;;;;;;;;;;;;x
+follower_of_velnias_desc;この人物はロムヴァの死の神「ヴェルニアス」の敬虔な信奉者です。;;;;;;;;;;;;x
+follower_of_zemyna;ゼミナの信奉者;;;;;;;;;;;;x
+follower_of_zemyna_desc;この人物はロムヴァの大地と母性の神「ゼミナ」の敬虔な信奉者です。;;;;;;;;;;;;x
+EVTOPTA_TOG_7500;この祝福にふさわしくありたい。;;;;;;;;;;;;x
+EVTDESC_TOG_7500_DIEVAS;ディエバスの道をたどるために敬虔に努力を積み重ねることにした。ディエバスの名の下に平和を維持し、臣民の間の相互理解を進めた。結果として外交力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7500_AKKA;アッカの道をたどるために敬虔に努力を積み重ねることにした。アッカの名の下に平和を維持し、臣民の間の相互理解を進めた。結果として外交力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7501_PERKUNAS;ペルクナスの道をたどるために敬虔に努力を積み重ねることにした。ペルクナスの名の下に斧捌きを練習し、指揮官と共に図上演習を通して何時間も戦略を練った。結果として軍事力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7501_TM;ミエリッキの道をたどるために敬虔に努力を積み重ねることにした。ミエリッキの名の下に多人数狩りを取りまとめもしたし、原野を長く独り、追跡行もした。結果として軍事力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7501_PERUN;ペルーンの道をたどるために敬虔に努力を積み重ねることにした。ペルーンの名の下に斧捌きを練習し、指揮官と共に図上演習を通して何時間も戦略を練った。結果として軍事力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7502_ZEMYNA;ゼミナの道をたどるために敬虔に努力を積み重ねることにした。ゼミナの名の下に豊穣祭や豊作祈願式を取りまとめ、時間をかけて[Root.Capital.GetName]の地を丹念に調べ上げた。結果として管理能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7502_UKKO;ウッコの道をたどるために敬虔に努力を積み重ねることにした。ウッコの名の下に豊穣祭や豊作祈願式を取りまとめ、時間をかけて[Root.Capital.GetName]の地を丹念に調べ上げた。結果として管理能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7502_JARILO;ヤリーロの道をたどるために敬虔に努力を積み重ねることにした。ヤリーロの名の下に豊穣祭や豊作祈願式を取りまとめ、時間をかけて[Root.Capital.GetName]の地を丹念に調べ上げた。結果として管理能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7503_VELNIAS;ヴェルニアスの道をたどるために敬虔に努力を積み重ねることにした。ヴェルニアスの名の下に策謀をめぐらせ、密偵を送り、毒を作成し、操った。結果として策略能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7503_LEMPO;レンポの道をたどるために敬虔に努力を積み重ねることにした。レンポの名の下に魅惑的な物語を織り、甘い約束を紡ぎ、憧れを誘惑し、欲望を鎮めた。結果として策略能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7503_VELES;ヴェーレスの道をたどるために敬虔に努力を積み重ねることにした。ヴェーレスの名の下に策謀をめぐらせ、密偵を送り、毒を作成し、操った。結果として策略能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7503_MORANA;モラナの道をたどるために敬虔に努力を積み重ねることにした。モラナの名の下にこの世の領域と彼女の領域である夢の国の両方で知識と秘密を探し求めた。結果として学識能力が向上した。;;;;;;;;;;;;x
+EVTOPTA_TOG_7506;[From.GetFirstName]よ、もっと話そうではないか！;;;;;;;;;;;;x
+EVTOPTA_TOG_7506_TOOLTIP;§Y[From.GetTitledFirstName]§!との会話を続けます。\n;;;;;;;;;;;;x
+EVTOPTB_TOG_7506;あいにくだが、礼拝を続けよう。;;;;;;;;;;;;x
+EVTDESC_TOG_7506_MORANA;早朝、モラナを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_PERUN;よく晴れたある日、何人かと狩りに勤しむ。昼食を食べようと休憩中の、[From.GetTitledFirstName]を交えた弓術談義にて、ふと気づく。[From.GetSheHe]もまた、敬虔なペルーン信徒であることに。話が弾むほどに相通じていく！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_PERKUNAS;よく晴れたある日、何人かと狩りに勤しむ。昼食を食べようと休憩中の、[From.GetTitledFirstName]を交えた弓術談義にて、ふと気づく。[From.GetSheHe]もまた、敬虔なペルクナス信徒であることに。話が弾むほどに相通じていく！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_TM;よく晴れたある日、何人かと狩りに勤しむ。昼食を食べようと休憩中の、[From.GetTitledFirstName]を交えた弓術談義にて、ふと気づく。[From.GetSheHe]もまた、タピオとミエリッキの敬虔な信徒であることに。話が弾むほどに相通じていく！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_UKKO;Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Ukko, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Ukko!;;;;;;;;;;;;x
+EVTDESC_TOG_7506_ZEMYNA;Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Zemyna, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Zemyna!;;;;;;;;;;;;x
+EVTDESC_TOG_7506_JARILO;Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Jarilo, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Jarilo!;;;;;;;;;;;;x
+EVTDESC_TOG_7506_AKKA;早朝、アッカを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_DIEVAS;早朝、ディエヴァスを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_VELES;When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Veles. Now you spend more time conversing than plotting...;;;;;;;;;;;;x
+EVTDESC_TOG_7506_LEMPO;When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Lempo. Now you spend more time conversing than plotting...;;;;;;;;;;;;x
+EVTDESC_TOG_7506_VELNIAS;When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Velnias. Now you spend more time conversing than plotting...;;;;;;;;;;;;x
+struck_by_lightning;雷に打たれた;;;;;;;;;;;;x
+struck_by_lightning_desc;この人物は雷に打たれました！;;;;;;;;;;;;x
+comforted_opinion;慰めた;;;;;;;;;;;;x
+tough_love_opinion;愛のむち;;;;;;;;;;;;x
+EVTDESC_TOG_7508_PERUN;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ペルーンの存在が屋根を叩く雨のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
+EVTDESC_TOG_7508_PERKUNAS;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ペルクナスの存在が恋人の人肌のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
+EVTDESC_TOG_7508_UKKO;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ウッコの存在が恋人の人肌のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
+EVTOPTA_TOG_7508;恐れることはない、雷神は我らの守護神なのだから！;;;;;;;;;;;;x
+EVTOPTA_TOG_7508_TOOLTIP;§Y[From.GetTitledFirstName]§!に雷を怯える必要がないことを証明するために嵐の中に走り出す。\n;;;;;;;;;;;;x
+EVTOPTB_TOG_7508;話をしよう……;;;;;;;;;;;;x
+EVTOPTB_TOG_7508_TOOLTIP;§Y[From.GetTitledFirstName]§!に強大な雷神の話を聞かせる。\n;;;;;;;;;;;;x
+EVTOPTC_TOG_7508;そんなに臆病だと恥をかくぞ、[From.GetFirstName]！;;;;;;;;;;;;x
+EVTOPTC_TOG_7508_TOOLTIP;臆病な§Y[From.GetTitledFirstName]§!を叱る。\n;;;;;;;;;;;;x
+EVTDESC_TOG_7510_JARILO;You are dancing at the fertility rite held in Jarilo's honor as your eyes find [From.GetTitledFirstName]'s across the bonfire. For a moment, it is as if the whole world turns silent. The drumming is a distant thunder, yet the rhythmic vibrations run through your body, to your very core...;;;;;;;;;;;;x
+EVTDESC_TOG_7510_LEMPO;You are dancing at the secret rite held in Lempo's honor as your eyes find [From.GetTitledFirstName]'s across the bonfire. For a moment, it is as if the whole world turns silent. The drumming is a distant thunder, yet the rhythmic vibrations run through your body, to your very core...;;;;;;;;;;;;x
+EVTOPTA_TOG_7510_LEMPO;Tonight, I shall bed [From.GetFirstName] in the name of Lempo.;;;;;;;;;;;;x
+EVTOPTA_TOG_7510_JARILO;Tonight, I shall bed [From.GetFirstName] in the name of Jarilo.;;;;;;;;;;;;x
+EVTOPTB_TOG_7510;This is... something more.;;;;;;;;;;;;x
+EVTOPTC_TOG_7510;[From.GetFirstName]? What was I thinking!;;;;;;;;;;;;x
+EVTOPTC_TOG_7510_TOOLTIP;Ignore the strange impulse and keep dancing.;;;;;;;;;;;;x
+zemynas_blessing;ゼミナの祝福;;;;;;;;;;;;x
+zemynas_blessing_desc;この人物は女神ゼミナに恵まれており、結婚が改善されました。;;;;;;;;;;;;x
+akkas_blessing;アッカの祝福;;;;;;;;;;;;x
+akkas_blessing_desc;この人物は女神アッカに恵まれており、結婚が改善されました。;;;;;;;;;;;;x
+happy_parent_opinion;幸せな親;;;;;;;;;;;;x
+EVTDESC_TOG_7510_ZEMYNA;Lately, you have striven to act in the spirit of Zemyna by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
+EVTDESC_TOG_7510_AKKA;Lately, you have striven to act in the spirit of Akka by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
+EVTOPTA_TOG_7512;女神よ感謝します！;;;;;;;;;;;;x
+EVTOPTB_TOG_7512;Yet I cannot bring myself to touch [From.GetHerHim]...;;;;;;;;;;;;x
+EVTDESC_TOG_7514;Your [GetFromRelation], little [From.GetFirstName], has sought you out with a dead bird cradled in [From.GetHerHis] arms. With a concerned look on [From.GetHerHis] face, [From.GetFirstName] asks you what happened to the animal. Why is she not flying anymore?;;;;;;;;;;;;x
+EVTOPTA_TOG_7514_MORANA;The bird is in with Morana now, dearest [From.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_TOG_7514_VELES;The bird is in with Veles now, dearest [From.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_TOG_7514_VELNIAS;The bird is in with Velnias now, dearest [From.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_TOG_7514_TOOLTIP;Tell §Y[From.GetTitledFirstName]§! a calming tale, hoping it will make [From.GetHerHim] more at ease with the concept of death.\n;;;;;;;;;;;;x
+EVTOPTB_TOG_7514_MORANA;Morana is a relentless mistress. Death awaits us all.;;;;;;;;;;;;x
+EVTOPTB_TOG_7514_VELES;Veles is a relentless master. Death awaits us all.;;;;;;;;;;;;x
+EVTOPTB_TOG_7514_VELNIAS;Velnias is a relentless master. Death awaits us all.;;;;;;;;;;;;x
+EVTOPTB_TOG_7514_TOOLTIP;Tell §Y[From.GetTitledFirstName]§! a honest tale, hoping it will harden [From.GetHerHim].\n;;;;;;;;;;;;x
+EVTOPTC_TOG_7514;I'm busy, go and play with the other children...;;;;;;;;;;;;x
+EVTDESC_TOG_7515_A;Your tale seemed to calm [From.GetTitledFirstName]. As you spoke, [From.GetSheHe] listened intently, while stroking the dead bird absentmindedly. When you were done, [From.GetSheHe] asked some questions, and then you buried the little feathered body together in the gardens.;;;;;;;;;;;;x
+EVTDESC_TOG_7515_B;[From.GetTitledFirstName] listened to your tale for a while. Once it had calmed [From.GetHerHim], [From.GetSheHe] seemed to lose interest. You could see that there was no point in lecturing further, so you sent [From.GetHerHim] away to play. [From.GetFirstName] complied without protests.;;;;;;;;;;;;x
+EVTDESC_TOG_7515_C;Little [From.GetFirstName] listened in silence, a serious look on [From.GetHerHis] face. You could tell that despite [From.GetHerHis] tender age, [From.GetSheHe] did understand something of the finality of death. [From.GetFirstName] asked some questions and you could tell [From.GetSheHe] appreciated your honest answers.;;;;;;;;;;;;x
+EVTDESC_TOG_7515_D;Little [From.GetFirstName] listened in silence, a terrified look on [From.GetHerHis] face. Towards the end, [From.GetHerHis] lip started to quiver, but you bore on. [From.GetSheHeCap] was in tears by the time you were done. Perhaps you overdid it slightly...;;;;;;;;;;;;x
+EVTOPTA_TOG_7515_MORANA;[From.GetFirstName] will become an excellent disciple of Morana one day!;;;;;;;;;;;;x
+EVTOPTA_TOG_7515_VELES;[From.GetFirstName] will become an excellent disciple of Veles one day!;;;;;;;;;;;;x
+EVTOPTA_TOG_7515_VELNIAS;[From.GetFirstName] will become an excellent disciple of Velnias one day!;;;;;;;;;;;;x
+EVTOPTB_TOG_7515_MORANA;[From.GetFirstName] is clearly not one of Morana's chosen...;;;;;;;;;;;;x
+EVTOPTB_TOG_7515_VELES;[From.GetFirstName] is clearly not one of Veles' chosen...;;;;;;;;;;;;x
+EVTOPTB_TOG_7515_VELNIAS;[From.GetFirstName] is clearly not one of Velnias' chosen...;;;;;;;;;;;;x
+EVTDESC_TOG_7516_PERKUNAS;ペルクナスの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
+EVTDESC_TOG_5716_TM;タピオとミエリッキの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
+EVTDESC_TOG_7516_PERUN;ペルーンの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
+EVTOPTA_TOG_7516_A;狩りの神と女神、タピオとミエリッキよ感謝します！;;;;;;;;;;;;x
+EVTOPTA_TOG_7516_B;雷神に栄光あれ！;;;;;;;;;;;;x
+inspired_warriors_desc;Seasoned warriors have traveled from far and wide, to fight for the true faith.;;;;;;;;;;;;x
+EVTDESC_TOG_7518_DIEVAS;良きディエバスのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「ディエヴァスの声」と呼ぶ人もいる。;;;;;;;;;;;;x
+EVTDESC_TOG_7518_AKKA;良きアッカのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「アッカの声」と呼ぶ人もいる。;;;;;;;;;;;;x
+EVTOPTA_TOG_7518_A;ディエヴァスに名誉をもたらすことを誇りに思う。;;;;;;;;;;;;x
+EVTOPTA_TOG_7518_B;女神に名誉をもたらすことを誇りに思う。;;;;;;;;;;;;x
+voice_of_akka;アッカの声;;;;;;;;;;;;x
+voice_of_akka_desc;この人物が女神アッカの思いやりと尊厳を持っていることはよく知られています。;;;;;;;;;;;;x
+voice_of_dievas;ディエヴァスの声;;;;;;;;;;;;x
+voice_of_dievas_desc;この人物が神ディエヴァスの思いやりと尊厳を持っていることはよく知られています。;;;;;;;;;;;;x
+EVTDESC_TOG_7520_ZEMYNA;Your efforts to make the most out Zemyna's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the Goddess has blessed you with, has resulted in the richest harvest in many years. Celebrations in Zemyna's honor is held in every village.;;;;;;;;;;;;x
+EVTDESC_TOG_7520_UKKO;Your efforts to make the most out Ukko's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the God has blessed you with, has resulted in the richest harvest in many years. Celebrations in Ukko's honor is held in every village.;;;;;;;;;;;;x
+EVTDESC_TOG_7520_JARILO;Your efforts to make the most out Jarilo's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the God has blessed you with, has resulted in the richest harvest in many years. Celebrations in Jarilo's honor is held in every village.;;;;;;;;;;;;x
+EVTOPTA_TOG_7520;[Root.Capital.GetName]の繁栄は確かに素晴らしい光景だ！;;;;;;;;;;;;x
+blessed_lands;祝福されし土地;;;;;;;;;;;;x
+blessed_lands_desc;この土地は繁栄しており、多くの住民は神々からの祝福によるものと信じています。;;;;;;;;;;;;x
+EVTDESC_TOG_7522_LEMPO_ME;Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELNIAS_ME;Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELES_ME;Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
+EVTDESC_TOG_7522_LEMPO;Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELNIAS;Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELES;Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
+EVTOPTA_TOG_7522_A;That treacherous snake!;;;;;;;;;;;;x
+EVTOPTA_TOG_7522_B;Perhaps I should warn [god_plot_target.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA_TOG_7522_C;それが神の意志ならば。;;;;;;;;;;;;x
+EVTDESC_TOG_7524_MORANA;In your search for wisdom in the name of Morana, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.;;;;;;;;;;;;x
+EVTOPTA_TOG_7524;The Goddess' wisdom is a bottomless well. Praised be she!;;;;;;;;;;;;x
+hunters_physique;狩人の体格;;;;;;;;;;;;x
+hunters_physique_desc;この人物は多くの時間を荒野での狩りに費やしているため、力と回復力、そして正確さを獲得しました。;;;;;;;;;;;;x
+EVTDESC_TOG_7517;After each hunt you make sure to leave an offering for Tapio and Mielikki in thanks of their great generosity. They surely must be pleased, for you have noticed that nowadays your arrows find their targets more often than they once did. You have been blessed with strength and a deadly aim.;;;;;;;;;;;;x
+EVTOPTA_TOG_7517;May the Hunter and Huntress guide my arrows.;;;;;;;;;;;;x
+building_monument;記念碑の建設;;;;;;;;;;;;x
+building_monument_desc;A significant portion of this province's able-bodied men are involved in a great building project.;;;;;;;;;;;;x
+EVTDESC_TOG_7526;あなたの[From.GetJobTitle][From.GetTitledFirstName]が[Root.PrimaryTitle.GetName]の力を示すための素晴らしき記念碑の建設を提案した。価値ある計画ではあるが、記念碑の建設には多額の資金と多くの人手が必要でしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_PERKUNAS;私はペルクナスを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_TM;私はタピオとミエリッキを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_PERUN;私はペルーンを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_DIEVAS;私はディエヴァスを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_AKKA;私はアッカを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_ZEMYNA;私はジェーミナを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_UKKO;私はウッコを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_JARILO;私はヤリーロを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_VELNIAS;私はヴェルニアスを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_LEMPO;私はレンポを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_VELES;私はヴェーレスを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_MORANA;私はモラナを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7525_TOOLTIP;記念碑が1年後に完成した時、§Y[Root.GetTitledFirstName]§!は信仰点§G250§!を受け取り、§Y[Root.Capital.GetName]§! は§Y[Root.GetTitledFirstName]§!が死ぬまでの間、「§Y聖なる記念碑§!」を手に入れ、以下の効果が得られます:\n毎月の信仰点増加: §G+10.0%§!\n\n;;;;;;;;;;;;x
+EVTOPTB_TOG_7526;我が一族と祖先を称える記念碑の建設、なんて素晴らしい考えだ！;;;;;;;;;;;;x
+EVTOPTB_TOG_7525_TOOLTIP;記念碑が1年後に完成した時、§Y[Root.GetTitledFirstName]§!は威信§G250§!を受け取り、§Y[Root.Capital.GetName]§! は§Y[Root.GetTitledFirstName]§!が死ぬまでの間、「§Y先祖の記念碑§!」を手に入れ、以下の効果が得られます:\n毎月の威信増加: §G+10.0%§!\n\n;;;;;;;;;;;;x
+EVTOPTC_TOG_7526;金も労働者も余裕はない……;;;;;;;;;;;;x
+EVTDESC_TOG_7527_ANCESTORS;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、[Root.GetOnlyDynastyName]家を讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_PERKUNAS;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ペルクナスを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_TM;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、タピオとミエリッキを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_PERUN;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ペルーンを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_DIEVAS;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ディエヴァスを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_AKKA;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、アッカを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_ZEMYNA;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ジェーミナを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_UKKO;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ウッコを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_JARILO;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ヤリーロを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_VELNIAS;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ヴェルニアスを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_LEMPO;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、レンポを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_VELES;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ヴェーレスを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_MORANA;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、モラナを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_PRESTIGE;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、[Root.GetOnlyDynastyName]家のための盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7527;これほどの偉容、[Root.PrimaryTitle.GetName]で見たことがない！;;;;;;;;;;;;x
+holy_monument;聖なる記念碑;;;;;;;;;;;;x
+holy_monument_desc;この地に建てられた聖なる記念碑は州区の支配者に信仰点をもたらします。;;;;;;;;;;;;x
+ancestral_monument;先祖の記念碑;;;;;;;;;;;;x
+ancestral_monument_desc;この地に建てられた聖なる記念碑は州区の支配者に威信をもたらします。;;;;;;;;;;;;x
+seizing_the_day;今を楽しむ;;;;;;;;;;;;x
+seizing_the_day_desc;この人物は死を笑いながら、小さなことでも楽しんで、最大限に人生を生きることに決めました。;;;;;;;;;;;;x
+savoring_the_end_days;終末を味わう;;;;;;;;;;;;x
+savoring_the_end_days_desc;この人物は領地を苦しめる病気や苦難から隔離することに対して罪の意識を感じることを拒絶しています。;;;;;;;;;;;;x
+bright_eyed;希望に満ちた目;;;;;;;;;;;;x
+bright_eyed_desc;他の人ならば困難と見る時も、この人物は好機と見ています。;;;;;;;;;;;;x
+secluded_revelry;隔絶した世界でのお祭り騒ぎ;;;;;;;;;;;;x
+secluded_revelry_desc;巧妙な統治と独創的な解決策により、この人物は廷臣と共に過ごす隔離生活に我慢できるようになった。;;;;;;;;;;;;x
+RIP_12070_TITLE;隔離生活の快適さ;;;;;;;;;;;;x
+EVTDESC_RIP_12070_A;[Root.Capital.Capital.GetName]の門を閉じ、外部の流行病から隔離することは簡単な決断ではなく、[Root.Religion.GetHighGodName]への祈りであなたを助けてくれるなどあまりないことだ。しかし、最近になって外にいる我々の仲間たちを心配することは、城内で過ごす鬱憤よりも重要なことではないと分かってきた。 外部からの報告が少なくなるにつれ仕事は減り、調理スタッフは食糧配給のために熱意を失い、貴族が家族を訪問することができないと不平を言わなくなり、目に見えて退屈になってきている。「他に何もすることがなければ、少なくともお互いの仲間たちを楽しませればよいのでは？」 [bored_courtier_target.GetTitledName]は提案した。あなたは[bored_courtier_target.GetHerHis]の言葉の意味を考えた。このまま地球最後の日が来るまで待つのも問題はないだろうか？;;;;;;;;;;;;x
+EVTDESC_RIP_12070_B;[Root.Capital.Capital.GetName]の門を閉じ流行病から免れるために外部から隔絶するという決断を下すことは簡単なことではなく、普段から自分がいないと民衆はいかに恐怖にさらされてしまうのか考えていた。しかし最近になって、外部の人間より城内で耐えている者たちをどうすればよいのかという心配をするようになった。外部からの報告が少なくなるにつれて仕事は減り、調理スタッフは食糧配給に対する熱意を失い、貴族が家族への訪問ができないことへの不満を漏らさなくなり、誰もが退屈な生活を送るようになった。「何もすることがなければ、少なくとも互いに楽しませるのはいかがでしょうか？」 [bored_courtier_target.GetTitledName]はそう提案した。人生最後の日々を味わってほしいという願いは間違いであろうか？;;;;;;;;;;;;x
+EVTDESC_RIP_12070_C;[Root.Capital.Capital.GetName]の城門を閉じ、外の疫病から隔絶したことは実利的な決断であった。やましい気持ちはなくなったものの、城内に閉じ込めらることを耐えがたく感じる臣民に対処するという新たな問題が立ち上がってきた。外からもたらされる報せが恐ろしさを増すたびに仕事は少なくなり、食糧が配給制になると料理人は熱意を失っていった。貴族達は親類に会えないことに不満こそ漏らさないものの、退屈にうんざりしていた。「何もすることがないのなら、せめてたがいに客人をもてなしてはどうか？」いつものようにぼんやりと壁を見つめていると、[bored_courtier_target.GetTitledName]がそう提案してきた。あなたは頭を上げて[bored_courtier_target.GetHerHim]に向き直り、しばし思案した。;;;;;;;;;;;;x
+EVTDESC_RIP_12070_D;[Root.Capital.Capital.GetName]の城門を閉じ、外の疫病から隔絶したことは合理的な選択であった。外に残された人々のことも時々は気にかけていたが、この頃になって城内に閉じ込めらることを耐えがたく感じる臣民に対処するという新たな問題が立ち上がってきた。外からもたらされる報せが恐ろしさを増すたびに仕事は少なくなり、食糧が配給制になると料理人は熱意を失っていった。貴族達は親類に会えないことに不満こそ漏らさないものの、目に見えて退屈していた。「何もすることがないのなら、せめてたがいに客人をもてなしてはどうか？」[bored_courtier_target.GetTitledName]がそう提案してきた。\nしばし思案する。地上における最後の日々に彩りをもたらしたいと思うのは間違ったことではない、そう言えるだろうか……？;;;;;;;;;;;;x
+EVTDESC_RIP_12070_E;[Root.Capital.Capital.GetName]の城門を閉じ、外の疫病から隔絶したことは簡単な決断ではなかった。あなたは窓越しに自分の領地を眺めながら、過ぎ去った不安な日々を思い出していた。ところが、この頃になって城内に閉じ込めらることを耐えがたく感じる臣民に対処するという新たな問題が立ち上がってきた。外からもたらされる報せが恐ろしさを増すたびに仕事は少なくなり、食糧が配給制になると料理人は熱意を失っていった。貴族達は親類に会えないことに不満こそ漏らさないものの、目に見えて退屈していた。「何もすることがないのなら、せめてたがいに客人をもてなしてはどうか？」[bored_courtier_target.GetTitledName]がそう提案してきた。\n顎に手を当てて、しばし思案する。終末が近づいているのなら、地上における最後の日々に彩りをもたらしたいと思うのも間違ったことではないのではないか？;;;;;;;;;;;;x
+EVTOPTA_RIP_12070;[bored_courtier_target.GetSheHeCap]の意見は正しい、我々は楽しむべきだ。;;;;;;;;;;;;x
+EVTOPTA_RIP_12070_TT;§Y[bored_courtier_target.GetTitledName]§!になんとしてでも城内の士気を挙げるように命令します\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12070;我々は[Root.Capital.Capital.GetName]内で快適な過ごし方を全力で探求するべきだ。;;;;;;;;;;;;x
+EVTOPTB_RIP_12070_TT;§Y[bored_courtier_target.GetTitledName]§!にアレンジしすぎないよう命令します\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12070;民を守れないようでは楽しむことなんてできない。;;;;;;;;;;;;x
+EVTOPTC_RIP_12070_TT;退屈なまま死ぬことを望みます\n;;;;;;;;;;;;x
+EVTOPTD_RIP_12070;そんなムードにはなれない。;;;;;;;;;;;;x
+EVTOPTD_RIP_12070_TT;退屈なまま死ぬことを望みます。;;;;;;;;;;;;x
+EVTOPTE_RIP_12070;私の見えない友達も招待していいだろうか？;;;;;;;;;;;;x
+EVTOPTE_RIP_12070_TT;「彼ら」と一緒に充実した時間を過ごすことを意味します。\n§Y[bored_courtier_target.GetTitledName]§!はこれに賛成し、城をよりお祝いの空気へと変えます。\n;;;;;;;;;;;;x
+EVTOPTF_RIP_12070;これについての夢をみた。『死』が我々すべてを食いつくすのだ！;;;;;;;;;;;;x
+EVTOPTF_RIP_12070_TT;あなたは正真正銘に未来を見たと話します\n§Y[bored_courtier_target.GetTitledName]§!はあなたに対する恐怖心から去っていきます\n;;;;;;;;;;;;x
+EVTDESC_RIP_12071_A;[bored_courtier_target.GetFirstName]は順調に物事を運んでいる。窓は磨きあげられて新しいカーテンが掛かっている。毎食ごとに上等なカトラリーが用意される。脇にはリュート奏者まで配置し、ワインセラーも開放した。[Root.Capital.Capital.GetName]の安全な避難所の外で起こっている絶望的状況を無視するのは、誰でもわかる簡単なことだ。;;;;;;;;;;;;x
+EVTDESC_RIP_12071_B;[bored_courtier_target.GetFirstName]は順調に物事を運んでいる。窓は磨きあげられて新しいカーテンが掛かっている。毎食ごとに上等なカトラリーが用意される。ついには私につきまとうリュート奏者まで出てくる始末だが、頭の中の声は問題ないと言っている。私が見た悪夢も、ただの夢でしかないと思うようになった。[Root.Capital.Capital.GetName]は世界で最も安全な場所であろう。;;;;;;;;;;;;x
+EVTOPTA_RIP_12071;[bored_courtier_target.GetFirstName]、明かりについて何とかできるだろうか？;;;;;;;;;;;;x
+EVTOPTA_RIP_12071_TT;豪華な飾りつけを行っている§Y[bored_courtier_target.GetTitledName]§!たちを励まします。あなたはお祭り騒ぎを続けます。\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12071;[bored_courtier_target.GetTitledName]、おかげで隔離生活もましなものになったよ。;;;;;;;;;;;;x
+EVTOPTB_RIP_12071_TT;お祭り騒ぎを続けます\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12071;不愉快に感じてきた、;;;;;;;;;;;;x
+EVTOPTC_RIP_12071_TT;お祭り騒ぎをやめるように呼び掛けます\n;;;;;;;;;;;;x
+EVTDESC_RIP_12074_A;城外では死が蔓延しているので城に引き籠っているが、[Root.Capital.Capital.GetName]では生きている心地が全くしない。私は廷臣と嬉々たる時間を過ごしているが、おかしなことにここには以前よりも人が多くいるような気がする。さらには招待した覚えがないマスクをした不審な人物までもがいる。;;;;;;;;;;;;x
+EVTDESC_RIP_12074_B;奇妙で長い隔離生活が終わった。我々の努力のおかげか、[Root.Capital.Capital.GetName]の雰囲気はかつてないほどに煌びやかだ。お祭り騒ぎを続けて疫病をやり過ごしたおかげだろうか？しかしおかしなことにここには以前よりも人が多くいるような気がする。あの仮面をした奇妙な人物は、招待した覚えがないのだが……？;;;;;;;;;;;;x
+EVTDESC_RIP_12074_C;隠遁生活、なんと楽しいものだろうか！私の目に見えない友達がこんなに廷臣達と仲良くできるとは思わなかった。そしてここにはもう一人新たな人物がいる。しかし私はこのマスクをした不思議な人物を招待しただろうか？まぁもう一人欲しかったところだ！;;;;;;;;;;;;x
+EVTOPTA_RIP_12074;[partying_stranger.GetSheHe]は一体誰なんだ?;;;;;;;;;;;;x
+EVTOPTA_RIP_12074_TT;§Y[partying_stranger.GetFirstName]§!はその[partying_stranger.GetHerHis]のマスクの裏からあなたを見ているようです\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12074;[partying_stranger.GetHerHim]はここにふさわしくない気がする。;;;;;;;;;;;;x
+EVTOPTB_RIP_12074_TT;§Y[partying_stranger.GetFirstName]§!はその部屋から退出します。\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12074;その人物を対処する必要がある...;;;;;;;;;;;;x
+EVTDESC_RIP_12075_A;ある晩、葡萄酒を大量にふるまいリラックスしているとき、私は[bored_courtier_target.GetTitledName]に接近した。柱時計が時を告げる。リュート奏者は手を止め、廷臣達は互いに様子をうかがっている。「そのマスクをした者は誰かの友人か？」 私は皆に問うた。 [bored_courtier_target.GetFirstName]がかぶりを振った。;;;;;;;;;;;;x
+EVTDESC_RIP_12075_B;私は激しくくしゃみをすると、マスクをした見知らぬ人と睨みあう形となった。それをきっかけにリュート奏者は演奏を中止し、廷臣はお互いを一瞥しあっている。"そのマスクをした者の友人はいるか？" 私は皆に問いた。 [bored_courtier_target.GetFirstName]は頭を振った。;;;;;;;;;;;;x
+EVTOPTA_RIP_12075;厄介ごとになる前に[partying_stranger.GetHerHim]と話し合うべきだ。;;;;;;;;;;;;x
+EVTOPTA_RIP_12075_TT;深呼吸をして、すぐにカジュアルなアプローチでマスクをした見知らぬ人と時間をとることにします。\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12075;よくも堂々とここに侵入してきたなぁ?!;;;;;;;;;;;;x
+EVTOPTB_RIP_12075_TT;あなたは激怒し、惨たらしい処断をしに隠された見知らぬ人に近づかなければならないと決めました\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12075;待て...あの人は私が考えている人物なのか?;;;;;;;;;;;;x
+EVTOPTC_RIP_12075_TT;マスクをした見知らぬ人物の霊魂的ものがあり、あなたはなぜかそれを知っています\n;;;;;;;;;;;;x
+EVTOPTD_RIP_12075;私にはわかる、お前の正体が……;;;;;;;;;;;;x
+EVTOPTD_RIP_12075_TT;その見知らぬ人物に超常性を感じ、胸中に恐れと混乱が湧き上がります。\n;;;;;;;;;;;;x
+EVTOPTE_RIP_12075;[bored_courtier_target.GetFirstName]、お前は全く力になってくれない！;;;;;;;;;;;;x
+EVTOPTE_RIP_12075_TT;あなたは暗い着こなしをした姿に自問してみます.\n;;;;;;;;;;;;x
+EVTDESC_RIP_12076;[partying_stranger.GetTitledName]は宮廷から姿を消したようだ。捜索を命じたが、マスクだけが発見された。そのマスクは酷く嫌なにおいがしたので、使用人がそれを燃やしてしまっても責めることはできなかった。;;;;;;;;;;;;x
+EVTOPTA_RIP_12076;[partying_stranger.GetSheHe]は一体誰だったのだろうか？;;;;;;;;;;;;x
+EVTOPTA_RIP_12076_TT;あなたはその疑問を解決することはできなかったが、一安心しました\n;;;;;;;;;;;;x
+EVTDESC_RIP_12077;私はその神秘的な[partying_stranger.GetManWoman]が普段から一人で立っているホールに歩み入った。ろうそくの灯でぼんやりと人影が浮かびあがる。「以前にお会いしたことが？」できるだけ警戒心のない笑顔で話しかける――私とて無為に[Root.GetTitle]の座を温めているだけではないのだ！[partying_stranger.GetManWoman]は答えない。臭いに気付き寒気を感じたのはその時であった。;;;;;;;;;;;;x
+EVTOPTA_RIP_12077;待て、あなたの肌に…腫れものが？;;;;;;;;;;;;x
+RIP_12077_TT_good_outcome;何か奇妙なことが起こります\n;;;;;;;;;;;;x
+RIP_12077_TT_bad_outcome;何か恐ろしいことが起こります\n;;;;;;;;;;;;x
+EVTDESC_RIP_12078;「お前は――！」真夜中近く、私は仮面の人物を指さして言った。[partying_stranger.GetManWoman]は部屋の真ん中に立っている。何者をも近づけないような、見えないオーラを放っているようだ。歩み寄って理解した――震え上がるのはその匂いのせいだ。[partying_stranger.GetManWoman]は沈黙を守っている。;;;;;;;;;;;;x
+EVTOPTA_RIP_12078;お前は誰だ……いや、何だ？;;;;;;;;;;;;x
+EVTOPTA_RIP_12078_TT;何か奇妙なことが起こります\n;;;;;;;;;;;;x
+EVTDESC_RIP_12079_A;その奇妙な人物は好奇心が強いように見え、私が近づくと面を食らっていた。[partying_stranger.GetSheHeCap]は頭を傾けて怪訝そうにした。 "死神、なのか？" 闇に身を包んだ[partying_stranger.GetHerHis]は、マスクの下の表情は読めないが肩をすくめた。 その後、[partying_stranger.GetSheHe]は私に突進し、廷臣達は恐怖に喘いでいった。;;;;;;;;;;;;x
+EVTDESC_RIP_12079_B;私が近づくとその奇妙な人物は頭を傾けた。私は[partying_stranger.GetHerHis]に安らかな笑顔を向けようとした"散歩はできるようですね"私は言う。私が手を上げると、戸惑いながらも闇に身を包んだ[partying_stranger.GetHerHim]はその手を取った。私の心臓は激しく打ちながらも彼を宮廷の外へ連れて行った。 [partying_stranger.GetHerHisCap]の手は氷のように冷たかった。;;;;;;;;;;;;x
+EVTDESC_RIP_12079_C;私が近づくとその奇妙な人物は頭を傾けた。「美しいマスクですね！」そう声をかけた。その言葉に反応するかのように、[partying_stranger.GetSheHe]は手を伸ばしてマスクを外す。顔があるはずの場所には、おぞましく黒い穴があるだけだった。;;;;;;;;;;;;x
+EVTOPTA_RIP_12079;だめだ、これはまずい。;;;;;;;;;;;;x
+EVTOPTB_RIP_12079;あなたは、えぇっと、普段この場所に来るのですか？;;;;;;;;;;;;x
+EVTOPTB_RIP_12079_TT;仮面の人物は沈黙を貫いている。\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12079;おぉ、夢で見たとおりの姿だな！;;;;;;;;;;;;x
+EVTOPTC_RIP_12079_TT;奇妙な仮面の人物は動かないままでいるが、あなたの反応に満足していないようです。\n;;;;;;;;;;;;x
+RIP_12080_TITLE;死の仮面;;;;;;;;;;;;x
+EVTDESC_RIP_12080_A;「危ない、わが[Root.GetLordLady]！」[bored_courtier_target.GetFirstName]は神秘的な雰囲気をまとった[partying_stranger.GetManWoman]があなたのもとに辿り着くとそう叫んだ。[partying_stranger.GetHerHis]の黒い生き物のような指があなたの胸の中へと伸びているように見え、たまらずあなたはその手に抵抗し、廷臣たちが恐怖であえいでいるばかりであった。鋭い痛みがあなたの体全体に稲妻のように走ると、後ろに頭から倒れ、悲鳴を上げた。いよいよ膝が崩れ落ちると、周りからは怒声や悲鳴、そして恐怖が混じりあった声が聞こえた。あなたの最期の一呼吸をすると同時に、宮廷の人々が床に崩れ落ち、また赤い光が部屋に溢れているのが見えた。\n\nそして静寂だけが残った。;;;;;;;;;;;;x
+EVTDESC_RIP_12080_B;「危ない、わが[Root.GetLordLady]！」[bored_courtier_target.GetFirstName]は神秘的な雰囲気をまとった[partying_stranger.GetManWoman]があなたのもとに辿り着くとそう叫んだ。[partying_stranger.GetHerHis]の黒い生き物のような指があなたの胸の中へと伸びているように見え、たまらずあなたはその手に抵抗し、廷臣たちが恐怖であえいでいるばかりであった。鋭い痛みがあなたの体全体に稲妻のように走ると、後ろに頭から倒れ、悲鳴を上げた。いよいよ膝が崩れ落ちると、周りからは怒声や悲鳴、そして恐怖が混じりあった声が聞こえた。あなたの最期の一呼吸をすると同時に、宮廷の人々が床に崩れ落ち、また赤い光が部屋に溢れているのが見えた。\n\nそして静寂だけが残った。;;;;;;;;;;;;x
+EVTDESC_RIP_12080_C;[partying_stranger.GetManWoman]が勢いよく胸に飛び込んできた。激しくぶつかることを覚悟していたあなたは驚きに声を上げる――[partying_stranger.GetSheHe]はあなたの肉体に冷たい感覚を残しただけで、そのまますり抜けていったのだ。その者は異様な速さで、幽霊のように廷臣や従者達の間を動き回り、周囲を混乱に陥れた。[partying_stranger.GetHerHim]の動いた後には黒い煙が微かに残っている。突然時計の鐘が大きく鳴り響き、悲鳴に混ざりあった。その残響が耳に残っているうちに、影のようなそれは再びあなたの砲へ向き直った。「[partying_stranger.GetHerHim]!を捕まえろ」叫んでも衛兵の耳には届かない。見ているうちに[partying_stranger.GetManWoman]の体が透けていく。気づいたときには、あなたはただ虚空を見つめていた。;;;;;;;;;;;;x
+EVTDESC_RIP_12080_D;[partying_stranger.GetHerHim]と並んで歩いていると、あなたは疑念を抱き始めた。死神が[partying_stranger.GetHerselfHimself]というなら本当に宮廷に現れるようなことをするだろうか？死神というは何もしないのか？いや、こいつは伝染病被害者を装ったスパイだ！それにしても、[partying_stranger.GetHerHis]から漂う臭いは、本当に不自然で嫌なものである... \nこうした思考の袋小路は、悲鳴により中断された - そのミステリアスな[partying_stranger.GetManWoman]があなたの計画を見破るのに時間はかからなかったのだ。[partying_stranger.GetHerselfHimself]が死神でなくとも、優れた感覚を持ち合わせていれば舞踏場のトラップドアの存在の推測は容易である。側で、あなたの肌に爪を突き刺している生物の存在に気付いた。やがてそれは黒い泡状のものとなった。あなたは叫んだ。;;;;;;;;;;;;x
+EVTDESC_RIP_12080_E;「そうだ、我々は以前会ったことがある。 確か茶を飲んだよな？」あなたはそう続けた。死神は頭を横に振った。[partying_stranger.GetHerHim]の周りから黒い煙が沸き出てきた。ショックにより沈黙を続けていた二人の廷臣達は、部屋の出口を見つけると必死な形相で身動きをし始めた。互いがぶつかりこけると、じっとりと死神が彼らに向かってが忍び寄っていった。[partying_stranger.GetSheHe]が通り過ぎると、彼らは悲鳴を上げる隙も助けを求める隙もなく静かに床に倒れた。「何をやった！」あなたは怒鳴った「彼らは私の客人だぞ！」すると[partying_stranger.GetSheHeCap]はあなたの方に向き直り、暗闇の霧の中素早くあなたに近づいていった。;;;;;;;;;;;;x
+EVTOPTA_RIP_12080;ぐおぉぉぉ…;;;;;;;;;;;;x
+EVTOPTA_RIP_12080_TT;死神は目的を果たし、宮廷を去ります。\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12080;ぐあぁぁぁぁ…;;;;;;;;;;;;x
+EVTOPTB_RIP_12080_TT;死神は目的を果たし、宮廷を去ります。\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12080;うわぁぁぁぁぁ！;;;;;;;;;;;;x
+EVTOPTC_RIP_12080_TT;死神は目的を果たし、宮廷を去ります。\n;;;;;;;;;;;;x
+EVTOPTD_RIP_12080;頼む、やめてくれ！！！私の人生はまだ始まったばかりなのだ！！！;;;;;;;;;;;;x
+EVTOPTD_RIP_12080_TT;死神を騙す計画は失敗に終わりました。あなたは死に、そして死神は宮廷を去りました。\n;;;;;;;;;;;;x
+EVTOPTE_RIP_12080;嫌だ、待ってくれ！！;;;;;;;;;;;;x
+EVTOPTE_RIP_12080_TT;あなたは死亡し、死神は宮廷を去ります。\n;;;;;;;;;;;;x
+RIP_12081_TITLE;死神を恐れることなかれ;;;;;;;;;;;;x
+EVTDESC_RIP_12081_A;「お気をつけてください、我が[Root.GetLordLady]よ！」[bored_courtier_target.GetFirstName]は、そのミステリアスな見知らぬ者があなたの元に辿り着くとそう叫んだ。あなたは[partying_stranger.GetHerHis]の進む方向からすぐによけ、それを見たあなたの廷臣達はほっとした。その怪物は慌てたようだが、またゆっくりとあなたの方に向かっていった。「これを受け取ってください！」衛兵が怒鳴りながら背の高い枝付きの燭台をあなたへ投げると、燭台のぼんやりとした光が輝き始めた。ほんの一瞬躊躇したが、あなたはそれを戦闘杖として戦うことを決意した。あなたは死神だとみなしたものへと激しく武器を振り回した。「ここから立去れ！」 あなたは声をあらげながら、[partying_stranger.GetHerHim]から群衆を離れさせた。それから突然黒煙が噴き出て、あなたは相手がいなくなったことに気付いた。部屋には静寂だけが残った。;;;;;;;;;;;;x
+EVTDESC_RIP_12081_B;「お気をつけてください、我が[Root.GetLordLady]よ！」[bored_courtier_target.GetFirstName]は、そのミステリアスな見知らぬ者があなたの元に辿り着くとそう叫んだ。あなたは[partying_stranger.GetHerHis]の進む方向からすぐによけ、それを見たあなたの廷臣達はほっとした。その怪物は慌てたようだが、またゆっくりとあなたの方に向かっていった。「これを受け取ってください！」衛兵が怒鳴りながら背の高い枝付きの燭台をあなたへ投げると、燭台のぼんやりとした光が輝き始めた。ほんの一瞬躊躇したが、あなたはそれを戦闘杖として戦うことを決意した。あなたは死神だとみなしたものへと激しく武器を振り回した。「ここから立去れ！」 あなたは声をあらげながら、[partying_stranger.GetHerHim]から群衆を離れさせた。それから突然黒煙が噴き出て、あなたは相手がいなくなったことに気付いた。部屋には静寂だけが残った。;;;;;;;;;;;;x
+EVTDESC_RIP_12081_C;死神に体を貫かれたという感覚はなんとも言いがたいものである。痛みが体を走り抜けるか、視界がぼやけるか、少なくとも膝が崩れ落ちることを予期して鋭く息を吸い込んだ。しかし何も起こらず、恐ろしい魔物である[partying_stranger.GetManWoman]は、手を空中にかざしたまま困惑しながら振り返った。\n「もしかして私には効かないのでは？」あなたは何か申し訳なさそうに呟いた。;;;;;;;;;;;;x
+EVTDESC_RIP_12081_D;そこ近づくにつれ、眉から汗がこぼれ落ちていった。舞踏場の落とし穴は――それと知っていればだが――もうはっきりと視認できる。「最近の天気は――」あなたは震えながらもしゃべり続けた。そばにいる仮面の人物が少しだけ立ち止まり深い息を吐く。冷たい空気が部屋を満たし、髪が逆立つような感じがした。[partying_stranger.GetSheHeCap]はうつろな声で答えた。「正直いってこんな仕事は雑用だよ。お前たちが戦争を起こして、殺し合ってくれた方が楽に――」\n壁のスイッチを押すや言葉はそこで途切れ、怪物は地下へと落ちていった。黒い煙がささやかに上がり、カーペットを落とし穴の上にかぶせると廷臣はあなたに拍手を送った。;;;;;;;;;;;;x
+EVTDESC_RIP_12081_E;「そういえば、我々は以前お会いしましたよね。食事の時でしたか」そうあなたは続けた。死神は頭を横に振ると、黒い煙が[partying_stranger.GetHerHim]から渦巻き沸き出て行った。驚木のあまりに口を閉ざしたあなたの廷臣達は、慌てて出口を探し始めた。 互いにぶつかりあっていると、死神が焦らずに彼らに忍び寄っていった。「止まれ！」あなたは叫んだ。「取引をしよう。何が望みだ？」廷臣たちの生命と引き換えに出した提示に目に見えない友人であるJarvisはゆっくりとうなずいた。そして不気味な笑い声をあげながら[partying_stranger.GetHerHis]は反り返ると、突然闇の気配が部屋から消えた。人々は畏怖の念を抱きながらあなたを見た。あなたはJarvisを見逃すが、これは夢の中で契約を交わしたからだ。彼は道理を分かっている。;;;;;;;;;;;;x
+EVTOPTA_RIP_12081;ぎりぎりだった。;;;;;;;;;;;;x
+EVTOPTA_RIP_12081_TT;死神はあなたの宮廷から去ります\n;;;;;;;;;;;;x
+EVTOPTB_RIP_12081;ぎりぎりであった。;;;;;;;;;;;;x
+EVTOPTB_RIP_12081_TT;死神はあなたの宮廷から去ります\n;;;;;;;;;;;;x
+EVTOPTC_RIP_12081;いや、私にもよくわからないんだ！;;;;;;;;;;;;x
+EVTOPTC_RIP_12081_TT;激怒しながら、死神はあなたの宮廷を去ります。;;;;;;;;;;;;x
+EVTOPTD_RIP_12081;この仕掛けを使う日が来るとは思わなかった。;;;;;;;;;;;;x
+EVTOPTD_RIP_12081_TT;見逃してもらえたかはわかりませんが、今のところ死神は宮廷を去ったようです。\n;;;;;;;;;;;;x
+EVTOPTE_RIP_12081;再び、相見える日まで;;;;;;;;;;;;x
+EVTOPTE_RIP_12081_TT;死神と契約を交わしたことで、[partying_stranger.GetSheHe]はあなたの宮廷から立ち去ります\n;;;;;;;;;;;;x
+shaddai;カナイ;;;;;;;;;;;;x
+shaddai_desc;カナイは熱心者または狂信的を示す言葉です。彼らはユダヤ人の信仰のために戦います。;;;;;;;;;;;;x
+gondi_shahansha;ゴンダイ大王;;;;;;;;;;;;x
+gondi_shahansha_desc;精鋭「大王の軍隊」から名を取ったゴンダイ大王の構成員は、ゾロアスター教屈指の戦士です。;;;;;;;;;;;;x
+IMMORTAL_RIVAL_COMING_TOOLTIP;なんと不気味な。;;;;;;;;;;;;x
+immortal_hunter_tooltip;あなたは、珍獣の偉大な狩人であり、調教師であり、自身もまたそうであると信じています。獣が腹を空かせている…;;;;;;;;;;;;x
+nick_the_loyal;忠僕なる;;;;;;;;;;;;x
+EVTDESC_TOG_7501_DONGO;ドンゴの道をたどるために敬虔に努力を積み重ねることにした。ドンゴの名の下に槍投げを練習し、指揮官と共に幕舎で何時間も戦略を練った。結果として軍事力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7502_BIDA;ビダの道をたどるために敬虔に努力を積み重ねることにした。市場と貿易ルートを調べるために、そしていくつかの商業探検に投資するために、ビダの名の下に国中を旅した。結果として管理技能が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7503_TSUMBURBURA;ツンバブラの道をたどるために敬虔に努力を積み重ねることにした。ツンバブラの名の下に旅の道すがらどこであっても、知識と純粋さを追求し、善行を積み、教えた。結果として学識能力が向上した。;;;;;;;;;;;;x
+EVTDESC_TOG_7506_TSUMBURBURA;早朝、ツンバブラを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_DONGO;よく晴れたある日、何人かと狩りに勤しむ。昼食を食べようと休憩中の、[From.GetTitledFirstName]を交えた弓術談義にて、ふと気づく。[From.GetSheHe]もまた、敬虔なドンゴ信徒であることに。話が弾むほどに相通じていく！;;;;;;;;;;;;x
+EVTDESC_TOG_7506_BIDA;Many find it odd that a [Root.GetTitle] barters at the market, but it makes you feel closer to Bida, more so than any prayer. [From.GetTitledFirstName] approaches you, and the two of you exchange some words about the state of trading in [Root.PrimaryTitle.GetName]. It turns out that [From.GetSheHe] is also a follower of Bida!;;;;;;;;;;;;x
+EVTDESC_TOG_7506_AYYUR;早朝、アイユールを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
+EVTDESC_TOG_7508_DONGO;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ドンゴの存在が恋人の人肌のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
+tsumburburas_blessing;Tsumburbura's Blessing;;;;;;;;;;;;x
+tsumburburas_blessing_desc;This character feels blessed by the Goddess Tsumburbura, which has improved their marriage.;;;;;;;;;;;;x
+EVTDESC_TOG_7510_TSUMBURBURA;Lately, you have striven to act in the spirit of Tsumburbura by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
+EVTDESC_TOG_7516_DONGO;ドンゴの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
+EVTDESC_TOG_7518_AYYUR;良きアイユールのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「アイユールの声」と呼ぶ人もいる。;;;;;;;;;;;;x
+voice_of_ayyur;アイユールの声;;;;;;;;;;;;x
+EVTDESC_TOG_7520_BIDA;努力が実を結び、[Root.Capital.GetName]は市場と商人の街として有名だ。都市はかつてないほど繁栄しており、毎日より多くの人々がビダの神殿に集まる。多くの人にビダの道をたどるように促した。;;;;;;;;;;;;x
+EVTDESC_TOG_7524_TSUMBURBURA;In your search for wisdom in the name of Tsumburbura, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_DONGO;私はドンゴを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_AYYUR;私はアイユールを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_BIDA;私はビダを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTOPTA_TOG_7526_TSUMBURBURA;私はツンバブラを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_DONGO;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ドンゴを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_AYYUR;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、アイユールを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_BIDA;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ビダを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x
+EVTDESC_TOG_7527_TSUMBURBURA;遂に記念碑が完成しました。それは、あなたの想像通りの、あるいは想像以上に素晴らしいものになりました。 その完成を祝うために、ツンバブラを讃える盛大な式典が開催されました！ 記念碑が[Root.Capital.GetName]を見守っている限り、その物語は語り継がれるでしょう。;;;;;;;;;;;;x

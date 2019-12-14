@@ -1,0 +1,60 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+NOT_IN_DYNASTY;$DYNASTY|Y$の一員ではない;;;;;;;;;;;;x
+IN_DYNASTY;$DYNASTY|Y$の一員である;;;;;;;;;;;;x
+REALM_SIZE_LESS;§Y$VAL$§W未満の領地数;;;;;;;;;;;;x
+REALM_SIZE_LEAST;最低でも§Y$VAL$§Wの領地数;;;;;;;;;;;;x
+tut_6a_6;目標としてはロスの西に位置するセール島がうってつけでしょう。国境を拡大するのに手頃ですし、召集軍の最大数もそれほどではありません。セール島をクリックしてください。;;;;;;;;;;;;x
+tut_6a_10;宰相を極秘の任務に送り出し、請求権を捏造させましょう。「請求権を捏造」ボタンをクリックした後、セール島をクリックして、宰相を現地に派遣してください。;;;;;;;;;;;;x
+tut_8b_8;十字軍結成のきっかけとなるのは、教皇がカソリック教会の名において、特定の土地を征服せよと呼びかけるときです。こうした命令を下すことができるのは、イスラム教徒や多神教徒にその土地が占領されている場合だけです。教皇の呼びかけによって十字軍戦争が始まると、教皇の外交インタラクションで「参戦の申し出」を選ぶことにより、十字軍に参加することができます。;;;;;;;;;;;;x
+tut_8b_9;十字軍が成功した場合、カトリック側で最大の功績を挙げた者（最大の戦勝点）が十字軍の勝者とみなされます。;;;;;;;;;;;;x
+tut_8b_10;十字軍に参加しその功績第一となったならば、十字軍対象地域において敵が持っていた全地域を得ることとなるでしょう。また威信と信仰点、十字軍戦士の特性も得ます。;;;;;;;;;;;;x
+tut_8b_11;十字軍に参加するも功績第一となれなかった場合土地を得ることはできませんが、信仰点と威信、十字軍戦士の特性を得ることはできます。このパートを終了するには次をクリックしてください。;;;;;;;;;;;;x
+tut_8b_4;カソリック教徒の統治者に仕える聖職者の家臣は、教皇よりもあなたを高く評価している場合にのみ兵力と金を提供してくれます。これを実現する早道は、あなたに好意を持っている人物を司祭に指名することです。では、「法律」タブをクリックして詳細を見てみましょう。;;;;;;;;;;;;x
+tut_7c_5;複数の陰謀や野心を同時に持つことはできません。陰謀の途中で別のキャラクターへの策謀を企てたくなった場合は、現在の陰謀を取り消す必要があります。;;;;;;;;;;;;x
+tut_7b_4;自分のポートレートの左には、「野心を選択」と書かれた小さな丸いボタンがあります。これをクリックすると、そのキャラクターの野心を設定することができます。野心の例としては、結婚する、富を築く、「名声」を1000にする等があります。野心を達成すると、報酬が与えられます。報酬は野心が達成困難であるほど、報酬は素晴らしいものになります。;;;;;;;;;;;;x
+tut_7c_4;野心については、策略チュートリアルの中級編で解説しました。陰謀もキャラクター・ポートレートから選べます。陰謀の対象となるキャラクターを選び、「陰謀を選択」ボタンをクリックしてください。ただし、誰に対して陰謀を企むと益になるかを知るのは簡単なことではないので、策略画面の陰謀セレクターを利用して役に立ちそうな陰謀を選ぶのが手軽で簡単です。「クリックして陰謀を選択」ボタンがそれです。;;;;;;;;;;;;x
+tut_7b_2;ここでは「野心」について解説します。プレイ可能な人物は、策謀を企てるだけでなく、野心を選ぶこともできます。人物の画像をクリックすると、詳しい解説が表示されます。;;;;;;;;;;;;x
+tut_5b_4;軍事タブでは２種類の徴兵があるのを見られます：自家徴兵と封臣による徴兵です。自家徴兵は貴方自身によってコントロールされるもので、封臣徴兵は封臣と、封臣の封臣によってコントロールされるものです。次をクリックしてください。;;;;;;;;;;;;x
+tut_1a_3;貴方はカトリックの当主としてゲームしているため、司教のような宗教指導者が保持している州は、彼ら司教の貴方への好感度が教皇より高い場合は税金を支払うでしょう。そうでなければ教皇へ支払われます。司教を除いた封臣は常に貴方に金を支払いますが、その多寡も好感度によります。;;;;;;;;;;;;x
+FAMILY_DUES_IRO;§Y$DYNASTY$§!氏の成人男性が宮廷に在籍しています：§Y$NUM$§! (各 §Y$GOLD$§!¤);;;;;;;;;;;;x
+FAMILY_DUES_DRO;貴族の一族の全成人男性廷臣は収入の分け前を要求します。その見返りとして、彼らは交易所上限を増加させます。;;;;;;;;;;;;x
+coastal_republic_desc;本人または家臣の都市貴族の交易所がある、あるいは相手が敵対する商業共和国であるという条件を満たしているので、§Y$CLAIMANT$§!は宣戦を布告して§Y$TITLE$§!沿岸部を占領できます。;;;;;;;;;;;;x
+coastal_county_republic_desc;すでに目標とする地の都市を支配しており、その州が有効範囲内にあることという条件も満たしているので、商業共和国として§Y$CLAIMANT$§!は宣戦を布告し、§Y$TITLE$§!の支配権を奪うことができます。;;;;;;;;;;;;x
+MAX_TRADE_POSTS;交易所制限: §Y$LIMIT$§!;;;;;;;;;;;;x
+MIN_TRADE_POSTS;交易所制限の最小数: §Y$NUM$§!;;;;;;;;;;;;x
+ADULT_FAMILY_IN_COURT;宮廷内の一族の成人男性: §Y+$VALUE$§!;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_0;休戦協定（§Y$DATE$§!終了）を破ると威信が§R$PRESTIGE$§!減少します。あなたは「§Y休戦破り§!」と見なされ、全ての§Y[Recipient.Religion.GetGroupName]§!信徒の統治者のあなたへの好感度が§R$OPINION$§!下がります。;;;;;;;;;;;;x
+IMPRISON_INTERACTION_1B;このオプションを使用することは専制的とみなされ、共和国に属する全員からの貴方への好感度が§R$OPINION$§!下がります。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2A;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2B;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2C;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2D;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2E;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2F;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2G;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_MARRIGE_INTERACTION_2H;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚姻を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2A;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2B;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2C;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2D;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2E;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2F;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2G;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_2H;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入りを提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2A;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2B;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2C;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2D;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2E;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2F;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2G;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_BETROTHAL_INTERACTION_2H;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2A;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2B;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2C;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2D;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$の縁者との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2E;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2F;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$の縁者として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2G;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_2H;§Y[ActorExtra.GetTitledFirstName]§Wと§Y[RecipientExtra.GetTitledFirstName]§Wの婿入り婚約を提案します。$MYPARTYTIER$として、§Y$MYPARTY$§Wとあなたは§Y[RecipientExtra.GetOnlyDynastyName]家§Wと親戚になることによって威信$PRESTIGE$を、$THEIRPARTYTIER$との婚姻によって威信$PRESTIGE2$を得ます。;;;;;;;;;;;;x

@@ -1,0 +1,37 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MODIFIER_COMBAT_RATING;個人的な戦闘能力;;;;;;;;;;;;x
+GOD_THE_CREATOR;創造主;;;;;;;;;;;;x
+GOD_BRAHMA;ブラフマー;;;;;;;;;;;;x
+GOD_SATURN;サターン;;;;;;;;;;;;x
+scholar_desc;この人物は本を熟読し、既知の世界の優れた精神に応じ、学者としての人生を送ります;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_3;小人、靴...いや! [target_spy_on.GetFirstName] は元気な山羊と浮気しています！;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap]は、11歳のかよわい友人を殺しました！;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap]にはBappoという想像上の友人がいます！;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap]は、[target_spy_on.Capital.Capital.GetName]の売春宿で売春婦としての秘密の生活を送ります！;;;;;;;;;;;;x
+EVTOPTB_WOL_2300;いいえ、私は[intrigue_spymaster.GetObjectPronoun]を信じることにする;;;;;;;;;;;;x
+EVTOPTB_WOL_2071;あは！今密偵を呼べますよ;;;;;;;;;;;;x
+EVTOPTF_WOL_2080;思うに、誰かしらをスパイする頃合いと思われます;;;;;;;;;;;;x
+EVTOPTC_WOL_2100;いや...誰かしらをスパイする頃合いかと思われます;;;;;;;;;;;;x
+EVTDESC_WOL_2065;運悪く[FromFromFrom.GetTitledFirstName]の調査は進展していない。そろそろ労力を他に向けるべきだろうか？;;;;;;;;;;;;x
+EVTOPTA_WOL_2065;そうだな、これは無意味だ。;;;;;;;;;;;;x
+EVTOPTB_WOL_2065;いや、[FromFromFrom.GetSubjectPronoun]には何かあるに違いない...;;;;;;;;;;;;x
+EVTDESC38313;苦難な人生はもはや圧倒的ではないようだ。もう §YStressed§! ではない!;;;;;;;;;;;;x
+EVTDESC38314;今朝はとても健やかに起きることが出来た。もう落ち込まない！;;;;;;;;;;;;x
+PICK_FOCUS_DESC;§Y$YEARS$§! 年間Focusを変更できません！;;;;;;;;;;;;x
+CANNOT_CANCEL;§Rキャンセルできません§!;;;;;;;;;;;;x
+CANNOT_CANCEL_UNTIL;§R§Y$DATE$§!§Rまで変更できません§!;;;;;;;;;;;;x
+FV_CHOOSE_FOCUS;方針を選択する;;;;;;;;;;;;x
+CANNOT_CHANGE_FOCUS_UNTIL;§R§Y$DATE$§!まで方針の変更はできません§R.§!;;;;;;;;;;;;x
+EVTDESC_WOL_3052;我が [GetFromFromRelation], [FromFrom.GetTitledFirstNameNoRegnal]が私に [FromFrom.Capital.Capital.GetName]での一族の上質な時を過ごすよう訪ねてきました. [From.GetTitledName]と親密になるいい機会だと思いますが...;;;;;;;;;;;;x
+opinion_dishonest_duel;不正な決闘;;;;;;;;;;;;x
+magnificent_maze;壮大な迷路;;;;;;;;;;;;x
+desc_magnificent_maze;この人物の美しい庭園迷路はその美をもって領地中に知られています。;;;;;;;;;;;;x
+duel_title;決闘;;;;;;;;;;;;x
+EVTOPTG_WOL_10221;[stonemason.GetSheHeCap]は今ここにいません。 [stonemason.GetSheHeCap]はより重要な問題を扱うようになりました。;;;;;;;;;;;;x
+opinion_fought_duel;決闘を行った;;;;;;;;;;;;x
+dishonest_duel_tooltip;これは不誠実と見なされ、人々はこの行為について動揺するかもしれません。;;;;;;;;;;;;x
+EVTOPTB_WOL_11110;いや、友人とは戦いたくない。;;;;;;;;;;;;x
+is_not_ascetic;修道者ではない\n;;;;;;;;;;;;x
+wol_duel_training;決闘への鍛錬;;;;;;;;;;;;x
+desc_wol_duel_training;この人物は最近、決闘の技術を訓練しています。;;;;;;;;;;;;x

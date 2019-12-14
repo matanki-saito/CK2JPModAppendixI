@@ -1,0 +1,65 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+seize_trade_post_desc;都市貴族として、§Y$CLAIMANT$§!は§Y$TARGET$§!に§Y$TITLE$§!を懸けて宣戦を布告できます。ただしこの大義名分は、同じ共和国に属する弱小な都市貴族に対しては無効です。;;;;;;;;;;;;x
+opinion_rival_republic;ライバル共和国;;;;;;;;;;;;x
+EVTDESC_REP_070;あなたの交易所のひとつを運営していた商人たちが、あなたの王朝から離反した！　彼らは今、儲けられる可能性がより高いとして、新興のハンザ同盟に属する都市貴族に仕えている。;;;;;;;;;;;;x
+EVTOPTA_REP_070;恩知らずめ！;;;;;;;;;;;;x
+PATRICIAN_DEMESNE_BONUS;都市貴族;;;;;;;;;;;;x
+CANT_BUILD_TRADEPOST_OTHERREP;他の商業共和国に所有されていない;;;;;;;;;;;;x
+opinion_royal_marriage;婚姻関係;;;;;;;;;;;;x
+AIREASON_REPUBLICS_REFUSE_REVOKE;商業共和国は称号をあきらめていない;;;;;;;;;;;;x
+INTERACTION_CAN_AFFORD_THE_COST;$COST$¤を賄う余裕がある;;;;;;;;;;;;x
+INTERACTION_RECIPIENT_NOT_EMBARGOING;§Y[Recipient.GetTitledFirstName]§!はまだ§Y[ThirdPartyCharacter.GetTitledFirstName]§!に出入港禁止を命じていない;;;;;;;;;;;;x
+INTERACTION_RECIPIENT_NOT_TRUCE;§Y[Recipient.GetTitledFirstName]§!は§Y[ThirdPartyCharacter.GetTitledFirstName]§!と休戦協定を結んでいない;;;;;;;;;;;;x
+INTERACTION_ACTOR_NOT_TRUCE;§Y[Actor.GetTitledFirstName]§!は§Y[ThirdPartyCharacter.GetTitledFirstName]§!と休戦協定を結んでいない;;;;;;;;;;;;x
+AIREASON_PRIMARY_IN_WARS;戦争主導者として戦争中;;;;;;;;;;;;x
+AIREASON_MINOR_IN_WARS;同盟国の戦争に参戦中;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_TITLE;禁輸戦争の要請;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_DESC;§Y[Recipient.GetBestName]§Wにライバル商業共和国に対する禁輸戦争を宣言するように要求します。;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_LONG_DESC;統治者に交易封鎖を実施させることにより、敵対する商業共和国を弱体化させ、沿岸諸国の門戸をあなたの交易所に対して開かせることができます。物を言うのは金です。ただし戦争に負けた場合は、§Yyou§! 賠償をすることになります。;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_0;禁輸するライバル商業共和国を選択してください。;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_1;§Y[Recipient.GetTitledFirstName]§!に§Y[ThirdPartyCharacter.GetTitledFirstName]§!と§Y[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]§!に対して禁輸戦争を布告させます。取引をうまく運ぶために§Y$GOLD$§!¤を提供します。§R戦争に負けた時の賠償金は、自分が支払う事になります。§!;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_SETUP;禁輸要求を承諾;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§!と§Y[Actor.GetTitledName]§!は§Y[ThirdPartyCharacter.GetDynName]§!に対して共同禁輸戦争を宣言した;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_OFFER;[Actor.GetTitledName]が$COST$¤を手土産にして､[ThirdPartyCharacter.GetTitledFirstName]と[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]に対する交易封鎖を提案してきた。;;;;;;;;;;;;x
+ASK_TO_EMBARGO_INTERACTION_LETTER;狡猾な[ThirdPartyCharacter.PrimaryTitle.GetAdjective]の商人たちが貴殿の土地にいるのは許されることではない。貴殿が[ThirdPartyCharacter.GetTitledName]に対する交易封鎖戦争に同意してくれるなら、貴殿の側に立って参戦するのはもちろんのことして、他に贈り物として$COST$¤､を差し上げよう。なお、万が一敗北した場合は、[Actor.PrimaryTitle.GetName]が賠償を担当するものとしたい。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_TARGET_IS_MERCHANT_REPUBLIC;§Y[ThirdPartyCharacter.PrimaryTitle.GetName]§!は商業共和国である;;;;;;;;;;;;x
+ANY_ATTACKER_STARTS;攻め手;;;;;;;;;;;;x
+ANY_DEFENDER_STARTS;守り手;;;;;;;;;;;;x
+EVTDESC295;慎重に検討した結果、貴殿の提案を受け入れることを決定した。力を合せ、[Root.PrimaryTitle.GetAdjective]の商人どもを[From.PrimaryTitle.GetName]から一掃しようではないか！\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC296;正直、貴殿の[Root.PrimaryTitle.GetName]に対する交易封鎖の提案は、検討にすら値せぬ。どちらも強欲な共和国であるなら、なぜ一方に肩入れしなければならないのだ？\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
+CONQUEROR_HOME_CULTURE;文化的絆;;;;;;;;;;;;x
+AIREASON_SUPPORT_FOR_CONQUEROR;征服者に対する本国の支援;;;;;;;;;;;;x
+k_hansa;ハンザ;;;;;;;;;;;;x
+k_hansa_adj;ハンザ同盟;;;;;;;;;;;;x
+called_into_war;参戦要請;;;;;;;;;;;;x
+city_kingdom_of_german;都市同盟;;;;;;;;;;;;x
+city_kingdom_german;都市同盟;;;;;;;;;;;;x
+opinion_bribed_tp;交易所の買収;;;;;;;;;;;;x
+opinion_thwarted_tp_destruction;交易所の破壊を阻止した;;;;;;;;;;;;x
+TRADEPOST_COST_OP_EFFECT;§Y$LIEGE$§!のこちらに対する評価: $EFFECT$;;;;;;;;;;;;x
+EVTDESC_REP_601;[From.GetName]の交易所は活況を呈しているが、そこを運営している商家との関係は最悪の状態だ。戦争に発展させることなく彼らに教訓を与えるには、群衆を扇動して火を放つのも一手かもしれない…;;;;;;;;;;;;x
+EVTOPTA_REP_601;それだ！ 人を集めろ！;;;;;;;;;;;;x
+EVTOPTB_REP_601;いや、収拾がつかなくなりかねん…;;;;;;;;;;;;x
+tp_spare;交易所に手を出すのはやめることにした。;;;;;;;;;;;;x
+EVTTOOLTIP_REP_602;怒り狂う群衆が、交易所を目指して進んでいる。;;;;;;;;;;;;x
+EVTDESC_REP_602;あなたと[From.GetTitledName]の関係は良好とは言い難かったが、どうやら[From.GetSheHe]は不満を募らせていた群衆を焚きつけ、[FromFrom.GetName]に在るあなたの交易所を焼き打ちさせることにしたらしい！　守備隊もいるが、数が少なすぎる。今や暴徒たちは彼らを取り囲み、あなたが[FromFrom.GetName]から手を引かなければ全員を血祭りにあげると息巻いている。;;;;;;;;;;;;x
+EVTOPTA_REP_602;選択の余地はない。交易所をたたもう。;;;;;;;;;;;;x
+EVTOPTB_REP_602;[From.GetFirstName]に賄賂を贈ろう。;;;;;;;;;;;;x
+EVTOPTC_REP_602;あの交易所がどれほどの富を[FromFrom.GetName]にもたらしているかを指摘してやろう。;;;;;;;;;;;;x
+EVTOPTD_REP_602;巧みな話術で群衆を解散させよう。;;;;;;;;;;;;x
+EVTDESC_REP_603;あなたの狙いどおり暴徒たちは交易所を襲って火を放ち、建物を全焼させた！;;;;;;;;;;;;x
+EVTOPTA_REP_603;すべて思い描いていたとおりだ。;;;;;;;;;;;;x
+EVTTOOLTIP_REP_604;賄賂を贈った。;;;;;;;;;;;;x
+EVTDESC_REP_604;[FromFrom.GetTitledName]の使者が多額の賄賂を携えてやって来た。[From.GetName]にある[FromFrom.GetHerHis]の交易所の安全が確保されるよう、あなたに影響力を行使してほしいらしい。;;;;;;;;;;;;x
+EVTOPTA_REP_604;よかろう。群衆を解散させようではないか。;;;;;;;;;;;;x
+EVTOPTB_REP_604;ハ！ 金と交易所をどちらも失うことになるとは、愚かなことだ！;;;;;;;;;;;;x
+EVTTOOLTIP_REP_605;群衆は解散した。;;;;;;;;;;;;x
+EVTDESC_REP_605;[From.GetTitledName]の人心掌握術は見事と言う他ない。[From.GetSheHe]はこの交易所を通じて州に流れ込んでいる富について語り、暴徒をすっかり丸め込んでしまったのだ。こうして群衆は解散し、交易所は焼き打ちを免れたのだった。;;;;;;;;;;;;x
+EVTOPTA_REP_605;やれやれ。どうなることかと思った…;;;;;;;;;;;;x
+EVTDESC_REP_606;[From.GetTitledName]は巧みな話術で暴徒を引き下がらせた！ こうして群衆は解散し、交易所は焼き打ちを免れたのだった。;;;;;;;;;;;;x
+EVTTOOLTIP_REP_607;交易所が破壊された。;;;;;;;;;;;;x
+EVTDESC_REP_607;破廉恥にも[From.GetTitledFirstName]は、あなたが贈った賄賂を受け取ったにも関わらず、交易所を守るための手を何も打たなかった。その結果、守備隊は暴徒に襲われることになった。命からがら[Root.MercRepCapital.GetName]に逃げ帰ることができたごくわずかな生存者が語る惨劇の様子は、聞く者を青ざめさせるに十分なものだった。;;;;;;;;;;;;x
+EVTOPTA_REP_607;野蛮人！ くず！ 未開人！;;;;;;;;;;;;x
+opinion_burned_tp;焼き討ちされた交易所;;;;;;;;;;;;x
+opinion_burned_tp_despite_bribe;賄賂を贈ったにも関わらず焼き討ちされた交易所;;;;;;;;;;;;x

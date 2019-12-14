@@ -1,0 +1,49 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+RCLK_TO_SELECT;§G右クリックして選択§!;;;;;;;;;;;;x
+vassal_sacrifice_decision;生贄;;;;;;;;;;;;x
+vassal_sacrifice_decision_named;[Root.GetFirstName]を生贄に捧げる;;;;;;;;;;;;x
+break_up_with_lover_named;[Root.GetFirstName]と別れる;;;;;;;;;;;;x
+seduce_decision_named;[Root.GetFirstName]を誘惑する;;;;;;;;;;;;x
+decision_spy_on_named;[Root.GetFirstName]を調査する;;;;;;;;;;;;x
+decision_break_free_named;[Root.GetFirstName]を脱獄させる;;;;;;;;;;;;x
+invite_to_party_named;[Root.GetFirstName]を大酒盛りに誘う;;;;;;;;;;;;x
+duel_decision_named;[Root.GetFirstName]と決闘する;;;;;;;;;;;;x
+legitimize_bastard;正当化;;;;;;;;;;;;x
+legitimize_bastard_named;[Root.GetTitledFirstName]を嫡出子とする;;;;;;;;;;;;x
+convince_to_straighten_up_named;[Root.GetTitledFirstName]を正道に戻すよう説得する;;;;;;;;;;;;x
+send_child_into_hiding;雲隠れ;;;;;;;;;;;;x
+send_child_into_hiding_named;[Root.GetFirstName]を雲隠れさせる;;;;;;;;;;;;x
+take_child_out_of_hiding;雲隠れを終える;;;;;;;;;;;;x
+take_child_out_of_hiding_named;[Root.GetFirstName]の雲隠れを終える;;;;;;;;;;;;x
+send_spouse_into_hiding;雲隠れ;;;;;;;;;;;;x
+send_spouse_into_hiding_named;[Root.GetFirstName]を雲隠れさせる;;;;;;;;;;;;x
+take_spouse_out_of_hiding;雲隠れを終える;;;;;;;;;;;;x
+take_spouse_out_of_hiding_named;[Root.GetFirstName]の雲隠れを終える;;;;;;;;;;;;x
+EVENT_SPAWNED;イベントによる増加;;;;;;;;;;;;x
+known_sodomite_pagan;女々しい男の愛人;;;;;;;;;;;;x
+comfort_of_lover;愛人によって慰められる;;;;;;;;;;;;x
+desc_comfort_of_lover;[GetFirstName]は[GetPossPronoun]の愛人の腕の中での動乱の結婚からの慰めを見つけました。;;;;;;;;;;;;x
+thrill_of_lover;不倫のスリル;;;;;;;;;;;;x
+opinion_dishonorable_duel;不名誉な決闘;;;;;;;;;;;;x
+desc_thrill_of_lover;[GetFirstName]は、[GetPossPronoun]の愛人とスリリングな関係でによって動乱の結婚からの退路を見つけました;;;;;;;;;;;;x
+CIW_GOTOLOCATION_DEL;マップ上のキャラクターの位置にズーム;;;;;;;;;;;;x
+CIW_GOTOCHARREL_DEL;このキャラクターの他の評価を探る;;;;;;;;;;;;x
+CAN_CALL_VASSALS_TO_WAR;我々の全封臣;;;;;;;;;;;;x
+IS_NOT_A_FOE_OF;の敵ではない;;;;;;;;;;;;x
+IS_A_FOE_OF;の敵である;;;;;;;;;;;;x
+nick_the_scholar;学者;;;;;;;;;;;;x
+nick_the_strange;変人;;;;;;;;;;;;x
+nick_the_black;黒き;;;;;;;;;;;;x
+WayOfLifeDLC;『Way of Life』;;;;;;;;;;;;x
+IberianUnitPackDLC;『Iberian Unit Pack』;;;;;;;;;;;;x
+IberianPortraitsDLC;『Iberian Portraits』;;;;;;;;;;;;x
+tut_0a_7b;人物の画像を右クリックして、外交メニューを開くこともできます。;;;;;;;;;;;;x
+tut_4a_4;開始するには、あなたの兄弟、Earl Malmure of Atholl を右クリックしてください。あなたは、家族タブの左下、ヘッダーの「兄弟」の下に彼がいます。 （ここで見るポートレートは実際の伯爵ではなく、単なる例です）。;;;;;;;;;;;;x
+tut_4a_5;左に、可能な外交行動のリストがあります。 右には、外交的選択肢を調整し、決定したらどのような効果が出るかを見ることができます。次へをクリックして続行します。;;;;;;;;;;;;x
+tut_6a_12;今は実際に戦争を宣言する時です。 Seroyarをもう一度クリックしてください。ポートレートを右クリックして外交メニューを開きます。;;;;;;;;;;;;x
+tut_4c_9;誰があなたのために最善の選択であるか注意深く考慮し、一族と彼女のランクは結婚に入るときにあなたの威信の利得や損失のために重要であることに留意してください。 決定すれば 彼女のポートレートをクリックして続けましょう。;;;;;;;;;;;;x
+ca_culture_moors_2;ムーア騎兵兵舎;;;;;;;;;;;;x
+ca_culture_moors_3;ムーア騎兵兵舎;;;;;;;;;;;;x
+ca_culture_moors_4;ムーア騎兵兵舎;;;;;;;;;;;;x
+TRIBAL_TAX_MODIFIER;部族税;;;;;;;;;;;;x

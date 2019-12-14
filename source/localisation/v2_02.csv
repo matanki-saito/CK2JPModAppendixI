@@ -1,0 +1,63 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+INTERACTION_RELIGION_MUST_MARRY_REGULARLY;$RELIGION$キャラクターは女系結婚ができません;;;;;;;;;;;;x
+INTERACTION_CANNOT_GRANT_CAPITAL_IF_MOVED;遷都しない限りその州を授与することはできない;;;;;;;;;;;;x
+INTERACTION_REVOKE_BEFORE_DATE;§Y$DATE$§!まで称号を剥奪することはできない;;;;;;;;;;;;x
+AIREASON_FIGHTING_FOR_THE_CHURCH;教会のために戦っている;;;;;;;;;;;;x
+IS_NOT_MATRI_MARRIED;母系結婚ではない;;;;;;;;;;;;x
+IS_MATRI_MARRIED;母系結婚である;;;;;;;;;;;;x
+IS_RECENT_GRANT;最近領地称号を授与された;;;;;;;;;;;;x
+IS_NOT_RECENT_GRANT;最近領地称号を授与されていない;;;;;;;;;;;;x
+AIREASON_AI_FLAG_REFUSE_CONVERSION;揺るぎ無い信者;;;;;;;;;;;;x
+INTERACTION_GRANT_THEOCRACY_LIMITS;神権制に複数の公爵領や王国を与える事はできない;;;;;;;;;;;;x
+deposed_antipope;対立教皇の失脚;;;;;;;;;;;;x
+opinion_deposed_antipope;対立教皇の失脚;;;;;;;;;;;;x
+depose_antipope_desc;この開戦事由は他の領地にいる対立教皇を失脚させるために使うことができます。;;;;;;;;;;;;x
+CB_NAME_DEPOSE_ANTIPOPE;対立教皇の解任;;;;;;;;;;;;x
+WAR_NAME_DEPOSE_ANTIPOPE;$FIRST_ADJ$対$SECOND_ADJ$対立教皇戦争;;;;;;;;;;;;x
+CB_NAME_INSTALL_ANTIKING;対立王を擁立;;;;;;;;;;;;x
+WAR_NAME_INSTALL_ANTIKING;$FIRST_ADJ$対$SECOND_ADJ$対立王戦争;;;;;;;;;;;;x
+ANTIPOPE_RECENTLY_DEPOSED;§R対立教皇は最近、強制的に解任された§!;;;;;;;;;;;;x
+ANTIPOPE_CREATION_WRONG_RELIGION;§R$RELIGION$ではない§!;;;;;;;;;;;;x
+faction_antiking_short;対立王[From.GetFirstName];;;;;;;;;;;;x
+faction_antiking_title;[This.GetName]の対立王[From.GetFirstName];;;;;;;;;;;;x
+faction_antiking_desc;この派閥は§Y[From.GetBestName]§!を擁立して対立教皇の解任し、叙任権を教皇に渡すことで、[This.GetName]の教皇の権威を回復しようとしています。;;;;;;;;;;;;x
+faction_antiking_ultimatum;玉座を要求;;;;;;;;;;;;x
+faction_antiking_ultimatum_desc;§Y[Root.Liege.GetBestName]§!に最後通牒を送り、玉座、対立教皇の解任、教皇による聖職叙任を要求します。[Root.Liege.GetSubjectPronoun]が要求を拒めば、派閥は反乱軍へと変貌します。;;;;;;;;;;;;x
+EVTDESC8200;Your shameful backing of a false Pope must end now. The Holy Father has agreed that the throne of [Root.PrimaryTitle.GetName] should pass to me so that the realm can be brought back into the true [From.Religion.GetName] fold. Submit to this demand peacefully or face the consequences. The righteous stand behind me!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC8201;内戦でこの国がずたずたにされることを恐れた[From.GetTitledName]は王位を私に譲ることに同意しました。今回の一件における貴殿の貴重な支援は、決して忘れぬ。\n\n衷心より、\n[FromFrom.GetTitledName];;;;;;;;;;;;x
+EVTDESC8202;教皇公認の対立王派閥から圧力をかけられ、[From.GetTitledName]は王位を放棄することに合意した。;;;;;;;;;;;;x
+EVTDESC8203;内戦でこの国がずたずたにされるのは耐えられぬ。そうなるくらいなら貴様の要求を飲んで譲位することを選ぼう。だが、この脅迫という裏切り行為を決して忘れることは無いからな…\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+REL_HEAD_ALLY_CB;宗教指導者戦争同盟;;;;;;;;;;;;x
+ANTIPOPE_CREATOR_MUST_BE_INDEPENDENT;§R対立教皇を擁立するには独立していなければならない§!;;;;;;;;;;;;x
+RETTYPE_CUL_JEWISH;バル・コクバ近衛兵;;;;;;;;;;;;x
+narrow_flank_leader;戦場選びの達人;;;;;;;;;;;;x
+narrow_flank_leader_desc;この人物は防御戦のための完璧な地形を発見する技術を習得しました。;;;;;;;;;;;;x
+NARROW_FLANK;狭い側面部;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_COUNTIES;伯爵位を簒奪することはできません！;;;;;;;;;;;;x
+EVTOPTC65155;いつの間にかこんなざまになってしまった。もうステーキはやめよう。;;;;;;;;;;;;x
+EVTDESC_SoA_561;領地は、ユダヤ人の[Root.GetMyChancellorName]である[From.GetTitledName]が海外で育成したという膨大な諜報網の恩恵を受けている。 どうにかして[From.GetSheHe]は常に新しい習慣や最新の外交的動向を管理している。;;;;;;;;;;;;x
+EVTOPTA_SoA_561;素晴らしい仕事だ。;;;;;;;;;;;;x
+EVTDESC_SoA_563;[From.GetTitledName], your [Root.GetMyTreasurerName], has several contacts among the Radhanites. This Jewish merchant network supposedly stretches across the entirety of the known world, from Western Europe all the way to distant Cathay, and these contacts have been a great boon to the development of the realm's economy.;;;;;;;;;;;;x
+EVTDESC_SoA_565;[Root.GetMySpymasterName]、[From.GetTitledName]には、ヨーロッパのユダヤ人共同体の中に友人や情報提供者がいる。 伝書鳩が、毎日、居住地に到着し、新しい武器や戦術について、海外からの重要な情報を運んでいる。;;;;;;;;;;;;x
+LOADING_TIP_53;ユダヤ人を評議員にすると技術進歩に有利な場合があります。;;;;;;;;;;;;x
+AIREASON_EXISTING_BETROTHAL;婚約を尊重する;;;;;;;;;;;;x
+cathar_DESC;The Cathar, or Albigensian, heresy rejects confession and the holiness of the clergy and of the Pope. They only have a single sacrament - the Consolation - to remove sin and turn the believer into a Cathar 'Perfect'.;;;;;;;;;;;;x
+fraticelli_DESC;フラティチェリ「小さな兄弟 」は、フランシスコ修道会に由来するカトリック異端である。それは貧困と禁欲に捧げられる-特に布の男たちのために。フラティチェリの異端者は教会の富と富の誇示に激しく反対している。;;;;;;;;;;;;x
+bogomilist_DESC;ボゴミル派はもともとグノーシス主義の要素を持つ正教会の異端であり、教会の階層制組織を完全に否定し、初期キリスト教への回帰を説いています。世界は悪の創造主、つまりサタンによって創造されたと信じています。;;;;;;;;;;;;x
+iconoclast_DESC;異端の一種の聖像破壊派は、数度にわたりビザンツ帝国を悩ませました。 聖像破壊派は、宗教的な絵画、特に聖人像のイコンや描写は偶像崇拝の一種であり、許されてはならないと信じています。 彼らの全盛期には、聖像破壊派は無数のそのような装飾や偶像を破壊しました。時には聖像破壊派の皇帝が促していたことさえありました。;;;;;;;;;;;;x
+yazidi_DESC;ヤジーディーは正確にはスンニ派と異なる宗教ですが、ゲーム内ではスンニ派の異端として扱われます。ヤジーディー教徒は神が世界を創造し、7人の天使を遣わしたと信じています。その天使たちの長は孔雀天使マラク・ターウース、別名シャイターンであり、通常、キリスト教とイスラム教ではサタンと同一視されています。;;;;;;;;;;;;x
+ibadi_DESC;イバード派はシーア派とスンニ派と大きく異なります。イバード派は地獄に落ちた魂は、永遠に地獄に留まると信じられています。またイスラム教徒が審判の日にアッラーと対面するという教義を否定しています。;;;;;;;;;;;;x
+hurufi_DESC;フルフィ派はカバラに似た神秘主義のイスラム教スーフィズム宗派であり、異端と見なされています。;;;;;;;;;;;;x
+karaite_DESC;Karaite Judaism is a Jewish movement characterized by the recognition of the Tanakh alone as its supreme legal authority in Jewish religious law and theology. In this it is distinct from mainstream Rabbinic Judaism. Karaites maintain that all of the divine commandments handed down to Moses by God were recorded in the written Torah, without additional Oral Law or explanation. In-game, Karaite Judaism is a heresy of mainstream Judaism. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;x
+samaritan_DESC;サマリア教はユダヤ教と似たアラブ地域の宗教です。サマリア教徒は、彼らの信仰こそがバビロン捕囚以前の古代イスラエルの本来の宗教であり、自分たちはイスラエルの地に残ってそれを守り続けてきたこと。そしてユダヤ教は自分たちの信仰と似た部分はあるものの、歪められてしまった宗教であることを強く主張しています。このゲームではサマリア教はユダヤ教の異端として扱われますが、宗教的主導者も固有の機能も有していません。;;;;;;;;;;;;x
+title_fraticelli_cardinal;枢機卿;;;;;;;;;;;;x
+expected_next_title_fraticelli_cardinal;次期枢機卿;;;;;;;;;;;;x
+expected_next_title_fraticelli_cardinal_tooltip;この司祭は枢機卿の地位が空いたときに加入する次期枢機卿です。;;;;;;;;;;;;x
+best_candidate_title_fraticelli_cardinal;自領内の枢機卿候補;;;;;;;;;;;;x
+best_candidate_title_fraticelli_cardinal_tooltip;自分の領国内の司祭のうち、教皇によって枢機卿に叙任される可能性が最も高い人物です。;;;;;;;;;;;;x
+EVTOPTJ96501;防御的な地形を使いこなす事に集中します。;;;;;;;;;;;;x
+EVTOPTK96501;包囲戦術に集中します。;;;;;;;;;;;;x
+create_ibadi_caliphate;イバード派カリフを擁立;;;;;;;;;;;;x
+create_ibadi_caliphate_desc;Create the Ibadi Caliphate and assume your position as spiritual leader of all true Ibadi Muslims.;;;;;;;;;;;;x
+UNSUPPORTED_VERSION;§R支持されていない§!;;;;;;;;;;;;x

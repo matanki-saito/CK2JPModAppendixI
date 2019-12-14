@@ -1,0 +1,64 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC_RoI_10011;私の[GetFromRelation]である[From.GetFirstName], [From.Reincarnation.GetTitledFirstName]は、まるで生まれ変わったかのように人が変わり、今では[From.GetPossPronoun]の体現者のような人物となった！[From.Reincarnation.GetFirstName]の人格によって、[From.GetFirstName]が別人のようになったのは明らかだ...;;;;;;;;;;;;x
+form_the_hre;神聖ローマ帝国の設立;;;;;;;;;;;;x
+form_the_hre_desc;カール大帝に匹敵する領地をもって、私は彼の真の後継者として認知され、帝国を変化させ、[Root.RelHead.GetBestName]は私を新たな西ローマ帝国皇帝として戴冠させる。;;;;;;;;;;;;x
+buddhist_DESC;仏教は仏陀であるガウタマ・シッダッタによって紀元前5世紀のインド北部で開かれました。この宗教はインド内で1500年以上も隆盛し、巨大な図書館や憎院が作られましたが、ムスリムの侵攻やバラモン教のカースト制度によってインドから駆逐されました。ゲーム内では仏教徒は学識に対して大きなボーナスが付き、技術をより早く研究することができるでしょう。;;;;;;;;;;;;x
+jain_DESC;ジャイナ教は非常に古い宗教であり、インドの禁欲的な沙門の伝統に由来し、聖職者であるバラモン階級とカースト制度に反対しています。ジャイナ教の基本理念は非暴力「アヒムサ」であり、他の宗教よりも根本的に解釈されます。ゲームでは、ジャイナ教徒は攻撃戦争を遂行するのに苦労しますが、この注目すべき寛容さはジャイナ教徒の領主が誰からも好かれることを意味します。;;;;;;;;;;;;x
+IndiaDLC;『Rajas of India』;;;;;;;;;;;;x
+TurkishUnitPackDLC;『Turkish Unit Pack』;;;;;;;;;;;;x
+TurkishPortraitDLC;『Turkish Portraits』;;;;;;;;;;;;x
+SongsOfIndiaDLC;『Songs of India』;;;;;;;;;;;;x
+THREAT;脅威;;;;;;;;;;;;x
+THREAT_FACTION_LEADER;派閥の指導者：§Y$FACTION$§!;;;;;;;;;;;;x
+THREAT_FACTION_MEMBER;派閥の構成員：§Y$FACTION$§!;;;;;;;;;;;;x
+THREAT_ADVENTURER;私への冒険の準備中;;;;;;;;;;;;x
+THREAT_PREPARING_INVASION;私への侵攻の準備中;;;;;;;;;;;;x
+alert_adventurer_threat_instant;§Y冒険者の脅威§!;;;;;;;;;;;;x
+alert_adventurer_threat_delayed;以下の冒険者は私を標的にしている：\n$LIST$;;;;;;;;;;;;x
+alert_adventurer_threat_name;冒険者は私を標的にしている;;;;;;;;;;;;x
+opinion_targeted_by_adventurer;侵略対象;;;;;;;;;;;;x
+opinion_revoked_honorary_title;私の名誉称号を剥奪した;;;;;;;;;;;;x
+holding_grand_hunt;大狩猟大会;;;;;;;;;;;;x
+TITLE_NOT_REVOKEABLE;剥奪できない;;;;;;;;;;;;x
+MODIFIER_VASSAL_OPINION;封臣の評価;;;;;;;;;;;;x
+MODIFIER_LIEGE_OPINION;主君の評価;;;;;;;;;;;;x
+MODIFIER_SEX_APPEAL_OPINION;性的魅力;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_TITLE;名誉称号を剥奪;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_DESC;この人物に以前、授与した名誉称号を剥奪する;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_LONG_DESC;この人物に授与した名誉称号を剥奪し、その称号からの威信と収入を奪います。;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§Wから剥奪する名誉称号を選択します。;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_SETUP;名誉称号の剝奪;;;;;;;;;;;;x
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは§Y[Recipient.GetBestName]§Wから§Y[ThirdPartyTitle.GetFullName]§Wの称号を剥奪した;;;;;;;;;;;;x
+CANNOT_BUY_RET_TEMP_TITLE;\nこの常備軍を創設できません。貴方は一時的な称号を保有しています。;;;;;;;;;;;;x
+CANNOT_PLAY_INDIAN_WITHOUT_DLC;DLC『Rajas of India』がないのでインドの宗教ではプレイできません;;;;;;;;;;;;x
+CANNOT_PLAY_JUDAISM_WITHOUT_DLC;DLC『Sons of Abraham』がないのでユダヤ教徒ではプレイできません;;;;;;;;;;;;x
+DESIGNATE_HEIR_ALLOWED_SUCCESSION;継承法が分割相続制、長子相続制、末子相続制、公開相続制のいずれかでなければならない;;;;;;;;;;;;x
+DESIGNATE_HEIR_ALLOWED_GENDER;跡継ぎの指名は性別法に従わなければならない;;;;;;;;;;;;x
+GRANT_LANDED_TITLE_CORRECT_CASTE;人物が正しいカーストを持っている;;;;;;;;;;;;x
+opinion_former_lover;かつて愛した;;;;;;;;;;;;x
+IS_NOT_FORMER_LOVER_OF;§Y$WHO$§!の元恋人ではない;;;;;;;;;;;;x
+IS_FORMER_LOVER_OF;§Y$WHO$§!の元恋人である;;;;;;;;;;;;x
+EVTDESC60400;素晴らしきチュルク傭兵にして元奴隷戦士のサブク・ティギーンはその指揮する騎兵団の戦闘と略奪において幾度も功績を挙げ頭角を現しており、我が司令官達は彼をより枢要な地位に昇格させるべきだと考えています。;;;;;;;;;;;;x
+EVTOPTA60401;ガンダーラが最高だ！;;;;;;;;;;;;x
+EVTOPTB60401;ムルタンが自然ではないだろうか;;;;;;;;;;;;x
+EVTOPTC60401;ラホールは豊かだが弱い;;;;;;;;;;;;x
+EVTOPTD60401;最初はバッカルからだ！;;;;;;;;;;;;x
+EVTNAME60406;ガズナ朝の台頭;;;;;;;;;;;;x
+EVTDESC60406;アフガンの地において元奴隷にしてチュルク傭兵の男が台頭しています。彼サブク・ティギーン、邪教徒を嫌う熱狂的な男は残酷なる戦争で[FromFrom.GetTitledName]を崩壊させたことで、古のカリフの帝国に匹敵する帝国を建設する意思を表明したかのようです。幾万の獰猛なる部族民が彼の旗の下に集まっています！;;;;;;;;;;;;x
+EVTOPTA60406;邪教徒共よ、備えるがいい！;;;;;;;;;;;;x
+EVTOPTB60406;何たる問題多き地域か…;;;;;;;;;;;;x
+EVTOPTC451;[From.GetSheHeCap]は私のタイプではありません;;;;;;;;;;;;x
+EVTOPTA450;[Root.Liege.GetHerHim]を励ます;;;;;;;;;;;;x
+EVTOPTA454;[From.GetSheHe]は私の魅力に抗えるだろうか;;;;;;;;;;;;x
+EVTDESC453;私は[From.GetFirstName]の私室に赴いて[From.GetHerHim]への好意を表現した！;;;;;;;;;;;;x
+NOT_ALREADY_NEGOTIATED;もう交渉していません;;;;;;;;;;;;x
+force_back_tactic;押し返し;;;;;;;;;;;;x
+gray_wall_tactic;灰色の壁;;;;;;;;;;;;x
+crushing_charge_tactic;破砕突撃;;;;;;;;;;;;x
+EVTDESC_RoI_116;仏教は大乗仏教、密教、上座部仏教の3つに分かれている。新たな哲学を追求すると決めたが、どれにするか？;;;;;;;;;;;;x
+MORAL_AUTHORITY_DESC;宗教の「道徳的権威」は、人物や州の改宗チャンスや異端の伝播性に影響します。権威値が低いと、宗教指導者が破門のような特別な行動を実行できなくなります。また宗教組織が民衆を掌握できなくなるなど、様々な悪い出来事により不安定になります。;;;;;;;;;;;;x
+MODIFIER_CHURCH_OPINION;教区封臣の評価;;;;;;;;;;;;x
+CANNOT_AFFORD_THE_PIETY;§R我々は十分な$PIETYNAME$!を持っていない§W\n;;;;;;;;;;;;x
+HIRE_ORDER_DESC;§Y$COST$§Wの$PIETYNAME$を消費し、§Y$TITLE$§Wを雇います。（§Y$CAPITAL$§Wか近辺に現れます）;;;;;;;;;;;;x
+expel_the_jomsvikings_desc;領土からヨムスヴァイキングを追い出し、その城を得ることができます。しかしながら、これは大変に不敬なことです…;;;;;;;;;;;;x

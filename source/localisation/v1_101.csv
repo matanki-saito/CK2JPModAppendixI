@@ -1,0 +1,49 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+NAME_W_NICK;「$NICK$」 $TITLE$ $NAME$;;;;;;;;;;;;x
+VASSAL_RETRACTION_LOG;$TOP_LIEGE$は$OLD_LIEGE$から$VASSAL$を引き抜いた。;;;;;;;;;;;;x
+opinion_retracted_my_vassal;私の封臣を引き抜いた;;;;;;;;;;;;x
+opinion_retracted_my_de_jure_vassal;私の慣習上の封臣を引き抜いた;;;;;;;;;;;;x
+opinion_retracted_a_vassal;封臣を引き抜かれた;;;;;;;;;;;;x
+opinion_retracted_a_de_jure_vassal;慣習上の封臣を引き抜かれた;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_TITLE;封臣を引き抜く;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DESC; §Y[Recipient.GetBestName]§!から封臣を引き抜く。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_LONG_DESC;直臣から封臣を引き抜くことができますが特にそれが彼らの慣習上の封臣である場合不幸を感じるでしょう。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§Wから引き抜く封臣を選択。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_1;§Y[ThirdPartyCharacter.GetBestName]§Wを直臣にすることにより§Y[Recipient.GetTitledFirstName]§Wのあなたへの評価が§R$OPINION$§W低下します。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2;§Y$CROWN_TITLE$§!における王権のおかげで封臣は反対できません。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2B;§Y[Recipient.GetTitledFirstName]§!は反逆者であり、封臣は反対しないだろう。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2C;§Y[Recipient.GetTitledFirstName]§!は邪教徒であり、§Y[Recipient.Religion.GetName]§!の封臣のみ反対するだろう(§R$OPINION$§!);;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2D;これは封建契約に違反し、他の封臣を怒らせる(§R$OPINION$§!);;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2N;これは封建契約に違反し、他の非遊牧民の封臣を怒らせる(§R$OPINION$§!);;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_2E;我々の帝国統治は、貴族からの反対なしに封臣を引き抜くことができる。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_SETUP;封臣を引き抜いた;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは§Y[Recipient.GetBestName]§Wから§Y[ThirdPartyCharacter.GetBestName]§Wの封臣へと移管された;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_LETTER;我々は[ThirdPartyCharacter.GetBestName]への臣従を撤回することに決めた。認められない場合、戦争になります。;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DECLINE_SETUP;封臣の引き抜きを拒否;;;;;;;;;;;;x
+RETRACT_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§Wは§Y[Actor.GetBestName]§Wの要求する封臣§Y[ThirdPartyCharacter.GetBestName]§Wの引き抜きを拒否しました;;;;;;;;;;;;x
+EVTDESC274;我が主君、貴方の我が封臣[Root.GetBestName]の引き抜きの決定を謹んで受け入れます。大変悲しいことですが…。;;;;;;;;;;;;x
+EVTDESC275;貴君の封建契約違反は許容できかねる。是非にと仰るならば武器に訴えるがよかろう！;;;;;;;;;;;;x
+CANNOT_DESTROY_GAVELKIND_TITLE;分割相続制では称号を廃止できない。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_PIETY;§Y[Actor.GetTitledFirstName]§!は§Y$COST$§W[Player.Religion.GetPietyName]に支払う余裕がある;;;;;;;;;;;;x
+INTERACTION_REQUIRES_MONEY;§Y[Actor.GetTitledFirstName]§!は§Y$COST$§W¤支払うことができる;;;;;;;;;;;;x
+INTERACTION_REQUIRES_PRESTIGE;§Y[Actor.GetTitledFirstName]§!は§Y$COST$§W威信失う余裕がある;;;;;;;;;;;;x
+CelticUnitPackDLC;『Celtic Unit Pack』;;;;;;;;;;;;x
+CelticPortraitsDLC;『Celtic Portraits』;;;;;;;;;;;;x
+broken_spirit;失意;;;;;;;;;;;;x
+opinion_subjugated_other_rel;服属;;;;;;;;;;;;x
+d_meath_adj_irish;タラン;;;;;;;;;;;;x
+d_ghanan_band;ガーナ傭兵隊;;;;;;;;;;;;x
+d_ghanan_band_adj;ガーナ;;;;;;;;;;;;x
+AIREASON_CONSORT_CLAIMANT;請求者である;;;;;;;;;;;;x
+hellenic_pagan;古代ギリシャ多神教;;;;;;;;;;;;x
+hellenic_pagan_DESC;ヘレニズム教はジュピター、マーキュリー、マルス、ウェヌス、ミネルバ、ウェスタといった有名な12神を含む多数の神々を奉じた多神教です。古代ギリシャに起源し、アレクサンダー大王の東征やローマ帝国とともにあり、キリスト教の勃興まで地中海における主要な宗教でした。;;;;;;;;;;;;x
+GOD_JUPITER;ジュピター;;;;;;;;;;;;x
+GOD_MERCURY;マーキュリー;;;;;;;;;;;;x
+GOD_MARS;マルス;;;;;;;;;;;;x
+GOD_VENUS;ウェヌス;;;;;;;;;;;;x
+GOD_MINERVA;ミネルバ;;;;;;;;;;;;x
+GOD_VESTA;ウェスタ;;;;;;;;;;;;x
+pagan_DESC;有史以来、ヨーロッパ及び中東は数え切れないほどの異教やアブラハム系宗教とは無関係の信仰のあるところです。;;;;;;;;;;;;x
+d_aztec_reformed;アステカ教会;;;;;;;;;;;;x
+job_spiritual_pagan;予言者;;;;;;;;;;;;x

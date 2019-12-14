@@ -1,0 +1,22 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+IS_NOT_ADULT;成人ではない;;;;;;;;;;;;x
+IS_ADULT;成人である;;;;;;;;;;;;x
+IS_NOT_MARRIAGE_ADULT;結婚できる年齢に達していない;;;;;;;;;;;;x
+IS_MARRIAGE_ADULT;結婚できる年齢に達している;;;;;;;;;;;;x
+DISEASE_ACTIVATED;$DISEASE$の大流行が発生する可能性がある;;;;;;;;;;;;x
+AIREASON_IS_PRISONER_OF_CHAR;§Y[GetTitledFirstName]§!の捕虜である;;;;;;;;;;;;x
+SunsetInvasionDLC;『Sunset Invasion』;;;;;;;;;;;;x
+NOT_COASTAL;この州は海に面していない;;;;;;;;;;;;x
+NOT_FORBIDDEN_LEAD;この評議員は現在、軍を率いることを禁じられていません。\n§Gクリックすると評議員を呼び戻して軍の指揮を禁じることができます。§!;;;;;;;;;;;;x
+FORBIDDEN_LEAD;この評議員は現在、軍を率いることを禁じられています。\n§Gクリックすると軍の指揮を許可することができます。§!;;;;;;;;;;;;x
+DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0;[Recipient.GetSubjectPronoun]が許せば、§Y[Recipient.GetFirstName]は牢から釈放されるでしょう。§!;;;;;;;;;;;;x
+opinion_fought_for_claimant;請求者として戦った;;;;;;;;;;;;x
+EVTOPTD9001;丁寧に頼もう。;;;;;;;;;;;;x
+EVTDESC9003;親愛なる[Root.GetTitle]\n\nI 領内に我が支配を覆そうと企てる派閥があることが判明した。もし貴殿がその派閥に加わっている、あるいはこれから加わろうと検討している場合には、直ちに手を引いてくれるものと信じている。\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTA9003;君子危うきに近寄らず・・・。;;;;;;;;;;;;x
+EVTOPTB9003;ハッ！こんな手紙を寄越すとは、余程切羽詰っているようだな。;;;;;;;;;;;;x
+EVTTOOLTIP9023;丁寧な内容で送る。;;;;;;;;;;;;x
+EVTDESC9027;名誉ある[Root.GetTitle]\n\nいいでしょう！こうした行為は私の好みではありませんが、領地の繁栄のため、あなたの派閥を支援するとしましょう。くれぐれも私を失望させることの無いように。\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x
+DATA_COLLECTION_AGREEMENT;プレイ習慣、DLCやMODの人気といったデータの収集を通じてCrusader Kings IIの改善にご協力いただけませんか？ご協力頂ける場合は、ゲームプレイ時にCrusader Kings II関連の匿名データがParadox Interactiveに送られます。Paradox Interactiveはこのデータをユーザーの個人情報を特定するために使うことはできませんし、使おうとすることもありません。;;;;;;;;;;;;x
+DATA_COLLECTION_TITLE;Crusader Kings IIの改善にご協力いただけませんか？;;;;;;;;;;;;x

@@ -1,0 +1,792 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+CAN_ONLY_JOIN_X_FACTIONS;§R参加できる派閥は§Y$NUM$§!つまでです！§!;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_ACTOR_TEMPORARY_TITLE;§Y[Actor.GetTitledFirstName]§!が現在、一時的な称号を持っていてはなりません;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NO_RECIPIENT_TEMPORARY_TITLE;§Y[Recipient.GetTitledFirstName]§!が現在、一時的な称号を持っていてはなりません;;;;;;;;;;;;x
+REBEL_TITLE;[Recipient.PrimaryTitle.GetAdjective]反乱軍;;;;;;;;;;;;x
+opinion_rebel_leader;反乱の首謀者;;;;;;;;;;;;x
+opinion_fellow_rebel;反乱仲間;;;;;;;;;;;;x
+CHECKBOX_COMPRESSED_SAVEGAMES;ゲームデータを圧縮;;;;;;;;;;;;x
+EVTDESC75041;「この宮廷に邪教徒がおります、我が主よ！」と[Root.GetMyLordSpiritualName]の[From.GetTitledFirstName]が言った。\n「この邪教徒を杭に縛り付けて火刑に処して下さい！」;;;;;;;;;;;;x
+EVTDESC75042;「この宮廷に邪教徒がおります、我が主よ！」と[Root.GetMyLordSpiritualName]の[From.GetTitledFirstName]が言った。\n「この邪教徒を追放して下さい！」;;;;;;;;;;;;x
+EVTDESC75051;「我が主よ、この宮廷には異端者がおります！」と[Root.GetMyLordSpiritualName]の[From.GetTitledFirstName]は自信有りげに言ってきた。\n「主自らが模範となるべくこの異端者を杭に縛り付けて火刑に処すことをお勧め申しあげます。」;;;;;;;;;;;;x
+TITLE_HAS_NO_HOLDER;保有者のいない称号を剥奪することはできません。;;;;;;;;;;;;x
+LOADING_TIP_54;イスラム教徒はメッカ巡礼を行うことで退廃特性を取り除くことができます。;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_PRIMARY_OFF_OTHER_REL;§Rこの称号は他教徒の領主の唯一の第一称号で、かつこの領主はまだその称号内に領地を持っているため簒奪できません。§!;;;;;;;;;;;;x
+age_child;子供;;;;;;;;;;;;x
+age_teen;少年;;;;;;;;;;;;x
+age_young;青年;;;;;;;;;;;;x
+age_adult;成人;;;;;;;;;;;;x
+age_old;老年;;;;;;;;;;;;x
+age_very_old;老年;;;;;;;;;;;;x
+WRONG_OCEAN;海にたどり着ける;;;;;;;;;;;;x
+indian_subjugation_desc;インド宗教の統治者は相手が同じ文化グループに属していれば業§Y500§!で同じインド宗教の統治者を服従させることが出来ます。;;;;;;;;;;;;x
+jungle;ジャングル;;;;;;;;;;;;x
+hindu;ヒンドゥー教;;;;;;;;;;;;x
+hindu_DESC;ヒンドゥー教は単一の宗教ではなく、ヴェーダに記された古代インド多神教の流れを汲む諸宗派の包括的名称です。ヒンドゥー教内部にも多数の異なる宗派が存在し、ジャイナ教及び仏教との数千年に渡る比較的平和な共存とあわせ、ヒンドゥー教は多元性とインドに存在する全ての宗教に対する特筆すべき寛容性を兼ね備えています。ですが、ヒンドゥー教はジャイナ教や仏教に比べれば最も好戦的な宗教でもあります。;;;;;;;;;;;;x
+buddhist;仏教;;;;;;;;;;;;x
+jain;ジャイナ教;;;;;;;;;;;;x
+nubian;ヌビア;;;;;;;;;;;;x
+GOD_SHIVA;シヴァ;;;;;;;;;;;;x
+GOD_THE_SUPREME;最高神;;;;;;;;;;;;x
+THE_VINAYAKAS;ヴィナーヤカス;;;;;;;;;;;;x
+THE_MAHABHARATA;マハーバーラタ;;;;;;;;;;;;x
+PUJARI;プジャリ;;;;;;;;;;;;x
+GOD_THE_BUDDHA;仏陀;;;;;;;;;;;;x
+GOD_THE_ARHAT;阿羅漢;;;;;;;;;;;;x
+GOD_THE_PERFECTED_ONES;如来;;;;;;;;;;;;x
+MARA;魔羅;;;;;;;;;;;;x
+THE_BUDDHACAVANA;仏種姓経;;;;;;;;;;;;x
+BHIKKHU;比丘;;;;;;;;;;;;x
+GOD_THE_TIRTHANKARAS;ティールタンカラ;;;;;;;;;;;;x
+GOD_RISHABH;Rishabh;;;;;;;;;;;;x
+GOD_AJINATH;Ajinath;;;;;;;;;;;;x
+GOD_SAMBHAVANATH;Sambhavanath;;;;;;;;;;;;x
+THE_PUNISHERS;懲罰者;;;;;;;;;;;;x
+NIRGRANTHA;ニガンタ;;;;;;;;;;;;x
+brahmin;バラモン;;;;;;;;;;;;x
+kshatriya;クシャトリヤ;;;;;;;;;;;;x
+vaishya;ヴァイシャ;;;;;;;;;;;;x
+shaivist_hindu;シヴァ派;;;;;;;;;;;;x
+vaishnavist_hindu;ヴィシュヌ派;;;;;;;;;;;;x
+shaktist_hindu;シャクティ派;;;;;;;;;;;;x
+smartist_hindu;スマールタ派;;;;;;;;;;;;x
+karluk;カルルク;;;;;;;;;;;;x
+kirghiz;キルギス;;;;;;;;;;;;x
+khanty;ハンティ;;;;;;;;;;;;x
+afghan;アフガン;;;;;;;;;;;;x
+baloch;バルーチ;;;;;;;;;;;;x
+indo_aryan_group;インド・アーリア;;;;;;;;;;;;x
+dravidian_group;ドラヴィダ;;;;;;;;;;;;x
+indian;インド;;;;;;;;;;;;x
+bengali;ベンガル;;;;;;;;;;;;x
+hindustani;ヒンドゥスタン;;;;;;;;;;;;x
+sindhi;シンド;;;;;;;;;;;;x
+marathi;マラータ;;;;;;;;;;;;x
+sinhala;シンハラ;;;;;;;;;;;;x
+telugu;テルグ;;;;;;;;;;;;x
+kannada;カンナダ;;;;;;;;;;;;x
+tamil;タミル;;;;;;;;;;;;x
+gujurati;グジャラート;;;;;;;;;;;;x
+panjabi;パンジャブ;;;;;;;;;;;;x
+rajput;ラージプート;;;;;;;;;;;;x
+oriya;オリヤー;;;;;;;;;;;;x
+assamese;アッサム;;;;;;;;;;;;x
+IS_LOWBORN;庶民である;;;;;;;;;;;;x
+IS_NOT_LOWBORN;庶民ではない;;;;;;;;;;;;x
+IS_REINCARNATED;転生者である;;;;;;;;;;;;x
+IS_NOT_REINCARNATED;転生者ではない;;;;;;;;;;;;x
+NUM_DYN_MEMBERS_LESS_THAN;一族の人数が右記より少ない：;;;;;;;;;;;;x
+NUM_DYN_MEMBERS_GREATER_THAN;一族の人数が右記より多い：;;;;;;;;;;;;x
+decadent;退廃;;;;;;;;;;;;x
+decadent_desc;安逸な暮らしと目に余る道楽はこの人物を退廃に導きます。これは全ての正しきイスラム教徒にとっての敵であります。退廃した人物はゆっくりとその全一族の退廃値を高め、大規模な部族蜂起のもととなります。;;;;;;;;;;;;x
+reincarnation;[Reincarnation.GetBestName]の転生者;;;;;;;;;;;;x
+reincarnation_desc;この人物は広く[Reincarnation.GetBestName]の転生者であると信じられています。;;;;;;;;;;;;x
+opinion_takfir;背教徒;;;;;;;;;;;;x
+opinion_straightened_up;更生;;;;;;;;;;;;x
+convince_to_straighten_up;更生のための説得;;;;;;;;;;;;x
+EVTDESC91300;舐めた目つきをしてやがったからあの香辛料商人を殴ったんだ。どうも私が安逸と退廃に堕ち、悪に迷ってハーレムに耽溺していると思ってる奴が多くて困る！;;;;;;;;;;;;x
+EVTOPTA91300;フン！詩人よ、別の曲を演ってくれ！;;;;;;;;;;;;x
+EVTDESC91350;[GetFromFromRelation]の[FromFrom.GetBestName]にこのような罪深い生活をしていてはこの王朝全体の恥となると言われた。[FromFrom.GetSubjectPronounCap]は自分の影響力を使って[Root.GetDynName]家を守っているが、預言者（彼に平安あれ）によって設けられた完璧なる前例に導きを求めよと強い口調で強いてくる。;;;;;;;;;;;;x
+EVTOPTA91350;失敬な！私の人生は私のものだ！;;;;;;;;;;;;x
+EVTOPTB91350;やります。[Root.Religion.GetRandomGodName]よ我を助け給え;;;;;;;;;;;;x
+EVTDESC91351;退廃した[GetFromRelation]の[From.GetBestName]は罪深い生き方を変えなさいとの説得を拒絶した。よってこの堕落した[From.GetObjectPronoun]に不信心者の烙印を押し、投獄の口実とすることができる…或いは他に[From.GetObjectPronoun]を説得する方法があるのだろうか。;;;;;;;;;;;;x
+EVTOPTA91351;[From.GetObjectPronoun]は背教徒だ！;;;;;;;;;;;;x
+EVTOPTB91351;もっといい交渉人がここにいる！;;;;;;;;;;;;x
+EVTOPTC91351;[From.GetPossPronoun]の魂を地獄の業火から救わなければ！;;;;;;;;;;;;x
+EVTOPTD91351;因習を…打ち破る時だ。;;;;;;;;;;;;x
+EVTDESC91352;[GetFromRelation]の[From.GetBestName]は自分がハラームを犯す生き方をしていたことに納得し、自分の生き方を変えることを誓った。;;;;;;;;;;;;x
+EVTOPTA91352;宜しい。[Root.GetDynName]家は常に貞潔でなければならないのだ！;;;;;;;;;;;;x
+EVTDESC91355;私の[GetFromRelation] [From.GetTitledFirstName]は諦めようとしない。[From.GetSubjectPronounCap]は、私がなぜ禁じられてハラームである欲望を克服しなければならないかについて、この上なく説得力のある意見を言ってきた。私の魂のために、私の王朝のために、私の宗教のために、私は悔い改める必要があるのだ。;;;;;;;;;;;;x
+EVTOPTA91355;私は自分が弱いと分かった。弱すぎるのだ！;;;;;;;;;;;;x
+EVTOPTB91355;難しいことだが、私はこの狭い道を歩んでみせるぞ。;;;;;;;;;;;;x
+EVTDESC91356;私の [GetFromRelation]である、怠け者の [From.GetFirstName] には話が通じない！ [From.GetSubjectPronounCap] は単にとても無気力で意固地なだけの奴だ。;;;;;;;;;;;;x
+EVTDESC91357;[GetFromRelation]の[From.GetBestName]は自分がハラームを犯す生き方をしていたことに納得し、自分の生き方を変えることを誓った。;;;;;;;;;;;;x
+EVTDESC91360;私の [GetFromRelation] [From.GetTitledFirstName] がまた禁じられてハラームである欲望を諦めるよう説得してきた。[From.GetSubjectPronounCap] はイスラム法学者のように、クルアーンとハディースを引用して、死後は地獄の業火で焼かれることになるぞと私を脅すのだ。;;;;;;;;;;;;x
+EVTOPTA91360;私は信者になるだろうか？;;;;;;;;;;;;x
+EVTOPTB91360;ベクタシュ教団に入らねば!;;;;;;;;;;;;x
+EVTOPTC91360;アサシン教団に入らねば！;;;;;;;;;;;;x
+EVTOPTD91360;メッカへの巡礼に旅立たねば！;;;;;;;;;;;;x
+EVTOPTE91360;慈善団体に寄付しようと思う！;;;;;;;;;;;;x
+EVTDESC91361;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations. [From.GetSubjectPronounCap] will join a holy order in order to serve Allah best!;;;;;;;;;;;;x
+EVTOPTA91361;[From.GetSubjectPronounCap] makes me proud!;;;;;;;;;;;;x
+EVTDESC91362;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations and left immediately for the holy pilgrimage to Mecca - the Hajj.;;;;;;;;;;;;x
+EVTOPTA91362;敬虔な選択だ！;;;;;;;;;;;;x
+EVTDESC91363;My [GetFromRelation] [From.GetTitledFirstName] was shaken by the strength of my pious arguments and promised to reform [From.GetPossPronoun] ways, starting with a generous donation to charity.;;;;;;;;;;;;x
+EVTOPTA91363;There is hope for [From.GetObjectPronoun] yet!;;;;;;;;;;;;x
+EVTDESC91365;I woke up to a dreadful stench and found my room full of the rotting carcasses of dogs and pigs. As I staggered out through the door, a shadowy figure crept up from behind and held a knife to my throat, whispering 'This is what your life is like. Imagine your death...' before disappearing without a trace!;;;;;;;;;;;;x
+EVTOPTA91365;[From.GetTitledFirstName] cannot scare me with theatrics!;;;;;;;;;;;;x
+EVTOPTB91365;努力せねばならなかったか…;;;;;;;;;;;;x
+EVTOPTC91365;This is just too much. Life is not worth living!;;;;;;;;;;;;x
+EVTDESC91366;I arranged a very unpleasant 'awakening' for my decadent [GetFromRelation] [From.GetTitledFirstName], but [From.GetSubjectPronoun] remains stubbornly committed to [From.GetPossPronoun] hedonism, bringing shame on our House.;;;;;;;;;;;;x
+EVTDESC91367;The little nightmare I staged seems to have worked on my decadent [GetFromRelation] [From.GetTitledFirstName], who is scared witless and has promised to renounce [From.GetPossPronoun] shameful hedonism!;;;;;;;;;;;;x
+EVTDESC91368;It seems the nighttime show I put on for my decadent [GetFromRelation] [From.GetTitledFirstName] was a little too much. [From.GetSubjectPronounCap] chose to jump from a tower rather than live a righteous life as a true Muslim!;;;;;;;;;;;;x
+EVTOPTA91368;Shameful! Good riddance.;;;;;;;;;;;;x
+EVTTOOLTIP91351;Tell [This.GetFirstName] to mind his own business!;;;;;;;;;;;;x
+EVTTOOLTIP91352;Promise [This.GetFirstName] to lead a righteous life!;;;;;;;;;;;;x
+EVTTOOLTIP91355;[This.GetFirstName]説得のよりよい案がある。;;;;;;;;;;;;x
+EVTTOOLTIP91360;Present the best religious arguments to [This.GetFirstName];;;;;;;;;;;;x
+EVTTOOLTIP91365;Arrange for some nasty nighttime theatrics to scare [This.GetFirstName] in [From.GetPossPronoun] room;;;;;;;;;;;;x
+patron_shiva;守り神：シヴァ;;;;;;;;;;;;x
+patron_vishnu;守り神：ヴィシュヌ;;;;;;;;;;;;x
+patron_brahma;守り神：ブラフマー;;;;;;;;;;;;x
+patron_kali;守り神：カーリー;;;;;;;;;;;;x
+patron_ganesha;守り神：ガネーシャ;;;;;;;;;;;;x
+patron_ganga;守り神：ガンガー;;;;;;;;;;;;x
+hold_tiger_hunt;虎狩りを開催;;;;;;;;;;;;x
+hold_tiger_hunt_desc;虎狩りは貴族のスポーツであると同時に招待した封臣と絆を強め、重要な事項について話し合いをする好機でもあります。;;;;;;;;;;;;x
+choose_hindu_patron_deity;守り神の選択;;;;;;;;;;;;x
+choose_hindu_patron_deity_desc;ヒンドゥーの教えの最も強大なる神々の中から一人を自分の守り神とすることが出来ます。貴方の支配は自分の守り神と結び付けられて捉えられ、結果として政府のある側面が強化されることになりますが、常に別のところでの代償が伴うことには気をつけて下さい。中立を保ち、誰も怒らせないのが一番だと主張する者もいます。;;;;;;;;;;;;x
+EVTDESC_RoI_100;この三人の神がヒンドゥー教では三神一体を成している。この中から守り神を選ぶべきでは無いだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_100;三叉戟を持つ公正なるシヴァ;;;;;;;;;;;;x
+EVTOPTB_RoI_100;全能にして王たるヴィシュヌ;;;;;;;;;;;;x
+EVTOPTC_RoI_100;4つの顔を持つ力強きブラフマー;;;;;;;;;;;;x
+EVTOPTD_RoI_100;他にも力ある神々がいます…;;;;;;;;;;;;x
+EVTDESC_RoI_101;この神々は尽く強大な神々である。この中から守り神を選ぶことこそ一族の力の証となるだろう。;;;;;;;;;;;;x
+EVTOPTA_RoI_101;殺戮者にして時間を司るカーリー;;;;;;;;;;;;x
+EVTOPTB_RoI_101;障害を取り除く神ガネーシャ;;;;;;;;;;;;x
+EVTOPTC_RoI_101;清浄なる水の神ガンガー;;;;;;;;;;;;x
+EVTOPTD_RoI_101;いや、もう少し考えてみたが、やはり三神一体を成す三人の神から守り神を選ぶべきだ。;;;;;;;;;;;;x
+EVTDESC_RoI_10001;[GetFromRelation] [From.GetFirstName]の奇妙な痣の位置は確か、私の[GetFromReincarnationRelation] [From.Reincarnation.GetBestName]の痣の位置と同じではなかったか。[From.Reincarnation.GetSubjectPronoun]は私の[GetFromRelation]に転生したのだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_10001;これが[From.Reincarnation.GetHerHis]の業なのだろう;;;;;;;;;;;;x
+EVTOPTB_RoI_10001;いや、これは彼の真我ではない;;;;;;;;;;;;x
+EVTDESC_RoI_10002;時々[Root.Reincarnation.GetManWoman]として前世を生きていた頃の家族のことを思い出す。懐かしい友人たちは今何処にいるのだろう？;;;;;;;;;;;;x
+EVTOPTA_RoI_10002;寂しいな…;;;;;;;;;;;;x
+EVTOPTA_RoI_10003;[From.GetSubjectPronoun]が成長した暁にはどれほど[From.Reincarnation.GetFirstName]に似ることになるのだろう…;;;;;;;;;;;;x
+EVTOPTB_RoI_10003;驚くべきことだが、[From.GetObjectPronoun]にはあくまで新たな人生を歩んでほしいのだ。;;;;;;;;;;;;x
+EVTDESC_RoI_10010;「みんな君を見るたび君の[GetReincarnationRelation]の[Root.Reincarnation.GetFirstName]のことを思い出すんだよ。」と先生に言われた。自分の中からは前世の曖昧な記憶がどんどん消えていくのに。;;;;;;;;;;;;x
+EVTOPTA_RoI_10010;私は…私以外の何者でもない。;;;;;;;;;;;;x
+EVTOPTA_RoI_10011;輪廻転生の驚くべきことかな！;;;;;;;;;;;;x
+EVTDESC_RoI_10020;「[Root.Reincarnation.Killer.GetFirstName]！」そう叫び声を上げて殺される悪夢から目を覚ました。衛兵が大急ぎで様子を見にやって来て、落ち着いた自分はあの夢が普通の夢でないことに気付いた。前世での自分[Root.Reincarnation.GetBestName]を殺した奴の名前―悪しき[Root.Reincarnation.Killer.GetBestName]だ！;;;;;;;;;;;;x
+EVTOPTA_RoI_10020;羅刹の悪しき落とし子め！;;;;;;;;;;;;x
+EVTDESC_RoI_10021;池をぼんやりと眺めていると、急に深い愛の感情と共に大切な思い出が蘇ってきた。前世で愛しき[Root.Reincarnation.Spouse.GetHusbandWife][Root.Reincarnation.Spouse.GetFirstName]とこんな池で愛し合ったのを思い出したのだ…;;;;;;;;;;;;x
+EVTOPTA_RoI_10021;ああ、愛しき[Root.Reincarnation.Spouse.GetFirstName]よ、今何処？;;;;;;;;;;;;x
+EVTOPTA_RoI_10022;輪廻の巡ることよ…;;;;;;;;;;;;x
+ATTACHMENT_REQUIREMENTS_TOOLTIP;The target unit must have the Same Looter status, must be either your Vassal or Ally, and it's Owner must have the Same or Greater Feudal Ranking.;;;;;;;;;;;;x
+MATCHMAKING_FILTER_NOPASSWORD;パスワードなし;;;;;;;;;;;;x
+MATCHMAKING_FILTER_NOTFULL;満員ではない;;;;;;;;;;;;x
+MATCHMAKING_FILTER_HASPLAYERS;プレイヤーがいる;;;;;;;;;;;;x
+MATCHMAKING_SERVER_FILTER_SEARCH;検索タグ;;;;;;;;;;;;x
+MATCHMAKING_SERVER_FILTER_SEARCH_NAMES;検索名;;;;;;;;;;;;x
+MESSAGE_BUTTON_SEARCH;検索;;;;;;;;;;;;x
+MATCHMAKING_SERVERS_DOSEARCH;検索;;;;;;;;;;;;x
+MATCHMAKING_REFRESH_LAN;LANを更新;;;;;;;;;;;;x
+MATCHMAKING_REFRESH_INTERNET;インターネットを更新;;;;;;;;;;;;x
+MATCHMAKING_JOIN_SERVER;ゲームに参加;;;;;;;;;;;;x
+MATCHMAKING_HOST_SERVER;ゲームのホストになる;;;;;;;;;;;;x
+MATCHMAKING_SERVER_PASSWORD;パスワード;;;;;;;;;;;;x
+MATCHMAKING_SERVER_NAME;名前;;;;;;;;;;;;x
+MATCHMAKING_SERVER_SLOTS;スロット;;;;;;;;;;;;x
+MATCHMAKING_SERVER_VERSION;バージョン;;;;;;;;;;;;x
+MATCHMAKING_SERVER_TAGS;タグ;;;;;;;;;;;;x
+MATCHMAKING_SERVER_MOD;MOD;;;;;;;;;;;;x
+MATCHMAKING_SERVER_STATUS;状態;;;;;;;;;;;;x
+MATCHMAKING_SERVER_PING;Ping;;;;;;;;;;;;x
+FRIENDS;フレンド;;;;;;;;;;;;x
+SEND;送信;;;;;;;;;;;;x
+MATCHMAKING_TITLE;マッチング中;;;;;;;;;;;;x
+MATCHMAKING_SERVERS;サーバー;;;;;;;;;;;;x
+MATCHMAKING_COMMUNITY;コミュニティ;;;;;;;;;;;;x
+CONNECT_TO_IP;IDへの接続;;;;;;;;;;;;x
+MATCHMAKING_SERVER_CONNECT_TITLE;サーバーへの接続;;;;;;;;;;;;x
+MATCHMAKING_SERVER_CONNECT_ADDRESS;サーバーID;;;;;;;;;;;;x
+MATCHMAKING_SERVERS_SEARCHING;サーバーを検索中...;;;;;;;;;;;;x
+MATCHMAKING_SERVERS_NOSERVERS;サーバーが見つかりませんでした！;;;;;;;;;;;;x
+MATCHMAKING_SERVER_STATUS_STARTING;開始中;;;;;;;;;;;;x
+MATCHMAKING_SERVER_STATUS_RUNNING;実行中;;;;;;;;;;;;x
+MATCHMAKING_SERVER_STATUS_STOPPED;停止;;;;;;;;;;;;x
+MATCHMAKING_SERVER_HOST_TAGS;タグ;;;;;;;;;;;;x
+MATCHMAKING_SERVER_DESC;説明;;;;;;;;;;;;x
+become_kshatriya;クシャトリヤ階級になる;;;;;;;;;;;;x
+opinion_changed_caste;カーストを変更した;;;;;;;;;;;;x
+opinion_married_wrong_caste;異なるカーストと結婚;;;;;;;;;;;;x
+opinion_ruler_wrong_caste_hindu;領主のカーストが不適切;;;;;;;;;;;;x
+opinion_ruler_wrong_caste_non_hindu;領主のカーストが不適切;;;;;;;;;;;;x
+opinion_low_caste;低いカースト;;;;;;;;;;;;x
+restore_ecumenical_patriarchate;コンスタンティノープル全地総主教庁を復興;;;;;;;;;;;;x
+d_followers_arjuna;アルジュナ党;;;;;;;;;;;;x
+d_followers_arjuna_adj;アルジュナ;;;;;;;;;;;;x
+d_ashokas_chosen;アショーカ大王の精鋭;;;;;;;;;;;;x
+d_ashokas_chosen_adj;アショーカ大王;;;;;;;;;;;;x
+d_bulls_rishabha;リシャバの牡牛隊;;;;;;;;;;;;x
+d_bulls_rishabha_adj;リシャバ;;;;;;;;;;;;x
+job_spiritual_indian_group;和尚;;;;;;;;;;;;x
+title_master_of_the_royal_elephants;御用象舎の舎長;;;;;;;;;;;;x
+title_master_of_the_royal_elephants_desc;偉大な君主はしばしば戦象部隊を採用し大きな戦果を上げました。ですが軍事的側面を於いても、象には安定と強大さ、不屈さの象徴として大いなる価値があります。これらのことから領主の象を健康に保つことはとても重要なことであり、それゆえ御用象舎の舎長の地位にはそれ相応の権威があります。;;;;;;;;;;;;x
+title_royal_builder;御用建築長官;;;;;;;;;;;;x
+title_royal_builder_desc;強大な統治者は常に自らの宮殿を広げ、新たな建物を建造します。御用建築長官には実際の所建築の技術も工学の技術も必要ないのですが、それでもその地位には高い権威が伴いました。通常実際の仕事は誰か別の人間が行うことになります。;;;;;;;;;;;;x
+title_court_poet_india;宮廷詩人;;;;;;;;;;;;x
+title_court_poet_india_desc;詩はインド文化で大きな尊敬を受ける芸術であり、それ故宮廷詩人は常に威信ある地位となっていました。;;;;;;;;;;;;x
+ca_culture_indian_1;戦象の牧場;;;;;;;;;;;;x
+ca_culture_indian_2;戦象の牧場;;;;;;;;;;;;x
+ca_culture_indian_3;戦象の牧場;;;;;;;;;;;;x
+ca_culture_indian_4;戦象の牧場;;;;;;;;;;;;x
+ca_culture_indian_1_desc;恐ろしい戦象が飼育、訓練されている場所です。;;;;;;;;;;;;x
+ca_culture_indian_2_desc;恐ろしい戦象が飼育、訓練されている場所です。;;;;;;;;;;;;x
+ca_culture_indian_3_desc;恐ろしい戦象が飼育、訓練されている場所です。;;;;;;;;;;;;x
+ca_culture_indian_4_desc;恐ろしい戦象が飼育、訓練されている場所です。;;;;;;;;;;;;x
+RETTYPE_CUL_INDIAN;鋼弓歩兵;;;;;;;;;;;;x
+war_elephant_leader;戦象リーダー;;;;;;;;;;;;x
+war_elephant_leader_desc;この人物は戦場での戦象の戦術的運用に熟達しています。;;;;;;;;;;;;x
+jungle_terrain_leader;密林戦の達人;;;;;;;;;;;;x
+jungle_terrain_leader_desc;この人物は密林での部隊指揮の達人です。;;;;;;;;;;;;x
+hold_diwali_feast_hindu;ディーワーリー祭を開催;;;;;;;;;;;;x
+hold_diwali_feast_hindu_desc;ディーワーリー祭はインドの伝統的な収穫祭です。ディーワーリー祭では闇に対する光、悪に対する善、絶望に対する希望の勝利が祝われます。;;;;;;;;;;;;x
+hold_diwali_feast_buddhist;ディーワーリー祭を開催;;;;;;;;;;;;x
+hold_diwali_feast_buddhist_desc;ディーワーリー祭はインドの伝統的な収穫祭です。ディーワーリー祭では闇に対する光、悪に対する善、絶望に対する希望の勝利が祝われます。;;;;;;;;;;;;x
+hold_diwali_feast_jain;ディーワーリー祭を開催;;;;;;;;;;;;x
+hold_diwali_feast_jain_desc;ディーワーリー祭はインドの伝統的な収穫祭です。ディーワーリー祭では闇に対する光、悪に対する善、絶望に対する希望の勝利が祝われます。ジャイナ教徒にとっては24番目のジナ、マハーヴィーラの栄光を想い起こす日でもあります。;;;;;;;;;;;;x
+hold_diwali_feast_kali_puja;カーリー・プージャ祭を開催;;;;;;;;;;;;x
+hold_diwali_feast_kali_puja_desc;インドの殆どでは秋にディーワーリー祭を祝いますが、インドの北西部の一部のヒンドゥー教徒、及び女神カーリーを熱心に信仰する人々はこの死と時間と変化の女神の名のもとカーリー・プージャ祭を祝います。カーリーを称えて行われる儀式にはしばしば血や髑髏のようなものが使われます。;;;;;;;;;;;;x
+holding_diwali_feast;ディーワーリー祭を開催;;;;;;;;;;;;x
+holding_kali_puja_feast;カーリー・プージャ祭を開催;;;;;;;;;;;;x
+convert_to_hinduism;ヒンドゥー教に改宗;;;;;;;;;;;;x
+convert_to_hinduism_desc;インド宗教は一般に多数の宗派を持ち、人々の信仰もまた多様であり、特に理由がなくともあるインド宗教から別のインド宗教へ改宗することも不可能ではありません。ただしそのような選択は一生に一度しかできません。;;;;;;;;;;;;x
+convert_to_buddhism;仏教に改宗;;;;;;;;;;;;x
+convert_to_buddhism_desc;インド宗教は一般に多数の宗派を持ち、人々の信仰もまた多様であり、特に理由がなくともあるインド宗教から別のインド宗教へ改宗することも不可能ではありません。ただしそのような選択は一生に一度しかできません。;;;;;;;;;;;;x
+convert_to_jainism;ジャイナ教に改宗;;;;;;;;;;;;x
+convert_to_jainism_desc;インド宗教は一般に多数の宗派を持ち、人々の信仰もまた多様であり、特に理由がなくともあるインド宗教から別のインド宗教へ改宗することも不可能ではありません。ただしそのような選択は一生に一度しかできません。;;;;;;;;;;;;x
+EDUCATE_CHARACTER_INTERACTION_6;\n§Y[ChildExtra.GetFirstName]§!は§Y[AdultExtra.Culture.GetName]§!人になるかもしれません！;;;;;;;;;;;;x
+EDUCATE_CHARACTER_INTERACTION_6B;\n§Y[ChildExtra.GetFirstName]§!は§Y[AdultExtra.Religion.GetName]§!教徒になるかもしれません！;;;;;;;;;;;;x
+INTERACTION_IS_DISTANCE_LIMITED;§Y[Recipient.GetTitledFirstName]§!は遠方にいるため交渉できない;;;;;;;;;;;;x
+EVTDESC_RoI_110;ヒンドゥー教は多様な宗教であり、主要な宗派だけでもシヴァ派、ヴィシュヌ派、シャクティ派、スマールタ派の4つがあります。改宗の際にはそのどれかを選ばなければなりません。;;;;;;;;;;;;x
+EVTOPTA_RoI_110;シヴァ派となり、シヴァを最高神として崇めます。;;;;;;;;;;;;x
+EVTOPTB_RoI_110;ヴィシュヌ派となり、ヴィシュヌを最高神として崇めます。;;;;;;;;;;;;x
+EVTOPTC_RoI_110;シャクティ派となり、女神シャクティを最高神として崇めます。;;;;;;;;;;;;x
+EVTOPTD_RoI_110;スマールタ派となり、複数の神々を不可分一体的な最高神として崇めます。;;;;;;;;;;;;x
+EVTDESC_RoI_111;仏教の流派は特筆すべき多様性を持ちますが、基本的には大乗、密教、上座部の3つの宗派に分かれています。改宗の際にはそのどれかを選ばなければなりません。;;;;;;;;;;;;x
+EVTOPTA_RoI_111;大いなる車、大乗;;;;;;;;;;;;x
+EVTOPTB_RoI_111;真俗二諦の密教;;;;;;;;;;;;x
+EVTOPTC_RoI_111;パーリ教典の上座部;;;;;;;;;;;;x
+EVTDESC_RoI_112;ジャイナ教は長い伝統を持つ宗教で裸行派と白衣派の2つの宗派があります。改宗の際にはそのどれかを選ばなければなりません。;;;;;;;;;;;;x
+EVTOPTA_RoI_112;空を身に纏う裸形派;;;;;;;;;;;;x
+EVTOPTB_RoI_112;白を身に纏う白衣派;;;;;;;;;;;;x
+EVTDESC_RoI_117;ジャイナ教には空を身に纏う裸行派と白を身に纏う白衣派の二つの流派があります。あなたは古い殻を脱ぎ捨て、新しい道へ踏み出すことを決断しました。;;;;;;;;;;;;x
+EVTOPTA_RoI_117;これから私は裸行派ジャイナ教徒だ。;;;;;;;;;;;;x
+EVTOPTB_RoI_117;これから私は白衣派ジャイナ教徒だ。;;;;;;;;;;;;x
+evt_relative_might_revolt;§R警告：§! [From.GetFirstName]はこの決断を好意的に受け取らない可能性があります！;;;;;;;;;;;;x
+EVTOPTD37001;外交的に拒絶;;;;;;;;;;;;x
+EVTOPTB37007;自分のものを人の許に置き続けるわけには行かない！;;;;;;;;;;;;x
+EVTDESC37011;貴族[From.GetBestName]が[From.Liege.GetTitledName]の宮廷からこの領国にやってきて、怒り心頭という様子で「私の[FromScope.GetLiegeRelation]が本来私の称号であるべきものを渡そうとしない」と不満を訴えてきた。[From.GetTitledFirstName]は軍を招集し、力づくでも[From.Liege.PrimaryTitle.GetFullName]を奪取するつもりのようだ。;;;;;;;;;;;;x
+EVTOPTA37011;私の力でどうにかできるかもしれない…;;;;;;;;;;;;x
+EVTDESC37012;私に称号の授与を拒絶された[FromFrom.GetTitledFirstName]は怒り狂っい、[From.GetTitledName]の宮廷へと向かい、「本来自分が持つべきはずだったもの」を力づくでも取り返すべく、部隊を雇っていると吹聴しているようだ。;;;;;;;;;;;;x
+EVTOPTA37012;裏切り者のクソッタレめ！;;;;;;;;;;;;x
+nestorian_DESC;ネストリウス派は早い時期に分派したキリスト教の教派で、キリストの位格は神格と人格の2つの位格に分離されると説きました。これはキリストには一つの位格しかないとする単性論と対立するものでした。ネストリウス派の名目上の長はネストリウス派東方総主教です。;;;;;;;;;;;;x
+THE_DEMIURGE;デミウルゴス;;;;;;;;;;;;x
+paulician;パウロ派;;;;;;;;;;;;x
+paulician_DESC;パウロ派はアルメニアを起源とするマニ教に影響を受けたグノーシス主義のキリスト教異端です。本ゲーム内では正教会の異端として扱われます。;;;;;;;;;;;;x
+d_paulician;パウロ派総主教庁;;;;;;;;;;;;x
+d_paulician_adj;パウロ派総主教庁;;;;;;;;;;;;x
+c_lori_adj;ロリ;;;;;;;;;;;;x
+messalian;メッサリア派;;;;;;;;;;;;x
+messalian_DESC;メッサリア派、またの名をエウキテス（祈祷専念）派はゾロアスター教のような二元論に影響を受けてメソポタミアに起こったキリスト教異端です。メッサリア派ではキリストも肉の喜びを認識し、その知覚こそ完成に至るために必要なものだったと信じられていました。個々人は生まれたときから内なる悪魔を持っており、ただひたすらに祈祷することによってのみそれを追い払うことができるのです。またメッサリア派ではルシファーは神の長男にして善なる力であり、またアダムとイブの子らによって実践されたが故に近親相姦は聖なる行為であるとも信じられていました。メッサリア派には定まった典礼も定まった位階も存在しません。;;;;;;;;;;;;x
+THE_ASCETICUS;苦行;;;;;;;;;;;;x
+THE_PANTOKRATOR;全能者;;;;;;;;;;;;x
+GENERAL_CLOSE_KIN_UNION;§Y[ActorExtra.GetFirstName]§!は§Y[RecipientExtra.GetFirstName]§!の$RELATION$であるため、この結婚は聖なるものであり、この教えを信じる全ての封臣を喜ばせることになるでしょう。;;;;;;;;;;;;x
+EVTDESC502;創世の頃のアダムとイブの子らのように、[From.GetTitledFirstName]とその[GetFromVsNewRelation]である[New.GetTitledFirstName]は聖なる結婚を執り行った。[From.Religion.GetRandomGodName]もお喜びであろう。この式典のための結納金を集めることが出来ます。;;;;;;;;;;;;x
+PAULICIAN_PATRIARCH;パウロ派総主教;;;;;;;;;;;;x
+d_saint_addai;聖アダイ騎士団;;;;;;;;;;;;x
+d_saint_addai_adj;聖アダイ騎士団;;;;;;;;;;;;x
+expelled_d_saint_addai;聖アダイ騎士団を追放;;;;;;;;;;;;x
+expel_order_of_addai;聖アダイ騎士団を追放;;;;;;;;;;;;x
+expel_order_of_addai_desc;自分の領国から聖アダイ騎士団を追放し、その城を我がものとすることが出来ます。ですがそれは非常に不敬な行いです…;;;;;;;;;;;;x
+donate_money_to_order_of_addai;聖アダイ騎士団に300¤を寄付;;;;;;;;;;;;x
+donate_money_to_order_of_addai_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖アダイ騎士団にお金を寄付します。;;;;;;;;;;;;x
+EVTTITLE_SOA_2809;聖アダイ騎士団;;;;;;;;;;;;x
+EVTDESC_SOA_2809;ネストリウス派キリスト教会の聖地を守ることは不可欠であるとして、正当なる[Root.RelHead.GetTitledName]は修道士の戦士からなる同胞団の創設を宣言し、シリアとメソポタミアにキリスト教を伝道した使徒にちなんでこれを聖アダイ騎士団と名付けた。聖アダイ騎士団は邪教徒や異端を打倒し、騎士団の維持費を寄付することを望む[Root.Religion.GetName]信者の領主のためならその名のもとに正義を守るべく準備万端だ。;;;;;;;;;;;;x
+EVTOPTA_SOA_2809;May they be ever victorious!;;;;;;;;;;;;x
+EVTOPTB_SOA_2809;犠牲の羊が増えただけのことだ！;;;;;;;;;;;;x
+EVTDESC_SOA_2831;私の[GetFromRelation]である[From.GetTitledFirstName]は、邪教徒と闘うために自ら聖アダイ騎士団の一員となることを願い出てきていますが、そうすると彼が世俗に戻ることはもはや一生ないでしょう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2832;[This.GetTitledFirstName]が聖アダイ騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2853;最も高潔なる[Root.GetTitledFirstName]殿よ、聖アダイ騎士団は兵士の訓練とそれを支える収入を得るため更なる城を必要としております。貴方の直轄領にはそれにおあつらえ向きの土地があります。具体的には[FromFrom.GetName]のことです。100ゴールドを支払いますので我らに城を建造する権利をいただけないでしょうか？\n\nキリストの平和に\n総長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2854;聖アダイ騎士団は[Root.GetName]に城を築きました。;;;;;;;;;;;;x
+EVTDESC_SOA_2861;Your majesty, this antagonism is completely unwarranted! The Order of Saint Addai serve Christ, but, one has to wonder, do you?\n\nWith anger and sadness,\nGrand Master [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC60200;A young warrior, Seljuk, son of Toqaq of the Iron Bow of the Kinik tribe, has become something of a legend after performing several astounding feats of valor. I feel compelled to give this remarkable man a place at my court.;;;;;;;;;;;;x
+EVTOPTA60200;He bears watching...;;;;;;;;;;;;x
+EVTDESC60201;My men are restless and my ambitions must no longer be delayed. I must choose a juicy target and call my tribe to war!;;;;;;;;;;;;x
+EVTOPTA60201;メルヴが一番だ！;;;;;;;;;;;;x
+EVTOPTB60201;ホラーサーンが自然だろう;;;;;;;;;;;;x
+EVTOPTC60201;ディヒスターンが豊かで脆弱だ;;;;;;;;;;;;x
+EVTOPTD60201;サマルカンドが一番先だ！;;;;;;;;;;;;x
+EVTOPTE60201;バルフ…そうだ。;;;;;;;;;;;;x
+EVTDESC60205;[From.GetBestName], perhaps the most able warrior in my realm, has called his tribe and many other hopefuls to war, declaring his intention to take the [FromFrom.Duchy.GetFullBaseName] from [FromFrom.Holder.TopLiege.GetBestName]!;;;;;;;;;;;;x
+EVTOPTA60205;He will be missed, but I wish him luck!;;;;;;;;;;;;x
+EVTDESC60204;My tribe, the fighting Kinik, stand behind me as I set out to conquer [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;;x
+EVTOPTA60204;我が馬に鞍を付けよ！;;;;;;;;;;;;x
+EVTNAME60206;大セルジューク;;;;;;;;;;;;x
+EVTDESC60206;中央アジアの大草原に、一人の偉大な戦士が現れた。オグズ族クヌク氏族を率いる指導者にして、強大な[FromFrom.GetTitledName]との闘いに勝利し、その英気を知らしめる。他の諸氏族はそれに気づき、あらゆる種類の戦士たちが彼の旗の下へと大勢集結する。セルジュークハーンは彼等に約束した。この先攻め落とした地における略奪収奪は思いのままであると！;;;;;;;;;;;;x
+EVTOPTA60206;これは始まりにすぎない！;;;;;;;;;;;;x
+EVTOPTB60206;He is a credit to all Turks!;;;;;;;;;;;;x
+EVTOPTC60206;トルコのハーンは盛衰す…;;;;;;;;;;;;x
+EVTDESC60207;Turkish warriors from the homeland keep arriving in great numbers, hoping to serve in the armies of the great Seljuk's successor. With men such as these, I can accomplish anything!;;;;;;;;;;;;x
+EVTOPTA60207;セルジュークは自分の跡継ぎに大いに喜ばれるだろう！;;;;;;;;;;;;x
+EVTDESC60307;Horsemen from the great steppes keep arriving in great numbers, hoping to serve in the armies of Timur Khan's successor. With warriors like these, I can accomplish anything!;;;;;;;;;;;;x
+EVTOPTA60307;鉄のハーンはお喜びになられるだろう！;;;;;;;;;;;;x
+EVTDESC60300;A brilliant horseman and daring raider by the name of Timur has distinguished himself several times now. My commanders all agree that I should give this remarkable young man a chance to prove himself as a leader, clubfoot or no.;;;;;;;;;;;;x
+EVTOPTA60300;潜在的なライバルか？;;;;;;;;;;;;x
+EVTOPTA60305;As long as he does not turn on me!;;;;;;;;;;;;x
+EVTDESC60304;As I've fought for my liege I have gathered a large and loyal following, brave horsemen all. Rather than rise up against my old liege, I've decided to strike out for [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;;x
+EVTNAME60306;鉄のハーン;;;;;;;;;;;;x
+EVTDESC60306;Another great Khan is on the rise in Central Asia. Timur, called 'the Lame' due to his clubfoot, has proven himself to the Turco-Mongol tribes of the region. He seems intent on creating an empire to rival that of the legendary Genghis Khan himself, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of skilled horsemen have gathered under his banner!;;;;;;;;;;;;x
+EVTOPTA60306;私がテムジンの生まれ変わりだ！;;;;;;;;;;;;x
+EVTOPTB60306;彼は全てのモンゴル人の誇りだ！;;;;;;;;;;;;x
+EVTOPTC60306;These horselords sure are persistent!;;;;;;;;;;;;x
+IS_NOT_WITHIN_DIPLO_RANGE;外交範囲内にない;;;;;;;;;;;;x
+IS_WITHIN_DIPLO_RANGE;外交範囲内にある;;;;;;;;;;;;x
+manifest_destiny_invasion_desc;My manifest destiny allows me to invade §Y$TARGET$§!. If successful, everything §Y$TARGET$§! controls within the §Y$TITLE$§! will be taken or vassalized.;;;;;;;;;;;;x
+emperor_dravidian_group;サムラト;;;;;;;;;;;;x
+emperor_female_dravidian_group;サムラジュニ;;;;;;;;;;;;x
+king_dravidian_group;マハラジャ;;;;;;;;;;;;x
+king_female_dravidian_group;マハラニ;;;;;;;;;;;;x
+duke_dravidian_group;ラージャ;;;;;;;;;;;;x
+duke_female_dravidian_group;ラーニ;;;;;;;;;;;;x
+count_dravidian_group;タクル;;;;;;;;;;;;x
+count_female_dravidian_group;タクラニ;;;;;;;;;;;;x
+baron_dravidian_group;ダマパティ;;;;;;;;;;;;x
+baron_female_dravidian_group;ダマパトニ;;;;;;;;;;;;x
+title_prince_c_indian;ラジュクマール;;;;;;;;;;;;x
+title_prince_female_c_indian;ラジュクマーリ;;;;;;;;;;;;x
+duchy_dravidian_group;ラージャ領;;;;;;;;;;;;x
+county_dravidian_group;タクル領;;;;;;;;;;;;x
+barony_dravidian_group;ダマパティ領;;;;;;;;;;;;x
+duchy_of_dravidian_group;ラージャ領;;;;;;;;;;;;x
+county_of_dravidian_group;タクル領;;;;;;;;;;;;x
+barony_of_dravidian_group;ダマパティ領;;;;;;;;;;;;x
+emperor_indo_aryan_group;サムラト;;;;;;;;;;;;x
+emperor_female_indo_aryan_group;サムラジュニ;;;;;;;;;;;;x
+king_indo_aryan_group;マハラジャ;;;;;;;;;;;;x
+king_female_indo_aryan_group;マハラニ;;;;;;;;;;;;x
+duke_indo_aryan_group;ラージャ;;;;;;;;;;;;x
+duke_female_indo_aryan_group;ラーニ;;;;;;;;;;;;x
+count_indo_aryan_group;タクル;;;;;;;;;;;;x
+count_female_indo_aryan_group;タクラニ;;;;;;;;;;;;x
+baron_indo_aryan_group;ダマパティ;;;;;;;;;;;;x
+baron_female_indo_aryan_group;ダマパトニ;;;;;;;;;;;;x
+title_prince_indo_aryan_group;ラジュクマール;;;;;;;;;;;;x
+title_prince_female_indo_aryan_group;ラジュクマーリ;;;;;;;;;;;;x
+duchy_indo_aryan_group;ラージャ領;;;;;;;;;;;;x
+county_indo_aryan_group;タクル領;;;;;;;;;;;;x
+barony_indo_aryan_group;ダマパティ領;;;;;;;;;;;;x
+duchy_of_indo_aryan_group;ラージャ領;;;;;;;;;;;;x
+county_of_indo_aryan_group;タクル領;;;;;;;;;;;;x
+barony_of_indo_aryan_group;ダマパティ領;;;;;;;;;;;;x
+temple_kingdom_of_hindu;寺院領;;;;;;;;;;;;x
+temple_kingdom_of_buddhist;法主領;;;;;;;;;;;;x
+temple_kingdom_of_jain;寺院領;;;;;;;;;;;;x
+temple_duchy_of_hindu;寺院領;;;;;;;;;;;;x
+temple_duchy_of_buddhist;別当領;;;;;;;;;;;;x
+temple_duchy_of_jain;寺院領;;;;;;;;;;;;x
+temple_county_of_hindu;寺院領;;;;;;;;;;;;x
+temple_county_of_buddhist;門跡領;;;;;;;;;;;;x
+temple_county_of_jain;寺院領;;;;;;;;;;;;x
+temple_county_of_indian_group;寺院領;;;;;;;;;;;;x
+temple_duchy_of_indian_group;寺院領;;;;;;;;;;;;x
+temple_kingdom_of_indian_group;寺院領;;;;;;;;;;;;x
+temple_baron_hindu;プジャリ;;;;;;;;;;;;x
+temple_baron_buddhist;比丘;;;;;;;;;;;;x
+temple_baron_jain;ニルグランサ;;;;;;;;;;;;x
+temple_count_hindu;プジャリ;;;;;;;;;;;;x
+temple_count_buddhist;比丘;;;;;;;;;;;;x
+temple_count_jain;ニルグランサ;;;;;;;;;;;;x
+temple_duke_hindu;プジャリ;;;;;;;;;;;;x
+temple_duke_buddhist;比丘;;;;;;;;;;;;x
+temple_duke_jain;ニルグランサ;;;;;;;;;;;;x
+temple_king_hindu;プジャリ;;;;;;;;;;;;x
+temple_king_buddhist;法主;;;;;;;;;;;;x
+temple_king_jain;ニルグランサ;;;;;;;;;;;;x
+SM_WINDOWMODE;ウィンドウモード;;;;;;;;;;;;x
+FULLSCREEN;フルスクリーン;;;;;;;;;;;;x
+BORDERLESS_WINDOW;ボーダーレス;;;;;;;;;;;;x
+WINDOWED;ウィンドウ;;;;;;;;;;;;x
+married_monkey;この人物は猿と結婚しました...;;;;;;;;;;;;x
+good_hunt;成功した狩り;;;;;;;;;;;;x
+HAS_LOWER_PIETY_THAN;[Player.Religion.GetPietyName]が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_PIETY_THAN;[Player.Religion.GetPietyName]が右記以上:;;;;;;;;;;;;x
+PIETY_EFFECT;$PIETYNAME$が$DIRECTION$$VALUE$。\n;;;;;;;;;;;;x
+LIEGE_PIETY_BUILDING;主君への$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x
+LIEGE_PIETY_SELF;建築物からの$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x
+LIEGE_PIETY;封臣の建築物からの$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x
+STAT_PIETY_HONOR;名誉;;;;;;;;;;;;x
+STAT_PIETY_DESC_HONOR;名誉は聖職者、特に貴方の宗教指導者から尊敬されます。それは宗教指導者に請願するときに使います。威信のように、当主の死は貴方のスコアに加算されます。;;;;;;;;;;;;x
+MONTHLY_PIETY_HONOR;毎月の名誉増加;;;;;;;;;;;;x
+HAS_HEIR_DESIGNATION;跡継ぎに指定できます;;;;;;;;;;;;x
+HAS_NOT_HEIR_DESIGNATION;跡継ぎに指定できません;;;;;;;;;;;;x
+title_designated_heir;指定後継者;;;;;;;;;;;;x
+title_designated_heir_desc;この人物を跡継ぎに指定;;;;;;;;;;;;x
+COUNTS_AS_DESIGNATED_HEIR;この人物を後継者として指定する;;;;;;;;;;;;x
+PIECE;一片;;;;;;;;;;;;x
+AIREASON_WILL_NOT_MARRY_OTHER_CAST;§Y[GetTitledFirstName]§!は別のカーストの人物と結婚してはならない;;;;;;;;;;;;x
+STAT_PIETY_KARMA;業;;;;;;;;;;;;x
+STAT_PIETY_DESC_KARMA;Karma is respected by the clergy and monastics of your religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;x
+MONTHLY_PIETY_KARMA;毎月の業の増加;;;;;;;;;;;;x
+STAT_PIETY_PURITY;浄;;;;;;;;;;;;x
+STAT_PIETY_DESC_PURITY;Purity is respected by the clergy and monks of the Jain religion, and also affects the loyalty of your Jain vassals. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;x
+MONTHLY_PIETY_PURITY;毎月の浄の増加;;;;;;;;;;;;x
+SPECIAL_TROOPS;特別部隊;;;;;;;;;;;;x
+horse_archers;弓騎兵;;;;;;;;;;;;x
+EVTDESC_RoI_1000;この季節の節目を祝う宴を正しく祝うためには封臣全員を招待しなければならない。書記に招待状を書かせ、それを送る使者の鞄も花で飾り付けさせた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1000;素晴らしい宴となるだろう！;;;;;;;;;;;;x
+EVTTOOLTIP1_RoI_1000;招待状を送った;;;;;;;;;;;;x
+EVTDESC_RoI_1001;親愛なる封臣へ\nここにディーワーリー祭を祝う我が宴へ貴方を招待いたします。\n\n汝の主\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_RoI_1001;勿論出席いたしましょう！;;;;;;;;;;;;x
+EVTOPTB_RoI_1001;時間がない。;;;;;;;;;;;;x
+EVTDESC_RoI_1940;親愛なる封臣へ\nここにカーリー・プージャ祭を祝う我が宴へ貴方を招待いたします。\n\n汝の主\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_RoI_1940;勿論出席いたしましょう！;;;;;;;;;;;;x
+EVTOPTB_RoI_1940;時間がない！;;;;;;;;;;;;x
+EVTDESC_RoI_1002;封臣[From.GetFullName]に宴への誘いを断られた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1002;覚えておけよ…;;;;;;;;;;;;x
+EVTDESC_RoI_1005;インドの秋のお祭りでは配偶者に贈り物をするしきたりがある。祭りが始まる前にそれに備えて何か買わなければいけない。;;;;;;;;;;;;x
+EVTOPTA_RoI_1005;宝石の付いた首飾りなら完璧だろう！;;;;;;;;;;;;x
+EVTOPTB_RoI_1005;小さな香水の箱か何かでいいんじゃないだろうか。;;;;;;;;;;;;x
+EVTOPTC_RoI_1005;彼女なら贈り物などしなくても大丈夫だ。;;;;;;;;;;;;x
+EVTOPTD_RoI_1005;代わりに愛人に贈り物をしよう…;;;;;;;;;;;;x
+EVTOPTE_RoI_1005;強健な馬なら彼も喜ぶでしょう！;;;;;;;;;;;;x
+EVTOPTF_RoI_1005;素敵なケープか何かで十分でしょう。;;;;;;;;;;;;x
+EVTOPTG_RoI_1005;彼なら贈り物などしなくても大丈夫です。;;;;;;;;;;;;x
+EVTOPTH_RoI_1005;代わりに愛人に贈り物をしましょう…;;;;;;;;;;;;x
+EVTDESC_RoI_1006;しきたりに従い、秋のお祭りの間に自分の愛する人に贈り物をします。;;;;;;;;;;;;x
+EVTOPTA_RoI_1006;彼女に高価な宝石を買ってあげよう。;;;;;;;;;;;;x
+EVTOPTB_RoI_1006;小さな香水の箱でいいだろう。;;;;;;;;;;;;x
+EVTOPTC_RoI_1006;彼女なら贈り物などしなくても大丈夫だ。;;;;;;;;;;;;x
+EVTOPTD_RoI_1006;彼には強健な馬を買ってあげましょう！;;;;;;;;;;;;x
+EVTOPTE_RoI_1006;この素敵なケープで結構なはずです。;;;;;;;;;;;;x
+EVTOPTF_RoI_1006;彼なら贈り物などしなくても大丈夫でしょう…;;;;;;;;;;;;x
+EVTDESC_RoI_1007;祭りが始まった。さあ古くからの贈り物の儀式の時間だ…;;;;;;;;;;;;x
+EVTOPTA_RoI_1007;妻は素晴らしい贈り物に大喜びだ！;;;;;;;;;;;;x
+EVTOPTB_RoI_1007;妻は贈り物に満足してくれた。;;;;;;;;;;;;x
+EVTOPTC_RoI_1007;妻は何ももらえず動揺している。;;;;;;;;;;;;x
+EVTOPTD_RoI_1007;愛人には贈り物に大喜びしてもらった。一方妻は幸せではなさそうだ。;;;;;;;;;;;;x
+EVTOPTE_RoI_1007;愛する人は贈り物に大喜びです！;;;;;;;;;;;;x
+EVTOPTF_RoI_1007;愛人は贈り物に満足してくれた。一方妻は幸せではなさそうだ。;;;;;;;;;;;;x
+EVTOPTG_RoI_1007;愛する人は贈り物に満足してくれた。;;;;;;;;;;;;x
+EVTOPTH_RoI_1007;愛する人は何ももらえず失望した様子だ。;;;;;;;;;;;;x
+EVTOPTI_RoI_1007;夫は素晴らしい贈り物に大喜びです！;;;;;;;;;;;;x
+EVTOPTJ_RoI_1007;夫は贈り物に満足してくれた。;;;;;;;;;;;;x
+EVTOPTK_RoI_1007;夫は何ももらえず動揺している。;;;;;;;;;;;;x
+EVTOPTL_RoI_1007;愛人には贈り物に大喜びしてもらった。一方夫は幸せではなさそうだ。;;;;;;;;;;;;x
+EVTOPTM_RoI_1007;愛する人は贈り物に大喜びです！;;;;;;;;;;;;x
+EVTOPTN_RoI_1007;愛人は贈り物に満足してくれた。一方夫は幸せではなさそうだ。;;;;;;;;;;;;x
+EVTOPTO_RoI_1007;愛する人は贈り物に満足してくれた。;;;;;;;;;;;;x
+EVTOPTP_RoI_1007;愛する人は何ももらえず失望した様子だ。;;;;;;;;;;;;x
+EVTDESC_RoI_1020;城は花と色とりどりのタペストリーにカーペットとリボンで飾り付けられた。全ての賓客が到着し、その喧騒は皆熱く、祭りの雰囲気が溢れ出ている。さあ宴を始めよう！;;;;;;;;;;;;x
+EVTOPTA_RoI_1020;ようこそ、皆さん！;;;;;;;;;;;;x
+EVTDESC_RoI_1996;宴は終わったが、今回は素晴らしい宴となった。賓客が家路につくと、私は腰を下ろして今回の宴の結果に満足の笑みを浮かべた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1996;来年もやろう！;;;;;;;;;;;;x
+EVTDESC_RoI_1997;宴は終わったが、今回は自分が思っていたとおりに上手くはあまりいかなかった。賓客が家路につくと、私は腰を下ろして何が行けなかったのか考えた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1997;多分来年はもっと上手くやれるだろう。;;;;;;;;;;;;x
+EVTDESC_RoI_1998;宴は終わったが、今回は素晴らしい宴だった。家路につき、来年も招待があればぜひ行きたいものだと考えた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1998;素晴らしい一時だった！;;;;;;;;;;;;x
+EVTDESC_RoI_1999;宴は終わったが、残念な出来事のせいで完全には楽しめなかった。家路につき、人生の山と谷について考えた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1999;仕方ない。;;;;;;;;;;;;x
+EVTDESC_RoI_1050;蛇使いが賓客を楽しませている。笛を吹いて籠に入った色々な毒蛇に変わった音の曲を聴かせていた。声と音楽で蛇を操る蛇使いの技に賓客は釘付けだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1050;素晴らしい！;;;;;;;;;;;;x
+EVTDESC_RoI_1051;蛇使いが蛇を魔法のように操っているのを見てどんちゃん騒ぎをしていた賓客たちもすっと静まったが、急に甲高い悲鳴が聞こえ、蛇使いは混乱した様子だ―大きなコブラが逃げ出し、床をスルスルと這って観客の方へと向かってゆく！;;;;;;;;;;;;x
+EVTOPTA_RoI_1051;なんということだ！;;;;;;;;;;;;x
+EVTDESC_RoI_1052;逃げ出したコブラは机の下にいなくなってしまった。幾ばくかの静寂の後、甲高い悲鳴が上がった。コブラは賓客の一人の膝にスルスルと這い登り、その賓客は恐怖で死にそうになっている！その後コブラは開いた窓からスルリと外に出ていってしまった;;;;;;;;;;;;x
+EVTOPTA_RoI_1052;もう二度とこの蛇使いは雇わないぞ。;;;;;;;;;;;;x
+EVTDESC_RoI_1053;蛇使いが賓客を楽しませている。笛を吹いて籠に入った色々な毒蛇に変わった音の曲を聴かせていた。ところが、膝に急に何かヒヤッとしたものが触れ、膝へと這い登ってくる…;;;;;;;;;;;;x
+EVTOPTA_RoI_1053;ギャアアア！コブラだ！;;;;;;;;;;;;x
+EVTDESC_RoI_1054;逃げ出したコブラは机の下にいなくなってしまった。幾ばくかの静寂の後、恐ろしい叫び声が上がった。賓客の一人が壊れてしまいそうなほど激しく痙攣している。コブラが自分の直ぐ側で人に噛み付いたのに気付いた人たちは衝撃を受けた様子で噛まれた賓客を見ている。コブラは開いた窓から外に出ていってしまうと、噛みつかれた犠牲者の痙攣は止まった。死んでしまったのだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1054;痛ましい！;;;;;;;;;;;;x
+EVTDESC_RoI_1055;逃げ出したコブラは床の上を這いずり回っている。食卓についている賓客たちは凍りついたようであったが、ただ一人だけ、ある賓客が速やかに剣を抜き放つと歩み出て、コブラを一刀両断にした。;;;;;;;;;;;;x
+EVTOPTA_RoI_1055;よくやった！;;;;;;;;;;;;x
+EVTDESC_RoI_1056;蛇使いは宴の賓客を楽しませていたが、それもコブラが突然逃げ出すまでだった！私は速やかに剣を抜き放つと歩み出て、コブラを一刀両断にしてやった。;;;;;;;;;;;;x
+EVTOPTA_RoI_1056;家でこういうことをやってはいけませんよ。皆さん。;;;;;;;;;;;;x
+EVTTITLE_RoI_1060;決闘;;;;;;;;;;;;x
+EVTDESC_RoI_1060;That person over there has been looking at you in a funny way during the entire feast. Laughing, thinking evil thoughts about you. You have tried putting goat's cheese in your hair to ward it off, but still his scheming ways threaten you. He wants to take your gold. And your undergarments.;;;;;;;;;;;;x
+EVTOPTA_RoI_1060;決闘だ!奴の頭蓋骨から脳を引きずり出してやる!;;;;;;;;;;;;x
+EVTOPTB_RoI_1060;No time now, I must frolic. I must frolic.;;;;;;;;;;;;x
+EVTDESC_RoI_1061;The voices in your head have spoken. The pressure rises, you must see blood flow tonight or you will go insane. Anyone at the table of the feast will do - ah, that one!;;;;;;;;;;;;x
+EVTOPTA_RoI_1061;屑が！貴殿に決闘を申し込む！;;;;;;;;;;;;x
+EVTOPTB_RoI_1061;今はそのときではない…深呼吸をしよう…;;;;;;;;;;;;x
+EVTDESC_RoI_1062;A fellow guest at the feast, mindless of his manners, has repeatedly turned his back on you and now he spilled sauce on your garments. You are certain it was on purpose - or at least you're not certain it wasn't.;;;;;;;;;;;;x
+EVTOPTA_RoI_1062;充分だ！貴殿に決闘を申し込む！;;;;;;;;;;;;x
+EVTOPTB_RoI_1062;いや、今はそのときではない。;;;;;;;;;;;;x
+EVTDESC_RoI_1063;You are enjoying a fantastic show of dancers at the feast. Suddenly, a fellow reveller accidentally bumps into you, knocking your drink out of your hand.;;;;;;;;;;;;x
+EVTOPTA_RoI_1063;Grab him and challenge him to a duel!;;;;;;;;;;;;x
+EVTOPTB_RoI_1063;Take your rage out on the furniture.;;;;;;;;;;;;x
+EVTDESC_RoI_1064;That man who has been staring at you several times during the feast is surely plotting to murder you. Better to fight him here in the open than him sticking a knife in your back later.;;;;;;;;;;;;x
+EVTOPTA_RoI_1064;貴殿に決闘を申し込む！;;;;;;;;;;;;x
+EVTOPTB_RoI_1064;On second thought, I may be imagining things.;;;;;;;;;;;;x
+EVTDESC_RoI_1065;What a great feast! You have been drinking heavily for several days, only pausing to sleep (but not much). You are wandering around the grounds, not exactly sure where you are. You excuse yourself to people as you bump into them.\n\nYou have the servants fetch you another drink. What day is it? It seems you are wearing someone else's clothes. How funny! Someone tells you to calm down, how annoying. Someone else wants their clothes back, now they're shouting and threatening.;;;;;;;;;;;;x
+EVTOPTA_RoI_1065;What the... I'll kill you, party spoilers!;;;;;;;;;;;;x
+EVTOPTB_RoI_1065;Come now, let's calm down and have a drink...;;;;;;;;;;;;x
+EVTDESC_RoI_1066;A fellow guest at the feast, clearly out of his mind, has challenged you to a duel. It seems to you there is no good reason, and duels can be very dangerous, but backing down might still make you look weak.;;;;;;;;;;;;x
+EVTOPTA_RoI_1066;I accept! You will regret this.;;;;;;;;;;;;x
+EVTOPTB_RoI_1066;No, this is crazy. Go away.;;;;;;;;;;;;x
+EVTDESC_RoI_1067;Your intended opponent refuses to duel with you.;;;;;;;;;;;;x
+EVTOPTA_RoI_1067;I will eat your brain later, coward!;;;;;;;;;;;;x
+EVTOPTB_RoI_1067;だがその声は…;;;;;;;;;;;;x
+EVTOPTC_RoI_1067;ああ、分かった、君は臆病者だ。;;;;;;;;;;;;x
+EVTOPTD_RoI_1067;ちくしょう！;;;;;;;;;;;;x
+EVTOPTE_RoI_1067;You do this to spite me!;;;;;;;;;;;;x
+EVTDESC_RoI_1068;Tension runs high at the feast. [From.GetTitledName] has challenged [FromFrom.GetTitledName]to a duel, but the latter chose to back down, doing some injury to his prestige.;;;;;;;;;;;;x
+EVTOPTA_RoI_1068;よかった、流血は避けられた。;;;;;;;;;;;;x
+EVTOPTB_RoI_1068;Shame, it would have livened up the feast.;;;;;;;;;;;;x
+EVTDESC_RoI_1069;The guests at the feast gather around to see the duel between you and [FromFrom.GetFullName]. As the challenged party, you have the right to choose which weapon shall be used in the duel.;;;;;;;;;;;;x
+EVTOPTA_RoI_1069;剣;;;;;;;;;;;;x
+EVTOPTB_RoI_1069;短剣;;;;;;;;;;;;x
+EVTOPTC_RoI_1069;槍;;;;;;;;;;;;x
+EVTDESC_RoI_1070;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen swords. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;x
+EVTOPTA_RoI_1070;我が剣を持って参れ。;;;;;;;;;;;;x
+EVTDESC_RoI_1071;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen daggers. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;x
+EVTOPTA_RoI_1071;我が短剣を持って参れ。;;;;;;;;;;;;x
+EVTDESC_RoI_1072;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen spears. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;x
+EVTOPTA_RoI_1072;我が槍を持って参れ。;;;;;;;;;;;;x
+EVTDESC_RoI_1073;The duel is about to start. But first, there is one thing that remains for you to decide: will you fight honorably or fight dirty? The latter choice will obviously increase your chances, but there is a large crowd watching and they will see everything that happens.;;;;;;;;;;;;x
+EVTOPTA_RoI_1073;我が名誉は我が強さだ。;;;;;;;;;;;;x
+EVTOPTB_RoI_1073;愚か者だけが公平な勝負をするのだ。;;;;;;;;;;;;x
+EVTDESC_RoI_1075;The duel commences. You begin to circle around each other, both of you observing the other closely and feinting to try and gauge the skill of the opponent. Then suddenly, steel flashes and there is a flurry of attacks and counterattacks. Gasps of terror and of delight are heard from the audience, mixing with the curses and grunts from the duelists and the sound of clashing steel...;;;;;;;;;;;;x
+EVTOPTA_RoI_1075;集中せよ…;;;;;;;;;;;;x
+EVTOPTA_RoI_1951;誰も死なないでくれ。;;;;;;;;;;;;x
+EVTOPTB_RoI_1951;血を見たい!;;;;;;;;;;;;x
+EVTOPTA_RoI_1080;全ては順調である;;;;;;;;;;;;x
+EVTOPTB_RoI_1080;He gave in too easily!;;;;;;;;;;;;x
+EVTOPTA_RoI_1081;彼はよく戦った。;;;;;;;;;;;;x
+EVTDESC_RoI_1140;宴の間、踊り子を見て楽しんだ。踊り子の一人は特に関心を引いた。半神的な優美さと魅力を持つ彼女に強く惹かれた。これはもしかして天界から遣わされた姿形を変える踊り子、伝説に出てきた神秘的で美しい天女ではないだろうか。;;;;;;;;;;;;x
+EVTOPTA_RoI_1140;踊りが終わった後にこの踊り子を呼び出す。;;;;;;;;;;;;x
+EVTOPTB_RoI_1140;何もしない。;;;;;;;;;;;;x
+EVTDESC_RoI_1141;踊りが終わった後踊り子を呼び出し、自分の横に座らせた。こちらが肉体と喜び、彼女の美貌について語ると、彼女はこちらに更に身を寄せ、柔らかく魅惑的な声で話しかけてきた。なんか妙に暑く、クラクラしてきた。いい気分だ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1141;さあもっと静かな場所に行こう…;;;;;;;;;;;;x
+EVTOPTB_RoI_1141;うっとりさせてもらった。だが私はもう行かなければ。;;;;;;;;;;;;x
+EVTDESC_RoI_1142;目を覚ますと、昨晩の素晴らしい喜びの夜の記憶が蘇ってきた。あたりを見渡してみたが、踊り子は跡形もなく蒸発していた。何か途方もないことが起こったのだ。祭司や語り部に聞いた古いお伽噺を思い出す―彼女は本当に人間だったのだろうか、もしかしたら本当にあの伝説の天女に会えたのではないだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_1142;神々と触れ合うことができたのだ。;;;;;;;;;;;;x
+EVTOPTB_RoI_1142;永久に知りえないことだ。;;;;;;;;;;;;x
+EVTDESC_RoI_1143;At one point during the feast, a male singer performs. His voice is captivating and sensual, notes dancing across the room and tickling your skin with an almost physical touch. You are completely captivated by his charisma - he reminds you of the mysterious and beautiful Gandharvas of legend, singer spirits of the sky making music for the gods.;;;;;;;;;;;;x
+EVTOPTA_RoI_1143;Call him over after the performance.;;;;;;;;;;;;x
+EVTOPTB_RoI_1143;やめておこう。;;;;;;;;;;;;x
+EVTDESC_RoI_1144;You call the singer over after the performance has finished, and he comes and sits down next to you. You talk of music, the body, pleasure and beauty. He sits very close to you, speaking with a soft and seductive voice. You begin to feel strangely warm and light-headed. It feels good.;;;;;;;;;;;;x
+EVTDESC_RoI_1145;As you wake, your mind is filled with memories of a wonderful night of pleasure. You look around, but the singer is gone without a trace. A small bird flies by outside the window, singing beautifully. Your mind wanders to old tales told by priests and storytellers - was he really a human man, or could it be that you have met one of the beautiful Gandharva of legend?;;;;;;;;;;;;x
+EVTTITLE_RoI_1051;魔術師;;;;;;;;;;;;x
+EVTDESC_RoI_1151;魔術師が芸をしに入ってくると、宴の賓客の中からなにやらブツブツ声が聞こえた。「これからやるショーはどれほど斜に構えた観客の方でもびっくり仰天されることでしょう」と魔術師は流暢な口調で口上を述べた。その後魔術師は少年を床の上に置かれた籠の中に入れ、そして籠を剣で切り刻んだ。魔術師が籠の残骸をどけると、そこには少年の姿はない。血も流れていない。全く何も無くなっている…;;;;;;;;;;;;x
+EVTOPTA_RoI_1151;素晴らしい！;;;;;;;;;;;;x
+EVTOPTB_RoI_1151;衛兵！この男をひっ捕らえろ！;;;;;;;;;;;;x
+EVTDESC_RoI_1152;魔術師が芸をしに入ってくると、宴の賓客の中からなにやらブツブツ声が聞こえた。魔術師は流れるような手付きで目の前の机の上に3つのカップを並べた。その内の一つにボールを入れると、「もう一度ちゃんとどこにボールが入っているのか、確認して下さい」と言った魔術師は更に「私がカップを動かしますので、どれにボールが入っているのか当てて下さい」と言った。すると魔術師は光のような速さでカップを動かし、しばらく他愛もないことお喋りをすると、こちらを呼び「どのカップでしょう？」と質問してきた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1152;左だ。;;;;;;;;;;;;x
+EVTOPTB_RoI_1152;真ん中だ。;;;;;;;;;;;;x
+EVTOPTC_RoI_1152;右だ。;;;;;;;;;;;;x
+EVTDESC_RoI_1153;魔術師ははしてやったりという感じの笑顔でこちらを見つめると、カップを開いた。どうやら間違ったカップを選んでしまったようだ;;;;;;;;;;;;x
+EVTOPTA_RoI_1153;ああしくじった。;;;;;;;;;;;;x
+EVTOPTB_RoI_1153;イカサマをしているな！;;;;;;;;;;;;x
+EVTOPTC_RoI_1153;イカサマをしているのを見たぞ、このペテン師め！;;;;;;;;;;;;x
+EVTDESC_RoI_1154;魔術師が芸をしに入ってくると、宴の賓客の中からなにやらブツブツ声が聞こえた。「これからやるショーに皆さん仰天されることでしょう」と魔術師は流暢な口調で口上を述べた。魔術師はロープを取り出すと笛を吹き始めた。するとロープはひとりでに踊りだし、天井へ向かって伸びてゆく。魔術師が手招きすると小さな少年が現れ、ロープを登り始めた。観衆は息を呑む。数分後、少年はそのまま無事に地面に降りてきて、魔術師が笛を吹くのをやめるとロープはまた何事もなかったかのように崩れ落ちた。;;;;;;;;;;;;x
+EVTOPTB_RoI_1154;ハハ！ワイヤで吊っているのが見えたぞ。;;;;;;;;;;;;x
+EVTDESC_RoI_1160;You are sitting at the table during the feast, enjoying the food and drink. Suddenly, you hear a wild chattering and screaming. A group of small monkeys have entered through an open window, and they quickly spread in the hall, causing chaos! They pull people's hair and clothes, steal food, spill wine, drink wine and defecate on the tables. The feast hall is in uproar.;;;;;;;;;;;;x
+EVTOPTA_RoI_1160;なんてこった！;;;;;;;;;;;;x
+EVTOPTB_RoI_1160;弓を渡せ！;;;;;;;;;;;;x
+EVTOPTC_RoI_1160;Let's catch one and see what they look like on the inside...;;;;;;;;;;;;x
+EVTOPTD_RoI_1160;その猿は我が友だ!;;;;;;;;;;;;x
+EVTOPTE_RoI_1160;なんと美しい動物たちか!そのうちの一匹と結婚しよう!;;;;;;;;;;;;x
+EVTOPTF_RoI_1160;Haha! Look at the little rascals! So carefree!;;;;;;;;;;;;x
+EVTOPTG_RoI_1160;あぁ！この小さな怪物達をここから叩き出せ!;;;;;;;;;;;;x
+EVTDESC_RoI_1171;さあこの夜はディーワーリー祭の中で最も重要な夜だ。蝋燭とランプが辺りを照らし、賓客達は色とりどりの服を着て彩られ飾り付けられた床の上をそぞろ歩く。豪華な美味しい食事が供され、飲み物も沢山振る舞われた。ラーマとラクシュミーが称えられ、光の闇への勝利、善の悪への勝利、知識の無知への勝利、希望の絶望への勝利が祝われた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1171;さあ祝福しましょう！;;;;;;;;;;;;x
+EVTDESC_RoI_1173;さあこの夜はディーワーリー祭の中で最も重要な夜だ。蝋燭とランプが辺りを照らし、賓客達は色とりどりの服を着て彩られ飾り付けられた床の上をそぞろ歩く。豪華な美味しい食事が供され、飲み物も沢山振る舞われた。光の闇への勝利、善の悪への勝利、知識の無知への勝利、希望の絶望への勝利が祝われた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1173;さあ祝福しましょう！;;;;;;;;;;;;x
+EVTDESC_RoI_1175;さあこの夜はディーワーリー祭の中で最も重要な夜だ。蝋燭とランプが辺りを照らし、賓客達は色とりどりの服を着て彩られ飾り付けられた床の上をそぞろ歩く。豪華な美味しい食事が供された。善の悪への勝利、そして知識の無知への勝利と共に最後の祖師マハヴィーラの涅槃の偉業が祝われた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1175;さあ祝福しましょう！;;;;;;;;;;;;x
+EVTDESC_RoI_1177;さあこの夜はカーリー・プージャ祭の中で最も重要な夜だ。人間の髑髏の中に置かれた蝋燭が辺りを照らしている。賓客は時間・死・変化の象徴を身に着け、彩られ飾り付けられた床の上をそぞろ歩く。四本の手に剣と髑髏と切断された首を持った美しく恐ろしい偶像に忠誠を誓うのだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1177;さあ儀式を始めよう。;;;;;;;;;;;;x
+EVTOPTB_RoI_1177;今年はもっと違うこともやってみよう。;;;;;;;;;;;;x
+EVTDESC_RoI_1178;カーリーは時間と死を司る母なる神であり、今夜の主となるものだ。カーリーは正しく称えられなくてはならない。もうやるべきことは分かっている…;;;;;;;;;;;;x
+EVTOPTA_RoI_1178;囚人を犠牲に捧げよう;;;;;;;;;;;;x
+EVTOPTB_RoI_1178;あそこにいる使用人を犠牲に捧げよう;;;;;;;;;;;;x
+EVTOPTC_RoI_1178;象十頭を犠牲に捧げ、その血を壁に塗りたくろう。;;;;;;;;;;;;x
+EVTDESC_RoI_1179;叫び声を上げる[From.GetFullName]をカーリーの大きな像の前に引きずり出した。召使いが[From.GetHerHim]を抑え込むと、祭司は刀身のうねった長い剣を取り出し、[From.GetHerHim]の心臓目がけて突き刺した。そして[From.GetHerHis]の喉が切り裂かれ、人の髑髏で作られた器に血がゆっくりと溜まっていき、溜まった血は賓客に回し飲みされた。;;;;;;;;;;;;x
+EVTOPTA_RoI_1179;This is truly a joyous occasion!;;;;;;;;;;;;x
+EVTDESC_RoI_1181;召使いは衛兵に掴まれると叫び声を上げ、そのままカーリーの大きな像の前へ引きずり出された。寺院の召使いが犠牲に選ばれた召使いを抑え込むと、祭司は刀身のうねった長い剣を取り出し、その心臓目がけて突き刺した。そしてその喉は切り裂かれ、人の髑髏で作られた器に血がゆっくりと溜まっていき、溜まった血は賓客に回し飲みされた。;;;;;;;;;;;;x
+EVTTITLE_RoI_1183;A celebration in blood;;;;;;;;;;;;x
+EVTDESC_RoI_1183;大きな象が広間に連れてこられた。象は太い縄と鎖で繋がれており、剣を突き刺されると叫び声を上げ、そこから死ぬまで数分間恐ろしい咆哮を上げ続けた。震え上がった賓客の目はその光景に釘付けだ。これが後の9頭にも繰り返された―長く血みどろの死の不協和音の音楽会である。それが終わった頃には床は血の海と化していた。数人の祭司が長い筆を持って、血で滑りながらも前に歩み出た。祭司は筆を床の血に浸し、壁にその血を塗り始め、遂には壁は身の毛もよだつ様な黒い血で完全に覆われてしまった。その臭いは強く、吐き気を催すほどだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1183;母なるカーリーを讃えよ！;;;;;;;;;;;;x
+EVTDESC_RoI_1188;祭司が黒いヤギ数頭を前へと連れてきた。カーリーの大きな像の前に寝かされたヤギの喉が切り裂かれる。人の髑髏で出来た器に溜められたヤギの血が皆に見せられた。詠唱が始まり、歓呼の声が上がる。死と時間とこの最も深き夜を支配する女神カーリーに聖なる犠牲が捧げられたのだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_1188;母なるカーリーを讃えよ！;;;;;;;;;;;;x
+horse_archers_offensive;弓騎兵の攻撃値;;;;;;;;;;;;x
+horse_archers_defensive;弓騎兵の防御値;;;;;;;;;;;;x
+horse_archers_morale;弓騎兵の士気;;;;;;;;;;;;x
+UNSUPPORTED_VERSION_2_1;§RPre 2.1§!;;;;;;;;;;;;x
+EVTDESC_RoI_2000;虎狩りを開くことにした。封臣に一緒に虎狩りに行かないか招待状を送ることにしよう。;;;;;;;;;;;;x
+EVTOPTA_RoI_2000;早馬で招待状を送らせろ。;;;;;;;;;;;;x
+EVTTOOLTIP1_RoI_2000;招待状が送られます。;;;;;;;;;;;;x
+EVTDESC_RoI_2001;親愛なる封臣へ\n\n封臣皆のため、盛大な虎狩りを準備しており、ここに貴方を招待いたします。\n\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_RoI_2001;虎狩りですって！勿論行きましょう。;;;;;;;;;;;;x
+EVTOPTB_RoI_2001;娯楽に費やす時間はない。;;;;;;;;;;;;x
+EVTDESC_RoI_2002;主殿へ\n\n貴方の知恵と寛大さは圧倒的でございます。喜んで虎狩りに参りましょう。\n\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_RoI_2002;素晴らしい。;;;;;;;;;;;;x
+EVTDESC_RoI_2003;主殿へ\n\n残念至極ではございますが、緊急の用事がございまして、虎狩りへのご招待をお断りぜざるをえないのでございます。\n\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_RoI_2003;「緊急の用事」ねえ？;;;;;;;;;;;;x
+EVTDESC_RoI_2019;狩りのための野営地に到着した。召使いにはどんな用事も頼めるし、兵士は野営地の警護と虎の狩り出しの両方に便利だろう。今日もいい日になるはずだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_2019;もう待ちきれない！;;;;;;;;;;;;x
+EVTDESC_RoI_2020;狩りの参加者とその側近たちが野営地に集合した。召使いにはどんな用事も頼めるし、兵士は野営地の警護と虎の狩り出しの両方に便利だろう。今日もいい日になるはずだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_2020;もう待ちきれない！;;;;;;;;;;;;x
+EVTDESC_RoI_2501;狩りは大成功だ！これで領国の繁栄も確実だ。皆希望を胸に家路へとついた。;;;;;;;;;;;;x
+EVTOPTA_RoI_2501;祝おう！;;;;;;;;;;;;x
+EVTDESC_RoI_2502;狩りは失敗だ。虎が一頭も狩れなかったのは領国の将来への悪い前兆だ。次こそは成功させようと心に誓った。;;;;;;;;;;;;x
+EVTOPTA_RoI_2502;残念だ。;;;;;;;;;;;;x
+EVTDESC_RoI_2100;野営地での社会生活も虎狩りの重要な一部だ。夜遅くまで何度もワインを酌み交わした後、夜中まで座って語り明かした。楽しい時間を過ごせ、また新たな友人も作れたようだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_2100;楽しい時間だった！;;;;;;;;;;;;x
+EVTDESC_RoI_2102;野営地での社会生活も虎狩りの重要な一部だ。夜遅くまで何度もワインを酌み交わした後、夜中まで座って語り明かした。しかし酔っ払っていては誤解も簡単に生じてしまうものだ…;;;;;;;;;;;;x
+EVTOPTA_RoI_2102;お前のことは大嫌いだ！;;;;;;;;;;;;x
+EVTDESC_RoI_2104;虎狩りの間の晩の気晴らしにはカード遊びもある。カードで遊ぶため何人かが集まり、自分もそこに加わった。もちろん、金を賭けないカード遊びなぞ楽しいものではない―だがいくら賭けるべきだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_2104;高い賭け金で遊ぶ;;;;;;;;;;;;x
+EVTOPTB_RoI_2104;低い賭け金で遊ぶ;;;;;;;;;;;;x
+EVTDESC_RoI_2105;カード遊びは上手く行かず、かなりの金額をすってしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_2105;やっぱりやめておけばよかったのに！;;;;;;;;;;;;x
+EVTDESC_RoI_2106;カード遊びの運はぼちぼちで、最後には勝ちと負けがトントンということになった。;;;;;;;;;;;;x
+EVTOPTA_RoI_2106;まあいいか。;;;;;;;;;;;;x
+EVTDESC_RoI_2107;カード遊びで素晴らしい勝利をおさめ、かなりの金額を獲得できた。;;;;;;;;;;;;x
+EVTOPTA_RoI_2107;カード遊びは得意なんですよ！;;;;;;;;;;;;x
+EVTDESC_RoI_2111;虎狩りの一行はジャングルの中を進んでゆく。運良く虎を狩れないものなかなとど考えていると、急に下生えで何かが動き…大きな虎が飛び出してくると、獰猛な唸り声を上げた！虎は狩りの一行に襲いかかってきたが、兵士たちが即座に攻撃に移り、槍でなんとか虎を倒すことに成功した。;;;;;;;;;;;;x
+EVTOPTA_RoI_2111;ふう、さっきのは近かった！;;;;;;;;;;;;x
+EVTDESC_RoI_2112;虎狩りの一行はジャングルの中を進んでゆく。運良く虎を狩れないものなかなとど考えていると、急に下生えで何かが動き…大きな虎が飛び出してくると、獰猛な唸り声を上げた！狩りの一行に襲いかかった虎は召使いの一人に飛びかかり、彼をズタズタにするとジャングルの中へといなくなってしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_2112;何ということだ！;;;;;;;;;;;;x
+EVTDESC_RoI_2113;虎狩りの一行はジャングルの中を進んでゆく。運良く虎を狩れないものなかなとど考えていると、急に下生えで何かが動き…大きな虎が飛び出してくると、獰猛な唸り声を上げた！狩りの一行に襲いかかった虎は狩人の一人に飛びかかり、その肉をズタズタに引き裂くとジャングルの中へといなくなってしまった。;;;;;;;;;;;;x
+EVTDESC_RoI_2120;先行していた斥候数人が狩りの一行の元へと駆け戻ってきた。斥候たちはささやき声ではあったが興奮を抑えきれない様子で前方に大きな虎がいるのを発見したと伝えてきた。;;;;;;;;;;;;x
+EVTOPTA_RoI_2120;槍を渡せ、後お前たちは下がってみておれ。私がこの手で仕留めてくれよう。;;;;;;;;;;;;x
+EVTOPTB_RoI_2120;兵士を先行させよ。虎を追い詰めて仕留めるのだ。;;;;;;;;;;;;x
+EVTDESC_RoI_2121;前進すると、虎を目前にして手で槍の重みを量りながら攻撃の機会を伺った。虎はゆっくりとこちらに近づいてきたが、急にこちらへと飛びかかってきた！虎の攻撃を回避し、槍を突き出すと、その穂先は虎の脇腹に深々と突き刺さった。;;;;;;;;;;;;x
+EVTOPTA_RoI_2121;虎をこの手で仕留めてやったぞ！;;;;;;;;;;;;x
+EVTDESC_RoI_2122;前進すると、虎を目前にして手で槍の重みを量りながら攻撃の機会を伺った。虎はゆっくりとこちらに近づいてきたが、急に何かに気付いたように立ち止まった。すると虎は回れ右をし、こちらが槍を投げる暇もなく深いジャングルの中へと走り去ってしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_2122;仕留めそこなった！;;;;;;;;;;;;x
+EVTDESC_RoI_2123;前進すると、虎を目前にして手で槍の重みを量りながら攻撃の機会を伺った。虎はゆっくりとこちらに近づいてきたが、急にこちらへと飛びかかってきた！驚いて後ろによろめいたこちらに虎は爪と牙で襲いかかってきた。兵士たちが救援に来て虎を槍で突き、なんとか虎を深いジャングルの中へと追い払うことができた。;;;;;;;;;;;;x
+EVTOPTA_RoI_2123;重傷を負ってしまった！;;;;;;;;;;;;x
+EVTDESC_RoI_2124;虎狩りの一行は虎のいる場所を完全に包囲するとゆっくりとその包囲の輪を狭めていった。虎は罠にかかったことを悟り、逃げ出そうとしたが、全周から狩人が迫り、虎を槍で突いた。虎は野獣の咆哮を上げ、その生き血が地面に飛び散った。;;;;;;;;;;;;x
+EVTOPTA_RoI_2124;虎を殺したぞ！;;;;;;;;;;;;x
+EVTDESC_RoI_2125;虎狩りの一行は虎のいる場所を完全に包囲するとゆっくりとその包囲の輪を狭めていった。しかし虎は罠の臭いを感じ取ると、深いジャングルの中へと逃げ込んだ。兵士数人がその後を追ったが、すぐに帰ってくると虎はいなくなってしまったと伝えてきた。;;;;;;;;;;;;x
+EVTOPTA_RoI_2125;今日はツイてなかったようだ。;;;;;;;;;;;;x
+expel_the_jomsvikings;ヨスムヴァイキングを追放;;;;;;;;;;;;x
+SM_COMPRESSAUTOSAVES;自動セーブを圧縮;;;;;;;;;;;;x
+STRAIGHTEN_UP;更生;;;;;;;;;;;;x
+war_elephants;戦象;;;;;;;;;;;;x
+war_elephants_offensive;戦象の攻撃;;;;;;;;;;;;x
+war_elephants_defensive;戦象の防御;;;;;;;;;;;;x
+war_elephants_morale;戦象の士気;;;;;;;;;;;;x
+camel_cavalry;駱駝騎兵;;;;;;;;;;;;x
+camel_cavalry_offensive;駱駝騎兵の攻撃;;;;;;;;;;;;x
+camel_cavalry_defensive;駱駝騎兵の防御;;;;;;;;;;;;x
+camel_cavalry_morale;駱駝騎兵の士気;;;;;;;;;;;;x
+find_guru;導師を探す;;;;;;;;;;;;x
+find_guru_desc;賢明な教祖を見つけ、宮廷に招待することで賢明な助言を聞くことが出来るだけでなく、自分の権威を高めることもできます。;;;;;;;;;;;;x
+EVTDESC_RoI_3000;賢明な導師を見つけて宮廷に招待せよと任じて四方に使者を送った。;;;;;;;;;;;;x
+EVTOPTA_RoI_3000;そのような方が見つかるとよいのだが;;;;;;;;;;;;x
+EVTDESC_RoI_3003;[Root.GetLordLady]殿、賢明なる導師[From.GetFirstNameWithNick]が宮廷にいらっしゃり、以降も宮廷で過ごしてくれることになりました。;;;;;;;;;;;;x
+EVTOPTA_RoI_3003;素晴らしい！;;;;;;;;;;;;x
+OVER_MAX_DEMENSE;最大直轄領数の超過;;;;;;;;;;;;x
+title_guru;宮廷導師;;;;;;;;;;;;x
+title_guru_desc;導師は通常は言葉による教授や助言を通じて知恵を授ける懸命な指導者にして先生です。宮廷に尊敬する導師がいれば、賢明な助言を何時でも聞くことが出来て便利でしょう。;;;;;;;;;;;;x
+troops_war_weary;戦争で疲弊した軍;;;;;;;;;;;;x
+EVTDESC_RoI_146;[Root.GetLordLady]殿、兵士達は貴方に従ってインドまで行くのに気乗りしておりません。もう戦闘と痛みと栄光にはうんざりだと言っております。;;;;;;;;;;;;x
+EVTOPTA_RoI_146;だが、それでも私に従わねばならんのだ。;;;;;;;;;;;;x
+EVTOPTB_RoI_146;前進だ！東方に於いても我々の強大さを奴らの脳裏に刻みつけてやるのだ！;;;;;;;;;;;;x
+hindu_ascetic;苦行者;;;;;;;;;;;;x
+buddhist_ascetic;行者;;;;;;;;;;;;x
+jain_naked_ascetic;裸行者が徘徊している;;;;;;;;;;;;x
+realm_hindus_insulted;貴方の領地でヒンドゥー教徒が侮辱されている;;;;;;;;;;;;x
+realm_buddhists_insulted;貴方の領地で仏教徒が侮辱されている;;;;;;;;;;;;x
+realm_jains_insulted;貴方の領地でジャイナ教徒が侮辱されている;;;;;;;;;;;;x
+EVTDESC_RoI_203;ヒンドゥー教徒の行者が聞いてほしいことがあると宮廷にやってきた。行者はヒンドゥー教の神々、その神々を称えることによって得られる知恵と力に手を伸ばす方法、そしてマハーバーラタの知恵を信じる方法について説いている。;;;;;;;;;;;;x
+EVTOPTA_RoI_203;もっと話を聞かせてくれ…;;;;;;;;;;;;x
+EVTOPTB_RoI_203;話が終わったら帰ってくれ。;;;;;;;;;;;;x
+EVTOPTC_RoI_203;お前の奇妙で哀れな悪神は必要ない。衛兵、奴をつまみ出せ！;;;;;;;;;;;;x
+EVTDESC_RoI_204;行者は続けて苦行とヨガのやり方、そして規律と瞑想を通してどのように精神生活を送るのかを事細かに説明している。;;;;;;;;;;;;x
+EVTOPTA_RoI_204;確かにその通りだ。私もヨガと苦行をやろう！;;;;;;;;;;;;x
+EVTOPTB_RoI_204;君の賢明なことよ。私もヒンドゥーの教えを信じることにしよう。;;;;;;;;;;;;x
+EVTOPTC_RoI_204;もう一度考え直してみたが、私には合わない気がするよ。;;;;;;;;;;;;x
+EVTDESC_RoI_206;仏教徒の行者が聞いてほしいことがあると宮廷にやって来た。行者はブッダの教えと余分なものをなくして欲望を抑えることで知恵にたどり着く方法について説いている。;;;;;;;;;;;;x
+EVTOPTC_RoI_206;お前のまがい物哲学は必要ない。衛兵、奴をつまみ出せ！;;;;;;;;;;;;x
+EVTOPTA_RoI_207;たしかにその通りだ。今はブッダの時代だ…;;;;;;;;;;;;x
+EVTOPTB_RoI_207;君の賢明なことよ。私も仏教の教えを信じることにしよう。;;;;;;;;;;;;x
+EVTOPTC_RoI_207;もう一度考え直してみたが、私には合わない気がするよ。;;;;;;;;;;;;x
+EVTDESC_RoI_209;裸のジャイナ教徒の行者が聞いてほしいことがあると宮廷にやって来た。玉座の間にやってきた行者はこちらの目の前に座ると、貴方は罪深いとこちらの生き方を批判し、調和と清浄さを重視するジャイナ教の教えを説いた。;;;;;;;;;;;;x
+EVTOPTB_RoI_209;こいつに服を着させてやれ！;;;;;;;;;;;;x
+EVTOPTC_RoI_209;私が罪深いだと？衛兵、奴を捉えて首をちょん切ってしまえ！;;;;;;;;;;;;x
+EVTDESC_RoI_210;裸のジャイナ教徒の行者は続けて苦行とヨガのやり方、そして規律と瞑想を通してどのように精神的で清浄な生活を送るのかを事細かに説明している。;;;;;;;;;;;;x
+EVTOPTA_RoI_210;たしかにその通りだ。私もこれからは裸で過ごすことにしよう！;;;;;;;;;;;;x
+EVTOPTB_RoI_210;君の賢明なことよ。私もジャイナ教の教えを信じることにしよう。;;;;;;;;;;;;x
+EVTOPTC_RoI_210;もう一度考え直してみたが、私には合わない気がするよ。;;;;;;;;;;;;x
+EVTDESC_RoI_215;[Root.GetLordLady]殿よ、領国のある州の鉱山から巨大なダイアモンドが見つかりました。ここ5世紀で一番大きなダイアモンドでしょう！問題は唯一つ、その用途です。;;;;;;;;;;;;x
+EVTOPTA_RoI_215;新しく壮大な王冠を作り、それにこのダイアモンドを嵌めよう！;;;;;;;;;;;;x
+EVTOPTB_RoI_215;宝物庫に隠してしまおう、そこなら安全だ。;;;;;;;;;;;;x
+EVTOPTC_RoI_215;[Root.Spouse.GetHusbandWife][Root.Spouse.GetTitledFirstName]に与えることとしよう。;;;;;;;;;;;;x
+EVTOPTD_RoI_215;まさに棚からぼた餅だ。売ってしまおう！;;;;;;;;;;;;x
+EVTDESC_RoI_216;玉座に座ると、壮大な王冠に嵌められた巨大なダイアモンドは玉座の間にいる人々皆に壮麗な輝きを放ち、その評判は領国中に轟いた。;;;;;;;;;;;;x
+EVTOPTA_RoI_216;It is glorious!;;;;;;;;;;;;x
+EVTDESC_RoI_217;領地の視察の帰路、兵士を連れて馬に乗って近くの街を通りがかった。ダイアモンドの嵌った壮大な王冠も着けている。道にせり出した屋根から急に誰かがこちらに飛び降りてきて、王冠に掴みかかろうとしてきた。だが泥棒は失敗し、そのまま地面に落ちて首の骨が折れてしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_217;ぎりぎりだった。;;;;;;;;;;;;x
+EVTDESC_RoI_218;田舎に赴き、臣民達が森を伐採しているのを視察した。その際には壮麗な王冠も身につけていた。いつものように象が重労働に当たっていたが、太陽に照らされた王冠にの巨大なダイアモンドは強い輝きを放ち、近くにいた象がその光を受け、暴れだしたのだ！象はこちらの付き添い達を蹂躙し、何人も重傷者が出てしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_218;なんということだ！;;;;;;;;;;;;x
+EVTDESC_RoI_220;夜、ベッドで眠っていると、コソコソした足音で目が覚めた。ベッドから起き上がると、ベッドの近くに置かれた王冠から[From.GetFullName]がダイアモンドを抜き取ろうとしている。叫び声を上げると、[From.GetSheHe]はナイフを取り出し、こちらを刺そうとしてきた。叫び声を上げた数瞬後、衛兵が部屋に突入し、泥棒を確保した。怒りのあまり[From.GetHerHim]をその場で手討ちにしてしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_220;泥棒や暗殺者にはこのような末路しかないのだ！;;;;;;;;;;;;x
+EVTDESC_RoI_221;領国の統治で忙しくはあるが、空いた時間になると宝物庫の中に安全に隠された大きな美しいダイアモンドの事を考える。他の世界中の誰もあんな素晴らしい宝物は持っていないはずだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_221;全て私のものだ!;;;;;;;;;;;;x
+EVTDESC_RoI_222;最近は宝物庫で過ごす時間がどんどん増えている。宝物庫に降り、可愛いダイアモンドを見つめるのだ。いやあ本当に可愛い。もうこんな宝物があるなら人間などいらない。\n人間は輝かないし、いずれ萎びて死ぬ。ダイアモンドは永遠だ。;;;;;;;;;;;;x
+EVTOPTA_RoI_222;My precious!;;;;;;;;;;;;x
+EVTDESC_RoI_223;ある日、参上した衛兵隊隊長から由々しき知らせがもたらされた。「[Root.GetLordLady]殿よ、恐ろしい事が起きました！昨晩泥棒が宝物庫に忍び込み、あのダイアモンドを盗み出したのです。他に無くなったものはありませんでした。」;;;;;;;;;;;;x
+EVTOPTA_RoI_223;なんという災厄だ！;;;;;;;;;;;;x
+EVTDESC_RoI_224;最近は全然よく眠れない。あのダイアモンドのことが心配なのだ。宝物庫に安全に保管されていることは分かっているが、この目で見ないと安心できないのだ。ダイアモンドの安全を保つためにあらゆる警戒策を本当に取っただろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_224;ダイアモンドの事を考えていると頭がおかしくなる！;;;;;;;;;;;;x
+EVTDESC_RoI_226;[Root.Spouse.GetHusbandWife]は壮麗なダイアモンドに大喜びだ。[Root.Spouse.GetSheHe]はいつもずっとダイアモンドも身に着け、皆に称賛の目で見られているのを楽しんでいる。;;;;;;;;;;;;x
+EVTOPTA_RoI_226;[Root.Spouse.GetSheHe]が贈り物を気に入ってくれて嬉しいよ。;;;;;;;;;;;;x
+EVTDESC_RoI_228;[Root.Spouse.GetHusbandWife]が泣きながら会いに来た。[Root.Spouse.GetSheHe]の言うには馬に乗って通った市場で私が贈ったダイアモンドを盗まれてしまったという。泥棒の痕跡は見つけられなかったそうだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_228;なんてことだ！;;;;;;;;;;;;x
+EVTDESC_RoI_230;You are worried about your [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName]. Lately, [Root.Spouse.GetSheHe] mostly sits around in [Root.Spouse.GetHerHis] room, fondling [Root.Spouse.GetHerHis] great diamond and talking to [Root.Spouse.GetHerselfHimself]. [Root.Spouse.GetSheHe] doesn't even answer anymore when you try to talk to [Root.Spouse.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA_RoI_230;[Root.Spouse.GetSheHeCap]は私の元から消え失せた！;;;;;;;;;;;;x
+EVTDESC_RoI_232;The captain of your guard comes to see you, sweating, terror in his eyes. He tells you that [Root.Spouse.GetTitledFirstName] has been murdered on the road, by robbers probably wanting to get their hands on the great diamond! A patrol of soldiers arrived just as the crime was committed, however, killing the robbers and retrieving the treasure.;;;;;;;;;;;;x
+EVTOPTA_RoI_232;Woe!;;;;;;;;;;;;x
+EVTDESC_RoI_240;Apart from more serious events, you have found that a lot of little strange, bad things happen around the great diamond. Several servants who have handled it have died. People around whisper and gossip, they say the diamond is cursed and will bring woe on your dynasty. You are beginning to wonder if they may not be right.;;;;;;;;;;;;x
+EVTOPTA_RoI_240;このダイアモンドのせいでひどい目に合ってきたが、もう売ってしまうことにしよう。;;;;;;;;;;;;x
+EVTOPTB_RoI_240;川にダイアモンドを投げ込もう;;;;;;;;;;;;x
+EVTOPTC_RoI_240;いやだ。私の大切なダイアモンドなんだ。;;;;;;;;;;;;x
+EVTOPTD_RoI_240;もうこのダイアモンドなしでは生きられない。ダイアモンドを飲み込んで自殺するしかない！;;;;;;;;;;;;x
+EVTDESC_RoI_241;あのダイアモンドを売ってしまったが、今になって急に後悔の念が湧いてきた。早馬を送って商人を追えば、まだ取り返せるかもしれない。;;;;;;;;;;;;x
+EVTOPTA_RoI_241;早馬を送る。;;;;;;;;;;;;x
+EVTOPTB_RoI_241;いや、もう終わった話だ。;;;;;;;;;;;;x
+EVTDESC_RoI_242;先程送り出した兵士がダイアモンドを取り返して戻ってきた。兵士の説明によれば、ダイアモンドを売った商人は買い戻したいとこちらがどれだけ言ってもそれを拒否したらしく、最終的に戦闘となり、商人は死んだがダイアモンドはなんとか取り返せたそうだ。結果的には金を払わずにダイアモンドだけ取り返せたということになった…;;;;;;;;;;;;x
+EVTOPTA_RoI_242;これからはこのダイアモンドを枕の下において寝よう。;;;;;;;;;;;;x
+the_diamond_thief;ダイアモンド泥棒;;;;;;;;;;;;x
+EVTDESC_RoI_243;壮麗なダイアモンドを川に放り込んだが、今になって急に後悔の念が湧いてきた。もしかしてもう一度探せば見つけられるのではないだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_243;過ちを正すのにおそすぎるといったことはない。ダイアモンドを探そう！;;;;;;;;;;;;x
+EVTOPTB_RoI_243;やめておこう。;;;;;;;;;;;;x
+EVTDESC_RoI_244;ダイアモンドを放り込んだ川に捜索隊を送ったが、なんの成果も得られなかった。堪忍袋の尾が切れ、自分で何時間も水中を探し回ったが、やはり成果はなく、ダイアモンドを見つけることはできなかった。;;;;;;;;;;;;x
+EVTOPTA_RoI_244;もう無くなってしまった！;;;;;;;;;;;;x
+EVTDESC_RoI_245;ある朝目を覚ますと、愛しいダイアモンドが無くなっているではないか！寝ている間に誰かがこの寝室から盗み出したのだ。;;;;;;;;;;;;x
+EVTOPTA_RoI_245;私の妻が犯人に違いない！;;;;;;;;;;;;x
+EVTOPTB_RoI_245;私の一族の誰かに違いない！;;;;;;;;;;;;x
+EVTOPTC_RoI_245;評議員の誰かに違いない！;;;;;;;;;;;;x
+EVTDESC_RoI_247;[From.GetTitledFirstName]はこちらの告発に非常に動転している。[From.GetHerHim]を投獄して[From.GetHerHim]の住居を捜索したが何も見つからなかった。しばらくしてから考え始めた―もしかしたら自分は疑いすぎだったのではないだろうか？;;;;;;;;;;;;x
+EVTOPTA_RoI_247;[From.GetSheHe]は無実のように思える。;;;;;;;;;;;;x
+EVTOPTB_RoI_247;いいや、[From.GetSheHe]は有罪に違いない―[From.GetHerHim]を処刑しろ！;;;;;;;;;;;;x
+thugs_rampant;奇妙な失踪;;;;;;;;;;;;x
+EVTDESC_RoI_147;[Root.GetLordLady]殿、[From.GetName]州で奇妙な疫病が流行っております。旅行者や隊商がどんどん失踪してしまうのです。普通の盗賊の仕業や事故、病気にしては数が多すぎます。;;;;;;;;;;;;x
+EVTOPTA_RoI_147;調査せねば;;;;;;;;;;;;x
+EVTOPTB_RoI_147;下々の連中の苦しみはこちらには関係ない。;;;;;;;;;;;;x
+EVTDESC_RoI_148;道路に現れるこの未知の脅威の調査に送り出した調査員は跡形もなく蒸発してしまった。もう数ヶ月も返事がない。;;;;;;;;;;;;x
+EVTOPTA_RoI_148;調査を続けねばならん。もっと大規模な調査隊を武装させて送り出すのだ。;;;;;;;;;;;;x
+EVTOPTB_RoI_148;真実が分かるまで農地を焼き討ちして百姓を吊るし首にし続けろ。;;;;;;;;;;;;x
+EVTOPTC_RoI_148;お手上げだ。明らかにもう望みはない。;;;;;;;;;;;;x
+EVTDESC_RoI_149;我々のお陰で田園地帯に恐怖と悲しみが大いに広がっております、[Root.GetLordLady]殿。そして百姓たちはもう十分に従順になったようです。この謎の失踪に関する新たな情報は得られておりません。どうやら百姓たちは本当に何も知らないようです。;;;;;;;;;;;;x
+EVTOPTA_RoI_149;奴らに弁償しておけ。別の方法を試さねば。;;;;;;;;;;;;x
+EVTOPTB_RoI_149;完全に無実なものなど誰もいなかった。このことは忘れることにしよう。;;;;;;;;;;;;x
+EVTDESC_RoI_150;[Root.GetLordLady]殿、まだ隊商の失踪が続いております。もう偵察に軍の大部隊を送り出すべきなのでは？;;;;;;;;;;;;x
+EVTOPTA_RoI_150;結構。武装した兵士を送り出せ。;;;;;;;;;;;;x
+EVTOPTB_RoI_150;いや、情報に大量の懸賞金をかけよう。;;;;;;;;;;;;x
+EVTDESC_RoI_151;若い旅行者がやって来て、隊商の失踪について、重要な情報を知っていると言い始めた。懸賞金がほしいが、一人で貴方と話がしたいと言っている。;;;;;;;;;;;;x
+EVTOPTA_RoI_151;宜しい。入りなさい。;;;;;;;;;;;;x
+EVTNAME_RoI_152;とある訪問者…;;;;;;;;;;;;x
+EVTDESC_RoI_152;その若者は辺りを注意深く見回しながら玉座の間に入ってきた。男は顔を上げ「重要な情報を持ってきた」と外套に手を突っ込み…投げナイフを取り出した！男は「母なるカーリー女神は自分の持つべきものを刈り取る！」と叫びながらこちら目がけて投げナイフを投げてきた。その時ただ一人[From.GetFullName]がそれに反応してナイフ目がけて自分の身を投げ、私の身代わりとなって心臓に投げナイフを喰らった。男はあっけにとられている衛兵の前を走り抜け、速やかに逃げ出してしまった。;;;;;;;;;;;;x
+EVTOPTA_RoI_152;[From.GetTitledFirstName]が私を暗殺者から守ってくれた！;;;;;;;;;;;;x
+EVTDESC_RoI_153;暗殺未遂事件の後、評議会が開かれた。評議員達は皆この脅威は力で解決しなければならないと言ってきた。;;;;;;;;;;;;x
+EVTOPTA_RoI_153;わかった。部隊を送ろう。;;;;;;;;;;;;x
+EVTOPTB_RoI_153;いや、これはあまりに危険だ。そのままにしておこう。;;;;;;;;;;;;x
+EVTDESC_RoI_155;騎兵たちはまだこの攻撃に関するいかなる手がかりも見つけられていないが、少なくとも大兵力で護衛にあたった隊商は無事だった。また、近距離輸送に就いている隊商は同じように攻撃を受けることは全く無い、長距離の輸送に就いている隊商のみが襲われるという話だ。おかしい。;;;;;;;;;;;;x
+EVTOPTA_RoI_155;この州を通るすべての長距離隊商に軍の護衛をつけよ。;;;;;;;;;;;;x
+EVTOPTB_RoI_155;もうお手上げだ。もうそこまでやる余裕はない。;;;;;;;;;;;;x
+EVTDESC_RoI_156;[From.GetName]州を通る全ての長距離隊商に軍の護衛をつけるように命じてから数ヶ月が経った。今回は隊商の失踪をなくすことができた。旅行者や商人はようやくホッと一安心だ。それでも結局犯人は分からなかったのはイライラする。しかし幾つかの隣州で隊商の失踪が増え始めたとの噂が流れている….;;;;;;;;;;;;x
+EVTOPTA_RoI_156;もう私には関係ない話だ。;;;;;;;;;;;;x
+EVTDESC_RoI_157;臣民たちから代表団がやってきた。ある州で大規模な森林伐採が行われているが、象の間で伝染病が蔓延したせいで、百姓たちが雨季の前に作業を終わらせるための使役動物が足りなくなっているとのことだ。百姓たちは作業を早くするため自分たちに象を貸していただけないだろうかと申し出てきた。;;;;;;;;;;;;x
+EVTOPTA_RoI_157;象を送ろう。;;;;;;;;;;;;x
+EVTOPTB_RoI_157;象を出す訳にはいかないが。兵士を支援に送ろう。;;;;;;;;;;;;x
+EVTOPTC_RoI_157;私には関係ない。;;;;;;;;;;;;x
+neglected_development;開発はなおざりにされた。;;;;;;;;;;;;x
+peasants_protected;臣民は庇護されていると感じています;;;;;;;;;;;;x
+desc_annoyed_religious;この人物は宗教当局を悩ませています。彼らは面白がっていません。;;;;;;;;;;;;x
+religious_appreciate;宗教当局は承認します;;;;;;;;;;;;x

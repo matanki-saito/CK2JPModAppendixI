@@ -1,0 +1,129 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+horse_regret;愛馬を代わりに据える;;;;;;;;;;;;x
+EVTDESC_HL_6000;あなたは、強く逞しい軍馬を選択されるために馬群の中に出て行きます。 あなたは熟練した目で見渡し、最終的に残った馬から際立った馬を見つけます。その馬は強く、逞しい佇まいをしています。\n\nあなたが新しい馬を騎乗すると、あなたは正しい選択をしたことと確信します。他にするべきことは、その馬に相応しい名前を付けることだけです。なんと名付けますか。;;;;;;;;;;;;x
+EVTOPTA_HL_6000;ドラゴン。;;;;;;;;;;;;x
+EVTOPTB_HL_6000;スカイ。;;;;;;;;;;;;x
+EVTOPTC_HL_6000;アロー。;;;;;;;;;;;;x
+EVTOPTD_HL_6000;ライトニング。;;;;;;;;;;;;x
+EVTDESC_HL_6010;貴方の教え子[ward_cant_ride.GetFirstName]はすでに８つになるのにいまだ馬を乗りこなせません。大変不名誉なことです。;;;;;;;;;;;;x
+EVTOPTA_HL_6010;これはいけない！個人的に[ward_cant_ride.GetHerHim]に教え込まねば。;;;;;;;;;;;;x
+EVTOPTB_HL_6010;駄目だな、せいぜい[ward_cant_ride.GetHerHim]は足掻いておればよい。;;;;;;;;;;;;x
+EVTTITLE_HL_6020;渡河;;;;;;;;;;;;x
+EVTDESC_HL_6020;次のキャンプへ移動していると、あなたは川に出くわした。雨により増水し、かなり暴力的な強さで流れている。回り道をするには遠回りすぎるため、あなたは横断することに決めた。一団がもたもたと川を渡っていったが、あなたは一抹の不安を覚えていた。あなたの[spouse_danger_nomad_river_crossing.GetHusbandWife]である[spouse_danger_nomad_river_crossing.GetFirstName]はあなたのお気に入りの馬に乗りながら渡河していた。\n\nあなたが土手から見ていたときそれは起こった…馬と共に激流に襲われた[spouse_danger_nomad_river_crossing.GetFirstName]は川に落ちてしまった。あなたが気付いた時には、二人とも川に飲み込まれており、両方を救えることはできないだろう…;;;;;;;;;;;;x
+EVTOPTA_HL_6020;[spouse_danger_nomad_river_crossing.GetFirstName]を守らなければ！;;;;;;;;;;;;x
+EVTOPTB_HL_6020;ドラゴンを守らなければ！;;;;;;;;;;;;x
+EVTOPTC_HL_6020;スカイを守らなければ！;;;;;;;;;;;;x
+EVTOPTD_HL_6020;アローを守らなければ！;;;;;;;;;;;;x
+EVTOPTE_HL_6020;ライトニングを守らなければ！;;;;;;;;;;;;x
+EVTDESC_HL_6021;あなたは何とか[spouse_danger_nomad_river_crossing.GetFirstName]を川の外に救い出した。あなたはお気に入りの馬を失ってしまったが、あなたの[spouse_danger_nomad_river_crossing.GetHusbandWife]は無事である。[spouse_danger_nomad_river_crossing.GetSheHeCap]は恐慌状態に陥ったがなんとか川の幅の狭いところに逃げ込み、勇敢なあなたの手によって救われたのだ。;;;;;;;;;;;;x
+EVTOPTA_HL_6021;[spouse_danger_nomad_river_crossing.GetSheHe]が無事でよかった。;;;;;;;;;;;;x
+EVTOPTB_HL_6021;クソッ、ドラゴンを失った…;;;;;;;;;;;;x
+EVTOPTC_HL_6021;クソッ、スカイを失った…;;;;;;;;;;;;x
+EVTOPTD_HL_6021;クソッ、アローを失った…;;;;;;;;;;;;x
+EVTOPTE_HL_6021;クソッ、ライトニングを失った…;;;;;;;;;;;;x
+EVTDESC_HL_6022;[spouse_danger_nomad_river_crossing.GetFirstName]を川から引き上げると、[spouse_danger_nomad_river_crossing.GetSheHe]は落ち着くやいなや立ち上がり、水滴を落とし震えながらぶちまけます：「何とバカなことを！私は大丈夫だったのに！溺れた馬の弁償してくれるのか！？」;;;;;;;;;;;;x
+EVTOPTA_HL_6022;確かに、今の判断は正しかったのだろうか…;;;;;;;;;;;;x
+EVTDESC_HL_6030;貴方の忠実な親衛兵の一人が援助を嘆願してきました。彼が言うには彼の家族が病気のために数頭の雌馬を失ってしまい、その子を養うのにも苦労しているというのです。;;;;;;;;;;;;x
+EVTOPTA_HL_6030;よし、私のところから６頭の雌馬を連れて行くといい。;;;;;;;;;;;;x
+EVTOPTB_HL_6030;残念だがどうすることもできない…;;;;;;;;;;;;x
+opinion_nomad_wargames_participant;軍事演習に参加した;;;;;;;;;;;;x
+hold_nomad_wargames;軍事演習を開催する;;;;;;;;;;;;x
+hold_nomad_wargames_desc;馬術、弓術、剣術と言った武術を競うための演習に、我が領地の戦士を招待することができます。優勝者にはゴールドと威信を手に入れるでしょう。;;;;;;;;;;;;x
+holding_nomad_wargames;大軍事演習;;;;;;;;;;;;x
+holding_nomad_wargames_desc;This ruler is hosting a traditional competition in martial skills.;;;;;;;;;;;;x
+held_nomad_wargames;軍事演習を開催した;;;;;;;;;;;;x
+held_nomad_wargames_desc;This character has recently hosted a traditional competition in martial skills, thus honoring ancient values and martial traditions.;;;;;;;;;;;;x
+EVTDESC_HL_7000;You have decided to organize a great competition in martial skills, inviting warriors from across the realm to display their prowess with horse, bow and sword.;;;;;;;;;;;;x
+EVTOPTA_HL_7000;素晴らしい大会になるだろう。;;;;;;;;;;;;x
+EVTDESC_HL_7001;To my faithful warrior [Root.GetDynName],\n\nI shall expect your presence at the upcoming wargames that will be held at [From.Capital.GetName]\n\n[From.GetFullName];;;;;;;;;;;;x
+EVTOPTA_HL_7001;I will saddle my horse now!;;;;;;;;;;;;x
+EVTDESC_HL_7002;Dear [Root.GetTitledFirstName],\n\nUnfortunately I cannot attend the upcoming wargames.\n\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_HL_7020;Warriors have come to your court from afar, gathering for the great wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As the participants salute you, you give the signal for the contest to begin.;;;;;;;;;;;;x
+EVTOPTA_HL_7020;The best warrior shall win!;;;;;;;;;;;;x
+EVTDESC_HL_7025;You have arrived at the court of the [From.PrimaryTitle.GetRulerTitle] for the wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As you salute [From.GetTitledFirstName], [From.GetSheHe] gives the signal for the contest to begin.;;;;;;;;;;;;x
+EVTOPTA_HL_7025;I shall give it my best!;;;;;;;;;;;;x
+EVTDESC_HL_7055;Your skill with horse, bow and sword unmatched on this day, you have won the games! [From.GetTitledFirstName] presents you with your well-earned prize.;;;;;;;;;;;;x
+EVTOPTA_HL_7055;I knew I would win!;;;;;;;;;;;;x
+EVTDESC_HL_7060;[From.GetFullName] has won the wargames, [From.GetHerHis] martial skills unmatched.;;;;;;;;;;;;x
+EVTOPTA_HL_7060;A worthy winner.;;;;;;;;;;;;x
+FORT_CONTROL_OVER_PROVINCE;Controls or Besieges §Y$PROVINCE$§!;;;;;;;;;;;;x
+TRIGGER_SUZERAIN;宗主国;;;;;;;;;;;;x
+FORT_CONSTRUCTION_ABANDONED_SETUP;建設中の砦を失った;;;;;;;;;;;;x
+FORT_CONSTRUCTION_ABANDONED_LOG;The Fort under construction by §Y$BUILDER$§! in the hostile county of §Y$PROV$§! has been abandoned.;;;;;;;;;;;;x
+succ_nomad_succession_desc;遊牧民相続制では、最も威信の高い息子または兄弟が継承しますが、人口がカガンより大きい場合は名門氏族の指導者にもチャンスがあります。不適切な文化の人物は失格となり、成人は子供より優先されます。可汗の第一後継者が子供の場合、可汗国は氏族の族長の内の1人の手に渡ります。跡継ぎより多くの威信を持つ氏族の族長は可汗国に対する請求権を得ます。;;;;;;;;;;;;x
+CLAN_LIMIT_FORMULA;§Y氏族の数§!;;;;;;;;;;;;x
+COUNTIES_PER_CLAN;氏族毎の要求領土;;;;;;;;;;;;x
+MAX_NR_OF_CLANS;氏族の最大数;;;;;;;;;;;;x
+CURRENT_CLANS;現在の氏族;;;;;;;;;;;;x
+POPULATION_BREAKDOWN;現在の人口内訳;;;;;;;;;;;;x
+STAT_POPULATION_DESC;これは貴方の領地の遊牧民人口です。直轄州の空き領地の数によって§Y最大人口§!が毎月増加または減少します。現在の§Y人口§!は§Y最大人的資源§!の計算と、§Y未使用の人的資源§!と共に§Y遊牧民税§!の計算に使用されます。;;;;;;;;;;;;x
+POPULATION_DIFFERENCE;潜在的な人口増加: §Y$AMOUNT$§!;;;;;;;;;;;;x
+POPULATION_GROWTH_RATIO;毎月の人口増加率: §Y$AMOUNT$%§!;;;;;;;;;;;;x
+MANPOWER_DIFFERENCE;潜在的な人的増加: §Y$AMOUNT$§!;;;;;;;;;;;;x
+MANPOWER_GROWTH_RATIO;毎月の人的増加率: §Y$AMOUNT$%§!;;;;;;;;;;;;x
+INTERACTION_CANNOT_ATTACK_VASSALS;この開戦事由であなたの封臣を攻めることはできません;;;;;;;;;;;;x
+tut_5a_23;Click the button to create a new unit. You can reorganize the selected unit and the newly created unit by dragging subunits from one unit to another.;;;;;;;;;;;;x
+tut_5a_16;To the right you can see a tab named Fleet Levies. Click on it and you will see buttons for raising fleets instead of army levies. Raise the fleet of your vassal the Earl of Fife and move them to Gowrie as well.;;;;;;;;;;;;x
+TECH_CAN_SPREAD;技術を伝播できる;;;;;;;;;;;;x
+NOT_TECH_CAN_SPREAD;技術を伝播できない;;;;;;;;;;;;x
+TR_SILK_ROAD_1_OTHER_PROVINCES_CONDITION;距離§Y100§!以内のシルクロードプロヴィンスに§Yシルクロード交易所§!、§Yシルクロード市場§!、§Yシルクロード交易都市§!がありません。;;;;;;;;;;;;x
+TR_SILK_ROAD_2_OTHER_PROVINCES_CONDITION;距離§Y200§!以内のシルクロードプロヴィンスに§Yシルクロード市場§!、§Yシルクロード交易都市§!がありません。;;;;;;;;;;;;x
+TR_SILK_ROAD_3_OTHER_PROVINCES_CONDITION;距離§Y500§!以内のシルクロードプロヴィンスに§Yシルクロード交易都市§!がありません。;;;;;;;;;;;;x
+MONTHLY_POPULATION_GROWTH;毎月の人口増加;;;;;;;;;;;;x
+MONTHLY_POPULATION_DECLINE;毎月の人口減少;;;;;;;;;;;;x
+MAXIMUM_CIVILIAN_POPULATION;最大人口;;;;;;;;;;;;x
+STAT_MANPOWER_DESC;人的資源は遊牧軍の動員、補充するために使用されるため、遊牧民領国の重要な部分となります。現在の§Y人口§!によって§Y最大人的資源§!が毎月増加または減少します。この限度を超えて遊牧軍を動員できませんし、戦力補充するのに十分な§Y未使用の人的資源§!を確保する必要があります。§Y未使用の人的資源§!は、§Y人口§!と共に毎月の§Y遊牧民税§!の計算に使用されます。§Y未使用の人的資源§!は首都にいる§Y守備隊§!の強さに良い影響を与えます。;;;;;;;;;;;;x
+POPULATION_AND_MANPOWER_OF;§Y$CLAN$族の人口と人的資源§!;;;;;;;;;;;;x
+NOMAD_LAND_OVERRUN_GENERIC_DESC;カガンが他の氏族よりあまりにも多くの領地を保有していると、彼らの§Y氏族感情§!に影響を及ぼし、さらには主要氏族の正当な地位を獲得しようと、§Y下級氏族が蜂起§!する可能性があります。;;;;;;;;;;;;x
+RETINUE_COST;常備軍: §R-$VALUE$§!;;;;;;;;;;;;x
+INTERACTION_NOT_AT_MAX_CLAN_SIZE;最大の氏族規模に達していません;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV1;軽装騎手;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV2;略奪兵;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV3;前哨騎兵;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV4;軽装弓騎兵;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV5;軽装ヴァンガード;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV6;重装ヴァンガード;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV7;弓騎兵;;;;;;;;;;;;x
+HORDE_RETTYPE_EUROPE;槍騎兵;;;;;;;;;;;;x
+RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;§Y$CHAR$§!の宗教は、女性が教区を保有し、宗教的な評議員職に就くことを許可されている;;;;;;;;;;;;x
+HAS_LOWER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_POPULATION_AND_MANPOWER_GROWTH_THAN;民間人口の増加が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_POPULATION_AND_MANPOWER_GROWTH_THAN;民間人口の増加が右記より高い:;;;;;;;;;;;;x
+HAS_LOWER_MAX_POPULATION_AND_MANPOWER_THAN;最大人口と最大人的が右記未満:;;;;;;;;;;;;x
+HAS_HIGHER_MAX_POPULATION_AND_MANPOWER_THAN;最大人口と最大人的が右記より高い:;;;;;;;;;;;;x
+POPULATION_EFFECT;人口が$DIRECTION$$VALUE$。\n;;;;;;;;;;;;x
+IS_COUNTY_OWNER;州の保有者である;;;;;;;;;;;;x
+TT_NOT_SAME_REALM;自国内にいない;;;;;;;;;;;;x
+PROVINCE_DISTANCE;§Y$PROV$§!との距離：§Y$DIST$§!;;;;;;;;;;;;x
+opinion_killed_horse;私の馬を殺した;;;;;;;;;;;;x
+EVTDESC_HL_6512_LIGHTNING;私がライトニングを水飲み場から離そうとしたとき、[From.GetFirstName]の馬が近寄ってきて[Root.GetHerHim]を噛んできた！;;;;;;;;;;;;x
+EVTDESC_HL_6512_ARROW;私がアローを水飲み場から離そうとしたとき、[From.GetFirstName]の馬が近寄ってきて[Root.GetHerHim]を噛んできた！;;;;;;;;;;;;x
+EVTDESC_HL_6512_DRAGON;私がドラゴンを水飲み場から離そうとしたとき、[From.GetFirstName]の馬が近寄ってきて[Root.GetHerHim]を噛んできた！;;;;;;;;;;;;x
+EVTDESC_HL_6512_SKY;私がスカイを水飲み場から離そうとしたとき、[From.GetFirstName]の馬が近寄ってきて[Root.GetHerHim]を噛んできた！;;;;;;;;;;;;x
+EVTOPTA_HL_6512;その獣を殺してやる！;;;;;;;;;;;;x
+EVTOPTB_HL_6512;ここには他にもいい水飲み場はある...;;;;;;;;;;;;x
+EVTDESC_HL_6990;ここ数週間、以前と同じような調子を取り戻せていない。私の最愛の馬がいなくなってしまった今、自分の一部が欠けたように感じる。;;;;;;;;;;;;x
+EVTOPTA_HL_6990;この重荷は一人で背負わなければならない。;;;;;;;;;;;;x
+EVTOPTB_HL_6990;慰めてくれる[Root.Spouse.GetHusbandWife]がいる私は幸せ者だ。;;;;;;;;;;;;x
+EVTOPTC_HL_6990;慰めてくれる友人がいる私は幸せ者だ。;;;;;;;;;;;;x
+EVTDESC_HL_6520;外国人の画家があなたのキャンプに今日到着しました。この画家は今までに封建的な貴族たちの肖像画を多数描いてきており、今回はあなたが彼に依頼することができます。;;;;;;;;;;;;x
+EVTOPTA_HL_6520;自分自身の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTB_HL_6520;最愛の妻の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTC_HL_6520;美しい側室の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTD_HL_6520_SKY;壮大な馬「スカイ」の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTD_HL_6520_LIGHTNING;壮大な馬「ライトニング」の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTD_HL_6520_ARROW;壮大な馬「アロー」の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTD_HL_6520_DRAGON;壮大な馬「ドラゴン」の肖像画が欲しい。;;;;;;;;;;;;x
+EVTOPTE_HL_6520;買い物をする余裕はない。;;;;;;;;;;;;x
+EVTDESC_HL_6500_LIGHTNING;あなたの最愛の戦馬である「ライトニング」は、大草原における最後の疾駆を終え、今や[Root.GetHerHis]は永遠の眠りにつこうとしています。あなたに尽くしてきてくれた旧友に別れを告げる時が来たのです。;;;;;;;;;;;;x
+EVTDESC_HL_6500_SKY;あなたの最愛の戦馬である「スカイ」は、大草原における最後の疾駆を終え、今や[Root.GetHerHis]は永遠の眠りにつこうとしています。あなたに尽くしてきてくれた旧友に別れを告げる時が来たのです。;;;;;;;;;;;;x
+EVTDESC_HL_6500_DRAGON;あなたの最愛の戦馬である「ドラゴン」は、大草原における最後の疾駆を終え、今や[Root.GetHerHis]は永遠の眠りにつこうとしています。あなたに尽くしてきてくれた旧友に別れを告げる時が来たのです。;;;;;;;;;;;;x
+EVTDESC_HL_6500_ARROW;あなたの最愛の戦馬である「アロー」は、大草原における最後の疾駆を終え、今や[Root.GetHerHis]は永遠の眠りにつこうとしています。あなたに尽くしてきてくれた旧友に別れを告げる時が来たのです。;;;;;;;;;;;;x
+EVTOPTA_HL_6500;さらばだ、古き友よ。;;;;;;;;;;;;x
+abandon_trade_post;交易所を放棄;;;;;;;;;;;;x
+TRADEPOST_FINISHED_NON_REPUBLIC_LOG;§Y$CHARACTER$§!により§Y$PROVINCE$§!に交易所が建設されました。;;;;;;;;;;;;x
+TRADEPOST_FINISHED_NON_REPUBLIC_SETUP;交易路交易所建設;;;;;;;;;;;;x
+abandon_trade_post_desc;この州の交易所を他のよりよい場所に変更するために放棄することができます。;;;;;;;;;;;;x
+MAPMODE_TRADE_ZONES_DESC;すべての交易圏はその所有者によって区切られています。シルクロード上の州がアクティブな場合は黄色の縞模様で、攻囲または占領によってブロックされている場合は赤色で表示されます。;;;;;;;;;;;;x

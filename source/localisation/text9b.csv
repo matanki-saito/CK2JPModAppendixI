@@ -1,0 +1,22 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTDESC61152;あなたを発狂したとみなし、投獄した人でなしの摂政は、もはや宮廷で権力を振りかざすことはない。新しい摂政があなたを解放したのだ。;;;;;;;;;;;;x
+EVTOPTA61152;時間がかかったな。;;;;;;;;;;;;x
+EVTOPTB61152;世界よ、刮目せよ！今そちらへ行くぞ！;;;;;;;;;;;;x
+EVTDESC61219;敵対者によるあなたの摂政政治への企みを阻止することにあなたは成功し、引き続き[Root.Liege.GetTitledFirstName]に奉仕することができる。;;;;;;;;;;;;x
+EVTDESC61245;まるで意気地のない臆病者のように、[From.GetTitledFirstName]はあなたの挑戦を拒んだ！;;;;;;;;;;;;x
+EVTOPTA61245;腰抜け！虫けら！;;;;;;;;;;;;x
+EVTDESC61246;[From.GetTitledFirstName]は[From.GetHerHis]身の安全を考え、あなたの摂政を辞任することを決めた。;;;;;;;;;;;;x
+EVTOPTA61246;まあ、簡単だったな。;;;;;;;;;;;;x
+EVTDESC61226;息を整えるために剣を立てかけると、相手の血が地面に染みていった。一瞬の闘いだったが、つまらぬ者は深手を負い、哀れにも生にしがみつきながらあなたの足元に横たわっている。あなたの勝ちだ。;;;;;;;;;;;;x
+EVTDESC61225;息を整えるために剣を立てかけると、相手の血が地面に染みていった。一瞬の闘いだったが、つまらぬ者は深手を負い、あなたの足元に横たわっている。;;;;;;;;;;;;x
+EVTDESC61212;[Root.Regent.GetFirstName]は[Root.Regent.GetHerHis]短剣でむやみに空を突き刺したが、あなたは慌てて飛び退いて間一髪で避けた。衛兵がなだれこみ、あなたの摂政を引き離す。[Root.Regent.GetSheHe]は「なぜ死なないのだ!?」と叫んでいた。;;;;;;;;;;;;x
+EVTTOOLTIP61213;暗い独房に放り込め。;;;;;;;;;;;;x
+YEARLY_INCOME_LESS_THAN;年収が右記未満:;;;;;;;;;;;;x
+YEARLY_INCOME_GREATER_THAN;年収が右記より大きい:;;;;;;;;;;;;x
+DE_JURE_LIEGE_CHANGED_NONE_SETUP;称号の慣習上の所属が変更された。;;;;;;;;;;;;x
+DE_JURE_LIEGE_CHANGED_NONE_LOG;§Y$TITLE$§!は§Y$YEARS$§!年間§Y$NEW_LIEGE$§!の支配下にあったため、以後その一部であるとみなされる。;;;;;;;;;;;;x
+TITLE_CANNOT_USURP_REL_HEADS;宗教指導者を示す称号を奪うことはできません;;;;;;;;;;;;x
+INTERACTION_REQUIRES_NOT_IN_REVOLT;§Y[Actor.GetTitledFirstName]§!は反乱に参加してません。;;;;;;;;;;;;x
+INTERACTION_REQUIRES_TP_IS_NOT_LIEGE;§Y[Actor.GetTitledFirstName]§!は§Y[ThirdPartyCharacter.GetTitledFirstName]§!の家臣ではありません;;;;;;;;;;;;x
+BROKEN_SAVEGAME;§Rセーブデータが破損しています§!;;;;;;;;;;;;x

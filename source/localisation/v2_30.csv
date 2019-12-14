@@ -1,0 +1,764 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ACQUISITION_CLAIM;称号請求者として征服;;;;;;;;;;;;x
+ACQUISITION_HOST;冒険者としての征服;;;;;;;;;;;;x
+ACQUISITION_REVOLT;反乱軍の長として征服;;;;;;;;;;;;x
+ACQUISITION_USURP;戦争を伴わずに簒奪;;;;;;;;;;;;x
+ACQUISITION_FACTION_DEMAND;派閥の要求により即位;;;;;;;;;;;;x
+PERSONAL_OPINION_LOWER_THAN;個人的な意見が右記未満:;;;;;;;;;;;;x
+PERSONAL_OPINION_AT_LEAST;個人的な意見が右記以上:;;;;;;;;;;;;x
+PERS_OPINION_DIFF_LOWER_THAN;§Y$VAL$§!より低い個人的意見の差異が§Y$FIRST$§!と§Y$SECOND$§!との間にある;;;;;;;;;;;;x
+PERS_OPINION_DIFF_AT_LEAST;少なくとも§Y$VAL$§!の個人的意見の差異が§Y$FIRST$§!と§Y$SECOND$§!との間にある;;;;;;;;;;;;x
+RULER_OF_TITLE;$TITLE$の$RULER$;;;;;;;;;;;;x
+EVTDESC38305;私は、自分に降り掛かった運命を受け入れ、信頼を育んだ。 私は誇大妄想の特性を失った。;;;;;;;;;;;;x
+EVTDESC38306;人々の二面性を感じる。私は信頼の特性を失った。;;;;;;;;;;;;x
+EVTDESC38307;もう十分に苦痛と裏切りを経験した。なぜ私を傷つける者を助けなければならない？ 私は親切の特性を失った。;;;;;;;;;;;;x
+EVTDESC38308;その傷は生涯消えない痕跡を残した。傷跡の特性を得た。;;;;;;;;;;;;x
+MEN;男;;;;;;;;;;;;x
+WOMEN;女;;;;;;;;;;;;x
+MALE;男性;;;;;;;;;;;;x
+FEMALE;女性;;;;;;;;;;;;x
+ADULTERER;姦夫;;;;;;;;;;;;x
+ADULTERESS;姦婦;;;;;;;;;;;;x
+nick_the_unfaithful;浮気者;;;;;;;;;;;;x
+nick_the_beguiling;魅惑の;;;;;;;;;;;;x
+nick_the_temptress;妖婦;;;;;;;;;;;;x
+nick_the_seducer;色魔;;;;;;;;;;;;x
+nick_the_lewd;淫乱;;;;;;;;;;;;x
+nick_the_lecher;荒淫の;;;;;;;;;;;;x
+nick_the_unchaste;不貞者;;;;;;;;;;;;x
+INSULT_OLD;老いぼれ;;;;;;;;;;;;x
+INSULT_TADPOLE;おたまじゃくし野郎;;;;;;;;;;;;x
+INSULT_CHILD;糞ガキ;;;;;;;;;;;;x
+INSULT_VILE;下劣な;;;;;;;;;;;;x
+INSULT_FOUL;不潔な;;;;;;;;;;;;x
+INSULT_FILTHY;下品な;;;;;;;;;;;;x
+INSULT_CLOWN;道化師紛いの;;;;;;;;;;;;x
+INSULT_COW;雌牛;;;;;;;;;;;;x
+INSULT_INFIDEL;邪教徒;;;;;;;;;;;;x
+INSULT_HERETIC;異端者;;;;;;;;;;;;x
+INSULT_GROTESQUE;奇々怪々な;;;;;;;;;;;;x
+INSULT_DWARF;チビの;;;;;;;;;;;;x
+INSULT_CLUBFOOT;足のねじれた;;;;;;;;;;;;x
+INSULT_HARELIP;三ツ口の;;;;;;;;;;;;x
+INSULT_CLEFT_LIPPED;裂けた唇の;;;;;;;;;;;;x
+INSULT_BASTARD;妾の子;;;;;;;;;;;;x
+INSULT_BASEBORN;卑しい生まれの;;;;;;;;;;;;x
+INSULT_KINSLAYER;親殺しの;;;;;;;;;;;;x
+INSULT_SODOMITE;男色者;;;;;;;;;;;;x
+INSULT_DULLARD;のろまの;;;;;;;;;;;;x
+INSULT_DIM;根暗の;;;;;;;;;;;;x
+INSULT_VACUOUS;頭空っぽの;;;;;;;;;;;;x
+INSULT_NITWIT;能無し;;;;;;;;;;;;x
+INSULT_IMBECILE;痴愚者;;;;;;;;;;;;x
+INSULT_FREAK;奇形の;;;;;;;;;;;;x
+INSULT_ABOMINATION;見るもおぞましい;;;;;;;;;;;;x
+INSULT_MONSTROUS;怪物紛いの;;;;;;;;;;;;x
+INSULT_HIDEOUS;ひどく醜い;;;;;;;;;;;;x
+INSULT_LESBIAN;レズの;;;;;;;;;;;;x
+INSULT_SAPPHIC;同性愛者;;;;;;;;;;;;x
+INSULT_HUNCHBACK;せむしの;;;;;;;;;;;;x
+INSULT_CROOKED;奇形の;;;;;;;;;;;;x
+INSULT_LISPER;舌もつれの;;;;;;;;;;;;x
+INSULT_FALTERING;口ごもりの;;;;;;;;;;;;x
+INSULT_STUTTERING;どもりの;;;;;;;;;;;;x
+INSULT_GORGON;醜女の;;;;;;;;;;;;x
+INSULT_IDIOT;白痴の;;;;;;;;;;;;x
+INSULT_TORTURER;拷問好きの;;;;;;;;;;;;x
+INSULT_LECHER;好色漢;;;;;;;;;;;;x
+INSULT_LECHEROUS;スケベな;;;;;;;;;;;;x
+INSULT_GLUTTON;食い意地の張った;;;;;;;;;;;;x
+INSULT_GORGING;食い意地の汚い;;;;;;;;;;;;x
+INSULT_VENAL;汚職野郎の;;;;;;;;;;;;x
+INSULT_INDOLENT;怠惰な;;;;;;;;;;;;x
+INSULT_EVIL;邪悪な;;;;;;;;;;;;x
+INSULT_ENVIOUS;嫉妬深い;;;;;;;;;;;;x
+INSULT_HARRIDAN;ガミガミばばあの;;;;;;;;;;;;x
+INSULT_RAGING;頭に血の昇った;;;;;;;;;;;;x
+INSULT_DECEITFUL;二枚舌の;;;;;;;;;;;;x
+INSULT_CRAVEN;臆病者;;;;;;;;;;;;x
+INSULT_COWARD;卑怯者;;;;;;;;;;;;x
+INSULT_SCATTERBRAIN;落ち着きのない;;;;;;;;;;;;x
+INSULT_ERRATIC;奇矯な;;;;;;;;;;;;x
+INSULT_BIGOT;偏屈者の;;;;;;;;;;;;x
+INSULT_BIGOTED;分からず屋;;;;;;;;;;;;x
+INSULT_PARANOID;被害妄想にとりつかれた;;;;;;;;;;;;x
+INSULT_FOOL;ばか者;;;;;;;;;;;;x
+INSULT_GULLIBLE;単純な;;;;;;;;;;;;x
+INSULT_CRUEL;冷酷なる;;;;;;;;;;;;x
+INSULT_BRUTE;人非人;;;;;;;;;;;;x
+INSULT_FIEND;悪魔;;;;;;;;;;;;x
+INSULT_CALLOUS;無神経な;;;;;;;;;;;;x
+INSULT_WANTON;ふざけた野郎の;;;;;;;;;;;;x
+INSULT_SENILE;老いぼれ;;;;;;;;;;;;x
+INSULT_CRIPPLE;不具者;;;;;;;;;;;;x
+INSULT_VEGETABLE;植物人間;;;;;;;;;;;;x
+INSULT_BESOTTED;酔いどれ野郎の;;;;;;;;;;;;x
+INSULT_DRUNKARD;飲んだくれ;;;;;;;;;;;;x
+INSULT_UNCLEAN;不潔な;;;;;;;;;;;;x
+INSULT_LEPER;癩病患者;;;;;;;;;;;;x
+INSULT_BAT;八方美人;;;;;;;;;;;;x
+INSULT_DEMONIC;悪魔憑き;;;;;;;;;;;;x
+INSULT_DEMENTED;痴呆の;;;;;;;;;;;;x
+INSULT_LUNATIC;気違い;;;;;;;;;;;;x
+INSULT_LUGUBRIOUS;陰気な;;;;;;;;;;;;x
+INSULT_CRAZED;狂った;;;;;;;;;;;;x
+INSULT_DEVIL_WOMAN;女悪魔;;;;;;;;;;;;x
+INSULT_WARLOCK;魔術師;;;;;;;;;;;;x
+INSULT_EFFEMINATE;女々しい;;;;;;;;;;;;x
+INSULT_UNMANNED;人でなし;;;;;;;;;;;;x
+INSULT_EUNUCH;玉無し;;;;;;;;;;;;x
+INSULT_BLIND;めくらの;;;;;;;;;;;;x
+INSULT_PEASANT;百姓;;;;;;;;;;;;x
+INSULT_PEASANT_WOMAN;百姓女;;;;;;;;;;;;x
+INSULT_LOWBORN;生まれの卑しい;;;;;;;;;;;;x
+INSULT_HERESIARCH;異端の首魁;;;;;;;;;;;;x
+INSULT_SYBARITE;遊蕩者;;;;;;;;;;;;x
+INSULT_DECADENT;退廃した;;;;;;;;;;;;x
+INSULT_WHOREMONGER;好色家;;;;;;;;;;;;x
+INSULT_WHORING;売春婦;;;;;;;;;;;;x
+INSULT_DEBASED;堕落した;;;;;;;;;;;;x
+INSULT_TEMPTRESS;妖婦;;;;;;;;;;;;x
+INSULT_DODDERER;足元もおぼつかない;;;;;;;;;;;;x
+INSULT_DEBAUCHER;放蕩者;;;;;;;;;;;;x
+INSULT_LITTLE;乳臭い;;;;;;;;;;;;x
+INSULT_DEGENERATE;変質者;;;;;;;;;;;;x
+INSULT_PERVERTED;変態;;;;;;;;;;;;x
+INSULT_TROLLOP;売女の;;;;;;;;;;;;x
+INSULT_PRUNE;しわだらけの;;;;;;;;;;;;x
+INSULT_PRUDE;堅物;;;;;;;;;;;;x
+INSULT_PRUDISH;淑女ぶった;;;;;;;;;;;;x
+INSULT_BORE;退屈な人;;;;;;;;;;;;x
+INSULT_IDLER;役立たずの;;;;;;;;;;;;x
+INSULT_COVETOUS;強欲な;;;;;;;;;;;;x
+INSULT_SOFT;軟弱な;;;;;;;;;;;;x
+INSULT_SPIDER;蜘蛛野郎の;;;;;;;;;;;;x
+INSULT_WUSSY;根性なしの;;;;;;;;;;;;x
+INSULT_TIMID;小心者;;;;;;;;;;;;x
+INSULT_COY;ぶりっ子;;;;;;;;;;;;x
+INSULT_RAPACIOUS;欲まみれの;;;;;;;;;;;;x
+INSULT_GRASPING;金に汚い;;;;;;;;;;;;x
+INSULT_NARROWMINDED;心の狭い;;;;;;;;;;;;x
+COMPL_VIVACIOUS;活発な;;;;;;;;;;;;x
+COMPL_DEMURE;寡黙な;;;;;;;;;;;;x
+COMPL_SINCERE;誠実な;;;;;;;;;;;;x
+COMPL_FORTHRIGHT;まっすぐな;;;;;;;;;;;;x
+COMPL_ROGUE;一匹狼の;;;;;;;;;;;;x
+COMPL_RAFFISH;奔放なる;;;;;;;;;;;;x
+COMPL_AFFABLE;愛想良しの;;;;;;;;;;;;x
+COMPL_WIT;頓知のある人;;;;;;;;;;;;x
+COMPL_DEVIL;悪魔;;;;;;;;;;;;x
+COMPL_IMPISH;やんちゃな;;;;;;;;;;;;x
+COMPL_PIRATE;海賊;;;;;;;;;;;;x
+COMPL_BERSERKER;狂戦士;;;;;;;;;;;;x
+COMPL_SAOSHYANT;救世主;;;;;;;;;;;;x
+COMPL_VALKYRIE;ヴァルキリー;;;;;;;;;;;;x
+COMPL_VIKING;バイキング;;;;;;;;;;;;x
+COMPL_FAIR;公正なる;;;;;;;;;;;;x
+COMPL_BEAUTY;麗しき;;;;;;;;;;;;x
+COMPL_HANDSOME;見目麗しき;;;;;;;;;;;;x
+COMPL_BRILLIANT;聡明なる;;;;;;;;;;;;x
+COMPL_GENIUS;天才;;;;;;;;;;;;x
+COMPL_STRONG;強健なる;;;;;;;;;;;;x
+COMPL_SCHOLAR;学者;;;;;;;;;;;;x
+COMPL_LEARNED;物知り;;;;;;;;;;;;x
+COMPL_MYSTIC;神秘的な;;;;;;;;;;;;x
+COMPL_POET;詩人;;;;;;;;;;;;x
+COMPL_CHASTE;貞操なる;;;;;;;;;;;;x
+COMPL_GOOD;優秀な;;;;;;;;;;;;x
+COMPL_DILIGENT;勤勉なる;;;;;;;;;;;;x
+COMPL_KINDLY;思いやりのある;;;;;;;;;;;;x
+COMPL_KINDHEARTED;親切な;;;;;;;;;;;;x
+COMPL_BRAVE;勇敢なる;;;;;;;;;;;;x
+COMPL_PROUD;誇り高き;;;;;;;;;;;;x
+COMPL_HUMBLE;謙遜な;;;;;;;;;;;;x
+COMPL_JUST;公正なる;;;;;;;;;;;;x
+COMPL_RIGHTEOUS;道義的に正しい;;;;;;;;;;;;x
+COMPL_SAYYID;預言者の血筋;;;;;;;;;;;;x
+COMPL_SAYYIDA;預言者の血筋;;;;;;;;;;;;x
+COMPL_PILGRIM;巡礼者;;;;;;;;;;;;x
+COMPL_MIRZA;預言者の血筋の子;;;;;;;;;;;;x
+COMPL_HAJJAJ;メッカ巡礼者;;;;;;;;;;;;x
+COMPL_MUJAHID;ジハード戦士;;;;;;;;;;;;x
+COMPL_CRUSADER;十字軍騎士;;;;;;;;;;;;x
+COMPL_HAFIZ;コーランを諳んじたる;;;;;;;;;;;;x
+COMPL_FAQIH;法学者;;;;;;;;;;;;x
+COMPL_WISE;賢明なる;;;;;;;;;;;;x
+COMPL_PURPLE_BORN;紫色の生まれの;;;;;;;;;;;;x
+COMPL_AUGUSTUS;アウグストゥス;;;;;;;;;;;;x
+COMPL_HOLY_WARRIOR;聖戦士;;;;;;;;;;;;x
+COMPL_MONK;修道士;;;;;;;;;;;;x
+COMPL_NUN;修道女;;;;;;;;;;;;x
+COMPL_CHARMER;魅惑的なる;;;;;;;;;;;;x
+COMPL_CHARMING;魅力溢れる;;;;;;;;;;;;x
+COMPL_RAVISHING;魅惑的なる;;;;;;;;;;;;x
+COMPL_ENCHANTRESS;魔女;;;;;;;;;;;;x
+COMPL_FETCHING;人目を引く;;;;;;;;;;;;x
+COMPL_GREAT;偉大なる;;;;;;;;;;;;x
+COMPL_SWEET;可愛らしい;;;;;;;;;;;;x
+COMPL_DEAR;親愛なる;;;;;;;;;;;;x
+COMPL_LORD;主たる;;;;;;;;;;;;x
+COMPL_LADY;女主人;;;;;;;;;;;;x
+COMPL_SEDUCER;女たらし;;;;;;;;;;;;x
+COMPL_PLEASANT;愉快な;;;;;;;;;;;;x
+COMPL_LEVELHEADED;分別のある;;;;;;;;;;;;x
+COMPL_WRY;皮肉屋;;;;;;;;;;;;x
+AIREASON_UNFAITHFULNESS;不忠実;;;;;;;;;;;;x
+HAS_NOT_POLYGAMY;一夫多妻制ではない;;;;;;;;;;;;x
+HAS_POLYGAMY;一夫多妻制である;;;;;;;;;;;;x
+HAS_NOT_CONCUBINAGE;側室制度がない;;;;;;;;;;;;x
+HAS_CONCUBINAGE;側室制度がある;;;;;;;;;;;;x
+DIVORCE_INTERACTION_2;[Recipient.GetPossPronoun]の不貞が証明されたため§Y[Recipient.GetTitledFirstName]§!は離婚を申し渡しました！[Recipient.GetPossPronounCap]の親族は侮辱されたと感じます（§R$OPINION$§! opinion)...;;;;;;;;;;;;x
+EVTOPTA301_DESC;§Y[From.GetFirstName]§!は完全な継承権を持つ正当な[From.GetSonDaughter]だと宣言されています。\n;;;;;;;;;;;;x
+EVTOPTB301_DESC;§Y[From.GetFirstName]§!は非嫡出のままですが、私の[From.GetSonDaughter]として認知されており、結婚して同盟を結ぶことができます。 [From.GetSubjectPronoun]に子がいる場合、そこに新しい一族が作成されます。\n;;;;;;;;;;;;x
+EVTOPTC301_DESC;§Y[From.GetFirstName]§!は、私とはまったく血の繋がりのない、未知の父親による私生児だと非難されます。\n;;;;;;;;;;;;x
+EVTDESC404_KF;私の[GetFromRelation] [From.GetFirstName]は妊娠しているが、父親は私ではない！、という悪い噂が領内に広がっている。みんなが本当の父親は[From.FatherOfUnborn.GetTitledName]だと思っている。;;;;;;;;;;;;x
+EVTDESC404_2;私の[GetFromRelation] [From.GetFirstName]が、妊娠したと私に伝えてきた。これは嘘か真か？;;;;;;;;;;;;x
+EVTOPTB404;どちらも裏切り者だ！;;;;;;;;;;;;x
+EVTDESC21001;熟慮を重ねた結果、[GetFromRelation] [From.GetFirstName]のお腹の子供の父親が私であるわけがないという考えに至った。彼女のお腹が大きくなるにつれ、最近では夜も眠れなくなっている。この問題を処理して安息を取り戻さねばならない！;;;;;;;;;;;;x
+EVTOPTA21001;真相究明のため誰かを雇おう;;;;;;;;;;;;x
+EVTOPTB21001;いや、彼女を信じる！;;;;;;;;;;;;x
+EVTDESC21003;[GetFromRelation]を女中に調べさせ疑惑を確認した。[From.FatherOfUnborn.GetTitledName]が[From.GetFirstName]の愛人であり、子供の本当の父親だった！;;;;;;;;;;;;x
+EVTDESC21003_CR;[GetFromRelation] [From.GetFirstName]を調べるために雇った女中は、彼女の妊娠について衝撃的な真実を見つけてきた。分かってはいたが、私は父親ではなかった...。[From.FatherOfUnborn.GetTitledFirstName]は、彼女自身の[GetFromVsFatherOfUnbornRelation]だ！;;;;;;;;;;;;x
+EVTOPTA21003;[Root.Religion.GetRandomGodName]のお導きにより、静かにしておくことが最良だ！;;;;;;;;;;;;x
+EVTOPTB21003;罰当たりな！ 裏切り者を公開する！;;;;;;;;;;;;x
+EVTOPTC21003;困ったな...しかし反逆だ。公開する！;;;;;;;;;;;;x
+EVTOPTD21003;これは大罪だ！;;;;;;;;;;;;x
+EVTDESC21005;私の[GetFromRelation]は物に激しく当たってイスを壊した。彼は[Root.FatherOfUnborn.GetTitledFirstName]と私との不倫を知っている。彼はお腹の子が自分の子ではないことを知って...;;;;;;;;;;;;x
+EVTOPTA21005;肉欲に負けるとは...;;;;;;;;;;;;x
+EVTDESC21006;[From.GetTitledName]は[FromFrom.GetTitledFirstName]と私との不倫を知っている。彼女が身ごもっている子供が、実は私の子供だと知ったようだ…;;;;;;;;;;;;x
+EVTOPTA21006;これは私が招いた破滅だ！;;;;;;;;;;;;x
+EVTOPTB21006;なんと恥ずべきことか！;;;;;;;;;;;;x
+EVTDESC21010;[GetFromRelation] [From.GetFirstName]を信用するためにも女中を雇ったが、彼女の妊娠について不審なことは全く見つからなかった。;;;;;;;;;;;;x
+EVTOPTA21010;ほっとした！;;;;;;;;;;;;x
+EVTOPTB21010;私は知らなければならない。直接彼女と向かい合おう！;;;;;;;;;;;;x
+EVTOPTC21010;より多くの女中を雇う！;;;;;;;;;;;;x
+EVTOPTD21010;彼女に罠を仕掛ける;;;;;;;;;;;;x
+EVTDESC21011;[GetFromRelation] [From.GetFirstName]と彼女の妊娠について疑惑を解明するために私が莫大な費用をかけて雇ったスパイたちは、まったく何も見つけなかった。;;;;;;;;;;;;x
+EVTOPTA21011;私の子供なのだろうか...？;;;;;;;;;;;;x
+EVTDESC21012;私の愛する[GetFromRelation] [From.GetFirstName]は、私の妊娠を疑っている。子供が本当に自分の子かどうか私に尋ねてきた！;;;;;;;;;;;;x
+EVTOPTA21012;私の誠実さを彼に証明する！;;;;;;;;;;;;x
+EVTOPTB21012;涙ながらに、私と[Root.FatherOfUnborn.GetTitledFirstName]との不倫を認めた。;;;;;;;;;;;;x
+EVTOPTC21012;彼はなんて幼稚なのだ。私の言いなりにしよう;;;;;;;;;;;;x
+EVTDESC21013;[From.GetFirstName]は、私が彼女に不誠実であるかどうか尋ねたときに泣き始めました。 彼女は、彼女の絶え間ない愛、徳、不断の堅実さを、私に誓います...;;;;;;;;;;;;x
+EVTOPTA21013;確信には至らなそうだな…;;;;;;;;;;;;x
+EVTDESC21003_CONF;[GetFromRelation] [From.GetFirstName]に[From.FatherOfUnborn.GetTitledName]との不倫関係を抱いていたことを徹底的に追求した時、涙ながらに告白し慈悲と許しを泣きながら嘆願しました！;;;;;;;;;;;;x
+EVTDESC21003_CONF_CR;[GetFromRelation] [From.GetFirstName]に[From.FatherOfUnborn.GetTitledName]との不倫関係を抱いていることを徹底的に追求した時、彼女は涙で告白しました - 彼女自身の[GetFromVsFatherOfUnbornRelation]と！;;;;;;;;;;;;x
+EVTDESC21015;[From.GetFirstName]は、私が妊娠について面と向かって話すと怒りだした。彼女は、自分はまるで牢獄に住んでおり、私は彼女の基本的な自由をも否定していると言っている...;;;;;;;;;;;;x
+EVTOPTA21015;今私は罪悪感を感じる...;;;;;;;;;;;;x
+EVTDESC21016;私は最愛の[Root.FatherOfUnborn.GetTitledFirstName]からのメモ見つけ、今日の鍛冶屋の裏で彼に会いましたが、[GetFromRelation] [From.GetFirstName]がそこで私を待っていました！;;;;;;;;;;;;x
+EVTOPTA21016;ダーリン、私は釈明できます！;;;;;;;;;;;;x
+EVTTOOLTIP21003_TRAP;[This.GetFirstName]は怒り心頭です！;;;;;;;;;;;;x
+EVTDESC21003_TRAP;私は[GetFromRelation]の寝室にメモを置き、愛人が鍛冶屋の裏で会いたいとしたように仕向けた。来ないようにと思いつつ待っていたが、彼女は来てしまった。 彼女は[From.FatherOfUnborn.GetTitledName]との関係を告白したのだ！;;;;;;;;;;;;x
+EVTDESC21003_TRAP_CR;私は[GetFromRelation]の寝室にメモを置き、愛人が鍛冶屋の裏で会いたいとしたように仕向けた。 彼女はすぐにやって来て、彼女の[GetFromVsFatherOfUnbornRelation]-[From.FatherOfUnborn.GetTitledName]との不倫を丁寧に告白したのだ！;;;;;;;;;;;;x
+EVTTOOLTIP64046;[This.GetFirstName]は[Root.GetTitledFirstNameNoRegnal]と熱愛関係でなくなる;;;;;;;;;;;;x
+alert_no_focus_name;フォーカスを選択;;;;;;;;;;;;x
+alert_no_focus_instant;§Y自分のフォーカスを選択§!;;;;;;;;;;;;x
+alert_no_focus_delayed;あなたは自身のフォーカスを選択する必要がある;;;;;;;;;;;;x
+opinion_unfaithful_wife;不誠実な売春婦;;;;;;;;;;;;x
+opinion_unfaithful_husband;不誠実な好色漢;;;;;;;;;;;;x
+opinion_cuckolded;寝取られ男;;;;;;;;;;;;x
+opinion_chasing_friend;友人を誘惑;;;;;;;;;;;;x
+opinion_chasing_spouse;配偶者を誘惑;;;;;;;;;;;;x
+opinion_chasing_child;子供を誘惑;;;;;;;;;;;;x
+adulterer;姦夫;;;;;;;;;;;;x
+adulteress;姦婦;;;;;;;;;;;;x
+known_sodomite;既知の男色者;;;;;;;;;;;;x
+cradle_robber;小児性愛者;;;;;;;;;;;;x
+incestuous_adulterer;近親相姦夫;;;;;;;;;;;;x
+incestuous_adulteress;近親相姦婦;;;;;;;;;;;;x
+opinion_suspected_adultery;姦通の疑い;;;;;;;;;;;;x
+opinion_regrets_accusation;無念の告訴;;;;;;;;;;;;x
+opinion_advance_rejected;進行を拒む;;;;;;;;;;;;x
+opinion_killed_lover;恋人殺し;;;;;;;;;;;;x
+adulterous_priest;スケベ司祭;;;;;;;;;;;;x
+wol_seducer_1;希求する誘惑者;;;;;;;;;;;;x
+desc_wol_seducer_1;この人物は魅惑とスリルを学んでいます...;;;;;;;;;;;;x
+wol_seducer_2;誘惑者;;;;;;;;;;;;x
+desc_wol_seducer_2;この人物はよく知られた誘惑者であり、魅力的な人物です。;;;;;;;;;;;;x
+wol_court_tomcat;宮廷の雄猫;;;;;;;;;;;;x
+desc_wol_court_tomcat;この男性は、嫉妬深い夫や愛人を上手く利用する悪名高い色魔です。;;;;;;;;;;;;x
+wol_court_vixen;宮廷の雌狐;;;;;;;;;;;;x
+desc_wol_court_vixen;この女性は、嫉妬深い妻や愛人の出し抜き方の全てを知っている悪名高い妖婦です。;;;;;;;;;;;;x
+wol_refused_duel;決闘を拒否;;;;;;;;;;;;x
+desc_wol_refused_duel;名誉ある決闘に挑まれ、この人物は臆病にもそれを拒否した。;;;;;;;;;;;;x
+FOCUS;方針;;;;;;;;;;;;x
+MILADY;お嬢様;;;;;;;;;;;;x
+MILORD;旦那様;;;;;;;;;;;;x
+CHOOSE_FOCUS_OR_AMBITION;方針もしくは野心を選択してください;;;;;;;;;;;;x
+FOCUSABORTED_SETUP;この方針を破棄;;;;;;;;;;;;x
+FOCUSABORTED_LOG;§Y$CHARNAME$§!はもはや§Y$FOCUS$§!の方針を持ちません。;;;;;;;;;;;;x
+FOCUSABORTED_LETTER;現在の状況では$FOCUS$の方針は取れない。;;;;;;;;;;;;x
+HAS_FOCUS;§Y$FOCUS$§!の方針を持つ;;;;;;;;;;;;x
+HAS_A_FOCUS;方針がある;;;;;;;;;;;;x
+HAS_NO_FOCUS;方針がない;;;;;;;;;;;;x
+SET_FOCUS_EFFECT;$CHAR$は§Y$FOCUS$§!の方針を採っている\n;;;;;;;;;;;;x
+focus_rulership_title;支配;;;;;;;;;;;;x
+focus_rulership_desc;[This.GetTitledFirstName]は時間と労力を惜しまず良い統治を行おうとしています。;;;;;;;;;;;;x
+RULERSHIP_FOCUS;支配の方針;;;;;;;;;;;;x
+focus_business_title;執務;;;;;;;;;;;;x
+focus_business_desc;[This.GetTitledFirstName]はお金の謎を解き明かすべく、町民や商人と親しく交わっています。;;;;;;;;;;;;x
+BUSINESS_FOCUS;執務の方針;;;;;;;;;;;;x
+focus_seduction_title;誘惑;;;;;;;;;;;;x
+focus_seduction_desc;[This.GetTitledFirstName]は自らの魅力を磨いています。この方針を取ることにより、適切な対象に対して§Y誘惑する§!オプションが使えるようになります。;;;;;;;;;;;;x
+SEDUCTION_FOCUS;誘惑の方針;;;;;;;;;;;;x
+focus_intrigue_title;策略;;;;;;;;;;;;x
+INTRIGUE_FOCUS;策略の方針;;;;;;;;;;;;x
+focus_hunting_title;狩猟;;;;;;;;;;;;x
+focus_hunting_desc;[This.GetTitledFirstName]は領国を旅して友人を作り、[This.Religion.GetHighGodName]の被造物を狩ります。;;;;;;;;;;;;x
+HUNTING_FOCUS;狩猟の方針;;;;;;;;;;;;x
+focus_war_title;戦争;;;;;;;;;;;;x
+focus_war_desc;[This.GetTitledFirstName]は白兵戦の訓練から古の将軍たちの書籍を読むことまで、軍事に関するあらゆることに取り組みます。この方針を取ることにより、ライバルと敵に対して§Y決闘§!を行うことが可能になります。;;;;;;;;;;;;x
+WAR_FOCUS;戦争の方針;;;;;;;;;;;;x
+focus_carousing_title;大酒盛り;;;;;;;;;;;;x
+focus_carousing_desc;[This.GetTitledFirstName]は羽目を外した宴会を開いてもっと有名に、社交的になろうと試みます。この方針を取ることにより、適切な対象に対して§Y大酒盛りに誘う§!オプションが使えるようになります。;;;;;;;;;;;;x
+CAROUSING_FOCUS;大酒盛りの方針;;;;;;;;;;;;x
+focus_family_title;家庭;;;;;;;;;;;;x
+focus_family_desc;[This.GetTitledFirstName]は家族皆が互いにいい関係でいられるよう、家庭生活に集中します。;;;;;;;;;;;;x
+FAMILY_FOCUS;家庭の方針;;;;;;;;;;;;x
+focus_scholarship_title;学問;;;;;;;;;;;;x
+focus_scholarship_desc;[This.GetTitledFirstName]は知識と学びを求めて古くて埃っぽい学術書を読みふけります。§Y天文台を建設§!の決断が可能となり、ここから自分の研究が始まることになります。;;;;;;;;;;;;x
+SCHOLARSHIP_FOCUS;学問の方針;;;;;;;;;;;;x
+focus_theology_title;神学;;;;;;;;;;;;x
+focus_theology_desc;[This.GetTitledFirstName]は沈思し、祈り、瞑想する宗教的な生活を送ります。;;;;;;;;;;;;x
+THEOLOGY_FOCUS;神学の方針;;;;;;;;;;;;x
+seduce_decision;誘惑;;;;;;;;;;;;x
+seduce_decision_desc;新たな恋人を得るため、§Y[This.GetTitledFirstName]§!を誘惑します。;;;;;;;;;;;;x
+DIP_PERFORM_ACTION;実行！;;;;;;;;;;;;x
+opinion_seducing;誘惑している;;;;;;;;;;;;x
+opinion_seduced_attracted;魅了された;;;;;;;;;;;;x
+opinion_seduced_repelled;振られた;;;;;;;;;;;;x
+opinion_seduced_yearning;思慕している;;;;;;;;;;;;x
+seducer;すけこまし;;;;;;;;;;;;x
+seducer_desc;この男は悪名高い放蕩者であり、彼に弄ばれた者が気が付いた時に残るのは傷ついた心と「望まれない子」だけです。;;;;;;;;;;;;x
+seductress;淫婦;;;;;;;;;;;;x
+seductress_desc;この女は悪名高い妖婦であり、とても貞操を守っているようには思えません…;;;;;;;;;;;;x
+administrator;行政家;;;;;;;;;;;;x
+administrator_desc;この人物は秩序と効率を至上のものとして愛する献身的な行政家です。;;;;;;;;;;;;x
+architect;建築家;;;;;;;;;;;;x
+architect_desc;この人物は建物、建築、機械、特に包囲戦に関するものを大いに好みます。;;;;;;;;;;;;x
+strategist;戦略家;;;;;;;;;;;;x
+strategist_desc;この人物は遠征の計画と現在の情勢を分析を大いに好みます。;;;;;;;;;;;;x
+socializer;社交家;;;;;;;;;;;;x
+socializer_desc;この人物は人に好かれるために努力し、暇な時は殆どいつも他人と一緒に過ごしています。;;;;;;;;;;;;x
+schemer_desc;この人物は策謀し、他人を操る人生を送ります。;;;;;;;;;;;;x
+HAS_ANY_OPINION_MOD;誰もが'§Y$MOD$§!'の意見を持っている;;;;;;;;;;;;x
+HAS_NO_OPINION_MOD;誰も'§Y$MOD$§!'の意見を持っていない;;;;;;;;;;;;x
+AGE_DIFF_AT_LEAST;少なくとも年齢の差;;;;;;;;;;;;x
+AGE_DIFF_LESS_THAN;よりも少ない年齢差;;;;;;;;;;;;x
+EVTTITLE_WOL_55;汚れた秘密;;;;;;;;;;;;x
+EVTDESC_WOL_55;ちょうど先日（いつものように仕事をサボっていたわけだが）、[FromFrom.GetTitledName]と私の[GetFromRelation][From.GetFirstName]がいたしているのを目撃してしまった！彼らは行為に熱中していたようで私に気づかなかったが、私はまだショックを受けている！;;;;;;;;;;;;x
+EVTDESC_WOL_55_CR;つい先日、いつものように仕事を怠けていたら、[FromFrom.GetTitledName]と我が[GetFromRelation][From.GetFirstName]の密会現場を見てしまった。 信じられない... [GetFromVsFromFromRelation]と[GetFromFromVsFromRelation]なのに！ 彼らには気付かれなかったが、私には衝撃的だった！;;;;;;;;;;;;x
+EVTDESC_WOL_55_M_HOMO;つい先日、いつものように仕事を怠けていたら、[FromFrom.GetTitledName]と我が[GetFromRelation][From.GetFirstName]が男同士ですべきではないことをしていたのを見てしまった！ 彼らには気付かれなかったが、私には衝撃的だった！;;;;;;;;;;;;x
+EVTDESC_WOL_55_F_HOMO;つい先日、いつものように仕事を怠けていたら、[FromFrom.GetTitledName]と我が[GetFromRelation][From.GetFirstName]が仲睦まじそうにとても奇妙な運動をしているのを見てしまった...しかも裸だった。 彼らには気付かれなかったが、私には衝撃的だった！;;;;;;;;;;;;x
+EVTDESC_WOL_55_PRIEST;ちょうど先日（いつものように仕事をサボっていたわけだが）、私は[FromFrom.GetTitledName]と私の[GetFromRelation] [From.GetFirstName]がいたしているのを目撃してしまった！神の [From.GetManWoman]よ！彼らは私に気付かなかったが、私はまだショックを受けている！;;;;;;;;;;;;x
+EVTDESC_WOL_55_AGE_YOUNG;ちょうど先日（いつものように仕事をサボっていたわけだが）、[FromFrom.GetTitledName]と私の[GetFromRelation][From.GetFirstName]がいたしているのを目撃してしまった。なんてこった、[From.GetSubjectPronoun]は[FromFrom.GetPossPronoun]の[From.GetSonDaughter]でもおかしくない年齢なのに！彼らは私に気づかなかったが、私はまだショックを受けている！;;;;;;;;;;;;x
+EVTDESC_WOL_55_AGE_OLD;つい先日、いつものように仕事を怠けていたら、[FromFrom.GetTitledName]と我が[GetFromRelation][From.GetFirstName]の密会現場を見てしまった。なんてこった、[From.GetSubjectPronoun]は[FromFrom.GetPossPronoun]の[From.GetFatherMother]でもおかしくない年齢なのに！彼らには気付かれなかったが、私には衝撃的だった！;;;;;;;;;;;;x
+EVTDESC_WOL_55_F_MARRIED;つい先日、いつものように仕事を怠けていたら、[FromFrom.GetTitledName]と我が[GetFromRelation][From.GetFirstName]の密会現場を見てしまった。彼らには気付かれなかったが、私には衝撃的だった！[From.GetSubjectPronounCap]は[Root.Religion.GetRandomGodName]の名のもとに結婚している[From.GetManWoman]だというのに！;;;;;;;;;;;;x
+EVTOPTA_WOL_55;けしからん！彼らを暴露しなければ！;;;;;;;;;;;;x
+EVTOPTA_WOL_55_UNHOLY;不信心な罪人どもだ！ 彼らを暴露しなければ！;;;;;;;;;;;;x
+EVTOPTB_WOL_55;肉欲には弱くなるものだ。許し忘れよう;;;;;;;;;;;;x
+EVTOPTC_WOL_55;銭の匂いがするぞ！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_60;[This.GetBestName]の不倫がバレました;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_56;[This.GetTitledName]は脅迫されている;;;;;;;;;;;;x
+EVTDESC_WOL_56;[Root.GetTitledFirstName]へ。私はあなたと私の[GetFromVsFromFromRelation]、[FromFrom.GetTitledFirstName]が何をやっているか知っています。この[GetFromRootInsult]め。しかし、人が肉欲の罪に弱いことも理解しているので、この件は他言しないつもりです。……僅かな寄付さえいただければ。\n\n [From.GetBestName];;;;;;;;;;;;x
+EVTDESC_WOL_56_CR;[Root.GetTitledFirstName]へ。 私はあなたが自分の[GetFromFromRelation]と何をしているのか知っています。この[GetFromRootInsult]め。 あなた方の行為には吐き気がしますが、私は大変な資金難に面しているので、僅かな寄付という形の見返りで忘れることにしましょう。\n\n [From.GetBestName];;;;;;;;;;;;x
+EVTDESC_WOL_56_HOMO;[Root.GetTitledFirstName]へ。あなたと私の[GetFromVsFromFromRelation]がやっていることを目にしました。この[GetFromRootInsult]、なんと忌々しい！ しかし、私は寛大な[From.GetManWoman]ですから、僅かな贈り物と引き換えに忘れてさしあげましょう。\n\n[From.GetBestName];;;;;;;;;;;;x
+EVTOPTA_WOL_56;[GetRootFromInsult]め！払ってやろう……;;;;;;;;;;;;x
+EVTOPTB_WOL_56;醜聞を被るほうがましだ！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_57;金銭が[This.GetBestName]へ送られる;;;;;;;;;;;;x
+EVTDESC_WOL_57;[GetFromRootInsult]の[Root.GetFirstName]へ。 お望み通り、金はくれてやる。 黙っておかないと、想像もできないようなことをおまえにするぞ! \n\n[From.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_WOL_57;ウロウロすると得をするなぁ！;;;;;;;;;;;;x
+EVTDESC_WOL_59;[GetFromFromRootInsult] [Root.GetFirstName]へ。 これは何かの冗談か？ [From.GetFirstName]の貞操は潔白だ！ 何をしようが、誰もあなたの嘘を信じないだろう。\n\n [FromFrom.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_WOL_59;結構なことで。楽しむこととしよう！;;;;;;;;;;;;x
+EVTOPTB_WOL_59;試す価値はあったが、私はそんな無慈悲じゃない;;;;;;;;;;;;x
+EVTTITLE_WOL_60;不倫スキャンダル;;;;;;;;;;;;x
+EVTDESC_WOL_60;[From.GetBestName]は、私と[FromFrom.GetFirstName]がいたしているところをみた、と皆に言いふらしました。スキャンダルは事実です。;;;;;;;;;;;;x
+EVTOPTA_WOL_60_F;哀れな [FromFrom.GetFirstName]。 私は[FromFrom.GetObjectPronoun]を傷つけるつもりはなかった。;;;;;;;;;;;;x
+EVTOPTA_WOL_60_M;あぁまぁ、それが中世ってもんだ！;;;;;;;;;;;;x
+EVTDESC_WOL_61;[FromFrom.GetBestName]は、私と[From.GetFirstName]がいたしているところをみた、と皆に言いふらしました。スキャンダルは事実です。;;;;;;;;;;;;x
+EVTOPTA_WOL_61_F;台無しだ！;;;;;;;;;;;;x
+EVTDESC_WOL_62;[FromFrom.GetBestName]は私の[GetFromRelation] [From.GetFirstName]と[FromFromFrom.GetTitledName]の不倫関係を暴露した！;;;;;;;;;;;;x
+EVTOPTA_WOL_62;私の心はズタズタだ！;;;;;;;;;;;;x
+EVTOPTA_WOL_62_CR;自分の[GetFromVsFromFromFromRelation]と浮気しただと！？;;;;;;;;;;;;x
+EVTDESC_WOL_63;[FromFromFrom.GetBestName]は私の[GetFromRelation] [From.GetFirstName]と[FromFrom.GetTitledName]との不倫関係を暴露した！;;;;;;;;;;;;x
+EVTOPTA_WOL_63_CR;自分の[GetFromVsFromFromRelation]と浮気しただと！？;;;;;;;;;;;;x
+EVTDESC_WOL_81_F;魅力的な男たちを余さずベッドに誘い込むのは簡単なことではない。 嫉妬深い妻、用心深い母親、お節介な廷臣、望まない妊娠 - こんな危険な海を渡るにはスキルがいるんだ！;;;;;;;;;;;;x
+EVTDESC_WOL_81_M;女の尻を追うことは危険な務めだ。 嫉妬深い夫、用心深い両親、聞き耳を立てる召使...そして望まれない子供。  [Root.Religion.GetRandomGodName]により、私はまだ生かされているのだろうか！;;;;;;;;;;;;x
+EVTDESC_WOL_81_HOMO;この未開な時代に、他の[Root.GetMenWomen]を求めることは危険を伴う。 だが、スキャンダルの危険はとてもワクワクさせる。 しかも、妊娠の危険もない！;;;;;;;;;;;;x
+EVTOPTA_WOL_81;多少は策略が得意になったようだ！;;;;;;;;;;;;x
+EVTDESC_WOL_99;私の自信は山のように高く、否応のない魅力があり、私の功績は伝説的だ。 私は[Root.GetFirstName] - 誘惑の化身だ。;;;;;;;;;;;;x
+EVTOPTA_WOL_99;クレオパトラでも敵うまい！;;;;;;;;;;;;x
+EVTOPTA_WOL_99_PERS;シェヘラザードでも敵うまい！;;;;;;;;;;;;x
+EVTOPTB_WOL_99;私は我慢できそうにない！;;;;;;;;;;;;x
+EVTOPTC_WOL_99;しかし……犯したくなる罪が多すぎるのだ！;;;;;;;;;;;;x
+EVTOPTD_WOL_99;当然のことだが、私は罪を明確にはさせない;;;;;;;;;;;;x
+EVTTITLE_WOL_100;捕物が始まる！;;;;;;;;;;;;x
+EVTDESC_WOL_100;私は自分の言いなりにできる[From.GetObjectPronoun]を持っているので、私の持ちうる全ての誘惑のスキルで[From.GetTitledFirstName]との関係を築く！;;;;;;;;;;;;x
+EVTOPTA_WOL_100;[From.GetSubjectPronounCap]は私のものになる！;;;;;;;;;;;;x
+EVTDESC_WOL_101;私は[From.GetTitledFirstName]を狙うことにしたが、年齢差の問題で宮廷にスキャンダルを巻き起こすかもしれない...;;;;;;;;;;;;x
+EVTOPTA_WOL_101;だけど私はシワが好き！;;;;;;;;;;;;x
+EVTOPTB_WOL_101;しかし、[From.GetSubjectPronoun]のなんて小さな一口だこと！;;;;;;;;;;;;x
+EVTOPTC_WOL_101;他の獲物を探すべきだ...;;;;;;;;;;;;x
+EVTTITLE_WOL_102;一族全体の策略;;;;;;;;;;;;x
+EVTDESC_WOL_102;私は自分の[GetFromRelation]である[From.GetFirstName]を誘惑することに決めた。 この禁忌はスリリングだが、スキャンダルである--- [Root.Religion.GetRandomGodName]の名のもとでは、スキャンダルも叙事詩になるのだ。;;;;;;;;;;;;x
+EVTOPTA_WOL_102;この危機はさらに興奮させる！;;;;;;;;;;;;x
+EVTOPTB_WOL_102;考え直したが、私は逸脱していない。;;;;;;;;;;;;x
+EVTDESC_WOL_103;[From.GetTitledFirstName] - 法衣の[From.GetManWoman] - を誘惑するアイデアはとても興奮する！ が、ここでのスキャンダルは間違いなく危険だな...;;;;;;;;;;;;x
+EVTOPTA_WOL_103;価値があるだろう！;;;;;;;;;;;;x
+EVTOPTB_WOL_103;いや、私はとても[Root.Religion.GetRandomGodName]を恐れています。;;;;;;;;;;;;x
+EVTDESC_WOL_104;世間は私の嗜好をよく思わないだろう。しかしそんなスキャンダルの危険を冒しながら、私はまさに[From.GetTitledFirstName]を誘惑しようとしている。;;;;;;;;;;;;x
+EVTOPTA_WOL_104;誇りを持って！;;;;;;;;;;;;x
+EVTOPTB_WOL_104;リスクに見合う価値がない;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_110;次の行動を計画し始める;;;;;;;;;;;;x
+EVTDESC_WOL_111;私の誘惑の標的[FromFromFrom.GetTitledFirstName]は、悲劇的な死を遂げた！;;;;;;;;;;;;x
+EVTOPTA_WOL_111;まあ、獲物はいくらでもいるさ！;;;;;;;;;;;;x
+EVTDESC_WOL_112;[FromFromFrom.GetSubjectPronoun]が投獄されたので、私の[FromFromFrom.GetTitledFirstName]に対する誘惑は予期せず終了した！;;;;;;;;;;;;x
+EVTOPTA_WOL_112;他の場所でスリルを得なければ;;;;;;;;;;;;x
+EVTDESC_WOL_113;私の熱心な注目の的である[FromFromFrom.GetTitledFirstName]は、悲劇的に昏睡状態に陥ってしまっており、努力に報いることができません。;;;;;;;;;;;;x
+EVTOPTA_WOL_113;植物人間を誘惑して何になる！;;;;;;;;;;;;x
+EVTTITLE_WOL_200;一通の愛の手紙;;;;;;;;;;;;x
+EVTDESC_WOL_200;今日私は枕の上にほのかな香りの手紙を見つけた。 その手紙から、[From.GetTitledFirstName]が私に心惹かれていることがはっきりとわかった！;;;;;;;;;;;;x
+EVTDESC_WOL_200_CR;今日私は枕の上にほのかな香りのある手紙を見つけました - どう反応すればいいのかわかりません - どうやら私の[GetFromRelation] [From.GetFirstName]が私の魅力にはまってしまったようです！;;;;;;;;;;;;x
+EVTOPTA_WOL_200;あぁ、なんてロマンチックな！;;;;;;;;;;;;x
+EVTOPTB_WOL_200;なんて愉快な歪みなんだ！;;;;;;;;;;;;x
+EVTOPTC_WOL_200;まったく馬鹿馬鹿しい！;;;;;;;;;;;;x
+EVTOPTD_WOL_200;バカモノ、私は結婚している[Root.GetManWoman]だ！;;;;;;;;;;;;x
+EVTOPTE_WOL_200;不愉快だ！;;;;;;;;;;;;x
+EVTOPTF_WOL_200;なんて病的な変質者だ！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_201;お近づきに...;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_202;私の沈黙は[This.GetObjectPronoun]を思いとどまらせるでしょう。;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_203;強硬に[This.GetObjectPronoun]を思いとどまらせる！;;;;;;;;;;;;x
+EVTTITLE_WOL_201;愛の手紙;;;;;;;;;;;;x
+EVTDESC_WOL_201;私は[From.GetSubjectPronoun]を口説こうとして、ほのかな香りのする愛の手紙を[From.GetFirstName]の枕の上に置くことにした...その狙いは当たったようで、[From.GetObjectPronoun]も私のもとに手紙を置いてきたが、それは[From.GetPossPronoun]が私に心惹かれていることを告白するものだった！;;;;;;;;;;;;x
+EVTOPTA_WOL_201;おお！ここは賭けに出ようか？;;;;;;;;;;;;x
+EVTOPTB_WOL_201;すばらしいが、もはや[From.GetObjectPronoun]に興味はない。;;;;;;;;;;;;x
+WOL_SEDUCE_END_TOOLTIP;捕物はおわった\n;;;;;;;;;;;;x
+EVTDESC_WOL_202;[From.GetFirstName]は[From.GetPossPronoun]の枕に置かれた愛の手紙に返事をしなかった。;;;;;;;;;;;;x
+EVTOPTB_WOL_202;諦めのとき;;;;;;;;;;;;x
+EVTDESC_WOL_203;[From.GetFirstName]への誘惑の企てが入ったほのかな香りのラブレターを[From.GetObjectPronoun]の枕の上に残す事を図った……。今日私は厠で[From.GetPossPronoun]からの返事を見つけた。 バラのにおいはしなかった。;;;;;;;;;;;;x
+EVTOPTA_WOL_203;一時的な後退！;;;;;;;;;;;;x
+EVTOPTB_WOL_203;次の相手を探そう;;;;;;;;;;;;x
+EVTTITLE_WOL_210;愛の贈り物;;;;;;;;;;;;x
+EVTDESC_WOL_210;私の寝室は野の花で覆われている！そしてこれは何だ？貴重な石で出来た美しいネックレスだ！このようなメモがあった。「あなたの慎ましい恋人[From.GetTitledFirstName]より、あなたのお気に召されるものを」;;;;;;;;;;;;x
+EVTDESC_WOL_210_CR;私の寝室は野の花で覆われている！そしてこれは何だ？貴重な石で出来た美しいネックレスだ！このようなメモがあった。「あなたの慎ましい恋人[From.GetFirstName]より、あなたのお気に召されるものを」待て、まさか本当に私の[GetFromRelation]の[From.GetFirstName]ではないだろうな？！;;;;;;;;;;;;x
+EVTDESC_WOL_210_M;今日給仕が美しく包まれた贈り物を持ってきた。柄に金メッキが施された、完璧にバランスの取れた剣だった。添えられたメモには私の虜になった[From.GetTitledFirstName]からの贈り物だと書かれている！;;;;;;;;;;;;x
+EVTDESC_WOL_210_CR_M;今日給仕が美しく包まれた贈り物を持ってきた。柄に金メッキが施された、完璧にバランスの取れた剣だった。添えられたメモには私の虜になった[From.GetFirstName]からの贈り物だと書かれている！[GetFromRelation]の[From.GetFirstName]なのか?!;;;;;;;;;;;;x
+EVTOPTA_WOL_210;なんてロマンチックな！;;;;;;;;;;;;x
+EVTOPTB_WOL_210;なんと邪な...ワクワクするな！;;;;;;;;;;;;x
+EVTTITLE_WOL_211;愛のギフト;;;;;;;;;;;;x
+EVTDESC_WOL_211;私は[From.GetFirstName]に野の花で覆い尽くした部屋と美しいネックレスを贈った。どうやらうまくいっているらしい。 今日馬小屋で、浮き彫りを施した印がしてある豪華な新しい鞍を見つけた！;;;;;;;;;;;;x
+EVTDESC_WOL_211_M;私は[From.GetFirstName]に豪華な剣を贈り物として送りました。彼の心にい響いたようで、おそろいの短剣をお返しに贈ってきました！;;;;;;;;;;;;x
+EVTOPTA_WOL_211;とても簡単な謎かけだ、わかっている！;;;;;;;;;;;;x
+EVTOPTB_WOL_211;私は感情を抑えることが出来ない！が、心が変わった...;;;;;;;;;;;;x
+EVTDESC_WOL_212;私は[From.GetFirstName]に野の花で覆い尽くした部屋と美しいネックレスを贈ったが、彼女からの返事をまだ聞いていない...;;;;;;;;;;;;x
+EVTDESC_WOL_212_M;私は[From.GetFirstName]に豪華な剣を贈り物として送りましたが、彼の返事はありませんでした。;;;;;;;;;;;;x
+EVTOPTA_WOL_212;それは悪いことだったのかもしれません！;;;;;;;;;;;;x
+EVTOPTB_WOL_212;これはどこにも行ってません。;;;;;;;;;;;;x
+EVTDESC_WOL_213;私は[From.GetFirstName]の部屋を野の花で覆い尽くし、美しいネックレスを贈った...今日私が見つけたのは、ベッドいっぱいの萎れた花びらと、枕の上に置かれた錆びた釘だった！;;;;;;;;;;;;x
+EVTDESC_WOL_213_M;しばらく前、[From.GetFirstName]に贈り物として豪華な剣を贈った。そして今日私の織り機がその剣で詰まっているのを見つけ、織り機は完全に破壊されていた！;;;;;;;;;;;;x
+EVTOPTA_WOL_213;[From.GetSubjectPronounCap]は威勢がいいな！ 良い挑戦は大好きだぞ！;;;;;;;;;;;;x
+EVTOPTB_WOL_213;そうだ、私は自身の才能を無駄にしている！;;;;;;;;;;;;x
+EVTTITLE_WOL_220;夢中になっていることの伝聞;;;;;;;;;;;;x
+EVTDESC_WOL_220;私の給仕が[From.GetTitledFirstName]が絶えず私のことを考えているので寝ることができないと聞いてきたと言ってきたが、友人も同じことを言っているが信用できない！;;;;;;;;;;;;x
+EVTDESC_WOL_220_CR;宮廷の給仕が[From.GetTitledFirstName]が常に私について考えているので眠れないという噂を聞いたと主張している...我が[GetFromRelation]よ、[Root.Religion.GetRandomGodName]を祝福したまえ！;;;;;;;;;;;;x
+EVTDESC_WOL_220_M;私の下僕が[From.GetTitledFirstName]が身悶えのするような情熱的な夢見て、その中で私の名前を叫んでいたと聞いたと主張しているが、友人も同じことを言っているが信用できない！;;;;;;;;;;;;x
+EVTDESC_WOL_220_CR_M;私の下僕が[From.GetTitledFirstName]が身悶えのするような情熱的な夢見て、その中で私の名前を叫んでいたと聞いたと主張しているが、友人も同じことを言っているが信用できない！我が[GetFromRelation]よ、[Root.Religion.GetRandomGodName]とともにあれ！;;;;;;;;;;;;x
+EVTOPTA_WOL_220;なんと嬉しいことだ！;;;;;;;;;;;;x
+EVTOPTB_WOL_220;無茶苦茶だ！私がこんなもので興奮するというのか？;;;;;;;;;;;;x
+EVTTITLE_WOL_221;流言による征服;;;;;;;;;;;;x
+EVTDESC_WOL_221;噂好きで評判の悪い人々の耳に入るように慎重にばらまかれた話は、愛の手紙よりも効果的なことがある！  [From.GetTitledFirstName]は私のメッセージを受け取っているに違いない。今日、私の部屋にシルクに包まれた一房の髪があった。それには[From.GetPossPronoun]が個人的に使う印章がついていたのだ。;;;;;;;;;;;;x
+EVTOPTA_WOL_221;ほら！[From.GetObjectPronoun]に持っていかないと！;;;;;;;;;;;;x
+EVTOPTB_WOL_221;残念だが、私はもう[From.GetObjectPronoun]に何もしたくない;;;;;;;;;;;;x
+EVTDESC_WOL_222;噂を好むことで評判の悪い人々の耳に入るように慎重にばらまかれた話は、愛の手紙よりも効果的なことがある！。少なくとも私はそう考えたのだが、私の獲物の[From.GetTitledFirstName]はどんな形の反応もしなかった;;;;;;;;;;;;x
+EVTOPTA_WOL_222;別の手が必要だな。;;;;;;;;;;;;x
+EVTOPTB_WOL_222;この努力を終える時だ！;;;;;;;;;;;;x
+EVTDESC_WOL_223;噂を好むことで評判の悪い人々の耳に入るように慎重にばらまかれた話は、愛の手紙よりも効果的なことがあると思っていたが ...確かに [From.GetTitledFirstName]は確実にメッセージを受け取ったようだ。今度は[From.GetSubjectPronoun]が私についての[From.GetPossPronoun]の噂を広め始めたのだから！;;;;;;;;;;;;x
+EVTOPTA_WOL_223;なかなか利口だな。だが私は簡単には諦めないぞ！;;;;;;;;;;;;x
+EVTOPTB_WOL_223;私と馬が？もういやだ！;;;;;;;;;;;;x
+EVTTITLE_WOL_300;非公式な催し;;;;;;;;;;;;x
+EVTDESC_WOL_300;私の鼓動は、[From.GetTitledName]が私を次のダンスに誘うたびに速くなっていく。もう遅い時間だというのに、[From.GetManWoman]の魅力には逆らえない！ 私はビートの根のように赤くなっているに違いない。;;;;;;;;;;;;x
+EVTDESC_WOL_300_CR;我が[GetFromRelation] の[From.GetFirstName]は一晩中私と一緒に踊っている。 私は[From.GetSubjectPronoun]が単にこの催しを楽しんでいるだけだと思っていたが、私たちの間には奇妙な緊張が高まっている。 どこか官能的で、禁断の...スリリングな緊張が。;;;;;;;;;;;;x
+EVTDESC_WOL_300_M;このちょっとした行事は退屈なだけだと思っていたが、[From.GetTitledName]が彼女の胸を何度も私に当ててくるのがわかった。私をおもちゃにする気か？いまのは間違いなくウインクだ！これは面白くなってきたぞ！;;;;;;;;;;;;x
+EVTOPTA_WOL_300;なにか気の利いたことを言わなければ！;;;;;;;;;;;;x
+EVTOPTA_WOL_300_F;[From.GetObjectPronoun]に少しだけ谷間をみせる...;;;;;;;;;;;;x
+EVTOPTA_WOL_300_CR;なんと甘美なる罪悪か！私がほんの少し手を下げれば...;;;;;;;;;;;;x
+EVTOPTB_WOL_300;[From.GetObjectPronoun]に冷たい態度をとる;;;;;;;;;;;;x
+EVTOPTB_WOL_300_MAR;私は結婚している身だ！私のもとを去れ。;;;;;;;;;;;;x
+EVTOPTB_WOL_300_OLD;[From.GetSubjectPronounCap]は私にはあまりにも年下だ！;;;;;;;;;;;;x
+EVTOPTB_WOL_300_YOUNG;[From.GetSubjectPronounCap]は私にはあまりにも年上だ！;;;;;;;;;;;;x
+EVTOPTB_WOL_300_CR;まさか[GetFromRelation]となんて！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_301;[This.GetFirstName]の誘いを助長する;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_302;[This.GetFirstName]の誘いをはねつける;;;;;;;;;;;;x
+EVTTITLE_WOL_301;非公式な催し;;;;;;;;;;;;x
+EVTDESC_WOL_301;私は[From.GetTitledFirstName]を誘惑するために、[From.Capital.Capital.GetName]で開かれるちょっとした催しに参加できるよう取り計らった。 私たちは一緒に踊り、一晩中会話した。[From.GetSubjectPronoun]は私の誘いに明らかにに反応している……;;;;;;;;;;;;x
+EVTDESC_WOL_301_DISTANT;私は[From.Capital.Capital.GetName]の[From.Employer.GetTitledName]の宮廷に行って、よくあるお祝い事で[From.GetFirstName]に会う事ができた。 私たちは一緒に踊り、一晩中会話した。[From.GetSubjectPronoun]は私の誘いに明らかに反応している……;;;;;;;;;;;;x
+EVTOPTA_WOL_301;私の部屋にはちみつ酒があるのですが、[From.GetMilordMilady];;;;;;;;;;;;x
+EVTOPTB_WOL_301;もうしばらく[From.GetObjectPronoun]に憧れさせておく...;;;;;;;;;;;;x
+EVTOPTC_WOL_301;はっきり言おう。こんなことはもう終わりだ。;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_303;[This.GetObjectPronoun]を私の愛人にしようとする;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_304;[This.GetPossPronoun]の私への好感度を上げる;;;;;;;;;;;;x
+EVTDESC_WOL_302;私は[From.GetTitledFirstName]を誘惑しようと、よくある[From.Capital.Capital.GetName]での催しに出席することにしたのだが、私ができる限りの手を尽くしたにも関わらず、[From.GetSubjectPronoun]はちっとも心を動かされた様子がない。;;;;;;;;;;;;x
+EVTOPTA_WOL_302;もっと練習が必要だ;;;;;;;;;;;;x
+EVTDESC_WOL_303;その催しが終わりに近づくと、[From.GetFirstName]は私の手をとり目をみつめてきた。 「[Root.GetMilordMilady]、私の部屋まで付き添ってくれますか？」;;;;;;;;;;;;x
+EVTDESC_WOL_303_F;夜の遊興は終わりに近づいている。 [From.GetFirstName]は顎で大分酔っ払った私の付き添いを指し示した。 「彼女は私たちがここを出ても気づかないだろう...」[From.GetSubjectPronounCap]は淫らに笑い、私のお尻を撫でた。;;;;;;;;;;;;x
+EVTOPTA_WOL_303;甘い誘惑だな、いいぞ！;;;;;;;;;;;;x
+EVTOPTB_WOL_303;私は[Root.GetLadLass]のようなものではない！;;;;;;;;;;;;x
+EVTOPTC_WOL_303;意地悪く笑い大声で[From.GetObjectPronoun]を侮辱する！;;;;;;;;;;;;x
+EVTOPTC_WOL_303_F;[From.GetObjectPronoun]を平手打ちし悪態をつく！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_306;思い出に残る一夜を！;;;;;;;;;;;;x
+EVTDESC_WOL_304;なんて一夜だろう！[From.GetFirstName]と恋に落ちているだなんて...;;;;;;;;;;;;x
+EVTOPTA_WOL_304;なんとしても[From.GetObjectPronoun]をものにしなければ！;;;;;;;;;;;;x
+EVTDESC_WOL_305;いよいよ盛り上がってきたというところで、[From.GetFirstName]は適当な言い訳をつけて去ってしまった！;;;;;;;;;;;;x
+EVTOPTA_WOL_305;私が何をしたというのだ？;;;;;;;;;;;;x
+EVTDESC_WOL_306;私は甘い言葉で[From.GetMenWomen]を誘惑することに関しては自信があるのだ！ [From.GetFirstName]と私は禁じられた愛を育み、[From.GetPossPronoun]のベッドで甘い一夜を共にした。私は手がかりが残らないよう、長居をせずにこっそりと宮廷を離れた...お願いだからバレませんように！;;;;;;;;;;;;x
+EVTDESC_WOL_306_CR;私は甘い言葉で[From.GetMenWomen]を誘惑することに関しては自信があるのだ！[Root.Religion.GetRandomEvilGodNameCap]に魂を売り渡したような不道徳な行いだとわかっていたが、[From.GetFirstName]と私は禁じられた愛を育み、[From.GetPossPronoun]のベッドで甘い一夜を共にした。私は手がかりが残らないよう、長居をせずにこっそりと宮廷を離れた...お願いだからバレませんように！;;;;;;;;;;;;x
+EVTOPTA_WOL_306;来た、見た、勝った;;;;;;;;;;;;x
+EVTOPTA_WOL_306_CUSTOM;[From.GetObjectPronoun]と愛を育み、[From.GetObjectPronoun]を去った;;;;;;;;;;;;x
+EVTOPTB_WOL_306;私達の愛が育ちますように！;;;;;;;;;;;;x
+EVTDESC_WOL_307;催しが終わったとき、私は[From.GetFirstName]の傍らに近づいて一緒に退出することを提案した...  信じられないことに、[From.GetSubjectPronoun]は私の申し出をはねつけたのだ！;;;;;;;;;;;;x
+EVTOPTA_WOL_307;美徳はこれよりも強い...;;;;;;;;;;;;x
+EVTOPTB_WOL_307;これに耐えうる忍耐が私にはない;;;;;;;;;;;;x
+EVTDESC_WOL_308;私は[From.GetFirstName]が完全にオチたと思い、一緒に退出することを提案したが、[From.GetSubjectPronoun]は大声で私をからかうと、残酷な笑い声を立てながら大分酔いの回った付き添い人の方へ歩き去っていった！;;;;;;;;;;;;x
+EVTOPTA_WOL_308;はは！獲物は威勢がいいな！;;;;;;;;;;;;x
+EVTOPTB_WOL_308;この意地悪婆にはウンザリだ！;;;;;;;;;;;;x
+EVTOPTB_WOL_308_F;この道化師にはウンザリだ！;;;;;;;;;;;;x
+EVTTITLE_WOL_351;深夜のつまみ喰い;;;;;;;;;;;;x
+EVTDESC_WOL_351;私は[From.GetFirstName]がいつものように夜食に降りてきて、台所に一人でいるところに「偶然にも」居あわせることができた。 私たちは何時間も話し、笑いあった。[From.GetPossPronoun]は私に惹かれているようだった。私はそれが自分の思い込みではないことを願いながら、[From.GetPossPronoun]の耳にささやくように言った...;;;;;;;;;;;;x
+EVTDESC_WOL_351_DISTANT;[From.Employer.GetTitledName]の宮廷への旅路は陰鬱なものだったが、私は[From.GetFirstName]がいつものように夜食に降りてきて、台所に一人でいるところに「偶然にも」居あわせることができた。 私たちは何時間も話し、笑いあった。[From.GetPossPronoun]は私に惹かれているようだった。私はそれが自分の思い込みではないことを願いながら、[From.GetPossPronoun]の耳にささやくように言った...;;;;;;;;;;;;x
+EVTOPTA_WOL_351;愛を告白する;;;;;;;;;;;;x
+EVTOPTB_WOL_351;淫らな誘いをする;;;;;;;;;;;;x
+EVTOPTC_WOL_351;愛の詩を引用する;;;;;;;;;;;;x
+EVTOPTD_WOL_351;[From.GetPossPronoun]の耳にそっと唇を近づけ、優しく吐息を吹きかける;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_352_LOVE;[This.GetFirstName]はウブでロマンチックだと賭ける;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_352_LEWD;[This.GetFirstName]は経験豊かで淫らだと賭ける;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_352_POET;[This.GetFirstName]が詩や学識に反応すると賭ける;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_352_BREATH;絶対確実な誘惑の策を使う;;;;;;;;;;;;x
+EVTDESC_WOL_352;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 私たちは数時間雑談して笑っていましたが、言葉が柔らかくなり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_DISTANT;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま遠方の客人[From.GetTitledFirstName]に遭遇した。 私たちは数時間雑談して笑っていましたが、言葉が柔らかくなり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_HOMO;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 私たちは数時間雑談して笑っていましたが、おかしな気分になってきました。惹かれている？[From.GetManWoman]同士なのに...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_CR;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[GetFromRelation][From.GetFirstName]に遭遇した。 私たちは数時間雑談して笑っていましたが、おかしな気分になってきました。惹かれている？私の[GetFromRelation]に...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTOPTA_WOL_352_POET;なんと才知あふれる詩だろうか！これには抗えない...;;;;;;;;;;;;x
+EVTOPTA_WOL_352_LEWD;なんて汚れた心だろう、[From.GetFirstName]！ それでは、少しだけ罪を犯そう...;;;;;;;;;;;;x
+EVTOPTA_WOL_352_LOVE;なんて甘美な愛の言葉だろう！どうしてこの心が抵抗できるだろうか？;;;;;;;;;;;;x
+EVTOPTA_WOL_352_BREATH;[From.GetPossPronounCap]の熱い吐息で、私は体を雷に打たれたように感じた！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_306_2;ベッドへ[This.GetFirstName]の後を追う...;;;;;;;;;;;;x
+EVTOPTB_WOL_352_POET;詩？そんな戯言に気をかけるつもりはない！;;;;;;;;;;;;x
+EVTOPTB_WOL_352_LEWD;無礼な！ 私はそんなイヤラシイ言葉が存在することさえ知りませんでした！;;;;;;;;;;;;x
+EVTOPTB_WOL_352_LOVE;愛の告白？なんて子供らしい戯言だこと！;;;;;;;;;;;;x
+EVTOPTB_WOL_352_BREATH;欲望が私を圧倒してくるが、私は屈するわけにはいかない！;;;;;;;;;;;;x
+EVTDESC_WOL_353;[From.GetFirstName]は顔を赤らめて、申し訳なさそうに何事かを口ごもりながら、私のそばから後ずさりをしたかと思うと走り去った。;;;;;;;;;;;;x
+EVTDESC_WOL_353_CR;[From.GetFirstName] は、顔に驚きと嫌悪の色を浮かべ、「いい加減にしてくれ、[Root.GetFirstName]、私はあなたの[GetFromRelation]なんだ！」と叫びながら私のそばから飛び退った。;;;;;;;;;;;;x
+EVTDESC_WOL_353_OLD_M;[From.GetFirstName]はショックを受けたように私から距離をとって、「[Root.GetTitledFirstNameNoRegnal]！私の父親でもおかしくない年齢なのに！」と言い放った。さっきまでの笑顔は跡形もなく消えていた。;;;;;;;;;;;;x
+EVTDESC_WOL_353_OLD_F;[From.GetFirstName]はショックを受けたように私から距離をとり、そのまま逃げるように去って行った。去り際に「申し訳ないが、[Root.PrimaryTitle.GetRulerTitle]、私からするとあなたは大分年をとりすぎている」と言い残していった。;;;;;;;;;;;;x
+EVTDESC_WOL_353_YOUNG;[From.GetFirstName]はゆっくりと首を振ると、笑みを浮かべながらゆっくりと私を押しのけた。「ごめんなさい[Root.GetLadLass]、あなたは[From.GetMenWomen]のことをまだよくわかっていないようですね！」;;;;;;;;;;;;x
+EVTTITLE_WOL_401;野外での誘惑;;;;;;;;;;;;x
+EVTDESC_WOL_401;私は[From.GetTitledFirstNameNoRegnal]を伴って盛大な野駆け遊びに出かけた。不運なことに廷臣の半数ほどが居合わせていたので、私はなかなか「私の愛欲の源」と二人きりになれずにいた...;;;;;;;;;;;;x
+EVTDESC_WOL_401_DISTANT;私は[From.GetTitledFirstNameNoRegnal]の催した盛大な野駆け遊びに参加するべく、遠く離れた地までやってきた。不運なことに廷臣の半数ほどが居合わせていたので、私はなかなか「私の愛欲の源」と二人きりになれずにいた...;;;;;;;;;;;;x
+EVTDESC_WOL_401_CR;私は[From.GetFirstName]を伴って盛大な野駆け遊びに出かけた。廷臣を半数ほども引き連れていたので、普通なら二人きりで過ごす時間などとても作れないはずだ。だが[From.GetFirstName]は私の[GetFromRelation]なので、関係を疑われることはないだろう...;;;;;;;;;;;;x
+EVTDESC_WOL_401_HOMO;私は[From.GetFirstName]を伴って盛大な野駆け遊びに出かけた。廷臣を半数ほども引き連れていたので、普通なら二人きりで過ごす時間などとても作れないはずだ。だが[From.GetFirstName]とは[Root.GetManWoman]同士なので、疑いを持たれることはないだろう...;;;;;;;;;;;;x
+EVTOPTA_WOL_401;[From.GetPossPronoun]の友人を味方につける;;;;;;;;;;;;x
+EVTOPTB_WOL_401;[From.GetObjectPronoun]に書き置きを残して、小川のほとりで密会する;;;;;;;;;;;;x
+EVTOPTC_WOL_401;[From.GetObjectPronoun]と二人きりで遠くまで散策に行く;;;;;;;;;;;;x
+EVTOPTD_WOL_401;慎重に[From.GetObjectPronoun]を口説く;;;;;;;;;;;;x
+EVTDESC_WOL_403;[From.GetBestName]は私のロマンスの計画に共感しているようだ。[From.GetSubjectPronounCap]と[FromFromFrom.GetFirstName]は「偶然にも」小川のほとりで私と出会い、3人で素晴らしい時間を過ごした。[FromFromFrom.GetSubjectPronoun]は友人が席を外したのにもほとんど気づいていないようだった。私に夢中になっているに違いない。私は[FromFromFrom.GetPossPronoun]の耳にそっと囁きかける...;;;;;;;;;;;;x
+EVTDESC_WOL_404;盛大な野駆け遊びの最中、私は[From.GetTitledFirstNameNoRegnal]と二人きりで小川のほとりにいた。どうやら友人や召使いたちは私を見失ったようだ。魅惑的な[From.GetTitledFirstNameNoRegnal]と語らい、笑い合ううちに数時間が過ぎた。突然、[From.GetSubjectPronoun]が私の耳に優しくささやいた……[Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_404_DISTANT;盛大な野駆け遊びの最中、私は[From.GetTitledFirstName]と二人きりで小川のほとりにいた。友人や召使いたちは私を見失ったようだ。魅惑的な[From.GetTitledFirstNameNoRegnal]と語らい、笑い合ううちに数時間が過ぎた。突然、[From.GetSubjectPronoun]が私の耳に優しくささやいた……[Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_404_HOMO;盛大な野駆け遊びの最中、[From.GetTitledFirstName]と私は集団を離れ、仲良くおしゃべりしながら小川のほとりへと降りていった。数時間が経ち、川べりに一緒に座って水の流れを見ていると、妙な緊張感が芽生えてきた。惹かれている？[From.GetManWoman]同士なのに……！？その場を離れようと立ち上がると、[From.GetSubjectPronoun]が突然しなだれかかり、私の耳に優しくささやいた……[Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_404_CR;盛大な野駆け遊びの最中、[GetFromRelation]の[From.GetFirstName]と私は集団を離れて小川のほとりへと降りていった。川べりに寄り添い合って座り、噂話や家族としての会話をしているうちに、何か違う方向に進んでいった……欲情している？[GetFromRelation]相手に……！？突然、[From.GetSubjectPronoun]が私の太ももに手を置いてしなだれかかり、耳に優しくささやいた……[Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTTOOLTIP_WoL_405;温かい流れの中に[This.GetObjectPronoun]を追う...;;;;;;;;;;;;x
+EVTDESC_WOL_405;[From.GetFirstName]と私は、暖かな崖の上や、水の中でずっと愛し合った。にこやかに堂々とパーティに戻ったとき、人々は私たちを探している真っ最中だった。出席者たちがこちらにやってくると、少なからぬ人が眉をひそめていた。;;;;;;;;;;;;x
+EVTDESC_WOL_405_SIN;[From.GetFirstName]と私は[Root.Religion.GetRandomEvilGodName]に魂を捧げ、温かい流れの中で背徳に耽った。日差しが傾く頃、きれいに着衣を整えてから笑顔で同行者たちのところに戻ると、従者たちがこちらへ駆け寄ってきた。もし彼らが全部知っていたとしたら... [Root.Religion.GetRandomGodName]にかけて、そんなことはありませんように！;;;;;;;;;;;;x
+EVTDESC_WOL_407;[FromFrom.GetBestName]に[From.GetTitledFirstNameNoRegnal]を誘う手伝いを頼んだが、[FromFrom.GetSubjectPronoun]は少しも私の気持ちを汲んではくれなかった。実際、あれから[FromFrom.GetSubjectPronoun]にずっと見られている気がする…。;;;;;;;;;;;;x
+EVTOPTA_WOL_407;[From.GetFirstName]に書き置きを残しておけばよかった！;;;;;;;;;;;;x
+EVTOPTB_WOL_407;飽きてしまったな;;;;;;;;;;;;x
+EVTDESC_WOL_409;[GetFromFromRelation]の[FromFrom.GetBestName]がたった今知らせてくれた情報によると、[FromFromFrom.GetTitledName]は性的に誘惑する策で我が[GetFromRelation][From.GetFirstName]を引き込もうとしたのだ！;;;;;;;;;;;;x
+EVTOPTA_WOL_409_M;あのいやらしいヤギめ！;;;;;;;;;;;;x
+EVTOPTA_WOL_409_M_OLD;あのいやらしい老いぼれヤギめ！;;;;;;;;;;;;x
+EVTOPTA_WOL_409_F;That wanton trollop!;;;;;;;;;;;;x
+EVTOPTA_WOL_409_F_OLD;That lascivious old witch!;;;;;;;;;;;;x
+EVTDESC_WOL_412;The courtier I tried to recruit to help me seduce [From.GetTitledFirstNameNoRegnal] was not in the least sympathetic, and has even tipped off [From.GetPossPronoun] [GetFromVsFromFromFromRelation], gaining me a new Rival!;;;;;;;;;;;;x
+EVTDESC_WOL_414;I spent most of the outing trying to charm [From.GetFirstName]'s friends, with little success. No one seemed willing to help me romance [From.GetObjectPronoun]...;;;;;;;;;;;;x
+EVTOPTA_WOL_414;そんな簡単には諦めぬ！;;;;;;;;;;;;x
+EVTDESC_WOL_415;At a festive outing in the wild, I've found myself talking a lot to [From.GetTitledFirstNameNoRegnal]. I feel strangely attracted to the [GetRootFromCompliment]!;;;;;;;;;;;;x
+EVTDESC_WOL_415_DISTANT;At a festive outing in the wild, I've been talking a lot to [From.GetTitledFirstNameNoRegnal], who is currently visiting our court. I find myself quite drawn to the [GetRootFromCompliment]!;;;;;;;;;;;;x
+EVTDESC_WOL_416;[From.GetTitledFirstNameNoRegnal]と二人きりになる機会はついに訪れなかったが、私の魅力的な側面を見て、きっと[From.GetObjectPronoun]は心動かされているに違いない！;;;;;;;;;;;;x
+EVTOPTA_WOL_416;次の計画を立てなければ！;;;;;;;;;;;;x
+EVTDESC_WOL_418;盛大な野駆け遊びの最中、私は自分のテントの中で野の花に囲まれたメッセージを見つけた！[FromFrom.GetTitledFirstNameNoRegnal]が小川のほとりで会いたいと言っている、それも二人きりで！;;;;;;;;;;;;x
+EVTDESC_WOL_418_DISTANT;盛大な野駆け遊びの最中、私は自分のテントの中で野の花に囲まれたメッセージを見つけた！遠くからの客人である[FromFrom.GetTitledFirstNameNoRegnal]が小川のほとりで会いたいと言っている、それも二人きりで！;;;;;;;;;;;;x
+EVTOPTA_WOL_418_F;なんて素敵なこと！この場は侍女に任せてしまおう。;;;;;;;;;;;;x
+EVTOPTA_WOL_418_M;なんと素敵なことだ！この場は友人に任せてしまおう。;;;;;;;;;;;;x
+EVTOPTB_WOL_418;[FromFrom.GetFirstName]のような者のために危険を冒すつもりはない！;;;;;;;;;;;;x
+EVTDESC_WOL_419;[From.GetTitledFirstNameNoRegnal]が小川のほとりに姿を現すまでそれほど時間はかからなかった。私たちは何時間もおしゃべりをして、笑い合った。[From.GetSubjectPronoun]は間違いなく私に夢中になっている！私は側へ寄って、[From.GetPossPronoun]に囁きかけた...;;;;;;;;;;;;x
+EVTDESC_WOL_404_NOTE;私はテントを抜け出して小川へ向かった。はたしてそこには[From.GetTitledFirstNameNoRegnal]が待っていて、私を見つけるとぱっと顔をほころばせた。私はその[GetRootFromCompliment]と何時間も笑い合い、語り合って過ごした。突然、[From.GetSubjectPronoun]が私の耳に優しくささやいた…… [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_404_HOMO_NOTE;I snuck out of my tent and down to the stream. I found [From.GetTitledFirstNameNoRegnal] waiting, shining up when [From.GetSubjectPronoun] saw me. Sitting on a cliff together after hours of friendly conversation, a strange tension has grown between us. Attraction? For another [From.GetManWoman]..?! As we get up to leave, [From.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_420;私は[From.GetTitledFirstNameNoRegnal]が友人や付添人を振り切って、私に会いに来るのを何時間も待っていたが、もう日が暮れようとしている。それでも一向に[From.GetSubjectPronounCap]が来る気配はない。;;;;;;;;;;;;x
+EVTDESC_WOL_421;At a festive outing in the wild, I found a message left amidst wildflowers addressed to my [GetFromFromFromRelation] [FromFromFrom.GetFirstName] in our tent! The would-be seducer, the [GetRootFromFromInsult] [FromFrom.GetTitledFirstName], is apparently waiting for [FromFromFrom.GetObjectPronoun] nearby.;;;;;;;;;;;;x
+EVTOPTB_WOL_421;衛兵！[FromFrom.GetObjectPronoun]を捕らえよ！;;;;;;;;;;;;x
+EVTDESC_WOL_423;Alas, the message I left in [From.GetTitledFirstNameNoRegnal]'s tent was found by her [GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal]. [FromFrom.GetSubjectPronounCap] was not amused... I am lucky I was not thrown in irons, but I have certainly made an enemy!;;;;;;;;;;;;x
+EVTDESC_WOL_423_PRISON;Alas, the message I left in [From.GetTitledFirstNameNoRegnal]'s tent was found by her [GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal]. [FromFrom.GetSubjectPronounCap] came rushing down to the stream with six guards to arrest me!;;;;;;;;;;;;x
+EVTOPTA_WOL_423;博打は嫌いじゃない！;;;;;;;;;;;;x
+EVTOPTA_WOL_423_PRISON;Curses! I will try again when I get out!;;;;;;;;;;;;x
+EVTDESC_WOL_424;盛大な野駆け遊びの最中、私は野の花の中に私の[GetFromFromFromRelation] [FromFromFrom.GetTitledFirstNameNoRegnal]にあてたメッセージを見つけた。[GetFromFromFromRelation]に想いを寄せているらしい[FromFrom.GetTitledFirstNameNoRegnal]が、キャンプの側の小川で待っているという...;;;;;;;;;;;;x
+EVTOPTB_WOL_424;[FromFromFrom.GetFirstName]を危険な密通から守らなければ！;;;;;;;;;;;;x
+EVTOPTC_WOL_424;[GetRootFromFromCompliment] [FromFrom.GetFirstName]だって？私が代わりに行ってやろう！;;;;;;;;;;;;x
+EVTDESC_WOL_426;小川のそばで数時間待ったが無駄に終わった。キャンプに戻ると、[From.GetFirstName]の[GetFromVsFromFromRelation]が怒ったようにこちらをにらんでいることに気づき、[FromFrom.GetPossPronoun]に頭を下げた。多分、私の伝言が見られたのだろう…;;;;;;;;;;;;x
+EVTDESC_WOL_428;I didn't have to wait long by the river until a [FromFrom.GetMaleFemale] figure showed up among the trees... But it wasn't [From.GetTitledFirstNameNoRegnal], but [From.GetPossPronoun] [GetFromVsFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal]! As it turns out, the [GetRootFromFromCompliment] is looking for a casual dalliance.;;;;;;;;;;;;x
+EVTOPTA_WOL_428;I think I can help...;;;;;;;;;;;;x
+EVTOPTB_WOL_428;Thank you, my [FromFrom.GetLordLady], but no!;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_430;[This.GetFirstName] is frustrated and not likely to think better of me...;;;;;;;;;;;;x
+EVTDESC_WOL_429;I met the amorous [From.GetTitledFirstNameNoRegnal] down by the river. [From.GetSubjectPronounCap] was surprised to see me instead of [FromFrom.GetTitledFirstNameNoRegnal], but it did not take much to cajole the [GetRootFromCompliment]. We spent a magical afternoon of passion in the water and under the willows.;;;;;;;;;;;;x
+EVTOPTA_WOL_429;I needed that!;;;;;;;;;;;;x
+EVTDESC_WOL_430;I met the amorous [From.GetTitledFirstNameNoRegnal] down by the river. [From.GetSubjectPronounCap] was surprised to see me instead of [FromFrom.GetTitledFirstNameNoRegnal], to say the least! Unfortunately, my assets and charm were not enough to cajole the [GetRootFromInsult]!;;;;;;;;;;;;x
+EVTOPTA_WOL_430;[From.GetSubjectPronounCap] will regret this!;;;;;;;;;;;;x
+EVTDESC_WOL_1003;最近、[Root.Spouse.GetFirstName]は夜私に触れるどころか、こちらを見ようともしない。そして今[FromFrom.GetObjectPronoun]のささやきと[GetRootFromInsult][From.GetBestName]…もう我慢できない！;;;;;;;;;;;;x
+EVTDESC_WOL_1003_CR;My [GetFromFromRelation] [FromFrom.GetFirstName] has stopped touching me, or even looking at me. There is something not right about the way [FromFrom.GetFirstName] and [FromFrom.GetPossPronoun] [GetFromFromVsFromRelation] [From.GetTitledFirstNameNoRegnal] hold hands, about their long walks in the forest... It sickens me.;;;;;;;;;;;;x
+EVTDESC_WOL_1003_TIP;I received a message today, from [FromFromFrom.GetTitledName]. [FromFromFrom.GetSubjectPronounCap] tells me that [FromFromFrom.GetPossPronoun] suspects that her spouse, [From.GetTitledFirstNameNoRegnal] and my [GetFromFromRelation] [FromFrom.GetFirstName] are having an affair, but that there is nothing more [FromFromFrom.GetSubjectPronoun] dares do about it!;;;;;;;;;;;;x
+EVTOPTA_WOL_1003;[FromFrom.GetFirstName]を告発する！;;;;;;;;;;;;x
+EVTOPTB_WOL_1003_M;[From.GetTitledFirstNameNoRegnal]を告発する！;;;;;;;;;;;;x
+EVTOPTB_WOL_1003_F;遊女[From.GetTitledFirstNameNoRegnal]を告発する！;;;;;;;;;;;;x
+EVTOPTC_WOL_1003;他の重要事項に力を注ごう。;;;;;;;;;;;;x
+EVTOPTC_WOL_1003_HOMO_F;女の愛人？遊びだろう……;;;;;;;;;;;;x
+EVTDESC_WOL_1004;私の[GetFromRelation] [From.GetFirstName]が、私と[FromFrom.GetTitledName]が浮気をしていないかと尋ねてきた。. [From.GetPossPronounCap]の無感情な言葉からは[From.GetSubjectPronoun]が事実を突き止めているのか、それとも単に疑っているだけなのかうかがい知ることはできない...;;;;;;;;;;;;x
+EVTOPTA_WOL_1004;涙ながらに真実を告げて許しを請う;;;;;;;;;;;;x
+EVTOPTB_WOL_1004;そのことを認めるが、[FromFrom.GetFirstName]と別れることは拒絶する;;;;;;;;;;;;x
+EVTOPTC_WOL_1004;Lie to [From.GetPossPronoun] face;;;;;;;;;;;;x
+EVTOPTD_WOL_1004;嘘をついた上で、[From.GetObjectPronoun]が罪悪感を覚えるように仕向ける！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1005;[This.GetTitledFirstNameNoRegnal]との不倫が終了する;;;;;;;;;;;;x
+EVTDESC_WOL_1005;My lover, [From.GetTitledFirstNameNoRegnal] just broke up with me! Apparently, [From.GetPossPronoun] jealous [GetFromVsFromFromRelation] confronted [From.GetObjectPronoun] about our affair...;;;;;;;;;;;;x
+EVTOPTA_WOL_1005_F;That meddling witch!;;;;;;;;;;;;x
+EVTOPTA_WOL_1005_M;That accursed blackguard!;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1006;[This.GetFirstName] is upset;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1009;[This.GetFirstName]は動転しているので、過剰に反応するかもしれません…;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1022;[This.GetFirstName]は私の嘘に反応を返します…;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1010;[This.GetFirstName] is manipulated;;;;;;;;;;;;x
+EVTDESC_WOL_1006;My [GetFromRelation] [From.GetFirstName] tearfully admitted to [From.GetPossPronoun] affair with [FromFromFrom.GetTitledFirstNameNoRegnal] and is begging me for forgiveness on [From.GetPossPronoun] bare knees...;;;;;;;;;;;;x
+EVTOPTA_WOL_1006;Very well, but I am deeply disappointed.;;;;;;;;;;;;x
+EVTOPTB_WOL_1006;ありえない！両者を公に非難する！;;;;;;;;;;;;x
+EVTDESC_WOL_1007;The jealous [GetFromFromVsFromRelation] of my lover [FromFrom.GetTitledFirstNameNoRegnal] has denounced us both as adulterers publicly!;;;;;;;;;;;;x
+EVTDESC_WOL_1007_LOVER_ADM;[GetRootFromInsult][From.GetTitledFirstNameNoRegnal]は私の誠意ある謝罪を受け入れず、却って私と[From.GetPossPronoun]の[GetFromVsFromFromRelation]である[FromFrom.GetTitledFirstNameNoRegnal]との姦通を公表までした！;;;;;;;;;;;;x
+EVTDESC_WOL_1007_SPYING;[From.GetTitledFirstNameNoRegnal]は、私と [From.GetPossPronoun]の[GetFromVsFromFromRelation]、[FromFrom.GetTitledFirstNameNoRegnal]を監視するためにスパイを雇っていた。我々の情事は暴かれ、あの[GetRootFromInsult]は、この不義密通を公表することにした!;;;;;;;;;;;;x
+EVTDESC_WOL_1008;My wrathful [GetFromRelation] [From.GetFirstName] would not accept my sincere apologies no matter what I said. [From.GetSubjectPronounCap] has denounced me and my lover [FromFromFromFrom.GetTitledFirstNameNoRegnal] publicly.;;;;;;;;;;;;x
+EVTDESC_WOL_1008_CRUEL;My spiteful [GetFromRelation] [From.GetFirstName] did not take my frank declaration of love for my [GetFromFromFromFromRelation] [FromFromFromFrom.GetTitledFirstNameNoRegnal] well at all. The [GetRootFromInsult] has denounced us both publicly.;;;;;;;;;;;;x
+EVTDESC_WOL_1009;My cheating [GetFromRelation] - the [GetRootFromInsult] - just smirked and openly admitted to having an affair with [FromFromFrom.GetTitledName]!;;;;;;;;;;;;x
+EVTOPTA_WOL_1009_M;It's a man's world. I'll just have to swallow my pride.;;;;;;;;;;;;x
+EVTOPTA_WOL_1009_F;I can't afford a scandal right now...;;;;;;;;;;;;x
+EVTOPTB_WOL_1009;Denounce them both publicly!;;;;;;;;;;;;x
+EVTDESC_WOL_1022;My [GetFromRelation] [From.GetFirstName] vehemently denies having an affair with [FromFromFrom.GetTitledFirstNameNoRegnal] and promises to spend more time with me.;;;;;;;;;;;;x
+EVTOPTA_WOL_1022;That's a relief, but I still have doubts...;;;;;;;;;;;;x
+EVTOPTB_WOL_1022;[FromFromFrom.GetFirstName] is married too. Ask [FromFromFrom.GetPossPronoun] spouse [FromFromFrom.Spouse.GetTitledFirstNameNoRegnal] to investigate.;;;;;;;;;;;;x
+EVTOPTC_WOL_1022;両方を監視するために注意を払おう。;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1023;[This.Spouse.GetFirstName] is tipped off.;;;;;;;;;;;;x
+EVTDESC_WOL_1025;[From.GetTitledFirstNameNoRegnal] thanks me for making [From.GetObjectPronoun] aware of our spouses' possible cheating, and for my discretion. [From.GetSubjectPronounCap] promises to look into the matter...;;;;;;;;;;;;x
+EVTOPTA_WOL_1025;I hope that's all there is to it!;;;;;;;;;;;;x
+EVTDESC_WOL_1027;私の[GetFromFromFromRelation][FromFromFrom.GetFirstName]と[From.GetTitledFirstNameNoRegnal]をスパイによって注意深く監視させたが、不倫関係を確認できるものはなかった。;;;;;;;;;;;;x
+EVTDESC_WOL_1028;My spies report that they caught my [GetFromFromFromRelation] and [FromFromFrom.GetPossPronoun] lover, [From.GetTitledFirstNameNoRegnal] 'in flagrante delicto' in a glade near [From.Location.Capital.GetName]!;;;;;;;;;;;;x
+EVTOPTA_WOL_1028;No! But... I don't want a scandal.;;;;;;;;;;;;x
+EVTOPTB_WOL_1028;Filth! Denounce them both publicly!;;;;;;;;;;;;x
+EVTDESC_WOL_1031;My suspicious [GetFromRelation] [From.GetFirstName] did not believe my denials and hired spies to uncover my love affair with [FromFrom.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] has denounced us both publicly!;;;;;;;;;;;;x
+EVTDESC_WOL_1010_F;[From.GetFirstName] got angry when I confronted her about her rumored affair with [FromFromFrom.GetTitledName], saying she lives in a prison and that I am denying her even the most basic freedoms.;;;;;;;;;;;;x
+EVTDESC_WOL_1010_M;[From.GetFirstName] got angry when I confronted him about his rumored affair with [FromFromFrom.GetTitledName], saying I have grown cold and distant and only greet him with mistrust.;;;;;;;;;;;;x
+EVTDESC_WOL_1033;[From.GetBestName], the [GetFromFromFromVsFromRelation] of my lover [FromFromFrom.GetTitledFirstNameNoRegnal], shocked me by asking me to my face if we're having an affair!;;;;;;;;;;;;x
+EVTDESC_WOL_1033_DISTANT;私の恋人 [FromFromFrom.GetTitledFirstNameNoRegnal]の [GetFromFromFromVsFromRelation]である、[From.GetBestName]が私に、私たちが不倫をしているのではないかと直截に問いただす内容の手紙を送ってきた！;;;;;;;;;;;;x
+EVTOPTA_WOL_1033;はっきりと否定する;;;;;;;;;;;;x
+EVTOPTB_WOL_1033;事実を告白して不倫をやめると約束する;;;;;;;;;;;;x
+EVTOPTC_WOL_1033_F;あの性悪女を殺してやるぞ！;;;;;;;;;;;;x
+EVTOPTC_WOL_1033_M;あの [GetRootFromInsult]野郎め！殺してやる！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1011_ATTACK;[From.GetTitledFirstNameNoRegnal] is attacked and hopefully hurt badly!;;;;;;;;;;;;x
+EVTDESC_WOL_1012;[FromFrom.GetTitledFirstNameNoRegnal]はショックを受け、私の[GetFromRelation][From.GetFirstName]との不倫関係を否定した。;;;;;;;;;;;;x
+EVTDESC_WOL_1012_ATTACKED;When questioned about [FromFrom.GetPossPronoun] affair with my [GetFromRelation] [From.GetFirstName], [FromFrom.GetTitledFirstNameNoRegnal] flew into a rage and physically assaulted me!;;;;;;;;;;;;x
+EVTOPTA_WOL_1012;ああ。それならよいが。;;;;;;;;;;;;x
+EVTOPTA_WOL_1012_ATTACKED;それほど怒るのなら無実に違いない...そうだろう？;;;;;;;;;;;;x
+EVTOPTB_WOL_1012;ここに毒がある。証拠など必要ない！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1013;機を見て[This.GetFirstName]に毒を盛る;;;;;;;;;;;;x
+EVTOPTC_WOL_1012_DUEL;我らの剣が[FromFrom.GetPossPronoun]の罪を暴くだろう！;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1032;[This.GetFirstName]に決闘を申し込む。;;;;;;;;;;;;x
+EVTDESC_WOL_1014;What a lovely evening! Good food, good entertainment and the company of friends. But... I don't feel so good. I can't breathe. I CAN'T BREATHE!;;;;;;;;;;;;x
+EVTOPTA_WOL_1014;[FromFrom.GetTitledFirstNameNoRegnal], I curse you with my dying breath!;;;;;;;;;;;;x
+EVTDESC_WOL_1015;What a lovely evening! Good food, good entertainment and the company of friends. But... I don't feel so good. Have I been poisoned?;;;;;;;;;;;;x
+EVTOPTA_WOL_1015;Poison or bad shellfish?;;;;;;;;;;;;x
+EVTDESC_WOL_1016;The filthy [From.GetAdultererAdulteress], [From.GetTitledFirstNameNoRegnal], did not eat the poisoned shellfish, though I hear some kitchen boy died later that night.;;;;;;;;;;;;x
+EVTOPTA_WOL_1016;May [Root.Religion.GetRandomEvilGodName] curse [From.GetObjectPronoun]!;;;;;;;;;;;;x
+EVTDESC_WOL_1017;I watched from the gallery as the dirty [From.GetAdultererAdulteress], [From.GetTitledFirstNameNoRegnal], lay choking to death, servants milling about trying to help. In vain, of course...;;;;;;;;;;;;x
+EVTOPTA_WOL_1017;I hope my [FromFromFromFrom.GetHusbandWife] gets the hint!;;;;;;;;;;;;x
+EVTDESC_WOL_1018;The filthy [From.GetAdultererAdulteress], [From.GetTitledFirstNameNoRegnal], did not die of the poison, but at least [From.GetSubjectPronoun] got ill.;;;;;;;;;;;;x
+EVTOPTA_WOL_1018;I need to have a serious talk with that apothecary;;;;;;;;;;;;x
+EVTDESC_WOL_1019;My lover, [From.GetTitledFirstNameNoRegnal], just broke up with me! Apparently, [From.GetSubjectPronoun] was confronted by my suspicious [GetFromFromRelation] [FromFrom.GetFirstName] and promised to stay away.;;;;;;;;;;;;x
+EVTDESC_WOL_1019_DUEL;私の猛烈な[GetFromFromRelation] [FromFrom.GetFirstName]により、私の愛人[From.GetTitledFirstNameNoRegnal]は決闘を挑まれ、罪を認め、私と別れることを決めた！;;;;;;;;;;;;x
+EVTOPTA_WOL_1019;[From.GetFirstName]無しでどう生きろというのか？;;;;;;;;;;;;x
+EVTDESC_WOL_1020;[GetRootFromFromInsult][FromFrom.GetTitledFirstNameNoRegnal]は[GetFromRelation][From.GetFirstName]との関係を認め、心から許しを求め[GetFromRelation]に近づかないことを約束した。;;;;;;;;;;;;x
+EVTOPTA_WOL_1020;けっこう、より偉大な[Root.GetManWoman]になることができた。;;;;;;;;;;;;x
+EVTDESC_WOL_1021;私の恋人の失墜と謝罪にもかかわらず、怒った[GetFromRelation] [From.GetFirstName]は私に恥辱を与えることを選び、[FromFromFrom.GetTitledFirstNameNoRegnal]は姦淫者として公にさらされた！;;;;;;;;;;;;x
+EVTDESC_WOL_1032;The furious [From.GetTitledFirstNameNoRegnal] does not accept my profuse denials and has challenged me to a duel to determine my guilt and that of [From.GetPossPronoun] [GetFromVsFromFromRelation], my lover, [FromFrom.GetTitledFirstNameNoRegnal]!;;;;;;;;;;;;x
+EVTOPTA_WOL_1032;Challenge accepted!;;;;;;;;;;;;x
+EVTOPTB_WOL_1032;A duel? What farce, what mummery!;;;;;;;;;;;;x
+EVTOPTC_WOL_1032;I am no fighter. Beg forgiveness.;;;;;;;;;;;;x
+EVTDESC_WOL_1034;The cowardly [From.GetTitledFirstNameNoRegnal] refuses to fight me!;;;;;;;;;;;;x
+EVTOPTA_WOL_1034;A smear on [From.GetPossPronoun] honor!;;;;;;;;;;;;x
+EVTDESC_WOL_1036;After a few probing exchanges, I realized that [FromFrom.GetTitledFirstNameNoRegnal] was no master of the blade. I defeated [FromFrom.GetObjectPronoun] easily, proving [FromFrom.GetPossPronoun] guilt, and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName]...;;;;;;;;;;;;x
+EVTDESC_WOL_1036_WOUND;The duel with [FromFrom.GetTitledFirstNameNoRegnal] was hard fought, but in the end I proved the better [Root.GetManWoman]. Though [FromFrom.GetSubjectPronoun] managed to cut me, I have proven [FromFrom.GetPossPronoun] guilt, and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1036_MAIM;[FromFrom.GetTitledFirstNameNoRegnal] proved to be a formidable opponent. Though I won in the end, I lost three fingers and took several wounds in the process. I have proven [FromFrom.GetPossPronoun] guilt, and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName]!;;;;;;;;;;;;x
+EVTOPTA_WOL_1036;I allowed [FromFrom.GetObjectPronoun] to yield unscathed, having lost [FromFrom.GetPossPronoun] sword;;;;;;;;;;;;x
+EVTOPTB_WOL_1036;[FromFrom.GetSubjectPronounCap] yielded after I pierced [FromFrom.GetPossPronoun] shoulder;;;;;;;;;;;;x
+EVTOPTC_WOL_1036;Bleeding from several cuts, [FromFrom.GetSubjectPronoun] yielded only when I took [FromFrom.GetPossPronoun] hand off!;;;;;;;;;;;;x
+EVTOPTD_WOL_1036;I pierced [FromFrom.GetPossPronoun] heart. A suitable end to the [GetRootFromInsult]!;;;;;;;;;;;;x
+EVTDESC_WOL_1037;My brutish [GetFromRelation] [From.GetFirstName] defeated my beloved [FromFromFrom.GetTitledFirstNameNoRegnal] in a duel, thus proving our guilt.;;;;;;;;;;;;x
+EVTDESC_WOL_1037_WOUND;My brutish [GetFromRelation] [From.GetFirstName] defeated and wounded my beloved [FromFromFrom.GetTitledFirstNameNoRegnal] in a duel, thus proving our guilt.;;;;;;;;;;;;x
+EVTDESC_WOL_1037_MAIM;My vicious [GetFromRelation] [From.GetFirstName] defeated and maimed my beloved [FromFromFrom.GetTitledFirstNameNoRegnal] in a duel, thus proving our guilt.;;;;;;;;;;;;x
+EVTDESC_WOL_1037_DEATH;My monster of a [GetFromRelation], the [GetRootFromInsult] [From.GetFirstName], slew my beloved [FromFromFrom.GetTitledFirstNameNoRegnal] in a duel, proving our guilt. I, at least, will have to live with the shame.;;;;;;;;;;;;x
+EVTOPTA_WOL_1037;We must atone for our sins...;;;;;;;;;;;;x
+EVTOPTB_WOL_1037;How cruel is the world!?;;;;;;;;;;;;x
+EVTDESC_WOL_1038;Though I fought hard, the vengeful [FromFrom.GetTitledFirstNameNoRegnal] defeated me in a fair duel, thus proving me and my lover [From.GetFirstName] guilty of adultery. We are shamed.;;;;;;;;;;;;x
+EVTDESC_WOL_1038_WOUND;The vengeful [FromFrom.GetTitledFirstNameNoRegnal] defeated me in a fair duel. I had to yield after being pierced in the shoulder, thus proving me and my lover [From.GetFirstName] guilty of adultery. We are shamed.;;;;;;;;;;;;x
+EVTDESC_WOL_1038_MAIM;The vengeful [FromFrom.GetTitledFirstNameNoRegnal] took my hand off in the vicious duel, thus proving me and my lover [From.GetFirstName] guilty of adultery. Maimed and bleeding from many lesser cuts, I will have to accept our humiliation.;;;;;;;;;;;;x
+EVTDESC_WOL_1038_DEATH;I fought [FromFrom.GetTitledFirstNameNoRegnal] hard for what seemed like hours, but just when I finally saw an opening, [FromFrom.GetSubjectPronoun] pierced my heart. Darkness descends.;;;;;;;;;;;;x
+EVTOPTA_WOL_1038;[Root.Religion.GetRandomGodNameCap] has judged us fairly. We must atone.;;;;;;;;;;;;x
+EVTOPTB_WOL_1038;Curse [FromFrom.GetObjectPronoun]! I will have my revenge!;;;;;;;;;;;;x
+EVTOPTC_WOL_1038;[From.GetFirstName], I have shamed you...;;;;;;;;;;;;x
+EVTDESC_WOL_1039;After a few probing exchanges, I realized that [From.GetTitledFirstNameNoRegnal] was no master of the blade. I defeated [From.GetObjectPronoun] easily, proving my innocence and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1039_WOUND;The duel with [From.GetTitledFirstNameNoRegnal] was hard fought, but in the end I proved the better [Root.GetManWoman]. Though [From.GetSubjectPronoun] managed to cut me, I have proven my innocence and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1039_MAIM;[From.GetTitledFirstNameNoRegnal] proved to be a formidable opponent. Though I won in the end, I lost three fingers and took several wounds in the process. I have proven my innocence and that of my [GetFromFromFromFromRelation] [FromFromFromFrom.GetFirstName]!;;;;;;;;;;;;x
+EVTDESC_WOL_1040;My valiant [GetFromRelation] [From.GetTitledFirstNameNoRegnal] defeated my brutish [GetFromFromRelation] [FromFrom.GetFirstName] in a duel, thus proving our innocence.;;;;;;;;;;;;x
+EVTDESC_WOL_1040_WOUND;My valiant [GetFromRelation] [From.GetTitledFirstNameNoRegnal] defeated and wounded my brutish [GetFromFromRelation] [FromFrom.GetFirstName] in a duel, thus proving our innocence.;;;;;;;;;;;;x
+EVTDESC_WOL_1040_MAIM;My [GetFromRelation] [From.GetTitledFirstNameNoRegnal] defeated my [GetFromFromRelation] [FromFrom.GetFirstName] in a duel, cutting off his hand in the process. Our innocence has been proven.;;;;;;;;;;;;x
+EVTDESC_WOL_1040_DEATH;My [GetFromRelation] [From.GetTitledFirstNameNoRegnal] defended our honor by slaying my [GetFromFromRelation] [FromFrom.GetFirstName] in a duel. Our innocence has been proven.;;;;;;;;;;;;x
+EVTOPTA_WOL_1040;[Root.Religion.GetRandomGodNameCap] favors our love!;;;;;;;;;;;;x
+EVTOPTB_WOL_1040;May [Root.Religion.GetRandomGodName] forgive us!;;;;;;;;;;;;x
+EVTDESC_WOL_1041;I fought hard, full of righteous fury, yet [FromFrom.GetTitledFirstNameNoRegnal] disarmed and defeated me in a fair duel, thus proving [FromFrom.GetPossPronoun] innocence, and that of my [GetFromRelation] [From.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1041_WOUND;I fought hard, full of righteous fury, yet [FromFrom.GetTitledFirstNameNoRegnal] cut me again and again. Bleeding profusely, I had to yield. [Root.Religion.GetRandomGodNameCap] has proven [FromFrom.GetPossPronoun] innocence, and that of my [GetFromRelation] [From.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1041_MAIM;[FromFrom.GetTitledFirstNameNoRegnal] cut me again and again, but I refused to yield. Suddenly, sun blinding me from the glare in [FromFrom.GetPossPronoun] blade, [FromFrom.GetSubjectPronoun] chopped my hand right off! [Root.Religion.GetRandomGodNameCap] has proven [FromFrom.GetPossPronoun] innocence, and that of my [GetFromRelation] [From.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_WOL_1041_DEATH;I fought [FromFrom.GetTitledFirstNameNoRegnal] hard for what seemed like hours, but when my righteous fury gave way to exhaustion, [FromFrom.GetSubjectPronoun] pierced my heart. Darkness descends.;;;;;;;;;;;;x
+EVTOPTA_WOL_1041;[Root.Religion.GetRandomGodNameCap] has judged them fairly. [From.GetFirstName] forgive me.;;;;;;;;;;;;x
+EVTOPTC_WOL_1041;[Root.Religion.GetRandomGodNameCap] judge me fairly!;;;;;;;;;;;;x
+EVTDESC_WOL_1102;今朝目が覚めると、[GetFromRelation]である[From.GetTitledFirstNameNoRegnal]へ抱いていた感情を失っていることに気がついた。;;;;;;;;;;;;x
+EVTOPTA_WOL_1102;それもまた人生。[From.GetObjectPronoun]に伝えよう。;;;;;;;;;;;;x
+EVTOPTB_WOL_1102;We are [GetFromRelation] and [GetFromReverseRelation]. What need for love?;;;;;;;;;;;;x
+EVTOPTC_WOL_1102;私たちの愛はよみがえる！;;;;;;;;;;;;x
+EVTDESC_WOL_1103;私の[GetFromRelation][From.GetTitledFirstNameNoRegnal]がしばらく前から私を避けるようになり、まれに彼女と逢ってもかつて私が記憶した情熱的な夜は、口論と不和の黄昏に変わっていた。[From.GetSubjectPronoun]から、もう私を愛していないと言われたとき、驚きはしなかったが、それは私が想像する以上の痛みをもたらした。;;;;;;;;;;;;x
+EVTOPTC_WOL_1103;Time to re-seduce [From.GetObjectPronoun]!;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1104;[This.GetSheHeCap] is given a night [This.GetSubjectPronoun] won't soon forget!;;;;;;;;;;;;x
+EVTDESC_WOL_1104;I let [From.GetFirstName] know of my lost feelings for [From.GetObjectPronoun], and then [From.GetSubjectPronoun] goes and fills my room with flowers... and by [Root.Religion.GetRandomGodName], what is [From.GetSubjectPronoun] wearing?!;;;;;;;;;;;;x
+EVTOPTA_WOL_1104;I love [From.GetObjectPronoun]! Or is it lust? Who cares!;;;;;;;;;;;;x
+EVTOPTB_WOL_1104;Sorry dear, it just doesn't do it for me.;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_1105;[This.GetFirstName] remains my lover!;;;;;;;;;;;;x
+EVTDESC_WOL_1105;私は[From.GetFirstName]の部屋をバラでいっぱいにして、ベッドの上で待っていた - ほとんど何も身につけないで。[From.GetSubjectPronounCap]はおおいに心動かされたようだった。;;;;;;;;;;;;x
+EVTOPTA_WOL_1105;I've still got it!;;;;;;;;;;;;x
+EVTDESC_WOL_1106;私は[From.GetFirstName]の部屋をバラでいっぱいにして、ベッドの上で待っていた - ほとんど何も身につけないで。[From.GetSubjectPronounCap]はため息をつくと、ほかの寝室へ行ってしまった。;;;;;;;;;;;;x
+EVTOPTA_WOL_1106;Have I lost it?;;;;;;;;;;;;x
+converts_to_castle;城砦にアップグレードした場合、§Y$NAME$§!に変換されます。;;;;;;;;;;;;x
+converts_to_city;都市にアップグレードした場合、§Y$NAME$§!に変換されます。;;;;;;;;;;;;x
+converts_to_temple;教区にアップグレードした場合、§Y$NAME$§!に変換されます。;;;;;;;;;;;;x
+converts_to_tribal;部族にアップグレードした場合、§Y$NAME$§!に変換されます。;;;;;;;;;;;;x
+convert_settlement_to_castle;§Y$SETTLEMENT$§!は城砦にアップグレードされます。\n;;;;;;;;;;;;x
+convert_settlement_to_city;§Y$SETTLEMENT$§!は都市にアップグレードされます。\n;;;;;;;;;;;;x
+convert_settlement_to_temple;§Y$SETTLEMENT$§!は教区にアップグレードされます。\n;;;;;;;;;;;;x
+convert_settlement_to_tribal;§Y$SETTLEMENT$§!は部族にアップグレードされます。\n;;;;;;;;;;;;x
+NOT_ENOUGH_GOLD;（§RX§!） ゴールド §G$COST$§!を持っている;;;;;;;;;;;;x
+IS_BUILDING;（§RX§!） 州区に何も建設していない;;;;;;;;;;;;x
+NOT_ENOUGH_PRESTIGE;（§RX§!） 威信 §G$COST$§!を持っている;;;;;;;;;;;;x
+ALLOW_FREE_VICEROY_REVOKATION_ON;公爵級総督職の剥奪の自由\n;;;;;;;;;;;;x
+ALLOW_FREE_VICEROY_REVOKATION_OFF;公爵級総督職の剥奪の制限\n;;;;;;;;;;;;x
+REVOKE_TITLE_INTERACTION_2J;我々の帝国統治では、貴族から異議を唱えられることなく、公爵級総督職の剥奪が可能です。;;;;;;;;;;;;x
+action_build_zeal_desc;[GetLordSpiritualName]の名に於いて人々の宗教的情熱を叩き起こします。これにより自分の信仰点が上がり、場合によっては聖戦士たちが集まってくることがあります。ただしその部隊を聖戦に連れて行かないと怒り出し、そのせいで自分の信仰点が逆に下がることになります。;;;;;;;;;;;;x
+action_organize_raid_desc;略奪と栄誉を求めて、[GetMarshalName]に命じて大略奪のための兵士を集めさせます。ただしこの兵士たちは略奪に連れて行かないと怒り出し、自分がその代償としてお金を払わなければならなくなります。;;;;;;;;;;;;x
+action_build_legend_desc; 自分の伝説的な功績を[GetTreasurerName]に命じて人々の間に広めさせます。これによって威信が上昇し、場合によっては熱意あふれる戦士を集められるかもしれません。ただしこの戦士たちは戦争に連れて行かないと怒り出し、そのせいで自分の威信が逆に下がることになります。;;;;;;;;;;;;x

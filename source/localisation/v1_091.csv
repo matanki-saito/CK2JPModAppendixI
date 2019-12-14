@@ -1,0 +1,8 @@
+﻿### ParaTranz ###
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY;商業共和国の主要称号は簒奪できない;;;;;;;;;;;;x
+DECLARE_WAR_INTERACTION_6;§R今独立したら、下位共和国となってゲームオーバーになります！§!;;;;;;;;;;;;x
+INTERACTION_HOLY_ORDERS_CANNOT_MARRY;宗教騎士団、傭兵団の指導者は結婚できない;;;;;;;;;;;;x
+INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST;§Y[Actor.GetTitledFirstName]§!は敵の捕虜にならない;;;;;;;;;;;;x
+CONTESTED_TRADEPOST_DESC;$PERC$: §Y$PERSON$§!は§Y$TITLE$§!の全ての交易所を支配している;;;;;;;;;;;;x
+AIREASON_IS_VASSAL_MERCHANT_REP;§Y[GetTitledName]§!は我が封臣である;;;;;;;;;;;;x
