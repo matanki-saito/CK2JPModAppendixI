@@ -469,8 +469,8 @@ DLC_dlc048_EXAMPLE_IMAGE_2_TOOLTIP_DELAYED;"Konstantinos V, also called the dung
 REPUBLICS_ENABLED;共和国の一覧を表示;;;;;;;;;;;;x
 REPUBLICS_DISABLED;共和国でプレイするには、DLC『§YThe Republic§!』が必要です;;;;;;;;;;;;x
 FE_CONTENT;コンテンツ設定;;;;;;;;;;;;x
-MAIN_MENU_BANNER_PDX_ACCOUNT;Create a Paradox Account!;;;;;;;;;;;;x
-MAIN_MENU_BANNER_PDX_ACCOUNT_TOOLTIP_DELAYED;Your Paradox account is the key to the full Paradox experience. Sign up today to get close to the makers of your favorite Paradox games through discussions in our forums, manage your games and subscriptions, and receive exclusive offers and giveaways.;;;;;;;;;;;;x
+MAIN_MENU_BANNER_PDX_ACCOUNT;パラドックスアカウントを作成！;;;;;;;;;;;;x
+MAIN_MENU_BANNER_PDX_ACCOUNT_TOOLTIP_DELAYED;Paradoxアカウントは、パラドゲーを完全に理解するためのキーとなります。今すぐ登録しましょう。フォーラムでの議論を通じてお気に入りのゲームメーカーに近づいたり、ゲームの管理やサブスクライブをしたり、特別オファーやギフトを受け取ったりできます。;;;;;;;;;;;;x
 DLC_DISABLED;§g無効§!;;;;;;;;;;;;x
 MENU_BAR_PRIVACY_DEL;プライバシーポリシー;;;;;;;;;;;;x
 NEWSLETTER_SIGNUP;「Crusader Kings」や「Paradox Interactive」のニュースやオファーを受信したい;;;;;;;;;;;;x
@@ -716,7 +716,7 @@ FEAT_LEVEL_1_COMPLETE_SETUP;Challenge Rank Bronze Earned;;;;;;;;;;;;x
 FEAT_LEVEL_2_COMPLETE_SETUP;Challenge Rank Silver Earned;;;;;;;;;;;;x
 FEAT_LEVEL_3_COMPLETE_SETUP;Challenge Rank Gold Earned;;;;;;;;;;;;x
 EXTRA_TOOLTIP_SEPARATOR;\n--------------\n;;;;;;;;;;;;x
-FEAT_HIGHSCORE_TT;Best Result: $HIGH_SCORE|G$;;;;;;;;;;;;x
+FEAT_HIGHSCORE_TT;最良の結果：$HIGH_SCORE|G$;;;;;;;;;;;;x
 FEAT_MEASURABLE_COMPLETED_TT;$FEAT_PROGRESS_CAPPED|Y$ / $FEAT_LEVEL_VALUE$ §GCompleted§!;;;;;;;;;;;;x
 FEAT_MEASURABLE_TT;$FEAT_PROGRESS|Y$ / $FEAT_LEVEL_VALUE$;;;;;;;;;;;;x
 FEAT_PROGRESS_TT;Progress $FEAT_PROGRESS|Y$ / $FEAT_LEVEL_VALUE$;;;;;;;;;;;;x
@@ -730,8 +730,8 @@ HIGHLIGHTED_RULER_FEAT_TAB_NAME;§YChallenges§!;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_SOCIAL_TAB_NAME;§YLeaderboards§!;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_SOCIAL_TITLE;Leaderboard\n$FEAT$;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_SOCIAL_FEAT_TOOLTIP_DELAYED;§GClick to view leaderboard§!;;;;;;;;;;;;x
-TOP_X_PLAYERS;Top $NUM$ Players;;;;;;;;;;;;x
-TOP_X_PLAYERS_TOOLTIP;Reach a highscore of $SCORE|Y$ or higher\nto be one of the top $NUM_PLAYERS|Y$ players\nin the $FEAT|Y$ challenge.;;;;;;;;;;;;x
+TOP_X_PLAYERS;トップ$NUM$プレイヤー;;;;;;;;;;;;x
+TOP_X_PLAYERS_TOOLTIP;$FEAT|Y$チャレンジで\n$SCORE|Y$以上のハイスコアを獲得した\nトップ$NUM_PLAYERS|Y$プレイヤー;;;;;;;;;;;;x
 BRONZEMAN;Bronzeman;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_al_mustansir_soi_DESC;"Al-Mustansir Billah, the eighth caliph of the Fatimid Caliphate, ruled for 60 years, making him the longest reigning Muslim ruler. Despite the length of his rule, he had limited power restricted to only one region. Al-Mustansir Billah succeeded his father when he was only eight months."\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_al_mustansir_mm_DESC;"Al-Mustansir Billah, the eighth caliph of the Fatimid Caliphate, ruled for 60 years, making him the longest reigning Muslim ruler. Despite the length of his rule, he had limited power restricted to only one region. Al-Mustansir Billah succeeded his father when he was only eight months."\n;;;;;;;;;;;;x

@@ -1605,7 +1605,7 @@ EVTOPTA_6028_B;[Root.Religion.GetHighGodNameCap]に栄光あれ！;;;;;;;;;;;;x
 nick_the_festive;華やかな;;;;;;;;;;;;x
 nick_the_burden;the Burden;;;;;;;;;;;;x
 nick_the_snake;蛇の;;;;;;;;;;;;x
-EVT_TITLE_LT_61006;By Any Other Name;;;;;;;;;;;;x
+EVT_TITLE_LT_61006;いかなる異名でも;;;;;;;;;;;;x
 EVTDESC1_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]はその目に興奮をたたえながら近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
 EVTDESC2_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は両腕いっぱいに巻物を抱えて近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
 EVTDESC3_LT_61006;「[Root.GetLordLady]！」[courtier.GetTitledFirstName]は土や火で汚れた服を着て近づいてきた。「私に異名を授かるという栄誉をいただけませんか、[Root.GetLordLady]？」;;;;;;;;;;;;x
@@ -1910,7 +1910,7 @@ shiite_opinion;[shiite.GetName]信者からの評価;;;;;;;;;;;;x
 qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;;x
 vushmgir_brothers_legacy;マルダーウィージュの遺産;;;;;;;;;;;;x
 vushmgir_brothers_legacy_desc;My brother Mardavij tried to repel the Muslim faith and restore the Sasanian Empire in Persia. Though he failed, maybe it is time for me to pick up his legacy and reestablish the empire myself?;;;;;;;;;;;;x
-kievan_rus_local_traditions;Embrace Local Traditions;;;;;;;;;;;;x
+kievan_rus_local_traditions;地元の慣習の受容;;;;;;;;;;;;x
 kievan_rus_local_traditions_desc;キエフの領主として敬意は払われているが、いつも一部の廷臣や封臣とは距離を置かれている。もしかしたらこの土地の文化と信仰を受け入れるべきなのだろうか？;;;;;;;;;;;;x
 empire_of_bulgaria_decision;[e_bulgaria.GetName]帝国を創設;;;;;;;;;;;;x
 empire_of_bulgaria_decision_desc;我々の領土は通常の王国の強さと規模を遙かに超えて広がっている。今こそ我らの国を[e_bulgaria.GetName]帝国として知らしめるときだ。;;;;;;;;;;;;x
@@ -2077,25 +2077,25 @@ death_text_evil_wonder;For [GetHerHis] wicked deeds, many screamed not to bury [
 death_text_started_wonder;Never succeeding in making a name for [GetHerselfHimself], [GetFirstName] most notable deed was participating in the construction of the great works which [GetSheHe] will never see finished;;;;;;;;;;;;x
 death_text_architect_wonder;[GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [GetHerHis] labor;;;;;;;;;;;;x
 death_text_child;While many struggle to see why [Religion.GetHighGodName] decided to take a young child away from us, we hope [GetFirstName] will find peace in the afterlife;;;;;;;;;;;;x
-EVTDESC64065;The unsatisfying relationship with a married [lover.GetManWoman] is really becoming irksome. I wish I could love [lover.GetHerHim] openly, without fearing everyone's scorn...;;;;;;;;;;;;x
-EVTDESC64070;Seeing another [lover.GetManWoman] behind my spouse's back is becoming quite troublesome for me, the lies tear at my soul and my longing to be with my lover is almost too much.;;;;;;;;;;;;x
-EVTDESC64085;I love [lover.GetHerHim] and [lover.GetSheHe] loves me, we are both adults and nothing or nobody will stop us getting married!;;;;;;;;;;;;x
-EVTDESC64115;My lover accused me of loving my spouse [Root.Spouse.GetTitledFirstName] more than [target_lover.GetHerHim].;;;;;;;;;;;;x
+EVTDESC64065;結婚してしまった[lover.GetManWoman]との関係は、実際のところ気の滅入るものになりつつある。人々から軽蔑されることを恐れず、堂々と[lover.GetHerHim]を愛することができれば良いのに……;;;;;;;;;;;;x
+EVTDESC64070;伴侶の陰でコソコソ[lover.GetManWoman]と逢い引きするのは骨が折れるようになってきた。嘘は私の心をかき乱し、愛人と一緒にいたいという私の願いは限界まで膨らんでいる。;;;;;;;;;;;;x
+EVTDESC64085;私は[lover.GetHerHim]を愛しているし、[lover.GetSheHe]も私を愛している。私たちはもう大人だ。誰にも私たちの結婚をとめられるものか！;;;;;;;;;;;;x
+EVTDESC64115;伴侶である[Root.Spouse.GetTitledFirstName]の方を自分より愛しているのだと言って、愛人は私をなじった;;;;;;;;;;;;x
 EVTOPTA64115;Buy [target_lover.GetHerHim] an expensive gift to prove my love;;;;;;;;;;;;x
-EVTOPTB64115;Take [target_lover.GetHerHim] to my country manor for some quality time;;;;;;;;;;;;x
-EVTOPTC64115;Assure [target_lover.GetHerHim] of [target_lover.GetHerHis] importance by words only;;;;;;;;;;;;x
-EVTOPTD64115;Tell [target_lover.GetHerHim] that [target_lover.GetSheHe] is absolutely correct;;;;;;;;;;;;x
-EVTDESC64135;I want to give a special surprise to my loved one, what shall it be? A poem, telling of my deep love for [lover.GetHerHim], finding the most beautiful flower in the forest to prove my love or maybe find a small trinket in the market for [lover.GetHerHim] to treasure for ever?;;;;;;;;;;;;x
-EVTOPTA64045;I don't love [lover.GetHerHim] anymore;;;;;;;;;;;;x
-EVTDESC64045;I don't know what has happened lately, no matter what my lover does I feel irritated and have actually started to avoid [lover.GetHerHim]. Our relationship brings me only irritation, it is as if we have grown apart...;;;;;;;;;;;;x
-EVTDESC64035;No matter what I do, my sweetheart never seems happy, complaining that we never do anything exciting together and sulks when I tell [lover.GetHerHim] I have too much to do to be able to entertain [lover.GetHerHim] all the time. Having a lover is more hard work than I thought!;;;;;;;;;;;;x
-EVTOPTA64035;Throw a big party for [lover.GetHerHis] entertainment;;;;;;;;;;;;x
-EVTOPTB64035;Take [lover.GetHerHim] to do something dangerous, like hunting;;;;;;;;;;;;x
-EVTOPTC64035;[lover.GetSheHeCap] gets what [lover.GetSheHe] deserves;;;;;;;;;;;;x
-EVTDESC64030;I have finally gotten a chance to do something special with my special someone and there are so many things I want to do! Should I try to entertain [lover.GetHerHim] at the court, or maybe we should spend some time in my isolated country cottage?;;;;;;;;;;;;x
-EVTDESC64010;[lover.GetSheHeCap] is so funny and, above all, so beautiful! I think I am falling for [lover.GetHerHim]...;;;;;;;;;;;;x
-EVTOPTA64010;I'll try and talk to [lover.GetHerHim]...;;;;;;;;;;;;x
-EVTOPTB64010;[lover.GetSheHeCap]'s not that pretty anyway...;;;;;;;;;;;;x
+EVTOPTB64115;[target_lover.GetHerHim]を荘園に招待し、素敵な時間を過ごそう;;;;;;;;;;;;x
+EVTOPTC64115;[target_lover.GetHerHis]にとって[target_lover.GetHerHim]がいかに大切な存在かを説いて聞かせよう;;;;;;;;;;;;x
+EVTOPTD64115;まったくもって[target_lover.GetSheHe]の言うとおりだと[target_lover.GetHerHim]に言おう;;;;;;;;;;;;x
+EVTDESC64135;愛する人を驚かせたいが、どうするのが良いだろう？　詩を贈ろうか、どれほど愛しているかを語ろうか、森で最も美しい花を摘んできて愛の証しとしようか、それとも一生の思い出としてちょっとした宝石の類いを買ってこようか？;;;;;;;;;;;;x
+EVTOPTA64045;もう私は[lover.GetHerHim]を愛していないようだ;;;;;;;;;;;;x
+EVTDESC64045;どうしてかはわからないが、愛人が何をしてもイライラするようになった私は、ついには[lover.GetHerHim]を避けるようになってしまった。2人の関係が私にもたらすのはもはや苛立ちだけだ。どうやら私たちの心は離れてしまったらしい……;;;;;;;;;;;;x
+EVTDESC64035;なにをしてやっても、私の想い人は嬉しくないらしい。私にはするべきことが多く、四六時中あなたを楽しませていることはできないのだと言えば、わくわくすることなど一度もなかったと文句を言ってへそを曲げる始末だ。愛人を持つというのは、どうやら考えていた以上に疲れることらしい！;;;;;;;;;;;;x
+EVTOPTA64035;[lover.GetHerHis]を楽しませるためにパーティーを開こう;;;;;;;;;;;;x
+EVTOPTB64035;[lover.GetHerHim]を何か危険なこと、たとえば狩りに連れ出そう;;;;;;;;;;;;x
+EVTOPTC64035;[lover.GetSheHeCap]には十分なことをしている;;;;;;;;;;;;x
+EVTDESC64030;ようやく特別な人と特別なことをする機会に恵まれた。やりたいことは山ほどある！　宮廷で[lover.GetHerHim]を楽しませるべきだろうか？　それとも人里離れた田舎の別荘で一緒に過ごすべきだろうか？;;;;;;;;;;;;x
+EVTDESC64010;[lover.GetSheHeCap]は愛嬌があって、なにより、美しい！[lover.GetHerHim]に惚れてしまいそうだ…。;;;;;;;;;;;;x
+EVTOPTA64010;[lover.GetHerHim]に話しかけてみよう…;;;;;;;;;;;;x
+EVTOPTB64010;どのみち[lover.GetSheHeCap]はあまり魅力的ではない…。;;;;;;;;;;;;x
 in_meditation_cooldown_tt;Is NOT already meditating;;;;;;;;;;;;x
 EVT_TITLE_LT_20011;Search Ended;;;;;;;;;;;;x
 EVTDESC_LT_20011;My courtier [emissary.GetTitledNameWithNick] has passed away before [emissary.GetHerHis] search could be finished. Now I'm left wondering if I will ever see the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]... At least I got the remainder of the funds I had invested back.;;;;;;;;;;;;x
@@ -2143,6 +2143,6 @@ DLC_dlc078_TOOLTIP_DELAYED;The official band of Crusader Kings returns with a ne
 LANDING_DLC078_TEXT;Main Features: \n- Pagan Fury, The folk metal band led by Arven Labour has composed four new energetic tracks that get the blood moving as rally your vassals around your banner. Pagan Fury has contributed music to Paradox Development Studio games since 2018, and their passion for thematic music now continues into the next generation of grand strategy games.\n\nSong Tracks: \n- Broken Heroes \n- Sacred Heart \n- Flood of Fire \n- Nuria;;;;;;;;;;;;x
 LANDING_HEADER_DLC078;Pagan Fury Warrior Queen Music Pack;;;;;;;;;;;;x
 FEAT_CURRENT_TT;Current Progress: $SCORE|Y$;;;;;;;;;;;;x
-FEAT_HIGHSCORE_TT;Best Result: $HIGH_SCORE|G$;;;;;;;;;;;;x
+FEAT_HIGHSCORE_TT;最良の結果：$HIGH_SCORE|G$;;;;;;;;;;;;x
 RULER_FEAT_long_live_the_queen_DESC;Under Arwa's rule Yemen prospered. \n * Hold the title Sultanate of Yemen, and have complete control over all of Yemen's de jure counties.\n * Progress continues for as long as you play the featured ruler's Dynasty.;;;;;;;;;;;;x
 RULER_FEAT_a_christian_king_DESC;Be crowned by the pope as the King of Lithuania!\n* You must have the title of King of Lithuania\n* You must have complete control over all of Lithuania's de jure counties \n* You must be catholic\n* You must be crowned by the pope trait\n* Progress continues for as long as you play the featured ruler's Dynasty;;;;;;;;;;;;x
