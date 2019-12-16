@@ -86,7 +86,7 @@ HORDE_RETTYPE_CAV5;軽装ヴァンガード;;;;;;;;;;;;x
 HORDE_RETTYPE_CAV6;重装ヴァンガード;;;;;;;;;;;;x
 HORDE_RETTYPE_CAV7;弓騎兵;;;;;;;;;;;;x
 HORDE_RETTYPE_EUROPE;槍騎兵;;;;;;;;;;;;x
-RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;The religion of §Y$CHAR$§! allows female temple holders and female spiritual councilors;;;;;;;;;;;;x
+RELIGION_ALLOWS_FEMALE_TEMPLE_HOLDERS;§Y$CHAR$§!の宗教は、女性が教区を保有し、宗教的な評議員職に就くことを許可されている;;;;;;;;;;;;x
 HAS_LOWER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記未満:;;;;;;;;;;;;x
 HAS_HIGHER_POPULATION_AND_MANPOWER_THAN;人口と人的資源が右記より高い:;;;;;;;;;;;;x
 HAS_LOWER_POPULATION_AND_MANPOWER_GROWTH_THAN;民間人口の増加が右記未満:;;;;;;;;;;;;x

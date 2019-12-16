@@ -3489,8 +3489,8 @@ EVTOPTA65011;[Root.Spouse.GetFirstName]に、だ。;;;;;;;;;;;;x
 EVTTOOLTIPA65012;[Root.GetFirstName]は怒りを[Root.Spouse.GetFirstName]にぶつけた;;;;;;;;;;;;x
 EVTOPTB65011;後継ぎである[Root.Heir.GetFirstName]だ。;;;;;;;;;;;;x
 EVTTOOLTIPB65012;[Root.GetFirstName]は怒りを跡継ぎである[Root.Heir.GetFirstName]にぶつけた;;;;;;;;;;;;x
-EVTOPTC65011;...one of my councilors;;;;;;;;;;;;x
-EVTTOOLTIPC65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against a councilor;;;;;;;;;;;;x
+EVTOPTC65011;私に仕える評議員のひとりに、だ。;;;;;;;;;;;;x
+EVTTOOLTIPC65012;[Root.GetFirstName]は怒りを評議員にぶつけた;;;;;;;;;;;;x
 EVTOPTD65011;廷臣のひとりに、だ。;;;;;;;;;;;;x
 EVTTOOLTIPD65012;[Root.GetFirstName]は怒りを[Root.GetHerHis]の廷臣にぶつけた;;;;;;;;;;;;x
 EVTDESC65012;[From.GetFirstName]の両眼に燃える怒りは私を震え上がらせた。[From.GetSheHe]がままならぬ苛立ちを私にぶつける間、私は本当の問題を指摘することなく、黙って[From.GetFirstName] が怒りを吐き出すままにしておいた。;;;;;;;;;;;;x
@@ -4657,8 +4657,8 @@ HINT_CHAR_VIEW_TEXT_3;ゲームに登場するキャラクターはお互いを�
 HINT_CHAR_VIEW_TEXT_4;キャラクター画面の右上にその人物の一族が表示されます。後継者は自分の一族の人間でなければなりません。よって一族を増やし、一族の人間に可能な限り多くの称号を得させることが当面の目標となります。;;;;;;;;;;;;x
 HINT_CHAR_VIEW_TEXT_5;一部の肖像画には小さなマークがついています。星のマークは現在操作している人物を示し、王冠マークはその後継者、赤い滴のマークは自分の一族の人間であることを表しています。;;;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TITLE;評議会画面;;;;;;;;;;;;x
-HINT_COUNCIL_VIEW_TEXT_1;Every ruler has a Council to help administer the realm. Each of the five positions on the Council has a primary attribute - Diplomacy, Martial, Stewardship, Intrigue and Learning. The councilor's skill value is added to the ruler's for all matters of state.;;;;;;;;;;;;x
-HINT_COUNCIL_VIEW_TEXT_2;Councilors can be sent to a county on the map to perform various jobs. For example, the Court Chaplain can be dispatched to convert counties and the characters in them to your religion.;;;;;;;;;;;;x
+HINT_COUNCIL_VIEW_TEXT_1;すべての統治者は国の運営を補佐する評議会を持っています。評議会を構成する5つの役職に就く者には、それぞれ外交、軍事、管理、策略、学習の分野における高い能力が求められます。各評議員の能力値が統治者の能力値に足され、国務を遂行する能力になります。;;;;;;;;;;;;x
+HINT_COUNCIL_VIEW_TEXT_2;評議員は領内の郡に派遣してさまざまな任務を遂行させることができます。たとえば、宮廷司祭を派遣してその郡や人物を自分の宗教に改宗させることも可能です。;;;;;;;;;;;;x
 HINT_COUNCIL_VIEW_TEXT_3;評議会に役職を得た人物からは好感を持たれ、解任された人物から憎まれるのは当然の理です。;;;;;;;;;;;;x
 HINT_LAW_VIEW_TITLE;法律インターフェース;;;;;;;;;;;;x
 HINT_LAW_VIEW_TEXT_1;この画面では所領で施行する法律を変えることができます。法律には継承法と一般法の2種類があり、前者は正統な後継者の決定に関連し、後者は統治の問題に適用されます。;;;;;;;;;;;;x
@@ -14628,7 +14628,7 @@ OTHER_RAISE_OUR_TROOPS_ALL_LETTER;我らの戦いを支援するため、貴君�
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_SETUP;主君が我らの軍勢をすべて召集;;;;;;;;;;;;x
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_LOG;主君の§Y$LIEGENAME$§!が、こちらの部隊及びこちらの封臣の部隊をすべて召集;;;;;;;;;;;;x
 OTHER_RAISE_OUR_TROOPS_AND_VASSALS_LETTER;我らの戦いを支援するため、貴君と貴君の封臣に直属する召集軍をすべて提供していただきたい。;;;;;;;;;;;;x
-COUNCILLOR_LOST_SETUP;Councilor Lost;;;;;;;;;;;;x
+COUNCILLOR_LOST_SETUP;評議員が退任;;;;;;;;;;;;x
 COUNCILLOR_LOST_LOG;§Y$COUNCILLOR$§!が§Y$OLD_LIEGE$§!の$JOBTITLE|Y$ではなくなった。;;;;;;;;;;;;x
 COUNCILLOR_LOST_LETTER;$COUNCILLOR$が我が$JOBTITLE|Y$ではなくなった;;;;;;;;;;;;x
 GUARDIAN_LOST_SETUP;子供の後見人が不在;;;;;;;;;;;;x
@@ -17582,7 +17582,7 @@ INCOMECONFISCATED;没収;;;;;;;;;;;;x
 INCOMESALARY;給与;;;;;;;;;;;;x
 DEMESNE_SIZE;直轄領規模;;;;;;;;;;;;x
 MAX_DEMESNE_SIZE;最大直轄領規模;;;;;;;;;;;;x
-COUNCILLORS;Councilors;;;;;;;;;;;;x
+COUNCILLORS;評議員;;;;;;;;;;;;x
 SPOUSE;配偶者;;;;;;;;;;;;x
 HERESY;異端;;;;;;;;;;;;x
 CH_GUARDIAN;$WHERE$による教育。;;;;;;;;;;;;x
@@ -18173,7 +18173,7 @@ VASSAL_TAB_IRO;§Y$NAME$の家臣である領主§W;;;;;;;;;;;;x
 VASSAL_TAB_DRO;$NAME$に臣従している領主で、みずからの家臣を持っている場合もあります。;;;;;;;;;;;;x
 COURT_TAB_IRO;§Y$NAME$の宮廷に居住している人々§W;;;;;;;;;;;;x
 ABROAD_TAB_IRO;§Y現在、国外にいる廷臣§W;;;;;;;;;;;;x
-ABROAD_TAB_DRO;Characters can reside at a foreign court if they are imprisoned or being educated there. Furthermore, councilors, even if rulers themselves, will reside at the court of their liege.;;;;;;;;;;;;x
+ABROAD_TAB_DRO;投獄されたり教育を受けているなどの理由で、外国の宮廷に居住しているキャラクターもいます。また、たとえ統治者であっても、評議員として主君の宮廷に居住する場合もあります。;;;;;;;;;;;;x
 SM_CAMERA_SPEED;カメラの滑らかさ;;;;;;;;;;;;x
 SM_CENTERED_ZOOM_IN;カーソル位置にズームイン;;;;;;;;;;;;x
 SM_CENTERED_ZOOM_OUT;カーソル位置からズームアウト;;;;;;;;;;;;x
@@ -18889,8 +18889,8 @@ HAD_TITLE_LESS_THAN;$TITLE$になってから$DAYS$日未満である;;;;;;;;;;;
 HAD_TITLE_MORE_THAN;$TITLE$になってから$DAYS$以上である;;;;;;;;;;;;x
 DOES_NOT_HAVE_TITLE;右記ではない:;;;;;;;;;;;;x
 HAS_TITLE;右記である:;;;;;;;;;;;;x
-ISNT_COURTIER;Is NOT Councilor;;;;;;;;;;;;x
-IS_COURTIER;Is Councilor;;;;;;;;;;;;x
+ISNT_COURTIER;評議員ではない;;;;;;;;;;;;x
+IS_COURTIER;評議員である;;;;;;;;;;;;x
 HAS_COMPLETED_OBJECTIVE;右記の野心を達成した:;;;;;;;;;;;;x
 DOES_NOT_HAVE_LAW;右記の法律を施行していない:;;;;;;;;;;;;x
 HAS_LAW;右記の法律を施行している:;;;;;;;;;;;;x
@@ -19210,7 +19210,7 @@ tutorial_chapter_budget_intm;財政- 中級 のチュートリアル完了;;;;;;
 tut_menu_1;経済;;;;;;;;;;;;x
 tut_menu_1_description;州、領地、税制について解説します。;;;;;;;;;;;;x
 tut_menu_2;評議会;;;;;;;;;;;;x
-tut_menu_2_description;Learn about the councilors and their jobs;;;;;;;;;;;;x
+tut_menu_2_description;評議員とその仕事について解説します。;;;;;;;;;;;;x
 tut_menu_3;継承;;;;;;;;;;;;x
 tut_menu_3_description;相続、法律、王朝について解説します。;;;;;;;;;;;;x
 tut_menu_4;外交;;;;;;;;;;;;x

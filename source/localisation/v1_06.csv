@@ -1063,6 +1063,6 @@ ENDGAME_TEXT_THEOCRACY;あなたは神権政治の支配者になったのでプ
 ENDGAME_TEXT_REPUBLIC;あなたは共和国の支配者になったのでプレイを続行できません。;;;;;;;;;;;;x
 ENDGAME_TEXT_MUSLIM;あなたはイスラム教徒になったのでプレイを続行できません。;;;;;;;;;;;;x
 EVTOPTB69060;その廷臣が、よきキリスト教徒ではないことを明らかにする;;;;;;;;;;;;x
-EVTDESC100110;I want that job, and I want it bad! There's no way [Root.Liege.GetTitledFirstName] will give it to me just because I want to become a councilor, I need to work hard to get it.;;;;;;;;;;;;x
+EVTDESC100110;私はその職につきたい、どうしてもつきたいのだ！私が評議員になりたいからといって、[Root.Liege.GetTitledFirstName]がしてくれる訳もない。もっと一所懸命に働かねば。;;;;;;;;;;;;x
 EVTTOOLTIP100111;[Root.GetTitledFirstName]は[This.GetTitledFirstName]と交友関係を結ぶ計画を立てた。[This.GetJobTitle]の職に就くことがその目的だ……。;;;;;;;;;;;;x
 EVTDESC100111;[From.GetTitledFirstName]が、私の[Root.GetJobTitle]の座を狙っていることは公然の秘密だが、[From.GetSheHe]が率直に支援を求めてきたのには、正直、驚かされた。[From.GetTitledFirstName]に秘策を授けて、私の[Root.Liege.GetTitledFirstName]の宮廷での[Root.GetJobTitle]の座を、[From.GetHerHim]にむざむざと盗られる手伝いをしてやるべきだろうか？;;;;;;;;;;;;x

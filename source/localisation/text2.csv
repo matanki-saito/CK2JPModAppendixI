@@ -643,7 +643,7 @@ UNDER_CONSTRUCTION;建設中;;;;;;;;;;;;x
 UPGRADING_TO;建て替え：;;;;;;;;;;;;x
 CONSTRUCTION_STALLED;§R建設は敵軍の占領によって中断されました§!;;;;;;;;;;;;x
 desc_job_chancellor;§Y$JOB$§!は外交に関する事柄の相談役であり、伝統的に評議会で最も高位の地位と見なされています。;;;;;;;;;;;;x
-desc_job_marshal;The §Y$JOB$§! is the councilor in charge of the military. When the ruler cannot or will not command armies, the §Y$JOB$§! will do it.;;;;;;;;;;;;x
+desc_job_marshal;§Y$JOB$§!は軍事を司る評議員です。統治者が軍勢を率いることができないときやその意志がないときは、§Y$JOB$§!が代わって指揮をとります。;;;;;;;;;;;;x
 desc_job_treasurer;§Y$JOB$§!は税の徴収と領地運営に関して力になってくれます。;;;;;;;;;;;;x
 desc_job_spymaster;§Y$JOB$§!は非公式な評議員です。陰謀や策略に類することは、すべてこの役職にある者が司ります。;;;;;;;;;;;;x
 desc_job_spiritual;§Y$JOB$§!は信仰に関する事柄の個人的な相談役ですが、必ずしも聖職者でなくてかまいません。;;;;;;;;;;;;x
@@ -1104,7 +1104,7 @@ EVTOPTB1004;休息はあの世でする。;;;;;;;;;;;;x
 EVTDESC1005;彼女の髪型はいつも完璧。彼女に男どもはメロメロだが、魅力的で美人なだけでなく、知的で、弁舌も優れている。天は二物を与えずというが、どうやら彼女にはあてはまらないようだ。;;;;;;;;;;;;x
 EVTOPTA1005;それにひきかえ、私ときたら。;;;;;;;;;;;;x
 EVTOPTB1005;彼女は素敵だけれど、私は私で完璧なはずよ。;;;;;;;;;;;;x
-EVTDESC1006;It feels like everyone is trying to trump me! My huntsman killed more prey than I, my councilors found a better solution to the rebellious peasants than mine and I started to feel that everyone was better than me, no matter what.;;;;;;;;;;;;x
+EVTDESC1006;誰もが自分より勝っているように思えてならない！　狩人は私より多くの獲物をしとめるし、腹心たちが考えつく農民一揆への対策は、私が考えるものより優れている。近ごろは、何ひとつとして自分には取り柄がないような気がしてきているほどだ。;;;;;;;;;;;;x
 EVTOPTA1006;もし他人より劣っているなら、その事実を受け入れなければ;;;;;;;;;;;;x
 EVTOPTB1006;誰も彼もがねたましい！;;;;;;;;;;;;x
 EVTDESC1007;私を傷つけようとしたのでないだろうが、あの批判は今も私に予想以上の痛みを与えつづけている。;;;;;;;;;;;;x

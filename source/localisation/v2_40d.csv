@@ -37,9 +37,9 @@ SHOW_OPINION;§Y氏族の順位を閲覧§!;;;;;;;;;;;;x
 TOTAL_POPULATION;総人口：;;;;;;;;;;;;x
 FEUD;確執;;;;;;;;;;;;x
 FEUD_BLOOD_BROTHER;血の盟友との確執;;;;;;;;;;;;x
-CLAN_LEADER_HAS_NO_JOB;Is not a Councilor;;;;;;;;;;;;x
+CLAN_LEADER_HAS_NO_JOB;評議員ではない;;;;;;;;;;;;x
 PRESTIGE;威信;;;;;;;;;;;;x
-FEUD_CLAN_LEADER_HAS_JOB; is a Councilor;;;;;;;;;;;;x
+FEUD_CLAN_LEADER_HAS_JOB;評議員である;;;;;;;;;;;;x
 EVTNAMEHL10;血の盟友の死;;;;;;;;;;;;x
 EVTDESCHL10;[From.GetBestName]の死によって、彼の家族との血の盟約や彼の人民に対する義務も彼の人生とともに消滅します。;;;;;;;;;;;;x
 EVTOPTAHL10;[Root.Clan.GetName]の悲しい日・・・;;;;;;;;;;;;x
@@ -187,7 +187,7 @@ REL_NO_HEAD_DESC;宗教指導者は存在しない（できない）;;;;;;;;;;;;
 REL_CASTE_OPINIONS_DESC;カーストの特性が評価に大きな影響を与える;;;;;;;;;;;;x
 REL_PACIFIST_DESC;反乱発生の可能性が低い\n§Y*§! 家臣からの評価に大きなボーナスが付与される\n§Y*§! 統治者が多くの直轄領を持つことができる\n§Y*§! 統治者が聖戦を宣言することはできない;;;;;;;;;;;;x
 REL_HEIR_DESIGNATION_DESC;後継者として任意の有効な子孫を指名することができる;;;;;;;;;;;;x
-cathar_FEATURES;§Y*§! Women may hold all councilor positions\n§Y*§! Women may lead armies;;;;;;;;;;;;x
+cathar_FEATURES;§Y*§! 女性が評議会の役職を務めることができる\n§Y*§! 女性が軍を指揮することができる;;;;;;;;;;;;x
 nomadic_government_desc;遊牧民は領地を所有することにあまり興味がなく、多くの放牧地は羊と馬のためでしかありません。部族の人口とそれが供給する人的資源を中心としたゲームプレイになります。開いた地形に空の州区があると最大人口を増加させます。遊牧民は通常の封臣を持つことができますが、彼らは主に少数だが強大な主要氏族を管理することに関心を持っています。;;;;;;;;;;;;x
 republic_government_desc;通常の共和国の指導者は、市民の中からランダムに選出されます。この種類の共和国は支配者の世代間に世襲の持続性がないためプレイできません。;;;;;;;;;;;;x
 theocracy_government_desc;神権制は小さな共和国のようにプレイできません。支配者は、教会の中から任命または選出され、支配者の世代間に一族の持続性が存在しません。;;;;;;;;;;;;x

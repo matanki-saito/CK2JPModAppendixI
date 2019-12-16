@@ -19618,14 +19618,14 @@ lcr_female_desc;[This.Founder.GetTitledFirstName] managed to unite the formerly 
 RULE_OPTION_RESTRICTED;制限あり;;;;;;;;;;;;x
 RULE_RESTRICTED_DESC;東部ステップ、インドまたはチベットにいる人物のみが中国からの恩恵を受けれます。朝貢国は中国の外交範囲を広げません。;;;;;;;;;;;;x
 world_africa_central;中央アフリカ;;;;;;;;;;;;x
-DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ine;;;;;;;;;;;;x
-DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]inerian;;;;;;;;;;;;x
-DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]rike;;;;;;;;;;;;x
-DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]riker;;;;;;;;;;;;x
-DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]inia;;;;;;;;;;;;x
-DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]inian;;;;;;;;;;;;x
-DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]icenia;;;;;;;;;;;;x
-DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;;x
+DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
+DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
+DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]リク;;;;;;;;;;;;x
+DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]リク;;;;;;;;;;;;x
+DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
+DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]ニアン;;;;;;;;;;;;x
+DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]ケニア;;;;;;;;;;;;x
+DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]ケニア;;;;;;;;;;;;x
 EVTDESC_MNM_7057_NEW;The use of dark magic has corrupted me! The dark tendrils of [Root.GetDWDevil]'s magic has invaded my body, eroding mind and muscle alike. It is obvious that [Root.GetDWDevil] is keeping me alive, but at what cost?;;;;;;;;;;;;x
 corrupting_magic_minor_desc;全ての力には代償が伴うものです。黒魔術はこの人物の身体と理性を損ない、虚弱で痴呆になりやすくなります。そういった明らかな弱さにもかかわらず、闇の力は邪悪な理由によって彼らを生かし続けています…;;;;;;;;;;;;x
 string_rp_pilgrimage;On a pilgrimage as ;;;;;;;;;;;;x

@@ -892,24 +892,24 @@ EVTDESC_CM_6308;暗殺者は[From.GetTitledName]を仕留めそこなったよ�
 EVTOPTA_CM_6308;次こそは奴を仕留めてやる。;;;;;;;;;;;;x
 EVTDESC_CM_63099;暗殺者は[From.GetTitledName]を刺殺し損ねたようです。さらに悪いことに、暗殺者は捕らえられ、誰に殺害を命じられたのかを白状してしまいました。;;;;;;;;;;;;x
 EVTOPTA_CM_63099;なんてことだ！;;;;;;;;;;;;x
-EVTDESC_CM_6310;My [Root.GetLordLady], an opportunity has arisen in your plan to rid yourself of [Root.PlotTarget.GetTitledName]. We have found out who delivers food to [Root.PlotTarget.GetHerHis] hiding place, and there is a possibility that we might bribe them to poison [Root.PlotTarget.GetHerHim]. How shall we proceed, my [Root.GetLordLady]?;;;;;;;;;;;;x
-EVTOPTA_CM_6310;Bribe them to poison [Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;;;x
-EVTOPTB_CM_6310;Make it a huge bribe.;;;;;;;;;;;;x
-EVTOPTC_CM_6310;This is not the way to go.;;;;;;;;;;;;x
-EVTDESC_CM_6311;It seems as though [From.GetTitledName] has found an opportunity to poison [From.PlotTarget.GetTitledName] by bribing those who deliver the food to [From.PlotTarget.GetHerHim].;;;;;;;;;;;;x
-EVTOPTA_CM_6311;Excellent!;;;;;;;;;;;;x
-EVTTITLE_CM_6313;A bitter aftertaste;;;;;;;;;;;;x
-EVTDESC_CM_6313;You are sitting dining by yourself in your hiding place. The cheese is excellent, the grapes are delightful. You take a sip of your drink, closing your eyes and savoring the sensation, imagining that you are at a great banquet. Time to try the soup.. aah it's good, very good. But that hint of a bitter taste, what is it? Oh... suddenly a pain grips your limbs. This is not good...;;;;;;;;;;;;x
-EVTOPTA_CM_6313;Aaargh...;;;;;;;;;;;;x
-EVTDESC_CM_6314;News reach you that the plot to murder [From.GetTitledName] has met with success. [From.GetTitledName] has fallen victim to the poison in [From.GetHerHis] food. The plotters behind it have not been revealed.;;;;;;;;;;;;x
-EVTOPTA_CM_6314;Excellent!;;;;;;;;;;;;x
-EVTDESC_CM_6316;News reach you that the plot to murder [From.GetTitledName] has met with success. [From.GetTitledName] has fallen victim to the poison in [From.GetHerHis] food. The plotters behind it have not been revealed. Unfortunately, the cook was caught and revealed who ordered the murder.;;;;;;;;;;;;x
-EVTOPTA_CM_6316;I see.;;;;;;;;;;;;x
-EVTDESC_CM_6317;You are sitting dining by yourself in your hiding place. The cheese is excellent, the grapes are delightful. You take a sip of your drink, closing your eyes and savoring the sensation, imagining that you are at a great banquet. Time to try the soup... hmm ... there is a strange smell to it. You hesitate, then smell it again. Yes, this food is poisoned!;;;;;;;;;;;;x
-EVTOPTA_CM_6317;I will find those behind this!;;;;;;;;;;;;x
-EVTDESC_CM_6318;It seems the plan to poison [From.GetTitledName] failed. The instigators of the plot were not revealed, however.;;;;;;;;;;;;x
-EVTOPTA_CM_6318;We will get [From.GetHerHim] next time.;;;;;;;;;;;;x
-EVTDESC_CM_63199;It seems the plan to poison [From.GetTitledName] failed. To make things worse, the cook was caught and revealed who ordered the murder.;;;;;;;;;;;;x
+EVTDESC_CM_6310;[Root.GetLordLady]、[Root.PlotTarget.GetTitledName]を厄介払いする計画に好機がめぐってきたようです。[Root.PlotTarget.GetHerHis]の隠れ家に食料を運び込んでいる者を見つけたのです。上手くすれば、彼らを買収して[Root.PlotTarget.GetHerHim]に毒を盛らせることができるかもしれません。[Root.GetLordLady]、この案を実行しますか？;;;;;;;;;;;;x
+EVTOPTA_CM_6310;その者たちを買収して[Root.PlotTarget.GetTitledFirstName]を毒殺せよ。;;;;;;;;;;;;x
+EVTOPTB_CM_6310;たっぷり金を払ってやれ。;;;;;;;;;;;;x
+EVTOPTC_CM_6310;やめたほうがよさそうだ。;;;;;;;;;;;;x
+EVTDESC_CM_6311;どうやら[From.GetTitledName]は、[From.PlotTarget.GetTitledName]に食料を運んでいる者たちを買収して、[From.PlotTarget.GetHerHim]を毒殺する機会を得たようだ。;;;;;;;;;;;;x
+EVTOPTA_CM_6311;素晴らしい！;;;;;;;;;;;;x
+EVTTITLE_CM_6313;後をひく苦み;;;;;;;;;;;;x
+EVTDESC_CM_6313;あなたは隠れ家の居間と食堂を兼ねた部屋に一人でいる。このチーズは素晴らしく美味しいし、ブドウも最高の味だ。飲み物を一口すすり、目を閉じてその味を堪能しながら、豪勢な宴会にいる自分を想像してみる。お次はスープを飲むとしよう。ああ、これは美味い。うん、素晴らしい。だが少し苦味があるな。なんだろう？おや、急に手足の節々が痛みはじめた。これはまずいぞ……;;;;;;;;;;;;x
+EVTOPTA_CM_6313;ぐああっ……;;;;;;;;;;;;x
+EVTDESC_CM_6314;[From.GetTitledName]を暗殺する陰謀が成功したとの知らせが入ってきました。[From.GetTitledName]は食事に混ぜられた毒物によって死んだとのことです。背後で陰謀を図っていた者が誰なのかは露見していません。;;;;;;;;;;;;x
+EVTOPTA_CM_6314;よくやった！;;;;;;;;;;;;x
+EVTDESC_CM_6316;[From.GetTitledName]を暗殺する陰謀が成功したとの知らせが入ってきました。[From.GetTitledName]は食事に混ぜられた毒物によって死んだとのことです。背後で陰謀を図っていた者が誰なのかは露見していませんが、残念ながら料理人は捕らえられ、誰に殺害を命じられたのかを白状してしまいました。;;;;;;;;;;;;x
+EVTOPTA_CM_6316;そうか。;;;;;;;;;;;;x
+EVTDESC_CM_6317;あなたは隠れ家の居間と食堂を兼ねた部屋に一人でいる。このチーズは素晴らしく美味しいし、ブドウも最高の味だ。飲み物を一口すすり、目を閉じてその味を堪能しながら、豪勢な宴会にいる自分を想像してみる。お次はスープを飲むとしよう……うーむ、変な臭いがするぞ。あなたはためらった後にもう一度臭いをかいでみた。そうだ、この料理には毒が入っているぞ！;;;;;;;;;;;;x
+EVTOPTA_CM_6317;この件の背後にいる奴を見つけてやるぞ！;;;;;;;;;;;;x
+EVTDESC_CM_6318;[From.GetTitledName]を毒殺する計画は失敗に終わったようだ。しかし、今回の陰謀の黒幕が誰なのかはまだ露見していない。;;;;;;;;;;;;x
+EVTOPTA_CM_6318;次こそは奴を仕留めてやる。;;;;;;;;;;;;x
+EVTDESC_CM_63199;[From.GetTitledName]を毒殺する計画は失敗に終わったようだ。さらに悪いことに、料理人は捕らえられ、誰に殺害を命じられたのかを白状してしまった。;;;;;;;;;;;;x
 EVTOPTA_CM_63199;なんてことだ！;;;;;;;;;;;;x
 EVTDESC_63103;On the death of my [GetNewRelation], my [GetFromRelation] [From.GetFirstName] may have been elected [From.PrimaryTitle.GetRulerTitle] of [From.PrimaryTitle.GetName], but I am under no obligation to accept [From.GetObjectPronoun] as my liege!;;;;;;;;;;;;x
 EVTOPTA_63103;The realm should stay one.;;;;;;;;;;;;x

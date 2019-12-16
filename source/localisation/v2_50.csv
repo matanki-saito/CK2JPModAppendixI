@@ -182,22 +182,22 @@ EVTOPTA_ZE_9131;ああ、そこまで言われるなら結構ですよ。;;;;;;;
 EVTDESC_ZE_9132;[Root.GetTitledFirstName]へ\n\n誠実に付き合ってくれている相手をこのようなやり方で陥れ、そして攻撃する貴様は最低の屑だ。貴様のような [GetFromRootInsult]野郎と協定や取り決めをしようとするような不運な人がこれ以上出ないことを願ってやまない。\n\n敬具\n[From.GetTitledName];;;;;;;;;;;;x
 broken_non_aggression_pact;協定破棄;;;;;;;;;;;;x
 STOP_ASSAULT_DESC;領地の強襲を止める;;;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_TITLE;Appoint Councilor;;;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_TITLE;評議員に任命;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§!に授与する名誉称号を選択;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_1;称号§Y[ThirdPartyTitle.GetFullName]§!を§Y[Recipient.GetTitledFirstName]§!に授与;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_2;これによって[Recipient.GetPossPronoun]のあなたへの評価が$OPINION|+$変化します。;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_DESC;この人物に評議会の席と共に名誉称号を与える。;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LONG_DESC;封臣に評議会の席と共に名誉称号を与えることにより、その封臣をなだめ、敵対する派閥への加入を防ぐことが出来ます。;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_LETTER;\n\nあなたに評議会の席を与えようと思うので、あなたに称号§Y[ThirdPartyTitle.GetFullName]§!を与える。;;;;;;;;;;;;x
-ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;Councilor appointed;;;;;;;;;;;;x
+ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;評議員に任命;;;;;;;;;;;;x
 ASSIGN_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!は§Y[Recipient.GetBestName]§!を[ThirdPartyTitle.GetFullName]とした。;;;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_TITLE;Fire Councilor;;;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_TITLE;評議員を解任;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_DESC;この人物を協議会から解任;;;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;You can revoke a Councilor title from a character, thus removing them from the Council.;;;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_LONG_DESC;この人物から評議員称号を剥奪し、評議会から解任します。;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§!から剥奪する称号を選択;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_1;§Y[Recipient.GetTitledFirstName]§!から称号§Y[ThirdPartyTitle.GetFullName]§!を剥奪;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_2;これによって[Recipient.GetPossPronoun]のあなたへの評価が§R$OPINION|+$§!変化します。;;;;;;;;;;;;x
-REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;Councilor fired;;;;;;;;;;;;x
+REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_SETUP;評議員が解任された;;;;;;;;;;;;x
 REVOKE_VOTER_TITLE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§!は§Y[Recipient.GetBestName]§!から称号§Y[ThirdPartyTitle.GetFullName]§!を剥奪し、[Recipient.GetHerHim]を評議会から解任した。;;;;;;;;;;;;x
 alert_council_discontent_instant;§Y評議会は不満を抱えている§!;;;;;;;;;;;;x
 alert_liege_council_discontent_instant;§Y主君の評議会が不満を抱えている§!;;;;;;;;;;;;x
@@ -427,7 +427,7 @@ EVTDESC_ZE_3014;今晩は[steward.GetTitledFirstName]の元を友人が訪れた
 EVTOPTA_ZE_3014;今まで色々やってみたが、その中でも遥かに興味深い体験だった。;;;;;;;;;;;;x
 EVTOPTB_ZE_3014;この仕事はあんまり好きじゃない。盗みを働いているみたいだ。;;;;;;;;;;;;x
 EVTOPTC_ZE_3014;こんな仕事など大嫌いだ！ただ百姓を殺して奴らの持ち金を取り上げればいいだけだったのに。;;;;;;;;;;;;x
-obj_become_council_member_title;Become a Councilor;;;;;;;;;;;;x
+obj_become_council_member_title;評議員になる;;;;;;;;;;;;x
 obj_become_council_member_desc;[This.GetTitledFirstName]は[This.GetHerHis]の主君の[This.Liege.GetCouncilName]の一議席を希望します。;;;;;;;;;;;;x
 EVTDESC_ZE_6000;自分の熱心な仕事が主たる[target_liege.GetTitledName]に気付けて貰えていないこの状況にはもう我慢ならない。自分には評議員になる価値があるはずだし、その事を主にも知ってもらわなければならない。;;;;;;;;;;;;x
 EVTOPTA_ZE_6000;さあ事に取り掛かろう。;;;;;;;;;;;;x
@@ -529,7 +529,7 @@ EVTOPTA_ZE_8101;[From.GetHerHim]助けよう。慎重に動かすんだ。;;;;;;
 EVTOPTB_ZE_8101;間抜けなやつだ。他の人も呼んで[From.GetHerHim]笑ってやろう。;;;;;;;;;;;;x
 EVTDESC_ZE_8102;意識を失う直前、[From.GetTitledFirstName]の声が聞こえました。...翌朝目を覚ますと、あなたはひどい頭痛でした。しかし、少なくとも命は無事なようです。;;;;;;;;;;;;x
 EVTOPTA_ZE_8102;私は[From.GetTitledFirstName]に借りができたようだ。;;;;;;;;;;;;x
-EVTDESC_ZE_8103;You notice [From.GetTitledName] standing next to you, [From.GetSheHe] seems to contemplate helping but is not responding to your pleads. Just before you pass out you see [From.GetHerHim] bringing the rest of the councilors out, and they look at you in pity before they help you.;;;;;;;;;;;;x
+EVTDESC_ZE_8103;あなたは、横に[From.GetTitledName]が立っていることに気が付きました。[From.GetSheHe]はあなたを助けるかどうかを考えているようで、あなたの助けの声に反応を示しません。あなたは意識を失う直前、[From.GetSheHe]が他の評議員たちをわざわざ呼んで、皆であなたに哀れみの視線を送ってくるのを目にしました。;;;;;;;;;;;;x
 EVTOPTA_ZE_8103;私はこのことを忘れない。;;;;;;;;;;;;x
 EVTOPTA_ZE_8100_TOOLTIP;上手くいけば、誰かの耳にあなたの声が届くでしょう。;;;;;;;;;;;;x
 EVTOPTA_ZE_8101_TOOLTIP;立派なことを行います。;;;;;;;;;;;;x

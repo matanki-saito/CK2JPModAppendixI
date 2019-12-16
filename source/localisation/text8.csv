@@ -694,7 +694,7 @@ EVTOPTB100107;そして、そなたは十字軍戦士と称している！;;;;;;
 EVTDESC100108;[Root.Location.GetName]の邪教徒に対する十字軍遠征に、皆はそれぞれ異なった理由から参加していた。ある者は神の栄光のため、またある者は領地や富を期待して、他の者は名声のためと。[From.GetTitledFirstName]は私は同じ目的を持ってこの地に至り、共に命を危険にさらしている。;;;;;;;;;;;;x
 EVTOPTA100108;友情と、神の栄光のために！;;;;;;;;;;;;x
 EVTOPTB100108;友情と、この十字軍遠征がもたらす名声のため！;;;;;;;;;;;;x
-EVTOPTA100110;First step first, make friends with a councilor...;;;;;;;;;;;;x
+EVTOPTA100110;最初の一歩はまず、評議員と友人になり...;;;;;;;;;;;;x
 EVTOPTB100110;私が[Root.Liege.GetChancellorName] の[Root.Liege.job_chancellor.GetTitledFirstName]を、越えることは一生無い。;;;;;;;;;;;;x
 EVTOPTC100110;私が[Root.Liege.GetMarshalName] の[Root.Liege.job_marshal.GetTitledFirstName]を、越えることは一生無い。;;;;;;;;;;;;x
 EVTOPTD100110;私が[Root.Liege.GetTreasurerName] の[Root.Liege.job_treasurer.GetTitledFirstName]を、越えることは一生無い。;;;;;;;;;;;;x
@@ -704,9 +704,9 @@ EVTOPTA100111;[From.GetTitledFirstName]は丁寧に頼んできた、私は[From
 EVTTOOLTIP100112;[Root.GetTitledFirstName]の有益な支援は、 [This.GetTitledFirstName]をして、[Root.GetHerHim]をさらに尊敬させることとなった。;;;;;;;;;;;;x
 EVTOPTB100111;私は[From.GetTitledFirstName]を支援するが、同時に[From.GetHerHim]の動きに注意するとしよう!;;;;;;;;;;;;x
 EVTTOOLTIP100113;[Root.GetTitledFirstName]が[This.GetTitledFirstName]の支援を断ったことで、新たな対立関係が生じた。;;;;;;;;;;;;x
-EVTDESC100112;At first I had only wanted [From.GetTitledFirstName] to teach me more about [From.GetHerHis] work as a councilor because I aspired to gain that position, but as we talked and got to know each other I realized we had become friends.;;;;;;;;;;;;x
+EVTDESC100112;最初、私が[From.GetTitledFirstName]に評議員について教えを乞うたのは、野心の魂胆があってのことだったが、話しをし互いをよく知るようになると、我々には友情が芽生えた。;;;;;;;;;;;;x
 EVTOPTA100112;これは、今は彼の官職を狙うべきではないということか？;;;;;;;;;;;;x
-EVTDESC100113;Even though my motives to get [From.GetTitledFirstName] to teach me more about [From.GetHerHis] work as a councilor was more than arbitrary, I hadn't really expected the reaction I got from [From.GetTitledFirstName] when [From.GetSheHe] refused to teach me. My aspirations was widely known and [From.GetTitledFirstName] feared I would steal [From.GetHerHis] job!;;;;;;;;;;;;x
+EVTDESC100113;そもそも[From.GetTitledFirstName]に評議員に関する教授を願ったのは、単なる気まぐれによるな発案だった。だから、[From.GetSheHe]が頼みを断ってくるなどとは、夢にも思っていなかった。私の野心家ぶりは有名だから、[From.GetTitledFirstName]は職を奪われると恐れたのだろう！;;;;;;;;;;;;x
 EVTOPTA100113;まあ、あるよね…。;;;;;;;;;;;;x
 EVTDESC100115;幸運なことに私は懐妊したが、廷臣のひとりも同じく懐妊した。私たちは互いの妊婦生活について語り、つわりや足のむくみの対処法を探し、赤ちゃんの名づけ方まで話し合った。;;;;;;;;;;;;x
 EVTOPTA100115;母親は団結すべきよ！;;;;;;;;;;;;x
