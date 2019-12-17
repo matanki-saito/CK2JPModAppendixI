@@ -5781,7 +5781,7 @@ merovingian_desc;The legendary founder of the Merovingian dynasty. He joined his
 solomon_desc;The Solomonid Dynasty claim direct descendance from the biblical Solomon, a king of Israel famed for legendary wisdom and wealth.;;;;;;;;;;;;x
 attila_desc;クブラトは多くの部族をその旗の下に団結させ、古代ローマで最も恐れられた人物の一人であるアッティラの子孫であると主張している。;;;;;;;;;;;;x
 ashina_desc;The Ashina clan rose to prominence after revolting against the Rouran Khaganate. Members of the clan are considered sacred, if not divine, by the people of the steppe.;;;;;;;;;;;;x
-bagratid_desc;One of the oldest Christian dynasties in the world. The children of Bagrat have made Georgia flourish throughout the centuries.;;;;;;;;;;;;x
+bagratid_desc;世界最古のキリスト教王朝の1つ。バグラトの子孫たちは何世紀にも渡りジョージアを繁栄させた。;;;;;;;;;;;;x
 parthian_desc;サーサーン朝によって支配された7のパルティア氏族のうちの1つの子孫です。7氏族、または7家はペルシアの歴史において重要な役割を果たしました。;;;;;;;;;;;;x
 sassanid_desc;サーサーン朝の創始者。偉大な戦士、狩人、そしてゾロアスター教の指導者てして知られている。;;;;;;;;;;;;x
 niall_desc;アイルランドの伝説的な高王であり、ウイネ王朝の創始者。 統治の間に彼は、サクソン人、スコットランド人、ガリア人そしてローマ人に対してさえもいくつかの戦いに勝った。;;;;;;;;;;;;x
@@ -9074,52 +9074,52 @@ ALT_START_HOLY_SITE_IST;$INSERT$ist;;;;;;;;;;;;x
 ALT_START_HOLY_SITE_ITE;$INSERT$ite;;;;;;;;;;;;x
 ALT_START_HOLY_SITE_SCHOOL;$INSERT$ite;;;;;;;;;;;;x
 ALT_START_HOLY_SITE_SCHOOL_full;School of $INSERT$;;;;;;;;;;;;x
-DYNAMIC_NAME_1;[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_1_ADJ;[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_2;[target_name.GetFirstName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_2_ADJ;[target_name.GetFirstName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_3;[target_name.GetLastWordInDynastyName]ランド;;;;;;;;;;;;x
-DYNAMIC_NAME_3_ADJ;[target_name.GetLastWordInDynastyName]ランド;;;;;;;;;;;;x
-DYNAMIC_NAME_4;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
-DYNAMIC_NAME_4_ADJ;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
-DYNAMIC_NAME_5;[target_name.GetLastWordInDynastyName]スタン;;;;;;;;;;;;x
-DYNAMIC_NAME_5_ADJ;[target_name.GetLastWordInDynastyName]スタン;;;;;;;;;;;;x
-DYNAMIC_NAME_6;[target_name.GetLastWordInDynastyName]リア;;;;;;;;;;;;x
-DYNAMIC_NAME_6_ADJ;[target_name.GetLastWordInDynastyName]リア;;;;;;;;;;;;x
-DYNAMIC_NAME_7;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
-DYNAMIC_NAME_7_ADJ;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
-DYNAMIC_NAME_8;[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_8_ADJ;[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_9;[target_name.GetFirstName]ランド;;;;;;;;;;;;x
-DYNAMIC_NAME_9_ADJ;[target_name.GetFirstName]ランド;;;;;;;;;;;;x
+DYNAMIC_NAME_1;[target_name.GetLastWordInDynastyName]a;;;;;;;;;;;;x
+DYNAMIC_NAME_1_ADJ;[target_name.GetLastWordInDynastyName]an;;;;;;;;;;;;x
+DYNAMIC_NAME_2;[target_name.GetFirstName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_2_ADJ;[target_name.GetFirstName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_3;[target_name.GetLastWordInDynastyName]land;;;;;;;;;;;;x
+DYNAMIC_NAME_3_ADJ;[target_name.GetLastWordInDynastyName]landian;;;;;;;;;;;;x
+DYNAMIC_NAME_4;[target_name.GetLastWordInDynastyName]en;;;;;;;;;;;;x
+DYNAMIC_NAME_4_ADJ;[target_name.GetLastWordInDynastyName]enninger;;;;;;;;;;;;x
+DYNAMIC_NAME_5;[target_name.GetLastWordInDynastyName]istan;;;;;;;;;;;;x
+DYNAMIC_NAME_5_ADJ;[target_name.GetLastWordInDynastyName]istanian;;;;;;;;;;;;x
+DYNAMIC_NAME_6;[target_name.GetLastWordInDynastyName]lia;;;;;;;;;;;;x
+DYNAMIC_NAME_6_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;;x
+DYNAMIC_NAME_7;[target_name.GetLastWordInDynastyName]ny;;;;;;;;;;;;x
+DYNAMIC_NAME_7_ADJ;[target_name.GetLastWordInDynastyName]nynan;;;;;;;;;;;;x
+DYNAMIC_NAME_8;[target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_8_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_9;[target_name.GetFirstName]land;;;;;;;;;;;;x
+DYNAMIC_NAME_9_ADJ;[target_name.GetFirstName]landian;;;;;;;;;;;;x
 DYNAMIC_NAME_10;[target_name.GetLastWordInDynastyName];;;;;;;;;;;;x
-DYNAMIC_NAME_10_ADJ;[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_11;大[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_11_ADJ;大[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_12;小[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_12_ADJ;小[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_13;小[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_13_ADJ;小[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_14;大[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_14_ADJ;大[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_15;[target_name.GetLastWordInDynastyName]クス;;;;;;;;;;;;x
-DYNAMIC_NAME_15_ADJ;[target_name.GetLastWordInDynastyName]クス;;;;;;;;;;;;x
-DYNAMIC_NAME_16;[target_name.GetLastWordInDynastyName]ヴァニア;;;;;;;;;;;;x
-DYNAMIC_NAME_16_ADJ;[target_name.GetLastWordInDynastyName]ヴァニア;;;;;;;;;;;;x
-DYNAMIC_NAME_17;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
-DYNAMIC_NAME_17_ADJ;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
-DYNAMIC_NAME_18;下[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_18_ADJ;下[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_19;上[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_19_ADJ;上[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_20;新[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_20_ADJ;新[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_21;古[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_21_ADJ;古[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_22;中央[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_22_ADJ;中央[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_23;ノヴァ・[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
-DYNAMIC_NAME_23_ADJ;ノヴァ[target_name.GetLastWordInDynastyName]ア;;;;;;;;;;;;x
+DYNAMIC_NAME_10_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_11;[target_name.GetLastWordInDynastyName]ia Major;;;;;;;;;;;;x
+DYNAMIC_NAME_11_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_12;[target_name.GetLastWordInDynastyName]ia Minor;;;;;;;;;;;;x
+DYNAMIC_NAME_12_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_13;Lesser [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_13_ADJ;Lesser [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_14;Greater [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_14_ADJ;Greater [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_15;[target_name.GetLastWordInDynastyName]ex;;;;;;;;;;;;x
+DYNAMIC_NAME_15_ADJ;[target_name.GetLastWordInDynastyName]exer;;;;;;;;;;;;x
+DYNAMIC_NAME_16;[target_name.GetLastWordInDynastyName]vania;;;;;;;;;;;;x
+DYNAMIC_NAME_16_ADJ;[target_name.GetLastWordInDynastyName]vanian;;;;;;;;;;;;x
+DYNAMIC_NAME_17;[target_name.GetLastWordInDynastyName]ony;;;;;;;;;;;;x
+DYNAMIC_NAME_17_ADJ;[target_name.GetLastWordInDynastyName]onian;;;;;;;;;;;;x
+DYNAMIC_NAME_18;Lower [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_18_ADJ;Lower [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_19;Upper [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_19_ADJ;Upper [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_20;New [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_20_ADJ;New [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_21;Old [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_21_ADJ;Old [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_22;Central [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_22_ADJ;Central [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
+DYNAMIC_NAME_23;Nova [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;x
+DYNAMIC_NAME_23_ADJ;Nova [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;x
 PROV1701;ヴィスタ;;;;;;;;;;;;x
 PROV1702;フィンヴェデーン;;;;;;;;;;;;x
 PROV1703;ニュドゥーング;;;;;;;;;;;;x
@@ -9990,7 +9990,7 @@ b_dubyazy;Dubyazy;;;;;;;;;;;;x
 b_volgakremenchuk;Kremenchuk;;;;;;;;;;;;x
 b_sharan;Sharan;;;;;;;;;;;;x
 b_mamadich;Mamadich;;;;;;;;;;;;x
-b_albay;Albay;;;;;;;;;;;;x
+b_albay;アルバイ;;;;;;;;;;;;x
 b_katmysh;Katmysh;;;;;;;;;;;;x
 b_shumbut;Shumbut;;;;;;;;;;;;x
 b_otarka;Otarka;;;;;;;;;;;;x
@@ -15978,7 +15978,7 @@ b_sayram_qayaliq;Sayram;;;;;;;;;;;;x
 b_sadyr;Sadyr;;;;;;;;;;;;x
 b_wenquan_qayaliq;Wenquan;;;;;;;;;;;;x
 b_horgos;Horgos;;;;;;;;;;;;x
-b_klarjeti;Klarjeti;;;;;;;;;;;;x
+b_klarjeti;クラルジェティ;;;;;;;;;;;;x
 b_tortomi;Tortomi;;;;;;;;;;;;x
 b_mamrovani;Mamrovani;;;;;;;;;;;;x
 b_bana;Bana;;;;;;;;;;;;x
@@ -15986,8 +15986,8 @@ b_tseptha;Tseptha;;;;;;;;;;;;x
 b_ancha;Ancha;;;;;;;;;;;;x
 b_tbeti;Tbeti;;;;;;;;;;;;x
 b_artaani;Artaani;;;;;;;;;;;;x
-b_mokvi;Mokvi;;;;;;;;;;;;x
-b_khobi;Khobi;;;;;;;;;;;;x
+b_mokvi;モクヴィ;;;;;;;;;;;;x
+b_khobi;コビ;;;;;;;;;;;;x
 b_buchlus;Buchlus;;;;;;;;;;;;x
 b_nesos;Nesos;;;;;;;;;;;;x
 b_phasis;Phasis;;;;;;;;;;;;x
@@ -17173,7 +17173,7 @@ c_tarbagatai_adj;Tarbagataian;;;;;;;;;;;;x
 c_buqtirma_adj;ブクシュルマ;;;;;;;;;;;;x
 c_kimak_adj;Karasori;;;;;;;;;;;;x
 c_kirghiz_adj;Irtyshi;;;;;;;;;;;;x
-c_klarjeti_adj;Klarjetian;;;;;;;;;;;;x
+c_klarjeti_adj;クラルジェティ;;;;;;;;;;;;x
 c_egrisi_adj;Egrisian;;;;;;;;;;;;x
 c_yeruslan_adj;Yeruslan;;;;;;;;;;;;x
 c_balanjar_adj;Balanjari;;;;;;;;;;;;x
@@ -19618,14 +19618,14 @@ lcr_female_desc;[This.Founder.GetTitledFirstName] managed to unite the formerly 
 RULE_OPTION_RESTRICTED;制限あり;;;;;;;;;;;;x
 RULE_RESTRICTED_DESC;東部ステップ、インドまたはチベットにいる人物のみが中国からの恩恵を受けれます。朝貢国は中国の外交範囲を広げません。;;;;;;;;;;;;x
 world_africa_central;中央アフリカ;;;;;;;;;;;;x
-DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
-DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]ン;;;;;;;;;;;;x
-DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]リク;;;;;;;;;;;;x
-DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]リク;;;;;;;;;;;;x
-DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]ニア;;;;;;;;;;;;x
-DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]ニアン;;;;;;;;;;;;x
-DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]ケニア;;;;;;;;;;;;x
-DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]ケニア;;;;;;;;;;;;x
+DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ine;;;;;;;;;;;;x
+DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]inerian;;;;;;;;;;;;x
+DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]rike;;;;;;;;;;;;x
+DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]riker;;;;;;;;;;;;x
+DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]inia;;;;;;;;;;;;x
+DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]inian;;;;;;;;;;;;x
+DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]icenia;;;;;;;;;;;;x
+DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;;x
 EVTDESC_MNM_7057_NEW;The use of dark magic has corrupted me! The dark tendrils of [Root.GetDWDevil]'s magic has invaded my body, eroding mind and muscle alike. It is obvious that [Root.GetDWDevil] is keeping me alive, but at what cost?;;;;;;;;;;;;x
 corrupting_magic_minor_desc;全ての力には代償が伴うものです。黒魔術はこの人物の身体と理性を損ない、虚弱で痴呆になりやすくなります。そういった明らかな弱さにもかかわらず、闇の力は邪悪な理由によって彼らを生かし続けています…;;;;;;;;;;;;x
 string_rp_pilgrimage;On a pilgrimage as ;;;;;;;;;;;;x

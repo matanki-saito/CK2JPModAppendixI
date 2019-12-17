@@ -51,7 +51,7 @@ EVTOPTC_WOL_520;楽しむのもいいが、もっと高みを目指さねばな�
 EVTDESC_WOL_530;かなり前から、私は一人の元気な下働きのメイドに非常に大きな関心を寄せてきた。彼女は宮廷のあらゆる少年や年配の人々のさりげない誘惑をを上手くかわしてきていたが、私が彼女を見つめている時に、はっきりと頬を赤らめているのに私は気づいている。誘惑して私の言いなりにできれば、この利口な少女はとても役に立つはずだ……;;;;;;;;;;;;x
 EVTOPTA_WOL_530;彼女を貴婦人に引き上げて私の愛人にしよう…;;;;;;;;;;;;x
 EVTOPTB_WOL_530;彼女を抱いて私の物にする。素晴らしい女密偵になるだろう！;;;;;;;;;;;;x
-EVTOPTC_WOL_530;ありふれた小娘に？ 私にはもっといい相手がいる。;;;;;;;;;;;;x
+EVTOPTC_WOL_530;賤しい身分の小娘を？ 私にはもっといい相手がいる。;;;;;;;;;;;;x
 EVTDESC_WOL_560;視界の端に彼女の姿が映った。裸で、赤い髪をしている。いたずらっぽく笑っている、楽園に住むニンフのようだ。いつも私をからかうようにして、はっきりとその姿を現すことはない。彼女を射止めるには何をしたらいいのだろうか？;;;;;;;;;;;;x
 EVTOPTA_WOL_560;華麗な古いバラの茂みだ！彼女はバラの精に違いない。;;;;;;;;;;;;x
 EVTOPTB_WOL_560;いや待て、なぜ私はこんな時間に下着姿で外に出ているのだ？;;;;;;;;;;;;x
@@ -72,7 +72,7 @@ EVTOPTA_WOL_580;「そこのお兄さん、こっちに来て！」;;;;;;;;;;;;x
 EVTOPTB_WOL_580;いくらなんでも危険すぎる。;;;;;;;;;;;;x
 EVTDESC_WOL_581;牢番は独房の鍵を開けて、いやらしい目でこちらを見ながら入ってきた。私の身体を愛撫し始めたので、私はもっとロマンティックな場所に移りたいと言ってみた。すると、牢番は大笑いして私の尻をひっぱたくと、馬鹿にするように鼻で笑い独房を出ていった。;;;;;;;;;;;;x
 EVTOPTA_WOL_581;このことは奴の[Root.Host.GetMasterMistress]の[Root.Host.GetTitledFirstNameNoRegnal]の耳に入るだろう…;;;;;;;;;;;;x
-EVTDESC_WOL_582;囚人の一人、[From.GetTitledName]は看守に対して女の魅力を使って誘惑を試み逃亡を企てた。幸運にも、彼はその誘いには乗らなかった。;;;;;;;;;;;;x
+EVTDESC_WOL_582;囚人の一人、[From.GetTitledName]は牢番に対して女の魅力を使って誘惑を試み逃亡を企てた。幸運にも、彼はその誘いには乗らなかった。;;;;;;;;;;;;x
 EVTOPTA_WOL_582;面白い女だ！より快適な部屋を与えてやろう。;;;;;;;;;;;;x
 EVTOPTB_WOL_582;彼の誠実さに報奨を与えよう。;;;;;;;;;;;;x
 EVTOPTC_WOL_582;[GetRootFromInsult]奴め！この女を土牢に放り込め！;;;;;;;;;;;;x
@@ -84,14 +84,14 @@ EVTDESC_WOL_585;牢番は独房の鍵を開けて、いやらしい目でこち�
 EVTOPTA_WOL_585;自由の身だ！;;;;;;;;;;;;x
 EVTDESC_WOL_586;牢番頭が狡猾な囚人の[From.GetTitledName]に誘惑された。奴はその女を自分の小屋に連れ込んだところで、ワイン壺を頭に叩きつけられ、その隙に女に逃げられてしまったのだ！;;;;;;;;;;;;x
 EVTOPTA_WOL_586;土牢にこの馬鹿を放り込め！;;;;;;;;;;;;x
-EVTDESC_WOL_590;My concubine, [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see her beautiful face light up with smiles and laughter... so I've decided to romance her!;;;;;;;;;;;;x
-EVTOPTA_WOL_590;Turn on the charm;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_591;The seduction of [This.GetFirstName] begins;;;;;;;;;;;;x
-EVTDESC_WOL_592;I did get my [GetFromRelation] [From.GetFirstName] to laugh today, as I told her a silly joke about two squirrels. I think she is warming up to me...;;;;;;;;;;;;x
-EVTDESC_WOL_592_B;I can tell my [GetFromRelation] [From.GetFirstName] is finally falling in love with me. She snuggled up to me as we watched the sunset together from the roof of the great tower.;;;;;;;;;;;;x
-EVTOPTA_WOL_592;Good, that gladdens me!;;;;;;;;;;;;x
-EVTDESC_WOL_593;Thanks to my romantic efforts, sweet [From.GetFirstName], my [GetFromRelation], has also become my lover. It feels great to be rid of the cold awkwardness around her!;;;;;;;;;;;;x
-EVTOPTA_WOL_593;Finally!;;;;;;;;;;;;x
+EVTDESC_WOL_590;私の内妻の[target_consort.GetTitledFirstNameNoRegnal]は私を愛していない。愛なんて全く必要でないのだが、それでも彼女の美しい顔が微笑みや笑いでまばゆいまでに輝くのを見るのは好きなのだ……だから彼女と恋仲になってやると決めた！;;;;;;;;;;;;x
+EVTOPTA_WOL_590;私の魅力を見せてやろう;;;;;;;;;;;;x
+EVTTOOLTIP_WoL_591;[This.GetFirstName]を誘惑し始めます。;;;;;;;;;;;;x
+EVTDESC_WOL_592;私は今日、[GetFromRelation]の[From.GetFirstName]に2匹のリスについての馬鹿馬鹿しい冗談を言って笑わせた。彼女は私に好意を持ち始めているのではないだろうか……;;;;;;;;;;;;x
+EVTDESC_WOL_592_B;私の[GetFromRelation]の[From.GetFirstName]は、ついに私と恋に落ちたと言ってもいいかもしれない。巨塔の屋上で一緒に夕陽を見ていた時に、彼女は私に寄り添ってきたのだ。;;;;;;;;;;;;x
+EVTOPTA_WOL_592;やった、私も嬉しいぞ！;;;;;;;;;;;;x
+EVTDESC_WOL_593;私の恋の手管のおかげで、私の[GetFromRelation]である、愛する[From.GetFirstName]は私の恋人となった。彼女から冷たいよそよそしさがなくなったのは素晴らしいことだ！;;;;;;;;;;;;x
+EVTOPTA_WOL_593;やっと実ったな！;;;;;;;;;;;;x
 EVTDESC_WOL_594;Today, [From.GetFirstName], my [GetFromRelation], confessed that she has forgiven me for her abduction. She has grown to like her new life in [Root.Capital.Capital.GetName]... and me.;;;;;;;;;;;;x
 EVTOPTA_WOL_594;I am relieved!;;;;;;;;;;;;x
 EVTDESC_WOL_595;My [GetFromRelation] [From.GetFirstName] is not warming up to me at all. She laughs at my jokes, true, but not because she finds them funny, but with scorn. She told me outright that she despises me!;;;;;;;;;;;;x
