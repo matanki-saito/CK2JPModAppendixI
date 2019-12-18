@@ -8779,7 +8779,7 @@ c_sortavala_adj;Sortavalian;;;;;;;;;;;;x
 c_rovaniemi_adj;Rovaniemian;;;;;;;;;;;;x
 c_joensuu_adj;Kuopian;;;;;;;;;;;;x
 c_raasepori_adj;Siuntioan;;;;;;;;;;;;x
-c_zaslav_adj;Zaslavian;;;;;;;;;;;;x
+c_zaslav_adj;ザスラウ;;;;;;;;;;;;x
 c_belz_adj;Belzian;;;;;;;;;;;;x
 c_lutsk_adj;Lutskian;;;;;;;;;;;;x
 c_dorogobuzh_adj;Dorogobuzhian;;;;;;;;;;;;x
@@ -9456,7 +9456,7 @@ b_sambir;Sambir;;;;;;;;;;;;x
 b_udech;Udech;;;;;;;;;;;;x
 b_horodok;Horodok;;;;;;;;;;;;x
 b_rogozhyn;Rogozhyn;;;;;;;;;;;;x
-b_zaslav;Zaslav;;;;;;;;;;;;x
+b_zaslav;ザスラウ;;;;;;;;;;;;x
 b_kremyanets;Kremyanets;;;;;;;;;;;;x
 b_plisnesk;Plisnesk;;;;;;;;;;;;x
 b_buzhesk;Buzhesk;;;;;;;;;;;;x
@@ -11052,11 +11052,11 @@ DISMISS_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは[Actor.GetOpp
 DISMISS_CONSORT_INTERACTION_OFFER;[Actor.GetBestName]はあなたを遠ざけました。あなたはもう[Actor.GetBestName]の[Actor.GetOppositeConsortSex]ではありません！;;;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_LONG_DESC;配偶者のほかに3人までの[Actor.GetOppositeConsortSex]を持つことができます。 [Actor.GetOppositeConsortSexCap]は正式な婚姻関係ではありませんが、生まれた子供は継承権を持ちます。 囚人は、すでに結婚していても強制的に自分の[Actor.GetOppositeConsortSex]にすることができます。;;;;;;;;;;;;x
 NOT_ALLOWED_BON;DLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン教徒§!でのプレイはできません！;;;;;;;;;;;;x
-NOT_ALLOWED_BON_MP;§Y$PLAYER$§! not allowed to play §YBön§! characters without the Old Gods DLC, the Holy Fury DLC, or the Jade Dragon DLC!;;;;;;;;;;;;x
+NOT_ALLOWED_BON_MP;§Y$PLAYER$§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン教徒§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_PAGAN;DLC『The Old Gods』または『Holy Fury』のいずれかがなければ§Y原始宗教信者§!でのプレイはできません！;;;;;;;;;;;;x
-NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$§! not allowed to play §YPagan§! without The Old Gods DLC or the Holy Fury DLC;;;;;;;;;;;;x
+NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$は§!、DLC『The Old Gods』または『Holy Fury』のいずれかがなければ§Y原始宗教信者§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_ZOROASTRIAN;DLC『The Old Gods』がなければ§Yゾロアスター教徒§!でのプレイはできません！;;;;;;;;;;;;x
-NOT_ALLOWED_ZOROASTRIAN_MP;§Y$PLAYER$§! not allowed to play §YZoroastrian§! without The Old Gods DLC;;;;;;;;;;;;x
+NOT_ALLOWED_ZOROASTRIAN_MP;§Y$PLAYER$§!はDLC『The Old Gods』がなければ§Yゾロアスター教徒§!でのプレイはできません！;;;;;;;;;;;;x
 RD_BON_NOT_PLAYABLE;§Yボン教§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければプレイできません;;;;;;;;;;;;x
 RD_NOT_PLAYABLE_WITHOUT_PAGAN_DLC;原始宗教はDLC『The Old Gods』または『Holy Fury』のいずれかがなければプレイできません;;;;;;;;;;;;x
 RD_ZOROASTRIAN_NOT_PLAYABLE;ゾロアスター教はDLC『The Old Gods』がなければプレイできません;;;;;;;;;;;;x
