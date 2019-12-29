@@ -829,36 +829,36 @@ embrace_ashari;アシュアリー学派の受け入れ;;;;;;;;;;;;x
 embrace_ashari_desc;あなたはアシュアリー学派を受け入れる。イスラム神学の一派で、伝統、啓示、偶因論に重きを置く。これは信仰点を増やすが、対立するムタジル学派のメンバーが不満を示すだろう。;;;;;;;;;;;;x
 opinion_rejected_school;神学校は拒否された;;;;;;;;;;;;x
 EVTDESC_SoA_603;[From.GetTitledFirstName]はムタジル学派の信奉者であり、あなたが誓ったアシュアリー学派とは正反対の立場にいる。ことによると、一言[From.GetHerHim]に言うべきだろう。;;;;;;;;;;;;x
-EVTOPTA_SoA_603;Yes, I will enlighten [From.GetHerHim].;;;;;;;;;;;;x
-EVTOPTB_SoA_603;No, it is not my concern.;;;;;;;;;;;;x
+EVTOPTA_SoA_603;そうだ、[From.GetHerHim]を善導してやろう。;;;;;;;;;;;;x
+EVTOPTB_SoA_603;いや、私には関係ない。;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_604;You ask your vassal to switch theological school.;;;;;;;;;;;;x
 EVTDESC_SoA_604;あなたがあの異端のムタジル学派の信奉者だと知ったよ。彼らの教義と哲学はアッラーと預言者(彼に平安あれ)に対しての侮辱だ。アシュアリー学派の教義を受け入れることをあなたに強く勧める。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_SoA_604;うむ、おそらくそれが最善だろう...;;;;;;;;;;;;x
 EVTOPTB_SoA_604;ありえない！;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_605;アシュアリー学派の採用に同意したことを通告した。;;;;;;;;;;;;x
-EVTDESC_SoA_605;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれがベストだと思うのでしたら、ムタジル学派の教えを捨ててアシュアリー学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_605;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれが最良の教えだとお考えなのでしたら、私はムタジル学派の教えを捨ててアシュアリー学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_SoA_605;賢明な選択だ。;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_606;アシュアリー学派の採用を拒否したことを通告した。;;;;;;;;;;;;x
-EVTDESC_SoA_606;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。。それは私とアッラー、預言者(彼に平安あれ)の間のことなのです。アシュアリー学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
-EVTOPTA_SoA_606;That impudent...!;;;;;;;;;;;;x
+EVTDESC_SoA_606;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。それは私とアッラー、預言者(彼に平安あれ)の間のことなのです。アシュアリー学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_606;あの恥知らずめ…！;;;;;;;;;;;;x
 EVTDESC_SoA_611;[From.GetTitledFirstName]はアシュアリー学派の信奉者であり、あなたが誓ったムタジル学派とは正反対の立場にいる。ことによると、一言[From.GetHerHim]に言うべきだろう。;;;;;;;;;;;;x
-EVTOPTA_SoA_611;Yes, I will enlighten [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA_SoA_611;そうだ、[From.GetHerHim]を善導してやろう。;;;;;;;;;;;;x
 EVTOPTB_SoA_611;No, it is not my concern.;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_612;You ask your vassal to switch theological school.;;;;;;;;;;;;x
 EVTDESC_SoA_612;あなたがあの的はずれなアシュアリー学派の信奉者だと知ったよ。彼らの教義と哲学はアッラーと預言者(彼に平安あれ)に対しての侮辱だ。ムタジル学派の教義を受け入れることをあなたに強く勧める。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_SoA_612;うむ、おそらくそれが最善だろう...;;;;;;;;;;;;x
 EVTOPTB_SoA_612;ありえない！;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_613;ムタジル学派の採用に同意したことを通告した。;;;;;;;;;;;;x
-EVTDESC_SoA_613;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれがベストだと思うのでしたら、アシュアリー学派の教えを捨ててムタジル学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_SoA_613;我が主よ。いつもながらあなたの叡智は私を超越しています。もしそれが最良の教えだとお考えなのでしたら、アシュアリー学派の教えを捨ててムタジル学派の教えを受け入れましょう。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_SoA_613;賢明な選択だ。;;;;;;;;;;;;x
 EVTTOOLTIP_SoA_614;ムタジル学派の採用を拒否したことを通告した。;;;;;;;;;;;;x
-EVTDESC_SoA_614;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。。それは私とアッラー、預言者(彼に平安あれ)との間のことなのです。ムタジル学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
-EVTOPTA_SoA_614;That impudent...!;;;;;;;;;;;;x
+EVTDESC_SoA_614;あなたはこの定命の世界では我が主なんでしょう。だからといって、私がどのように精神生活を送るかを指図できるとは思いません。それは私とアッラー、預言者(彼に平安あれ)との間のことなのです。ムタジル学派という異端の道へ進む考えは一切ありません。\n\n署名\n[From.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_SoA_614;あの恥知らずめ…！;;;;;;;;;;;;x
 EVTDESC_SoA_620;あなたの冷笑的な本質が、現在のアシュアリー学派の基本教義に問いかけ始めた。対立するムタジル学派の教えに目を向けるほど、そちらのほうが有意義なものに思えてくる。;;;;;;;;;;;;x
 EVTOPTA_SoA_620;もしかして道を間違えたのか…;;;;;;;;;;;;x
 EVTOPTB_SoA_620;No! I must purge my mind of such heretical thoughts.;;;;;;;;;;;;x
 EVTDESC_SoA_621;あなたの熱狂的な本質が、現在のムタジル学派の基本教義に問いかけ始めた。対立するアシュアリー学派の教えに目を向けるほど、そちらのほうが有意義なものに思えてくる。;;;;;;;;;;;;x
-EVTOPTB_SoA_621;No! I must purge my mind of such misguided notions.;;;;;;;;;;;;x
+EVTOPTB_SoA_621;だめだ！そんな的外れな考えは頭から追っ払わなければ！;;;;;;;;;;;;x
 EVTDESC_TOG_1191;§Y[From.GetTitledName]§!は、§Y[FromFrom.GetName]§!の§Y[FromFrom.County.GetName]§!にて捕縛された後、群衆に殺害された。;;;;;;;;;;;;x
 ACHIEVEMENT_GAINED_SETUP;Achievement gained!;;;;;;;;;;;;x
 ACHIEVEMENT_GAINED_LOG;You unlocked $ACHIEVEMENT$!;;;;;;;;;;;;x
@@ -923,9 +923,9 @@ EVTTOOLTIPB_SOA_5218;[From.GetFirstName]はうんざりしている;;;;;;;;;;;;x
 EVTDESC_SoA_5240;今朝、目を覚ますと、両手と両足から血が流れていた。そして、わきから激しい痛みを感じる。 私の身に何が起きたのか？;;;;;;;;;;;;x
 EVTOPTA_SoA_5240;これは聖痕だ! 私は神に祝福されたのだ!;;;;;;;;;;;;x
 EVTOPTB_SoA_5240;不安だ。治療師に会いに行くべきだな。;;;;;;;;;;;;x
-EVTDESC_SoA_5241;Walking alone on the battlements late one night, you suddenly see a shining white shape appearing in the sky above you. It seems to be moving towards you, or maybe away. There's a strange sound in the air too, like a whispering... what is going on?;;;;;;;;;;;;x
-EVTOPTA_SoA_5241;The Virgin has appeared to me - I have been blessed!;;;;;;;;;;;;x
-EVTOPTB_SoA_5241;Strange how clouds and wind can play tricks on one's mind.;;;;;;;;;;;;x
+EVTDESC_SoA_5241;夜もふけたある日のこと。胸壁の上を独り歩いていると、頭上、空高くに白く輝く何かが突如として現れた。自分に向かってくるのか、去っていくのか。まるで囁きかけてくるような、そんな奇妙な音まで聞こえてくる…一体何が起きているのだ？;;;;;;;;;;;;x
+EVTOPTA_SoA_5241;処女マリアが我がために現れた―祝福を受けたのだ！;;;;;;;;;;;;x
+EVTOPTB_SoA_5241;雲や風が人の心にどのようにして悪戯を仕掛けるのだろう、不思議だ。;;;;;;;;;;;;x
 EVTDESC_SoA_5242;My belly is growing, and no one can doubt that I am with child. But my husband and I have not been intimate for a long time, how can I explain this?;;;;;;;;;;;;x
 EVTOPTA_SoA_5242;I have been blessed like the Virgin Mary!;;;;;;;;;;;;x
 EVTOPTB_SoA_5242;No miracle. But maybe my husband will believe that it is.;;;;;;;;;;;;x

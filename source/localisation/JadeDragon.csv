@@ -787,7 +787,7 @@ strengthened_religion;宗教的権威の強化;;;;;;;;;;;;x
 obj_strengthen_religion_title;[This.Religion.GetName]の権威強化;;;;;;;;;;;;x
 obj_strengthen_religion_desc;[This.GetTitledFirstName]は§Y[Root.Religion.GetName]§!の権威が強化されることを望んでいます。現在は§Y30%§!以下です。\n\nこの野心を有効にすると、[This.GetTitledFirstName]に特別な開戦事由を与えられる可能性があります。;;;;;;;;;;;;x
 tooltip_obj_strengthen_religion;野心を達成するには、以下の課題のうち§Y3§!つ完了する必要があります：\n §Y*§! 聖戦で勝利する\n §Y*§! 敵からの聖戦に対して防衛し、勝利する\n §Y*§! 教区を建設する\n §Y*§! 州を[This.Religion.GetName]に改宗する\n §Y*§! 特別な機会を成し遂げる\n同じ課題は複数回完了することができます。\n\n完了済みの課題：§G[This.strengthen_religion.GetValue]§!;;;;;;;;;;;;x
-strengthen_religion_ambition;Religious Champion;;;;;;;;;;;;x
+strengthen_religion_ambition;宗教の擁護者;;;;;;;;;;;;x
 CB_NAME_UNJUST_COUNTY_CONQUEST;[Title.GetBaseName]を巡る国境紛争;;;;;;;;;;;;x
 WAR_NAME_UNJUST_COUNTY_CONQUEST;$OTHER_TITLE$を巡る$ORDER$$FIRST_ADJ$対$SECOND_ADJ$国境紛争;;;;;;;;;;;;x
 unjust_conquest_desc;国境に接する州に異議を申し立てることができます。請求権で裏付けされていない征服を行うと、多大なペナルティを受けることに注意してください。貴方の宗教グループの誰かを攻撃した場合、最も高いペナルティを受けます。他の宗教グループを攻撃するときも依然として重大なペナルティを受けます。;;;;;;;;;;;;x
@@ -1238,7 +1238,7 @@ b_gamgadhi;Gamgadhi;;;;;;;;;;;;x
 b_martadi;Martadi;;;;;;;;;;;;x
 b_pokhara;Pokhara;;;;;;;;;;;;x
 b_marpha;Marpha;;;;;;;;;;;;x
-b_muktinath;Muktinath;;;;;;;;;;;;x
+b_muktinath;ムクチナト;;;;;;;;;;;;x
 b_prithbinarayan;Prithbinarayan;;;;;;;;;;;;x
 b_butwal;Butwal;;;;;;;;;;;;x
 b_chame;Chame;;;;;;;;;;;;x
@@ -3261,7 +3261,7 @@ b_bangdag;バンダグ;;;;;;;;;;;;x
 b_baoen;Bao'en;;;;;;;;;;;;x
 b_baoku;Baoku;;;;;;;;;;;;x
 b_baqen;Baqen;;;;;;;;;;;;x
-b_bari_sardo;Bari Sardo;;;;;;;;;;;;x
+b_bari_sardo;バリ・サルド;;;;;;;;;;;;x
 b_barkhor;バルコル;;;;;;;;;;;;x
 b_barma;Barma;;;;;;;;;;;;x
 b_bastelicaccia;Bastelicaccia;;;;;;;;;;;;x
@@ -3599,7 +3599,7 @@ b_tiebujia;Tiebujia;;;;;;;;;;;;x
 b_tingka;Tingka;;;;;;;;;;;;x
 b_tongpu;Tongpu;;;;;;;;;;;;x
 b_tongtian;トンティエン;;;;;;;;;;;;x
-b_tongtso;Tongtso;;;;;;;;;;;;x
+b_tongtso;トンツオ;;;;;;;;;;;;x
 b_tortoli;Tortoli;;;;;;;;;;;;x
 b_traoyang;Traoyang;;;;;;;;;;;;x
 b_trengsham;Trengsham;;;;;;;;;;;;x

@@ -1137,7 +1137,7 @@ String_mantras;マントラ;;;;;;;;;;;;x
 String_Gods_blessing_upon_thee;そなたの上に神の恵みがあらんことを;;;;;;;;;;;;x
 String_Peace_be_upon_you;あなたの上に平安を;;;;;;;;;;;;x
 String_Go_with_God;主と共に;;;;;;;;;;;;x
-String_Shubhaste_panthanah_santu;Shubhaste panthanah santu;;;;;;;;;;;;x
+String_Shubhaste_panthanah_santu;シュバーハステ・パンタン・サントゥ;;;;;;;;;;;;x
 String_the_Rule_of_Saint_Abraham;聖アブラハムの戒律;;;;;;;;;;;;x
 String_the_Rule_of_Saint_Anthony;聖アントニウスの戒律;;;;;;;;;;;;x
 String_Saint_Basil;聖バシレイオス;;;;;;;;;;;;x
@@ -2421,7 +2421,7 @@ EVTOPTC_MNM_4202;実のところ、似たようなことを研究しているの
 EVTOPTC_MNM_4202_TT;あなたは研究中の標本をいくつか§Y[From.GetTitledName]§!へ送ります。\n;;;;;;;;;;;;x
 EVTOPTD_MNM_4202;そんなこと、時間の無駄だ。;;;;;;;;;;;;x
 EVTDESC_MNM_4204;修道院の庭園に案内されると、私はすぐに[From.GetSisterBrother][From.GetFirstName]の作品がどれか分かった。そのバラたちは、赤と黄が絶妙に混じりあい、中央は夕焼け色だった。"美しい"  付き人はうなずくと、私に小ぶりな鋤を差し出した。"バラたちは少々窮屈そうです。手伝ってくれます?";;;;;;;;;;;;x
-EVTOPTA_MNM_4204;I would love to! There is something... grounding, to gardening.;;;;;;;;;;;;x
+EVTOPTA_MNM_4204;ぜひやらせてくれ！何かがあるんだ……土いじり、園芸には。;;;;;;;;;;;;x
 EVTOPTA_MNM_4204_TT;The [Root.GetSocietyRank] smiles.\n;;;;;;;;;;;;x
 EVTOPTB_MNM_4204;ああ、わかった。そうしよう。;;;;;;;;;;;;x
 EVTOPTB_MNM_4204_TT;あなたは、新たな知見に包まれた\n;;;;;;;;;;;;x

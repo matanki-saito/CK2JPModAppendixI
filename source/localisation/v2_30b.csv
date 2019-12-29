@@ -92,12 +92,12 @@ EVTDESC_WOL_592_B;私の[GetFromRelation]の[From.GetFirstName]は、ついに�
 EVTOPTA_WOL_592;やった、私も嬉しいぞ！;;;;;;;;;;;;x
 EVTDESC_WOL_593;私の恋の手管のおかげで、私の[GetFromRelation]である、愛する[From.GetFirstName]は私の恋人となった。彼女から冷たいよそよそしさがなくなったのは素晴らしいことだ！;;;;;;;;;;;;x
 EVTOPTA_WOL_593;やっと実ったな！;;;;;;;;;;;;x
-EVTDESC_WOL_594;Today, [From.GetFirstName], my [GetFromRelation], confessed that she has forgiven me for her abduction. She has grown to like her new life in [Root.Capital.Capital.GetName]... and me.;;;;;;;;;;;;x
-EVTOPTA_WOL_594;I am relieved!;;;;;;;;;;;;x
-EVTDESC_WOL_595;My [GetFromRelation] [From.GetFirstName] is not warming up to me at all. She laughs at my jokes, true, but not because she finds them funny, but with scorn. She told me outright that she despises me!;;;;;;;;;;;;x
-EVTOPTA_WOL_595;I'll just have to keep at it!;;;;;;;;;;;;x
-EVTOPTB_WOL_595;I give up. Perhaps I should put her aside...;;;;;;;;;;;;x
-EVTDESC_WOL_1150;複数の愛人達との関係は、興奮と充実を与えてくれる。多くの情愛、多くの情欲...、しかし時間だけが少ない！ろうそくの両端に火がついているかのようだ。;;;;;;;;;;;;x
+EVTDESC_WOL_594;今日、私の[GetFromRelation]である[From.GetFirstName]が自分を誘拐したことを許すと言ってくれた。彼女は[Root.Capital.Capital.GetName]での暮らしが…ついでに私との暮らしがだんだん気に入ってきたというのだ。;;;;;;;;;;;;x
+EVTOPTA_WOL_594;安心した！;;;;;;;;;;;;x
+EVTDESC_WOL_595;私の[GetFromRelation]である[From.GetFirstName]は、私にまったく気を許そうとしない。なるほど、私が冗談を言うと笑ってくれるのだが、それは面白いからではなく私を軽蔑してのことだ。彼女ははっきりと私を軽蔑しているとさえ言ったのだ！;;;;;;;;;;;;x
+EVTOPTA_WOL_595;ここは我慢するところだ！;;;;;;;;;;;;x
+EVTOPTB_WOL_595;諦めよう。きっと彼女を忘れるべきなのだ。;;;;;;;;;;;;x
+EVTDESC_WOL_1150;複数の愛人達との関係は、興奮と充実を与えてくれる。多くの情愛、多くの情欲...、しかし時間だけが足りない！ろうそくの両端に火がついているかのようだ。;;;;;;;;;;;;x
 EVTOPTA_WOL_1150;私なら耐えられる！;;;;;;;;;;;;x
 EVTOPTB_WOL_1150;[first_lover.GetTitledFirstNameNoRegnal]と別れる;;;;;;;;;;;;x
 EVTOPTC_WOL_1150;[second_lover.GetTitledFirstNameNoRegnal]と別れる;;;;;;;;;;;;x
@@ -110,7 +110,7 @@ EVTDESC_WOL_1161;引き裂かれた枕、壊れた家具、粉々の花瓶... �
 EVTOPTA_WOL_1161;それは素晴らしいアイデアだ！;;;;;;;;;;;;x
 EVTOPTB_WOL_1161;いや…[Root.Spouse.GetFirstName]のすぐ近くで共に過ごそうでないか！;;;;;;;;;;;;x
 EVTOPTC_WOL_1161;できればそうしたい...しかし危険は冒したくない。;;;;;;;;;;;;x
-EVTOPTD_WOL_1161;We can't! The Watcher... he sees all!;;;;;;;;;;;;x
+EVTOPTD_WOL_1161;できない！監視の者がついていて…奴には全て筒抜けだ！;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1162;[Root.Spouse.GetFirstName]に見つかる恐れがある;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1163;そこでは[Root.Spouse.GetFirstName]に見つかる恐れは殆どない;;;;;;;;;;;;x
 EVTDESC_WOL_1162;[From.GetFirstName] convinced me to stay in [From.Capital.Capital.GetName] so that we could be together right under [From.Spouse.GetTitledFirstNameNoRegnal]'s nose. We even made love in [From.Spouse.GetPossPronoun] bed!;;;;;;;;;;;;x
@@ -126,7 +126,7 @@ EVTDESC_WOL_2002;Life in the shadows is a risky affair - eavesdroppers can be di
 EVTDESC_WOL_2003;最強の軍隊でもたった一人の[Root.GetManWoman]に敗れうる。首を切り落とし敵を打ち倒す。我こそが影の王[Root.GetFirstName]だ！;;;;;;;;;;;;x
 EVTOPTA_WOL_2003;影の支配者となろう。;;;;;;;;;;;;x
 EVTOPTB_WOL_2003;敵の心に恐怖を植え付けるのだ！;;;;;;;;;;;;x
-EVTOPTC_WOL_2003;いやしかし、影に私を定義させはしない。;;;;;;;;;;;;x
+EVTOPTC_WOL_2003;いやしかし、私は影の者になりきるつもりはない。;;;;;;;;;;;;x
 EVTDESC_WOL_2050;忍び足と詮索には自信があるので、[From.GetTitledName]の活動に目を光らせている―実際に自分の目は光っていると言ってもいいほどだ;;;;;;;;;;;;x
 EVTOPTA_WOL_2050;[From.GetSubjectPronoun]はどんな秘密を隠しているんだろうか？;;;;;;;;;;;;x
 EVTDESC_WOL_2061;[FromFromFrom.GetTitledFirstName]をこれ以上監視してもしかたない。[FromFromFrom.GetSubjectPronoun]は死んだのだから！;;;;;;;;;;;;x
@@ -197,7 +197,7 @@ EVTDESC_WOL_2111_DEATH;ベッドから身を起こそうとしたが、誰かに
 EVTDESC_WOL_2111_WOUNDED;ベッドから身を起こそうとしたが、誰かに抑え込まれている！先週衛兵に昇格させた信頼できる顔つきのたくましい兵士じゃないか。奴の仲間らしき痩せっぽちがもう一人、ニヤリと悪そうな笑顔を浮かべると、短剣を取り出し、私を刺してきた！叫び、もがいて、なんとか衛兵のタマを蹴り上げ自由になった私は、もう一人の鼻っ柱を殴りつけ、血を流しながらも部屋から一目散に逃げ出した。;;;;;;;;;;;;x
 EVTDESC_WOL_2111_LIVES;ベッドから身を起こそうとしたが、誰かに抑え込まれている！先週衛兵に昇格させた信頼できる顔つきのたくましい兵士じゃないか。奴の仲間らしき痩せっぽちがもう一人、ニヤリと悪そうな笑顔を浮かべて短剣を取り出した。叫び声を上げてのたうち回り、なんとか衛兵のタマを蹴り上げ自由になった私は、もう一人の鼻っ柱に殴打を叩き込み、一目散に部屋から逃げ出した。;;;;;;;;;;;;x
 EVTOPT_WOL_2111_DEATH;こんな死に方は嫌だ！;;;;;;;;;;;;x
-EVTOPT_WOL_2111_DEATH_KNOWN;[From.GetTitledName] sends [From.GetPossPronoun] regards!';;;;;;;;;;;;x
+EVTOPT_WOL_2111_DEATH_KNOWN;[From.GetTitledName]がよろしくと言っていたと伝えておけ！;;;;;;;;;;;;x
 EVTOPT_WOL_2111_UNKNOWN;残念ながら、犯人2人は逃げおおせた。;;;;;;;;;;;;x
 EVTOPT_WOL_2111_KNOWN;拷問を受けて、犯人2人は遂に[From.GetTitledName]に雇われてやったと認めた。;;;;;;;;;;;;x
 EVTDESC_WOL_2112;変装しておんぼろの居酒屋に向かった私は、そこで我が友[From.GetTitledFirstNameNoRegnal]の頑丈そうな兵士と、ずる賢そうな見た目の彼の相棒と落ち合った。ニヤリと笑顔を浮かべながら奴はどのように[From.GetTitledName]の寝込みを遅い、[From.GetPossPronoun]を刺殺したのかを事細かに物語った。私は奴らに貨幣一袋を渡すとその居酒屋を立ち去った。;;;;;;;;;;;;x
@@ -215,7 +215,7 @@ EVTOPTA_WOL_2120;ああ、すばらしい。まさに我が目的にぴったり
 EVTOPTB_WOL_2120;いいや、そんなことをしていい道理はない。;;;;;;;;;;;;x
 EVTTOOLTIP_WOL_2121;悪党を雇い、[FromFromFrom.GetTitledFirstNameNoRegnal]を生きたまま捕らえるよう命じます。;;;;;;;;;;;;x
 EVTDESC_WOL_2121;戯れに友人1人と下僕1人、護衛1人のみを伴って平民達に混じってのお忍び旅行をすることにした。馬に乗って森の中を進んでいると、突然信任著しい護衛の首に矢が突き刺さった！警戒を叫びながら、狂ったように馬を駆って逃げた…;;;;;;;;;;;;x
-EVTOPT_WOL_2121_CAUGHT;……だが囲まれてしまった！山賊ではない、[From.GetTitledName]の工作員だ！;;;;;;;;;;;;x
+EVTOPT_WOL_2121_CAUGHT;……だが囲まれてしまった！山賊ではない、[From.GetTitledName]の手の者だ！;;;;;;;;;;;;x
 EVTOPT_WOL_2121;……そしてなんとか山賊共を撒いてやった！素人風情が。;;;;;;;;;;;;x
 EVTDESC_WOL_2122;雇った悪党共は[From.GetTitledFirstNameNoRegnal]の待ち伏せになんとか成功し、[From.GetObjectPronoun]を生きたまま袋に詰めて連れてきた！;;;;;;;;;;;;x
 EVTDESC_WOL_2123;雇った悪党共は[From.GetTitledFirstNameNoRegnal]の生け捕りに失敗したが、護衛と下僕は殺害できたようだ。;;;;;;;;;;;;x

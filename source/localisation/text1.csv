@@ -2688,7 +2688,7 @@ EVTDESC38102;私の[GetFromRelation]は、存在についての疑問にすべ�
 EVTOPTA38102;[From.Religion.GetName]の信仰が、心の平和を与えてくれる;;;;;;;;;;;;x
 EVTDESC38110;自分の話し方や行動が、ますます自分の後見人に似てきたと感じる。;;;;;;;;;;;;x
 EVTOPTA38110;文化を身につけるとはこういうことなのだろう。;;;;;;;;;;;;x
-EVTDESC38111;我が若き[GetFromRelation]の教育は成功した。[From.GetFirstName]は正しき[Root.Culture.GetName]となりつつある;;;;;;;;;;;;x
+EVTDESC38111;我が若き[GetFromRelation]の教育は成功した。[From.GetFirstName]は正しき[Root.Culture.GetName]人となりつつある;;;;;;;;;;;;x
 EVTOPTA38111;聡明な子だ！;;;;;;;;;;;;x
 EVTDESC39001;[Root.Religion.GetName]の異端の教えが[Root.GetName]に広がっている！;;;;;;;;;;;;x
 EVTOPTA39001;この害毒を根絶やしにしろ！;;;;;;;;;;;;x

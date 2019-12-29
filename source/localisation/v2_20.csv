@@ -560,7 +560,7 @@ CHRONICLE_AZTEC_INVASION;恐るべき災厄が[FromFromFrom.Holder.PrimaryTitle.
 CHRONICLE_CREATED_TITLE;[Root.GetDynName]は[From.GetFullName]を創設し、壮大な式典と祝賀会を以て自らの力が強大なるを示した。;;;;;;;;;;;;x
 CHRONICLE_USURPED_TITLE;[Root.GetDynName]は[FromFrom.GetDynName]より[From.GetFullName]号を簒奪した。;;;;;;;;;;;;x
 CHRONICLE_RUNESTONE_FATHER;[Root.GetTitledName]は父[Root.Father.GetTitledFirstNameWithNick]を讃えるルーン石碑を建立した。;;;;;;;;;;;;x
-CHRONICLE_RUNESTONE_MOTHER;[Root.GetTitledName]は母[Root.Mother.GetTitledFirstNameWithNick]を讃えるルーン石碑を建立した。。;;;;;;;;;;;;x
+CHRONICLE_RUNESTONE_MOTHER;[Root.GetTitledName]は母[Root.Mother.GetTitledFirstNameWithNick]を讃えるルーン石碑を建立した。;;;;;;;;;;;;x
 CHRONICLE_RUNESTONE_GENERIC;[Root.GetTitledName]は自身の功績を偲ぶルーン石碑を建立した。;;;;;;;;;;;;x
 CHRONICLE_RUNESTONE_LUNATIC;[Root.GetTitledNameWithNick]は自らの並外れた略奪の戦果を偲ぶルーン石碑を建立した。;;;;;;;;;;;;x
 CHRONICLE_RUNESTONE_DRUNKARD;[Root.GetTitledName]は自らの蜂蜜酒への愛を刻んだルーン石碑を建立した。;;;;;;;;;;;;x

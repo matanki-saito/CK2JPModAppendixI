@@ -4958,7 +4958,7 @@ PROV1610;アオスタ;;;;;;;;;;;;x
 PROV1611;ヴォー;;;;;;;;;;;;x
 PROV1612;ベッリンツォーナ;;;;;;;;;;;;x
 PROV1613;ボルツァーノ;;;;;;;;;;;;x
-PROV1614;Escuens;;;;;;;;;;;;x
+PROV1614;エスクエンツ;;;;;;;;;;;;x
 PROV1615;アムー;;;;;;;;;;;;x
 PROV1620;ロメリケ;;;;;;;;;;;;x
 PROV1621;グドブランスダール;;;;;;;;;;;;x
@@ -5760,7 +5760,7 @@ genghis_khan_desc;The founder of the Mongol Empire, proclaimed 'Genghis Khan' (U
 el_cid_desc;A military leader and hero of great renown. The Moors dubbed him 'El Cid' ('the Lord'), while the Christians called him 'El Campeador' ('Outstanding Warrior').;;;;;;;;;;;;x
 timur_desc;In his native tongue, Timur means 'Iron'. Despite being crippled by two arrows, he was both a military genius and a statesman capable of instilling great loyalty.;;;;;;;;;;;;x
 ghaznavid_desc;The founder of the Gahznavid dynasty. In his youth he lived as a slave, but in later life came to rule a mighty kingdom which expanded far towards India.;;;;;;;;;;;;x
-pala_desc;The founder of the Pala dynasty, said to be descended from the mythical Suryavansha (Sun Dynasty). He came to rule a massive kingdom, encompassing all of Bengal.;;;;;;;;;;;;x
+pala_desc;パーラ朝の創始者は神話上のスーリヤヴァンシャ(日種)の子孫であると言われている。彼はベンガル全土に広がる巨大な王国を支配するに至った。;;;;;;;;;;;;x
 chola_desc;One of the greatest rulers India has ever seen. His conquests included the Andamans, Sri Lanka, the Maldives and even territories in Burma, Thailand and Indonesia.;;;;;;;;;;;;x
 saladin_desc;エジプトとシリアの最初のスルタン。レヴァントの十字軍国家に対するムスリムの軍事作戦を成功に導いた。;;;;;;;;;;;;x
 rurik_desc;リューリク朝の創始者。全ロシアを支配したヴァリャーグの首長であり、もっとも有名な例に挙げられるノヴゴロドなど多くの都市を建設した。;;;;;;;;;;;;x
@@ -6212,17 +6212,17 @@ available_due_to_warrior_lodge;あなたは§Y[Root.Society.GetName]§!の会員
 EVTOPTF_HFP_11019;今後一切、誰かと親しくなったりはすまい。;;;;;;;;;;;;x
 EVTOPTA_MNM_1214_other;Oh, my darling... Even knowing the future, I could not prevent it.;;;;;;;;;;;;x
 EVTOPTB_MNM_1214_other;Oh, my darling... I must strive to understand the visions better.;;;;;;;;;;;;x
-EVTDESC_HFP_11025_dog;[Root.GetClumsilyElegantly]に前方へ剣を振っているとき、信頼している犬が敵の足をかじり、戦いは[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで激化した。そのとき近くの兵士が叫んだ「矢が来ます！[Root.GetLordLady]よ、気を付けてください！待てよ、なんだあの犬はー」*ビシッ*;;;;;;;;;;;;x
+EVTDESC_HFP_11025_dog;[Root.GetClumsilyElegantly]に前方へ剣を振っているとき、信頼している私の犬は敵の足にかじりつき、戦いは[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで激化していた。そのとき近くの兵士が叫んだ「矢が来ます！[Root.GetLordLady]、気を付けてください！待てよ、なんだあの犬はー」*ビシッ*;;;;;;;;;;;;x
 EVTDESC_HFP_11025_cat;My cat has become a true treasure here [battlefield_location.GetInOn] the [battlefield_location.GetTerrain], acting as an anchoring kindness to any injured soldier. Of course, I was annoyed when I first found that it had gone to sleep in one of my saddle bags and followed me into battle, but now I am really coming around to- *thwack*;;;;;;;;;;;;x
 EVTDESC_HFP_11025_horse;私と愛馬はまさに人馬一体だ。長い間ともに訓練し、敵は我々を恐れるようになった。「見ろ、[Root.GetTitledFirstName]と[Root.GetWarhorseName]だ！」奴らは口々に言いあった。私が眠るとき、[Root.GetWarhorseName]も眠る。だから刃が[Root.GetHerHim]を切り裂いたとき、私も血を流したように感じた...;;;;;;;;;;;;x
 EVTDESC_HFP_11025_owl;遠征にフクロウを連れてくることについてひと悶着あったものの、我々の戦略会議には癒やしをもたらし、敵には気が散るキンキン声を与えたことで抗議の声は止んだ。「攻撃だ！」私は[battlefield_location.GetTerrain]中に届く怒鳴り声をあげ、そしてフクロウはシューっと私の頭上に飛び立った。そのとき、いくつもの矢が目に映った。;;;;;;;;;;;;x
 EVTDESC_HFP_11025_eagle;誰しもが勇壮なワシの姿をした衛兵を側に従えられるとは限らない。[Root.GetSheHe]はこの[battlefield_location.GetTerrain]において、一度ならず私の攻撃に加勢してくれた。敵のところへ飛んでゆき、馬上から[battlefield_location.GetGroundDesc]の上にたたき落としたのだ。頭上で甲高く鳴く声も耳に心地よい。ただ心配があるとすれば――;;;;;;;;;;;;x
 EVTDESC_HFP_11025_falcons;[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで馬に乗り、力がどんどん抜けていくのを感じた。汗が土や血と混じり顔にまみれるなか、敵が矢を構え、私に狙いを定めているのを見た。だがその時、ふと目に入った鳥が急降下し、その騎手の顔をつつき出した！;;;;;;;;;;;;x
 EVTDESC_HFP_11025_fallback;馬で[battlefield_location.GetTerrain]を駆けていると、[enemy_commander.GetEnemySoldierDesc]兵士たちが武器を掲げて我が軍に近づいて来るのが見えた。\n全てが終わると、部下たちは皆死んでいた。膝を[battlefield_location.GetGroundDesc]に沈め、なぜまだ自分がここにいるのか不思議に思った。;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_dog;Noooo! My dog! You were too good for this world...!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_dog;Your dog takes an arrow for you.\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_cat;Was that an arrow?! KITTEN, NO!!!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_cat;Your cat is added to the list of casualties.\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_dog;ああああ！私の犬が！　お前は賢くていい子だったのに…！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_dog;あなたの犬はあなたをかばって矢に射貫かれた。\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_cat;なこの矢はんだ！？　私の猫が！嘘だ！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_cat;あなたの猫が戦死者のリストに加えられた。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_horse;[Root.GetWarhorseName], no! Your sacrifice will not be forgotten...!;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_horse;Your horse dies in battle.\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_owl;Nooo! My trusted companion!;;;;;;;;;;;;x
@@ -7022,7 +7022,7 @@ EVTOPTA_HF_42008;I feel like I have learned a little bit from the change.;;;;;;;
 EVTDESC_HF_42009;[sway_target.GetTitledFirstName] not only did not accept my help, but [sway_target.GetSheHe] was furious that I dared presume [sway_target.GetSheHe] needed any kind of aid in the first place. ;;;;;;;;;;;;x
 EVTOPTA_HF_42009;恩知らずな。;;;;;;;;;;;;x
 EVTDESC_HF_42020;[sway_target.GetTitledFirstName]を行事に一緒に参加しようと招待することで、我々がより親しくなるのに役立つと思うが、どんな種類の行事を提案すべきかが全くわからない。;;;;;;;;;;;;x
-EVTOPTA_HF_42020_HUNT;A hunt will be perfect.;;;;;;;;;;;;x
+EVTOPTA_HF_42020_HUNT;狩りに誘うというのが完璧だ。;;;;;;;;;;;;x
 EVTOPTA_HF_42020_DUELIST;The upcoming local fencing tournament might intrigue [sway_target.GetHerHim]?;;;;;;;;;;;;x
 EVTOPTA_HF_42020_GAME;ボードゲームはどうだ？;;;;;;;;;;;;x
 EVTOPTA_HF_42020_SOCIAL;I shall invite [sway_target.GetHerHim] to a banquet!;;;;;;;;;;;;x
@@ -7038,17 +7038,17 @@ EVTOPTA_HF_42020_TT_SCHOLAR;Invite §Y[sway_target.GetTitledFirstName]§! to a d
 EVTOPTA_HF_42020_TT_STEWARD;Invite §Y[sway_target.GetTitledFirstName]§! to a local festival, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YStewardship§! based activity.;;;;;;;;;;;;x
 EVTOPTA_HF_42020_TT_TORTURE;Invite §Y[sway_target.GetTitledFirstName]§! to help you torment some of your prisoners, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YIntrigue§! based activity.;;;;;;;;;;;;x
 EVTOPTB_HF_42020_TT;Refrain from asking [sway_target.GetTitledFirstName] to join you.;;;;;;;;;;;;x
-EVTDESC_HF_42021_HUNT;[From.GetTitledFirstName] has sent me an invitation to join [From.GetHerHim] on a hunt. This could be an opportunity to get to know [From.GetHerHim] better.;;;;;;;;;;;;x
-EVTDESC_HF_42021_DUEL;[From.GetTitledFirstName] has sent me an invitation to join [From.GetHerHim] in a dueling tournament, where [From.GetSheHe] need a partner. This could be an opportunity to get to know [From.GetHerHim] better.;;;;;;;;;;;;x
-EVTDESC_HF_42021_GAME;[From.GetTitledFirstName] has sent me an invitation to join [From.GetHerHim] for a board game evening. This could be a good opportunity to get to know [From.GetHerHim] better.;;;;;;;;;;;;x
+EVTDESC_HF_42021_HUNT;[From.GetTitledFirstName]が一緒に狩りに行かないかと誘ってきた。これは[From.GetHerHim]のことをもっとよく知る良い機会となるかもしれない。;;;;;;;;;;;;x
+EVTDESC_HF_42021_DUEL;[From.GetTitledFirstName]が武芸大会に参加しないかと誘ってきた。[From.GetSheHe]はその大会で一緒に組む相手が必要なのだという。これは[From.GetHerHim]のことをもっと知るのによい機会となるかもしれない。;;;;;;;;;;;;x
+EVTDESC_HF_42021_GAME;[From.GetTitledFirstName]が、一緒にボードゲームのイベントに参加しないかと誘ってきた。これは[From.GetHerHim]のことをもっとよく知る良い機会となるかもしれない。;;;;;;;;;;;;x
 EVTDESC_HF_42021_SOCIAL;[From.GetTitledFirstName] has sent me an invitation for an upcoming banquet. This is probably a good opportunity to get to know each other better.;;;;;;;;;;;;x
 EVTDESC_HF_42021_SCHOLAR;[From.GetTitledFirstName] has sent me an invitation to an upcoming discussion. I might learn something about both the discussed subject and get to know [From.GetFirstName].;;;;;;;;;;;;x
 EVTDESC_HF_42021_STEWARD;[From.GetTitledFirstName] has sent me an invitation to a local festival at [From.Capital.GetName]. It would be a good opportunity to get to know [From.GetHerHim] better.;;;;;;;;;;;;x
 EVTDESC_HF_42021_TORTURE;[From.GetTitledFirstName] has sent me an invitation to what I assume is torture of [From.GetHerHis] prisoners. This could be a chance to get to know each other.;;;;;;;;;;;;x
 EVTOPTA_HF_42021;面白くなりそうだ。;;;;;;;;;;;;x
 EVTOPTB_HF_42021;I have more important business to take care of.;;;;;;;;;;;;x
-EVTDESC_HF_42022_HUNT;[sway_target.GetTitledFirstName] thanked me for the invitation to join a hunt, but [sway_target.GetSheHe] does not have the time to join at the moment.;;;;;;;;;;;;x
-EVTDESC_HF_42022_DUEL;[sway_target.GetTitledFirstName] thanked me for the invitation to join the tournament, but [sway_target.GetSheHe] does not have the time to spare at the moment.;;;;;;;;;;;;x
+EVTDESC_HF_42022_HUNT;[sway_target.GetTitledFirstName]は私が狩りに誘ったことに感謝の意を伝えてくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ。;;;;;;;;;;;;x
+EVTDESC_HF_42022_DUEL;[sway_target.GetTitledFirstName]は、私が武芸大会に誘ったことに感謝の意を伝えてくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_GAME;[sway_target.GetTitledFirstName] thanked me for the invitation to the board game evening, but [sway_target.GetSheHe] does not have the time to spare at the moment.;;;;;;;;;;;;x
 EVTDESC_HF_42022_SOCIAL;[sway_target.GetTitledFirstName] thanked me for the invitation to the banquet, but [sway_target.GetSheHe] does not have the time for something frivolous like that at the moment.;;;;;;;;;;;;x
 EVTDESC_HF_42022_SCHOLAR;[sway_target.GetTitledFirstName] thanked me for the invitation to the discussion, but [sway_target.GetSheHe] does not have the time to join.;;;;;;;;;;;;x
@@ -8265,7 +8265,7 @@ EVTOPTBHF25000;ようこそ、仲間の戦士よ！;;;;;;;;;;;;x
 warrior_lodge_summon_commander;団員指揮官の招集;;;;;;;;;;;;x
 warrior_lodge_suomenusko_summon_warriors;ウッコの戦士の招集;;;;;;;;;;;;x
 warrior_lodge_suomenusko_summon_warriors_desc;Request help from your fellow [finnish_pagan_reformed.GetName] warriors against your enemies.;;;;;;;;;;;;x
-warrior_lodge_suomenusko_summon_warriors_power_desc;Enables a decision in the §YIntrigue§! menu for §Y[finnish_pagan_reformed.GetName]§! rulers to request troops in war becomes available.;;;;;;;;;;;;x
+warrior_lodge_suomenusko_summon_warriors_power_desc;§Y策略§!メニューで、§Y[finnish_pagan_reformed.GetName]§!統治者は戦争中に部隊を要求する決断が可能になります。;;;;;;;;;;;;x
 tooltip_summoning_lodge_commander;A skilled §YCommander§! from [Root.Society.GetName] will arrive at your court.;;;;;;;;;;;;x
 tooltip_summon_warriors_ukko;A band of warriors will arrive at your capital.;;;;;;;;;;;;x
 tooltip_has_not_already_summoned_ukko_warriors;Has NOT already requested help from §Y[Root.Society.GetName]§! for the current campaign;;;;;;;;;;;;x
@@ -8278,7 +8278,7 @@ lodge_call_of_the_steppe_boost;ステップの呼び声;;;;;;;;;;;;x
 lodge_call_of_the_steppe_boost_desc;There are still semi-nomadic bands of warriors wandering in the wilderness of [Root.Capital.GetName], and their liege has decided to summon them to war.;;;;;;;;;;;;x
 warrior_lodge_tengri_call_of_the_steppe;ステップの呼び声;;;;;;;;;;;;x
 warrior_lodge_tengri_call_of_the_steppe_desc;Use your influence with [Root.Society.GetName] to gather any faithful fighters wandering in your realm.;;;;;;;;;;;;x
-warrior_lodge_tengri_call_of_the_steppe_power_desc;Enables a decision in the §YIntrigue§! menu for §Y[tengri_pagan_reformed.GetName]§! rulers to speed recruitment across the realm.;;;;;;;;;;;;x
+warrior_lodge_tengri_call_of_the_steppe_power_desc;§Y策略§!メニューで、§Y[tengri_pagan_reformed.GetName]§!統治者は領内の徴集を加速させる決断が可能になります。;;;;;;;;;;;;x
 tooltip_call_of_the_steppe_nomad;You will receive a boost in §YPopulation§! and §YManpower§!;;;;;;;;;;;;x
 tooltip_call_of_the_steppe_feudal;You will receive a boost in §YLevy Reinforcement§! rate;;;;;;;;;;;;x
 EVTDESCHF25004;[Root.Society.GetName]が私の部隊を率いてくれたおかげで大勢の新兵が[Root.Capital.GetName]に集まり、羊飼いから戦士になった。彼らは私のために戦い、不滅の栄光を勝ち取っている。;;;;;;;;;;;;x
@@ -8303,7 +8303,7 @@ lodge_zun_battle_trance_3;Battle Trance: Inspiring;;;;;;;;;;;;x
 lodge_zun_battle_trance_3_desc;This character has made use of the ancient mystical knowledge of the Sun-worshipers to temporarily increase [Root.GetHerHis] military prowess.;;;;;;;;;;;;x
 warrior_lodge_slavic_stand_together;Stand Together;;;;;;;;;;;;x
 warrior_lodge_slavic_stand_together_desc;Ask for help from [Root.Society.GetName], hoping one of their warriors will assemble a band of mercenaries to aid you in your war.;;;;;;;;;;;;x
-warrior_lodge_slavic_stand_together_power_desc;Enables a decision in the §YIntrigue§! menu for §Y[slavic_pagan_reformed.GetName]§! rulers to request help from the Warrior Lodge when waging a war.;;;;;;;;;;;;x
+warrior_lodge_slavic_stand_together_power_desc;§Y策略§!メニューで、§Y[slavic_pagan_reformed.GetName]§!統治者は戦争を遂行している時に戦士兵舎から援軍を要求する決断が可能になります。;;;;;;;;;;;;x
 tooltip_has_not_already_stood_together_slavic;Has NOT already requested help from §Y[Root.Society.GetName]§!;;;;;;;;;;;;x
 tooltip_stand_together_candidate_exists;A member of the Lodge is willing to assist you;;;;;;;;;;;;x
 tooltip_slavic_stand_together;A member of §Y[Root.Society.GetName]§! will assemble an §YArmy§! at your capital.;;;;;;;;;;;;x
@@ -8443,9 +8443,9 @@ EVTOPTEHF25021;あまり良い考えとは思えなかった...;;;;;;;;;;;;x
 opinion_savage_butcher;Savage Butcher;;;;;;;;;;;;x
 tooltip_EVTOPTBHF25021;あなたの行動に対する§Y臣民§!の反応は、芳しくないでしょう。;;;;;;;;;;;;x
 tooltip_religion_feature_impotent;§Rこの宗教は宣教活動に反対します§!;;;;;;;;;;;;x
-warrior_lodge_west_african_create_fetish;Create Fetish;;;;;;;;;;;;x
+warrior_lodge_west_african_create_fetish;呪物を作成;;;;;;;;;;;;x
 warrior_lodge_west_african_create_fetish_desc;Enlist the help of the Lodge's shamans to imbue a precious artifact with a warrior spirit that will increase your prowess on the field of battle.;;;;;;;;;;;;x
-warrior_lodge_west_african_create_fetish_power_desc;Enables a decision in the §YIntrigue§! menu for §Y[west_african_pagan_reformed.GetName]§! rulers to create special masks and idols that increase their prowess in battle.;;;;;;;;;;;;x
+warrior_lodge_west_african_create_fetish_power_desc;§Y策略§!メニューで、§Y[west_african_pagan_reformed.GetName]§!統治者は戦闘の腕を向上させる特別な仮面や偶像を作成する決断が可能になります。。;;;;;;;;;;;;x
 tooltip_west_african_create_fetish_cooldown;Is NOT already supervising the creation of a fetish;;;;;;;;;;;;x
 tooltip_has_african_mask_duplicate;Does NOT already own a Mask and an Idol;;;;;;;;;;;;x
 tooltip_west_african_create_fetish;Begin crafting a new §YArtifact§!.;;;;;;;;;;;;x
@@ -8711,20 +8711,20 @@ sword_from_heaven;天剣;;;;;;;;;;;;x
 sword_from_heaven_desc;空から落ちてきた金属で造られた剣。神からの贈り物だと言う者もいます。;;;;;;;;;;;;x
 EVTDESC_HFP_30102;私の庭に空から来た巨大な石が姿を現してから数週間が経ち、あの金属を使って造るよう命じていた武器が仕上がった。この剣はなんとも不思議なものに思える。はるか遠くの天上より来たものが、今やこの私の手中にあるのだ！;;;;;;;;;;;;x
 EVTOPTA_HFP_30102;これは本当に素晴らしい武器だ。;;;;;;;;;;;;x
-c_nordlendingafjordungur;Norðland;;;;;;;;;;;;x
-c_sunnlendingafjordungur;Suðurland;;;;;;;;;;;;x
-PROV1616;Norðland;;;;;;;;;;;;x
-PROV1617;Suðurland;;;;;;;;;;;;x
+c_nordlendingafjordungur;ヌールラン;;;;;;;;;;;;x
+c_sunnlendingafjordungur;スーザラン;;;;;;;;;;;;x
+PROV1616;ヌールラン;;;;;;;;;;;;x
+PROV1617;スーザラン;;;;;;;;;;;;x
 PROV1618;アイスランド北部沿岸;;;;;;;;;;;;x
 PROV982;アイスランド南部沿岸;;;;;;;;;;;;x
 incredibly_poor;信じられないほど貧しい;;;;;;;;;;;;x
-incredibly_poor_desc;These barren wastes are very sparsely populated.;;;;;;;;;;;;x
+incredibly_poor_desc;この不毛の荒野には人はまばらにしか住んでいない。;;;;;;;;;;;;x
 nick_the_explorer;探検家;;;;;;;;;;;;x
 viking_age_tt;バイキングの時代が始まった;;;;;;;;;;;;x
 settle_iceland_tt;適切な[Root.Culture.GetName]の多くの氏族たちをアイルランドに入植させる;;;;;;;;;;;;x
 settle_iceland;アイスランドへの入植;;;;;;;;;;;;x
 settle_iceland_desc;[Root.Culture.GetName]の探検隊は海を渡り、新しい島を発見してそれを「アイスランド」と名付けた。その名に反して、この島は定住するのにもってこいのようだ。私ははるばる海を渡って入植者を送り込むための船を用意するべきだろう。他の[Root.Religion.GetName]教徒の[Root.GetTitle]が同じことを考える前にだ！;;;;;;;;;;;;x
-EVTNAME_TOG_404;アイスランドに入植した;;;;;;;;;;;;x
+EVTNAME_TOG_404;アイスランドに入植;;;;;;;;;;;;x
 EVTDESC_TOG_404;アイスランドはその不吉な名前にも関わらず、非常に肥沃なところであるとわかった。今この時までこの島にはわずかな隠者が住んでいただけでであったが、もはやそうではない。その沿岸では[settler_of_iceland_target.GetFullName]の後押しで用意された船と建築資材とともに、多くの[settler_of_iceland_target.Culture.GetName]の入植者が新たな生活を求めて群れをなしている。[left_iceland_target.GetFullName]と[left_iceland_target.GetHerHis]に従う者たちは嫌気がさして島を去り、そのかつての故郷を目指して南へと向かった。;;;;;;;;;;;;x
 EVTOPTA_TOG_404;素晴らしい旅だな！;;;;;;;;;;;;x
 b_nattfaravik;Náttfaravik;;;;;;;;;;;;x
@@ -8752,11 +8752,11 @@ d_oppland_adj;オップラン;;;;;;;;;;;;x
 d_agder_adj;アグデル;;;;;;;;;;;;x
 d_rugen_adj;リューゲン;;;;;;;;;;;;x
 d_bremen_adj;ブレーメン;;;;;;;;;;;;x
-c_vaud_adj;Vaudois;;;;;;;;;;;;x
-c_vesoul_adj;Burgundian;;;;;;;;;;;;x
-c_montbeliard_adj;Montbeliardian;;;;;;;;;;;;x
-c_leventina_adj;Milanese;;;;;;;;;;;;x
-c_zurichgau_adj;Zürcher;;;;;;;;;;;;x
+c_vaud_adj;ヴォー;;;;;;;;;;;;x
+c_vesoul_adj;ブルゴーニュ;;;;;;;;;;;;x
+c_montbeliard_adj;モンベリアール;;;;;;;;;;;;x
+c_leventina_adj;ミラノ;;;;;;;;;;;;x
+c_zurichgau_adj;チューリッヒ;;;;;;;;;;;;x
 c_aargau_adj;Basler;;;;;;;;;;;;x
 c_st_gallen_adj;Thurgauvian;;;;;;;;;;;;x
 c_aosta_adj;Aostan;;;;;;;;;;;;x
@@ -8780,7 +8780,7 @@ c_rovaniemi_adj;Rovaniemian;;;;;;;;;;;;x
 c_joensuu_adj;Kuopian;;;;;;;;;;;;x
 c_raasepori_adj;Siuntioan;;;;;;;;;;;;x
 c_zaslav_adj;ザスラウ;;;;;;;;;;;;x
-c_belz_adj;Belzian;;;;;;;;;;;;x
+c_belz_adj;ベルギー;;;;;;;;;;;;x
 c_lutsk_adj;Lutskian;;;;;;;;;;;;x
 c_dorogobuzh_adj;Dorogobuzhian;;;;;;;;;;;;x
 c_cherven_adj;Chervenian;;;;;;;;;;;;x
@@ -8952,7 +8952,7 @@ ALT_EVILGOD_DISEASE;病;;;;;;;;;;;;x
 ALT_EVILGOD_GRANDMOTHER_DEATH;万物の母なる死;;;;;;;;;;;;x
 ALT_EVILGOD_THAT_WITHOUT_A_NAME;名を持たぬ者;;;;;;;;;;;;x
 ALT_EVILGOD_THE_ARCANE_STORM;不可視の嵐;;;;;;;;;;;;x
-ALT_EVILGOD_THE_BLOODLETTER;The Bloodletter;;;;;;;;;;;;x
+ALT_EVILGOD_THE_BLOODLETTER;流血者;;;;;;;;;;;;x
 ALT_EVILGOD_THE_BROTHER_OF_FIRE;炎の兄弟;;;;;;;;;;;;x
 ALT_EVILGOD_THE_BUGS;虫;;;;;;;;;;;;x
 ALT_EVILGOD_THE_BUTCHER;The Butcher;;;;;;;;;;;;x
@@ -8962,12 +8962,12 @@ ALT_EVILGOD_THE_DARK_HAND;闇の手;;;;;;;;;;;;x
 ALT_EVILGOD_THE_DARK_SPIRITS;暗黒の魂;;;;;;;;;;;;x
 ALT_EVILGOD_THE_DEAD;屍;;;;;;;;;;;;x
 ALT_EVILGOD_THE_DEVIL;悪魔;;;;;;;;;;;;x
-ALT_EVILGOD_THE_EATER_OF_FATE;The Eater of Fate;;;;;;;;;;;;x
+ALT_EVILGOD_THE_EATER_OF_FATE;運命を喰らう者;;;;;;;;;;;;x
 ALT_EVILGOD_THE_EMPTY_HORIZON;虚無の地平;;;;;;;;;;;;x
 ALT_EVILGOD_THE_END_OF_ALL;終末;;;;;;;;;;;;x
 ALT_EVILGOD_THE_ETERNAL_DARKNESS;永久の闇;;;;;;;;;;;;x
 ALT_EVILGOD_THE_EVIL_ONES;悪しき者ども;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FADING_FIRE;The Fading Fire;;;;;;;;;;;;x
+ALT_EVILGOD_THE_FADING_FIRE;消えゆく炎;;;;;;;;;;;;x
 ALT_EVILGOD_THE_FAITHLESS_MASS;無神の衆;;;;;;;;;;;;x
 ALT_EVILGOD_THE_FATHER_OF_FOG;霧の父;;;;;;;;;;;;x
 ALT_EVILGOD_THE_FIRST_HEATHEN;The First Heathen;;;;;;;;;;;;x
@@ -9478,7 +9478,7 @@ b_rasiv;Rasiv;;;;;;;;;;;;x
 b_liubachiv;Liubavich;;;;;;;;;;;;x
 b_lezhaisk;Lezhaisk;;;;;;;;;;;;x
 b_ustryky_dolishni;Ustryky Dolishni;;;;;;;;;;;;x
-b_zhytomyr;Zhytomyr;;;;;;;;;;;;x
+b_zhytomyr;ジトームィル;;;;;;;;;;;;x
 b_vasykliv;Vasykliv;;;;;;;;;;;;x
 b_korosten;Korosten;;;;;;;;;;;;x
 b_olevsk;Olevsk;;;;;;;;;;;;x
@@ -9594,7 +9594,7 @@ b_vyritsa;Vyritsa;;;;;;;;;;;;x
 b_kirovsk;Kirovsk;;;;;;;;;;;;x
 b_naziya;Naziya;;;;;;;;;;;;x
 b_novinka;Novinka;;;;;;;;;;;;x
-b_soltsy;Soltsy;;;;;;;;;;;;x
+b_soltsy;ソリツイ;;;;;;;;;;;;x
 b_pankovka;Pankovka;;;;;;;;;;;;x
 b_batetsky;Batetsky;;;;;;;;;;;;x
 b_rusa;ルサ;;;;;;;;;;;;x
@@ -9715,7 +9715,7 @@ b_lisky;Lisky;;;;;;;;;;;;x
 b_beresti;Beresti;;;;;;;;;;;;x
 b_targu_bujor;Targu Bujor;;;;;;;;;;;;x
 b_murgeni;Murgeni;;;;;;;;;;;;x
-b_focsani;Focsani;;;;;;;;;;;;x
+b_focsani;フォクシャニ;;;;;;;;;;;;x
 b_adjud;Adjud;;;;;;;;;;;;x
 b_craciuna;Craciuna;;;;;;;;;;;;x
 b_targu_putnei;Targu Putnei;;;;;;;;;;;;x
@@ -10840,7 +10840,7 @@ String_hunter;hunter;;;;;;;;;;;;x
 String_strategist_role;strategist;;;;;;;;;;;;x
 String_fighter;戦士;;;;;;;;;;;;x
 String_champion;champion;;;;;;;;;;;;x
-String_soldier;soldier;;;;;;;;;;;;x
+String_soldier;戦士;;;;;;;;;;;;x
 String_duelist;duelist;;;;;;;;;;;;x
 String_brute;獣;;;;;;;;;;;;x
 String_Sky_Hunter;Sky Hunter;;;;;;;;;;;;x
@@ -13521,7 +13521,7 @@ nick_the_poison_tooth;毒牙;;;;;;;;;;;;x
 nick_the_vixen;女狐;;;;;;;;;;;;x
 nick_the_hyena;ハイエナ;;;;;;;;;;;;x
 nick_the_short_tempered;気が早い;;;;;;;;;;;;x
-nick_the_red_cheeks;Red-cheeks;;;;;;;;;;;;x
+nick_the_red_cheeks;赤き頬;;;;;;;;;;;;x
 nick_the_blushing;赤面;;;;;;;;;;;;x
 nick_the_shrinking_violet;the Shrinking Violet;;;;;;;;;;;;x
 nick_the_whiner;難し屋;;;;;;;;;;;;x
@@ -13549,7 +13549,7 @@ EVTOPTAHF25254;[Root.GetProwessInsultOption];;;;;;;;;;;;x
 EVTOPTBHF25254;[Root.GetCharacterInsultOption];;;;;;;;;;;;x
 EVTOPTCHF25254;[Root.GetAccomplishmentsInsultOption];;;;;;;;;;;;x
 EVTOPTDHF25254;[Root.GetFamilyInsultOption];;;;;;;;;;;;x
-EVTDESCBHF25255;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetProwessInsultDesc];;;;;;;;;;;;x
+EVTDESCBHF25255;[From.GetTitledFirstName]はダイニングホールの反対側から私の名を呼び、ロングテーブルを挟んで舌戦を挑もうとしている。[Root.GetProwessInsultDesc];;;;;;;;;;;;x
 EVTDESCAHF25255;[Root.GetProwessInsultDesc];;;;;;;;;;;;x
 EVTOPTAHF25255;How dare you say that!;;;;;;;;;;;;x
 TT_FLYTING_INSULT_LOST_PATIENCE_REACTION;You lose your patience.;;;;;;;;;;;;x
@@ -13561,18 +13561,18 @@ EVTOPTEHF25255;I have no idea what you are talking about!;;;;;;;;;;;;x
 TT_FLYTING_INSULT_AVERAGE_REACTION;あなたを嘲笑う声が聞こえてくる。;;;;;;;;;;;;x
 EVTOPTFHF25255;T-That's not true at all!;;;;;;;;;;;;x
 TT_FLYTING_INSULT_POOR_REACTION;The crowd laughs at you.;;;;;;;;;;;;x
-EVTDESCBHF25257;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetCharacterInsultDesc];;;;;;;;;;;;x
+EVTDESCBHF25257;[From.GetTitledFirstName]はダイニングホールの反対側から私の名を呼び、ロングテーブルを挟んで舌戦を挑もうとしている。[Root.GetCharacterInsultDesc];;;;;;;;;;;;x
 EVTDESCAHF25257;[Root.GetCharacterInsultDesc];;;;;;;;;;;;x
 EVTOPTAHF25257;黙れ！今すぐ黙れ！;;;;;;;;;;;;x
 EVTOPTBHF25257;I have no problem admitting my flaws.;;;;;;;;;;;;x
 EVTOPTCHF25257;そんなことは全くない！;;;;;;;;;;;;x
 EVTOPTDHF25257;How dare you say it! That's not my fault!;;;;;;;;;;;;x
-EVTDESCBHF25259;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;;x
+EVTDESCBHF25259;[From.GetTitledFirstName]はダイニングホールの反対側から私の名を呼び、ロングテーブルを挟んで舌戦を挑もうとしている。[Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;;x
 EVTDESCAHF25259;[Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;;x
 EVTOPTBHF25259;Meh, not that I care either way...;;;;;;;;;;;;x
 EVTOPTCHF25259;どういう意味だ!?;;;;;;;;;;;;x
 EVTOPTDHF25259;Oh, we shall see about that!;;;;;;;;;;;;x
-EVTDESCBHF25261;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetFamilyInsultDesc];;;;;;;;;;;;x
+EVTDESCBHF25261;[From.GetTitledFirstName]はダイニングホールの反対側から私の名を呼び、ロングテーブルを挟んで舌戦を挑もうとしている。[Root.GetFamilyInsultDesc];;;;;;;;;;;;x
 EVTDESCAHF25261;[Root.GetFamilyInsultDesc];;;;;;;;;;;;x
 EVTOPTAHF25261;あえてか！もうたくさんだ！;;;;;;;;;;;;x
 EVTOPTBHF25261;As if I cared.;;;;;;;;;;;;x
@@ -13586,11 +13586,11 @@ EVTOPTDHF25262;Isn't this supposed to be a game?;;;;;;;;;;;;x
 EVTDESCAHF25263;しばらく言い争ったが、戦士たちの笑い声によって[From.GetFirstName]の顔は怒りと恥ずかしさで真っ赤になっている。もはや意味が通じる回答ができておらず、言い争う気力を完全に失っている。;;;;;;;;;;;;x
 EVTOPTAHF25263;子供の様な真似はやめるんだな！;;;;;;;;;;;;x
 EVTOPTBHF25263;おふざけが過ぎてしまった、[From.GetFirstName]よ、怒らないでくれ。;;;;;;;;;;;;x
-EVTDESCHF25268;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. As if it weren't enough, [From.GetFirstName] continued mocking me, even after I admitted defeat, reveling in shaming me for my loss!;;;;;;;;;;;;x
-EVTOPTYHF25268;I will make you eat those words!;;;;;;;;;;;;x
-EVTOPTAHF25268;This is it! From now on, we are enemies!;;;;;;;;;;;;x
-TT_EVTOPTAHF25268;The other warriors laugh at you as you storm out.;;;;;;;;;;;;x
-EVTOPTBHF25268;Enough of this stupid game!;;;;;;;;;;;;x
+EVTDESCHF25268;私は平静さを失った。私が[From.GetFirstName]の侮辱に反論出来なかったのを見るや、観衆は[From.GetHerHim]の味方となり、[From.GetHerHis]の勝利は確かなものとなった。私が敗北を認めても[From.GetFirstName]はまだ足りないと侮辱し続け、私は失ったものの恥ずかしさを受け入れるしかなかった。;;;;;;;;;;;;x
+EVTOPTYHF25268;発言を撤回させてやる！;;;;;;;;;;;;x
+EVTOPTAHF25268;これが最後だ！今から私たちは敵同士だからな！;;;;;;;;;;;;x
+TT_EVTOPTAHF25268;怒り狂うあなたを見て他の戦士たちは笑っている。;;;;;;;;;;;;x
+EVTOPTBHF25268;こんな馬鹿馬鹿しいお遊びをもうたくさんだ！;;;;;;;;;;;;x
 EVTDESCHF25269;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. At the very least, after I admit defeat, [From.GetFirstName] calms me down and orders a drink for both of us, ensuring that it was all done in good fun and it was not [From.GetHerHis] intention to seriously offend me.;;;;;;;;;;;;x
 EVTOPTAHF25269;Well, too late for that!;;;;;;;;;;;;x
 TT_EVTOPTAHF25269;The other warriors mock you for your pettiness as you storm out.;;;;;;;;;;;;x
@@ -13721,9 +13721,9 @@ EVTDESCHF25405;Since my [GetFromRelation] made me join [warrior_lodge_to_join.Ge
 EVTOPTAHF25405;That stuff was always boring...;;;;;;;;;;;;x
 EVTDESCHF25406;Since my [GetFromRelation] made me join [warrior_lodge_to_join.GetName] I have had very little time to think of my responsibilities as [Root.GetTitle], what with all the training I have been going through. Unfortunately, this does not sit well with [From.GetFirstName]. [From.GetSheHeCap] has ordered me to find the time both to train in the art war and statesmanship.;;;;;;;;;;;;x
 EVTOPTAHF25406;But stewardship is so boring!;;;;;;;;;;;;x
-EVTDESCHF25407;I have noticed that, since joining [warrior_lodge_to_join.GetName], my [new_recruit.GetRootRelation] has spent barely any time at court, learning to act as [From.GetHerHis] rank demands. Being in contact with all these coarse fighters is making [From.GetHerHim] adopt mannerisms that are unfitting of [From.GetHerHis] stature.;;;;;;;;;;;;x
-EVTOPTAHF25407;As long as [From.GetSheHe] learns how to fight...;;;;;;;;;;;;x
-EVTOPTBHF25407;I won't have [From.GetHerHim] grow into a thug!;;;;;;;;;;;;x
+EVTDESCHF25407;私の[new_recruit.GetRootRelation]が[warrior_lodge_to_join.GetName]に加入してからというもの、宮廷にいる時間はほとんどなく、戦士団の地位を追及する方法を学んでいることに気が付いた。粗暴な戦士たちとの関わりは[From.GetHerHis]に相応しくない悪癖を与えてしまうだろう。;;;;;;;;;;;;x
+EVTOPTAHF25407;[From.GetSheHe]が戦い方を学んでいる限りは……;;;;;;;;;;;;x
+EVTOPTBHF25407;[From.GetHerHim]を暴漢にするわけにはいきません！;;;;;;;;;;;;x
 EVTDESCHF25408;Since my [GetFromRelation] made me join [warrior_lodge_to_join.GetName] I have spent very little time at court. Not that I mind, of course. The place is filled with boorish snobs and entitled sissies.;;;;;;;;;;;;x
 EVTOPTAHF25408;What do they know of war?;;;;;;;;;;;;x
 EVTDESCHF25409;Since my [GetFromRelation] made me join [warrior_lodge_to_join.GetName] I have spent very little time at court. Not that I mind, of course. The place is filled with boorish snobs and entitled sissies. Unfortunately, [From.GetFirstName] is not of the same opinion. [From.GetSheHeCap] claims that I should learn how to deal with my vassals and subjects as my title demands.;;;;;;;;;;;;x
@@ -14003,11 +14003,11 @@ string_WL_flyting_character_insult_option_24;I will be using big words now, [Fro
 string_WL_flyting_character_insult_option_25;機転が必要なゲームだということは理解しているんだろうな？;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_26;I am looking forward to your grunts of rebuttal, for sure.;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_27;Is it really such a surprise you jumped at the chance to yap some more?;;;;;;;;;;;;x
-string_WL_flyting_character_insult_option_28;Are you sure you wouldn't rather give up and go hide in a corner?;;;;;;;;;;;;x
+string_WL_flyting_character_insult_option_28;さっさと諦めて部屋の隅でひっそりしていた方がよいのでは？;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_29;One can hardly find anything bad or good to say about [From.GetFirstName].;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_30;知りうる限りで最も怠惰な[From.GetManWoman]だ、ということさえお前には過ぎた栄誉だ。;;;;;;;;;;;;x
 string_character_insult_option_default;板きれと同じくらいには面白い奴だ。;;;;;;;;;;;;x
-string_WL_flyting_accomplishments_insult_option_1;Not every [From.Culture.GetName] can be satisfied with so little...;;;;;;;;;;;;x
+string_WL_flyting_accomplishments_insult_option_1;[From.Culture.GetName]人にはちっとも効きませんよ……;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_2;I suppose being born with so few skills makes mediocrity desirable?;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_3;Better be careful not to trip over your broken dreams on your way out.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_4;一族の恥と言われるのはどんな気分なんだ？;;;;;;;;;;;;x
@@ -14018,7 +14018,7 @@ string_WL_flyting_accomplishments_insult_option_8;The thought of you managing to
 string_accomplishments_insult_option_default;今までに一つでも人生の目標を成し遂げたことがあるか？;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_1;I guess, after seeing how you came out, your parents simply gave up?;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_2;So, how is the wretched harpy that spawned you, [From.GetFirstName]?;;;;;;;;;;;;x
-string_WL_flyting_family_insult_option_3;I have heard great, hilarious tales about your father's cowardice.;;;;;;;;;;;;x
+string_WL_flyting_family_insult_option_3;よく耳にするよ。お前の臆病な父親の滑稽な話を。;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_4;If you are the best your folks can offer, I dread the sight of your siblings.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_5;I cannot lie: your parents confided me that you are their greatest mistake.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_6;Let us be quick about this game, your mother's legs still wait for me.;;;;;;;;;;;;x
@@ -14034,7 +14034,7 @@ string_WL_flyting_family_insult_option_15;What sort of imbeciles would not expos
 string_WL_flyting_family_insult_option_16;Of all the drooling imbeciles making up your family, you are the worst.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_17;I guess a deficiency of honor and bravery runs deep within your family...;;;;;;;;;;;;x
 string_family_insult_option_default;Your family is made up of fools and cowards.;;;;;;;;;;;;x
-string_WL_flyting_prowess_insult_desc_1;[From.GetFirstName] decides to try and tease me by claiming that my virility is legendary, if only among dwarfs.;;;;;;;;;;;;x
+string_WL_flyting_prowess_insult_desc_1;[From.GetFirstName]はドワーフの中では伝説的な男らしさだと言って私のことをからかうことに決めたようだ。;;;;;;;;;;;;x
 string_WL_flyting_prowess_insult_desc_2;[From.GetFirstName] points at me with a smirk, saying that there hardly is a warrior more cowardly and feeble as the one shrinking between my legs.;;;;;;;;;;;;x
 string_WL_flyting_prowess_insult_desc_3;[From.GetFirstName] claims that there are only a few half-forgotten legends speaking of the last time a woman called me a man.;;;;;;;;;;;;x
 string_WL_flyting_prowess_insult_desc_4;[From.GetFirstName] addresses the crowd, saying that there was never a man who could pleasure his lover as swiftly and abruptly as I can.;;;;;;;;;;;;x
@@ -16819,7 +16819,7 @@ b_carusus;カルスス;;;;;;;;;;;;x
 b_laodicea_sinope;Laodicea;;;;;;;;;;;;x
 b_halys_sinope;Halys;;;;;;;;;;;;x
 b_andrapa;Andrapa;;;;;;;;;;;;x
-b_amasra;Amasra;;;;;;;;;;;;x
+b_amasra;アマスラ;;;;;;;;;;;;x
 b_cyttoros;Cyttoros;;;;;;;;;;;;x
 b_tieion;Tieion;;;;;;;;;;;;x
 b_sesamus;Sesamus;;;;;;;;;;;;x
@@ -17250,7 +17250,7 @@ trans_saharan_trade_route;サハラ縦断交易路;;;;;;;;;;;;x
 trans_saharan_province_desc;Can only build §YTrade Posts§! in certain Counties along the §YTrans Saharan Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;x
 tr_gold_mine_2;Gold Mine;;;;;;;;;;;;x
 tr_salt_mine_1;岩塩鉱山;;;;;;;;;;;;x
-ACTIVE_TRADE_ROUTE_MODIFIER;\nThe Trade Route gives the following effects:\n$MODIFIER$\n\nTrade posts built in Trade Route counties increase the modifier for all provinces. If some Trade Route provinces are blocked (by siege or occupation), other Trade Route provinces temporarily get a higher bonus as trade is redirected.;;;;;;;;;;;;x
+ACTIVE_TRADE_ROUTE_MODIFIER;\n交易路によって以下の影響を受けます：\n$MODIFIER$\n\n交易路に建てられた交易所によって全ての州の補正を増加させます。交易路が包囲や占領によって封鎖されている場合、交易は振り分けられ他の交易路は一時的に高いボーナスを得ます。;;;;;;;;;;;;x
 INACTIVE_TRADE_ROUTE_MODIFIER;\nIf active, the Trade Route would give the following effects:\n$MODIFIER$\n\nTrade posts built in Trade Route counties increase the modifier for all provinces. If some Trade Route provinces are blocked (by siege or occupation), other Trade Route provinces temporarily get a higher bonus as trade is redirected.;;;;;;;;;;;;x
 BUILD_TRADE_POST_DESC;交易所は、商業共和国の都市貴族一族が沿岸部に（他国の領土であっても）§Y$COST$§!¤で建設します。また州に交易路が通っていれば、地元の領主も交易所を建設することができます。（§Y交易圏§!マップモードを参照）;;;;;;;;;;;;x
 BUILD_PRESTIGE_OR_PIETY_TRADE_POST_DESC;交易所は、商業共和国の都市貴族一族が沿岸部に（他国の領土であっても）§Y$COST$§!で建設します。また州に交易路が通っていれば、地元の領主も交易所を建設することができます。（§Y交易圏§!マップモードを参照）;;;;;;;;;;;;x
@@ -18740,7 +18740,7 @@ b_tweedmouth;Tweedmouth;;;;;;;;;;;;x
 b_lowick;Lowick;;;;;;;;;;;;x
 b_etal;Etal;;;;;;;;;;;;x
 b_cornhill;コーンヒル;;;;;;;;;;;;x
-b_cumbria;Cumbria;;;;;;;;;;;;x
+b_cumbria;カンブリア;;;;;;;;;;;;x
 b_middlesbrough;Middlesborough;;;;;;;;;;;;x
 b_whitby;Whitby;;;;;;;;;;;;x
 b_thirsk;Thirsk;;;;;;;;;;;;x
@@ -19028,7 +19028,7 @@ b_rotenburg_hesse;Rotenburg;;;;;;;;;;;;x
 b_rotenburg_verden;Rotenburg;;;;;;;;;;;;x
 b_ottersberg;Ottersberg;;;;;;;;;;;;x
 b_walsrode;Walsrode;;;;;;;;;;;;x
-b_soltau;Soltau;;;;;;;;;;;;x
+b_soltau;ゾルタウ;;;;;;;;;;;;x
 b_kirchwalsede;Kirchwalsede;;;;;;;;;;;;x
 b_ouhusen;Ouhusen;;;;;;;;;;;;x
 b_elberfeld;Elberfeld;;;;;;;;;;;;x
@@ -19240,7 +19240,7 @@ c_hesse_adj;Marburger;;;;;;;;;;;;x
 c_havelberg_adj;Havelberger;;;;;;;;;;;;x
 c_overijssel_adj;Zwollenaar;;;;;;;;;;;;x
 c_altmark_adj;Werbener;;;;;;;;;;;;x
-c_amastris_adj;Amastrian;;;;;;;;;;;;x
+c_amastris_adj;アマストリス;;;;;;;;;;;;x
 c_kastamon_adj;Kastamoni;;;;;;;;;;;;x
 c_akroinon_adj;アクロイノン;;;;;;;;;;;;x
 c_sardis_adj;Sardisi;;;;;;;;;;;;x
@@ -19557,7 +19557,7 @@ large_gold_inflation;High Inflation;;;;;;;;;;;;x
 large_gold_inflation_desc;A large influx of gold has caused prices to be severly increased.;;;;;;;;;;;;x
 small_gold_inflation;Low Inflation;;;;;;;;;;;;x
 small_gold_inflation_desc;An influx of gold has caused prices to increase.;;;;;;;;;;;;x
-soldiers_fixed_gold_inflation;Peasant Unrest;;;;;;;;;;;;x
+soldiers_fixed_gold_inflation;農民反乱;;;;;;;;;;;;x
 soldiers_fixed_gold_inflation_desc;Local peasant are rioting after having had their possessions confiscated.;;;;;;;;;;;;x
 string_rp_drinking;Getting drunk as ;;;;;;;;;;;;x
 string_rp_horse;Horsing around as ;;;;;;;;;;;;x
@@ -19770,7 +19770,7 @@ superstitious_ruler;迷信深い当主;;;;;;;;;;;;x
 superstitious_ruler_desc;This ruler is turning to religion, praying to [Root.Religion.GetHighGodName] to end the drought slowly taking its toll on [Root.PrimaryTitle.GetName].;;;;;;;;;;;;x
 focused_traders;交易商への注力;;;;;;;;;;;;x
 focused_traders_desc;The traders in this area are encouraged to bring in far away goods, maintaining a steady flow of vital resources throughout the realm.;;;;;;;;;;;;x
-improved_irrigation;Improved Irrigation;;;;;;;;;;;;x
+improved_irrigation;改良された灌漑;;;;;;;;;;;;x
 improved_irrigation_desc;Efforts have been put into improving irrigation in this area.;;;;;;;;;;;;x
 water_watch_1;河川の巡回;;;;;;;;;;;;x
 water_watch_1_desc;A message system has been put into place to warn for flooding in this area. An effort has also been put into shoring up riverbanks.;;;;;;;;;;;;x

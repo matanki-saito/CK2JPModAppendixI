@@ -699,7 +699,7 @@ EVTDESC_RIP_11045_cancer_sure;[From.GetTitledName]は、あなたに癌の症状
 EVTDESC_RIP_11045_cancer_uncertain;[From.GetTitledName]は躊躇いながらも、あなたが癌に冒されていると話した。[From.GetSheHeCap]は、指示に従うようにと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11045_pneumonia;[From.GetTitledName]は、あなたに肺炎の症状が出ていると考えている。[From.GetSheHeCap]は、今後指示に従うようにと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11045_pneumonia_horse;[From.GetTitledName]はあなたの症状は肺炎に多くの点で類似していると指摘し、またあなたの支配体制に終焉が来るのではないかと恐れている。[From.GetSheHeCap]は今後自分の指示に従うようにと話した。;;;;;;;;;;;;x
-EVTDESC_RIP_11045_pneumonia_certain;[From.GetTitledName]は、[From.GetHerHis]の豊富な医療経験によると、[From.GetHerHim]はあなたが肺炎に罹っているという結論が導かれると述べた。[From.GetSheHeCap]は、今後指示に従うようにと話した。。;;;;;;;;;;;;x
+EVTDESC_RIP_11045_pneumonia_certain;[From.GetTitledName]は、[From.GetHerHis]の豊富な医療経験によると、[From.GetHerHim]はあなたが肺炎に罹っているという結論が導かれると述べた。[From.GetSheHeCap]は、今後指示に従うようにと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11045_pneumonia_sure;[From.GetTitledName]は、おそらく肺炎の症状が出ていると考えている。[From.GetSheHeCap]は、今後指示に従うようにと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11045_pneumonia_uncertain;[From.GetTitledName]は躊躇いながらも、あなたが肺炎に冒されていると話した。[From.GetSheHeCap]は、今後指示に従うようにと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11045_syphilitic;[From.GetTitledName]はあなたが梅毒にかかっているのではないかと睨んでいる。[From.GetSheHeCap]は、今後指示に従うようにと話した。;;;;;;;;;;;;x
@@ -1258,7 +1258,7 @@ EVTDSC_RIP_21501_C;ある晩、夕食後に[From.GetTitledFirstName]はあなた
 EVTDSC_RIP_21501_D;ある晩、夕食後に[From.GetTitledFirstName]はあなたと時間を過ごしていました。 [From.GetSheHeCap]は領内の交易の状況について話し始めましたが、あなたは[From.GetSheHe]が取り乱しているのに気づきます。あなたは [From.GetFirstName]を制して、[From.GetSheHe]がなぜあなたのもとを訪ねて来たか問いました。\n \n｢我が[Root.GetLordLady]よ、私はあなたのお命を心配しております。」[From.GetSheHe]は真剣に述べ、あなたの手を握ります。「あなたが宮廷に招いた神を冒涜する異教徒はなにものなのでしょうか。彼女の約束する内容は確かに甘美です、しかし信頼することができません。お願いです、我が[Root.GetLordLady]よ、手遅れになる前に、彼女の真の目的を探らせてください。」;;;;;;;;;;;;x
 EVTOPTA_RIP_21501;ばかげている！おまえは過剰に反応しすぎだよ。;;;;;;;;;;;;x
 EVTOPTA_RIP_21501_TOOLTIP;§Y[From.GetFirstName]§!の心配を却下する。;;;;;;;;;;;;x
-EVTOPTB_RIP_21501;後悔先に立たずか、分かった。。;;;;;;;;;;;;x
+EVTOPTB_RIP_21501;後悔先に立たずか、分かった……;;;;;;;;;;;;x
 EVTOPTB_RIP_21501_TOOLTIP;§Y[From.GetFirstName]§!が§Y[eternal_life_mystic.GetFirstName]§!を調査することを許す。;;;;;;;;;;;;x
 EVTOPTC_RIP_21501;おまえは正しい！いかに私が[eternal_life_mystic.GetFirstName]を信頼するか悩んでいたことか！;;;;;;;;;;;;x
 EVTNAME_RIP_21503;不安になるニュース;;;;;;;;;;;;x
@@ -1851,9 +1851,9 @@ EVTNAME_RIP_21017;この世のわずらい;;;;;;;;;;;;x
 EVTOPTA_RIP_21017;なんて役立たずだ！;;;;;;;;;;;;x
 EVTOPTA_RIP_21017_TOOLTIP;§Y[From.GetTitledFirstName]§!を火にかけたら、気分がいいんじゃないか。;;;;;;;;;;;;x
 EVTNAME_RIP_21019;魅惑的な邂逅;;;;;;;;;;;;x
-EVTOPTA_RIP_21019;I am intrigued. You should stay, [From.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_RIP_21019;興味があります。ゆっくりしていってください、[From.GetFirstName]。;;;;;;;;;;;;x
 EVTOPTA_RIP_21019_TOOLTIP;The mystic woman takes up residence in your court.;;;;;;;;;;;;x
-EVTOPTB_RIP_21019;This is preposterous! You should leave.;;;;;;;;;;;;x
+EVTOPTB_RIP_21019;馬鹿げた話だ！出ていけ！;;;;;;;;;;;;x
 EVTOPTB_RIP_21019_TOOLTIP;The mystic leaves your court.;;;;;;;;;;;;x
 EVTOPTC_RIP_21019;あなたの教えを受け入れよう、[From.GetFirstName]。永遠の命は私のものだ。;;;;;;;;;;;;x
 EVTOPTC_RIP_21019_TOOOLTIP;You invite the stranger to take up residence in your court.;;;;;;;;;;;;x
@@ -3870,7 +3870,7 @@ EVTOPTB_RIP_29506;私は大丈夫だ!!騒ぐほどのものではない;;;;;;;;;
 EVTDSC_RIP_29507;[FromFrom.GetFirstName]は、誰よりも気が利いた看護人だった。私が目を覚ますたびに、[FromFrom.GetSheHe]は私のベッドの側にいた。私が必要としていたものは何でも分かっており、さらに[FromFrom.GetFirstName]は私の治療を上手くに管理していた。私は[FromFrom.GetHerHis]の優しい看病により健康体に戻っていく感じがする…;;;;;;;;;;;;x
 EVTOPTA_RIP_29507;[Root.Religion.GetHighGodName]が[FromFrom.GetFirstName]を私に送ってくれたのだ;;;;;;;;;;;;x
 EVTDSC_RIP_29508;私が[From.GetFirstName]を看病している間、[From.GetHerHis]の健康と気分は着実に戻っているようだ。[From.GetSheHe]は何度も心から私に感謝していた。;;;;;;;;;;;;x
-EVTOPTA_RIP_29508;[From.GetFirstName]が健康になるとホっとするい￥。;;;;;;;;;;;;x
+EVTOPTA_RIP_29508;私は[From.GetFirstName]が健康になって安心した。;;;;;;;;;;;;x
 EVTOPTB_RIP_29508;違う…違うんだ…これは私が意図したものではない!!;;;;;;;;;;;;x
 EVTDSC_RIP_29509;私は[FromFrom.GetFirstName]が悪い人だとは考えてもみなかったが、ここ数日で[FromFrom.GetHerHis]という人物の印象は変わっていった。[FromFrom.GetSheHeCap]はおおざっぱで、不器用で、不注意だった。また、[FromFrom.GetSheHe]は私の治療に邪魔しているのではないかという疑念が深めまていった。なぜなら、これまで以上に悪化しているからだ…;;;;;;;;;;;;x
 EVTOPTA_RIP_29509;この[GetRootFromFromInsult]な[FromFrom.GetFirstName]よ、私の話を聞け!!;;;;;;;;;;;;x
