@@ -1856,14 +1856,14 @@ EVTOPTA_MNM_9004_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirst
 EVTOPTB_MNM_9004;素晴らしい！[rumor_councillor.GetFirstName]、あなたに感謝を。;;;;;;;;;;;;x
 EVTOPTB_MNM_9004_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councilors to search for the extraordinary artifact.\n;;;;;;;;;;;;x
 relic_rumor_major;類い稀な宝物の噂;;;;;;;;;;;;x
-relic_rumor_major_desc;This character has been reach by a rumor of an extraordinary artifact! They can send one of their councilors to search for it.;;;;;;;;;;;;x
+relic_rumor_major_desc;この人物は類い稀な宝物に関する噂を耳にしました！探索のために評議員のひとりを送り出すことができます。;;;;;;;;;;;;x
 EVTDESC_MNM_9005;評議会の後、[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]が、内密な話をしたいと言って私の元を訪ねてきた。話を聞くにどうやら[rumor_councillor.GetSheHe]は、希少な宝物に関する噂を掴んだらしい。[rumor_councillor.GetFirstName]はこの噂にはいくつかの真実があったと確信しており、私にこの宝物の探索を手配してほしいと言ってきている。;;;;;;;;;;;;x
 EVTOPTA_MNM_9005;良い考えだ、[rumor_councillor.GetJobTitle]。取り計らってくれ。;;;;;;;;;;;;x
 EVTOPTA_MNM_9005_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§!は希少な宝物の探索を開始します。\n;;;;;;;;;;;;x
 EVTOPTB_MNM_9005;[rumor_councillor.GetFirstName]、あなたに感謝を！;;;;;;;;;;;;x
 EVTOPTB_MNM_9005_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councilors to search for the rare artifact.\n;;;;;;;;;;;;x
 relic_rumor_medium;希少な宝物の噂;;;;;;;;;;;;x
-relic_rumor_medium_desc;This character has been reached by a rumor of a rare artifact! They can send one of their councilors to search for it.;;;;;;;;;;;;x
+relic_rumor_medium_desc;この人物は希少な宝物に関する噂を耳にしました！探索のために評議員のひとりを送り出すことができます。;;;;;;;;;;;;x
 EVTDESC_MNM_9006;この晩に開かれた評議会で、[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]が、最近 [rumor_councillor.GetSheHe]自身が聞き及んだという噂について語りだした。何でも領内の農民たちの話によれば、ここからそう遠くない地に、とある隠された宝物が眠っているらしい。[rumor_councillor.GetFirstName]がいう情報の詳細は不明だが、調査してみる価値はあるのかもしれない。;;;;;;;;;;;;x
 EVTOPTA_MNM_9006;[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]、その宝物の探索を手配せよ。;;;;;;;;;;;;x
 EVTOPTA_MNM_9006_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§!は宝物の探索を開始します。\n;;;;;;;;;;;;x
