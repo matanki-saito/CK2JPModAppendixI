@@ -2442,7 +2442,7 @@ EVTOPTDHFP21018;I cannot stand this sycophant any longer!;;;;;;;;;;;;x
 EVTDESCAHFP21019;[From.GetFirstName]への働きかけは無駄ではなかった。ゆっくりと、しかし着実にその[From.GetManWoman]との親交は深まってきている。;;;;;;;;;;;;x
 EVTDESCBHFP21019;[From.GetFirstName]への働きかけは無駄ではなかった。ゆっくりと[From.GetHerHis]からの信頼は深まってきている。;;;;;;;;;;;;x
 EVTDESCCHFP21019;[From.GetFirstName]への働きかけは成功とは呼べないものだった。その[From.GetManWoman]は未だ疑念を抱いたままだ。;;;;;;;;;;;;x
-EVTDESCDHFP21019;[From.GetFirstName]への働きかけは完全な失敗に終わった。より好かれたなどおこがましく、私が居るだけで癪に障るようになってしまった。;;;;;;;;;;;;x
+EVTDESCDHFP21019;[From.GetFirstName]への働きかけは完全な失敗に終わった。私を前よりも好いてくれるどころか、ただ居るだけでも癪に障るようになってしまった。;;;;;;;;;;;;x
 EVTOPTAHFP21019;Curses.;;;;;;;;;;;;x
 EVTDESCHFP21021;もしかすると、私が [From.GetTitledFirstName] に友情と誠意の証しとして贈り物をすれば、 [From.GetHerHim] の歓心を買うのに役立つかもしれない。;;;;;;;;;;;;x
 EVTOPTAHFP21021;[From.GetHerHim] にきわめて高価な芸術品を送ろう。;;;;;;;;;;;;x
@@ -6221,7 +6221,7 @@ EVTDESC_HFP_11025_falcons;[battlefield_location.GetTerrain][battlefield_location
 EVTDESC_HFP_11025_fallback;馬で[battlefield_location.GetTerrain]を駆けていると、[enemy_commander.GetEnemySoldierDesc]兵士たちが武器を掲げて我が軍に近づいて来るのが見えた。\n全てが終わると、部下たちは皆死んでいた。膝を[battlefield_location.GetGroundDesc]に沈め、なぜまだ自分がここにいるのか不思議に思った。;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_dog;ああ！私の犬が！お前は誰よりも賢くていい子だったのに…！;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_dog;あなたの犬はあなたをかばって矢に射貫かれた。\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_cat;なこの矢はんだ！？　私の猫が！嘘だ！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_cat;この矢は何だ！？ 私の猫が！嘘だ！;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_cat;あなたの猫が戦死者のリストに加えられた。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_horse;[Root.GetWarhorseName], no! Your sacrifice will not be forgotten...!;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_horse;Your horse dies in battle.\n;;;;;;;;;;;;x
@@ -7019,25 +7019,25 @@ EVTDESC_HF_42008_STEWARDSHIP;Though I have a feeling business have gone somewhat
 EVTDESC_HF_42008_INTRIGUE;The worst of the rumors have disappeared, though there is still some murmuring around the court. I have a feeling things will go better from here on though.;;;;;;;;;;;;x
 EVTDESC_HF_42008_LEARNING;I have tried following [FromFrom.GetTitledFirstName]'s advices when it comes to my writing, but I am just not sure I see that much of a difference to the end result.;;;;;;;;;;;;x
 EVTOPTA_HF_42008;I feel like I have learned a little bit from the change.;;;;;;;;;;;;x
-EVTDESC_HF_42009;[sway_target.GetTitledFirstName] not only did not accept my help, but [sway_target.GetSheHe] was furious that I dared presume [sway_target.GetSheHe] needed any kind of aid in the first place. ;;;;;;;;;;;;x
+EVTDESC_HF_42009;[sway_target.GetTitledFirstName]は私の手助けを受け容れなかったばかりか、私が不遜にも[sway_target.GetSheHe]になんらかの手助けが要るものだと考えていたということ自体に激怒している。;;;;;;;;;;;;x
 EVTOPTA_HF_42009;恩知らずな。;;;;;;;;;;;;x
 EVTDESC_HF_42020;[sway_target.GetTitledFirstName]を行事に一緒に参加しようと招待することで、我々がより親しくなるのに役立つと思うが、どんな種類の行事を提案すべきかが全くわからない。;;;;;;;;;;;;x
 EVTOPTA_HF_42020_HUNT;狩りに誘うのが一番いい。;;;;;;;;;;;;x
-EVTOPTA_HF_42020_DUELIST;The upcoming local fencing tournament might intrigue [sway_target.GetHerHim]?;;;;;;;;;;;;x
+EVTOPTA_HF_42020_DUELIST;今度行われる地元の剣術大会に[sway_target.GetHerHim]も興味があるのではないか？;;;;;;;;;;;;x
 EVTOPTA_HF_42020_GAME;ボードゲームはどうだ？;;;;;;;;;;;;x
-EVTOPTA_HF_42020_SOCIAL;I shall invite [sway_target.GetHerHim] to a banquet!;;;;;;;;;;;;x
-EVTOPTA_HF_42020_SCHOLAR;Let us meet in private for some deep discussions.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_STEWARD;The festival in [Root.Capital.GetName] might catch [sway_target.GetHerHis] fancy?;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TORTURE;My prisoners need some anatomical restructuring.;;;;;;;;;;;;x
-EVTOPTB_HF_42020;Maybe it is not such a good idea after all.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_HUNT;Invite §Y[sway_target.GetTitledFirstName]§! to a hunt, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YMartial§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_DUEL;Invite §Y[sway_target.GetTitledFirstName]§! to a tournament, and a have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YMartial§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_GAME;Invite §Y[sway_target.GetTitledFirstName]§! to a board game evening, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YMartial§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_SOCIAL;Invite §Y[sway_target.GetTitledFirstName]§! to a party, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YDiplomacy§! and §YIntrigue§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_SCHOLAR;Invite §Y[sway_target.GetTitledFirstName]§! to a discussion, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is §YLearning§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_STEWARD;Invite §Y[sway_target.GetTitledFirstName]§! to a local festival, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YStewardship§! based activity.;;;;;;;;;;;;x
-EVTOPTA_HF_42020_TT_TORTURE;Invite §Y[sway_target.GetTitledFirstName]§! to help you torment some of your prisoners, and have a chance to §YSway§! [sway_target.GetHerHim] to your cause. This is a §YIntrigue§! based activity.;;;;;;;;;;;;x
-EVTOPTB_HF_42020_TT;Refrain from asking [sway_target.GetTitledFirstName] to join you.;;;;;;;;;;;;x
+EVTOPTA_HF_42020_SOCIAL;[sway_target.GetHerHim]を宴会に招待しよう！;;;;;;;;;;;;x
+EVTOPTA_HF_42020_SCHOLAR;私的な討論会に一緒に参加することにしよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_STEWARD;[Root.Capital.GetName]の祭りなら[sway_target.GetHerHis]も気に入るのでは？;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TORTURE;そういえば、囚人たちを身体が歪むほど叩きのめす必要があったな。;;;;;;;;;;;;x
+EVTOPTB_HF_42020;どれもいい考えではないだろうな。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_HUNT;§Y[sway_target.GetTitledFirstName]§!を狩りに招待し、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y軍事§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_DUEL;§Y[sway_target.GetTitledFirstName]§!を武術大会に招待し、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y軍事§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_GAME;§Y[sway_target.GetTitledFirstName]§!をボードゲームの催しに招待し、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y軍事§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_SOCIAL;§Y[sway_target.GetTitledFirstName]§!をパーティーに招待し、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y外交§!と§Y陰謀§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_SCHOLAR;§Y[sway_target.GetTitledFirstName]§!を討論会に招待し[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y学識§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_STEWARD;§Y[sway_target.GetTitledFirstName]§!を地元の祭りに招待し、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y管理§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTA_HF_42020_TT_TORTURE;§Y[sway_target.GetTitledFirstName]§!を囚人の拷問の手伝いに招いて、[sway_target.GetHerHim]をあなたの思うように§Y抱き込む§!機会を作ります。これは§Y陰謀§!に関わる活動です。;;;;;;;;;;;;x
+EVTOPTB_HF_42020_TT;[sway_target.GetTitledFirstName]を一緒の活動に誘うのを控えます。;;;;;;;;;;;;x
 EVTDESC_HF_42021_HUNT;[From.GetTitledFirstName]が一緒に狩りに行かないかと誘ってきた。これは[From.GetHerHim]のことをもっとよく知る良い機会となるかもしれない。;;;;;;;;;;;;x
 EVTDESC_HF_42021_DUEL;[From.GetTitledFirstName]が武芸大会に参加しないかと誘ってきた。[From.GetSheHe]はその大会で一緒に組む相手が必要なのだという。これは[From.GetHerHim]のことをもっと知るのによい機会となるかもしれない。;;;;;;;;;;;;x
 EVTDESC_HF_42021_GAME;[From.GetTitledFirstName]が、一緒にボードゲームのイベントに参加しないかと誘ってきた。これは[From.GetHerHim]のことをもっとよく知る良い機会となるかもしれない。;;;;;;;;;;;;x
@@ -7064,44 +7064,44 @@ EVTDESC_HF_42023_STEWARD;連れだって[Root.Capital.GetName]の通りという
 EVTDESC_HF_42023_TORTURE;私は[From.GetFirstName]が[Root.Capital.GetName]に着くとすぐに、上機嫌で[From.GetSheHe]を地下室へと案内した。私たちはたくさんの[Root.Capital.GetName]の素晴らしい検体を楽しみ、それらを試すよい機会を得た。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_HUNT;狩りを始めよう!;;;;;;;;;;;;x
 EVTOPTA_HF_42023_DUEL;我々はきっと勝てるさ。;;;;;;;;;;;;x
-EVTOPTA_HF_42023_GAME;[sway_target.GetSheHe]が楽しんでくれればいいのだがな。;;;;;;;;;;;;x
+EVTOPTA_HF_42023_GAME;[sway_target.GetSheHe]が楽しんでくれればよいが。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_SOCIAL;よし、お楽しみの時間だ。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_SCHOLAR;出来る限り知識を試し学んでいこう。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_STEWARD;[From.GetSheHe]が楽しんでくれればよいが。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_TORTURE;少しばかり楽しむとしようか！;;;;;;;;;;;;x
-EVTDESC_HF_42024_HUNT;[From.GetTitledFirstName] expertly guides us through the forests. It is clear [From.GetSheHe] knows this area well. [From.GetFirstName] tells me we are looking for a wild boar that has been sighted in the area.;;;;;;;;;;;;x
-EVTDESC_HF_42024_DUEL;[From.GetTitledFirstName] expertly fences us through the first rounds of the tournament, it is clear [From.GetSheHe] has a lot of prior experience with fencing.;;;;;;;;;;;;x
-EVTDESC_HF_42024_GAME;[From.GetTitledFirstName] helps me ready for the event, and explains the game to me. Though there is some details still unclear to me, [From.GetFirstName] promises to help me out.;;;;;;;;;;;;x
-EVTDESC_HF_42024_SOCIAL;[From.GetTitledFirstName] receives me at the door, and invites me inside. The banquet is larger than I originally expected, with nice looking lords and ladies all across the room.;;;;;;;;;;;;x
-EVTDESC_HF_42024_SCHOLAR;[From.GetTitledFirstName] receives me at the door, and helps me get seated in the tiny room. The discussion quickly switches between different and difficult topics, and I am just trying to keep up.;;;;;;;;;;;;x
-EVTDESC_HF_42024_STEWARD;All kinds of sites can be seen at [From.Capital.GetName]. [From.GetFirstName] shows me around the city happily, and we have a lot of fun as we come across all kinds of entertainers and events. In the end [From.GetSheHe] brings me to a local hedge-maze. ;;;;;;;;;;;;x
-EVTDESC_HF_42024_TORTURE;As soon as I get to [Root.Capital.GetName], [From.GetFirstName] receives me at the door, and brings me down to the dungeon. We walk past all kinds of people, looking downtrodden and like they have been through [From.GetHerHis] torture before.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_HUNT;I wonder if we will find it.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_DUEL;I am impressed by [From.GetHerHis] swordsmanship.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_GAME;I will try my best to win this.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_SOCIAL;Better than expected.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_SCHOLAR;This will be interesting.;;;;;;;;;;;;x
-EVTOPTA_HF_42024_STEWARD;I have to say I am impressed by [From.Capital.GetName].;;;;;;;;;;;;x
-EVTOPTA_HF_42024_TORTURE;This will be.. Interesting?;;;;;;;;;;;;x
-EVTDESC_HF_42025_HUNT;Hours pass with little to no excitement, when suddenly we come across the boar we were looking for. My soldiers look at me, waiting for my orders to wait it out or to hunt it down.;;;;;;;;;;;;x
-EVTDESC_HF_42025_DUEL;We pass through all the preliminary rounds with little to no issue. In the last round we are facing two large ogre looking men, the swords tiny in their hands.;;;;;;;;;;;;x
-EVTDESC_HF_42025_GAME;As the game develops, [From.GetFirstName] and I end up partnering up. I can already see that one of us will have to sacrifice all of their units, to be able to get a win. [From.GetFirstName] does not seem to have noticed this yet.;;;;;;;;;;;;x
-EVTDESC_HF_42025_SOCIAL;Several hours passes, and [From.GetFirstName] seem to enjoy [From.GetHerselfHimself]. Maybe [From.GetSheHe] would enjoy [From.GetHerselfHimself] even more if we managed to find [From.GetHerHim] some company for the night?;;;;;;;;;;;;x
-EVTDESC_HF_42025_SCHOLAR;Some hours pass as the discussions continue. We come to an impasse about the nature of the universe, with [From.GetFirstName] and I together at one side of the discussion. [From.GetSheHeCap] looks at me, clearly waiting for me to make the first line of reasoning.;;;;;;;;;;;;x
-EVTDESC_HF_42025_STEWARD;At the start we are having fun as we walk through the hedge-maze, but at some point I start losing track of where we are. I get to a cross-road, and I am not sure which path I have to take to get us out. ;;;;;;;;;;;;x
+EVTDESC_HF_42024_HUNT;[From.GetTitledFirstName]は手慣れた様子で森の中を案内してくれた。[From.GetSheHe]がこの辺りのことを知り尽くしているのは明らかだ。[From.GetFirstName]は、この辺りで見かけたイノシシを探しているのだと言った。;;;;;;;;;;;;x
+EVTDESC_HF_42024_DUEL;[From.GetTitledFirstName]は、大会の第一試合で巧妙に相手の剣を受け流していた。[From.GetSheHe]が以前から剣術の経験を積んできたことは明らかだ。;;;;;;;;;;;;x
+EVTDESC_HF_42024_GAME;[From.GetTitledFirstName]は私がイベントの準備をするのを手伝ってくれて、ゲームについて説明してくれた。私にはよくわからないところがいくつかあったが、[From.GetFirstName]は私を助けてくれると約束した。;;;;;;;;;;;;x
+EVTDESC_HF_42024_SOCIAL;[From.GetTitledFirstName]は私をドアの前で出迎えて、中に招いてくれた。宴会は私が当初予想していたものよりも大規模であり、大広間には感じの良さそうな貴族や淑女たちが部屋いっぱいに居た。;;;;;;;;;;;;x
+EVTDESC_HF_42024_SCHOLAR;[From.GetTitledFirstName]は私をドアの前で出迎え、こじんまりとした部屋の座席に座るよう手助けをしてくれた。討論の流れは、いくつもの難解な論点を幾度も行き来していき、私は話についていこうと努力した。;;;;;;;;;;;;x
+EVTDESC_HF_42024_STEWARD;[From.Capital.GetName]のあらゆる場所を見て回った。[From.GetFirstName]は街のあちこちで様々な大道芸人や催しに行きあたるたびに楽しそうにしていた。最後に[From.GetSheHe]は、私をちょっとした生垣でできた迷路に連れて行った。;;;;;;;;;;;;x
+EVTDESC_HF_42024_TORTURE;[Root.Capital.GetName]に到着するとすぐに、[From.GetFirstName]は私を地下室へと続くドアへと案内した。私たちは様々な人々のそばを通り過ぎていった。彼らは以前から[From.GetHerHis]に拷問にかけられており、虐げられているように見えた。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_HUNT;そいつを見つけ出せるだろうか。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_DUEL;私は[From.GetHerHis]の剣技の冴えにすっかり感心してしまった。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_GAME;勝つためにベストを尽くそう。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_SOCIAL;思っていたよりうまくいった。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_SCHOLAR;これは面白そうだ。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_STEWARD;[From.Capital.GetName]の街に感動したと言わざるを得ない。;;;;;;;;;;;;x
+EVTOPTA_HF_42024_TORTURE;これは…面白いのか？;;;;;;;;;;;;x
+EVTDESC_HF_42025_HUNT;面白味のない数時間が過ぎていったが、そのとき不意に我々は探していたイノシシと出くわした。兵士たちは私のほうを見て、奴が通り過ぎるのを待つか、狩り出すかの指示を待っていた。;;;;;;;;;;;;x
+EVTDESC_HF_42025_DUEL;私たちは予選をほぼ難なく勝ち上がっていった。決勝戦ではその手の内の剣が小さく見えるほどの、オーガのような2人の巨漢と戦うことになった。;;;;;;;;;;;;x
+EVTDESC_HF_42025_GAME;ゲームが進展していくと、私と[From.GetFirstName]が組むことになった。私は我々のどちらか1人の持ち駒すべてを、勝つために犠牲にすることができると知っている。[From.GetFirstName]はまだそれに気づいていないようだ。;;;;;;;;;;;;x
+EVTDESC_HF_42025_SOCIAL;何時間か経ったが、[From.GetFirstName]は楽しく過ごしているようだった。きっと[From.GetSheHe]は、今夜私が[From.GetHerHim]に何人かの仲間を紹介したおかげで、より一層楽しい気分になったのではないだろうか。;;;;;;;;;;;;x
+EVTDESC_HF_42025_SCHOLAR;始まりから数時間は経ったが討論は続いている。[From.GetFirstName]と私は同じ側の立場に立って議論を進めてきたが、宇宙の本質についての議論は行き詰まりを見せてきた。[From.GetSheHeCap]は私のほうに目をやり、私が先だって議論の道筋をつけるのを期待してるのは明らかだった。;;;;;;;;;;;;x
+EVTDESC_HF_42025_STEWARD;迷路に入ってから最初のうちは楽しんでいたが、いつからか、我々は迷ってどの道から来たのかも分からなくなってしまった。四つ辻にたどり着いたものの、出口につながる道がどれなのかよく分からない。;;;;;;;;;;;;x
 EVTDESC_HF_42025_TORTURE;We start testing out the different tools we have at hand, and quickly work our way through a couple of the prisoners. They almost look spiffy after we are done with them, and I have to say, we are being quite generous as we leave them mostly intact.;;;;;;;;;;;;x
-EVTOPTA_HF_42025_HUNT;We attack it right away!;;;;;;;;;;;;x
-EVTOPTA_HF_42025_DUEL;The larger they are, the harder they fall.;;;;;;;;;;;;x
-EVTOPTA_HF_42025_GAME;I will position myself to take the brunt of it.;;;;;;;;;;;;x
-EVTOPTA_HF_42025_SOCIAL;I will help [From.GetHerHim] find someone. ;;;;;;;;;;;;x
-EVTOPTA_HF_42025_SCHOLAR;I will be assertive, and explain them why they are wrong.;;;;;;;;;;;;x
-EVTOPTA_HF_42025_STEWARD;Confidently take a path and hope for the best.;;;;;;;;;;;;x
-EVTOPTA_HF_42025_TORTURE;Let us see how far we can push one of them.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_HUNT;I rush in and attack the beast. A higher chance of getting wounded, but also a higher chance of success if §Y[From.GetTitledFirstName]§! decides to help me.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_DUEL;I decide to go on the offense. A higher chance of getting wounded, but also a higher chance of success if §Y[From.GetTitledFirstName]§! goes on the offense as well.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_GAME;You decide to set yourself in a precarious situation. A higher chance of success, if §Y[From.GetTitledFirstName]§! sees what you are doing.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_SOCIAL;I decide to try and help §Y[From.GetTitledFirstName]§! find someone to spend the night with.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_SCHOLAR;I decide to be assertive in my reasoning.;;;;;;;;;;;;x
+EVTOPTA_HF_42025_HUNT;さっさとあいつを仕留めるぞ！;;;;;;;;;;;;x
+EVTOPTA_HF_42025_DUEL;大きい奴ほど倒れた時の怪我もひどいのだ。;;;;;;;;;;;;x
+EVTOPTA_HF_42025_GAME;私が盾になるとしよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42025_SOCIAL;[From.GetHerHim]が話し相手を見つけられるよう手助けしよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42025_SCHOLAR;断固として主張を曲げず、相手側が誤っている理由を説明する。;;;;;;;;;;;;x
+EVTOPTA_HF_42025_STEWARD;上手くいくと信じて、自信をもって進む。;;;;;;;;;;;;x
+EVTOPTA_HF_42025_TORTURE;この中の1人をどれだけ追い詰めることができるか見せてやろう。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_HUNT;私は駆けだして獲物を迎え撃った。怪我をする可能性も高かったが、§Y[From.GetTitledFirstName]§!が助力してくれれば成功する可能性も高かったのだ。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_DUEL;私は意を決して立ち向かった。怪我をする可能性も高かったが、§Y[From.GetTitledFirstName]§!が共に立ち向かってくれるのなら勝てる可能性も高かったのだ。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_GAME;あなたは自分を危険な位置に置いた。§Y[From.GetTitledFirstName]§!が自分はなにをするべきかわかっていれば、勝てる可能性は高い。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_SOCIAL;私は§Y[From.GetTitledFirstName]§!が今夜楽しくすごせるように、相手を見つける手助けをしてみようと決めた。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_SCHOLAR;私は自分の主張を曲げず、論じていくことにした。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_STEWARD;I decide to try your luck. This has a lower chance of success, but §Y[From.GetFirstName]§! will not know that I have no idea where we are.;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_TORTURE;I decide to see how far I can push a specimen and still keep it alive. ;;;;;;;;;;;;x
 EVTOPTB_HF_42025_HUNT;Let us wait it out, and trap it.;;;;;;;;;;;;x
