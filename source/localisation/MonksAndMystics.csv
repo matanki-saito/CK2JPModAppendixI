@@ -2669,7 +2669,7 @@ EVTOPTC_MNM_9118;槍こそが私の望むものだ。;;;;;;;;;;;;x
 EVTOPTD_MNM_9118;私はいつも斧を使う。;;;;;;;;;;;;x
 EVTOPTE_MNM_9118;メイスで敵を粉砕してやろう！;;;;;;;;;;;;x
 EVTOPTF_MNM_9118;優れた弓は役に立つことだろう。;;;;;;;;;;;;x
-EVTDESC_MNM_9120;「[From.GetWeaponsmithWeapon]。 わかりました。素晴らしい選択ですね、[Root.GetTitle]」。[From.GetMasterMistressCap] [From.GetFirstName]はそう述べると、弟子を呼びつけ、三つの[From.GetWeaponsmithWeapon]を腕に抱えて持ってこさせた。「ここに見本があります。いずれも殿下にはよく役立つと存じますが、何を必要とし、いかほど支払うかを決めていただかなくてはなりません。」;;;;;;;;;;;;x
+EVTDESC_MNM_9120;「[From.GetWeaponsmithWeapon]。 わかりました。素晴らしい選択ですね、[Root.GetTitle]」。 [From.GetFirstName]親方はそう述べると、弟子を呼びつけ、三つの[From.GetWeaponsmithWeapon]を腕に抱えて持ってこさせた。「ここに見本があります。いずれも殿下にはよく役立つと存じますが、何を必要とし、いかほど支払うかを決めていただかなくてはなりません。」;;;;;;;;;;;;x
 EVTOPTA_MNM_9120;我が戦の供は最上級品でなくてはならぬ。;;;;;;;;;;;;x
 EVTOPTB_MNM_9120;豪勢なものはいらない。なにか効果的なものを作ってくれ。;;;;;;;;;;;;x
 EVTOPTC_MNM_9120;あなたなら十分なものを作ってくれると信じていますよ、[From.GetMasterMistressCap]。;;;;;;;;;;;;x

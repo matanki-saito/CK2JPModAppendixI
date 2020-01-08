@@ -43,7 +43,7 @@ EVTOPTB_MNM_9120_KING;あなたの最高傑作といえる [From.GetWeaponsmithW
 EVTOPTA_MNM_9120_TT_ARMOR_EMPEROR;最高級の[From.GetWeaponsmithWeapon]を注文します。この[From.GetWeaponsmithWeapon]はあなたの§Y士気攻撃力§!、§Y毎月の威信§!、§Y軍事点§!、§Y個人戦闘力§!を大幅に増加させるでしょう。;;;;;;;;;;;;x
 EVTDESC_MNM_9107_KING;重量のある箱が私の前に運ばれてきた。[From.GetFirstName]は[From.GetHerHis]に与えられた仕事を終え、戴冠宝器の一式が完成した。私は[From.GetFirstName]の手技を検めるときを心待ちにしている。;;;;;;;;;;;;x
 EVTDESC_MNM_9107_GENERIC;重量のある箱が私の前に運ばれてきた。[From.GetFirstName]は[From.GetHerHis]に与えられた仕事を終え、戴冠宝器の一式が完成した。私はこれが[Root.PrimaryTitle.GetName]の[Root.GetTitle]としての地位に資するものであることを期待し、[From.GetHerHis]の手技を検めるときを心待ちにしている。;;;;;;;;;;;;x
-EVTDESC_MNM_9120_NEW;「[From.GetWeaponsmithWeapon]。しかと承りました。素晴らしい選択です、[Root.GetTitle]」。[From.GetMasterMistressCap] [From.GetFirstName]はそう述べると、徒弟を呼びつけ、いくつかの[From.GetWeaponsmithWeapon]を腕に抱えて持ってこさせた。「こちらに見本があります。いずれも殿下には相応しいものと存じますが、作る品と支払い額を決めていただかなくてはなりません。」;;;;;;;;;;;;x
+EVTDESC_MNM_9120_NEW;「[From.GetWeaponsmithWeapon]。しかと承りました。素晴らしい選択です、[Root.GetTitle]」。 [From.GetFirstName]親方はそう述べると、徒弟を呼びつけ、いくつかの[From.GetWeaponsmithWeapon]を腕に抱えて持ってこさせた。「こちらに見本があります。いずれも殿下には相応しいものと存じますが、作る品と支払い額を決めていただかなくてはなりません。」;;;;;;;;;;;;x
 EVTDESC_MNM_9124_KING;[From.GetMasterMistressCap] [From.GetFirstName]の一番弟子が、完成した[From.GetWeaponsmithWeapon]を運んできた。造形はシンプルだが上品だ。そして、戦場へ持って行くのに問題ない品質に見える。;;;;;;;;;;;;x
 EVTDESC_MNM_9124_GENERIC;[From.GetMasterMistressCap] [From.GetFirstName]の一番弟子が、遂に完成した[From.GetWeaponsmithWeapon]を私の元へと運んできた。私が長らく心待ちにしていたものだ。それは美しく、また優雅で、私の期待を超える出来映えに心が躍った。;;;;;;;;;;;;x
 EVTDESC_MNM_9129_NEW;「[Root.GetTitle]、良い知らせです」。[From.GetFirstName]は興奮して言った。[GetWeaponArmorSmith]によれば、貴金属と宝石が近隣のプロヴィンスに存在しているようです。遠征を送ることで、現在製作している[From.GetWeaponsmithWeapon]の品質を向上させることも可能でしょう。;;;;;;;;;;;;x

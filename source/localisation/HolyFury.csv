@@ -6152,13 +6152,13 @@ EVTOPTB_HFP_11013;その通りだな！謙虚さから得られるものなど�
 EVTDESC_HFP_11014_A;[battlefield_location.GetTerrain]を横切る計画を説明している間、将校たちは部隊に命令が行き渡るように熱心に聞き入っている。最近の士気は良好だ。我々の連隊には軋轢など存在せず、我々の[Root.GetMilitarySquadPride]は有名になっている。;;;;;;;;;;;;x
 EVTOPTA_HFP_11014;優れた指揮力には信頼が必要だ。;;;;;;;;;;;;x
 EVTOPTB_HFP_11014;ただ単に自分たちを信用するようになっただけの話だ。;;;;;;;;;;;;x
-EVTOPTC_HFP_11014;Strategy is truly an art form in itself.;;;;;;;;;;;;x
-EVTDESC_HFP_11015;Rumors are trickling in from the troops present at the battle of [battlefield_location.GetName]. My commander [home_commander.GetTitledFirstName] has been making a great impression on [home_commander.GetHerHis] soldiers, and [home_commander.GetHerHis] regiment is famous for their [home_commander.GetMilitarySquadPride]!;;;;;;;;;;;;x
-EVTOPTA_HFP_11015;Let [home_commander.GetHerHim] be a shining example for our recruits!;;;;;;;;;;;;x
+EVTOPTC_HFP_11014;戦略というものはそれ自体が芸術そのものなのだ。;;;;;;;;;;;;x
+EVTDESC_HFP_11015;[battlefield_location.GetName]の戦いの直後から、その部隊でいくつかの噂が漏れ聞こえてくる。我が軍の指揮官[home_commander.GetTitledFirstName]は、[home_commander.GetHerHis]の部下の兵士たちに強い印象を与え、[home_commander.GetHerHis]の連隊はその[home_commander.GetMilitarySquadPride]で有名となっている。;;;;;;;;;;;;x
+EVTOPTA_HFP_11015;[home_commander.GetHerHim]を新兵たちにとっての素晴らしい模範としよう！;;;;;;;;;;;;x
 EVTDESC_HFP_11016;[battlefield_location.Capital.GetName]の外で続く戦いは、最高の軍事戦略を引き出した。その一人がこの革新的な歴戦の[invited_character.Culture.GetName]人である。[invited_character.GetSheHeCap]は矢が飛んでも安全なよう、戦場からは引退して[home_capital_province.GetName]に戻り、自分の仕事を続けることを提案している。;;;;;;;;;;;;x
 EVTOPTA_HFP_11016;これはいい投資になるだろう。;;;;;;;;;;;;x
 EVTOPTB_HFP_11016;馬鹿なことを。この前線で、使えるものはすべて使うのだ。;;;;;;;;;;;;x
-war_knowledge_desc;This community is working hard on military technological innovation.;;;;;;;;;;;;x
+war_knowledge_desc;この地域社会は軍事技術の革新のために懸命に働いている。;;;;;;;;;;;;x
 EVTDESC_HFP_11017;「いつか、貴方も何かを専攻しなければならない」、頭の中で老いた給仕の声が聞こえた。そのとき戦場の向こう側と[battlefield_location.GetName]の[battlefield_location.GetTerrain]を注意深く見て、その景色に後押しされ決心がついた。これからの戦いでは何かに焦点を当てるべきだが、果たして一体何に集中するべきだ？;;;;;;;;;;;;x
 EVTDESC_HFP_11020;[battlefield_location.GetTerrain]を行軍しているとき、士官の一人が私にひっそりと告げた。「[home_capital_province.GetName]へ帰ったら……退役して、パン屋になろうと思っているのです！」私はクスクスと笑い、自分のもっと雄大な野望を頭に浮かべた。「[Root.GetLordLady]はいかがです？この先なにに集中するおつもりですか？」;;;;;;;;;;;;x
 EVTOPTA_HFP_11020;兵站学を学び、組織化を行わなければ！;;;;;;;;;;;;x
@@ -6202,7 +6202,7 @@ EVTOPTA_HFP_11019_2;召使いよ、私は悪夢にうなされてなどいない
 EVTDESC_HFP_11019_B;戦場から戻っても、家に居ることを未だに実感できずにいる。体はここにあるが、心は[battlefield_location.GetName]に居続けているのだ。時々、私は死んでいて、これはすべて悪い夢なのだ、と考えてしまう。呼吸ができなくなることすらある始末だ。;;;;;;;;;;;;x
 EVTOPTB_HFP_11019_1;再び生を感じたい。召使い、ちょっと来てくれ！;;;;;;;;;;;;x
 EVTOPTB_HFP_11019_2;一人の時間さえあれば十分だ。;;;;;;;;;;;;x
-EVTDESC_HFP_11019_C;[battlefield_location.GetName]の戦いの後、倒れた兵士たちの家族に、彼らの運命を知らせることが私の義務だった。 夜になっても、10代の娘の目には憎しみの炎が燃えていた。 それが私のせいではないとわかってはいるが、私は彼らの人生を壊してしまった。;;;;;;;;;;;;x
+EVTDESC_HFP_11019_C;[battlefield_location.GetName]の戦いの後、倒れた兵士たちの家族に、彼らの運命を知らせることが私の義務だった。 夜になっても、ある十代の娘の目に憎しみの炎が燃えていたのが頭から離れない。 それが私のせいではないとわかってはいるが、私は彼らの人生を壊してしまったのだ。;;;;;;;;;;;;x
 EVTOPTC_HFP_11019_1;それは私のせいだ。決して勇敢な君の[Root.GetFatherMother]のせいではない。;;;;;;;;;;;;x
 EVTOPTC_HFP_11019_1_TT;あなたは罪の意識を感じずに済む方法を見つけました。永遠に。\n;;;;;;;;;;;;x
 EVTOPTC_HFP_11019_2;絶えず誰かは私に死んでほしいと願っているのさ。;;;;;;;;;;;;x
@@ -6223,17 +6223,17 @@ EVTOPTA_HFP_11025_dog;ああ！私の犬が！お前は誰よりも賢くてい�
 EVTOPTA_HFP_11025_TT_dog;あなたの犬はあなたをかばって矢に射貫かれた。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_cat;この矢は何だ！？ 私の猫が！嘘だ！;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_cat;あなたの猫が戦死者のリストに加えられた。\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_horse;[Root.GetWarhorseName], no! Your sacrifice will not be forgotten...!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_horse;Your horse dies in battle.\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_owl;Nooo! My trusted companion!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_owl;Your owl is added to the list of casualties.\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_eagle;Arrows!!! Nooo! My trusted companion, where are you?!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_eagle;Your eagle dies in battle.\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_horse;嘘だ、[Root.GetWarhorseName]！　お前の犠牲は忘れない…！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_horse;あなたの馬は戦死しました。\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_owl;ああ！私の信頼する友が！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_owl;あなたのフクロウが戦死者のリストに加えられた。\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_eagle;矢が！！嘘だ！私の信頼する友よ、どこにいるんだ！？;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_eagle;あなたの鷹は戦死しました。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_falcons;Is that a falcon?! What a strange sight!;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_falcons;The bird probably saved your life.\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_fallback;私は......何が起こった? 私はどうも場違いなようだな。;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_fallback;あなたはいずれ、この出来事の克服に苦しむことになる...\n;;;;;;;;;;;;x
-EVTOPTB_HFP_11025;敵指揮官はどこだ!? 私が自ら[enemy_commander.GetHerHim]を殺してやる!;;;;;;;;;;;;x
+EVTOPTB_HFP_11025;敵指揮官はどこだ！？ 私がこの手で奴を殺してやる!;;;;;;;;;;;;x
 EVTOPTB_HFP_11025_TT;You chase down the §Y[enemy_commander.GetTitledFirstName]§! for a personal duel, while your soldiers tend to your wounded animal.\n;;;;;;;;;;;;x
 chase_down_enemy_commander_tt;あなたは戦場で、決闘に臨むため§Y[enemy_commander.GetTitledFirstName]§!を追いかける...!\n;;;;;;;;;;;;x
 string_Lightning;Lightning;;;;;;;;;;;;x

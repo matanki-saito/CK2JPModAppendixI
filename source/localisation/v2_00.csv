@@ -1125,7 +1125,7 @@ EVTNAME_SoA_5357;[From.GetFirstName]と[Root.GetTitle]位;;;;;;;;;;;;x
 EVTDESC_SoA_5357;ある晩、宮廷で[From.GetFirstName]が近くに来て、内密に話したいと言って来た。あなたは了解し、自分の個室へ招き座って話すことにした。[From.GetFirstName]は、キリストに関する彼女の考えと、敵から領邦を守るために戦った日々について話し始めた。彼女があなたの目を見て熱っぽく話す様からは、飾らない誠意と強い情熱がうかがい知れた。そして彼女は、選ばれし[Root.GetTitle]であるあなたに熱烈な忠誠心と愛情を抱いていると断言したのである。あなたは彼女の情熱と知性と誠意に強い感銘を受けた。;;;;;;;;;;;;x
 EVTOPTA_SoA_5357;私に会いに来てくれてありがとう、[From.GetFirstName];;;;;;;;;;;;x
 EVTOPTB_SoA_5357;親愛なる[From.GetFirstName]よ、そなたは本当に[Root.Religion.GetRandomGodName]から送られた者だ！;;;;;;;;;;;;x
-EVTOPTC_SoA_5357;お前が権力を欲しがっている偽者なのはわかっているぞ、[From.GetFirstName]。;;;;;;;;;;;;x
+EVTOPTC_SoA_5357;お前が権力を切望するペテン師なのはわかっているぞ、[From.GetFirstName]。;;;;;;;;;;;;x
 EVTOPTD_SoA_5357;愛しているだって？ こちらに来るがいい…;;;;;;;;;;;;x
 EVTNAME_SoA_5358;使命;;;;;;;;;;;;x
 EVTDESC_SoA_5358;[FromFrom.GetFirstName]は、あなたに真剣な眼差しを向けて言った。「[Root.GetLordLady]、どうかお聞きください。この国は傷ついており、それを癒せるのは正当な支配権をお持ちのあなただけです。私があなたをお助けします。それが我らの主キリストから私に授けられた使命なのです。」;;;;;;;;;;;;x
@@ -1179,7 +1179,7 @@ EVTDESC_SoA_5392;[From.GetFirstName]は1ヶ月以上にわたる法廷での長�
 EVTOPTA_SoA_5392;彼女は有罪だ。;;;;;;;;;;;;x
 EVTOPTB_SoA_5392;彼女は無罪だ。;;;;;;;;;;;;x
 EVTNAME_SoA_5394;[From.GetFirstName]の処刑;;;;;;;;;;;;x
-EVTDESC_SoA_5394;炎が段々強く燃え上がっていき、薪を食いちぎるかのようにパチパチという音をたてている。炎は[From.GetFirstName]の足下まで寄っていき、彼女は次第に身をよじり始めた。集まった群衆は呆然と黙り込んだままその光景をみつめている。彼女の死を強く願っている者もいるが、他の者は目の前の光景への恐怖に気圧されているのだ。この数ヶ月のあいだ領国じゅうの関心を集めていたこの女性の生涯は終わりを迎えつつある。彼女が聖人か悪魔かは見物人たちの中でも見解は分かれるだろうが、彼女が長年に渡って人々の記憶に残るであろうことは確かだ。やがては彼女の名誉回復が行われるかもしれないが、あるいはそうならないかもしれない。\n火が次第に高く燃えて[From.GetFirstName]の身体を包み込んでいくとともに、彼女は激しくけいれんしたが叫びはしなかった。その眼差しは天空にしっかりと向けられ、頬には涙が流れていた。今や多くの見物人は立ち去って行ったが、幾人かはその場に留まり目をそらすことができずにいる。やがて炎は[From.GetFirstName]を囲むように燃え上がり、彼女は視界から姿を消した。;;;;;;;;;;;;x
+EVTDESC_SoA_5394;炎が段々強く燃え上がり、薪を食いちぎるかのようにパチパチという音をたてている。炎は[From.GetFirstName]の足下まで寄っていき、彼女は次第に身をよじり始めた。集まった群衆は呆然と黙り込んだままその光景をみつめている。彼女の死を強く願っている者もいるが、他の者は目の前の光景への恐怖に気圧されているのだ。この数ヶ月のあいだ領国じゅうの関心を集めていたこの女性の生涯は終わりを迎えつつある。彼女が聖人か悪魔かは見物人たちの中でも見解は分かれるだろうが、彼女が長年に渡って人々の記憶に残るであろうことは確かだ。やがて彼女の名誉回復が行われるかもしれないし、そうならないかもしれない。\n火が次第に高く燃えて[From.GetFirstName]の身体を包み込んでいくとともに、彼女は激しくけいれんしたが叫びはしなかった。その眼差しは天空にしっかりと向けられ、頬には涙が流れていた。今や多くの見物人は立ち去って行ったが、幾人かはその場に留まり目をそらすことができずにいる。やがて炎は[From.GetFirstName]を囲むように燃え上がり、彼女は視界から姿を消した。;;;;;;;;;;;;x
 EVTOPTA_SoA_5394;主よ、彼女の魂に慈悲をたれ給まえ。;;;;;;;;;;;;x
 EVTNAME_SoA_5395;無罪の[From.GetFirstName];;;;;;;;;;;;x
 EVTDESC_SoA_5395;[From.GetFirstName]の無罪判決は領国じゅうに様々な反応を起こした。農民たちはそれを祝ったが貴族と聖職者はより複雑な反応を示している。[From.GetFirstName]はこの数日を祈りに費やした。彼女はもはや以前のように軍隊を指揮することも、[Root.GetTitle]に快く意見を聞き容れられることもないということを理解している。それでも無罪判決は彼女の言動についての嫌疑を晴らしたのであり、彼女の身辺は平穏のようだ。彼女はもはや政治や軍略に関わることなく、その生涯を修道女として過ごすことに満足しているらしい。;;;;;;;;;;;;x
@@ -1188,8 +1188,8 @@ EVTNAME_SoA_5398;数年後…;;;;;;;;;;;;x
 EVTDESC_SoA_5398;最初の何年かは波瀾に満ちたものであったが、この国の皆は[FromFrom.GetFullName]に慣れてしまった。彼女を高く評価する人もいたがそうではない人もいた。しかし非常に激しい論争と騒動は収まり、今では人々はその他の問題に心を奪われている。彼女は今日も生きているのだ、若い頃の[From.GetName]の乙女の物語はもはや伝説の類になってしまってはいても。;;;;;;;;;;;;x
 EVTOPTA_SoA_5398;時が経てば、あらゆることが当たり前のものになってしまう。;;;;;;;;;;;;x
 EVTTOOLTIP306;[This.GetFirstName]はあなたの[This.GetSonDaughter]と見なされ、この後で嫡出子と認めることもできます;;;;;;;;;;;;x
-EVTNAME_SoA_550;大祭司（コヘン・ガドル）;;;;;;;;;;;;x
-EVTDESC_SoA_550;There has not been a Kohen Gadol – a High Priest of Judaism – since the Romans destroyed the Second Temple roughly a thousand years ago. At long last, this position has been filled and the High Priesthood reconstituted.\n\nLike the Jewish priests of ancient times, the Kohen Gadol was traditionally required to be a descendant of Aaron, the older brother of Moses. Due to a lack of suitable candidates this requirement has been waived, but the new High Priest still enjoys the respect of the Jewish religious communities, and the Priesthood has moved into and established itself at the Third Temple.;;;;;;;;;;;;x
+EVTNAME_SoA_550;大祭司;;;;;;;;;;;;x
+EVTDESC_SoA_550;ユダヤ教の高位聖職者である大祭司（コヘン・ガドル）は、およそ1000年前にローマ人によって第二神殿が破壊されて以来、存在しなかった。だが、ついにこの高位聖職者の職が復活しその地位に就く者が現れたのだ。\n\n古代のユダヤ教聖職者のように、伝統的に大祭司はモーセの兄アーロンの子孫であることが求められていた。適切な候補者が見当たらないため、この条件は撤廃されたが、それでも新たな大祭司はユダヤ人の宗教的共同体の尊敬を集めており、この神職は大祭司自身を第三神殿に移らせ、神殿を確固としたものとするだろう。;;;;;;;;;;;;x
 EVTOPTA_SoA_550;大祭司よ永遠なれ！;;;;;;;;;;;;x
 COMBATVIEW_PHASE_DESC_NARROW;この支隊の指揮官は、戦闘に有利な§Y狭い側面部§Wを見つけ、敵軍が全戦力投入をできなくしました。;;;;;;;;;;;;x
 NARROW_FLANK_BOTTLENECK;この側面部には難所があるため、支隊は$MAX_TROOPS$だけが戦うことができます。;;;;;;;;;;;;x
