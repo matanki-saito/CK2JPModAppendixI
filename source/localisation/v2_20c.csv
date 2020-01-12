@@ -98,5 +98,5 @@ EVTTITLE_CM_1500;シャルルマーニュの戴冠式;;;;;;;;;;;;x
 EVTDESC_CM_1500;Having taken the reins of power without fear, defeated his enemies and ruled the Frankish realms successfully, [From.GetFirstNameWithNick] was finally crowned emperor on [GetDateText]. He stood still as a statue and cold as ice before the throne as the crown of [From.PrimaryTitle.GetName] was solemnly placed upon his head. True heir to his father Pepin, descendant of Karl the Hammer, leader of men and master of war, he was claiming his exalted place in history. He looked out across the gathered lords and priests, his eye fixed on something beyond this triumphant moment, something great, a new ambition...;;;;;;;;;;;;x
 CHRONICLE_AVOID_IMPRISON_WAR;[Root.GetTitledNameWithNick]は[From.GetTitledNameWithNick]の投獄より命からがら逃れ、反乱を起こさざるをえなくなった。;;;;;;;;;;;;x
 CHRONICLE_FAILED_IMPRISON_WAR;[Root.GetTitledNameWithNick]は[From.GetTitledNameWithNick]を投獄しようとしたが失敗し、反乱を起こされた。;;;;;;;;;;;;x
-CHRONICLE_INHERIT_MAJOR_TITLE;[Root.GetDynName]家は[FromFrom.GetDynName]家より[From.GetName]を相続した。.;;;;;;;;;;;;x
+CHRONICLE_INHERIT_MAJOR_TITLE;[Root.GetDynName]は[FromFrom.GetDynName]より[From.GetName]を相続した。.;;;;;;;;;;;;x
 RETTYPE_SKIR2;軽装散兵;;;;;;;;;;;;x

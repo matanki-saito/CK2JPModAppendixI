@@ -3286,8 +3286,8 @@ EVTDESCIHFP21113;During my visit to [From.Capital.GetName] I could not deny my e
 EVTDESCLHFP21113;During my stay, [From.GetFirstName] introduced me to new and unbelievable heights of pleasure and sublime, delectable experiences. Now that I am back to [Root.Capital.GetName], I have found myself longing for another taste of [From.GetHerHis] hedonistic life.;;;;;;;;;;;;x
 EVTOPTAHFP21113;I wish to make [From.GetFirstName]'s lifestyle my own.;;;;;;;;;;;;x
 EVTOPTBHFP21113;It would be only a waste of time.;;;;;;;;;;;;x
-EVTDESCHFP21114;I have just discovered that, after my visit, [From.GetTitledFirstName] decided to adopt my own lifestyle.;;;;;;;;;;;;x
-EVTOPTAHFP21114;I must really have impressed [From.GetHerHim]!;;;;;;;;;;;;x
+EVTDESCHFP21114;私の訪問ののちに、[From.GetTitledFirstName]が私自身のライフスタイルを取り入れることを決意したと知った。;;;;;;;;;;;;x
+EVTOPTAHFP21114;本当に[From.GetHerHim]には感服せざるをえない！;;;;;;;;;;;;x
 EVTDESCHFP21115;Despite any difference that we might have, I cannot deny [FromFrom.GetTitledFirstName] was extremely gracious as a host, to the point that I now feel indebted to [FromFrom.GetHerHim] after my visit.;;;;;;;;;;;;x
 EVTOPTAHFP21115;I owe [FromFrom.GetHerHim] a favor.;;;;;;;;;;;;x
 EVTOPTBHFP21115;Being a good host was just [FromFrom.GetHerHis] duty.;;;;;;;;;;;;x
@@ -6561,8 +6561,8 @@ EVTOPTC_HF_40055;An embarrassment to the family.;;;;;;;;;;;;x
 EVTDESCB_HF_40055;[saint_person.GetTitledFirstName] passed on [saint_person.GetDeathDate], and even though [saint_person.GetSheHe] had [saint_person.GetHerHis] shortcomings in life, [bishopric_holder.GetTitledFirstName] has called together a celebration in [saint_person.GetHerHis] honor.\n\nMaking a compassionate inspiring speech about the pious life of [saint_person.GetTitledName], in spite of [saint_person.GetHerHis] faults in life. Like St. Augustine, [saint_person.GetSheHe] managed to move past [saint_person.GetHerHis] faults, and move on to become a better [saint_person.GetManWoman] living for the faith.\n\nIt is hard not to be moved by a tale filled with such hardship, a [saint_person.GetManWoman] like [saint_person.GetHerHim] is what we need to inspire the masses.;;;;;;;;;;;;x
 EVTOPTB_HF_40055;It is only right.;;;;;;;;;;;;x
 EVTOPTD_HF_40055;An honor for the family.;;;;;;;;;;;;x
-TITLEHF.40060;バチカンの強圧;;;;;;;;;;;;x
-EVTDESCA_HF_40060;Letters has been sent out to the whole [saint_person.Religion.GetName] world from the Vatican. The Pope has demanded a stop to the beatification of sinful people and revoked the rights from the rest of the clergy to do so.\n\nFrom now on the granting of beatification will be given out by the Pope personally. The Vatican will no longer stand more shameful examples like the wrongful beatification of [saint_person.GetDynName] in its name.\n\nNow only the truly pious followers of [GetJesus] will be granted the reverence of the faith.;;;;;;;;;;;;x
+TITLEHF.40060;バチカンの激怒;;;;;;;;;;;;x
+EVTDESCA_HF_40060;バチカンから[saint_person.Religion.GetName]の国々のいたるところに信書が送られた。教皇聖下は罪深い人々を列福するのをやめ、そのようなことを行なう他の聖職者たちからその権限を取り上げることをお望みになっている。\n\n今後、列福の付与は教皇聖下自らが行われることとなるだろう。バチカンは[saint_person.GetDynName]とかいう者が誤って列福されてしまったような、甚だしく恥ずべき事例にもはや我慢できないのだ。\n\nこれからは、真に敬虔な[GetJesus]の信徒たちにのみ宗教上の崇敬が与えられるであろう。;;;;;;;;;;;;x
 EVTOPTA_HF_40060;ついに茶番が終わるか;;;;;;;;;;;;x
 EVTOPTC_HF_40060;And end to the shame to this family as well.;;;;;;;;;;;;x
 EVTDESCB_HF_40060;Letters has been sent out to the whole [saint_person.Religion.GetName] world from the Vatican. The Pope has demanded a stop to the beatification of sinful people and revoked the rights from the rest of the clergy to do so.\n\nFrom now on, the granting of beatification will be given out by the Pope personally. A shame that the Church are so willing to overstep its boundaries.\n\nTrying to unjustly blame it upon people who has done their utmost for the faith reeks of nothing more than desperation from the Vatican. Pathetic, this drastic move will not be forgotten.;;;;;;;;;;;;x
@@ -6808,9 +6808,9 @@ GetNatureLunatic;[saint_person.GetHerHis] erratic nature, and ;;;;;;;;;;;;x
 GetNatureZealous;[saint_person.GetHerHis] righteous nature, and ;;;;;;;;;;;;x
 GetNatureHonest;[saint_person.GetHerHis] honest nature, and ;;;;;;;;;;;;x
 GetGenericNature;;;;;;;;;;;;;x
-random_miracle_01;It is said Saint [saint_person.GetFirstName] woke up to [saint_person.GetHerHis] hands and feet bleeding profusely, only for it to miraculously heal a couple of minutes later. Such was [saint_person.GetHerHis] life, so closely following in the footsteps of [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
+random_miracle_01;ある時、聖[saint_person.GetFirstName]は[saint_person.GetHerHis]の両手両足からおびただしい血が流れていることに気付きましたが、2分と経たないうちにそれが癒えてしまったと言われています。[saint_person.GetHerHis]の生涯はそのようなものであり、[saint_person.Religion.GetHighGodName]の歩みを忠実にたどるものであったのです。;;;;;;;;;;;;x
 random_miracle_02;聖[saint_person.GetFirstName]の体は[saint_person.GetSheHe]が亡くなった時と同じ状態のままで、棺は穏やかな花の香りで包まれていると言われています。[saint_person.GetHerHis]の体に起きた不朽体の奇跡こそが、[saint_person.GetHerHis]が天に昇ったことの証です。;;;;;;;;;;;;x
-random_miracle_03;The stories of the miraculous healing of Saint [saint_person.GetFirstName] are numerous. [saint_person.GetSheHeCap] traveled all across the [saint_person.Religion.GetGroupName] world, bringing the sick and injured back from the very brink of death.;;;;;;;;;;;;x
+random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語は数多くあります。[saint_person.GetSheHeCap]は[saint_person.Religion.GetGroupName]の国々を旅して回り、病や怪我に苦しむ人々をまさに死の淵からを救ったのです。;;;;;;;;;;;;x
 random_miracle_04;They say [saint_person.GetFirstName] had prophetic foresight, being able to see things which would happen days, months or years later. Through [saint_person.GetHerHis] visions, Saint [saint_person.GetFirstName] guided friends and family to avoid the dangers they would face.;;;;;;;;;;;;x
 random_miracle_05;It was often said that Saint [saint_person.GetFirstName] was so understanding of others that [saint_person.GetSheHe] would be able to practically read their minds. Despite [saint_person.GetHerHis] gift, [saint_person.GetSheHe] never used it for evil, and was truly a servant of [saint_person.Religion.GetHighGodName], blessing those in [saint_person.GetHerHis] presence.;;;;;;;;;;;;x
 random_miracle_06;Many are those who work for [saint_person.Religion.GetRandomEvilGodName], but they all faded in the presence of Saint [saint_person.GetFirstName]. It is said [saint_person.GetSheHe] ripped evil out of people, forcing them back into the right path in life for the glory of [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
@@ -7491,7 +7491,7 @@ opinion_forgiven;Forgave Me;;;;;;;;;;;;x
 EVTOPTZHFP20404;This child is not worth my life!;;;;;;;;;;;;x
 tooltip_20404_abortion;Drink a §YJunipers' Potion§! to rid yourself of the child and avoid further complications.;;;;;;;;;;;;x
 EVTDESCHFPA20061;As if being infidel to me was not enough, I have just discovered that, rather than risk her life in a difficult pregnancy, [From.GetTitledFirstName] has decided to kill the child growing in her womb.;;;;;;;;;;;;x
-EVTDESCHFPB20061;おぞましい事実が発覚しました！[From.GetTitledFirstName]は困難な妊娠で自分の命を危険にさらすより、自らの子宮に育ちつつある子供を殺すことを選択しました。;;;;;;;;;;;;x
+EVTDESCHFPB20061;おぞましい事実が発覚した！[From.GetTitledFirstName]は困難な妊娠で自分の命を危険にさらすより、自らの子宮に育ちつつある子供を殺すことを選択しましたのだ。;;;;;;;;;;;;x
 EVTOPTAHFP20061;私の子ではない。私には関係ない。;;;;;;;;;;;;x
 EVTOPTBHFP20061;彼女の罪を皆に知らしめるのだ！;;;;;;;;;;;;x
 EVTOPTCHFP20061;気を強くもって、彼女を許さなければ。;;;;;;;;;;;;x
@@ -13039,7 +13039,7 @@ EVTDESCHFA23893;I was so close to winning. I really thought the judges had taken
 EVTOPTAHF23893;I was so close...;;;;;;;;;;;;x
 EVTDESCHFA23894;候補者たちは、皆に見えるようにメインホールを通って一人ずつ行進した。そして少しずつ、部族の皆は、最も良い若者を選び始めた。 太陽が地平線のふちを舐めるころ、一人の[tribal_festival_winner.GetManWoman]だけが残った。[tribal_festival_winner.GetFirstName]は、最も[great_tribal_festival_host.Capital.GetName]の部族の皆の声援を受けた。;;;;;;;;;;;;x
 EVTDESCHFB23894;One by one, we parade through the main hall for all our tribesmen to see and comment upon, and, little by little, the judges start picking the best of us. Unfortunately, I am not one of the lucky ones. As the sun starts to wane on the horizon, only one [tribal_festival_winner.GetManWoman] is left: [tribal_festival_winner.GetFirstName], who is cheered as fairest of [great_tribal_festival_host.Capital.GetName].;;;;;;;;;;;;x
-EVTOPTAHF23894;[tribal_festival_winner.GetSheHeCap] does look rather pretty...;;;;;;;;;;;;x
+EVTOPTAHF23894;[tribal_festival_winner.GetSheHeCap] は魅力的というよりむしろ……;;;;;;;;;;;;x
 EVTDESCHFA23895;My poem captivates everyone in the long-house. It is thrilling and passionate, featuring epic battles and tragic romances, and leaving everyone holding their breath. Once I conclude my performance, there is little doubt that the prize for best bard of [great_tribal_festival_host.Capital.GetName] will go to me.;;;;;;;;;;;;x
 EVTOPTAHF23895;This contest was but a formality.;;;;;;;;;;;;x
 EVTDESCHFA23896;My poem leaves quite a few mouths hanging, and seems to receive a very good reaction from the guests. Unfortunately, when [tribal_festival_winner.GetFirstName] starts telling [tribal_festival_winner.GetHerHis] story, it becomes clear to me that I will not be the winner of this contest.;;;;;;;;;;;;x
@@ -13497,7 +13497,7 @@ EVTDESCHF25238;I let the die bounce on the table twice and, just as it is about 
 EVTOPTAHF25238;Come on, folks, pay up!;;;;;;;;;;;;x
 EVTOPTZHF23900;この[tribal_festival_winner.GetManWoman]は、賞に値する！;;;;;;;;;;;;x
 TT_EVTOPTZHF23900;Give a prize to recognize §Y[tribal_festival_winner.GetFirstName]§!'s feat and ingratiate [tribal_festival_winner.GetHerHis] ancestors.;;;;;;;;;;;;x
-opinion_victory_prize;Gave Victory Prize;;;;;;;;;;;;x
+opinion_victory_prize;賞品を与えた;;;;;;;;;;;;x
 EVTDESCHFA23904;[From.GetTitledFirstName] has decided to give me a large sum of money for my performance during the festival, praising me in front of all the tribesmen gathered in [From.Capital.GetName].;;;;;;;;;;;;x
 EVTOPTAHF23904;Thank you!;;;;;;;;;;;;x
 tooltip_betting_1000_gold;Bet §G1000.0§! gold.;;;;;;;;;;;;x
@@ -19715,7 +19715,7 @@ africa_drought_risk_desc;現在、この地域は雨が降らず日照りに苦�
 africa_drought;Drought;;;;;;;;;;;;x
 africa_drought_desc;This area is suffering a severe drought, its people starving and fighting over resources.;;;;;;;;;;;;x
 africa_rain_dance_1;雨乞いの踊りの儀式;;;;;;;;;;;;x
-africa_rain_dance_1_desc;The inhabitants in this area are praying for rain.;;;;;;;;;;;;x
+africa_rain_dance_1_desc;この地域の住民は、雨乞いの儀式の真っ最中である。;;;;;;;;;;;;x
 africa_rain_dance_2;繁栄祭;;;;;;;;;;;;x
 africa_rain_dance_2_desc;地域の信仰は収穫の神々に捧げられています。;;;;;;;;;;;;x
 africa_rain_dance_successful;儀式の成功;;;;;;;;;;;;x
