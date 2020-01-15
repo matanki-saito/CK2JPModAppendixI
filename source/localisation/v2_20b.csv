@@ -285,7 +285,7 @@ donate_money_to_haruriyyah_desc;I can donate money to the Haruriyyah in exchange
 expelled_d_zun_warriors;太陽の騎士団を追放;;;;;;;;;;;;x
 expelled_d_haruriyyah;ハルリ派を追放;;;;;;;;;;;;x
 EVTDESC_CM_4399;Your Highness, this extremely generous donation will not be forgotten. You have my friendship, as well as that of the Priesthood. Rest assured that you will be rewarded in Heaven, if not on Earth!\nPraise [Root.Religion.GetRandomGodName],\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
-EVTOPTA_CM_4399;Praised be [Root.Religion.GetRandomGodName].;;;;;;;;;;;;x
+EVTOPTA_CM_4399;[Root.Religion.GetRandomGodName]を讃えよ。;;;;;;;;;;;;x
 OVERWRITE_HOLDING;新しい地区を建設し、部族の集落を破壊する;;;;;;;;;;;;x
 borrowed_from_haruriyyah;ハルリ派から300¤を借りている;;;;;;;;;;;;x
 EVTDESC_CM_4303;Peace be upon you, most magnificent [Root.GetTitledFirstName]. As you may know, our order is in need of leaders, and, considering your debt to us, I would like to request that your able and noble son [FromFrom.GetFirstName] serve in our ranks. Naturally, this would disinherit him. Allah be with you,\n\n[From.GetTitledName];;;;;;;;;;;;x

@@ -516,7 +516,7 @@ happy_parent_opinion;幸せな親;;;;;;;;;;;;x
 EVTDESC_TOG_7510_ZEMYNA;Lately, you have striven to act in the spirit of Zemyna by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
 EVTDESC_TOG_7510_AKKA;Lately, you have striven to act in the spirit of Akka by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
 EVTOPTA_TOG_7512;女神よ感謝します！;;;;;;;;;;;;x
-EVTOPTB_TOG_7512;Yet I cannot bring myself to touch [From.GetHerHim]...;;;;;;;;;;;;x
+EVTOPTB_TOG_7512;それでも私は[From.GetHerHim]に触れることが出来ない…;;;;;;;;;;;;x
 EVTDESC_TOG_7514;Your [GetFromRelation], little [From.GetFirstName], has sought you out with a dead bird cradled in [From.GetHerHis] arms. With a concerned look on [From.GetHerHis] face, [From.GetFirstName] asks you what happened to the animal. Why is she not flying anymore?;;;;;;;;;;;;x
 EVTOPTA_TOG_7514_MORANA;The bird is in with Morana now, dearest [From.GetFirstName].;;;;;;;;;;;;x
 EVTOPTA_TOG_7514_VELES;The bird is in with Veles now, dearest [From.GetFirstName].;;;;;;;;;;;;x
@@ -542,7 +542,7 @@ EVTDESC_TOG_5716_TM;タピオとミエリッキの敬虔な信奉者である貴
 EVTDESC_TOG_7516_PERUN;ペルーンの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
 EVTOPTA_TOG_7516_A;狩りの神と女神、タピオとミエリッキよ感謝します！;;;;;;;;;;;;x
 EVTOPTA_TOG_7516_B;雷神に栄光あれ！;;;;;;;;;;;;x
-inspired_warriors_desc;Seasoned warriors have traveled from far and wide, to fight for the true faith.;;;;;;;;;;;;x
+inspired_warriors_desc;世界各地から歴戦の戦士たちが、真の信仰の敵と戦うためにやってきた。;;;;;;;;;;;;x
 EVTDESC_TOG_7518_DIEVAS;良きディエバスのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「ディエヴァスの声」と呼ぶ人もいる。;;;;;;;;;;;;x
 EVTDESC_TOG_7518_AKKA;良きアッカのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「アッカの声」と呼ぶ人もいる。;;;;;;;;;;;;x
 EVTOPTA_TOG_7518_A;ディエヴァスに名誉をもたらすことを誇りに思う。;;;;;;;;;;;;x
@@ -567,7 +567,7 @@ EVTOPTA_TOG_7522_A;That treacherous snake!;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_B;Perhaps I should warn [god_plot_target.GetHerHim].;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_C;それが神の意志ならば。;;;;;;;;;;;;x
 EVTDESC_TOG_7524_MORANA;In your search for wisdom in the name of Morana, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.;;;;;;;;;;;;x
-EVTOPTA_TOG_7524;The Goddess' wisdom is a bottomless well. Praised be she!;;;;;;;;;;;;x
+EVTOPTA_TOG_7524;女神の叡智はまことに底なしだ。女神を讃えよ！;;;;;;;;;;;;x
 hunters_physique;狩人の体格;;;;;;;;;;;;x
 hunters_physique_desc;この人物は多くの時間を荒野での狩りに費やしているため、力と回復力、そして正確さを獲得しました。;;;;;;;;;;;;x
 EVTDESC_TOG_7517;After each hunt you make sure to leave an offering for Tapio and Mielikki in thanks of their great generosity. They surely must be pleased, for you have noticed that nowadays your arrows find their targets more often than they once did. You have been blessed with strength and a deadly aim.;;;;;;;;;;;;x
@@ -729,7 +729,7 @@ EVTDESC_TOG_7506_DONGO;よく晴れたある日、何人かと狩りに勤しむ
 EVTDESC_TOG_7506_BIDA;Many find it odd that a [Root.GetTitle] barters at the market, but it makes you feel closer to Bida, more so than any prayer. [From.GetTitledFirstName] approaches you, and the two of you exchange some words about the state of trading in [Root.PrimaryTitle.GetName]. It turns out that [From.GetSheHe] is also a follower of Bida!;;;;;;;;;;;;x
 EVTDESC_TOG_7506_AYYUR;早朝、アイユールを祀る神殿で深い祈りを捧げていると、後ろから静かな足音が聞こえた――こんな時間に誰が？足音の主は[From.GetTitledFirstName]であった。形式的な挨拶を交わすだけのはずが、ずいぶん盛り上がってしまった。こんなにも共通点が多いとは！;;;;;;;;;;;;x
 EVTDESC_TOG_7508_DONGO;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ドンゴの存在が恋人の人肌のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
-tsumburburas_blessing;Tsumburbura's Blessing;;;;;;;;;;;;x
+tsumburburas_blessing;ツンバブラの祝福;;;;;;;;;;;;x
 tsumburburas_blessing_desc;This character feels blessed by the Goddess Tsumburbura, which has improved their marriage.;;;;;;;;;;;;x
 EVTDESC_TOG_7510_TSUMBURBURA;Lately, you have striven to act in the spirit of Tsumburbura by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
 EVTDESC_TOG_7516_DONGO;ドンゴの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x

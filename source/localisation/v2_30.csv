@@ -638,7 +638,7 @@ EVTOPTB_WOL_1006;ありえない！両者を公に非難する！;;;;;;;;;;;;x
 EVTDESC_WOL_1007;The jealous [GetFromFromVsFromRelation] of my lover [FromFrom.GetTitledFirstNameNoRegnal] has denounced us both as adulterers publicly!;;;;;;;;;;;;x
 EVTDESC_WOL_1007_LOVER_ADM;[GetRootFromInsult][From.GetTitledFirstNameNoRegnal]は私の誠意ある謝罪を受け入れず、却って私と[From.GetPossPronoun]の[GetFromVsFromFromRelation]である[FromFrom.GetTitledFirstNameNoRegnal]との姦通を公表までした！;;;;;;;;;;;;x
 EVTDESC_WOL_1007_SPYING;[From.GetTitledFirstNameNoRegnal]は、私と [From.GetPossPronoun]の[GetFromVsFromFromRelation]、[FromFrom.GetTitledFirstNameNoRegnal]を監視するためにスパイを雇っていた。我々の情事は暴かれ、あの[GetRootFromInsult]は、この不義密通を公表することにした!;;;;;;;;;;;;x
-EVTDESC_WOL_1008;My wrathful [GetFromRelation] [From.GetFirstName] would not accept my sincere apologies no matter what I said. [From.GetSubjectPronounCap] has denounced me and my lover [FromFromFromFrom.GetTitledFirstNameNoRegnal] publicly.;;;;;;;;;;;;x
+EVTDESC_WOL_1008;怒り狂った [GetFromRelation] [From.GetFirstName] は、何を言っても私の誠意ある謝罪を受け入れなかった。 [From.GetSubjectPronounCap] は 私と 愛人の [FromFromFromFrom.GetTitledFirstNameNoRegnal] を公衆で罵倒した。;;;;;;;;;;;;x
 EVTDESC_WOL_1008_CRUEL;My spiteful [GetFromRelation] [From.GetFirstName] did not take my frank declaration of love for my [GetFromFromFromFromRelation] [FromFromFromFrom.GetTitledFirstNameNoRegnal] well at all. The [GetRootFromInsult] has denounced us both publicly.;;;;;;;;;;;;x
 EVTDESC_WOL_1009;My cheating [GetFromRelation] - the [GetRootFromInsult] - just smirked and openly admitted to having an affair with [FromFromFrom.GetTitledName]!;;;;;;;;;;;;x
 EVTOPTA_WOL_1009_M;It's a man's world. I'll just have to swallow my pride.;;;;;;;;;;;;x

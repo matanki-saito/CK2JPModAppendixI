@@ -1052,7 +1052,7 @@ EVTOPTA_SOA_3052;Elevate corpus Satanae!;;;;;;;;;;;;x
 EVTDESC_SOA_3053;The dark animus of [Root.Religion.GetRandomEvilGodName] courses through my veins. My mind is clear once more!;;;;;;;;;;;;x
 EVTOPTA_SOA_3053;我ラハ肉体ヲ喰ラウ！;;;;;;;;;;;;x
 EVTDESC_SOA_3054;[Root.Religion.GetRandomEvilGodNameCap] gifted me with this disease to strengthen my resolve... Now, my will is like a sharpened blade and I wish this blight gone from my body!;;;;;;;;;;;;x
-EVTOPTA_SOA_3054;Ave Antichriste!;;;;;;;;;;;;x
+EVTOPTA_SOA_3054;キリストの敵に栄光あれ！;;;;;;;;;;;;x
 EVTDESC_SOA_3060;No bars can hold [Root.Religion.GetRandomEvilGodName]'s own! The senses of my gaolers were blinded long enough for me to escape.;;;;;;;;;;;;x
 EVTOPTA_SOA_3060;Hail [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;x
 EVTDESC_SOA_3061;My prisoner, the depraved [From.GetTitledName], who is rumored to be the spawn of [From.Religion.GetRandomEvilGodName], has somehow escaped my dungeons! The guards have no explanation - the cell was still locked, but empty.;;;;;;;;;;;;x
@@ -1085,7 +1085,7 @@ EVTOPTA_SoA_5318;奴にはテングリの怒りが下ることだろう。;;;;;;
 EVTDESC_SoA_5320;広く流布された噂によると、[From.GetTitledFirstName]は、邪悪な生活の先導者であり、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ;;;;;;;;;;;;x
 EVTOPTA_SoA_5320;すべてに裁きが下ることだろう。;;;;;;;;;;;;x
 EVTDESC_SoA_5322;広く流布された噂によると、[From.GetTitledFirstName]は非常に厄介な性格で問題のある生活をしているため、あらゆる神職に不適当であり、今のような高位にあるのはなおさらふさわしくないとのことだ。;;;;;;;;;;;;x
-EVTOPTA_SoA_5322;おそらく、奴を神の生贄に捧げるときであろうな…;;;;;;;;;;;;x
+EVTOPTA_SoA_5322;おそらく、今が奴を神の生贄に捧げるときであろうな…;;;;;;;;;;;;x
 EVTDESC_SoA_5301;There are things a Caliph should not do and should not be. But we are only human after all, and as long as people aren't aware of your vices and faults it's not a problem. However, it seems you've been slipping in discretion lately - gossip is starting to spread, and there are murmurings all over the Muslim world about your wicked habits.;;;;;;;;;;;;x
 EVTOPTA_SoA_5301;[Root.Religion.GetRandomGodName]が私に憐みを垂れ給わんことを。;;;;;;;;;;;;x
 EVTDESC_SoA_5302;A Fylkir of the Norse faith is expected to uphold certain standards of morality and strength. But we are only human after all, and as long as people aren't aware of your vices and faults it's not a problem. However, it seems you've been slipping in discretion lately - gossip is starting to spread, and there are murmurings all over the Norse world about your unworthy traits and habits.;;;;;;;;;;;;x
@@ -1160,7 +1160,7 @@ EVTDESC_SoA_5370;奇妙な風潮だ。どこへ行っても、いたるところ
 EVTOPTA_SoA_5370;我々は皆、あの娘のようになるよう努めねばならぬ。;;;;;;;;;;;;x
 EVTOPTB_SoA_5370;狂信者は嫌いだが、今はあの娘を黙認しよう。;;;;;;;;;;;;x
 EVTNAME_SoA_5373;[From.GetName]の下賤な少女;;;;;;;;;;;;x
-EVTDESC_SoA_5373;[Root.GetChancellorName][Root.job_chancellor.GetFullName]が憂鬱そうな顔をして謁見を求めてきた。[Root.job_chancellor.GetSheHe]によると、貴族のあいだで、あなたが庇護している[FromFrom.GetFirstName]の地位について不平が高まってきているそうだ。彼らのほとんどは、あの娘がいくら敬虔で有能であるとはいえ、[From.GetName]の賤しい出自の娘が普通なら貴族のものであるはずの特権を享受していることを認めることができないのだ。これは農民たちにとってよくない先例となり、社会の不穏のもととなるかもしれないと彼らは恐れている。すでに[FromFrom.GetFirstName]と名門出身の軍の指揮官との間で礼法についての面倒ごとや無礼な言動が何度も起きている。\n\n多くの貴族はあの娘に長い間我慢を重ねてきたと感じており、なかにはいまだに彼女を捕らえて異端審問にかけたいと望んでいるものまでいるようなのだ。;;;;;;;;;;;;x
+EVTDESC_SoA_5373;[Root.GetChancellorName]の[Root.job_chancellor.GetFullName]が憂鬱そうな顔をして謁見を求めてきた。[Root.job_chancellor.GetSheHe]によると、貴族のあいだで、あなたが庇護している[FromFrom.GetFirstName]の地位について不平が高まってきているそうだ。彼らのほとんどは、あの娘がいくら敬虔で有能であるとはいえ、[From.GetName]の賤しい出自の娘が普通なら貴族のものであるはずの特権を享受していることを認めることができないのだ。これは農民たちにとってよくない先例となり、社会の不穏のもととなるかもしれないと彼らは恐れている。すでに[FromFrom.GetFirstName]と名門出身の軍の指揮官との間で礼法についての面倒ごとや無礼な言動が何度も起きている。\n\n多くの貴族はあの娘に長い間我慢を重ねてきたと感じており、なかにはいまだに彼女を捕らえて異端審問にかけたいと望んでいるものまでいるようなのだ。;;;;;;;;;;;;x
 EVTOPTA_SoA_5373;ふん！自分たちが無能だから嫉妬するはめになっているだけなのに！;;;;;;;;;;;;x
 EVTOPTB_SoA_5373;あの娘にもっと慎ましく話すよう言い聞かせておかねば。;;;;;;;;;;;;x
 EVTOPTC_SoA_5373;高貴な身分ではないだと？あの娘をつれてこい！騎士に叙すぞ！;;;;;;;;;;;;x
@@ -1182,7 +1182,7 @@ EVTNAME_SoA_5394;[From.GetFirstName]の処刑;;;;;;;;;;;;x
 EVTDESC_SoA_5394;炎が段々強く燃え上がり、薪を食いちぎるかのようにパチパチという音をたてている。炎は[From.GetFirstName]の足下まで寄っていき、彼女は次第に身をよじり始めた。集まった群衆は呆然と黙り込んだままその光景をみつめている。彼女の死を強く願っている者もいるが、他の者は目の前の光景への恐怖に気圧されているのだ。この数ヶ月のあいだ領国じゅうの関心を集めていたこの女性の生涯は終わりを迎えつつある。彼女が聖人か悪魔かは見物人たちの中でも見解は分かれるだろうが、彼女が長年に渡って人々の記憶に残るであろうことは確かだ。やがて彼女の名誉回復が行われるかもしれないし、そうならないかもしれない。\n火が次第に高く燃えて[From.GetFirstName]の身体を包み込んでいくとともに、彼女は激しくけいれんしたが叫びはしなかった。その眼差しは天空にしっかりと向けられ、頬には涙が流れていた。今や多くの見物人は立ち去って行ったが、幾人かはその場に留まり目をそらすことができずにいる。やがて炎は[From.GetFirstName]を囲むように燃え上がり、彼女は視界から姿を消した。;;;;;;;;;;;;x
 EVTOPTA_SoA_5394;主よ、彼女の魂に慈悲をたれ給まえ。;;;;;;;;;;;;x
 EVTNAME_SoA_5395;無罪の[From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_SoA_5395;[From.GetFirstName]の無罪判決は領国じゅうに様々な反応を起こした。農民たちはそれを祝ったが貴族と聖職者はより複雑な反応を示している。[From.GetFirstName]はこの数日を祈りに費やした。彼女はもはや以前のように軍隊を指揮することも、[Root.GetTitle]に快く意見を聞き容れられることもないということを理解している。それでも無罪判決は彼女の言動についての嫌疑を晴らしたのであり、彼女の身辺は平穏のようだ。彼女はもはや政治や軍略に関わることなく、その生涯を修道女として過ごすことに満足しているらしい。;;;;;;;;;;;;x
+EVTDESC_SoA_5395;[From.GetFirstName]の無罪判決は領国じゅうに様々な反応を起こした。農民たちはそれを祝ったが貴族と聖職者はより複雑な反応を示している。[From.GetFirstName]はこの数日を祈りに費やした。彼女はもはや以前のように軍隊を指揮することも、[Root.GetTitle]に快く意見を聞き容れられることもないということを理解している。それでも無罪判決は彼女の言動についての嫌疑を晴らしたのであり、彼女の身辺は平穏のようだ。彼女はもはや政治や軍略に関わることなく、その生涯を一人の修道女として過ごすことに満足しているらしい。;;;;;;;;;;;;x
 EVTOPTA_SoA_5395;お前の身はもう安全だ、[From.GetFirstName]。;;;;;;;;;;;;x
 EVTNAME_SoA_5398;数年後…;;;;;;;;;;;;x
 EVTDESC_SoA_5398;最初の何年かは波瀾に満ちたものであったが、この国の皆は[FromFrom.GetFullName]に慣れてしまった。彼女を高く評価する人もいたがそうではない人もいた。しかし非常に激しい論争と騒動は収まり、今では人々はその他の問題に心を奪われている。彼女は今日も生きているのだ、若い頃の[From.GetName]の乙女の物語はもはや伝説の類になってしまってはいても。;;;;;;;;;;;;x

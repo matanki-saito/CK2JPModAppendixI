@@ -2226,17 +2226,17 @@ EVTOPTCHFP20648;This isn't so bad...;;;;;;;;;;;;x
 tooltip_20648_C;Continue wasting away at the expenses of your §YHealth§!.;;;;;;;;;;;;x
 EVTDESCAHFP20650;I am a bit concerned by my [GetFromRelation] [From.GetFirstName]. Eating so much as [From.GetSheHe] does might not be good for [From.GetHerHis] health. Just today I saw [From.GetHerHim] struggling simply to get on [From.GetHerHis] horse. The beast didn't look too well after the ride either...;;;;;;;;;;;;x
 EVTDESCBHFP20650;I am a bit concerned by my [GetFromRelation] [From.GetFirstName]. Eating so much as [From.GetSheHe] does might not be good for [From.GetHerHis] health. [From.GetSheHeCap] has started to grow a potbelly and [From.GetSheHe] does not look too far from gaining another chin.;;;;;;;;;;;;x
-EVTDESCCHFP20650;I am a bit concerned by my [GetFromRelation] [From.GetFirstName]. Eating so little and spending so many nights awake might not be good for [From.GetHerHis] health. [From.GetSheHeCap] always looks sick and is barely capable of holding a sword anymore.;;;;;;;;;;;;x
+EVTDESCCHFP20650;[GetFromRelation]の[From.GetFirstName]が少し心配だ。食事はろくに摂らず、夜に起きていることが多いのは[From.GetHerHis]の健康に良くない。[From.GetSheHeCap]はいつも体調が悪そうで、アソコを保つ能力も乏しい。;;;;;;;;;;;;x
 EVTDESCDHFP20650;I am a bit concerned by my [GetFromRelation] [From.GetFirstName]. Eating so little and spending so many nights awake might not be good for [From.GetHerHis] health. [From.GetHerHisCap] voice has turned into a whisper and I am starting to see [From.GetHerHis] bones sticking out from [From.GetHerHis] body.;;;;;;;;;;;;x
-EVTOPTAHFP20650;I will tell [From.GetHerHim] to eat less.;;;;;;;;;;;;x
+EVTOPTAHFP20650;[From.GetHerHim]にもっと食べないよう伝えよう。;;;;;;;;;;;;x
 tooltip_20650_A;Tell §Y[From.GetFirstName]§! to stop eating so much.;;;;;;;;;;;;x
-EVTOPTBHFP20650;Actually, I think [From.GetSheHe] could lose a bit more weight.;;;;;;;;;;;;x
-tooltip_20650_B;Tell §Y[From.GetFirstName]§! to keep to [From.GetHerHis] frugal diet.;;;;;;;;;;;;x
+EVTOPTBHFP20650;実際、[From.GetSheHe]は少し減量したほうがいい。;;;;;;;;;;;;x
+tooltip_20650_B;粗食を続けるよう§Y[From.GetFirstName]§!に伝える;;;;;;;;;;;;x
 EVTOPTCHFP20650;Actually, [From.GetSheHe] could use a bit more meat on [From.GetHerHis] bones.;;;;;;;;;;;;x
 tooltip_20650_C;Tell §Y[From.GetFirstName]§! to keep eating as much as [From.GetSheHe] likes.;;;;;;;;;;;;x
-EVTOPTDHFP20650;I will tell [From.GetHerHim] to eat more.;;;;;;;;;;;;x
-tooltip_20650_D;Tell §Y[From.GetFirstName]§! to stop being so strict with [From.GetHerHis] diet.;;;;;;;;;;;;x
-EVTOPTEHFP20650;I don't think this is any of my business.;;;;;;;;;;;;x
+EVTOPTDHFP20650;[From.GetHerHim]にもっと食べるよう伝えよう。;;;;;;;;;;;;x
+tooltip_20650_D;§Y[From.GetFirstName]§!に過酷な減量を止めるよう伝える。;;;;;;;;;;;;x
+EVTOPTEHFP20650;私があれこれ言うべき問題じゃないな。;;;;;;;;;;;;x
 EVTDESCAHFP20651;私は単純に私の[GetFromRelation] [From.GetFirstName]が完璧な肉体を持ち、幸せな生活を送っている光景を見ることに耐えられない。[From.GetSheHe]がバランスの取れた食事と健康な体を保つことをどれほど気にかけているかを知った後、[From.GetHerHim]をほんの少しのささやきで台無しにできないかどうか考え始めた...;;;;;;;;;;;;x
 EVTOPTAHFP20651;病気ですか、[From.GetFirstName]？ちょっと今日は膨れているように見えますが…;;;;;;;;;;;;x
 tooltip_20651_A;§Y[From.GetFirstName]§!が太っていることを仄めかす。;;;;;;;;;;;;x
@@ -2604,7 +2604,7 @@ EVTDESCBHFP21059;[From.GetTitledFirstName] was repulsed by my offering of food. 
 EVTOPTAHFP21059;More for me, I guess?;;;;;;;;;;;;x
 tooltip_pregnancy_stable;your condition stabilizing causing your §YPregnancy§! to get better.;;;;;;;;;;;;x
 tooltip_pregnancy_gets_worse;accumulated stress causing your §YPregnancy§! to get worse.;;;;;;;;;;;;x
-refusing_to_lead;Refusing to Lead;;;;;;;;;;;;x
+refusing_to_lead;軍事指揮を拒絶;;;;;;;;;;;;x
 refusing_to_lead_desc;This ruler is refusing to take arms to fight against a friend in [Root.GetHerHis] liege's war.;;;;;;;;;;;;x
 opinion_broke_contract;Broke Feudal Contract;;;;;;;;;;;;x
 EVTDESCHFP21061;私は面倒なことは嫌いで、[From.GetTitledFirstName]に好かれる新たな方法をあれこれ考えると頭が痛む。[From.GetHerHim]を私の友達にしたいのなら、今何をしたら良いのだろう...;;;;;;;;;;;;x
@@ -3312,7 +3312,7 @@ tooltip_21123_A;あなたのために§Y[From.GetTitledFirstName]§! を§YSway�
 start_sway;[Root.GetTitledFirstName]を誑かす。;;;;;;;;;;;;x
 stop_sway;[Root.GetTitledFirstName]を抱きこむのをやめる;;;;;;;;;;;;x
 start_antagonize;Antagonize [Root.GetTitledFirstName];;;;;;;;;;;;x
-stop_antagonize;Stop Antagonizing [Root.GetTitledFirstName];;;;;;;;;;;;x
+stop_antagonize;[Root.GetTitledFirstName]への敵対行為を中止する;;;;;;;;;;;;x
 EVTDESCAHFP21124_CHASTE;Talking so much with a chaste person such as [From.GetTitledFirstName] has started to make me question if I should put a stop to my libertine ways...;;;;;;;;;;;;x
 EVTDESCAHFP21124_TEMPERATE;Being forced to [From.GetTitledFirstName]'s frugal meals was a little unbearable at first, but now that I am back home I wonder if it wouldn't be best for my health to adopt [From.GetHerHis] diet...;;;;;;;;;;;;x
 EVTDESCAHFP21124_CHARITABLE;I was truly struck by [From.GetTitledFirstName]'s generosity during my visit, and by the joy and prestige it brought [From.GetHerHim]. Perhaps I should endeavor to be more charitable myself...;;;;;;;;;;;;x
@@ -3464,13 +3464,13 @@ opinion_amused;Amused Me;;;;;;;;;;;;x
 EVTDESCHF22003;[From.GetTitledFirstName] is well beyond my reach. There is no point in trying to antagonize [From.GetHerHim] anymore.;;;;;;;;;;;;x
 EVTOPTAHF22003;Does [From.GetSheHe] still think of me, I wonder?;;;;;;;;;;;;x
 tooltip_22003_A;§Y[From.GetTitledFirstName]への敵対行為§!を止める。;;;;;;;;;;;;x
-EVTDESCHF22005;With [From.GetTitledFirstName] already rotting in a dungeon, there is not much more I can do to harass [From.GetHerHim].;;;;;;;;;;;;x
-EVTOPTAHF22005;It was good while it lasted.;;;;;;;;;;;;x
+EVTDESCHF22005;いまや監獄で朽ち果てる身となった[From.GetTitledFirstName]に対して、出来る嫌がらせはほとんどない。;;;;;;;;;;;;x
+EVTOPTAHF22005;もう十分、楽しませてもらったよ。;;;;;;;;;;;;x
 tooltip_22005_A;§Y[From.GetTitledFirstName]への敵対行為§!を止める。;;;;;;;;;;;;x
-EVTOPTBHF22005;[From.GetSheHeCap] will get out of there sooner or later...;;;;;;;;;;;;x
-tooltip_22005_B;Wait until §Y[From.GetTitledFirstName]§! is released before continuing to §YAntagonize§! [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTBHF22005;遅かれ早かれ、[From.GetSheHeCap]はそこから抜け出すだろう…;;;;;;;;;;;;x
+tooltip_22005_B;§Y[From.GetTitledFirstName]§!が解放されるのを待ってから、§Y敵対行為§!を続行しよう!;;;;;;;;;;;;x
 EVTDESCHF22008;[From.GetTitledFirstName] awaits [From.GetHerHis] imminent death lying senseless in [From.GetHerHis] bed. I do not think there is anything left that I can do to increase [From.GetHerHis] suffering.;;;;;;;;;;;;x
-EVTOPTAHF22008;It was good while it lasted.;;;;;;;;;;;;x
+EVTOPTAHF22008;もう十分、楽しませてもらったよ。;;;;;;;;;;;;x
 tooltip_22008_A;§Y[From.GetTitledFirstName]への敵対行為§!を止める。;;;;;;;;;;;;x
 tooltip_21010_B;§Y[From.GetTitledFirstName]への敵対行為§!を止める。;;;;;;;;;;;;x
 tooltip_21010_A;§Y[From.GetTitledFirstName]への敵対行為§!を続ける。;;;;;;;;;;;;x
@@ -5274,7 +5274,7 @@ sympathy_pagans_desc;この人物は、[pagan_group.GetGroupName]を信仰して
 sympathy_zoroastrianism;[zoroastrian_group.GetGroupName]への共感;;;;;;;;;;;;x
 sympathy_zoroastrianism_desc;この人物は、[zoroastrian.GetName]を信仰していませんが、[zoroastrian_group.GetGroupName]に対して特別な共感、信仰や信者に対する理解があります。;;;;;;;;;;;;x
 EVTDESCHFA20003;The conversion of [converting_king.Capital.GetName] starts on a cold morning.\nThe Bishop leading [sponsoring_king.GetTitledFirstName]'s embassy meets you at a river near the city. Your faithful vassals stand beside you, while the rest of your subjects wait their turn behind them, looking still visibly confused. The Bishop recites a few verses from [catholic.GetScriptureName] before you lead your vassals into the river. As you pass the [sponsoring_king.Religion.GetName] priests they baptize you, one after the other, in the cold water. It takes some prodding from the guards to convince the peasants to follow you into the water, but, after a while, the entire crowd stands soaked and shaking by the riverside, just in time to watch the priests and their helpers drop your old idols into the waves.\n"As the false visages are swallowed by the tides" the Bishop proclaims, "may their memory forever be banished from your soul.";;;;;;;;;;;;x
-TT_UNREFORMED_PAGAN;Is Unreformed [pagan_group.GetGroupName];;;;;;;;;;;;x
+TT_UNREFORMED_PAGAN;[pagan_group.GetGroupName] が未改革である;;;;;;;;;;;;x
 key_old_pagan_reformation_desc;Reforming the [Player.Religion.GetName] faith will turn it into an organized religion with a religious head. Unless you control all of the Holy Sites, doing so requires §Y50§! Moral Authority and control of §Y3§! [Religion.GetName] holy sites. It will cost you §R750§! [Player.Religion.GetPietyName]. Rulers of a Reformed [pagan_group.GetGroupName] religion can use the Holy War Casus Belli, get access to most succession laws, no longer suffer Prestige loss while at peace, and will have less trouble with independent minded vassals. However, they also lose the defensive supply limit penalty for religious enemies in their territory and vassals will get upset if you have their levies raised for too long for no good reason.;;;;;;;;;;;;x
 TT_NOT_UNREFORMED_PAGAN;[pagan_group.GetGroupName]が未改革ではない。\n;;;;;;;;;;;;x
 MODIFIER_UNREFORMED_TRIBAL_OPINION;未改革[pagan_group.GetGroupName]信者の部族封臣からの評価;;;;;;;;;;;;x
@@ -6811,10 +6811,10 @@ GetGenericNature;;;;;;;;;;;;;x
 random_miracle_01;ある時、聖[saint_person.GetFirstName]は[saint_person.GetHerHis]の両手両足からおびただしい血が流れていることに気付きましたが、2分と経たないうちにそれが癒えてしまったと言われています。[saint_person.GetHerHis]の生涯はそのようなものであり、[saint_person.Religion.GetHighGodName]の歩みを忠実にたどるものであったのです。;;;;;;;;;;;;x
 random_miracle_02;聖[saint_person.GetFirstName]の体は[saint_person.GetSheHe]が亡くなった時と同じ状態のままで、棺は穏やかな花の香りで包まれていると言われています。[saint_person.GetHerHis]の体に起きた不朽体の奇跡こそが、[saint_person.GetHerHis]が天に昇ったことの証です。;;;;;;;;;;;;x
 random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語は数多くあります。[saint_person.GetSheHeCap]は[saint_person.Religion.GetGroupName]の国々を旅して回り、病や怪我に苦しむ人々をまさに死の淵からを救ったのです。;;;;;;;;;;;;x
-random_miracle_04;They say [saint_person.GetFirstName] had prophetic foresight, being able to see things which would happen days, months or years later. Through [saint_person.GetHerHis] visions, Saint [saint_person.GetFirstName] guided friends and family to avoid the dangers they would face.;;;;;;;;;;;;x
-random_miracle_05;It was often said that Saint [saint_person.GetFirstName] was so understanding of others that [saint_person.GetSheHe] would be able to practically read their minds. Despite [saint_person.GetHerHis] gift, [saint_person.GetSheHe] never used it for evil, and was truly a servant of [saint_person.Religion.GetHighGodName], blessing those in [saint_person.GetHerHis] presence.;;;;;;;;;;;;x
-random_miracle_06;Many are those who work for [saint_person.Religion.GetRandomEvilGodName], but they all faded in the presence of Saint [saint_person.GetFirstName]. It is said [saint_person.GetSheHe] ripped evil out of people, forcing them back into the right path in life for the glory of [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
-random_miracle_07;Rumors say that the very servants of [saint_person.Religion.GetHighGodName] stepped down from Heaven to confer with Saint [saint_person.GetFirstName]. Feathers could be found all around [saint_capital.GetName] after these miraculous meetings, truly showing everyone what a virtuous person [saint_person.GetFirstName] was.;;;;;;;;;;;;x
+random_miracle_04;[saint_person.GetFirstName]は預言によって洞察力を得ており、何日後や何ヶ月後、そして何年後かに起こるものごとを見ることができたと言われています。その幻視を通じて、聖[saint_person.GetFirstName]は友や家族が直面するであろう危険を彼らが避けられるよう導いたのです。;;;;;;;;;;;;x
+random_miracle_05;聖[saint_person.GetFirstName]は、あたかも他人の考えを読み取ることができたかのように人々をよく理解したと言われています。その才能にもかかわらず、[saint_person.GetSheHe]はそれを決して悪用することなく、[saint_person.GetHerHis]の前でその才能を祝福する[saint_person.Religion.GetHighGodName]に心から奉仕する者でした。;;;;;;;;;;;;x
+random_miracle_06;多くの者が[saint_person.Religion.GetRandomEvilGodName]のもとに仕えていましたが、聖[saint_person.GetFirstName]の面前で彼らはすべて消えてしまいました。[saint_person.GetSheHe]は人々から悪をはぎとり、彼らを[saint_person.Religion.GetHighGodName]の栄光のために生きる正しい道へと連れ戻したのだと言われています。;;;;;;;;;;;;x
+random_miracle_07;多くの[saint_person.Religion.GetHighGodName]のしもべたちが天国から地上に降りたち、聖[saint_person.GetFirstName]と話し合いをしていたという噂もあります。そうした奇跡的な会合の後には[saint_capital.GetName]の辺り一帯で多くの羽根が見つかったかもしれません。皆は[saint_person.GetFirstName]はなんと高潔なお方だろうかと心から思っていたのですから。;;;;;;;;;;;;x
 random_miracle_08;The story goes that a man was drowning in [saint_capital.GetName], when Saint [saint_person.GetFirstName] ran across the water to help the poor drowning man. It was only after the man was safely rescued everyone understood the miracle which had just happened. Following the footsteps of [saint_person.Religion.GetHighGodName] so literally is only fitting for one as great as [saint_person.GetFirstName].;;;;;;;;;;;;x
 random_miracle_09;If one visits the church in [saint_capital.GetName], one will occasionally still hear the voice of Saint [saint_person.GetFirstName] among the singing voices of the faithful. Saint [saint_person.GetFirstName] was so pious that even after [saint_person.GetHerHis] death, [saint_person.GetSheHe] still attends the prayers to [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
 random_miracle_10;At a rare moment in [saint_person.GetHerHis] childhood fire suddenly blasted forth from [saint_person.GetHerHis] fingers, and that was only the first of several such occurrences. Random at first, [saint_person.GetSheHe] managed to control their blessed gifts and used it to help the [saint_person.Religion.GetGroupName] world.;;;;;;;;;;;;x
@@ -7470,7 +7470,7 @@ string_reformed_religion_temporal_head;聖なる[Root.GetTitle]の指導の下�
 string_reformed_religion_theocratic_head;Now organized in a strict hierarchy with an official religious head,;;;;;;;;;;;;x
 string_reformed_religion_autocephaly;高位聖職者同士の緩やかな繋がりによる、地方独立的な階級制度に再編成し、;;;;;;;;;;;;x
 string_reformed_religion_no_leader;Reorganized to give each independent clergyman full authority over [Root.GetHerHis] flock,;;;;;;;;;;;;x
-string_reformed_religion_norse; the [Root.Religion.GetName] faith is ready to contend with its weak and effeminate opponents, be they missionaries or Crusaders.;;;;;;;;;;;;x
+string_reformed_religion_norse;[Root.Religion.GetName] 信仰は、宣教師や十字軍などの、か弱く女々しい敵対者に対抗する準備を整えた。;;;;;;;;;;;;x
 string_reformed_religion_tengri;[Root.Religion.GetName]の信仰は再び活力を取り戻し、シャーマニズムとしての起源を捨て、公式の教義を獲得することで、邪教へ対抗するに相応しいものとなった。;;;;;;;;;;;;x
 string_reformed_religion_slavic; the [Root.Religion.GetName] faith has abandoned its tribal ways for a well-defined dogma and structure, fit to oppose its rivals.;;;;;;;;;;;;x
 string_reformed_religion_baltic; the [Root.Religion.GetName] faith has developed a series of well-defined rituals and a full list of deities to combat the proselytizing efforts of its neighbors.;;;;;;;;;;;;x
@@ -7491,7 +7491,7 @@ opinion_forgiven;Forgave Me;;;;;;;;;;;;x
 EVTOPTZHFP20404;This child is not worth my life!;;;;;;;;;;;;x
 tooltip_20404_abortion;Drink a §YJunipers' Potion§! to rid yourself of the child and avoid further complications.;;;;;;;;;;;;x
 EVTDESCHFPA20061;As if being infidel to me was not enough, I have just discovered that, rather than risk her life in a difficult pregnancy, [From.GetTitledFirstName] has decided to kill the child growing in her womb.;;;;;;;;;;;;x
-EVTDESCHFPB20061;おぞましい事実が発覚した！[From.GetTitledFirstName]は困難な妊娠で自分の命を危険にさらすより、自らの子宮に育ちつつある子供を殺すことを選択しましたのだ。;;;;;;;;;;;;x
+EVTDESCHFPB20061;おぞましい事実が発覚した！[From.GetTitledFirstName]は困難な妊娠で自分の命を危険にさらすより、自らの子宮に育ちつつある子供を殺すことを選択したのだ。;;;;;;;;;;;;x
 EVTOPTAHFP20061;私の子ではない。私には関係ない。;;;;;;;;;;;;x
 EVTOPTBHFP20061;彼女の罪を皆に知らしめるのだ！;;;;;;;;;;;;x
 EVTOPTCHFP20061;気を強くもって、彼女を許さなければ。;;;;;;;;;;;;x
@@ -7570,7 +7570,7 @@ EVTOPTAHF21150;[From.GetTitledFirstName] is a good [From.GetManWoman].;;;;;;;;;;
 EVTDESCAHF21151;Thankfully, the truce I called for allowed me and [From.GetTitledFirstName] to discuss many things and clarify our respective reasons to fight this war against each other. Even though we were unable to reach a peaceful resolution, I think that we have come to respect each other quite a bit more after this meeting.;;;;;;;;;;;;x
 EVTOPTAHF21151;完璧だ。;;;;;;;;;;;;x
 nogovernment;領地なし;;;;;;;;;;;;x
-nogovernment_desc;This character does not rule nor live under any government.;;;;;;;;;;;;x
+nogovernment_desc;この人物は、どの政体にも属さず、何も統治していません。;;;;;;;;;;;;x
 tooltip_cannot_antagonize_sway_same_time;You cannot §YSway§! and §YAntagonize§! the same character at the same time.;;;;;;;;;;;;x
 freckles_2;そばかす;;;;;;;;;;;;x
 freckles_2_desc;この人物にはそばかすがあります。;;;;;;;;;;;;x
@@ -7612,9 +7612,9 @@ EVTDESCAHF23021;I was told many time when I was growing up of how the stars are 
 EVTOPTAHF23021;It must be true!;;;;;;;;;;;;x
 EVTOPTBHF23021;I don't care about the stupid stars!;;;;;;;;;;;;x
 EVTDESCAHF23022;My [GetFromRelation] [From.GetFirstName] has taken a deep interest in the circumstances of [From.GetHerHis] birth and in the constellations affecting [From.GetHerHis] destiny.;;;;;;;;;;;;x
-EVTDESCBHF23022;My [GetFromRelation] [From.GetFirstName] seems to be unwilling to take into consideration the circumstances of [From.GetHerHis] birth and the constellations affecting [From.GetHerHis] destiny.;;;;;;;;;;;;x
+EVTDESCBHF23022;私の[GetFromRelation][From.GetFirstName]は、自分の出生と星座が自分の運命と関連している、という考えを好んでいないようだ。;;;;;;;;;;;;x
 EVTOPTAHF23022;だからどうした？占星術など迷信にすぎない。;;;;;;;;;;;;x
-EVTOPTBHF23008_A;Good. [From.GetSheHeCap] should not let the stars dictate [From.GetHerHis] future.;;;;;;;;;;;;x
+EVTOPTBHF23008_A;そうだな。[From.GetSheHeCap]の将来は星々に左右されるべきではない。;;;;;;;;;;;;x
 EVTOPTBHF23008_B;[From.GetSheHeCap] worries too much about the stars.;;;;;;;;;;;;x
 EVTOPTCHF23008_A;受け入れられない！;;;;;;;;;;;;x
 EVTOPTCHF23008_B;Good on [From.GetHerHim].;;;;;;;;;;;;x
@@ -7638,7 +7638,7 @@ EVTDESCIHF23025;正確な計算の結果、自分が活力やカリスマ性を�
 EVTDESCLHF23025;正確な計算の結果、自分が秘密主義や頑固さを象徴する天蝎宮の下に生まれたと断定した。;;;;;;;;;;;;x
 EVTDESCMHF23025;正確な計算の結果、自分が不屈さや決断力を象徴する金牛宮の下に生まれたと断定した。;;;;;;;;;;;;x
 EVTDESCNHF23025;正確な計算の結果、自分が勤勉や謙虚を象徴する処女宮の下に生まれたと断定した。;;;;;;;;;;;;x
-EVTOPTAHF23025;Truly, the stars know my heart.;;;;;;;;;;;;x
+EVTOPTAHF23025;まさしく、星々は我が胸の内を知る。;;;;;;;;;;;;x
 delve_into_classics_decision;Delve into the Classics;;;;;;;;;;;;x
 delve_into_classics_decision_desc;古代ギリシャ・ローマの遺跡や文献を学ぶために時間を使う。;;;;;;;;;;;;x
 tooltip_delve_into_classics;古代ギリシャ・ローマの遺跡や文献を学ぶために時間を使う。;;;;;;;;;;;;x
@@ -14848,7 +14848,7 @@ bloodline_effect_murder_stalk;Can personally pursue §Ymurder plots§!;;;;;;;;;;
 EVTDESCHF24113;I have grown bored with [plot_target.GetFirstName]. I think the time has come for me to conclude our delightful game and move onto my next victim.;;;;;;;;;;;;x
 EVTOPTAHF24113;Let us end this.;;;;;;;;;;;;x
 EVTOPTA_HF24113_TOOLTIP;Personally attempt to assassinate §Y[plot_target.GetTitledFirstName]§!;;;;;;;;;;;;x
-EVTOPTBHF24113;I wish to wait a bit more.;;;;;;;;;;;;x
+EVTOPTBHF24113;少し待って欲しい。;;;;;;;;;;;;x
 EVTOPTB_HF24113_TOOLTIP;Wait for another chance before striking.;;;;;;;;;;;;x
 EVTDESCHF24114;A mysterious stranger has joined me after tonight's feast. Although [From.GetHerHis] voice sounds familiar, I cannot remember if we have met before in the haze of the dinner. We exchange pleasantries for a while, until a strange feeling makes me shiver, and I suddenly realize that we are alone.;;;;;;;;;;;;x
 EVTOPTAHF24114;Where is everybody?;;;;;;;;;;;;x
@@ -17572,10 +17572,10 @@ ASK_FOR_DIVORCE_INTERACTION_2;Ask §Y[Actor.RelHead.GetTitledFirstName]§W for a
 tooltip_feudal_elector_vote_player_heir;[From.GetSheHeCap]は正当な跡継ぎです。;;;;;;;;;;;;x
 EVTDESCLoR40_HELLENIC;The story of the Roman Empire's glorious recovery will be told throughout the ages. Those unfortunate enough to have lived through the black days when barbarians sacked Rome at will or the Arab invaders swept in from the desert would not have dared dream of this day. All of the old provinces have been reclaimed and the Empire now stretches farther than it has in nearly a thousand years.\n\nBy shedding the weight of the dead god of the Galileans and re-embracing the Olympians the Empire of Caesar and Augustus has risen from its ashes. It will be a challenge to keep such a vast realm together, but for the sake of all humanity you must succeed, lest the world plunge into yet another dark age of ignorance and barbarity bereft of Rome's guiding light.;;;;;;;;;;;;x
 EVTDESCLoR40_GENERIC;The story of the Roman Empire's glorious recovery will be told throughout the ages. Those unfortunate enough to have lived through the black days when barbarians sacked Rome at will or the Arab invaders swept in from the desert would not have dared dream of this day. All of the old provinces have been reclaimed and the Empire now stretches farther than it has in nearly a thousand years.\n\nCountless people from all races and creeds all across Europe are celebrating this momentous occasion and men and women in both Rome and Constantinople are weeping tears of joy. It will be a challenge to keep an empire of this scale together, but for the sake of all humanity you must succeed, lest the world plunge into yet another dark age of ignorance and barbarity bereft of Rome's guiding light.;;;;;;;;;;;;x
-string_reformed_religion_norse_equal; the [Root.Religion.GetName] faith is ready to contend with its weak and decadent opponents, be they missionaries or Crusaders.;;;;;;;;;;;;x
+string_reformed_religion_norse_equal;[Root.Religion.GetName] 信仰は、宣教師や十字軍などの、弱く退廃的な敵対者に対抗する準備を整えた。;;;;;;;;;;;;x
 NAMED_CHARACTER_CREATED;§Y$NAME$§!という名の$TYPE$が§Y$EMPLOYER$§!の宮廷に現れます。\n;;;;;;;;;;;;x
-elder_long_life_modifier;So Much to Live For!;;;;;;;;;;;;x
-elder_long_life_modifier_desc;[Root.GetFirstName]'s duty to [Root.GetHerHis] tribe has given [Root.GetHerHis] life renewed strength and purpose.;;;;;;;;;;;;x
+elder_long_life_modifier;生きて、成すべきことがある！;;;;;;;;;;;;x
+elder_long_life_modifier_desc;[Root.GetFirstName]に課された部族への責務は、[Root.GetHerHis]の人生に新たな強さと目的を与えた。;;;;;;;;;;;;x
 elder_care_modifier;長老たちへの気配り;;;;;;;;;;;;x
 elder_care_modifier_desc;This ruler has been forced to neglect some of [Root.GetHerHis] duties in order to focus on taking care of a distinguished Elder of [Root.GetHerHis] tribe.;;;;;;;;;;;;x
 elder_praise_modifier;長老による祝福;;;;;;;;;;;;x
@@ -19551,7 +19551,7 @@ tr_gold_mine_3_desc;The production of this larger mining complex is unrivaled. I
 tr_cloth_production_1;布市場;;;;;;;;;;;;x
 tr_cloth_production_1_desc;高品質な布を製造して販売する場所です。;;;;;;;;;;;;x
 tr_salt_mine_1_desc;大量の塩を採掘するための鉱山です。非常に価値のある交易品で同じ重さの金と同じ価値があると言われています。;;;;;;;;;;;;x
-depleted_gold_mine;Depleted Gold Mine;;;;;;;;;;;;x
+depleted_gold_mine;金鉱の枯渇;;;;;;;;;;;;x
 depleted_gold_mine_desc;The gold mine has been depleted and will not provide any gold until another vein is found.;;;;;;;;;;;;x
 large_gold_inflation;High Inflation;;;;;;;;;;;;x
 large_gold_inflation_desc;A large influx of gold has caused prices to be severly increased.;;;;;;;;;;;;x
@@ -19700,7 +19700,7 @@ told_story_nr_2_desc;"You don't understand, the dog was *huge*!";;;;;;;;;;;;x
 told_story_nr_3;Proud Legacy;;;;;;;;;;;;x
 told_story_nr_3_desc;This character carries wondrous stories of [Root.GetHerHis] ancestors.;;;;;;;;;;;;x
 told_story_nr_4;感動させる語り部;;;;;;;;;;;;x
-told_story_nr_4_desc;This character inspires many emotions, through clever storytelling.;;;;;;;;;;;;x
+told_story_nr_4_desc;この人物は巧妙な語り口で、無数の情感を呼び覚まします。;;;;;;;;;;;;x
 told_story_nr_5;信仰を説く語り部;;;;;;;;;;;;x
 told_story_nr_5_desc;This character is great at recounting tales from [Root.Religion.GetScriptureName].;;;;;;;;;;;;x
 told_story_nr_6;傲慢な語り部;;;;;;;;;;;;x

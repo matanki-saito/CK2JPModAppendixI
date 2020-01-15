@@ -1521,7 +1521,7 @@ tb_desert_stable_2;砂漠騎手;;;;;;;;;;;;x
 tb_desert_stable_3;砂漠騎手;;;;;;;;;;;;x
 tb_desert_stable_4;砂漠騎手;;;;;;;;;;;;x
 tb_desert_stable_desc;砂漠の環境を支配するためには丈夫な騎乗動物と同じように丈夫な騎手を必要とします。戦時において、この戦士たちは部族の支配者に強力な騎兵支援を与えます。;;;;;;;;;;;;x
-ca_desert_stable_desc;These stables provide a ruler with a cadre of mobile mounted troops, ideally suited for skirmish warfare.;;;;;;;;;;;;x
+ca_desert_stable_desc;この厩舎施設は、前哨戦向けの専門訓練を積み、機動性に富んだ騎乗部隊を運用可能な軍将校を、支配者に提供します。;;;;;;;;;;;;x
 ca_desert_stable_1;砂漠騎兵;;;;;;;;;;;;x
 ca_desert_stable_2;砂漠騎兵;;;;;;;;;;;;x
 ca_desert_stable_3;砂漠騎兵;;;;;;;;;;;;x
@@ -2288,7 +2288,7 @@ EVTDESCB_MNM_6993;It seems that even [satanists_inductor.GetBestName] can not re
 EVTOPTB_MNM_6993;So much for the power of [satanists_inductor.GetDWDevil]...;;;;;;;;;;;;x
 EVTDESCB_MNM_6995;It seems that even [satanists_recruiter.GetBestName] can not reach me here in the confines of my cell. It's disappointing, as I was sort of curious to see where our meetings were going... As I attempt to get conformable in my new home I hope that when I am finally free I will see [satanists_recruiter.GetHerHim] again.;;;;;;;;;;;;x
 EVTOPTB_MNM_6995;So much for the power of [satanists_recruiter.GetDWDevil]...;;;;;;;;;;;;x
-title_court_jester_desc;The court Jester is kept around to provide general entertainment to the court. Also known as a fool it is generally not considered to be the most prestigious office at court.;;;;;;;;;;;;x
+title_court_jester_desc;宮廷道化師は、宮廷に絶えず笑いを振りまきます。一方で愚者の代名詞であり、名誉ある称号とは見なされません。;;;;;;;;;;;;x
 monastic_order_education_power_tt;能力: §Y[From.GetMOSaint]の叡智§!\n貴方の地区での教育は能力を伸ばす可能性があり、成人時に悪質な特性を消し、良質なものを得ることもあります。;;;;;;;;;;;;x
 EVT_DESCB_MNM_4301;今日は[GetMOGod]についてや、[GetMOCode]に従って生きていくうえで心掛けるべきことなどを人々に説教するので、[From.GetFirstName]も連れて行くことにした。[From.GetFirstName]は最後まで集中して聞いていたため、[From.GetSheHe]が[GetMOGod]や[Root.Society.GetName]について様々な価値ある教訓を学んだことを確信した。;;;;;;;;;;;;x
 EVT_DESCC_MNM_4301;今日は[From.GetFirstName]を地方の[GetMOBuilding]に連れて行くことになった。そこで[From.GetSheHe]が[GetMOPenanceMeditation]の兄弟姉妹達に会うと、彼らもこの子に丁寧な挨拶をしてくれた。そして私たちが[GetMOBuilding]を発つとき、[From.GetRootRelation]が「[GetMOFarewell]」と今日出会った者たちに言った。[From.GetHerHis]の[GetMOSaint]へ続くような振る舞いをとても誇らしく思った。;;;;;;;;;;;;x
@@ -3913,7 +3913,7 @@ c_alamut_adj;アラムート;;;;;;;;;;;;x
 c_daylam_adj;ダイラム;;;;;;;;;;;;x
 c_rahbah_adj;ラフバ;;;;;;;;;;;;x
 d_palmyra_adj;パルミラ;;;;;;;;;;;;x
-employ_a_smith_cooldown_tt;Has NOT attempted to employ a smith in the past 2 years[Root.GetSmithCD];;;;;;;;;;;;x
+employ_a_smith_cooldown_tt;この2年間、鍛冶師を雇おうとしたことがない[Root.GetSmithCD];;;;;;;;;;;;x
 string_smith_cd; - you can employ a smith again on: §Y[This.employ_a_smith_cd.GetExpiryDate]§!;;;;;;;;;;;;x
 employ_smith_cd_reset_tt;あなたは別の時に鍛冶屋を雇うことを選ぶことができます。;;;;;;;;;;;;x
 JOB_PROSELYTIZE_SAME_RELIGION;改宗: §Yプロヴィンスは既に改宗しました。§!;;;;;;;;;;;;x

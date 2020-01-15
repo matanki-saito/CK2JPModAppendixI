@@ -1898,7 +1898,7 @@ rudolph_desc;Known for combining the two separate parts of Burgundy to form the 
 fatimid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 fatimid_desc;アッバース朝カリフの動乱の時代、[This.GetFullName]の名のもとにファーティマ朝はイフリーキヤにカリフ国を建国しました。;;;;;;;;;;;;x
 otto;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
-otto_desc;Conquered Italy, regained the old lands of the Holy Roman Empire and raised its banners once more.;;;;;;;;;;;;x
+otto_desc;イタリアを征服して、神聖ローマ帝国の旧領を回復し、その御旗を再び掲げるのだ。;;;;;;;;;;;;x
 jannabid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 jannabid_desc;He is famed for conquering Bahrein and establishing the Qarmatian Republic. They would go on to haunt their neighbors for many years to come.;;;;;;;;;;;;x
 mardavij;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
@@ -1907,7 +1907,7 @@ bloodline_effect_princely_elective_boon;§YPrincely Elective§! §GBoon§!;;;;;;
 bloodline_effect_shiite_leader;§Y[shiite.GetName] Leadership§!;;;;;;;;;;;;x
 bloodline_effect_qarmatian_leader;§Y[qarmatian.GetName] Leadership§!;;;;;;;;;;;;x
 shiite_opinion;[shiite.GetName]信者からの評価;;;;;;;;;;;;x
-qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;;x
+qarmatian_opinion;[qarmatian.GetName]からの評価;;;;;;;;;;;;x
 vushmgir_brothers_legacy;マルダーウィージュの遺産;;;;;;;;;;;;x
 vushmgir_brothers_legacy_desc;My brother Mardavij tried to repel the Muslim faith and restore the Sasanian Empire in Persia. Though he failed, maybe it is time for me to pick up his legacy and reestablish the empire myself?;;;;;;;;;;;;x
 kievan_rus_local_traditions;地元の慣習の受容;;;;;;;;;;;;x
