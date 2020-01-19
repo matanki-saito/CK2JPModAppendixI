@@ -2168,9 +2168,9 @@ EVTOPTDHFP20640;私には関係のないことだ。;;;;;;;;;;;;x
 EVTDESCHFP20641;Just today my [GetFromRelation] [From.GetFirstName] has openly praised me for my enviable shape, as well as my exemplary show of constraint and dedication in all things.;;;;;;;;;;;;x
 EVTOPTAHFP20641;Very nice of you to say so.;;;;;;;;;;;;x
 EVTDESCAHFP20642;[From.GetFirstName] came in my room this morning to speak with me of [From.GetHerHis] growing concern for my health. [From.GetSheHeCap] believes that all this fasting might be putting me under serious risk and encouraged me to try and eat more.;;;;;;;;;;;;x
-EVTDESCBHFP20642;The gall on my [GetFromRelation]! [From.GetSheHeCap] barged into my room this morning, telling me that I better start eating more before I starve myself to death, as if [From.GetSheHe] has any business meddling with my private life.;;;;;;;;;;;;x
-EVTOPTAHFP20642;[From.GetSheHeCap] has a point...;;;;;;;;;;;;x
-tooltip_20642_A;Start dieting to get back in shape.;;;;;;;;;;;;x
+EVTDESCBHFP20642;[GetFromRelation]が苛立たしい！ [From.GetSheHeCap] は私の部屋に飛び込んでくると、私が飢え死にする前に、もっとたくさん食べた方が良いと言い立てた。まるで私のあらゆる私生活に干渉する権利があるかのようだ。;;;;;;;;;;;;x
+EVTOPTAHFP20642;[From.GetSheHeCap]の言う通りだ……;;;;;;;;;;;;x
+tooltip_20642_A;体型を戻すために食事療法を開始します。;;;;;;;;;;;;x
 EVTOPTBHFP20642;[From.GetHerHis]には関係ない!;;;;;;;;;;;;x
 tooltip_20642_B;§Y[From.GetFirstName]§!の警告を無視する。;;;;;;;;;;;;x
 EVTDESCHFP20643;自分の言葉がちゃんと届いたようで安心した。[From.GetFirstName]は心配してくれたことに感謝の言葉を述べ、これからはもっとバランスの取れた生活習慣を送れるよう努力すると約束してくれた。;;;;;;;;;;;;x
@@ -2310,15 +2310,15 @@ restless_study;Restless Study;;;;;;;;;;;;x
 restless_study_desc;This character focuses [Root.GetHerselfHimself] so much on [Root.GetHerHis] studies that [Root.GetSheHe] has barely any time left for anything else.;;;;;;;;;;;;x
 restless_prayer;Restless Prayers;;;;;;;;;;;;x
 restless_prayer_desc;This character focuses [Root.GetHerselfHimself] so much on praying and meditating that [Root.GetSheHe] has barely any time left for anything else.;;;;;;;;;;;;x
-malnourished_paranoia;Paranoid Investigation;;;;;;;;;;;;x
-malnourished_paranoia_desc;This character is going through great lengths to make sure that all the conspirators lurking around [Root.GetHerHim] are found and put to justice.;;;;;;;;;;;;x
+malnourished_paranoia;偏執的な調査;;;;;;;;;;;;x
+malnourished_paranoia_desc;この人物は、[Root.GetHerHim]の周りに潜むすべての陰謀者を着実にあぶり出し、正義を執行するために、途方もない時間をかけています。;;;;;;;;;;;;x
 tireless_worker;Tireless Worker;;;;;;;;;;;;x
 tireless_worker_desc;This character works so much that [Root.GetSheHe] barely has any time left to eat or sleep.;;;;;;;;;;;;x
 TT_NOT_OTHERWISE_OCCUPIED;は別の方法で占領されていない;;;;;;;;;;;;x
 opinion_swayed_0;心が動いた;;;;;;;;;;;;x
-opinion_swayed_1;Softened;;;;;;;;;;;;x
+opinion_swayed_1;和んだ;;;;;;;;;;;;x
 opinion_swayed_2;感動した;;;;;;;;;;;;x
-opinion_swayed_3;Good Acquaintance;;;;;;;;;;;;x
+opinion_swayed_3;顔見知り;;;;;;;;;;;;x
 tooltip_HFP20424_A;話を聞いてくれることを願い、§Y[From.GetFirstName]§!の食事に向き合う。;;;;;;;;;;;;x
 tooltip_HFP20424_B;§Y[From.GetFirstName]§!の過食を無視する。;;;;;;;;;;;;x
 tooltip_HFP20426_A;話を聞いてくれることを願い、§Y[From.GetFirstName]§!の飲酒問題に向き合う。;;;;;;;;;;;;x
@@ -2408,7 +2408,7 @@ EVTDESCHFP21010;[From.GetTitledFirstName] はもう十分、私に好意を抱�
 EVTOPTAHFP21010;そうだな、ほかに注意を向ける時期だ。;;;;;;;;;;;;x
 EVTOPTBHFP21010;いや、まだ [From.GetFirstName] との交友関係を維持したい。;;;;;;;;;;;;x
 tooltip_21003_B;§Y[From.GetTitledFirstName]§!を§Y抱き込み§!続ける。;;;;;;;;;;;;x
-EVTDESCHFP21012;[From.GetTitledFirstName]に手紙を書いて、貴方のことを良く思っていると伝えるべきかもしれない…;;;;;;;;;;;;x
+EVTDESCHFP21012;[From.GetTitledFirstName]に手紙を書いて、「貴方のことを良く思っている」と伝えるべきかもしれない…;;;;;;;;;;;;x
 EVTOPTAHFP21012;Friendship between us will benefit both our realms.;;;;;;;;;;;;x
 tooltip_21012_A;Write a highly detailed letter explaining the advantages of maintaining stronger and more amiable relations between your realm and §Y[From.GetTitledFirstName]'s§!.;;;;;;;;;;;;x
 EVTOPTBHFP21012;I will charm [From.GetHerHim] with my elegant writing.;;;;;;;;;;;;x
@@ -2425,7 +2425,7 @@ EVTOPTBHFP21013;Meaningless words.;;;;;;;;;;;;x
 tooltip_21013_B;Crumple the letter and forget about it.;;;;;;;;;;;;x
 EVTDESCAHFP21014;[From.GetTitledFirstName] wrote me back, informing me that [From.GetSheHe] is in absolute agreement – good relations are a necessity between rulers as wise as us.;;;;;;;;;;;;x
 EVTDESCBHFP21014;[From.GetTitledFirstName] wrote me back, expressing how touched [From.GetSheHe] was by my wonderful message about peace and friendship.;;;;;;;;;;;;x
-EVTDESCCHFP21014;[From.GetTitledFirstName] wrote me back, informing me that [From.GetSheHe] has taken notice of my interest in [From.GetHerHis] friendship and reciprocates vividly.;;;;;;;;;;;;x
+EVTDESCCHFP21014;[From.GetTitledFirstName]から返信が来た。[From.GetSheHe]は、私が友誼を結びたがっていることを知り、それに鮮やかに応じた。;;;;;;;;;;;;x
 EVTOPTAHFP21014;すばらしい。;;;;;;;;;;;;x
 EVTDESCAHFP21015;[From.GetTitledFirstName] has not responded to my letter. I have to assume that my dispassionate plea for a healthy and prosperous relation between realm did not pierce through [From.GetHerHis] skepticism.;;;;;;;;;;;;x
 EVTDESCBHFP21015;[From.GetTitledFirstName] has not responded to my letter. How could [From.GetSheHe] not be touched by my poetic plea for friendship?;;;;;;;;;;;;x
@@ -2443,7 +2443,7 @@ EVTDESCAHFP21019;[From.GetFirstName]への働きかけは無駄ではなかっ�
 EVTDESCBHFP21019;[From.GetFirstName]への働きかけは無駄ではなかった。ゆっくりと[From.GetHerHis]からの信頼は深まってきている。;;;;;;;;;;;;x
 EVTDESCCHFP21019;[From.GetFirstName]への働きかけは成功とは呼べないものだった。その[From.GetManWoman]は未だ疑念を抱いたままだ。;;;;;;;;;;;;x
 EVTDESCDHFP21019;[From.GetFirstName]への働きかけは完全な失敗に終わった。私を前よりも好いてくれるどころか、ただ居るだけでも癪に障るようになってしまった。;;;;;;;;;;;;x
-EVTOPTAHFP21019;Curses.;;;;;;;;;;;;x
+EVTOPTAHFP21019;呪われろ。;;;;;;;;;;;;x
 EVTDESCHFP21021;もしかすると、私が [From.GetTitledFirstName] に友情と誠意の証しとして贈り物をすれば、 [From.GetHerHim] の歓心を買うのに役立つかもしれない。;;;;;;;;;;;;x
 EVTOPTAHFP21021;[From.GetHerHim] にきわめて高価な芸術品を送ろう。;;;;;;;;;;;;x
 tooltip_21021_A;§Y[From.GetTitledFirstName]§!に気前よく贈り物をします。[From.GetHerHim]の§Y心を動かす§!ことが期待できます。;;;;;;;;;;;;x
@@ -2455,19 +2455,19 @@ EVTOPTDHFP21021;良い考えだとは思えない。;;;;;;;;;;;;x
 EVTDESCAHFP21022;I have just received the most delightful work of art from [From.GetTitledFirstName]. [From.GetSheHeCap] sent it to me without expecting anything in return. In the letter accompanying it, [From.GetSheHe] wrote that [From.GetHerHis] only hope is that I appreciate this munificent gift.;;;;;;;;;;;;x
 EVTDESCBHFP21022;I have just received a very thoughtful gift from [From.GetTitledFirstName]. [From.GetSheHeCap] sent it to me without expecting anything in return. In the letter accompanying it, [From.GetSheHe] wrote that [From.GetHerHis] only hope is that I appreciate [From.GetHerHis] kindness.;;;;;;;;;;;;x
 EVTDESCCHFP21022;[From.GetTitledFirstName] decided to send me a small gift as a token of [From.GetHerHis] friendship and good intentions.;;;;;;;;;;;;x
-EVTOPTAHFP21022;How thoughtful!;;;;;;;;;;;;x
+EVTOPTAHFP21022;なんと思慮深いことか。;;;;;;;;;;;;x
 EVTOPTBHFP21022;This is insulting! I deserve more!;;;;;;;;;;;;x
 EVTDESCAHFP21023;どうやら投じた金は無駄ではなかったようだ。[From.GetTitledFirstName]は受け取った贈り物にわくわくし、深く考えて気持ちを伝えてくれたことに胸を打たれたと語った。[From.GetHerHim]に本当にいい印象を与えられたようだ。;;;;;;;;;;;;x
 EVTDESCBHFP21023;[From.GetTitledFirstName]は、贈り物を喜んで受け取った。[From.GetSheHeCap]は、これがとても真心のある意思表示であり、[From.GetSheHe]の心に長く留めておくと、私に伝えた。;;;;;;;;;;;;x
 EVTDESCCHFP21023;金をけちったにもかかわらず、[From.GetTitledFirstName]は、私の贈り物に本当に感謝していた。[From.GetSheHeCap]は、この好意を覚えておくと伝えてきた。;;;;;;;;;;;;x
 EVTOPTAHFP21023;それは良かった!;;;;;;;;;;;;x
 EVTDESCAHFP21024;[From.GetTitledFirstName] sent no response after my generous gift. Perhaps [From.GetSheHe] did not like it.;;;;;;;;;;;;x
-EVTOPTAHFP21024;What a waste of money...;;;;;;;;;;;;x
+EVTOPTAHFP21024;何という金の無駄……;;;;;;;;;;;;x
 EVTDESCHFP21026;I am sure that, if I use the influence I hold over my tribes to increase [From.GetHerHis] standing, [From.GetTitledFirstName] will come to appreciate me more.;;;;;;;;;;;;x
 EVTOPTAHFP21026;この最上の栄誉を[From.GetHerHim]に捧げよう！;;;;;;;;;;;;x
 tooltip_21026_A;Shower §Y[From.GetTitledFirstName]§! with Prestige, hoping to §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
 EVTOPTBHFP21026;I will make sure everyone knows what an honorable [From.GetManWoman] [From.GetSheHe] is.;;;;;;;;;;;;x
-tooltip_21026_B;Share some of your Prestige with §Y[From.GetTitledFirstName]§!, hoping to §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
+tooltip_21026_B;あなたの名声を§Y[From.GetTitledFirstName]§!に分け与えることで、[From.GetHerHim]の§Y心を動かす§!ことが期待できます。;;;;;;;;;;;;x
 EVTOPTCHFP21026;I can spare a few words for [From.GetHerHim]...;;;;;;;;;;;;x
 tooltip_21026_C;Share a small part of your Prestige with §Y[From.GetTitledFirstName]§!, hoping to §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
 EVTOPTDHFP21026;良い考えだとは思えない。;;;;;;;;;;;;x
@@ -2516,12 +2516,12 @@ EVTDESCAHFP21039;Unfortunately, my diplomats were unable to convince [From.GetTi
 EVTDESCBHFP21039;Unfortunately, my letter was unable to convince [From.GetTitledFirstName] of my good intentions. I am afraid I will have to try something different to earn [From.GetHerHis] trust.;;;;;;;;;;;;x
 EVTOPTAHFP21039;他に方法があるはずだ…;;;;;;;;;;;;x
 EVTDESCAHFP21041;I wonder if [From.GetTitledFirstName] would appreciate learning more about the benefits of hard work from me? I cannot think of anything else right now that would help [From.GetHerHim] like me more.;;;;;;;;;;;;x
-EVTDESCBHFP21041;I might understand more about money than I do about people, but that doesn't mean I couldn't use my extensive knowledge of my realm's economy to impress [From.GetTitledFirstName].;;;;;;;;;;;;x
+EVTDESCBHFP21041;私は金のこと関して世間一般以上に理解していると思われ、それは[From.GetTitledFirstName]を抱き込むために、領国の経済を通じて学んだ膨大な知見が活用できるということだ。;;;;;;;;;;;;x
 EVTDESCCHFP21041;政治と財政に関して並外れた知識を持つ私なら、[From.GetTitledFirstName]の心を動かし、さらなる歓心を買うことは難しくない。;;;;;;;;;;;;x
-EVTOPTAHFP21041;[From.GetHerHim]と政治的手腕に関する知識を共有しよう。;;;;;;;;;;;;x
+EVTOPTAHFP21041;[From.GetHerHim]と経営的手腕に関する知識を共有しよう。;;;;;;;;;;;;x
 tooltip_21041_A;Send a detailed letter about the art of ruling a realm to §Y[From.GetTitledFirstName]§!, using your §YStewardship§! education to try and §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
-EVTOPTBHFP21041;I will send [From.GetHerHim] some gold.;;;;;;;;;;;;x
-tooltip_21041_B;Share some of your wealth with §Y[From.GetTitledFirstName]§!, hoping you will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
+EVTOPTBHFP21041;[From.GetHerHim]に幾ばくかの金を送ろう。;;;;;;;;;;;;x
+tooltip_21041_B;あなたの富を§Y[From.GetTitledFirstName]§!に分け与えることで、[From.GetHerHim]の§Y心を動かす§!ことが期待できます。;;;;;;;;;;;;x
 EVTOPTCHFP21041;[From.GetHerHim]に我が領邦の繁栄ぶりを語ろう。;;;;;;;;;;;;x
 tooltip_21041_C;Write to §Y[From.GetTitledFirstName]§! about the prosperity of your realm, using your §YDiplomacy§! to try and §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
 EVTOPTDHFP21041;私には時間がない。;;;;;;;;;;;;x
@@ -2621,8 +2621,8 @@ EVTOPTCHFP21062;なんという時間の無駄。;;;;;;;;;;;;x
 EVTOPTDHFP21062_A;How can a [From.GetManWoman] be so lazy?!;;;;;;;;;;;;x
 EVTOPTDHFP21062_B;[From.GetSheHeCap] didn't even dictate it *[From.GetHerselfHimself]*!?!;;;;;;;;;;;;x
 EVTDESCAHFP21063;[From.GetTitledFirstName] has really appreciated my kind gesture, far more than I could have hoped for. I guess this is just further proof that I do not need to overexert myself in order to achieve excellent results.;;;;;;;;;;;;x
-EVTDESCBHFP21063;[From.GetTitledFirstName] was glad of my thoughtful gesture. I think I have earned a good rest after all the hard work I have had to put myself through.;;;;;;;;;;;;x
-EVTOPTAHFP21063;The things I do for friendship...;;;;;;;;;;;;x
+EVTDESCBHFP21063;[From.GetTitledFirstName]は私の気遣いに喜んだ。私はすべての激務を終えて、とても充実した余暇を過ごせたと思った。;;;;;;;;;;;;x
+EVTOPTAHFP21063;これも友情のためだ……;;;;;;;;;;;;x
 EVTDESCAHFP21064;[From.GetTitledFirstName]が私の友好的な行動に心を動かすことはなかった。 どうやら少し努力が足りなかったようだ...;;;;;;;;;;;;x
 EVTDESCBHFP21064;[From.GetTitledFirstName] was not too impressed by my act of friendship. In fact, [From.GetSheHe] openly stated that [From.GetSheHe] was insulted by the complete lack of effort I have shown in my attempt to sway [From.GetHerHim] to my cause.;;;;;;;;;;;;x
 EVTOPTAHFP21064;たくさん骨を折ったのに、本当に!;;;;;;;;;;;;x
@@ -2924,7 +2924,7 @@ mother_fertility_festival_2_desc;This woman was given the honor of portraying th
 fertility_festival_province;Grandiose Harvest Festival;;;;;;;;;;;;x
 fertility_festival_province_desc;The recent lavish celebrations of the harvest festival held by the ruling family of this province has left the local populace relieved and appeased.;;;;;;;;;;;;x
 opinion_mother_goddess;Goddess Incarnate;;;;;;;;;;;;x
-mother_festival_blessing;Blessing of [Root.GetFertilityGoddess];;;;;;;;;;;;x
+mother_festival_blessing;[Root.GetFertilityGoddess]の祝福;;;;;;;;;;;;x
 mother_festival_blessing_desc;This woman has recently taken on the role of the [Root.Religion.GetName] goddess of fertility in a harvest festival organized during her pregnancy. Even now, it seems a divine spark still lingers over her soul.;;;;;;;;;;;;x
 EVTDESCHFPA20030;最近はいつも以上に元気だと感じている。宮廷の全員の耳をすり減らしたとしても何の問題もなかったが、残念なことにこの新たに見つけた活力のすべてを自分の職務に集中させることはできなかった。しかし、多くの学者によると、妊婦は妊娠期間のほとんどを暗闇に閉じこもり過ごすべきだという。;;;;;;;;;;;;x
 EVTDESCHFPB20030;妊娠のせいで、妻は普段よりもはるかにおしゃべりで陽気だ。誰かとおしゃべりする機会に耳をそばだて、決して逃すことはない。残念だが、ほとんどの学者がいうには、妊娠中の女性は病弱な子供を産むことを避けるために、できる限りの時間を暗い部屋で休むことに費やすべきだそうだ。;;;;;;;;;;;;x
@@ -3185,8 +3185,8 @@ EVTDESCBHFP21102;[From.GetTitledFirstName] has prepared a grandiose welcoming pa
 EVTOPTAHFP21102;本当に君に会えて嬉しいよ、[From.GetTitledFirstName]！;;;;;;;;;;;;x
 EVTDESCHFPA21104;It was nice finally being with [sway_target.GetFirstName] for a while. Even though [sway_target.GetSheHe] is my [sway_target.GetRootRelation], my duties as [Root.GetTitle] often prevent me from spending enough time with my own family...;;;;;;;;;;;;x
 EVTDESCHFPB21104;驚きであった。今回の訪問の間、[sway_target.GetTitledFirstName]との神学議論を通じて、どれだけの気づきを得られたか。出鱈目なまでに信条の異なる二人の人間がこれだけ長い時を共に過ごしたこの時間、避けられなかったように思う。;;;;;;;;;;;;x
-EVTDESCHFPC21104;I have tried to be a model host to [sway_target.GetTitledFirstName], encouraging [sway_target.GetHerHim] to explore some of the sublime delights I have discovered in my many years of searching for the ultimate pleasure. If nothing else, [sway_target.GetSheHe] looks impressed by my art collection.;;;;;;;;;;;;x
-EVTDESCHFPD21104;[sway_target.GetTitledFirstName] and I spent countless hours trying to best each other in all sorts of war games during the time of [sway_target.GetHerHis] visit. I tried not to be too competitive and let [sway_target.GetSheHe] win a few games, and by the end of the week [sway_target.GetSheHe] seemed eager to play more!;;;;;;;;;;;;x
+EVTDESCHFPC21104;私は模範的なホストとして[sway_target.GetTitledFirstName]をもてなし、[sway_target.GetHerHim]に、私が長年に渡り究極の喜悦を追求し続けた末に見出したいくつもの至高の楽しみを経験するよう勧めた。何はともあれ[sway_target.GetSheHe]は、私が蒐集してきたアートに感銘を受けたようだ。;;;;;;;;;;;;x
+EVTDESCHFPD21104;[sway_target.GetTitledFirstName]と私は、[sway_target.GetHerHis]の訪問中、あらゆる種類の戦争ゲームで互いにベストを尽くし、無数の時間を費やした。私はあまり勝ちすぎないように[sway_target.GetSheHe]に何度か勝ちを譲った。 週末になるころには、[sway_target.GetSheHe]はもっと遊びたがっていた。;;;;;;;;;;;;x
 EVTDESCHFPE21104;After a week of mingling, I have managed to introduce [sway_target.GetTitledFirstName] to every notable person at court. Each night we feasted together in the main hall, talking about the latest news and listening to the newest songs.;;;;;;;;;;;;x
 EVTDESCHFPF21104;I took the opportunity of [sway_target.GetFirstName]'s visit to show [sway_target.GetHerHim] my private study and some of my experiments. For hours I described [sway_target.GetHerHim] the fruits of my many years of labor, hoping to catch [sway_target.GetHerHis] attention.;;;;;;;;;;;;x
 EVTDESCHFPG21104;Having the opportunity to spend a few days with [sway_target.GetFirstName] allowed me to show [sway_target.GetHerHim] all the wondrous books I have gathered in my library. We have spent countless hours reading through ancient texts and talking about the most intriguing subjects.;;;;;;;;;;;;x
@@ -3208,10 +3208,10 @@ EVTOPTEHFP21104_FAIR;It is rare to have such a charming host as myself.;;;;;;;;;
 EVTOPTFHFP21104_CHASTE;今回の訪問であなたのことを悪く思う人がいないと良いのですが…;;;;;;;;;;;;x
 EVTOPTGHFP21104_TEMPERATE;I hope you enjoyed our frugal dinners.;;;;;;;;;;;;x
 EVTOPTHHFP21104_CHARITABLE;ここを去る前に、あなたのために何かさせてください!;;;;;;;;;;;;x
-EVTOPTIHFP21104_DILIGENT;I hope I haven't taken you away from any important work.;;;;;;;;;;;;x
+EVTOPTIHFP21104_DILIGENT;あなたを重要な仕事から遠ざけていなければよいのだが。;;;;;;;;;;;;x
 EVTOPTLHFP21104_PATIENT;貴方をお招きできて光栄でした。;;;;;;;;;;;;x
 EVTOPTMHFP21104_KIND;I hope the visit was of your liking.;;;;;;;;;;;;x
-EVTOPTNHFP21104_HUMBLE;I was honored by your visit.;;;;;;;;;;;;x
+EVTOPTNHFP21104_HUMBLE;あなたの訪問を光栄に思います。;;;;;;;;;;;;x
 EVTOPTOHFP21104_LUSTFUL;I hope you found the entertainment of your liking...;;;;;;;;;;;;x
 EVTOPTPHFP21104_GLUTTONOUS;I hope you enjoyed the feasts.;;;;;;;;;;;;x
 EVTOPTQHFP21104_GREEDY;Sorry I couldn't offer you a more lavish welcome...;;;;;;;;;;;;x
@@ -3222,7 +3222,7 @@ EVTOPTQHFP21104_PROUD;I am sure you enjoyed being in my presence for so long.;;;
 EVTOPTQHFP21104_AMBITIOUS;Planning your visit filled me with purpose.;;;;;;;;;;;;x
 EVTOPTQHFP21104_ARBITRARY;Surely you appreciated having such a liberal host...;;;;;;;;;;;;x
 EVTOPTQHFP21104_BRAVE;高貴な者同士は、みだりに言葉を交わさない。;;;;;;;;;;;;x
-EVTOPTQHFP21104_CONTENT;I was happy to have you here.;;;;;;;;;;;;x
+EVTOPTQHFP21104_CONTENT;あなたと居られて幸せでした。;;;;;;;;;;;;x
 EVTOPTQHFP21104_CRAVEN;ここ[Root.Capital.GetName]では、充分に安全だと思ってほしい。;;;;;;;;;;;;x
 EVTOPTQHFP21104_CRUEL;I am sure you enjoyed the visit to my torture chamber.;;;;;;;;;;;;x
 EVTOPTQHFP21104_CYNICAL;説教臭い連中から離れて、快適だったでしょうね。;;;;;;;;;;;;x
@@ -3528,19 +3528,19 @@ EVTOPTFHF22021;私にふさわしくない振る舞いだ。;;;;;;;;;;;;x
 EVTDESCHF22022;[GetRandomSlanderReactionDesc];;;;;;;;;;;;x
 EVTOPTAHF22022;[From.GetSheHe]の行動は正確に把握している。;;;;;;;;;;;;x
 tooltip_22022_A;§Y[From.GetTitledFirstName]§!の中傷は無視して、[From.GetSheHe]が広めた噂が引き起こす付随的な損害の回避に集中する。;;;;;;;;;;;;x
-EVTOPTBHF22022;[From.GetSheHeCap] has a point...;;;;;;;;;;;;x
+EVTOPTBHF22022;[From.GetSheHeCap]の言う通りだ……;;;;;;;;;;;;x
 tooltip_22022_B;Accept §Y[From.GetTitledFirstName]'s§! criticism as valid and just.;;;;;;;;;;;;x
-EVTOPTCHF22022;No matter what [From.GetSheHe] said, I forgive [From.GetHerHim].;;;;;;;;;;;;x
-tooltip_22022_C;Forgive §Y[From.GetTitledFirstName]§! for [From.GetHerHis] insults.;;;;;;;;;;;;x
-EVTOPTDHF22022;So what?;;;;;;;;;;;;x
+EVTOPTCHF22022;[From.GetSheHe]が何と言おうと、私は[From.GetHerHim]を許そう。;;;;;;;;;;;;x
+tooltip_22022_C;§Y[From.GetTitledFirstName]§!の侮辱を許す。;;;;;;;;;;;;x
+EVTOPTDHF22022;だからなんだ？;;;;;;;;;;;;x
 tooltip_22022_D;Inform §Y[From.GetTitledFirstName]§! that you care little about [From.GetHerHis] moralizing.;;;;;;;;;;;;x
 EVTOPTEHF22022;[From.GetSheHe]にやられた!;;;;;;;;;;;;x
 EVTDESCHF22023;It looks like [From.GetTitledFirstName] is exclusively concerned with preventing the rumors I spread about [From.GetHerHim] from in any way jeopardizing [From.GetHerHis] legitimacy. [From.GetSheHeCap] seems to perceive my attack more as an annoyance than the grievous insult I intended...;;;;;;;;;;;;x
-EVTOPTAHF22023;I should have used a harsher wording.;;;;;;;;;;;;x
+EVTOPTAHF22023;もっと厳しい言葉を使うべきだったかな。;;;;;;;;;;;;x
 EVTDESCHF22024;[From.GetTitledFirstName]'s humility outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] accepted my slander as rightful criticism.;;;;;;;;;;;;x
-EVTOPTAHF22024;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;;x
+EVTOPTAHF22024;[From.GetSheHe]には誇りが無いのか？;;;;;;;;;;;;x
 EVTDESCHF22025;[From.GetTitledFirstName]'s kindness outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] has decided to forgive me for my accusations.;;;;;;;;;;;;x
-EVTOPTAHF22025;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;;x
+EVTOPTAHF22025;[From.GetSheHe]には誇りが無いのか？;;;;;;;;;;;;x
 EVTDESCHF22026;[From.GetTitledFirstName] has such a cynical mind that my insults rang hollow to [From.GetHerHis] ears. [From.GetSheHeCap] does not care at all about everybody knowing of [From.GetHerHis] wickedness.;;;;;;;;;;;;x
 EVTOPTAHF22026;他にできることがあるとでも？;;;;;;;;;;;;x
 EVTDESCHF22027;予想通り、[From.GetTitledFirstName]は激怒している。私が[From.GetHerHim]について広めた噂により、[From.GetHerHis]の化けの皮が剝がれた。結局のところ、噂を否定することはできようか？;;;;;;;;;;;;x
@@ -3554,14 +3554,14 @@ EVTOPTAHF22030;And I hate [From.GetHerHim] back!;;;;;;;;;;;;x
 EVTDESCHF22031;私の意図を隠す意味はもはやないーー[From.GetTitledFirstName]は私のことを怨敵だと公然と宣言した。;;;;;;;;;;;;x
 EVTOPTAHF22031;今日から先、我らは仇敵となるのだ。;;;;;;;;;;;;x
 EVTDESCHF22032;It has recently come to my attention that [FromFrom.GetTitledFirstName] and I share a common enemy in [From.GetTitledFirstName].;;;;;;;;;;;;x
-EVTOPTAHF22032;Perhaps we could be friends?;;;;;;;;;;;;x
-EVTOPTBHF22032;[FromFrom.GetTitledFirstName] is a good [FromFrom.GetManWoman].;;;;;;;;;;;;x
+EVTOPTAHF22032;よければ、友達にならないか？;;;;;;;;;;;;x
+EVTOPTBHF22032;[FromFrom.GetTitledFirstName]は良い[FromFrom.GetManWoman]だ。;;;;;;;;;;;;x
 EVTDESCHF22033;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], I have discovered a true supporter in [From.GetTitledFirstName]. Our common hatred for [FromFrom.GetFirstName] has really brought us together.;;;;;;;;;;;;x
 EVTOPTAHF22033;あなたと友達になれて光栄だ。;;;;;;;;;;;;x
 EVTDESCHF22034;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], [From.GetTitledFirstName] informed me that [From.GetSheHe] fully shares my hatred for [FromFrom.GetFirstName] and completely agrees with my actions.;;;;;;;;;;;;x
-EVTOPTAHF22034;How very nice of you to say so!;;;;;;;;;;;;x
+EVTOPTAHF22034;良いこと言うじゃないか！;;;;;;;;;;;;x
 EVTDESCHF22035;Taunting a powerful [From.GetTitle] like [From.GetFirstName] is something many other rulers would be scared to do. News of my recent actions have earned me quite a bit of prestige.;;;;;;;;;;;;x
-EVTOPTAHF22035;Marvelous.;;;;;;;;;;;;x
+EVTOPTAHF22035;素晴らしい。;;;;;;;;;;;;x
 EVTDESCHF22036;[FromFrom.GetTitledFirstName] has made no secret of [FromFrom.GetHerHis] hatred towards [From.GetTitledFirstName]. [FromFrom.GetSheHeCap] might be the right person to press my rightful claim against the usurper.;;;;;;;;;;;;x
 EVTOPTAHF22036;すぐに[FromFrom.GetHerHis]の宮殿へに行こう！;;;;;;;;;;;;x
 EVTDESCHF22037;[From.GetTitledFirstName], a claimant to [FromFrom.GetTitledFirstName]'s throne, has come to my court after my recent show of hostility towards the [FromFrom.GetTitle]. [From.GetSheHeCap] hopes that I will aid [From.GetHerHim] in [From.GetHerHis] struggle against [FromFrom.GetFirstName].;;;;;;;;;;;;x
@@ -3607,7 +3607,7 @@ string_antagonized_desc_content;[From.GetTitledFirstName]'s unimaginative and un
 string_antagonized_desc_craven;[From.GetTitledFirstName] is nothing but a coward. [From.GetHerHisCap] unacceptable behavior needs to be exposed and condemned if [From.GetSheHe] is ever to improve. By denouncing [From.GetHerHim] I would only do [From.GetHerHim] a favor.;;;;;;;;;;;;x
 string_antagonized_desc_cruel;It should not be hard to smear [From.GetTitledFirstName] given [From.GetHerHis] cruel disposition. Everybody needs to be reminded of [From.GetHerHis] ruthless attitude.;;;;;;;;;;;;x
 string_antagonized_desc_cynical;[From.GetTitledFirstName] barely conceals [From.GetHerHis] blasphemous lack of faith in [From.Religion.GetHighGodName]. Such a person should not be allowed to live in any proper society, [From.GetSheHe] should be shunned and condemned for [From.GetHerHis] heathen ways.;;;;;;;;;;;;x
-string_antagonized_desc_deceitful;[From.GetTitledFirstName]'s duplicitous nature may be a secret to [From.GetHerHis] friends and family, but it is quite clear to me. I should expose [From.GetHerHis] lack of honesty so that everyone knows to be wary of [From.GetHerHis] forked tongue.;;;;;;;;;;;;x
+string_antagonized_desc_deceitful;[From.GetTitledFirstName]の詐欺師同然の性格は、 [From.GetHerHis]の友人や家族を欺けても、私の眼は誤魔化せない。ここは私が、やつの不誠実さを暴き立て、その二枚舌っぷりを人々に周知させるべきだ。;;;;;;;;;;;;x
 string_antagonized_desc_erudite;[From.GetTitledFirstName] spends too much time studying ancient books from strange and mysterious authors. [From.GetHerHisCap] shady activities are obviously proof of [From.GetHerHis] heretical beliefs. I should expose [From.GetHerHis] wickedness for all to see.;;;;;;;;;;;;x
 string_antagonized_desc_gregarious;[From.GetTitledFirstName] has never been able to learn the virtue of silence and discretion. [From.GetSheHeCap] is constantly talking and harassing everyone around [From.GetHerHim]. I should make it clear how much I despise [From.GetHerHis] obnoxious attitude.;;;;;;;;;;;;x
 string_antagonized_desc_honest;I can scarcely believe how a grown [From.GetManWoman] like [From.GetTitledFirstName] has yet to develop any sort of tact. [From.GetHerHisCap] bluntness is unbearable, and needs to be openly mocked if [From.GetSheHe] is ever to learn [From.GetHerHis] lesson about manners.;;;;;;;;;;;;x
@@ -4279,7 +4279,7 @@ EVTDESC_HFP_10107;[Root.GetDuelWeapon]を前に構え、[other_combatant.GetTitl
 EVTOPTA_HFP_10107;まあ、簡単だったな。;;;;;;;;;;;;x
 EVTDESC_HFP_10108;震えが止まらない。何が起こったのか。決着がついたとき、心が折れて、ただ……決闘から逃げ出した！私はこんなにも臆病者だったのか……！そもそもなぜ決闘に同意したのか？;;;;;;;;;;;;x
 EVTOPTA_HFP_10108;I should have stayed and fought!;;;;;;;;;;;;x
-EVTOPTA_HFP_10108_craven;I just wanted to prove that I am not afraid.;;;;;;;;;;;;x
+EVTOPTA_HFP_10108_craven;私はただ自分が臆病者でないと証明したかったのだ。;;;;;;;;;;;;x
 EVTOPTA_HFP_10108_shy;It was too much, how they were just... All looking at me.;;;;;;;;;;;;x
 EVTOPTA_HFP_10108_wroth;[Root.GetFirstName]よ、どうしてしまったのだ！？;;;;;;;;;;;;x
 EVTDESC_HFP_10109;私が[other_combatant.GetWeaponInjuringBlow]した時に、[other_combatant.GetTitledFirstName]は、うまく[Root.GetWeaponInjuringBlowOnMe]させた。しかしながら、観衆は私の名を唱えている！;;;;;;;;;;;;x
@@ -4428,7 +4428,7 @@ DEATH_BY_DRINKING_POISON_NO_KILLER;died after drinking something poisonous;;;;;;
 EVTDESC_JD_30003;[From.GetTitledFirstName] has reprimanded merchants in our region, citing misconduct in other realms. However, there are those arguing that the rights of merchants from [Root.PrimaryTitle.GetName] does not fall under the jurisdiction of [From.GetTitledFirstName]. While it might anger the [From.GetTitle], I am considering a public show of resolve.;;;;;;;;;;;;x
 EVTOPTA_JD_30003;I'll make a public statement about [From.GetHerHis] blatant misuse of power!;;;;;;;;;;;;x
 choose_military_aspect;軍事展望を選ぶ;;;;;;;;;;;;x
-choose_military_aspect_allow_tt;Is NOT currently choosing a Military Aspect;;;;;;;;;;;;x
+choose_military_aspect_allow_tt;現在、軍事展望が選択されていない;;;;;;;;;;;;x
 choose_military_aspect_desc;As a member of §Y[From.Society.GetName]§!, you can choose to focus on a specific military aspect of a warrior's life. Doing so will allow you to choose a lifestyle trait.;;;;;;;;;;;;x
 does_not_have_a_lifestyle_trait_tt;Does NOT have a lifestyle trait;;;;;;;;;;;;x
 EVTDESC_HF_10020_duelist;Having learned what I can about one-on-one combat, swinging my [Root.GetDuelWeapon] being as easy as breathing, I have decided that it is time I focused on other pursuits common among [Root.Society.GetName].;;;;;;;;;;;;x
@@ -4441,11 +4441,11 @@ EVTOPTD_HF_10020;やっぱり今の生き方が性に合っているな。;;;;;;
 EVTDESC_HF_10021;My fellow members of [Root.Society.GetName] have long been wondering when I will choose a focus for my fighting talents. There are those who live for the art of dueling, while others prefer the more theoretic side of combat... Yet hunting is also a worthwhile pursuit.;;;;;;;;;;;;x
 EVTOPTA_HF_10021;個人戦闘力を重視する;;;;;;;;;;;;x
 EVTOPTB_HF_10021;戦略的思考をより深めたい。;;;;;;;;;;;;x
-EVTOPTC_HF_10021;I want to spend more time outdoors, hunting!;;;;;;;;;;;;x
+EVTOPTC_HF_10021;もっと外で過ごす時間を増やしたい。狩猟だ！;;;;;;;;;;;;x
 EVTOPTD_HF_10021;Then again, I like my current way of life.;;;;;;;;;;;;x
-EVTOPTA_HF_10021_tt;This will lead to the §YDuelist§! trait.\n;;;;;;;;;;;;x
-EVTOPTB_HF_10021_tt;This will lead to the §YStrategist§! trait.\n;;;;;;;;;;;;x
-EVTOPTC_HF_10021_tt;This will lead to the §YHunter§! trait.\n;;;;;;;;;;;;x
+EVTOPTA_HF_10021_tt;§Y決闘家§!の特性を得るでしょう。\n;;;;;;;;;;;;x
+EVTOPTB_HF_10021_tt;§Y戦略家§!の特性を得るでしょう。\n;;;;;;;;;;;;x
+EVTOPTC_HF_10021_tt;§Y狩人§!の特性を得るでしょう。\n;;;;;;;;;;;;x
 EVTDESC_HF_10022;I have studied my soldiers practicing their swordsmanship, and I am certain that some of them are becoming unsettled by the constant watch of their [Root.GetTitle]... Perhaps it is time I admit that I could use some guidance, when it comes to my own dueling? If nothing else, I could join their training...;;;;;;;;;;;;x
 EVTOPTA_HF_10022;I shall get [mentor_target.GetTitledFirstName] to teach me everything [mentor_target.GetSheHe] knows.;;;;;;;;;;;;x
 EVTOPTB_HF_10022;I will discreetly hire someone to instruct me.;;;;;;;;;;;;x
@@ -4490,7 +4490,7 @@ baltic_leader_desc;This character is used to defending ancient and sacred woodla
 finnish_leader;ツンドラの盾;;;;;;;;;;;;x
 finnish_leader_desc;This character is used to a harsh environment and blistering winters.;;;;;;;;;;;;x
 slavic_leader_desc;This character stands firmly on flat terrain, an inspiring figure for [GetHerHis] troops.;;;;;;;;;;;;x
-west_african_leader;Spirit Warrior;;;;;;;;;;;;x
+west_african_leader;魂の戦士;;;;;;;;;;;;x
 west_african_leader_desc;This character is accustomed to fighting in the desert and traveling light.;;;;;;;;;;;;x
 zun_leader;Scorcher;;;;;;;;;;;;x
 zun_leader_desc;This character works well with siege weapons and is fast on [GetHerHis] feet, easily traversing both mountain and desert.;;;;;;;;;;;;x
@@ -4499,7 +4499,7 @@ bon_leader_desc;This character can move hastily through the hills and plateaus o
 hellenic_leader;Aeneator;;;;;;;;;;;;x
 hellenic_leader_desc;この人物は、戦いの中で歌を届け、[GetHerHis]の軍隊の士気の源となります;;;;;;;;;;;;x
 has_warrior_training_with_current_society_tt;Has gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;;x
-has_no_warrior_training_with_current_society_tt;Has NOT already gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;;x
+has_no_warrior_training_with_current_society_tt;[From.Society.GetName]の指揮官特性を保持していない\n;;;;;;;;;;;;x
 has_religion_matching_joined_warrior_lodge_tt;Has a religion that corresponds with [This.Society.GetName]\n;;;;;;;;;;;;x
 warrior_training;戦士の訓練;;;;;;;;;;;;x
 warrior_training_desc;As a member of §Y[From.Society.GetName]§!, you are becoming familiar with their training and what they value – you may gain a §YCommander Trait§! to reflect this.;;;;;;;;;;;;x
@@ -5874,7 +5874,7 @@ the_cold_ones_random;[slavic_pagan.GetRandomEvilGodNameCap]の子;;;;;;;;;;;;x
 the_cold_ones_desc;[GetColdOnesSocietyDesc];;;;;;;;;;;;x
 the_cold_ones_desc_real;悪しきものは魔女の血から生まれた人々から恩恵を受けることで黒い神を意味するチェルノボグから力と富を授かれると信じています。彼らは目的のためならば人身御供も凶悪な行為も厭わないと噂されており、伝統的な信者からは呪われた存在と呼ばれ冷たい目で見つめられています。;;;;;;;;;;;;x
 cold_ones_recruit;[GetColdOnesRecruit];;;;;;;;;;;;x
-cold_ones_recruit_real;Recruit to the Cold Ones;;;;;;;;;;;;x
+cold_ones_recruit_real;悪しきものに勧誘;;;;;;;;;;;;x
 cold_ones_recruit_desc;[GetColdOnesRecruitDesc];;;;;;;;;;;;x
 cold_ones_recruit_desc_real;Attempt to find out whether §Y[Root.GetTitledFirstName]§! is open to the power of the occult. If so, you may invite [Root.GetHerHim] to become one of the Cold Ones.;;;;;;;;;;;;x
 cold_ones_recruit_block_tooltip;[GetColdOnesRecruitBlockDesc];;;;;;;;;;;;x
@@ -6063,7 +6063,7 @@ EVTOPTA_HF_10016;I have just been waiting for you to ask.;;;;;;;;;;;;x
 EVTOPTA_HF_10016_TT;§Y[hero_character.GetTitledFirstName]§! of [warrior_lodge_to_join.GetName] will be contacted.\n;;;;;;;;;;;;x
 EVTOPTB_HF_10016;[recruiting_parent.GetFatherMotherCap], I will carve my own path.;;;;;;;;;;;;x
 EVTOPTB_HF_10016_TT;Your [recruiting_parent.GetFatherMother] is disappointed.\n;;;;;;;;;;;;x
-EVTDESC_HF_10012_A;私の奨励で、[new_recruit.GetAgeAdjective] [new_recruit.GetSonDaughter]は満面に笑みを浮かべた。「あなたが私に尋ねることは決してないと思っていました！すぐに[hero_character.GetTitledFirstName]に連絡します、[Root.GetFatherMother]上」;;;;;;;;;;;;x
+EVTDESC_HF_10012_A;私の勧誘に対して[new_recruit.GetAgeAdjective] [new_recruit.GetSonDaughter]は満面の笑みを浮かべた。「私を誘うことは決してないと思っていました！すぐに[hero_character.GetTitledFirstName]に連絡します、[Root.GetFatherMother]上」;;;;;;;;;;;;x
 EVTDESC_HF_10012_A_hero_is_parent;My [new_recruit.GetAgeAdjective] [new_recruit.GetSonDaughter] smiles broadly at my encouragement. "I thought you would never ask! So... how do we do this, [Root.GetFatherMother]?";;;;;;;;;;;;x
 EVTDESC_HF_10012_B;My [new_recruit.GetAgeAdjective] [new_recruit.GetSonDaughter] rolls [new_recruit.GetHerHis] eyes at my attempted encouragement. "I will carve my own path, [Root.GetFatherMother]. Please, let me." When I do not respond, [new_recruit.GetSheHe] continues: "[hero_character.GetSocietyRank] [hero_character.GetTitledFirstName] is a bore, [Root.GetFatherMother].";;;;;;;;;;;;x
 EVTDESC_HF_10012_B_hero_is_parent;My [new_recruit.GetAgeAdjective] [new_recruit.GetSonDaughter] rolls [new_recruit.GetHerHis] eyes at my attempted encouragement. "I will carve my own path, [Root.GetFatherMother]. Please, let me." When I do not respond, [new_recruit.GetSheHe] continues: "War and combat is dreadfully boring, [Root.GetFatherMother].";;;;;;;;;;;;x
@@ -6814,10 +6814,10 @@ random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語�
 random_miracle_04;[saint_person.GetFirstName]は預言によって洞察力を得ており、何日後や何ヶ月後、そして何年後かに起こるものごとを見ることができたと言われています。その幻視を通じて、聖[saint_person.GetFirstName]は友や家族が直面するであろう危険を彼らが避けられるよう導いたのです。;;;;;;;;;;;;x
 random_miracle_05;聖[saint_person.GetFirstName]は、あたかも他人の考えを読み取ることができたかのように人々をよく理解したと言われています。その才能にもかかわらず、[saint_person.GetSheHe]はそれを決して悪用することなく、[saint_person.GetHerHis]の前でその才能を祝福する[saint_person.Religion.GetHighGodName]に心から奉仕する者でした。;;;;;;;;;;;;x
 random_miracle_06;多くの者が[saint_person.Religion.GetRandomEvilGodName]のもとに仕えていましたが、聖[saint_person.GetFirstName]の面前で彼らはすべて消えてしまいました。[saint_person.GetSheHe]は人々から悪をはぎとり、彼らを[saint_person.Religion.GetHighGodName]の栄光のために生きる正しい道へと連れ戻したのだと言われています。;;;;;;;;;;;;x
-random_miracle_07;多くの[saint_person.Religion.GetHighGodName]のしもべたちが天国から地上に降りたち、聖[saint_person.GetFirstName]と話し合いをしていたという噂もあります。そうした奇跡的な会合の後には[saint_capital.GetName]の辺り一帯で多くの羽根が見つかったかもしれません。皆は[saint_person.GetFirstName]はなんと高潔なお方だろうかと心から思っていたのですから。;;;;;;;;;;;;x
-random_miracle_08;The story goes that a man was drowning in [saint_capital.GetName], when Saint [saint_person.GetFirstName] ran across the water to help the poor drowning man. It was only after the man was safely rescued everyone understood the miracle which had just happened. Following the footsteps of [saint_person.Religion.GetHighGodName] so literally is only fitting for one as great as [saint_person.GetFirstName].;;;;;;;;;;;;x
-random_miracle_09;If one visits the church in [saint_capital.GetName], one will occasionally still hear the voice of Saint [saint_person.GetFirstName] among the singing voices of the faithful. Saint [saint_person.GetFirstName] was so pious that even after [saint_person.GetHerHis] death, [saint_person.GetSheHe] still attends the prayers to [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
-random_miracle_10;At a rare moment in [saint_person.GetHerHis] childhood fire suddenly blasted forth from [saint_person.GetHerHis] fingers, and that was only the first of several such occurrences. Random at first, [saint_person.GetSheHe] managed to control their blessed gifts and used it to help the [saint_person.Religion.GetGroupName] world.;;;;;;;;;;;;x
+random_miracle_07;多くの[saint_person.Religion.GetHighGodName]のしもべたちが天国から地上に降りたち、聖[saint_person.GetFirstName]と話し合いをしていたという噂もあります。そうした奇跡的な会合の後には[saint_capital.GetName]の辺り一帯で多くの羽根が見つかっていました。皆は[saint_person.GetFirstName]はなんと高潔なお方だろうかと心から思っていたのです。;;;;;;;;;;;;x
+random_miracle_08;噂では、[saint_capital.GetName]で一人の男が溺れていると、聖[saint_person.GetFirstName]が水の上を駆けてその憐れな溺れた男を助け出したそうです。皆が奇跡が起こったのだとわかったのは、男が無事助け出された後のことでした。[saint_person.Religion.GetHighGodName]の言行を忠実にたどることは[saint_person.GetFirstName]と同様に偉大な人にふさわしい行いでした。;;;;;;;;;;;;x
+random_miracle_09;[saint_capital.GetName]の教会を訪れるなら、今もなお信心深い人々の歌声の中から時折、聖[saint_person.GetFirstName]の声が聞こえてくることがあるでしょう。聖[saint_person.GetFirstName]は非常に敬虔だったので、その死後も[saint_person.GetSheHe]は[saint_person.Religion.GetHighGodName]への祈りに加わっているのです。;;;;;;;;;;;;x
+random_miracle_10;[saint_person.GetHerHis]が子供の頃、あるとき突然[saint_person.GetHerHis]の指先から炎が噴き出しました。そしてそれは何度も起きた同様の出来事の最初の一つでしかありませんでした。[saint_person.GetSheHe]は最初は当てずっぽうにしていましたが、その祝福された才能を上手く操ろうとし、[saint_person.Religion.GetGroupName]の国々を助けるために使うようにしたのです。;;;;;;;;;;;;x
 random_miracle_11;It is said one of the virtuous men of [saint_capital.GetName] was stuck under debris, and no matter how many men tried to help it was impossible to get the man out. Saint [saint_person.GetFirstName] came across them, and prayed to [saint_person.Religion.GetHighGodName] to help them out. Afterwards the man could simply stand up and brush the debris off, as if it was as light as a feather. Such was the miraculous life of Saint [saint_person.GetFirstName].;;;;;;;;;;;;x
 random_miracle_12;After the martyred death of [saint_person.GetFirstName], it is said some people saw [saint_person.GetHerHim] walk back home to [saint_capital.GetName] with [saint_person.GetHerHis] head in [saint_person.GetHerHis] arms. After these visions, they suddenly came across a new burial site where they found the body of [saint_person.GetFirstName].;;;;;;;;;;;;x
 random_miracle_13;So much did [saint_person.GetSheHe] care about the people around [saint_person.GetHerHim] that [saint_person.GetSheHe] blessed the local water with the power of love. It has become a famous spot for pilgrims, to wish for love and happiness in their life. So strong was [saint_person.GetHerHis] faith in [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
@@ -7611,13 +7611,13 @@ tooltip_religion_feature_astrology;§G誕生時に占星術特性が与えられ
 EVTDESCAHF23021;I was told many time when I was growing up of how the stars are influencing my behavior, but now I am no longer sure of it. Was it just stories grown-ups were telling me to make me feel special?;;;;;;;;;;;;x
 EVTOPTAHF23021;It must be true!;;;;;;;;;;;;x
 EVTOPTBHF23021;I don't care about the stupid stars!;;;;;;;;;;;;x
-EVTDESCAHF23022;My [GetFromRelation] [From.GetFirstName] has taken a deep interest in the circumstances of [From.GetHerHis] birth and in the constellations affecting [From.GetHerHis] destiny.;;;;;;;;;;;;x
+EVTDESCAHF23022;[GetFromRelation]の[From.GetFirstName]は、[From.GetHerHis]の誕生時に定められた宿星の示す自分の運命に深い関心を持っている。;;;;;;;;;;;;x
 EVTDESCBHF23022;私の[GetFromRelation][From.GetFirstName]は、自分の出生と星座が自分の運命と関連している、という考えを好んでいないようだ。;;;;;;;;;;;;x
 EVTOPTAHF23022;だからどうした？占星術など迷信にすぎない。;;;;;;;;;;;;x
 EVTOPTBHF23008_A;そうだな。[From.GetSheHeCap]の将来は星々に左右されるべきではない。;;;;;;;;;;;;x
-EVTOPTBHF23008_B;[From.GetSheHeCap] worries too much about the stars.;;;;;;;;;;;;x
+EVTOPTBHF23008_B;[From.GetSheHeCap]は星々の意志に気に病みすぎだ。;;;;;;;;;;;;x
 EVTOPTCHF23008_A;受け入れられない！;;;;;;;;;;;;x
-EVTOPTCHF23008_B;Good on [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTCHF23008_B;[From.GetHerHim]はそれで良い。;;;;;;;;;;;;x
 EVTDESCAHF23023;My [GetFromRelation] [From.GetFirstName] warned me that I worry too much about the stars and that I should not let the circumstances of my birth affect my judgment on present events.;;;;;;;;;;;;x
 EVTDESCBHF23023;My [GetFromRelation] [From.GetFirstName] praised me for not focusing too much on astrology at the expenses of my better judgment. ;;;;;;;;;;;;x
 EVTOPTAHF23023;I should not let the stars rule over me!;;;;;;;;;;;;x
@@ -8422,13 +8422,13 @@ EVTOPTAHF25034;This is but a misunderstanding...;;;;;;;;;;;;x
 EVTOPTBHF25034;You shall have your money.;;;;;;;;;;;;x
 EVTOPTCHF25034;Begone then! I have no need of you!;;;;;;;;;;;;x
 EVTDESCHF25037;The valor I have shown in battle has not inspired just seasoned warriors. Many of my subjects have traveled to [Root.Capital.GetName], hoping to prove their worth against my enemies.;;;;;;;;;;;;x
-EVTOPTAHF25037;I will have them trained in no time!;;;;;;;;;;;;x
+EVTOPTAHF25037;ただちに訓練だ！;;;;;;;;;;;;x
 EVTOPTBHF25037;Your bravery moves me, but this is not your fight.;;;;;;;;;;;;x
 EVTOPTCHF25037;Wonderful! You will soon meet your opponents!;;;;;;;;;;;;x
 EVTOPTDHF25037;You can help with the supply lines.;;;;;;;;;;;;x
 tooltip_rowdy_troops_leave;Some of your new recruits will disband.;;;;;;;;;;;;x
 glorious_countercharge_tactic;Glorious Counter-Charge Tactic;;;;;;;;;;;;x
-glorious_norse_tactic;Winter's Maw Tactic;;;;;;;;;;;;x
+glorious_norse_tactic;冬の胃袋戦術;;;;;;;;;;;;x
 glorious_tengri_tactic;Wolf's Howling Tactic;;;;;;;;;;;;x
 glorious_slavic_tactic;Slavic Last Stand Tactic;;;;;;;;;;;;x
 glorious_baltic_tactic;Baltic Last Stand Tactic;;;;;;;;;;;;x
@@ -8450,9 +8450,9 @@ tooltip_west_african_create_fetish_cooldown;Is NOT already supervising the creat
 tooltip_has_african_mask_duplicate;Does NOT already own a Mask and an Idol;;;;;;;;;;;;x
 tooltip_west_african_create_fetish;Begin crafting a new §YArtifact§!.;;;;;;;;;;;;x
 crown_african_mask_1;Spirit-Mask of Bravery;;;;;;;;;;;;x
-crown_african_mask_1_desc;A majestic war mask carved from a most precious wood and imbued with the essence of a brave and benevolent spirit.;;;;;;;;;;;;x
+crown_african_mask_1_desc;希少な木材に勇気と優しさの真髄を込めて制作された勇壮な面頬です。;;;;;;;;;;;;x
 crown_african_mask_2;Spirit-Mask of Terror;;;;;;;;;;;;x
-crown_african_mask_2_desc;A majestic war mask carved from a most precious wood and imbued with the essence of a violent and frightening spirit.;;;;;;;;;;;;x
+crown_african_mask_2_desc;希少な木材に暴虐と恐怖の真髄を込めて制作された勇壮な面頬です。;;;;;;;;;;;;x
 crown_african_mask_3;Spirit-Mask of Determination;;;;;;;;;;;;x
 crown_african_mask_3_desc;希少な木材を用いて制作され、不屈で頑固な精神の真髄が込められたトーテムの面頬です。;;;;;;;;;;;;x
 crown_african_mask_4;Spirit-Mask of Ruthlessness;;;;;;;;;;;;x
@@ -8468,8 +8468,8 @@ crown_african_mask_8_desc;希少な木材を用いて制作され、霊妙で刹
 scepter_african_1;彫刻されたトーテム;;;;;;;;;;;;x
 scepter_african_1_desc;A priceless totem representing the guardian spirit of a notable tribe, favored by the gods of war.;;;;;;;;;;;;x
 scepter_african_2;Ivory Idol;;;;;;;;;;;;x
-scepter_african_2_desc;A priceless idol representing the guardian spirit of a notable tribe, favored by the gods of war.;;;;;;;;;;;;x
-scepter_african_3;Rainstick;;;;;;;;;;;;x
+scepter_african_2_desc;名高き部族の守護霊を象った貴重な偶像で、戦争の神々に愛されています。;;;;;;;;;;;;x
+scepter_african_3;レインスティック;;;;;;;;;;;;x
 scepter_african_3_desc;A wooden tube filled with small pebbles and enchanted with ancient spirit-magic.;;;;;;;;;;;;x
 EVTDESCHF25040;The shamans from [Root.Society.GetName] quickly explain to me how, before deciding what kind of spirit I wish to trap, we must determine what sort of fetish I am trying to create...;;;;;;;;;;;;x
 EVTOPTAHF25040;A great mask of war!;;;;;;;;;;;;x
@@ -8545,7 +8545,7 @@ scepter_african_1_random_b;[Root.Capital.GetName]のトーテム;;;;;;;;;;;;x
 scepter_african_1_random_c;[Root.GetFirstName]の巨大なトーテム;;;;;;;;;;;;x
 scepter_african_1_random_d;War-Totem of [Root.PrimaryTitle.GetName];;;;;;;;;;;;x
 scepter_african_2_random_a;Howling Tusk of [Root.GetFirstName];;;;;;;;;;;;x
-scepter_african_2_random_b;Wind of [Root.PrimaryTitle.GetName];;;;;;;;;;;;x
+scepter_african_2_random_b;[Root.PrimaryTitle.GetName]の管楽器;;;;;;;;;;;;x
 scepter_african_2_random_c;Ivory Man of [Root.Capital.GetName];;;;;;;;;;;;x
 scepter_african_2_random_d;Screeching Idol of [Root.Capital.GetName];;;;;;;;;;;;x
 scepter_african_3_random_a;Thunderstick of [Root.Capital.GetName];;;;;;;;;;;;x
@@ -8558,7 +8558,7 @@ crown_african_mask_1_random_c;High Spirit of [Root.PrimaryTitle.GetName];;;;;;;;
 crown_african_mask_1_random_d;Great Spirit-Mask of [Root.GetFirstName];;;;;;;;;;;;x
 crown_african_mask_2_random_a;Bloodied Jaws of [Root.GetFirstName];;;;;;;;;;;;x
 crown_african_mask_2_random_b;Dark Fetish of [Root.Capital.GetName];;;;;;;;;;;;x
-crown_african_mask_2_random_c;Terror-Mask of [Root.PrimaryTitle.GetName];;;;;;;;;;;;x
+crown_african_mask_2_random_c;[Root.PrimaryTitle.GetName]のテラーマスク;;;;;;;;;;;;x
 crown_african_mask_2_random_d;Great Spirit-Mask of [Root.GetFirstName];;;;;;;;;;;;x
 crown_african_mask_3_random_a;Stone-Face of [Root.Capital.GetName];;;;;;;;;;;;x
 crown_african_mask_3_random_b;Glaring Mask of [Root.PrimaryTitle.GetName];;;;;;;;;;;;x
@@ -10366,7 +10366,7 @@ string_tengri_symbol;the eagle;;;;;;;;;;;;x
 string_baltic_symbol;the wood;;;;;;;;;;;;x
 string_finnish_symbol;熊;;;;;;;;;;;;x
 string_slavic_symbol;the eternal thunder;;;;;;;;;;;;x
-string_west_african_symbol;the ancestors;;;;;;;;;;;;x
+string_west_african_symbol;祖霊;;;;;;;;;;;;x
 string_zun_symbol;the eternal flame;;;;;;;;;;;;x
 string_bon_symbol;the light;;;;;;;;;;;;x
 string_hellenic_symbol;the gods;;;;;;;;;;;;x
@@ -10446,7 +10446,7 @@ proud_role_model_desc;This character is awash with a sense of pride and duty.;;;
 center_of_attention;注目の的;;;;;;;;;;;;x
 center_of_attention_desc;This character is enjoying the attention.;;;;;;;;;;;;x
 EVTDESC_HFP_11038;「私は[GetWarriorLodgeSymbol]と一体だ」[GetDuelWeapon]を振る度に自分に言い聞かせる。「[Root.PrimaryTitle.GetName]のために！」咆哮を上げ、私の邪魔になるものは誰であれ[GetWeaponSwinging]伏せる。死体と血が[battlefield_location.GetTerrain]中に溢れかえり、枯れていた生の川を満たすように鬨の声を上げ続ける。;;;;;;;;;;;;x
-EVTOPTA_HFP_11038_default;I have found my purpose!;;;;;;;;;;;;x
+EVTOPTA_HFP_11038_default;私は道を得た！;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_lunatic;Come out, come out, where you are!;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_evil;Aaah, the sound of bone and resolve cracking before me... Invigorating!;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_kind;May [Root.Religion.GetHighGodName] care for all these souls.;;;;;;;;;;;;x
@@ -12391,7 +12391,7 @@ nick_the_dreaded;the Dreaded;;;;;;;;;;;;x
 EVTDESCAHF23431;I leave the altar with my clothes still dripping of the blood of my last victim. After having officiated a few sacrificial rites, I have found that my hands are much steadier, and that my heart is much more impervious to the incoherent pleas of my offerings to the gods.;;;;;;;;;;;;x
 EVTOPTAHF23431;It needs to be done.;;;;;;;;;;;;x
 EVTDESCAHF23432;There might have been a time when the sight of blood unsettled me, or when the wailing of a child could make my dagger quake and fill my mind with dread. \nBut not any longer. \nThe gods have granted me the fortitude to perform their sacred work.;;;;;;;;;;;;x
-EVTOPTAHF23432;The immortals must be appeased!;;;;;;;;;;;;x
+EVTOPTAHF23432;不死者たちを鎮めねば！;;;;;;;;;;;;x
 EVTDESCAHF23433;The crowd below me cheers as the head of my last sacrifice rolls down the steps of the temple. I throw the heart in the sacred brazier, watching it hiss and burn and singing praises to the gods.;;;;;;;;;;;;x
 EVTOPTAHF23433;神々はもっと多くの血を要求している！;;;;;;;;;;;;x
 EVTTITLE23434;Harbinger of the Blood Gods;;;;;;;;;;;;x
@@ -13496,7 +13496,7 @@ EVTOPTAHF25237;What a great night!;;;;;;;;;;;;x
 EVTDESCHF25238;I let the die bounce on the table twice and, just as it is about to stop, I give a little nudge to the table, ensuring my victory a second time.;;;;;;;;;;;;x
 EVTOPTAHF25238;Come on, folks, pay up!;;;;;;;;;;;;x
 EVTOPTZHF23900;この[tribal_festival_winner.GetManWoman]は、賞に値する！;;;;;;;;;;;;x
-TT_EVTOPTZHF23900;Give a prize to recognize §Y[tribal_festival_winner.GetFirstName]§!'s feat and ingratiate [tribal_festival_winner.GetHerHis] ancestors.;;;;;;;;;;;;x
+TT_EVTOPTZHF23900;§Y[tribal_festival_winner.GetFirstName]§!の快挙を称え、[tribal_festival_winner.GetHerHis]の祖先を称える賞を贈ります。;;;;;;;;;;;;x
 opinion_victory_prize;賞品を与えた;;;;;;;;;;;;x
 EVTDESCHFA23904;[From.GetTitledFirstName] has decided to give me a large sum of money for my performance during the festival, praising me in front of all the tribesmen gathered in [From.Capital.GetName].;;;;;;;;;;;;x
 EVTOPTAHF23904;Thank you!;;;;;;;;;;;;x
@@ -13621,8 +13621,8 @@ EVTDESCHF25287;The first warriors have just started tapping out when a scuffle b
 EVTOPTAHF25287;Ugh, well, at least it was fun.;;;;;;;;;;;;x
 EVTDESCAHF25288;一人また一人、参加者は降参するか気を失っていく。はっきり見ることができず、全てがぼんやりしているが、私はまだ倒れていない。残念ながら、[warrior_lodge_drinking_finalist_2.GetFirstName]、[warrior_lodge_drinking_finalist_2.GetSheHe]の方がずっと元気に見える。;;;;;;;;;;;;x
 EVTDESCBHF25288;一人また一人、参加者は降参するか気を失っていく。はっきり見ることができず、全てがぼんやりしているが、私はまだ倒れていない。残念ながら、[warrior_lodge_drinking_finalist_1.GetFirstName]、[warrior_lodge_drinking_finalist_1.GetSheHe]の方がずっと元気に見える。;;;;;;;;;;;;x
-EVTOPTAHF25288;There must be a way to get ahead...;;;;;;;;;;;;x
-TT_EVTOPTAHF25288;Try spilling most of your drink at each new round.;;;;;;;;;;;;x
+EVTOPTAHF25288;打開策があるはずだ……;;;;;;;;;;;;x
+TT_EVTOPTAHF25288;自分の番が来ると飲み干す酒をこっそりこぼします。;;;;;;;;;;;;x
 EVTOPTBHF25288;こいつより私の方がタフにできている！;;;;;;;;;;;;x
 TT_EVTOPTBHF25288;試合に勝利することに全力を尽くします。;;;;;;;;;;;;x
 EVTOPTCHF25288;せめて最後まで頑張らなければ！;;;;;;;;;;;;x
@@ -13728,9 +13728,9 @@ EVTDESCHF25408;Since my [GetFromRelation] made me join [warrior_lodge_to_join.Ge
 EVTOPTAHF25408;What do they know of war?;;;;;;;;;;;;x
 EVTDESCHF25409;Since my [GetFromRelation] made me join [warrior_lodge_to_join.GetName] I have spent very little time at court. Not that I mind, of course. The place is filled with boorish snobs and entitled sissies. Unfortunately, [From.GetFirstName] is not of the same opinion. [From.GetSheHeCap] claims that I should learn how to deal with my vassals and subjects as my title demands.;;;;;;;;;;;;x
 EVTOPTAHF25409;But why?;;;;;;;;;;;;x
-EVTDESCHF25410;I have noticed that all of this focus on physical activity might be dimming [From.GetFirstName]'s mind. My [From.GetSonDaughter] has been ignoring many of [From.GetHerHis] other studies and responsibilities to better refine [From.GetHerHis] combat skills, openly belittling their importance compared to the art of war.;;;;;;;;;;;;x
+EVTDESCHF25410;私は気付いてしまった。[From.GetFirstName]は肉体的な活発さを重視するあまり、それが頭の具合に悪影響を及ぼしていることに。 [From.GetSonDaughter]は、様々な学科の勉強を放棄して、格闘戦の技術上達に夢中で、兵法知識の重要性を説いても、それを公然と嘲る始末だ。;;;;;;;;;;;;x
 EVTOPTAHF25410;But a smart fighter is a good fighter, [GetFromRelation].;;;;;;;;;;;;x
-EVTOPTBHF25410;I wouldn't have it any other way.;;;;;;;;;;;;x
+EVTOPTBHF25410;やむを得ない.;;;;;;;;;;;;x
 EVTDESCHF25411;Today, [From.GetFirstName] took some time from [From.GetHerHis] responsibilities to scold me about what it means to be a warrior. [From.GetSheHeCap] thinks that I am focusing too much on the physical aspect of my training, and that I should know it takes both a strong body and a strong mind to make a good fighter.;;;;;;;;;;;;x
 EVTOPTAHF25411;I guess so?;;;;;;;;;;;;x
 EVTDESCHF25412;The past few months I have been focusing entirely on my training with [warrior_lodge_to_join.GetName], and the effects are showing. And all I had to do to become so strong was to neglect all my other studies!;;;;;;;;;;;;x
@@ -13823,11 +13823,11 @@ kid_crusade_economic_support;Pledged Economic Aid;;;;;;;;;;;;x
 kid_crusade_economic_support_desc;This ruler has vowed to support the Children's Crusade economically, helping the young zealots in their efforts to restore the Holy Land to Christendom.;;;;;;;;;;;;x
 children_crusade_morale_0;Abysmal Morale;;;;;;;;;;;;x
 children_crusade_morale_0_desc;The crusaders have reached the Holy Land scattered, starving and desperate, with barely any hope left to conquer Jerusalem.;;;;;;;;;;;;x
-children_crusade_morale_1;Poor Morale;;;;;;;;;;;;x
+children_crusade_morale_1;貧弱な士気;;;;;;;;;;;;x
 children_crusade_morale_1_desc;The many difficulties encountered during their long travel has all but extinguished the crusaders' hopes to reconquer the Holy Land.;;;;;;;;;;;;x
-children_crusade_morale_2;Poor Morale;;;;;;;;;;;;x
+children_crusade_morale_2;貧弱な士気;;;;;;;;;;;;x
 children_crusade_morale_2_desc;The many difficulties encountered during their long travel has all but extinguished the crusaders' hopes to reconquer the Holy Land.;;;;;;;;;;;;x
-children_crusade_morale_3;Poor Morale;;;;;;;;;;;;x
+children_crusade_morale_3;貧弱な士気;;;;;;;;;;;;x
 children_crusade_morale_3_desc;The many difficulties encountered during their long travel has all but extinguished the crusaders' hopes to reconquer the Holy Land.;;;;;;;;;;;;x
 children_crusade_morale_4;Inspired Troops;;;;;;;;;;;;x
 children_crusade_morale_4_desc;Despite the many difficulties encountered during their long travel, the crusaders' fervor has not dimmed as they reached the gates of the Kingdom of Heaven.;;;;;;;;;;;;x
@@ -17675,7 +17675,7 @@ EVTDESC_TOG_7500_AYYUR;アイユールの道をたどるために敬虔に努力
 follower_of_anansi;アナンシの信奉者;;;;;;;;;;;;x
 follower_of_anansi_desc;A deeply revered [west_african_pagan_reformed.GetName] deity, the spider-god Anansi is a famous trickster, considered to be the spirit of all knowledge of stories.;;;;;;;;;;;;x
 follower_of_dan;ダンの信奉者;;;;;;;;;;;;x
-follower_of_dan_desc;The rainbow serpent is a mediator between spirits & the living in Vodun mythology, that maintains balance, order, peace and communication.;;;;;;;;;;;;x
+follower_of_dan_desc;虹の蛇はブードゥー神話における生と魂の調停者で、世界の均衡、秩序、平和そして対話を維持します。;;;;;;;;;;;;x
 african_tolerate_abrahamics;アブラハム宗教との習合;;;;;;;;;;;;x
 african_tolerate_abrahamics_desc;啓典の民になることは多くの[Root.Religion.GetName]の領主にとって魅力的で、隣人の慣習をいくつか受け入れる準備ができていることも珍しくはありません。;;;;;;;;;;;;x
 EVTDESCHFP23027;啓典の民になることは多くの[Root.Religion.GetName]の領主にとって魅力的で、隣人の慣習をいくつか受け入れる準備ができていることも珍しくはありません。;;;;;;;;;;;;x
@@ -19394,7 +19394,7 @@ String_Nenaunir;Nenaunir;;;;;;;;;;;;x
 String_Ngami;Ngami;;;;;;;;;;;;x
 String_Nyamia;Nyamia;;;;;;;;;;;;x
 vodouns_recruit_block_tooltip;Has not been approached by the Soul Eaters before.;;;;;;;;;;;;x
-vodouns_recruit;Recruit to the Soul Eaters;;;;;;;;;;;;x
+vodouns_recruit;魂喰い教団に勧誘;;;;;;;;;;;;x
 vodouns_recruit_desc;Attempt to find out whether §Y[Root.GetTitledFirstName]§! is open to the power of the occult. If so, you turn [Root.GetHerHim] into a Soul Eater.;;;;;;;;;;;;x
 the_vodouns_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 african_adulthood_rites_1;Sign of Prosperity;;;;;;;;;;;;x
@@ -19526,11 +19526,11 @@ c_bayuda_adj;Bayudan;;;;;;;;;;;;x
 c_gezira_adj;Geziran;;;;;;;;;;;;x
 king_central_african;Mai;;;;;;;;;;;;x
 tribal_king_central_african;Mai;;;;;;;;;;;;x
-EVTTITLE_HFP_80000;Gold Rush!;;;;;;;;;;;;x
+EVTTITLE_HFP_80000;ゴールドラッシュ！;;;;;;;;;;;;x
 EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of how many there are but quickly loses count. They are numerous, and every single one is filled with nothing but gold. To see such wealth is extraordinary and to know that all of it belong to me...;;;;;;;;;;;;x
 EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;x
 EVTDESC_HFP_80010;Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, "Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]";;;;;;;;;;;;x
-EVTOPTA_HFP_80010;What?! No more gold?!;;;;;;;;;;;;x
+EVTOPTA_HFP_80010;なんだと！？ もう金は出ないのか！？;;;;;;;;;;;;x
 EVTDESC_HFP_80015;I just received word that the gold mine in [depleted_gold_mine_target.GetName] is fully operational once more! The workers found another vein a few days ago and have already begun mining it.;;;;;;;;;;;;x
 EVTOPTA_HFP_80015;This is most excellent news!;;;;;;;;;;;;x
 EVTDESC_HFP_80020;It would seem that a recent influx of gold in [gold_inflation_province.GetName] has caused local prices to increase. Not only does it make things more expensive, but it also leaves the peasants with less money with which to pay me taxes!;;;;;;;;;;;;x
@@ -19545,8 +19545,8 @@ tr_sahara_3;サハラ交易都市;;;;;;;;;;;;x
 tr_sahara_3_desc;This is a significant trading hub on the Trans-Saharan trade route. It attracts merchants from all over Africa, trading wares and services that cannot be found anywhere else.;;;;;;;;;;;;x
 tr_gold_mine_1;金鉱;;;;;;;;;;;;x
 tr_gold_mine_3;Large Gold Mine;;;;;;;;;;;;x
-tr_gold_mine_1_desc;A small field for finding and extracting gold. This gleaming metal is highly valued and is often used as a currency.;;;;;;;;;;;;x
-tr_gold_mine_2_desc;A well established mine capable of producing larger quantities of gold.;;;;;;;;;;;;x
+tr_gold_mine_1_desc;金を採掘して鋳造する場所。この輝く金属は高価で、通貨としてよく利用される。;;;;;;;;;;;;x
+tr_gold_mine_2_desc;大量の金の採掘を可能にするための優れた設備を備えた鉱山。;;;;;;;;;;;;x
 tr_gold_mine_3_desc;The production of this larger mining complex is unrivaled. It produces an immense amount of gold.;;;;;;;;;;;;x
 tr_cloth_production_1;布市場;;;;;;;;;;;;x
 tr_cloth_production_1_desc;高品質な布を製造して販売する場所です。;;;;;;;;;;;;x

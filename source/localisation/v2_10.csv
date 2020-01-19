@@ -324,7 +324,7 @@ EVTDESC60307;Horsemen from the great steppes keep arriving in great numbers, hop
 EVTOPTA60307;鉄のハーンはお喜びになられるだろう！;;;;;;;;;;;;x
 EVTDESC60300;A brilliant horseman and daring raider by the name of Timur has distinguished himself several times now. My commanders all agree that I should give this remarkable young man a chance to prove himself as a leader, clubfoot or no.;;;;;;;;;;;;x
 EVTOPTA60300;潜在的なライバルか？;;;;;;;;;;;;x
-EVTOPTA60305;As long as he does not turn on me!;;;;;;;;;;;;x
+EVTOPTA60305;彼が私を刺激しない限り。;;;;;;;;;;;;x
 EVTDESC60304;As I've fought for my liege I have gathered a large and loyal following, brave horsemen all. Rather than rise up against my old liege, I've decided to strike out for [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;;x
 EVTNAME60306;鉄のハーン;;;;;;;;;;;;x
 EVTDESC60306;Another great Khan is on the rise in Central Asia. Timur, called 'the Lame' due to his clubfoot, has proven himself to the Turco-Mongol tribes of the region. He seems intent on creating an empire to rival that of the legendary Genghis Khan himself, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of skilled horsemen have gathered under his banner!;;;;;;;;;;;;x

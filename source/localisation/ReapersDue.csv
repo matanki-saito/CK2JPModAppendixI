@@ -2920,7 +2920,7 @@ EVTDESC_WoL_7050_PAGAN;For a long time now, you have not felt the presence of [R
 EVTOPTC_WoL_7050;冒涜的な思考はすべて滅さねばならぬ!;;;;;;;;;;;;x
 EVTDESC38316;I've come to realize that world is a full of mystery and wonder. I am no longer Cynical.;;;;;;;;;;;;x
 EVTDESC_WoL_7080;祭壇の前で祈りを捧げていると、突然、途方もなく大きな愛に満たされるのを感じた。歓喜の涙と共に、自分は決して孤独ではないのだと悟った。[Root.Religion.GetHighGodNameCap]は、常に我と共に在る。;;;;;;;;;;;;x
-EVTDESC_WoL_7080_PAGAN;As I cut the throat of the ram, it suddenly stopped struggling and looked me straight in the eyes. Even as its blood filled the grooves on the altar, I knew that [Root.Religion.GetRandomGodName] was with me!;;;;;;;;;;;;x
+EVTDESC_WoL_7080_PAGAN;私が喉を掻き切ると、雄羊は突然もがくのを止め、私をまっすぐに見た。 その血が供物台の溝を満たしたとき、私は[Root.Religion.GetRandomGodName]が自分と共にあることを悟った！;;;;;;;;;;;;x
 EVTDESC_WoL_7080_MUSLIM;At Isha prayer, my mind was suddenly filled with a vision of the Prophet, riding Al-Buraq through the starry skies with a sword in his hand. It felt more real than waking life...;;;;;;;;;;;;x
 EVTDESC_WoL_7080_INDIAN;深い瞑想の中で、私は自分のチャクラが内なる永遠の存在を取り入れ、偉大なエナジーが背筋を駆けあがるような経験したことがない至福を感じ取った。あぁ、畏れ多いシヴァ神に敬意を!!;;;;;;;;;;;;x
 EVTOPTA_WoL_7080;エナジーを感じる!!;;;;;;;;;;;;x
@@ -2928,7 +2928,7 @@ EVTDESC_WoL_7090;起きても就寝前のように疲れを感じる。私は無
 EVTOPTA_WoL_7090;自分を隔絶し祈りと瞑想に身を費やそう;;;;;;;;;;;;x
 EVTOPTB_WoL_7090;はっ!!そんなことしなくとも時が解決してくれるはずだ。;;;;;;;;;;;;x
 EVTDESC_WoL_7091;私は老いた隠者たちに新たな敬意を抱いた! 隔離された場所で断食と祈りに費やした時間は、私に良い結果をもたらした。 [Root.Religion.GetHighGodNameCap]は、私の精神を鍛えてくれた。;;;;;;;;;;;;x
-EVTDESC_WoL_7091_PAGAN;Secluded in my cave, I have subsisted only on the sacred roots and bitter juices favored by the priests. My thoughts are clear: It is by will alone I set my mind in motion.;;;;;;;;;;;;x
+EVTDESC_WoL_7091_PAGAN;自分だけの洞窟に籠り、聖別された根菜と苦いジュースだけで生活したところ、思考が明晰になった。『ただ意思のみが私の精神を規定する』;;;;;;;;;;;;x
 EVTDESC_WoL_7091_INDIAN;Secluded in my cave, meditating on the teachings of [Root.Religion.GetRandomGodName], I have gained better control over my thoughts and desires.;;;;;;;;;;;;x
 EVTDESC_WoL_7091_LUNATIC;Curled up safely in the badger's den, I've steeled my mind against the ululating shadow men who stalk me outside. I wonder how long I have been holed up in here?;;;;;;;;;;;;x
 EVTOPT_WoL_7091_DRUNKARD;Time to cut down on the beer;;;;;;;;;;;;x

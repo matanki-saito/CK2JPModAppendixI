@@ -1707,8 +1707,8 @@ String_End_Stable;中国の情勢に変化が起こった;;;;;;;;;;;;x
 String_End_Unrest;中国では混迷の時代が終わり、生き残った血の気の多い農民達も、元の生活に戻っていきました。;;;;;;;;;;;;x
 String_End_Famine;中国の大飢饉がついに終わった;;;;;;;;;;;;x
 String_End_Plague;死神によって中国の恵みは刈り取られ、壊滅的なペストは終息したようだ。;;;;;;;;;;;;x
-String_End_Mongols;The Mongol hordes have given up on their ill-fated invasion of China;;;;;;;;;;;;x
-String_End_Jurchen;The Jurchen hordes have given up on their ill-fated invasion of China;;;;;;;;;;;;x
+String_End_Mongols;モンゴル民族の集団は、まるで災厄のような中国への侵略を諦めた。;;;;;;;;;;;;x
+String_End_Jurchen;女真族の集団は、まるで災厄のような中国への侵略を諦めた。;;;;;;;;;;;;x
 String_End_Civil_War;中国内戦は終結し、最後の反政府勢力の砦は陥落しました;;;;;;;;;;;;x
 String_End_Golden_Age;中国の黄金時代は終わりを迎えたようです;;;;;;;;;;;;x
 EVTDESC_JD_50031_UNREST;[FromFrom.GetChinaPreviousStatusEnd]。民衆蜂起が[GetRandomChineseRegion]で勃発し、不満を持つ大規模な農民集団が[GetRandomChineseFaction]を中心に武装している。シルクロードでの貿易による利益は半分となり、中国は朝貢国を守ることができなくなる。;;;;;;;;;;;;x
@@ -1722,7 +1722,7 @@ INTERESTING;興味深い...;;;;;;;;;;;;x
 EVTDESC_JD_50161;After years of constant warfare and battles involving hundreds of thousands of soldiers, the veteran armies of China finally managed to win a decisive battle near [GetRandomChineseRegion]. The Mongol Khagan was slain and his Kheshig guards slaughtered to the last man.;;;;;;;;;;;;x
 EVTOPT_JD_50161;Beware the Dragon of the East...;;;;;;;;;;;;x
 EVTDESC_JD_50162;After years of constant warfare and battles involving hundreds of thousands of soldiers, the Mongols finally stand triumphant. The decisive battle was fought near [GetRandomChineseRegion]. The Mongol Khagan now sits upon the Dragon Throne as [offmap_china.Ruler.GetEmperorEmpress] [offmap_china.Ruler.GetDynName], founder of a new Dynasty! However, China is likely to suffer Unrest for many years to come...;;;;;;;;;;;;x
-EVTOPT_JD_50162;The Mongols truly are fearsome!;;;;;;;;;;;;x
+EVTOPT_JD_50162;モンゴル人達は本当に恐ろしいな！;;;;;;;;;;;;x
 EVTDESC_JD_50181_BOOST;既に中国が[offmap_china.GetPrevStatus]で苦しんでいる中、さらなる不運が襲いかかった。鴨緑江の女真族が大ハーンの下で団結したのだ。荒々しい騎兵の大群が今、北東部から中国に渡ろうとしている。明らかに、これは中国の防衛を試すためだけの通常の襲撃ではない。;;;;;;;;;;;;x
 EVTDESC_JD_50181_PENALTY;中国がかつてない程の[offmap_china.GetPrevStatus]を経験している時に、女真族の大集団が遼河を渡り、北京に侵入した。しかしながら、龍は強大で凶悪な草原の戦士には長い戦いに身を投じたことになる。巨万の富を蓄えた神の国には十分な装備を身に付けた大軍によって守られているのだから……;;;;;;;;;;;;x
 EVTDESC_JD_50201;After years of constant warfare and battles involving hundreds of thousands of soldiers, the veteran armies of China finally managed to win a decisive battle near [GetRandomChineseRegion]. The Jurchen Khagan was slain and his elite guards slaughtered to the last man.;;;;;;;;;;;;x
@@ -1749,12 +1749,12 @@ west_african_pagan_FEATURES;§Y*§! 改宗に対して脆弱である\n§Y*§! �
 zun_pagan_FEATURES;§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者は聖戦を宣言することはできない;;;;;;;;;;;;x
 hellenic_pagan_FEATURES;§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者は聖戦を宣言することはできない;;;;;;;;;;;;x
 bon_FEATURES;§Y*§! 統治者は恩寵のために守り神を選択できる\n§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者は聖戦を宣言することはできない;;;;;;;;;;;;x
-pet_masterless_dog;Vohunazga Guardian;;;;;;;;;;;;x
+pet_masterless_dog;主なき守護者;;;;;;;;;;;;x
 pet_masterless_dog_desc;This character is the guardian of a masterless dog who defends his home from evil spirits.;;;;;;;;;;;;x
 pet_house_dog;House Dog;;;;;;;;;;;;x
-pet_house_dog_desc;This character has taken in a dog into his house which defends him from evil spirits.;;;;;;;;;;;;x
+pet_house_dog_desc;この人物は家で犬を飼い、邪悪な霊魂から身を守る番犬にしています。;;;;;;;;;;;;x
 pet_hedgehog;Vanghapara Pet;;;;;;;;;;;;x
-pet_hedgehog_desc;This character has taken in a hedgehog into his house which happily in return hunts down vermin.;;;;;;;;;;;;x
+pet_hedgehog_desc;この人物は家でハリネズミを飼っていて、おかげで害虫駆除に困りません。;;;;;;;;;;;;x
 pet_otter;Sag-e Aabi Guardian;;;;;;;;;;;;x
 pet_otter_desc;この人物は領国に平穏をもたらしているカワウソの守護者です。;;;;;;;;;;;;x
 confucian_bureaucracy_desc;Confucian Bureaucracies rely on a set of strict imperial examinations to select their rulers. Candidates are tested on their knowledge of the Confucian Classics - though merit, previous achievements and recommendations from prominent aristocrats also play a major role in the selection process. Rulers tend to be very skilled stewards.;;;;;;;;;;;;x

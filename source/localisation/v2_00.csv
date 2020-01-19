@@ -573,7 +573,7 @@ donate_money_to_knights_santiago;サンティアゴ騎士団に300¤を寄付;;;
 expelled_d_knights_santiago;サンティアゴ騎士団を追放;;;;;;;;;;;;x
 EVTTITLE_SOA_2709;カラトラヴァ騎士団;;;;;;;;;;;;x
 EVTOPTA_SOA_2709;彼らの戦いは勝利を以て終わるであろう！;;;;;;;;;;;;x
-EVTOPTB_SOA_2709;More sheep to the slaughter!;;;;;;;;;;;;x
+EVTOPTB_SOA_2709;生贄の羊がさらに増えた！;;;;;;;;;;;;x
 EVTDESC_SOA_2731;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「カラトラヴァ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
 EVTTOOLTIP_SOA_2732;[This.GetTitledFirstName]がカラトラヴァ騎士団の一員となります。;;;;;;;;;;;;x
 EVTDESC_SOA_2753;最も高潔なる[Root.GetTitledFirstName]よ、「カラトラヴァ騎士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　パクス・クリスティ \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x

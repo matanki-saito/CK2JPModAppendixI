@@ -115,7 +115,7 @@ EVTOPTB_7002_TT;あなたは§Y[From.GetTitledFirstName]§!を[Root.Society.GetN
 EVTOPTC_7002;期待外れだ。;;;;;;;;;;;;x
 EVTDESC_MNM_7003_A;私の[Root.GetCapitalHolding]の柵の側を歩いていると、私は[satanists_recruiter.GetTitledFirstName]に出会った。私は[satanists_recruiter.GetSheHe]が示した概念の多くを受け入れていることに気づく。特に祈りの無益さについてはとても同意する。突然、[satanists_recruiter.GetSheHe]は私の方を向くと、小さな皮袋を私の手に押し付けた。「閣下、これをお守りとして持ち歩いていただけますか？」;;;;;;;;;;;;x
 EVTOPTA_7003;私はそれを隠しておき、[satanists_recruiter.GetFirstName]に感謝する。;;;;;;;;;;;;x
-EVTOPTA_7003_TT;あなたは§Y[satanists_recruiter.GetTitledFirstName]§!によって行われた進歩を促します。\n;;;;;;;;;;;;x
+EVTOPTA_7003_TT;あなたの考えは§Y[satanists_recruiter.GetTitledFirstName]§!によってさらに加速する。\n;;;;;;;;;;;;x
 EVTOPTB_7003;何だこれは？私はお前を[satanists_recruiter.GetDWMagician]と呼ぶだろう！;;;;;;;;;;;;x
 EVTOPTB_7003_TT;あなたは§Y[satanists_recruiter.GetTitledFirstName]§!を遠ざけます。\n;;;;;;;;;;;;x
 EVTDESC_MNM_7004_A;私は今日、[From.GetHerHis]の[From.GetCapitalHolding]の柵のそばで、[From.GetTitledFirstName]に近づく手配をしておいた。私を見ると[From.GetHerHisCap]の顔は輝き、我々は何時間も外で話し込んだ。私は[From.GetHerHim]に皮袋に入れた保護のまじないを提供した - もちろん、私は中身を説明していない...しかし、[From.GetSheHe]は笑顔で、その品を受け入れた。;;;;;;;;;;;;x
@@ -954,8 +954,8 @@ EVTOPT_MNM_7113_INTRIGUE;背後から忍び寄って気絶させよう。こい�
 EVTOPTA_MNM_7113;殺せ、死人に口無しだ。;;;;;;;;;;;;x
 EVTOPTB_MNM_7113_VIOLENT;生かしておけ、このことを話したとしても、我らの栄光を喧伝するだけだ。;;;;;;;;;;;;x
 EVTOPTB_MNM_7113_PLOTTING;やりすごそう、余計なリスクを負う必要はない。;;;;;;;;;;;;x
-EVTDESC_MNM_7114;As my [Root.GetReligionWarriorPlural] approach the [desecration_holder.Religion.GetPriestTitle] they call out for help and grab a nearby candelabra. Within short notice a small group of priests come rushing into the room and a melee breaks out around me.;;;;;;;;;;;;x
-EVTDESC_MNM_7114_HOLDER;As my [Root.GetReligionWarriorPlural] approach [desecration_holder.GetTitledFirstName] [desecration_holder.GetSheHe] calls out for help and grabs a nearby candelabra. Within short notice a small group of their comrades come rushing into the room and a melee breaks out around us.;;;;;;;;;;;;x
+EVTDESC_MNM_7114;[desecration_holder.Religion.GetPriestTitle]は、私の[Root.GetReligionWarriorPlural]が近付くと、助けを呼びながら、手近にある燭台を握りしめた。それを聞きつけた少数の聖職者たちが部屋に飛び込んでくると、乱闘が始まった。;;;;;;;;;;;;x
+EVTDESC_MNM_7114_HOLDER;[desecration_holder.GetTitledFirstName]は、私の[Root.GetReligionWarriorPlural]が近付くと、助けを呼びながら、手近にある燭台を握りしめた。それを聞きつけた少数の仲間たちが部屋に飛び込んでくると、乱闘が始まった。;;;;;;;;;;;;x
 EVTOPTA_MNM_7114;戦え！[Root.GetDWDevil]のために！;;;;;;;;;;;;x
 EVTOPTB_MNM_7114;退却だ！;;;;;;;;;;;;x
 EVTDESC_MNM_7116_POOR;小さな[desecration_holder.GetHouseOfWorship]へ侵入した。私と仲間達が小部屋に入るとそこは神聖な場所のようだ。この部屋にはわずかに装飾された偶像や遺物があるだけで、[desecration_holder.Religion.GetHighGodName]を称えるには粗末なものだった。これは明らかに我々の方が優れているということなのだ！;;;;;;;;;;;;x
@@ -2747,7 +2747,7 @@ EVTOPTA_MNM_6912;Help me end [my_quest_target.GetTitledFirstName] and you shall 
 EVTOPTB_MNM_6912;Pull some strings for me, and I'll help you.;;;;;;;;;;;;x
 EVTOPTC_MNM_6912;Anything for a friend, [From.GetFirstName]!;;;;;;;;;;;;x
 EVTOPTD_MNM_6912;I am sorry, I am too occupied.;;;;;;;;;;;;x
-EVTDESC_MNM_10020_A;They are all staring at me, whispering behind my back! As I turn my head towards them, they look away, but I am sure of it. They know. Perhaps not the specifics, but they know. They will come for me, any day now. Being one of [Root.Society.GetName] always felt worth the risk, but I am not so sure anymore...;;;;;;;;;;;;x
+EVTDESC_MNM_10020_A;皆が私を見つめ、背後で囁きあっている！連中に顔を向けると、連中は目を逸らすが、私は確信している。奴らは知っている。子細を知らずとも知っている。奴らはいつか私を追い詰める。[Root.Society.GetName] の一員であることはリスクに見合う価値があるとずっと感じていたが、もうよくわからない……;;;;;;;;;;;;x
 EVTDESC_MNM_10020_B;ある日、私は自分自分が狂っていると考えるようになった。気のせいだと思うのだが、人々が私をじろじろと見ているように感じるのだ。廷臣が何か囁き声で話しているだけでも、自分のことではないかという疑念を、頭から振り払うことができない。[Root.Society.GetName]の一人であることは、危険を冒す価値のあることだと思っていたが、それにももう、確信が持てない...;;;;;;;;;;;;x
 EVTOPTA_MNM_10020;プレッシャーの前に私がおかしくなってしまうまで、何時までもつのだ？;;;;;;;;;;;;x
 EVTDESC_MNM_3502;The last few months have been tough, so when I was invited to the home of [From.GetTitledFirstName] for a small ceremony, it felt like a gift from [Root.TrueReligion.GetHighGodName]. [From.GetHerHisCap] words about staying brave and the importance of community touched me deeply. I mentioned this after the ceremony was over, and we ended up talking for hours.;;;;;;;;;;;;x
@@ -3083,10 +3083,10 @@ String_new_poisons;新たな毒;;;;;;;;;;;;x
 String_implements;implements;;;;;;;;;;;;x
 String_Pear_of_Anguish;Pear of Anguish;;;;;;;;;;;;x
 String_fav_thumbscrew;favorite thumbscrew;;;;;;;;;;;;x
-String_fav_garrotte;favorite garrote;;;;;;;;;;;;x
+String_fav_garrotte;お気に入りの鉄環;;;;;;;;;;;;x
 String_town;town;;;;;;;;;;;;x
 String_camp;camp;;;;;;;;;;;;x
-String_Tears_of_Demeter;Tears of Demeter;;;;;;;;;;;;x
+String_Tears_of_Demeter;デメテル神の涙;;;;;;;;;;;;x
 String_Fools_Honey;Fool's Honey;;;;;;;;;;;;x
 String_Blood_of_Jahi;ジャヒーの血筋;;;;;;;;;;;;x
 String_Dreamers_Delight;Dreamer's Delight;;;;;;;;;;;;x
@@ -3126,7 +3126,7 @@ EVTOPTA_MNM_20017;Playtime is over. I will show them REAL horrors!;;;;;;;;;;;;x
 EVTOPTA_MNM_20017_OTHER;[Root.Religion.GetRandomEvilGodName]の高笑いが聞こえる。上手くいったぞ。;;;;;;;;;;;;x
 EVTDESC_MNM_20021;The tavern was packed when we arrived. [From.GetFirstName] distracted the tavern keeper while I dosed the barrels with '[Root.GetDWDrug]'. An hour later, the mood was getting festive. Two hours later and the crowd had descended into utter madness. [Root.Religion.GetRandomEvilGodNameCap] knows what they saw while we were offering up the staff to [Root.GetDWRandomDemon].;;;;;;;;;;;;x
 EVTDESC_MNM_20021_RIVALRY;The tavern was packed when we arrived. [From.GetFirstName] distracted the tavern keeper while I dosed the barrels with '[Root.GetDWDrug]'. An hour later, the mood was getting festive. That's when [From.GetFirstName] decided to play a prank on me, locking me into a room with three burly warriors who were starting to rave and hallucinate...;;;;;;;;;;;;x
-EVTOPTA_MNM_20021;Amusing. On to the next place, [From.GetFirstName]?;;;;;;;;;;;;x
+EVTOPTA_MNM_20021;楽しいな。次はどこだ、[From.GetFirstName] ？;;;;;;;;;;;;x
 EVTOPTA_MNM_20021_OOPS;Err, I just drank the beer, didn't I?!;;;;;;;;;;;;x
 EVTOPTA_MNM_20021_RIVALRY;The curse of [Root.GetDWRandomDemon] upon you, [From.GetBitchBastard]!;;;;;;;;;;;;x
 EVT_TT_20022;That drug can ruin the mind permanently!;;;;;;;;;;;;x
@@ -3146,7 +3146,7 @@ EVTOPTA_MNM_20034_KILL_RIVAL_2;Pray kill my rival, [rival_2.GetTitledName]!;;;;;
 EVTOPTA_MNM_20034_ILLNESS;最悪の気分だ！;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_EPIDEMIC;A foul miasma spreads throughout [Root.Location.GetName].;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_EUNUCH;Not my manhood!;;;;;;;;;;;;x
-EVTOPTA_MNM_20034_STUPID;Duh? I can't... think...;;;;;;;;;;;;x
+EVTOPTA_MNM_20034_STUPID;んあ？思考が…できない……;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_EXPOSURE;We won't be able to keep this a secret...;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_POSSESS;The laughter... it's in my head now!;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_RIVALRY;全て[From.GetFirstName]のせいだ！;;;;;;;;;;;;x
@@ -3447,7 +3447,7 @@ EVTDESC_MNM_9835;[relic_hunter.GetTitledFirstName]は保存状態の良い頭を
 EVTDESC_MNM_9836;[relic_hunter.GetTitledFirstName] has returned and brought with [relic_hunter.GetHerHim] a well-preserved tongue. [relic_hunter.GetSheHeCap] has proof that it once belonged to a [This.GetArtifactSource]! Perhaps it might bestow upon me some of the eloquence it once possessed?;;;;;;;;;;;;x
 EVTDESC_MNM_9837;[relic_hunter.GetTitledFirstName] has returned and brought with [relic_hunter.GetHerHim] a well-preserved tongue. [relic_hunter.GetSheHeCap] has proof that it once belonged to an infamous unbeliever! Perhaps it might bestow upon me some of penchant for deceit its owner once possessed?;;;;;;;;;;;;x
 EVTDESC_MNM_9838;[relic_hunter.GetTitledFirstName]は、よく保存された手を携えて帰ってきた。 [relic_hunter.GetSheHeCap]はその手がかつて[This.GetArtifactSource]のものだったという証拠を持っている！ 次に私が戦闘に参加した時に、その手は私を導くかもしれない。;;;;;;;;;;;;x
-EVTDESC_MNM_9839;[relic_hunter.GetTitledFirstName] has returned and brought with [relic_hunter.GetHerHim] a well-preserved arm. [relic_hunter.GetSheHeCap] has proof that it once belonged to a [This.GetArtifactSource]! Perhaps it might bestow upon me some of the knowledge of statecraft its owner once possessed?;;;;;;;;;;;;x
+EVTDESC_MNM_9839;[relic_hunter.GetTitledFirstName] は、「よく保存された腕」を携えて帰ってきた。[relic_hunter.GetSheHeCap]はその腕がかつて[This.GetArtifactSource]のものだったという証拠を持っている！所持者は、この腕の主が蓄えていた無数の国政知識を得られるかもしれない。;;;;;;;;;;;;x
 EVTDESC_MNM_9840;[relic_hunter.GetTitledFirstName]は保存状態の良い足を持って帰ってきた。かつての[This.GetArtifactSource]のものだという証拠もある。これを所持したものは遠く広大な土地への旅が楽になったことだろう。そして今、幸運にも私のコレクションに加わるのだ…;;;;;;;;;;;;x
 EVTDESC_MNM_9841;[relic_hunter.GetTitledFirstName]は古代の錆びた剣を携えて帰ってきた。かつて[This.GetArtifactSource]のものだったという証拠もある。これをコレクションに加えることで、私は世界の羨望の的となるだろう！;;;;;;;;;;;;x
 EVTDESC_MNM_9842;Returning from [relic_hunter.GetHerHis] travels, [relic_hunter.GetTitledFirstName] has brought with [relic_hunter.GetHerHim] a small box within which lie a pair of ancient iron manacles and chains. These, [relic_hunter.GetSheHe] claims, once held Saint Peter in Herod's dungeon!;;;;;;;;;;;;x
@@ -3731,12 +3731,12 @@ secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§! attempts to f
 secret_religions_evoke_sympathy_cd_tt;Has not been approached to be made sympathetic to people of other religions recently, or is the target of §Y[From.GetTitledFirstName]§!'s mission\n;;;;;;;;;;;;x
 well_fed;栄養十分;;;;;;;;;;;;x
 well_fed_desc;この人物はよく食べる習慣があり、それに伴う健康への利点を受けています。;;;;;;;;;;;;x
-quest_devil_worshipers_desecrate_temple_desc;The [Root.Religion.GetPriestTitle]s of the [From.GetHolding] of [From.GetName] worship their weak, false [Root.Religion.GetHighGodName]. Tear down their powerless idols, torch their holy books and steal their riches in honor of [Root.GetDWDevil]! Right-click the title's shield to perform this action.;;;;;;;;;;;;x
+quest_devil_worshipers_desecrate_temple_desc;[From.GetName][From.GetHolding]の[Root.Religion.GetPriestTitle]どもは、弱き偽りの[Root.Religion.GetHighGodName]を崇拝している。[Root.GetDWDevil]の栄光のため、あの無力な偶像を破壊し、聖なる本をたいまつにして、富を盗み出せ！この任務を実行するには、称号の紋章を右クリックします。;;;;;;;;;;;;x
 EVTDESC_MNM_9601;Still dressed in traveler's garb, [relic_hunter.GetTitledFirstName] enters your throne room and kneels before you. Looking rather pale and a bit sickly, [relic_hunter.GetSheHe] produces a small object, placing it gingerly in the palm of your outstretched hand.\n\n'Andvari's Gift... The Andvaranaut, my liege...' [relic_hunter.GetFirstName] whispers reverently. 'It must be. Its power is undeniable, it has already brought me many riches on the road back to the court.' You nod solemnly in response. Though it feels light in your hand, you already feel the burden on your soul. This ring must have enormous power, but you remember hearing in legends the curse that lies upon it...\n\nRegardless, with this find [relic_hunter.GetFirstName] has truly surpassed [relic_hunter.GetHerselfHimself]!;;;;;;;;;;;;x
 opinion_rejected_society_membership;Rejected Society Membership Offer;;;;;;;;;;;;x
 EVTDESC_MNM_7032_A;Greetings [Root.GetTitledFirstName],\n\nWe have become aware that your inductor passed away before being able to complete your recruitment. We therefore wish to rectify this oversight, and offer you membership of [From.Society.GetName].\n[From.GetDWExpression]\n\nSigned, Grand Master [From.GetFirstName];;;;;;;;;;;;x
 EVTDESC_MNM_7032_B;Greetings [Root.GetTitledFirstName],\n\nWe have become aware that your inductor passed away before being able to complete your recruitment. We therefore wish to rectify this oversight, and offer you membership of [From.Society.GetName].\nAllahu akbar! Glory to Ali!\n\nSigned, Grand Master [From.GetFirstName];;;;;;;;;;;;x
-EVTOPTA_7032;I accept. [Root.GetDWExpression];;;;;;;;;;;;x
+EVTOPTA_7032;受け入れましょう。[Root.GetDWExpression];;;;;;;;;;;;x
 EVTOPTB_7032;気が変わった。;;;;;;;;;;;;x
 hermetics_write_magnum_opus;奥義書を執筆する;;;;;;;;;;;;x
 hermetics_write_magnum_opus_desc;後世のために、あなたが生涯をかけて解き明かした秘術を暗号化された奥義書に記録します。;;;;;;;;;;;;x
@@ -5116,7 +5116,7 @@ EVTDESC_ZP_3;The dog called Vanghapara is known as a vigilant creature of the Sp
 EVTOPTA_ZP_3;The Vanghapara shall protect my home well.;;;;;;;;;;;;x
 EVTDESC_ZP_4;The dog of the water is the most revered of all the dogs. They are what keeps our fields watered and healthy, our bellies full and worries gone.;;;;;;;;;;;;x
 EVTOPTA_ZP_4;It is our honor to house the Sag-e Aabi;;;;;;;;;;;;x
-masterless_dog;Vohunazga Guardian;;;;;;;;;;;;x
+masterless_dog;主なき番人;;;;;;;;;;;;x
 masterless_dog_desc;This character is the guardian of a masterless dog who defends his home from evil spirits.;;;;;;;;;;;;x
 house_dog;House Dog;;;;;;;;;;;;x
 house_dog_desc;This character has taken in a dog into his house which defends him from evil spirits.;;;;;;;;;;;;x

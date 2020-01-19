@@ -38,7 +38,7 @@ MNM.70330.a;自由に歩ける！;;;;;;;;;;;;x
 MNM.70400.d.executed;災厄だ!  [Root.Society.GetName] の同胞 [From.GetBestName] が、[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] とその[my_liege.job_spiritual.GetReligionWarriorPlural]によって捕らえられた。連中は、杭に縛り付けた [From.GetHerHim] をじっくりと火あぶりにした。;;;;;;;;;;;;x
 MNM.70400.d.imprisoned;災厄だ! [Root.Society.GetName]の同志[From.GetBestName]は、[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] と [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]によって捕らえられた![From.GetSheHeCap]は現在、[my_liege.GetTitle] [my_liege.GetFirstName]の牢獄でやつれ果てている...;;;;;;;;;;;;x
 MNM.70400.d.caught;Disaster! Your fellow member of [Root.Society.GetName], [From.GetBestName], has been caught by [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] and [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]! They used hot irons to brand [From.GetFirstName] an apostate, fortunately they spared [From.GetHerHis] life...;;;;;;;;;;;;x
-MNM.70400.a;It is a sign for me to lay low...;;;;;;;;;;;;x
+MNM.70400.a;私も身を隠さねば……;;;;;;;;;;;;x
 alert_close_gates_name;閉門;;;;;;;;;;;;x
 alert_open_gates_name;開門;;;;;;;;;;;;x
 EVTOPTA_TOG_621_Aztec_Religious_Head;あんたの下劣な神々はここではなんの意味もない、[From.GetBestName]!;;;;;;;;;;;;x

@@ -283,7 +283,7 @@ EVTOPTB_ZE_13101;We are all the same, I guess.;;;;;;;;;;;;x
 EVTOPTC_ZE_13101;学ぶということはすばらしい!!;;;;;;;;;;;;x
 EVTDESCA_ZE_13102;幼い[From.GetFirstName]は自立した考えを持っているようで、聖職者たちの話を聞くことを拒否している。;;;;;;;;;;;;x
 EVTDESCB_ZE_13102;Young [From.GetFirstName] seems to be taking a curious interest in other traditions than the [From.Religion.GetName] ones.;;;;;;;;;;;;x
-EVTDESCC_ZE_13102;[From.GetFirstName]は[From.GetHerHim]の興味がある新しい考えや課題に対する姿勢は、本物の探求家や実験やのように見える。;;;;;;;;;;;;x
+EVTDESCC_ZE_13102;[From.GetFirstName]は[From.GetHerHim]の興味がある新しい考えや課題に対する姿勢は、本物の探求家や実験屋のように見える。;;;;;;;;;;;;x
 EVTOPTA_ZE_13102;私はこの傾向を止めようと試みるべきだ…;;;;;;;;;;;;x
 curious_may_become_patient;[From.GetFirstName]が忍耐強くなる機会;;;;;;;;;;;;x
 EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;;x
@@ -1505,7 +1505,7 @@ BUY_FAVOR_INTERACTION_LETTER;\nI offer you a gift of $GOLD$§W¤§! to repay the
 BUY_FAVOR_INTERACTION_LETTER_GET;\nI offer you a gift of $GOLD$§W¤§! and in return you will owe me a Favor.;;;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET;§Y[Recipient.GetTitledFirstName]§! cannot be influenced by a §YFavor§! from §Y[Actor.GetTitledFirstName]§!;;;;;;;;;;;;x
 INTERACTION_REQUIRES_NOT_OWING_FAVOR;$OWES_FAVOR|Y$には$HAS_FAVOR|Y$からの§Y貸し§!はありません。;;;;;;;;;;;;x
-EVTDESC_ZE_1031;Your daughter [target_daughter_killed_her_friend.GetFirstName] is furious with you: 'Damn you, [Root.GetFatherMother] - you killed [From.GetFirstName], I will never forgive you!'.;;;;;;;;;;;;x
+EVTDESC_ZE_1031;あなたの娘、[target_daughter_killed_her_friend.GetFirstName]は激怒した:「このクソ親！—[From.GetFirstName]を殺したこと、絶対に許さないから！」;;;;;;;;;;;;x
 EVTDESC_ZE_2061B;金庫はまたしても無人の部屋で開け放ちにされていた。これは少額の褒美があるぞという[Root.Liege.GetTitledFirstName]なりの伝え方なのは間違いないだろう。[Root.Liege.GetSheHeCap]は他の評議会委員の前で褒美に言及すると反対されることを知っているのだ。;;;;;;;;;;;;x
 EVTOOLTIP38228;[Root.Guardian.GetFullName]は[Root.GetFirstName]の質問に答えてくれた。;;;;;;;;;;;;x
 EVTDESC1928;今日訪れたお客さまたちは、見慣れない服装で変な言葉を話していて変わった色の肌をしていたけれど、[Root.Guardian.GetFullName]はあの人たちに真心のこもった挨拶をしていた。あの人たちと話して、どこから来たどんな人たちなのか知りたいものだけれど、[Root.Guardian.GetTitledFirstName]が許してくれるかはよくわからない。;;;;;;;;;;;;x

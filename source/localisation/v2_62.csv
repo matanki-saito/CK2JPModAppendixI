@@ -513,8 +513,8 @@ zemynas_blessing_desc;この人物は女神ゼミナに恵まれており、結�
 akkas_blessing;アッカの祝福;;;;;;;;;;;;x
 akkas_blessing_desc;この人物は女神アッカに恵まれており、結婚が改善されました。;;;;;;;;;;;;x
 happy_parent_opinion;幸せな親;;;;;;;;;;;;x
-EVTDESC_TOG_7510_ZEMYNA;Lately, you have striven to act in the spirit of Zemyna by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
-EVTDESC_TOG_7510_AKKA;Lately, you have striven to act in the spirit of Akka by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
+EVTDESC_TOG_7510_ZEMYNA;最近はゼミヤの導きに従い、敬意と温かさで[From.GetHusbandWife]の[From.GetTitledFirstName]と接するようにしていた。ゆっくりと着実に関係は変化し、二人を取り巻く人たちも、それに気づいた。;;;;;;;;;;;;x
+EVTDESC_TOG_7510_AKKA;最近はアッカの導きに従い、敬意と温かさで[From.GetHusbandWife]の[From.GetTitledFirstName]と接するようにしていた。ゆっくりと着実に関係は変化し、二人を取り巻く人たちもそれに気づいた。;;;;;;;;;;;;x
 EVTOPTA_TOG_7512;女神よ感謝します！;;;;;;;;;;;;x
 EVTOPTB_TOG_7512;それでも私は[From.GetHerHim]に触れることが出来ない…;;;;;;;;;;;;x
 EVTDESC_TOG_7514;Your [GetFromRelation], little [From.GetFirstName], has sought you out with a dead bird cradled in [From.GetHerHis] arms. With a concerned look on [From.GetHerHis] face, [From.GetFirstName] asks you what happened to the animal. Why is she not flying anymore?;;;;;;;;;;;;x
@@ -566,7 +566,7 @@ EVTDESC_TOG_7522_VELES;Following in the footsteps of Veles has brought you down 
 EVTOPTA_TOG_7522_A;That treacherous snake!;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_B;Perhaps I should warn [god_plot_target.GetHerHim].;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_C;それが神の意志ならば。;;;;;;;;;;;;x
-EVTDESC_TOG_7524_MORANA;In your search for wisdom in the name of Morana, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.;;;;;;;;;;;;x
+EVTDESC_TOG_7524_MORANA;モラナの叡智を求めるうちに、領国の福祉政策に関して無数の啓発を得た。その知見を自分の所領で普及させることは、単に自国の利益となるだけでなく、それ自体が神聖な勤めである。;;;;;;;;;;;;x
 EVTOPTA_TOG_7524;女神の叡智はまことに底なしだ。女神を讃えよ！;;;;;;;;;;;;x
 hunters_physique;狩人の体格;;;;;;;;;;;;x
 hunters_physique_desc;この人物は多くの時間を荒野での狩りに費やしているため、力と回復力、そして正確さを獲得しました。;;;;;;;;;;;;x
@@ -731,12 +731,12 @@ EVTDESC_TOG_7506_AYYUR;早朝、アイユールを祀る神殿で深い祈りを
 EVTDESC_TOG_7508_DONGO;張り付めた空気の中、焚き火にあたりながらくつろいでいた。外の空は垂れ込める雲で暗く、ドンゴの存在が恋人の人肌のようにはっきりと感じる。突然、部屋にパッと明るくなり、耳を裂くような轟音が沈黙を破った。あなたの[GetFromRelation]である[From.GetFirstName]は泣いてしまった。;;;;;;;;;;;;x
 tsumburburas_blessing;ツンバブラの祝福;;;;;;;;;;;;x
 tsumburburas_blessing_desc;This character feels blessed by the Goddess Tsumburbura, which has improved their marriage.;;;;;;;;;;;;x
-EVTDESC_TOG_7510_TSUMBURBURA;Lately, you have striven to act in the spirit of Tsumburbura by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.;;;;;;;;;;;;x
+EVTDESC_TOG_7510_TSUMBURBURA;最近はツンバブラの導きに従い、敬意と温かさで[From.GetHusbandWife]の[From.GetTitledFirstName]と接するようにしていた。ゆっくりと着実に関係は変化し、二人を取り巻く人たちもそれに気づいた。;;;;;;;;;;;;x
 EVTDESC_TOG_7516_DONGO;ドンゴの敬虔な信奉者である貴方の評判は、あまねく広がった。わざわざ貴方のため、数多くの偉大な歴戦の戦士たちが忠誠を誓わんと、遠路よりはるばる [Root.Capital.GetName]に集いつつある。;;;;;;;;;;;;x
 EVTDESC_TOG_7518_AYYUR;良きアイユールのようになるために努力して、より多くの理解と敬意を持って道を横切るすべての人を扱い始めた。その結果、思いやりのあるやり方と高貴な性質で知られるようになった。 「アイユールの声」と呼ぶ人もいる。;;;;;;;;;;;;x
 voice_of_ayyur;アイユールの声;;;;;;;;;;;;x
 EVTDESC_TOG_7520_BIDA;努力が実を結び、[Root.Capital.GetName]は市場と商人の街として有名だ。都市はかつてないほど繁栄しており、毎日より多くの人々がビダの神殿に集まる。多くの人にビダの道をたどるように促した。;;;;;;;;;;;;x
-EVTDESC_TOG_7524_TSUMBURBURA;In your search for wisdom in the name of Tsumburbura, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.;;;;;;;;;;;;x
+EVTDESC_TOG_7524_TSUMBURBURA;ツンバブラの叡智を求めるうちに、領国の福祉政策に関して無数の啓発を得た。その知見を自分の所領で普及させることは、単に自国の利益となるだけでなく、それ自体が神聖な勤めである。;;;;;;;;;;;;x
 EVTOPTA_TOG_7526_DONGO;私はドンゴを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
 EVTOPTA_TOG_7526_AYYUR;私はアイユールを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x
 EVTOPTA_TOG_7526_BIDA;私はビダを敬うための記念碑を建てるべきでしょう。;;;;;;;;;;;;x

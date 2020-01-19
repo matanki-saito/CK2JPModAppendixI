@@ -50,7 +50,7 @@ EVTOPTA_HL_7060;A worthy winner.;;;;;;;;;;;;x
 FORT_CONTROL_OVER_PROVINCE;Controls or Besieges §Y$PROVINCE$§!;;;;;;;;;;;;x
 TRIGGER_SUZERAIN;宗主国;;;;;;;;;;;;x
 FORT_CONSTRUCTION_ABANDONED_SETUP;建設中の砦を失った;;;;;;;;;;;;x
-FORT_CONSTRUCTION_ABANDONED_LOG;The Fort under construction by §Y$BUILDER$§! in the hostile county of §Y$PROV$§! has been abandoned.;;;;;;;;;;;;x
+FORT_CONSTRUCTION_ABANDONED_LOG;§Y$PROV$§!で§Y$BUILDER$§!が建設していた敵の砦は、放棄された。;;;;;;;;;;;;x
 succ_nomad_succession_desc;遊牧民相続制では、最も威信の高い息子または兄弟が継承しますが、人口がカガンより大きい場合は名門氏族の指導者にもチャンスがあります。不適切な文化の人物は失格となり、成人は子供より優先されます。可汗の第一後継者が子供の場合、可汗国は氏族の族長の内の1人の手に渡ります。跡継ぎより多くの威信を持つ氏族の族長は可汗国に対する請求権を得ます。;;;;;;;;;;;;x
 CLAN_LIMIT_FORMULA;§Y氏族の数§!;;;;;;;;;;;;x
 COUNTIES_PER_CLAN;氏族毎の要求領土;;;;;;;;;;;;x

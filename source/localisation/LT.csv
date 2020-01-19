@@ -254,7 +254,7 @@ EVTDESC_HFP_16006_combat_weapon;[inherited_artifact.GetArtifactStorage]を調査
 EVTDESC_HFP_16006_armor;最近、私は[previous_owner.GetTitledFirstName]から[inherited_artifact.GetName]という鎧を受け継いだ。「[Root.GetLordLady]、こちらの品は装備できるような状態ではございません。」と需品係から伝えられた私は、鎧の表面の模様を片手でなぞった。;;;;;;;;;;;;x
 EVTDESC_HFP_16006_quality_1;先日[previous_owner.GetTitledFirstName]より宝物を受け継いだ。「往時はもっとよい見栄えだったはずです、[Root.GetMasterMistress]」衛兵はそう言うと続けた「わざわざ申し訳ありません。ただこれを捨てるつもりなのか否かだけ確認しておきたいのです。」;;;;;;;;;;;;x
 EVTDESC_HFP_16006_quality_2;先日[previous_owner.GetTitledFirstName]より[inherited_artifact.GetName]を受け継いだ。状態はよくない。;;;;;;;;;;;;x
-EVTDESC_HFP_16006_quality_3;[inherited_artifact.GetArtifactStorage]には現在、[previous_owner.GetTitledFirstName]から受け継いだ価値ある品々が保管されている。だが誰かが面倒を見なくてはならないだろう。;;;;;;;;;;;;x
+EVTDESC_HFP_16006_quality_3;[inherited_artifact.GetArtifactStorage]には現在、[previous_owner.GetTitledFirstName]から受け継いだ価値ある品々が保管されている。それらを管理する人手が必要かもしれない。;;;;;;;;;;;;x
 EVTDESC_HFP_16006_child;「なんだって？」思わず衛兵を問いただした「お前はこれを…[inherited_artifact.GetName]を受け継いだのか？」「[previous_owner.GetTitledFirstName]からです」衛兵は説明した「もしこれを手にされたいなら、献上いたしましょう、[Root.GetMasterMistress]。ただしおそらくいくらか手入れの必要はありますが。」;;;;;;;;;;;;x
 EVTOPTA_HFP_16006_1_A;いつの日かなにかの役に立つ時もあるかもしれない…;;;;;;;;;;;;x
 EVTOPTA_HFP_16006_1_B;誰かに調べさせたい気分だな。;;;;;;;;;;;;x
