@@ -805,8 +805,8 @@ runestone_carved;職人が石碑の彫刻と塗装を始めます。;;;;;;;;;;;;
 runestone_traits;自分を讃えるルーン石碑が建立されます。;;;;;;;;;;;;x
 EVTDESC_TOG_500;子々孫々まで刮目されるような、見事なルーンストーンを創らねばなるまい。何について刻むべきだろうか？;;;;;;;;;;;;x
 EVTOPTA_TOG_500;私自身のことを語ってみよう;;;;;;;;;;;;x
-EVTOPTB_TOG_500;今は亡き我が父、[Root.Father.GetTitledFirstName]について語ろう;;;;;;;;;;;;x
-EVTOPTC_TOG_500;我が最愛の母、[Root.Mother.GetTitledFirstName]について語ろう;;;;;;;;;;;;x
+EVTOPTB_TOG_500;今は亡き我が父、[Root.Father.GetTitledFirstName]について語ろう。;;;;;;;;;;;;x
+EVTOPTC_TOG_500;我が最愛の母、[Root.Mother.GetTitledFirstName]について語ろう。;;;;;;;;;;;;x
 EVTDESC_TOG_501;石碑にルーンを刻んで色を塗る職人から指示を求められています。職人に話しておくべき自らの資質は何でしょう？;;;;;;;;;;;;x
 EVTOPTA_TOG_501;ああ、私は知らない。何か作ってくれ。;;;;;;;;;;;;x
 EVTOPTB_TOG_501;実は一言一句まで自分で考えてあるのだ……;;;;;;;;;;;;x

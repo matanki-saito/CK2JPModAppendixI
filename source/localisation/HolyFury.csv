@@ -13610,7 +13610,7 @@ EVTOPTAHF25281;飲むぞ！;;;;;;;;;;;;x
 TT_EVTOPTAHF25281;§Y[From.GetFirstName]§!の挑戦を受け入れる。;;;;;;;;;;;;x
 EVTOPTBHF25281;二日酔いは避けた方がいいだろう。;;;;;;;;;;;;x
 EVTDESCHF25283;何人かの新兵が無料で蜂蜜酒が飲めるというだけで私の挑戦を受け、メインホールはあっという間に歓声とジョッキをぶつける音で満たされた。長いテーブルに自分の座る場所を探している間に、召使いが最初の酒樽を持って来ており、皆が待ちきれないようだ。;;;;;;;;;;;;x
-EVTOPTAHF25283;Do not worry, there is more than enough for everyone!;;;;;;;;;;;;x
+EVTOPTAHF25283;心配するな、全員に行き渡るだけの量は十分あるぞ！;;;;;;;;;;;;x
 TT_EVTOPTAHF25283;You keep track of the contenders and wait for the winner.;;;;;;;;;;;;x
 EVTDESCHF25284;何人かの新兵が無料で蜂蜜酒が飲めるというだけで私の挑戦を受け、メインホールはあっという間に歓声とジョッキをぶつける音で満たされた。長いテーブルに自分の座る場所を探している間に、召使いが最初の酒樽を持って来ており、皆が待ちきれないようだ。;;;;;;;;;;;;x
 EVTOPTAHF25284;やるぞ！酒を注げ！;;;;;;;;;;;;x
@@ -14247,7 +14247,7 @@ EVTOPTCHF25605;Let us see if you have better balance...;;;;;;;;;;;;x
 EVTOPTDHF25605;I must kill [scoped_WL_co_hunter.GetHerHim] before [scoped_WL_co_hunter.GetSheHe] tries to kill me again!;;;;;;;;;;;;x
 EVTOPTEHF25605;I should not be too hard on [scoped_WL_co_hunter.GetHerHim], it was a difficult situation.;;;;;;;;;;;;x
 EVTDESCAHF25606;Our long search for the mysterious beast has led [scoped_WL_co_hunter.GetFirstName] and I on some dangerous, unmapped paths. It takes only a second of distraction before [scoped_WL_co_hunter.GetFirstName] loses [scoped_WL_co_hunter.GetHerHis] footing near the edge of a cliff, finding [scoped_WL_co_hunter.GetHerselfHimself] grasping for something as [scoped_WL_co_hunter.GetSheHe] starts falling.;;;;;;;;;;;;x
-EVTOPTAHF25606;Do not worry, I will save you!;;;;;;;;;;;;x
+EVTOPTAHF25606;心配するな、私がお前を守る。;;;;;;;;;;;;x
 TT_EVTOPTAHF25606;Grab §Y[scoped_WL_co_hunter.GetFirstName]§! and pull [scoped_WL_co_hunter.GetHerHim] up on your own.;;;;;;;;;;;;x
 EVTOPTBHF25606;Here! Grab my hand!;;;;;;;;;;;;x
 TT_EVTOPTBHF25606;Attempt to save §Y[scoped_WL_co_hunter.GetFirstName]§!.;;;;;;;;;;;;x
@@ -14616,10 +14616,10 @@ EVTOPTCHF24052;彼らは恐れを抱くでしょう……;;;;;;;;;;;;x
 TT_EVTOPTCHF24052;臣民に対する権限を強化することに全力を尽くします。;;;;;;;;;;;;x
 EVTOPTDHF24052;私の道は私が見つける。;;;;;;;;;;;;x
 TT_EVTOPTDHF24052;通常の方法で§Y血脈§!を創始します。;;;;;;;;;;;;x
-EVTDESCHF24053;It is clear that only by cultivating an impeccable reputation I will be able to make the memory of my name stand the test of time.;;;;;;;;;;;;x
-EVTOPTAHF24053;I will be a just and virtuous ruler.;;;;;;;;;;;;x
+EVTDESCHF24053;時の試練に耐えて私の名前を人々の記憶に残すには比類なき名声が必要なことは明確だろう。;;;;;;;;;;;;x
+EVTOPTAHF24053;公正かつ高潔な統治者となるだろう。;;;;;;;;;;;;x
 TT_EVTOPTAHF24053;あなたの偉業に基を§Y血脈§!を創始するために取り組みます。;;;;;;;;;;;;x
-EVTOPTBHF24053;My dynasty's emblem will shine over all others.;;;;;;;;;;;;x
+EVTOPTBHF24053;我が一族の紋章は他の如何なる紋章よりも輝いている。;;;;;;;;;;;;x
 TT_EVTOPTBHF24053;あなたの一族の威信を基に§Y血脈§!を創始するために取り組みます。;;;;;;;;;;;;x
 EVTOPTAHF24054;[Root.Capital.GetName]は神学思想の砦となるだろう！;;;;;;;;;;;;x
 TT_EVTOPTAHF24054;§Y血脈§!を創始するため、領内の神学研究を後援することに取り組みます。;;;;;;;;;;;;x
@@ -14630,7 +14630,7 @@ EVTOPTAHF24055;[Root.Religion.GetHighGodName] will show me the way to eternal gl
 TT_EVTOPTAHF24055;Work on forging a §YBloodline§! by spreading the true faith across your realm and beyond.;;;;;;;;;;;;x
 EVTOPTBHF24055;I must be remembered, no matter how!;;;;;;;;;;;;x
 TT_EVTOPTBHF24055;Work on forging a §YBloodline§! by increasing your power as [Root.GetTitle].;;;;;;;;;;;;x
-EVTTITLEHF24056;The Benevolent Ruler;;;;;;;;;;;;x
+EVTTITLEHF24056;慈悲深き支配者;;;;;;;;;;;;x
 EVTDESCHF24056;It has come to my attention that many of the realm's laws handling petty disputes are old and obsolete. Revising our legal system to provide fair and satisfying judgment will certainly improve the conditions of my subjects and increase the prestige of my dynasty.;;;;;;;;;;;;x
 EVTOPTAHF24056;I will lead this legal reform myself.;;;;;;;;;;;;x
 TT_EVTOPTAHF24056;By acting fast and investing the most amount of resources, you will found a §YBloodline§! much sooner.;;;;;;;;;;;;x
@@ -14745,7 +14745,7 @@ pure_war_bloodline_04;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 pure_war_bloodline_04_desc;The archetypal warrior-philosopher, [This.GetFirstName] has become legendary for coupling the fierceness of a fighter with the mind of a scholar.;;;;;;;;;;;;x
 pure_peace_bloodline_01;神聖なる[This.GetTitledFirstName]の血;;;;;;;;;;;;x
 pure_peace_bloodline_01_desc;Ascended to the throne when [This.GetSheHe] was merely a child, [This.GetFirstName] proved to be wise far beyond [This.GetHerHis] years, ushering a new age of prosperity for [This.GetHerHis] realm.;;;;;;;;;;;;x
-pure_peace_bloodline_02;Blessed Blood of [This.GetTitledFirstName];;;;;;;;;;;;x
+pure_peace_bloodline_02;神聖なる[This.GetTitledFirstName]の血脈;;;;;;;;;;;;x
 pure_peace_bloodline_02_desc;Hailed as the [This.GetFatherMother] of the realm, [This.GetFirstName] has been celebrated as a peacemaker and a consummate diplomat.;;;;;;;;;;;;x
 pure_peace_bloodline_03;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 pure_peace_bloodline_03_desc;[This.GetFirstName] is remembered for ushering in a new age of peace and prosperity for [This.GetHerHis] realm.;;;;;;;;;;;;x
@@ -14773,7 +14773,7 @@ event_family_bloodline_01;[This.GetTitledFirstName]'s Dynasty;;;;;;;;;;;;x
 event_family_bloodline_01_desc;Praised for spending a lifetime dedicating [This.GetHerselfHimself] to [This.GetHerHis] family, [This.GetFirstName] has immortalized [This.GetHerHis] dynasty as one of the most prestigious bloodlines in history.;;;;;;;;;;;;x
 event_technology_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 event_technology_bloodline_01_desc;Known as a patron of the arts, [This.GetFirstName] has been celebrated by countless bards, painters and craftsmen for sponsoring their work.;;;;;;;;;;;;x
-event_benevolent_bloodline_01;Blessed Blood of [This.GetTitledFirstName];;;;;;;;;;;;x
+event_benevolent_bloodline_01;神聖なる[This.GetTitledFirstName]の血脈;;;;;;;;;;;;x
 event_benevolent_bloodline_01_desc;[This.GetFirstName] has become famous as a paragon of virtue and just rule throughout [This.PrimaryTitle.GetName].;;;;;;;;;;;;x
 event_ruthless_bloodline_01;Vile Blood of [This.GetTitledFirstName];;;;;;;;;;;;x
 event_ruthless_bloodline_01_desc;[This.GetFirstName] has become infamous as one of the worst tyrants in [This.PrimaryTitle.GetName]'s history.;;;;;;;;;;;;x
@@ -15384,16 +15384,16 @@ b_sama;サマ;;;;;;;;;;;;x
 b_kangaba;Kangaba;;;;;;;;;;;;x
 b_tabou;Tabou;;;;;;;;;;;;x
 b_bure;ブレ;;;;;;;;;;;;x
-b_siguiri;Siguiri;;;;;;;;;;;;x
+b_siguiri;シギリ;;;;;;;;;;;;x
 b_kouroussa;Kouroussa;;;;;;;;;;;;x
 b_soso;ソソ;;;;;;;;;;;;x
 b_kirina;キリナ;;;;;;;;;;;;x
-b_sibi_mali;Sibi;;;;;;;;;;;;x
+b_sibi_mali;シビ;;;;;;;;;;;;x
 b_kita;キタ;;;;;;;;;;;;x
 b_nioro;Nioro;;;;;;;;;;;;x
 b_diara;ディアラ;;;;;;;;;;;;x
-b_yaresna;Yaresna;;;;;;;;;;;;x
-b_guidimaka;Guidimaka;;;;;;;;;;;;x
+b_yaresna;ヤレスナ;;;;;;;;;;;;x
+b_guidimaka;ギディマカ;;;;;;;;;;;;x
 b_ghiyaru;Ghiyaru;;;;;;;;;;;;x
 b_galam;Galam;;;;;;;;;;;;x
 b_goudiourou;Goudiourou;;;;;;;;;;;;x
@@ -19532,7 +19532,7 @@ EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;x
 EVTDESC_HFP_80010;Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, "Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]";;;;;;;;;;;;x
 EVTOPTA_HFP_80010;なんだと！？ もう金は出ないのか！？;;;;;;;;;;;;x
 EVTDESC_HFP_80015;I just received word that the gold mine in [depleted_gold_mine_target.GetName] is fully operational once more! The workers found another vein a few days ago and have already begun mining it.;;;;;;;;;;;;x
-EVTOPTA_HFP_80015;This is most excellent news!;;;;;;;;;;;;x
+EVTOPTA_HFP_80015;とてつもない吉報だ！;;;;;;;;;;;;x
 EVTDESC_HFP_80020;It would seem that a recent influx of gold in [gold_inflation_province.GetName] has caused local prices to increase. Not only does it make things more expensive, but it also leaves the peasants with less money with which to pay me taxes!;;;;;;;;;;;;x
 EVTOPTA_HFP_80020;Such is the price of gold...;;;;;;;;;;;;x
 EVTOPTB_HFP_80020;Clever investments should keep the inflation in check.;;;;;;;;;;;;x
