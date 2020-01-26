@@ -1051,7 +1051,7 @@ EVTOPTG_ZE_12104;I'm glad I found out!;;;;;;;;;;;;x
 EVTOPTH_ZE_12104;I was meant to learn.;;;;;;;;;;;;x
 EVTOPTI_ZE_12104;What a great day.;;;;;;;;;;;;x
 EVTDESCA_ZE_12106;[From.GetFirstName]は行いを正そうとするわたしのやり方に反応しなかった。それどころか[From.GetSheHe]はこちらに疑いの眼差しを向けている。;;;;;;;;;;;;x
-EVTDESCB_ZE_12106;[From.GetFirstName] Seems regretful that [From.GetSheHe] disobeyed me. Hopefully It won't happen again.;;;;;;;;;;;;x
+EVTDESCB_ZE_12106;[From.GetFirstName]は、私に背いたことを反省しているようだ。もう二度と同じことをしなければ良いのだが。;;;;;;;;;;;;x
 EVTDESCC_ZE_12106;[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.;;;;;;;;;;;;x
 EVTDESCD_ZE_12106;[From.GetFirstName]に説教をし、[From.GetSheHe]はプライバシーについてよく理解したように思える。;;;;;;;;;;;;x
 EVTOPTA_ZE_12106;不安だ。;;;;;;;;;;;;x
@@ -1332,8 +1332,8 @@ EVTDESCA_ZE_12044;[From.GetFirstName] hit me over the head for not listening to 
 EVTDESCB_ZE_12044;[From.GetFirstName] は、すぐに引き返すべきだと言った。もしそうしなければ[From.GetSheHe]はきっと告げ口するだろう。;;;;;;;;;;;;x
 EVTDESCC_ZE_12044;数時間以上後になって、何か手ごたえを感じた。捕まえた魚はむちゃくちゃ大きくて、多分[Root.Capital.GetName]ないで一番の大きさなんじゃないかな!!;;;;;;;;;;;;x
 EVTDESCD_ZE_12044;あきらめようと考えていたらちょうど糸に反応があった。でも捕まえた魚はそんなに大きいものではなかったんだ。;;;;;;;;;;;;x
-EVTOPTA_ZE_12044;[From.GetSheHeCap]'s a meanie!;;;;;;;;;;;;x
-EVTOPTB_ZE_12044;Someone else can make it fit.;;;;;;;;;;;;x
+EVTOPTA_ZE_12044;[From.GetSheHeCap]はイジワルだ！;;;;;;;;;;;;x
+EVTOPTB_ZE_12044;だれかがなんとかするよ;;;;;;;;;;;;x
 EVTOPTC_ZE_12044;Come, or I'll say it was your idea.;;;;;;;;;;;;x
 EVTOPTD_ZE_12044;You're right.;;;;;;;;;;;;x
 EVTOPTE_ZE_12044;They will tell stories of today.;;;;;;;;;;;;x

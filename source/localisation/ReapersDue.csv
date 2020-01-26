@@ -1948,7 +1948,7 @@ EVTOPTC_RIP_12050;ふん、お前がやろうとしていることはお見通�
 EVTOPTC_RIP_12050_TOOLTIP;あなたは§Y[secluded_steward.GetFirstName]§!のことを信用しないと決心する\n;;;;;;;;;;;;x
 EVTDESC_RIP_12052;My liege! [secluded_steward.GetTitledFirstName] catches up with you as you are strolling down the main hall. [secluded_steward.GetSheHeCap] looks concerned and you order [secluded_steward.GetHerHim] to spit it out, whatever the news is. "The tunnels, my [Root.GetLordLady]", [secluded_steward.GetSheHe] breathes and continues to tell you that it seems somebody has been using them - guards have stumbled upon tools and torches, recently used, by the looks of it.;;;;;;;;;;;;x
 EVTOPTA_RIP_12052;これは待ち伏せの絶好のチャンスだ!;;;;;;;;;;;;x
-EVTOPTA_RIP_12052_TOOLTIP;あなたはコソコソしている人を捕まえることを望んでおり、番兵をトンネルに行かせます\n\n;;;;;;;;;;;;x
+EVTOPTA_RIP_12052_TOOLTIP;あなたは密かにトンネルに出入りする人を捕まえようと、もっと多くの番兵を派遣しました\n\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12052;これは災いだ!トンネルを封印せよ!;;;;;;;;;;;;x
 EVTOPTB_RIP_12052_TOOLTIP;誰かに探らせたりそのままにして置くよりも、トンネルの完全な爆破を望む\n\n;;;;;;;;;;;;x
 EVTOPTC_RIP_12052;番兵自身のものではないことは確かか?;;;;;;;;;;;;x

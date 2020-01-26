@@ -471,7 +471,7 @@ EVTOPTA64102;許せない！;;;;;;;;;;;;x
 EVTDESC64105;繰り返される[From.GetTitledFirstName]との諍い、そして[From.GetHerHis]の浮気により、私の怒りは沸点に達した。以前は[From.GetHerHim]を愛していたかもしれないが、ここ最近の裏切りにより、そんな気持ちはどこかへ吹き飛んでしまった。;;;;;;;;;;;;x
 EVTOPTA64105;[From.GetTitledFirstName]が嫌い、いや、憎い;;;;;;;;;;;;x
 EVTTOOLTIP64105;伴侶である[This.Spouse.GetTitledFirstName]と破局を迎える;;;;;;;;;;;;x
-EVTDESC64110;愛人との関係をどれほど秘密にしようとしても、[Root.Spouse.GetFirstName]は私の振るまいに不信感を募らせる一方だ。もしかすると、コソコソしすぎていたのがよくなかったのかもしれない……;;;;;;;;;;;;x
+EVTDESC64110;愛人との関係をどれほど秘密にしようとしても、[Root.Spouse.GetFirstName]は私の振るまいに不信感を募らせる一方だ。もしかしたら人目につかないようにするのは難しかったのかもしれない……;;;;;;;;;;;;x
 EVTOPTA64110;関係のないことだから気にしないよう[Root.Spouse.GetHerHim]に言おう;;;;;;;;;;;;x
 EVTOPTB64110;大切な仕事をしているのだと[Root.Spouse.GetHerHim]に言おう;;;;;;;;;;;;x
 EVTOPTC64110;一緒に過ごす時間を増やすと空約束をしよう;;;;;;;;;;;;x

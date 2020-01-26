@@ -4343,7 +4343,7 @@ EVTOPTA_HFP_10120_2;So I was not being delusional...!;;;;;;;;;;;;x
 EVTDESC_HFP_10121;My [GetMyChancellorName] [advisor_target.GetFirstName] clasps [advisor_target.GetHerHis] hands in a gesture of sympathy. "No, my [Root.GetLordLady], we have not received any word from [From.GetTitledFirstName]. Yes, I've made inquiries among the servants, and nobody has stolen any letters..." Avoiding [advisor_target.GetHerHis] gaze, I wave my hand dismissively. "I suppose that is a response in its own.";;;;;;;;;;;;x
 EVTOPTA_HFP_10121;I will not give up on our love...!;;;;;;;;;;;;x
 EVTOPTB_HFP_10121;It is useless.;;;;;;;;;;;;x
-EVTDESC_HF_10004;We have an eager new recruit! I should let the [new_recruit.GetManWoman] know that [new_recruit.GetSheHe] needs prove [new_recruit.GetHerselfHimself] to [new_recruit.GetHerHis] new peers...;;;;;;;;;;;;x
+EVTDESC_HF_10004;我々は、熱意のある新人を熱望している。[new_recruit.GetManWoman]は[new_recruit.GetHerHis]と同じ新規加入希望者たちに対して、自分の力を示す必要があると、知らせる必要がある。;;;;;;;;;;;;x
 EVTOPTA_HF_10004;I'll put on my most intimidating face. Ahem.;;;;;;;;;;;;x
 EVTOPTA_HF_10004_TT;You'll approach the [new_recruit.GetManWoman] to explain the initiation duel.;;;;;;;;;;;;x
 EVTDESC_HF_10005;[hero_character.Society.GetName]に属する[hero_character.GetTitledName]は短い頷きで迎えた。「ふん、新入りか？[Root.GetBoyGirl]よ、我々の仲間になるには力量を示さなければならない」と、ぶっきらぼうに言い、胸の前で腕を組んだ。「お前は我々のうちの一人と戦うことになる。まだ興味があればだが、[Root.GetLordLady]？」;;;;;;;;;;;;x
@@ -6818,8 +6818,8 @@ random_miracle_07;多くの[saint_person.Religion.GetHighGodName]のしもべた
 random_miracle_08;噂では、[saint_capital.GetName]で一人の男が溺れていると、聖[saint_person.GetFirstName]が水の上を駆けてその憐れな溺れた男を助け出したそうです。皆が奇跡が起こったのだとわかったのは、男が無事助け出された後のことでした。[saint_person.Religion.GetHighGodName]の言行を忠実にたどることは[saint_person.GetFirstName]と同様に偉大な人にふさわしい行いでした。;;;;;;;;;;;;x
 random_miracle_09;[saint_capital.GetName]の教会を訪れるなら、今もなお信心深い人々の歌声の中から時折、聖[saint_person.GetFirstName]の声が聞こえてくることがあるでしょう。聖[saint_person.GetFirstName]は非常に敬虔だったので、その死後も[saint_person.GetSheHe]は[saint_person.Religion.GetHighGodName]への祈りに加わっているのです。;;;;;;;;;;;;x
 random_miracle_10;[saint_person.GetHerHis]が子供の頃、あるとき突然[saint_person.GetHerHis]の指先から炎が噴き出しました。そしてそれは何度も起きた同様の出来事の最初の一つでしかありませんでした。[saint_person.GetSheHe]は最初は当てずっぽうにしていましたが、その祝福された才能を上手く操ろうとし、[saint_person.Religion.GetGroupName]の国々を助けるために使うようにしたのです。;;;;;;;;;;;;x
-random_miracle_11;It is said one of the virtuous men of [saint_capital.GetName] was stuck under debris, and no matter how many men tried to help it was impossible to get the man out. Saint [saint_person.GetFirstName] came across them, and prayed to [saint_person.Religion.GetHighGodName] to help them out. Afterwards the man could simply stand up and brush the debris off, as if it was as light as a feather. Such was the miraculous life of Saint [saint_person.GetFirstName].;;;;;;;;;;;;x
-random_miracle_12;After the martyred death of [saint_person.GetFirstName], it is said some people saw [saint_person.GetHerHim] walk back home to [saint_capital.GetName] with [saint_person.GetHerHis] head in [saint_person.GetHerHis] arms. After these visions, they suddenly came across a new burial site where they found the body of [saint_person.GetFirstName].;;;;;;;;;;;;x
+random_miracle_11;噂では、[saint_capital.GetName]の高徳な人々のなかの一人がガレキの下敷きになって動けなくなってしまい、多くの人々が助けようとしたもののどうしても助けられなかったことがありました。そこに通りがかった聖[saint_person.GetFirstName]は彼らを救われるよう[saint_person.Religion.GetHighGodName]に祈りました。そうすると下敷きになっていた男が安々と立ち上がり、まるでガレキが羽毛のように軽くなったかのように、それを払いのけたのです。聖[saint_person.GetFirstName]の奇跡に満ちた生涯はこのようなものでした。;;;;;;;;;;;;x
+random_miracle_12;[saint_person.GetFirstName]の殉教のあと、幾人かの人々は[saint_person.GetHerHim]が自分の頭をその腕に抱えて[saint_capital.GetName]に歩いて帰っていくのを目撃したと言っています。その光景を見たあとで、彼らは不意に[saint_person.GetFirstName]の遺体が少し前に埋葬された場所に行きついたのです。;;;;;;;;;;;;x
 random_miracle_13;So much did [saint_person.GetSheHe] care about the people around [saint_person.GetHerHim] that [saint_person.GetSheHe] blessed the local water with the power of love. It has become a famous spot for pilgrims, to wish for love and happiness in their life. So strong was [saint_person.GetHerHis] faith in [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
 random_miracle_14;It is said Saint [saint_person.GetFirstName] cared so much for life, [saint_person.GetSheHe] brokered a peace with the rats and had them move out peacefully rather than forcefully remove them.;;;;;;;;;;;;x
 random_miracle_15;Saint [saint_person.GetFirstName] was often followed around by a dog which was never seen eating, drinking or interacting with anyone but Saint [saint_person.GetFirstName]. Stories go that [saint_person.GetFirstName] conversed with this creature from [saint_person.Religion.GetHighGodName], and was told how to go through life as a virtuous faithful [saint_person.GetManWoman].;;;;;;;;;;;;x
@@ -6841,19 +6841,19 @@ ShortMiracle14;brokering peace with rats;;;;;;;;;;;;x
 ShortMiracle15;having a wise dog [saint_person.GetSheHe] conversed with;;;;;;;;;;;;x
 ShortMiracle16;being able to float above ground while praying;;;;;;;;;;;;x
 nick_the_fool_for_christ;佯狂者;;;;;;;;;;;;x
-nick_the_healer;the Healer;;;;;;;;;;;;x
+nick_the_healer;癒し手;;;;;;;;;;;;x
 nick_the_unmercenary_healer;廉施者;;;;;;;;;;;;x
-nick_the_myrrh_streaming;the Myrrh-Streaming;;;;;;;;;;;;x
-nick_the_god_bearing;the Godbearing;;;;;;;;;;;;x
+nick_the_myrrh_streaming;没薬の香る者;;;;;;;;;;;;x
+nick_the_god_bearing;神を支える者;;;;;;;;;;;;x
 nick_the_prophet;預言者;;;;;;;;;;;;x
-nick_the_understanding;the Understanding;;;;;;;;;;;;x
-nick_the_righteous;the Righteous;;;;;;;;;;;;x
-nick_the_venerable;the Venerable;;;;;;;;;;;;x
-nick_the_spark_of_god;the Spark of [Root.Religion.GetHighGodName];;;;;;;;;;;;x
-nick_the_right_believing;the Right-Believing;;;;;;;;;;;;x
+nick_the_understanding;理解者;;;;;;;;;;;;x
+nick_the_righteous;公正者;;;;;;;;;;;;x
+nick_the_venerable;高徳なる者;;;;;;;;;;;;x
+nick_the_spark_of_god;[Root.Religion.GetHighGodName]の閃光;;;;;;;;;;;;x
+nick_the_right_believing;正信者;;;;;;;;;;;;x
 nick_the_merciful;慈悲深き;;;;;;;;;;;;x
 nick_the_confessor;告白者;;;;;;;;;;;;x
-nick_the_miracle_worker;the Miracle-Worker;;;;;;;;;;;;x
+nick_the_miracle_worker;奇跡を為す者;;;;;;;;;;;;x
 saintly_impaler_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] love for the pain of others. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
 nick_gods_torturer;the Impaler of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
 saintly_hedonist_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] wild parties across the [saint_person.Religion.GetGroupName] realm. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
@@ -10678,7 +10678,7 @@ EVTOPTB_HF_12010_C;私にとって大物すぎる……;;;;;;;;;;;;x
 EVTDESC_HF_12010_D;一晩中寝返りを打っていた私は、[fellow_member.GetTitledFirstName]のいびきを聞いてすっかり目を覚ましていた。起き上がろうと思ったとき、藪がガサガサ音を立てた。立ち上がろうとすると、一人の[my_duel_target.GetManWoman]が私にのしかかり、疑わしそうに私を見つめながらのど元にに武器を突き付けた。;;;;;;;;;;;;x
 EVTOPTA_HF_12010_D;You come armed, I see... How about we do this one on one?;;;;;;;;;;;;x
 EVTOPTA_HF_12010_D_TT;You challenge the scout to a duel, and the two of you meet on a moonlit field.\n;;;;;;;;;;;;x
-EVTOPTB_HF_12010_D;[fellow_member.GetFirstName]! WAKE UP!;;;;;;;;;;;;x
+EVTOPTB_HF_12010_D;[fellow_member.GetFirstName]！起きろ！;;;;;;;;;;;;x
 EVTOPTB_HF_12010_D_TT;Together with §Y[fellow_member.GetTitledFirstName]§!, you fight the scout off.\n;;;;;;;;;;;;x
 EVTDESC_HF_12010_E;「この辺りで最高の戦士？それなら[my_duel_target.GetTitledFirstName]でしょう、[Root.GetMasterMistress]」小さな[Root.GetBoyGirl]が言った。[fellow_member.GetFirstName]はポケットから硬貨を取り出して、情報の対価として見窄らしい恰好の子供に与えた。「[my_duel_target.GetSheHe]だ！」子供が突然叫んで、道を歩いている[my_duel_target.Culture.GetName]人の[my_duel_target.GetManWoman]を指さした。;;;;;;;;;;;;x
 EVTOPTA_HF_12010_E;おお、なんという幸運だ！[my_duel_target.GetLordLady]よ！私と立ち合え！;;;;;;;;;;;;x
@@ -13642,7 +13642,7 @@ EVTDESCHF25293;One by one, the contenders tap out, throw up, or pass out, leavin
 EVTOPTAHF25293;A determinate [From.GetManWoman] like [From.GetHerHim] is the kind of ally I need!;;;;;;;;;;;;x
 EVTOPTBHF25293;I really like that [From.GetManWoman].;;;;;;;;;;;;x
 EVTOPTCHF25293;I will honor [From.GetHerHis] victory with a gift.;;;;;;;;;;;;x
-EVTOPTDHF25293;[From.GetSheHeCap] earned a bit of praise.;;;;;;;;;;;;x
+EVTOPTDHF25293;[From.GetSheHeCap]は、ささやかな称賛を得た。;;;;;;;;;;;;x
 EVTDESCHF25294;一人また一人、参加者は降参するか気を失っていく。私が手を挙げながら、蜂蜜酒をもう一口飲んだところで気を失った。意識を回復した時に、酒合戦の勝者になったのは[WL_drinking_contest_winner.GetBestName]だと他の戦士に知らされた。;;;;;;;;;;;;x
 EVTOPTAHF25294;待ってくれ、私はどのくらい気を失っていたんだ？;;;;;;;;;;;;x
 EVTDESCHF25295;最大限の努力にも関わらず、[WL_drinking_contest_winner.GetFirstName]は容赦なくジョッキを飲み干していき、差が開いてしまった。最終的には、酒を飲むために腕を持ち上げることすらできず、テーブルにうつ伏せになり、[WL_drinking_contest_winner.GetHerHim]の勝利を認めるしかなかった。;;;;;;;;;;;;x
@@ -14478,7 +14478,7 @@ forging_legend_revisiting_laws_1;Revisiting Old Laws;;;;;;;;;;;;x
 forging_legend_revisiting_laws_1_desc;Several scholars and bureaucrats of [Root.GetTitledFirstName]'s realm have been ordered to revise most of [Root.PrimaryTitle.GetName]'s old laws.;;;;;;;;;;;;x
 forging_legend_revisiting_laws_2;Revisiting Old Laws;;;;;;;;;;;;x
 forging_legend_revisiting_laws_2_desc;This ruler is leading a group of scholars and bureaucrats in an effort to revise and update many of the outdated laws of [Root.PrimaryTitle.GetName].;;;;;;;;;;;;x
-forging_legend_peasant_disobedience_1;Unruly Peasants;;;;;;;;;;;;x
+forging_legend_peasant_disobedience_1;手に負えない農民たち;;;;;;;;;;;;x
 forging_legend_peasant_disobedience_1_desc;Following the lax attitude of their ruler, many of [Root.GetTitledFirstName]'s subjects have grown undisciplined and unproductive.;;;;;;;;;;;;x
 forging_legend_peasant_disobedience_2;Disciplined Peasants;;;;;;;;;;;;x
 forging_legend_peasant_disobedience_2_desc;Following a deep revision of the legal system of [Root.GetHerHis] realm, [Root.GetTitledFirstName] has been forced to address some of [Root.GetHerHis] most unruly subjects to restore order in [Root.GetHerHis] realm.;;;;;;;;;;;;x
