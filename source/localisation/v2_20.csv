@@ -905,17 +905,17 @@ EVTDESC_CM_6314;[From.GetTitledName]を暗殺する陰謀が成功したとの�
 EVTOPTA_CM_6314;よくやった！;;;;;;;;;;;;x
 EVTDESC_CM_6316;[From.GetTitledName]を暗殺する陰謀が成功したとの知らせが入ってきました。[From.GetTitledName]は食事に混ぜられた毒物によって死んだとのことです。背後で陰謀を図っていた者が誰なのかは露見していませんが、残念ながら料理人は捕らえられ、誰に殺害を命じられたのかを白状してしまいました。;;;;;;;;;;;;x
 EVTOPTA_CM_6316;そうか。;;;;;;;;;;;;x
-EVTDESC_CM_6317;あなたは隠れ家の居間と食堂を兼ねた部屋に一人でいる。このチーズは素晴らしく美味しいし、ブドウも最高の味だ。飲み物を一口すすり、目を閉じてその味を堪能しながら、豪勢な宴会にいる自分を想像してみる。お次はスープを飲むとしよう……うーむ、変な臭いがするぞ。あなたはためらった後にもう一度臭いをかいでみた。そうだ、この料理には毒が入っているぞ！;;;;;;;;;;;;x
+EVTDESC_CM_6317;あなたは隠れ家の居間と食堂を兼ねた部屋に一人でいる。このチーズは素晴らしく美味しいし、ブドウも最高の味だ。飲み物を一口すすり、目を閉じてその味を堪能しながら、豪勢な宴会にいる自分を想像してみる。お次はスープを飲むとしよう……むむ、変な臭いがするぞ。あなたはためらった後にもう一度臭いをかいでみた。そうだ、この料理には毒が入っているぞ！;;;;;;;;;;;;x
 EVTOPTA_CM_6317;この件の背後にいる奴を見つけてやるぞ！;;;;;;;;;;;;x
 EVTDESC_CM_6318;[From.GetTitledName]を毒殺する計画は失敗に終わったようだ。しかし、今回の陰謀の黒幕が誰なのかはまだ露見していない。;;;;;;;;;;;;x
 EVTOPTA_CM_6318;次こそは奴を仕留めてやる。;;;;;;;;;;;;x
 EVTDESC_CM_63199;[From.GetTitledName]を毒殺する計画は失敗に終わったようだ。さらに悪いことに、料理人は捕らえられ、誰に殺害を命じられたのかを白状してしまった。;;;;;;;;;;;;x
 EVTOPTA_CM_63199;なんてことだ！;;;;;;;;;;;;x
-EVTDESC_63103;On the death of my [GetNewRelation], my [GetFromRelation] [From.GetFirstName] may have been elected [From.PrimaryTitle.GetRulerTitle] of [From.PrimaryTitle.GetName], but I am under no obligation to accept [From.GetObjectPronoun] as my liege!;;;;;;;;;;;;x
-EVTOPTA_63103;The realm should stay one.;;;;;;;;;;;;x
-EVTOPTB_63103;Time to split the realm!;;;;;;;;;;;;x
-EVTDESC_63104;My [GetFromRelation] [From.GetFirstName] has chosen independence from my rule.;;;;;;;;;;;;x
-EVTOPTA_63104;Such is [From.GetPossPronoun] right...;;;;;;;;;;;;x
+EVTDESC_63103;我が[GetNewRelation]の死に際して、我が[GetFromRelation]の[From.GetFirstName]が[From.PrimaryTitle.GetName]の[From.PrimaryTitle.GetRulerTitle]に選出されるかもしれないが、私には[From.GetObjectPronoun]を我が臣下として受け入れる義理などない！;;;;;;;;;;;;x
+EVTOPTA_63103;領国は統一を保たれるべきだ。;;;;;;;;;;;;x
+EVTOPTB_63103;領国を分割すべき時だ！;;;;;;;;;;;;x
+EVTDESC_63104;私の[GetFromRelation]の[From.GetFirstName]は私の支配から独立することを選んだ。;;;;;;;;;;;;x
+EVTOPTA_63104;それが[From.GetPossPronoun]の権利だ…;;;;;;;;;;;;x
 IS_MULTIPLAYER;マルチプレイである;;;;;;;;;;;;x
 IS_NOT_MULTIPLAYER;マルチプレイではない;;;;;;;;;;;;x
 other_invasion_succ_tip;§Y[Root.GetTitledFirstName]§!は§Y[From.GetTitledFirstName]§!に属する§Y[This.GetFullBaseName]§!内の全称号を獲得するか、臣従させます。\n;;;;;;;;;;;;x

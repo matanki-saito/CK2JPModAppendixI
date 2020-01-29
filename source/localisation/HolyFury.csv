@@ -4265,7 +4265,7 @@ String_clumsily;不器用;;;;;;;;;;;;x
 String_elegantly;優雅;;;;;;;;;;;;x
 String_expertly;expertly;;;;;;;;;;;;x
 String_slowly;slowly;;;;;;;;;;;;x
-String_put_the_spear_through_their_head;put the spear through [This.GetHerHis] head;;;;;;;;;;;;x
+String_put_the_spear_through_their_head;槍で[This.GetHerHis]の頭を串刺し;;;;;;;;;;;;x
 String_put_their_spear_through_my_head;put [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] through my head;;;;;;;;;;;;x
 String_bury_weapon_in_their_chest;自らの[GetDuelWeapon]を[other_combatant.GetHerHis]の胸に叩き込んだ！[other_combatant.GetManWoman]が呻くなか、しばらくして私の心臓は落ち着き、同じ頃[other_combatant.GetSheHe]から何も聞こえなくなった;;;;;;;;;;;;x
 String_push_my_weapon_into_their_chest;[GetDuelWeapon]を[other_combatant.GetHerHis]の腹に投げる。[other_combatant.GetManWoman]は倒れ、はらわたが飛び出した。[other_combatant.GetSheHeCap]はもう立ち上がらなかった。;;;;;;;;;;;;x
@@ -4449,7 +4449,7 @@ EVTOPTC_HF_10021_tt;§Y狩人§!の特性を得るでしょう。\n;;;;;;;;;;;;x
 EVTDESC_HF_10022;I have studied my soldiers practicing their swordsmanship, and I am certain that some of them are becoming unsettled by the constant watch of their [Root.GetTitle]... Perhaps it is time I admit that I could use some guidance, when it comes to my own dueling? If nothing else, I could join their training...;;;;;;;;;;;;x
 EVTOPTA_HF_10022;I shall get [mentor_target.GetTitledFirstName] to teach me everything [mentor_target.GetSheHe] knows.;;;;;;;;;;;;x
 EVTOPTB_HF_10022;I will discreetly hire someone to instruct me.;;;;;;;;;;;;x
-EVTOPTC_HF_10022;I think I would rather go about this alone.;;;;;;;;;;;;x
+EVTOPTC_HF_10022;独りで修行したほうがましだな。;;;;;;;;;;;;x
 rigorous_practice;Rigorous Practice;;;;;;;;;;;;x
 rigorous_practice_desc;This character is rumored to follow a rather strict training regime.;;;;;;;;;;;;x
 EVTDESC_HF_10023;My [From.GetRootRelation] [From.GetTitledFirstName] has contacted me, asking for private lessons in the arts of one-on-one combat. "The [From.GetTitle] is likely to appreciate any guidance we offer, my [Root.GetLordLady]", the messenger says.;;;;;;;;;;;;x
@@ -6234,7 +6234,7 @@ EVTOPTA_HFP_11025_TT_falcons;The bird probably saved your life.\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_fallback;私は......何が起こった? 私はどうも場違いなようだな。;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_fallback;あなたはいずれ、この出来事の克服に苦しむことになる...\n;;;;;;;;;;;;x
 EVTOPTB_HFP_11025;敵指揮官はどこだ！？ 私がこの手で奴を殺してやる!;;;;;;;;;;;;x
-EVTOPTB_HFP_11025_TT;You chase down the §Y[enemy_commander.GetTitledFirstName]§! for a personal duel, while your soldiers tend to your wounded animal.\n;;;;;;;;;;;;x
+EVTOPTB_HFP_11025_TT;あなたが§Y[enemy_commander.GetTitledFirstName]§!を追い駆けて決闘に臨む一方で、配下の兵たちは傷ついたペットを救護します。\n;;;;;;;;;;;;x
 chase_down_enemy_commander_tt;あなたは戦場で、決闘に臨むため§Y[enemy_commander.GetTitledFirstName]§!を追いかける...!\n;;;;;;;;;;;;x
 string_Lightning;Lightning;;;;;;;;;;;;x
 string_Sky;Sky;;;;;;;;;;;;x
@@ -6796,21 +6796,21 @@ fought_bear;Fought Bear;;;;;;;;;;;;x
 outsmarted_bear;Outsmarted a Bear;;;;;;;;;;;;x
 BLESSED_TITLE;福者;;;;;;;;;;;;x
 SAINT_TITLE;聖;;;;;;;;;;;;x
-saintly_bloodline_description;[saint_person.GetTitledFirstName] was known for [saint_person.GetNature][saint_person.GetMiracleShort]. Canonized by [Root.GetTitledName].;;;;;;;;;;;;x
-GetNatureKind;[saint_person.GetHerHis] kind nature, and ;;;;;;;;;;;;x
-GetNatureHumble;[saint_person.GetHerHis] humble nature, and ;;;;;;;;;;;;x
-GetNatureTemperate;[saint_person.GetHerHis] temperate nature, and ;;;;;;;;;;;;x
-GetNatureChaste;[saint_person.GetHerHis] chaste nature, and ;;;;;;;;;;;;x
-GetNatureDiligent;[saint_person.GetHerHis] diligent nature, and ;;;;;;;;;;;;x
-GetNaturePatient;[saint_person.GetHerHis] patient nature, and ;;;;;;;;;;;;x
-GetNatureCharitable;[saint_person.GetHerHis] charitable nature, and ;;;;;;;;;;;;x
-GetNatureLunatic;[saint_person.GetHerHis] erratic nature, and ;;;;;;;;;;;;x
-GetNatureZealous;[saint_person.GetHerHis] righteous nature, and ;;;;;;;;;;;;x
-GetNatureHonest;[saint_person.GetHerHis] honest nature, and ;;;;;;;;;;;;x
+saintly_bloodline_description;[saint_person.GetTitledFirstName]は[saint_person.GetNature][saint_person.GetMiracleShort]で有名でした。[Root.GetTitledName]によって列聖されています。;;;;;;;;;;;;x
+GetNatureKind;その親切さと、;;;;;;;;;;;;x
+GetNatureHumble;その謙虚さと、;;;;;;;;;;;;x
+GetNatureTemperate;その節制ぶりと、;;;;;;;;;;;;x
+GetNatureChaste;その貞節さと、;;;;;;;;;;;;x
+GetNatureDiligent;その勤勉さと、;;;;;;;;;;;;x
+GetNaturePatient;その忍耐強さと、;;;;;;;;;;;;x
+GetNatureCharitable;その慈悲深さと、;;;;;;;;;;;;x
+GetNatureLunatic;その気まぐれさと、;;;;;;;;;;;;x
+GetNatureZealous;その公正さと、;;;;;;;;;;;;x
+GetNatureHonest;その正直さと、;;;;;;;;;;;;x
 GetGenericNature;;;;;;;;;;;;;x
-random_miracle_01;ある時、聖[saint_person.GetFirstName]は[saint_person.GetHerHis]の両手両足からおびただしい血が流れていることに気付きましたが、2分と経たないうちにそれが癒えてしまったと言われています。[saint_person.GetHerHis]の生涯はそのようなものであり、[saint_person.Religion.GetHighGodName]の歩みを忠実にたどるものであったのです。;;;;;;;;;;;;x
+random_miracle_01;ある時、聖[saint_person.GetFirstName]は[saint_person.GetHerHis]の両手両足からおびただしい血が流れていることに気付きましたが、2分と経たないうちにそれが癒えてしまったと言われています。[saint_person.GetHerHis]の生涯はこのように[saint_person.Religion.GetHighGodName]の歩みを忠実にたどるものでした。;;;;;;;;;;;;x
 random_miracle_02;聖[saint_person.GetFirstName]の体は[saint_person.GetSheHe]が亡くなった時と同じ状態のままで、棺は穏やかな花の香りで包まれていると言われています。[saint_person.GetHerHis]の体に起きた不朽体の奇跡こそが、[saint_person.GetHerHis]が天に昇ったことの証です。;;;;;;;;;;;;x
-random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語は数多くあります。[saint_person.GetSheHeCap]は[saint_person.Religion.GetGroupName]の国々を旅して回り、病や怪我に苦しむ人々をまさに死の淵からを救ったのです。;;;;;;;;;;;;x
+random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語は数多くあります。[saint_person.GetSheHeCap]は[saint_person.Religion.GetGroupName]の国々を旅して回り、病や怪我に苦しむ人々をまさに死の淵から救ったのです。;;;;;;;;;;;;x
 random_miracle_04;[saint_person.GetFirstName]は預言によって洞察力を得ており、何日後や何ヶ月後、そして何年後かに起こるものごとを見ることができたと言われています。その幻視を通じて、聖[saint_person.GetFirstName]は友や家族が直面するであろう危険を彼らが避けられるよう導いたのです。;;;;;;;;;;;;x
 random_miracle_05;聖[saint_person.GetFirstName]は、あたかも他人の考えを読み取ることができたかのように人々をよく理解したと言われています。その才能にもかかわらず、[saint_person.GetSheHe]はそれを決して悪用することなく、[saint_person.GetHerHis]の前でその才能を祝福する[saint_person.Religion.GetHighGodName]に心から奉仕する者でした。;;;;;;;;;;;;x
 random_miracle_06;多くの者が[saint_person.Religion.GetRandomEvilGodName]のもとに仕えていましたが、聖[saint_person.GetFirstName]の面前で彼らはすべて消えてしまいました。[saint_person.GetSheHe]は人々から悪をはぎとり、彼らを[saint_person.Religion.GetHighGodName]の栄光のために生きる正しい道へと連れ戻したのだと言われています。;;;;;;;;;;;;x
@@ -6820,26 +6820,26 @@ random_miracle_09;[saint_capital.GetName]の教会を訪れるなら、今もな
 random_miracle_10;[saint_person.GetHerHis]が子供の頃、あるとき突然[saint_person.GetHerHis]の指先から炎が噴き出しました。そしてそれは何度も起きた同様の出来事の最初の一つでしかありませんでした。[saint_person.GetSheHe]は最初は当てずっぽうにしていましたが、その祝福された才能を上手く操ろうとし、[saint_person.Religion.GetGroupName]の国々を助けるために使うようにしたのです。;;;;;;;;;;;;x
 random_miracle_11;噂では、[saint_capital.GetName]の高徳な人々のなかの一人がガレキの下敷きになって動けなくなってしまい、多くの人々が助けようとしたもののどうしても助けられなかったことがありました。そこに通りがかった聖[saint_person.GetFirstName]は彼らを救われるよう[saint_person.Religion.GetHighGodName]に祈りました。そうすると下敷きになっていた男が安々と立ち上がり、まるでガレキが羽毛のように軽くなったかのように、それを払いのけたのです。聖[saint_person.GetFirstName]の奇跡に満ちた生涯はこのようなものでした。;;;;;;;;;;;;x
 random_miracle_12;[saint_person.GetFirstName]の殉教のあと、幾人かの人々は[saint_person.GetHerHim]が自分の頭をその腕に抱えて[saint_capital.GetName]に歩いて帰っていくのを目撃したと言っています。その光景を見たあとで、彼らは不意に[saint_person.GetFirstName]の遺体が少し前に埋葬された場所に行きついたのです。;;;;;;;;;;;;x
-random_miracle_13;So much did [saint_person.GetSheHe] care about the people around [saint_person.GetHerHim] that [saint_person.GetSheHe] blessed the local water with the power of love. It has become a famous spot for pilgrims, to wish for love and happiness in their life. So strong was [saint_person.GetHerHis] faith in [saint_person.Religion.GetHighGodName].;;;;;;;;;;;;x
-random_miracle_14;It is said Saint [saint_person.GetFirstName] cared so much for life, [saint_person.GetSheHe] brokered a peace with the rats and had them move out peacefully rather than forcefully remove them.;;;;;;;;;;;;x
-random_miracle_15;Saint [saint_person.GetFirstName] was often followed around by a dog which was never seen eating, drinking or interacting with anyone but Saint [saint_person.GetFirstName]. Stories go that [saint_person.GetFirstName] conversed with this creature from [saint_person.Religion.GetHighGodName], and was told how to go through life as a virtuous faithful [saint_person.GetManWoman].;;;;;;;;;;;;x
-random_miracle_16;Stories tell of how in the middle of a prayer, Saint [saint_person.GetFirstName] suddenly rose from the floor and floated above ground for several minutes. This periodically happened all throughout [saint_person.GetHerHis] life, showing us how [saint_person.GetSheHe] rose closer to Heaven even before [saint_person.GetSheHe] passed on.;;;;;;;;;;;;x
-ShortMiracle01;聖痕がある;;;;;;;;;;;;x
-ShortMiracle02;[saint_person.GetHerHis] incorruptible body;;;;;;;;;;;;x
-ShortMiracle03;奇跡的な回復;;;;;;;;;;;;x
-ShortMiracle04;預言者の洞察;;;;;;;;;;;;x
-ShortMiracle05;reading the minds of others;;;;;;;;;;;;x
-ShortMiracle06;exorcising the creatures of [saint_person.Religion.GetRandomEvilGodNameCap];;;;;;;;;;;;x
-ShortMiracle07;conversations with the creatures of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
-ShortMiracle08;walking across water to save a man;;;;;;;;;;;;x
-ShortMiracle09;being heard after [saint_person.GetHerHis] death;;;;;;;;;;;;x
-ShortMiracle10;having warm hands;;;;;;;;;;;;x
-ShortMiracle11;praying a heavy object away;;;;;;;;;;;;x
-ShortMiracle12;being seen carrying own head around after death;;;;;;;;;;;;x
-ShortMiracle13;blessing local water with the power of love;;;;;;;;;;;;x
-ShortMiracle14;brokering peace with rats;;;;;;;;;;;;x
-ShortMiracle15;having a wise dog [saint_person.GetSheHe] conversed with;;;;;;;;;;;;x
-ShortMiracle16;being able to float above ground while praying;;;;;;;;;;;;x
+random_miracle_13;[saint_person.GetSheHe]は地元の水場を愛の力で祝福し、[saint_person.GetSheHe]の周りの多くの人々の病を癒しました。そこは自分の人生に愛と幸福を願う人々にとっての有名な巡礼地となっています。[saint_person.GetHerHis]の[saint_person.Religion.GetHighGodName]を信仰する気持ちは何より強いものでした。;;;;;;;;;;;;x
+random_miracle_14;聖[saint_person.GetFirstName]は多くの生き物を癒し、[saint_person.GetSheHe]はネズミたちと交渉して、無理やり追い出すのではなく平和的によそに移らせたと言われています。;;;;;;;;;;;;x
+random_miracle_15;聖[saint_person.GetFirstName]はよく犬たちに取り巻かれていましたが、その犬たちは何も飲まず食べず、聖[saint_person.GetFirstName]以外を相手にしようとしませんでした。[saint_person.GetFirstName]は[saint_person.Religion.GetHighGodName]から遣わされたこの動物たちと語りあい、生涯を通じて高徳で信仰に厚い[saint_person.GetManWoman]性でした。;;;;;;;;;;;;x
+random_miracle_16;礼拝のさなか、聖[saint_person.GetFirstName]は突然床から浮き上がり、数分のあいだ宙を漂っていたと言われています。これは[saint_person.GetHerHis]の生涯で定期的に起きたことであり、[saint_person.GetSheHe]の存命中でさえ、いかに[saint_person.GetSheHe]が天国へと近づいていたかが分かります。;;;;;;;;;;;;x
+ShortMiracle01;聖痕があること;;;;;;;;;;;;x
+ShortMiracle02;その清浄な肉体;;;;;;;;;;;;x
+ShortMiracle03;奇跡的な癒しの力;;;;;;;;;;;;x
+ShortMiracle04;預言者の洞察力;;;;;;;;;;;;x
+ShortMiracle05;他者の考えを読むこと;;;;;;;;;;;;x
+ShortMiracle06;[saint_person.Religion.GetRandomEvilGodNameCap]の創りし者どもを払うこと;;;;;;;;;;;;x
+ShortMiracle07;[saint_person.Religion.GetHighGodName]の創りし物たちと語りあっていたこと;;;;;;;;;;;;x
+ShortMiracle08;人を助けるために水面を歩いたこと;;;;;;;;;;;;x
+ShortMiracle09;死後もその声が聞かれていたこと;;;;;;;;;;;;x
+ShortMiracle10;暖かい手をしていたこと;;;;;;;;;;;;x
+ShortMiracle11;祈りによって重い物を取り去ったこと;;;;;;;;;;;;x
+ShortMiracle12;その死後に自分の頭を持ち運んだことを目撃されたこと;;;;;;;;;;;;x
+ShortMiracle13;愛の力で地元の水場を祝福したこと;;;;;;;;;;;;x
+ShortMiracle14;ネズミたちと平和的に交渉したこと;;;;;;;;;;;;x
+ShortMiracle15;[saint_person.GetSheHe]の連れていた聡明な犬たちと語りあったこと;;;;;;;;;;;;x
+ShortMiracle16;祈りの最中に大地から浮き上がったこと;;;;;;;;;;;;x
 nick_the_fool_for_christ;佯狂者;;;;;;;;;;;;x
 nick_the_healer;癒し手;;;;;;;;;;;;x
 nick_the_unmercenary_healer;廉施者;;;;;;;;;;;;x
@@ -7610,7 +7610,7 @@ religion_astrology_desc;神は人の運命を星々に写された。人の本�
 tooltip_religion_feature_astrology;§G誕生時に占星術特性が与えられ、またディシジョンでも占星術特性を得ることができます§!;;;;;;;;;;;;x
 EVTDESCAHF23021;I was told many time when I was growing up of how the stars are influencing my behavior, but now I am no longer sure of it. Was it just stories grown-ups were telling me to make me feel special?;;;;;;;;;;;;x
 EVTOPTAHF23021;It must be true!;;;;;;;;;;;;x
-EVTOPTBHF23021;I don't care about the stupid stars!;;;;;;;;;;;;x
+EVTOPTBHF23021;ぼくは星なんか気にしない！;;;;;;;;;;;;x
 EVTDESCAHF23022;[GetFromRelation]の[From.GetFirstName]は、[From.GetHerHis]の誕生時に定められた宿星の示す自分の運命に深い関心を持っている。;;;;;;;;;;;;x
 EVTDESCBHF23022;私の[GetFromRelation][From.GetFirstName]は、自分の出生と星座が自分の運命と関連している、という考えを好んでいないようだ。;;;;;;;;;;;;x
 EVTOPTAHF23022;だからどうした？占星術など迷信にすぎない。;;;;;;;;;;;;x
@@ -8369,7 +8369,7 @@ EVTDESCAHF25021;我が館の神聖なる庇護者の方々より戦いの恩寵�
 EVTDESCBHF25021;Although I follow the teachings of [Root.Religion.GetHighGodName], giving to the old gods their due might help me in the coming wars. Their violent nature well fits my need for fierceness and savagery.;;;;;;;;;;;;x
 EVTOPTAHF25021;御身の歓喜がため、我が親族の肉と血を捧げましょう！;;;;;;;;;;;;x
 EVTOPTBHF25021;古き神々へと我が民を一人、生贄として捧げましょう。;;;;;;;;;;;;x
-EVTOPTCHF25021_A;I will immolate one of the most prized specimens from my livestock.;;;;;;;;;;;;x
+EVTOPTCHF25021_A;我が家畜から、選りすぐりの一匹を捧げましょう！;;;;;;;;;;;;x
 EVTOPTCHF25021_B;I will immolate some of my best horses.;;;;;;;;;;;;x
 EVTOPTDHF25021;御身の稚気を鎮めるため、食物と財貨を捧げましょう。;;;;;;;;;;;;x
 EVTDESCAHF25022;Two warriors from the Lodge carry [scoped_war_sacrifice.GetFirstName] outside, ignoring [scoped_war_sacrifice.GetHerHis] kicking and screaming. While the priests prepare me for the ritual by inscribing holy signs under my skin, the offering is brought to the tallest tree we can find and hanged from its strongest branch. We then start chanting hymns to the old gods under the twitching shadow of [scoped_war_sacrifice.GetFirstName].;;;;;;;;;;;;x
@@ -10317,7 +10317,7 @@ string_severely_injured_notify;[combatant_2.GetFirstName]'s attacks were vicious
 string_wounded_notify;[combatant_1.GetFirstName]はこの戦いで無数の軽傷を負ったが、少しは成長に役立ったことは間違いない！;;;;;;;;;;;;x
 string_unscathed_notify;Fortunately, [combatant_1.GetFirstName] got away without any significant injuries.;;;;;;;;;;;;x
 opinion_great_leader;Great Leader;;;;;;;;;;;;x
-opinion_disrespects_me;Disrespects Me;;;;;;;;;;;;x
+opinion_disrespects_me;軽視された;;;;;;;;;;;;x
 opinion_tried_to_get_me_killed;私を殺そうとした！;;;;;;;;;;;;x
 HFP_500_DESC;我らが戦士団の[combatant_1.GetSocietyRank]である[combatant_1.GetFirstNameWithNick]は、戦士としては精々[combatant_1.GetNegativeDuelSkillTerm]程度である。[combatant_1.GetHerHis]の助けが[Root.Society.GetName]に必要な時、ひどく未熟であることは[combatant_1.GetHerHim]のようなタイプの人間にとって恥ずべきことだ！もしかしたら誰かと練習試合をすることを薦めるべきなのだろうか？;;;;;;;;;;;;x
 EVTOPTA_HF_500;[combatant_1.GetSheHeCap]にはまず自信が必要だ。それなら[society_practice_duelist_target_1.GetFirstName]が楽な試合をしてくれるだろう。;;;;;;;;;;;;x
@@ -10676,10 +10676,10 @@ EVTDESC_HF_12010_C;[target_ruler.Capital.GetName]のとある村を通過する�
 EVTOPTA_HF_12010_C;面と向かって言うべきじゃないか？戦おう！;;;;;;;;;;;;x
 EVTOPTB_HF_12010_C;私にとって大物すぎる……;;;;;;;;;;;;x
 EVTDESC_HF_12010_D;一晩中寝返りを打っていた私は、[fellow_member.GetTitledFirstName]のいびきを聞いてすっかり目を覚ましていた。起き上がろうと思ったとき、藪がガサガサ音を立てた。立ち上がろうとすると、一人の[my_duel_target.GetManWoman]が私にのしかかり、疑わしそうに私を見つめながらのど元にに武器を突き付けた。;;;;;;;;;;;;x
-EVTOPTA_HF_12010_D;You come armed, I see... How about we do this one on one?;;;;;;;;;;;;x
-EVTOPTA_HF_12010_D_TT;You challenge the scout to a duel, and the two of you meet on a moonlit field.\n;;;;;;;;;;;;x
+EVTOPTA_HF_12010_D;武器を持っているな、わかった…1対1で勝負しないか？;;;;;;;;;;;;x
+EVTOPTA_HF_12010_D_TT;斥候に決闘を申し込み、月明かりの下で刃を交える。\n;;;;;;;;;;;;x
 EVTOPTB_HF_12010_D;[fellow_member.GetFirstName]！起きろ！;;;;;;;;;;;;x
-EVTOPTB_HF_12010_D_TT;Together with §Y[fellow_member.GetTitledFirstName]§!, you fight the scout off.\n;;;;;;;;;;;;x
+EVTOPTB_HF_12010_D_TT;§Y[fellow_member.GetTitledFirstName]§!と共に、その斥候を撃退する。\n;;;;;;;;;;;;x
 EVTDESC_HF_12010_E;「この辺りで最高の戦士？それなら[my_duel_target.GetTitledFirstName]でしょう、[Root.GetMasterMistress]」小さな[Root.GetBoyGirl]が言った。[fellow_member.GetFirstName]はポケットから硬貨を取り出して、情報の対価として見窄らしい恰好の子供に与えた。「[my_duel_target.GetSheHe]だ！」子供が突然叫んで、道を歩いている[my_duel_target.Culture.GetName]人の[my_duel_target.GetManWoman]を指さした。;;;;;;;;;;;;x
 EVTOPTA_HF_12010_E;おお、なんという幸運だ！[my_duel_target.GetLordLady]よ！私と立ち合え！;;;;;;;;;;;;x
 EVTOPTA_HF_12010_E_TT;§Y[my_duel_target.GetTitledFirstName]§!は立ち止まり、武器を抜きます……\n;;;;;;;;;;;;x
@@ -13106,7 +13106,7 @@ EVTDESCHFA20117;A group of militant faithful have come to [Root.Capital.GetName]
 EVTOPTAHF20117;You are welcome!;;;;;;;;;;;;x
 EVTOPTBHF20117;I cannot allow foreign troops within my realm!;;;;;;;;;;;;x
 available_because_pretty;This option is available because you are §YAttractive§!;;;;;;;;;;;;x
-available_because_dumb;This option is available because you are dumb;;;;;;;;;;;;x
+available_because_dumb;無口のため、この選択肢が利用可能;;;;;;;;;;;;x
 opinion_lousy_winner;気に食わない勝者;;;;;;;;;;;;x
 opinion_kind_winner;思いやりのある勝者;;;;;;;;;;;;x
 opinion_loser;Loser;;;;;;;;;;;;x
@@ -14644,7 +14644,7 @@ EVTOPTEHF24056;This is too much effort for me...;;;;;;;;;;;;x
 TT_EVTOPTEHF24056;§Y血脈§!を創始するための探求を止める。;;;;;;;;;;;;x
 EVTDESCHF24057;The great legal reform of [Root.PrimaryTitle.GetName] is finally reaching its conclusion, yet new issues seem to have stemmed by my undertaking. There is a growing concern amongst the nobility that these new laws are too lax and might encourage peasants to avoid their responsibilities and acquire seditious tendencies.;;;;;;;;;;;;x
 EVTOPTAHF24057;I will address their concerns.;;;;;;;;;;;;x
-EVTOPTBHF24057;We must be patient in this transitory phase of the reform.;;;;;;;;;;;;x
+EVTOPTBHF24057;我々はこの改革の痛みに、今は耐えねばならない。;;;;;;;;;;;;x
 EVTOPTCHF24057;Perhaps my reform is too extensive...;;;;;;;;;;;;x
 EVTOPTDHF24057;I will try to address their concerns.;;;;;;;;;;;;x
 EVTOPTEHF24057;Better to scrap the entire reform then.;;;;;;;;;;;;x
@@ -19531,12 +19531,12 @@ EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of h
 EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;x
 EVTDESC_HFP_80010;Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, "Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]";;;;;;;;;;;;x
 EVTOPTA_HFP_80010;なんだと！？ もう金は出ないのか！？;;;;;;;;;;;;x
-EVTDESC_HFP_80015;I just received word that the gold mine in [depleted_gold_mine_target.GetName] is fully operational once more! The workers found another vein a few days ago and have already begun mining it.;;;;;;;;;;;;x
+EVTDESC_HFP_80015;[depleted_gold_mine_target.GetName]の金鉱採掘が再開されたという知らせを受けた！労働者たちは数日前に新たな鉱脈を発見し、すでに採掘を始めている。;;;;;;;;;;;;x
 EVTOPTA_HFP_80015;とてつもない吉報だ！;;;;;;;;;;;;x
-EVTDESC_HFP_80020;It would seem that a recent influx of gold in [gold_inflation_province.GetName] has caused local prices to increase. Not only does it make things more expensive, but it also leaves the peasants with less money with which to pay me taxes!;;;;;;;;;;;;x
-EVTOPTA_HFP_80020;Such is the price of gold...;;;;;;;;;;;;x
-EVTOPTB_HFP_80020;Clever investments should keep the inflation in check.;;;;;;;;;;;;x
-EVTOPTC_HFP_80020;Have soldiers take back the gold by force!;;;;;;;;;;;;x
+EVTDESC_HFP_80020;近頃の[gold_inflation_province.GetName]への金の流入は、現地価格の急騰を招いている。そのせいで私に税を納める農民たちまで窮乏している！;;;;;;;;;;;;x
+EVTOPTA_HFP_80020;それが黄金の対価か……;;;;;;;;;;;;x
+EVTOPTB_HFP_80020;巧妙な投資は物価上昇を気に掛けるものだ。;;;;;;;;;;;;x
+EVTOPTC_HFP_80020;兵たちに命じて、金を無理やり回収させろ！;;;;;;;;;;;;x
 tr_sahara_1;サハラ交易所;;;;;;;;;;;;x
 tr_sahara_1_desc;旅商人が様々な交易品を売買する小規模な交易所です。;;;;;;;;;;;;x
 tr_sahara_2;サハラ交易市;;;;;;;;;;;;x
