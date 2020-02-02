@@ -6213,9 +6213,9 @@ EVTOPTF_HFP_11019;今後一切、誰かと親しくなったりはすまい。;;
 EVTOPTA_MNM_1214_other;Oh, my darling... Even knowing the future, I could not prevent it.;;;;;;;;;;;;x
 EVTOPTB_MNM_1214_other;Oh, my darling... I must strive to understand the visions better.;;;;;;;;;;;;x
 EVTDESC_HFP_11025_dog;[Root.GetClumsilyElegantly]に前方へ剣を振っているとき、信頼している私の犬は敵の足にかじりつき、戦いは[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで激化していた。そのとき近くの兵士が叫んだ「矢が来ます！[Root.GetLordLady]、気を付けてください！待てよ、なんだあの犬はー」*ビシッ*;;;;;;;;;;;;x
-EVTDESC_HFP_11025_cat;My cat has become a true treasure here [battlefield_location.GetInOn] the [battlefield_location.GetTerrain], acting as an anchoring kindness to any injured soldier. Of course, I was annoyed when I first found that it had gone to sleep in one of my saddle bags and followed me into battle, but now I am really coming around to- *thwack*;;;;;;;;;;;;x
+EVTDESC_HFP_11025_cat;私の猫は傷ついた兵士たちを優しい気持ちにする働きをしていて、この[battlefield_location.GetInOn]の[battlefield_location.GetTerrain]で何よりも大切な宝物となっている。無論、猫が私の鞍袋の上で寝付いているのを最初に見たときや戦場にまで付いていこうとしたときは困ったものだが、今ではそんなことはまったく気にならな…*ビシッ*;;;;;;;;;;;;x
 EVTDESC_HFP_11025_horse;私と愛馬はまさに人馬一体だ。長い間ともに訓練し、敵は我々を恐れるようになった。「見ろ、[Root.GetTitledFirstName]と[Root.GetWarhorseName]だ！」奴らは口々に言いあった。私が眠るとき、[Root.GetWarhorseName]も眠る。だから刃が[Root.GetHerHim]を切り裂いたとき、私も血を流したように感じた...;;;;;;;;;;;;x
-EVTDESC_HFP_11025_owl;遠征にフクロウを連れてくることについてひと悶着あったものの、我々の戦略会議には癒やしをもたらし、敵には気が散るキンキン声を与えたことで抗議の声は止んだ。「攻撃だ！」私は[battlefield_location.GetTerrain]中に届く怒鳴り声をあげ、そしてフクロウはシューっと私の頭上に飛び立った。そのとき、いくつもの矢が目に映った。;;;;;;;;;;;;x
+EVTDESC_HFP_11025_owl;遠征にフクロウを連れてくることについてひと悶着あったものの、我々の戦略会議には癒やしをもたらし、敵には気が散るキンキン声を与えたことで抗議の声は止んだ。「敵襲だ！」私は[battlefield_location.GetThroughOver]の[battlefield_location.GetTerrain]じゅうに届く怒鳴り声をあげ、そしてフクロウはシューっと私の頭上に飛び立った。そのとき、いくつもの矢が目に映った。;;;;;;;;;;;;x
 EVTDESC_HFP_11025_eagle;誰しもが勇壮なワシの姿をした衛兵を側に従えられるとは限らない。[Root.GetSheHe]はこの[battlefield_location.GetTerrain]において、一度ならず私の攻撃に加勢してくれた。敵のところへ飛んでゆき、馬上から[battlefield_location.GetGroundDesc]の上にたたき落としたのだ。頭上で甲高く鳴く声も耳に心地よい。ただ心配があるとすれば――;;;;;;;;;;;;x
 EVTDESC_HFP_11025_falcons;[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで馬に乗り、力がどんどん抜けていくのを感じた。汗が土や血と混じり顔にまみれるなか、敵が矢を構え、私に狙いを定めているのを見た。だがその時、ふと目に入った鳥が急降下し、その騎手の顔をつつき出した！;;;;;;;;;;;;x
 EVTDESC_HFP_11025_fallback;馬で[battlefield_location.GetTerrain]を駆けていると、[enemy_commander.GetEnemySoldierDesc]兵士たちが武器を掲げて我が軍に近づいて来るのが見えた。\n全てが終わると、部下たちは皆死んでいた。膝を[battlefield_location.GetGroundDesc]に沈め、なぜまだ自分がここにいるのか不思議に思った。;;;;;;;;;;;;x
@@ -6229,24 +6229,24 @@ EVTOPTA_HFP_11025_owl;ああ！私の信頼する友が！;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_owl;あなたのフクロウが戦死者のリストに加えられた。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_eagle;矢が！！嘘だ！私の信頼する友よ、どこにいるんだ！？;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_eagle;あなたの鷹は戦死しました。\n;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_falcons;Is that a falcon?! What a strange sight!;;;;;;;;;;;;x
-EVTOPTA_HFP_11025_TT_falcons;The bird probably saved your life.\n;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_falcons;鷹が！？ こんなことがあるわけがない！;;;;;;;;;;;;x
+EVTOPTA_HFP_11025_TT_falcons;その鳥はおそらくあなたの命を救ったのでしょう。\n;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_fallback;私は......何が起こった? 私はどうも場違いなようだな。;;;;;;;;;;;;x
 EVTOPTA_HFP_11025_TT_fallback;あなたはいずれ、この出来事の克服に苦しむことになる...\n;;;;;;;;;;;;x
 EVTOPTB_HFP_11025;敵指揮官はどこだ！？ 私がこの手で奴を殺してやる!;;;;;;;;;;;;x
 EVTOPTB_HFP_11025_TT;あなたが§Y[enemy_commander.GetTitledFirstName]§!を追い駆けて決闘に臨む一方で、配下の兵たちは傷ついたペットを救護します。\n;;;;;;;;;;;;x
 chase_down_enemy_commander_tt;あなたは戦場で、決闘に臨むため§Y[enemy_commander.GetTitledFirstName]§!を追いかける...!\n;;;;;;;;;;;;x
-string_Lightning;Lightning;;;;;;;;;;;;x
-string_Sky;Sky;;;;;;;;;;;;x
-string_Dragon;Dragon;;;;;;;;;;;;x
-string_Arrow;Arrow;;;;;;;;;;;;x
-pet_hunting_eagle;Hunting Eagle;;;;;;;;;;;;x
+string_Lightning;ライトニング;;;;;;;;;;;;x
+string_Sky;スカイ;;;;;;;;;;;;x
+string_Dragon;ドラゴン;;;;;;;;;;;;x
+string_Arrow;アロー;;;;;;;;;;;;x
+pet_hunting_eagle;ハンティング・エッジ;;;;;;;;;;;;x
 pet_hunting_eagle_desc;Whenever this character is out hunting, you can spy a majestic eagle perched at their side, if not scouting the way ahead.;;;;;;;;;;;;x
-string_Faithful;Faithful;;;;;;;;;;;;x
-string_Hunter;Hunter;;;;;;;;;;;;x
-string_Tricky;Tricky;;;;;;;;;;;;x
-string_Lucifer;Lucifer;;;;;;;;;;;;x
-string_Shaytan;Shaytan;;;;;;;;;;;;x
+string_Faithful;フェイスフル;;;;;;;;;;;;x
+string_Hunter;ハンター;;;;;;;;;;;;x
+string_Tricky;トリッキー;;;;;;;;;;;;x
+string_Lucifer;ルシファー;;;;;;;;;;;;x
+string_Shaytan;シャイターン;;;;;;;;;;;;x
 string_Erlik;Erlik;;;;;;;;;;;;x
 string_Velnias;Velnias;;;;;;;;;;;;x
 string_Tuoni;トゥオニ;;;;;;;;;;;;x
@@ -6812,7 +6812,7 @@ random_miracle_01;ある時、聖[saint_person.GetFirstName]は[saint_person.Get
 random_miracle_02;聖[saint_person.GetFirstName]の体は[saint_person.GetSheHe]が亡くなった時と同じ状態のままで、棺は穏やかな花の香りで包まれていると言われています。[saint_person.GetHerHis]の体に起きた不朽体の奇跡こそが、[saint_person.GetHerHis]が天に昇ったことの証です。;;;;;;;;;;;;x
 random_miracle_03;聖[saint_person.GetFirstName]の奇跡的な治癒の物語は数多くあります。[saint_person.GetSheHeCap]は[saint_person.Religion.GetGroupName]の国々を旅して回り、病や怪我に苦しむ人々をまさに死の淵から救ったのです。;;;;;;;;;;;;x
 random_miracle_04;[saint_person.GetFirstName]は預言によって洞察力を得ており、何日後や何ヶ月後、そして何年後かに起こるものごとを見ることができたと言われています。その幻視を通じて、聖[saint_person.GetFirstName]は友や家族が直面するであろう危険を彼らが避けられるよう導いたのです。;;;;;;;;;;;;x
-random_miracle_05;聖[saint_person.GetFirstName]は、あたかも他人の考えを読み取ることができたかのように人々をよく理解したと言われています。その才能にもかかわらず、[saint_person.GetSheHe]はそれを決して悪用することなく、[saint_person.GetHerHis]の前でその才能を祝福する[saint_person.Religion.GetHighGodName]に心から奉仕する者でした。;;;;;;;;;;;;x
+random_miracle_05;聖[saint_person.GetFirstName]は、あたかも他人の考えを読み取ることができたかのように人々をよく理解したと言われています。その才能にもかかわらず、[saint_person.GetSheHe]はそれを決して悪用することなく、[saint_person.GetHerHis]の前でその才能を祝福する[saint_person.Religion.GetHighGodName]に忠実に仕える者でした。;;;;;;;;;;;;x
 random_miracle_06;多くの者が[saint_person.Religion.GetRandomEvilGodName]のもとに仕えていましたが、聖[saint_person.GetFirstName]の面前で彼らはすべて消えてしまいました。[saint_person.GetSheHe]は人々から悪をはぎとり、彼らを[saint_person.Religion.GetHighGodName]の栄光のために生きる正しい道へと連れ戻したのだと言われています。;;;;;;;;;;;;x
 random_miracle_07;多くの[saint_person.Religion.GetHighGodName]のしもべたちが天国から地上に降りたち、聖[saint_person.GetFirstName]と話し合いをしていたという噂もあります。そうした奇跡的な会合の後には[saint_capital.GetName]の辺り一帯で多くの羽根が見つかっていました。皆は[saint_person.GetFirstName]はなんと高潔なお方だろうかと心から思っていたのです。;;;;;;;;;;;;x
 random_miracle_08;噂では、[saint_capital.GetName]で一人の男が溺れていると、聖[saint_person.GetFirstName]が水の上を駆けてその憐れな溺れた男を助け出したそうです。皆が奇跡が起こったのだとわかったのは、男が無事助け出された後のことでした。[saint_person.Religion.GetHighGodName]の言行を忠実にたどることは[saint_person.GetFirstName]と同様に偉大な人にふさわしい行いでした。;;;;;;;;;;;;x
@@ -6840,7 +6840,7 @@ ShortMiracle13;愛の力で地元の水場を祝福したこと;;;;;;;;;;;;x
 ShortMiracle14;ネズミたちと平和的に交渉したこと;;;;;;;;;;;;x
 ShortMiracle15;[saint_person.GetSheHe]の連れていた聡明な犬たちと語りあったこと;;;;;;;;;;;;x
 ShortMiracle16;祈りの最中に大地から浮き上がったこと;;;;;;;;;;;;x
-nick_the_fool_for_christ;佯狂者;;;;;;;;;;;;x
+nick_the_fool_for_christ;[GetJesus]の狂愛者;;;;;;;;;;;;x
 nick_the_healer;癒し手;;;;;;;;;;;;x
 nick_the_unmercenary_healer;廉施者;;;;;;;;;;;;x
 nick_the_myrrh_streaming;没薬の香る者;;;;;;;;;;;;x
@@ -7061,7 +7061,7 @@ EVTDESC_HF_42023_GAME;ほかの出席者たちが盤の準備をしている間�
 EVTDESC_HF_42023_SOCIAL;私は[From.GetTitledFirstName]をドアの前で迎え、[From.GetHerHim]を中へ招き入れた。[From.GetSheHeCap]は大広間を見渡してから頷いてみせ、宴会の規模について満足していることを示した。;;;;;;;;;;;;x
 EVTDESC_HF_42023_SCHOLAR;[From.GetFirstName]は討論会に最後に来た。会話は皆のあいだを縦横無尽に行きかい、話題は何度もあちこちへ飛んだ。;;;;;;;;;;;;x
 EVTDESC_HF_42023_STEWARD;連れだって[Root.Capital.GetName]の通りという通りを歩き回っていると、ありとあらゆる珍しい物が目に入ってくる。我々の周りには仮面をした奇術師たちとそれを楽しむ人々がいる。なによりも私は[From.GetHerHim]と一緒にちょっとした生垣でできた迷路を見ていこうと思った。;;;;;;;;;;;;x
-EVTDESC_HF_42023_TORTURE;私は[From.GetFirstName]が[Root.Capital.GetName]に着くとすぐに、上機嫌で[From.GetSheHe]を地下室へと案内した。私たちはたくさんの[Root.Capital.GetName]の素晴らしい検体を楽しみ、それらを試すよい機会を得た。;;;;;;;;;;;;x
+EVTDESC_HF_42023_TORTURE;私は[From.GetFirstName]が[Root.Capital.GetName]に着くとすぐに、上機嫌で[From.GetSheHe]を地下室へと案内した。私たちはたくさんの[Root.Capital.GetName]の素晴らしい被検体を楽しみ、それらを試すよい機会を得た。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_HUNT;狩りを始めよう!;;;;;;;;;;;;x
 EVTOPTA_HF_42023_DUEL;我々はきっと勝てるさ。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_GAME;[sway_target.GetSheHe]が楽しんでくれればよいが。;;;;;;;;;;;;x
@@ -7102,31 +7102,31 @@ EVTTOOLTIPA_HF_42025_DUEL;私は意を決して立ち向かった。怪我をす
 EVTTOOLTIPA_HF_42025_GAME;あなたは自分を危険な位置に置いた。§Y[From.GetTitledFirstName]§!が自分はなにをするべきかわかっていれば、勝てる可能性は高い。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SOCIAL;私は§Y[From.GetTitledFirstName]§!が今夜楽しくすごせるように、相手を見つける手助けをしてみようと決めた。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SCHOLAR;私は自分の主張を曲げず、論じていくことにした。;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_STEWARD;I decide to try your luck. This has a lower chance of success, but §Y[From.GetFirstName]§! will not know that I have no idea where we are.;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_TORTURE;I decide to see how far I can push a specimen and still keep it alive. ;;;;;;;;;;;;x
-EVTOPTB_HF_42025_HUNT;Let us wait it out, and trap it.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_DUEL;I will tire them out.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_GAME;I will manipulate [From.GetTitledFirstName] into taking most of the losses.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_SOCIAL;Let us just enjoy the evening for what it is worth, no need to stress.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_SCHOLAR;Let us hold back, and disprove their arguments instead.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_STEWARD;Be honest and try to reason our way out together.;;;;;;;;;;;;x
-EVTOPTB_HF_42025_TORTURE;Let us take it slow, and see how long they can withstand.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_HUNT;I wait it out. A lower chance of getting wounded, but also a lower chance of success overall, unless §Y[From.GetTitledFirstName]§! decides to attack it on his own.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_DUEL;I wait for them to tire out. A lower chance of getting wounded, but also a lower chance of success overall.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_GAME;I decide to set §Y[From.GetTitledFirstName]§! in a precarious situation.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_SOCIAL;I decide to just enjoy the evening. ;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_SCHOLAR;I decide to let the other side have the first word.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_STEWARD;I decide to be honest about being lost, and try to reason our way out together.;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_TORTURE;I decide to take it slow, and see how long a specimen can stay sane.;;;;;;;;;;;;x
-EVTDESC_HF_42026_HUNT;We come across the boar we have been looking for, and [From.GetFirstName] rush in and attack the wild animal without a word. The wild animal turn around, and charge at [From.GetFirstName].;;;;;;;;;;;;x
-EVTDESC_HF_42026_DUEL;We finally reach the finale of the tournament, and our last opponents are two large men. [From.GetFirstName] rush in from the start, and stay on the offensive against both of the two men.;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_STEWARD;私は運にかけてみることにした。成功の見込みは薄いが、§Y[From.GetFirstName]§!は、私が自分たちがどこにいるのかわかっていないということに気づくことはないだろうから。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_TORTURE;被検体を生かしつつどれくらい追い込めるか確かめてみることにした。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_HUNT;通り過ぎるまで待って罠を仕掛けよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_DUEL;奴らが疲れ果てるのを待とう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_GAME;[From.GetTitledFirstName]が損害の多い場所に行くように私は動こう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_SOCIAL;そう固くならずに自然な気持ちでこの夜を楽しもう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_SCHOLAR;それより、気を落ち着けて相手の主張に反論しよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_STEWARD;正直に話して、どこから道に迷ったのか一緒に考えよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42025_TORTURE;ゆっくりとやって、奴らがどれだけ耐えられるのか見てやろう。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_HUNT;私は獲物をやり過ごした。怪我をする可能性は小さかったが、§Y[From.GetTitledFirstName]§!が戦ってくれる気にならない限り上手く仕留められる可能性も概ね小さかったのだ。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_DUEL;私は奴らが疲れ果てるまで攻撃をしのいでいた。怪我をする可能性は小さかったが、上手く倒せる可能性もまた小さかったのだ。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_GAME;私は§Y[From.GetTitledFirstName]§!を危険な位置に置くことにした。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_SOCIAL;私はこの夜をただ楽しむことにした。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_SCHOLAR;私は相手側に口火を切らせることにした。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_STEWARD;私は正直に迷ったことを告げて、一緒に出口への道を探すことにした。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_TORTURE;ゆっくり責めて、いつまで被検体が正気を保てるか確かめてみることにした。;;;;;;;;;;;;x
+EVTDESC_HF_42026_HUNT;我々は探していたイノシシと出くわした。[From.GetFirstName]は何も言わずに駆け出してイノシシに攻撃を加えた。イノシシは向きを変えると[From.GetFirstName]に向かって突進してきた。;;;;;;;;;;;;x
+EVTDESC_HF_42026_DUEL;ついに我々は大会の決勝戦まで勝ち上がった。最後の対戦相手は2人の巨漢であった。[From.GetFirstName]は開始のときから駆け出して、2人を相手に攻勢をとり続けた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_GAME;The game is starting to develop into a bloodbath, as the armies are clashing together. [From.GetFirstName] seem to set [From.GetHerselfHimself] in a horrible position, though it leaves an opening for me to take out a lot of our opponents' units.;;;;;;;;;;;;x
 EVTDESC_HF_42026_SOCIAL;I am having fun as the evening turns to night. [From.GetFirstName] aggressively pairs me up with one guest after another, it is almost like [From.GetSheHe] is trying to get me some company for the night.;;;;;;;;;;;;x
 EVTDESC_HF_42026_SCHOLAR;Several hours has passed, and the discussion has reached an impasse when it comes to the nature of the universe. [From.GetFirstName] and I agree, but now we need to find out how to convince everyone else. [From.GetFirstName] starts aggressively making [From.GetHerHis] arguments. ;;;;;;;;;;;;x
 EVTDESC_HF_42026_STEWARD; I start wondering if we have gotten lost as we walk through the hedge-maze, but [From.GetFirstName] confidently keeps up the pace. Is the hedge-maze really that big, or is [From.GetFirstName] terrified of telling me [From.GetSheHe] does not know the way out?;;;;;;;;;;;;x
 EVTDESC_HF_42026_TORTURE;[From.GetFirstName] picks out one of the prisoners, and starts mercilessly torture the individual, pulling it through the rack. If this keeps up for much longer, I am sure the individual will break in no time. ;;;;;;;;;;;;x
-EVTOPTA_HF_42026_HUNT;I will aid [From.GetHerHim]!;;;;;;;;;;;;x
-EVTOPTA_HF_42026_DUEL;We will fight together!;;;;;;;;;;;;x
+EVTOPTA_HF_42026_HUNT;[From.GetHerHim]を助けよう！;;;;;;;;;;;;x
+EVTOPTA_HF_42026_DUEL;我々はともに立ち向かうのだ！;;;;;;;;;;;;x
 EVTOPTA_HF_42026_GAME;No, I will aid [From.GetFirstName] so [From.GetSheHe] can save most of [From.GetHerHis] units.;;;;;;;;;;;;x
 EVTOPTA_HF_42026_SOCIAL;Let us find me someone!;;;;;;;;;;;;x
 EVTOPTA_HF_42026_SCHOLAR;We need to be on the offensive, I will back [From.GetHerHim] up.;;;;;;;;;;;;x
@@ -17925,10 +17925,10 @@ EVTDESC_HFP_42211;As we travel through [current_location.GetName], we come acros
 EVTOPTA_HFP_42211;Let us take part in the festivities!;;;;;;;;;;;;x
 EVTOPTB_HFP_42211;It is not befitting of a true [Root.Religion.GetGroupName].;;;;;;;;;;;;x
 EVTOPTC_HFP_42211;Maybe these harvest festivals are to the real gods?;;;;;;;;;;;;x
-EVTDESC_HFP_42212;I wake up to the voice of what I am sure to be [Root.Religion.GetHighGodName] after a late night with my men. It only lasted for a second, but I am sure I was told to use all my resources to continue our righteous Crusade and help my allies.;;;;;;;;;;;;x
-EVTOPTA_HFP_42212;It must be so!;;;;;;;;;;;;x
-EVTOPTB_HFP_42212;Maybe I should not have had that much to drink.;;;;;;;;;;;;x
-EVTOPTC_HFP_42212;I have been called to join the [decided_holy_order.PrimaryTitle.GetName]!;;;;;;;;;;;;x
+EVTDESC_HFP_42212;私は夜遅くに[Root.Religion.GetHighGodName]とものと思われる声で、兵士たちとともに目を覚ました。その声はわずかな間しか続かなかったが、確かに私にすべての財産を使い、正義の十字軍に参加し続けて友軍を支援するように言っていた。;;;;;;;;;;;;x
+EVTOPTA_HFP_42212;そうせねばならぬ！;;;;;;;;;;;;x
+EVTOPTB_HFP_42212;たぶん酒を飲み過ぎたせいに違いないな。;;;;;;;;;;;;x
+EVTOPTC_HFP_42212;私は[decided_holy_order.PrimaryTitle.GetName]に入るよう召命を受けたのだ！;;;;;;;;;;;;x
 EVTDESC_HFP_42213;As we camp for the night, riders bearing the cross suddenly approach. Led by the pious [holy_order_meeting.GetTitledName], they settle down with us for the night. Just before I am going to sleep, [holy_order_meeting.GetFirstName] asks if I want to stay up and converse with him.;;;;;;;;;;;;x
 EVTOPTA_HFP_42213;A great opportunity for friendship.;;;;;;;;;;;;x
 EVTOPTB_HFP_42213;My apologies, but it is too late for that.;;;;;;;;;;;;x
