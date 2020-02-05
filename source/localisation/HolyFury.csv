@@ -7061,7 +7061,7 @@ EVTDESC_HF_42023_GAME;ほかの出席者たちが盤の準備をしている間�
 EVTDESC_HF_42023_SOCIAL;私は[From.GetTitledFirstName]をドアの前で迎え、[From.GetHerHim]を中へ招き入れた。[From.GetSheHeCap]は大広間を見渡してから頷いてみせ、宴会の規模について満足していることを示した。;;;;;;;;;;;;x
 EVTDESC_HF_42023_SCHOLAR;[From.GetFirstName]は討論会に最後に来た。会話は皆のあいだを縦横無尽に行きかい、話題は何度もあちこちへ飛んだ。;;;;;;;;;;;;x
 EVTDESC_HF_42023_STEWARD;連れだって[Root.Capital.GetName]の通りという通りを歩き回っていると、ありとあらゆる珍しい物が目に入ってくる。我々の周りには仮面をした奇術師たちとそれを楽しむ人々がいる。なによりも私は[From.GetHerHim]と一緒にちょっとした生垣でできた迷路を見ていこうと思った。;;;;;;;;;;;;x
-EVTDESC_HF_42023_TORTURE;私は[From.GetFirstName]が[Root.Capital.GetName]に着くとすぐに、上機嫌で[From.GetSheHe]を地下室へと案内した。私たちはたくさんの[Root.Capital.GetName]の素晴らしい被検体を楽しみ、それらを試すよい機会を得た。;;;;;;;;;;;;x
+EVTDESC_HF_42023_TORTURE;私は[From.GetFirstName]が[Root.Capital.GetName]に着くとすぐに、上機嫌で[From.GetSheHe]を地下室へと案内した。私たちは[Root.Capital.GetName]のたくさんの素晴らしい被検体を楽しみ、それらを試すよい機会を得た。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_HUNT;狩りを始めよう!;;;;;;;;;;;;x
 EVTOPTA_HF_42023_DUEL;我々はきっと勝てるさ。;;;;;;;;;;;;x
 EVTOPTA_HF_42023_GAME;[sway_target.GetSheHe]が楽しんでくれればよいが。;;;;;;;;;;;;x
@@ -11306,7 +11306,7 @@ EVTTITLE_HFP_41045;教会への裏切り者;;;;;;;;;;;;x
 EVTDESC_HFP_41045;卑劣なる[unpledging_actor.GetTitledName]を教皇猊下が憤然と破門したとの知らせを抱えた使者が世界の隅々にまで送られた。[crusade_title.GetName]に対する正当なる戦争に参加した[Root.Religion.GetGroupName]信徒の同胞達を見捨てたことにより教会から追放されたのだ。\n\n[unpledging_actor.GetTitledName]を助けるな、気にかけるな、そして許すな。大義への、更には教会への裏切り者には廃位こそが当然の報いだ。真の[Root.Religion.GetGroupName]信徒は独り異教徒と戦う同胞を見捨てることなどないのだ;;;;;;;;;;;;x
 EVTOPTA_HFP_41045;信仰心のない卑劣な奴め。;;;;;;;;;;;;x
 EVTOPTB_HFP_41045;私のことをなんだと？;;;;;;;;;;;;x
-EVTDESC_HFP_41051;[Root.GetTitledName]よ\n私は貴公がいまだに十字軍への参加を誓約していないことが、気になっている。一人の信仰厚き[Root.Religion.GetGroupName]徒の統治者として、私は貴公が自らの行いを顧みて、[crusade_title.GetName]に対する正義の戦いに馳せ参じることを望み、かつ祈るものである。\n\n署名、\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_HFP_41051;[Root.GetTitledName]よ\n私は貴公がいまだに十字軍への参加を誓約していないことが、気になっている。私は貴公が一人の信仰厚き[Root.Religion.GetGroupName]徒の統治者として、自らの行いを顧みて、[crusade_title.GetName]に対する正義の戦いに馳せ参じることを望み、かつ祈るものである。\n\n署名、\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_HFP_41051;はい、ごもっともでございます猊下。;;;;;;;;;;;;x
 EVTOPTB_HFP_41051;考える時間をいただけないでしょうか。;;;;;;;;;;;;x
 EVTOPTB_HFP_41051_TT;十字軍への参加も支援も行わないと悲惨な結果を生む場合があります;;;;;;;;;;;;x
@@ -11428,7 +11428,7 @@ EVTDESC_HFP_42221;かつては教会のとりでだったアンティオキア�
 EVTOPTA_HFP_42221;いつの日か、アンティオキアは神の都の名に相応しい都市となるだろう。;;;;;;;;;;;;x
 EVTOPTB_HFP_42221;我々が[Root.Religion.GetHighGodName]の都を復活させるのだ！;;;;;;;;;;;;x
 EVTOPTB_HFP_42221_TT;この街を真なる教えの元に取り戻すべく、これを邪教徒より奪取します。;;;;;;;;;;;;x
-EVTDESC_HFP_42222;かつて聖パウロは[Root.Religion.GetHighGodName]の教えを広げるためにキプロスの海岸を渡り歩いただ、今やキプロスは邪教徒の手に落ちて久しい。これを信仰と美徳の地として蘇らせることができればよいのだが。;;;;;;;;;;;;x
+EVTDESC_HFP_42222;かつて聖パウロは[Root.Religion.GetHighGodName]の教えを広げるためにキプロスの海岸を渡り歩いたが、今やキプロスは邪教徒の手に落ちて久しい。これを信仰と美徳の地として蘇らせることができればよいのだが。;;;;;;;;;;;;x
 EVTOPTA_HFP_42222;悲しいかな、この島は失われたのだ…;;;;;;;;;;;;x
 EVTOPTB_HFP_42222;[Root.Religion.GetHighGodName]の栄光がため、我らは戦わん！;;;;;;;;;;;;x
 EVTOPTB_HFP_42222_TT;この街を真なる教えの元に取り戻すべく、これを邪教徒より奪取します。;;;;;;;;;;;;x

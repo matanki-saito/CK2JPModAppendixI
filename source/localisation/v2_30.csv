@@ -534,21 +534,21 @@ EVTTOOLTIP_WoL_352_LOVE;[This.GetFirstName]はウブでロマンチックだと�
 EVTTOOLTIP_WoL_352_LEWD;[This.GetFirstName]は経験豊かで淫らだと賭ける;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_352_POET;[This.GetFirstName]が詩や学識に反応すると賭ける;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_352_BREATH;絶対確実な誘惑の策を使う;;;;;;;;;;;;x
-EVTDESC_WOL_352;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 私たちは数時間雑談して笑っていましたが、言葉が柔らかくなり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
-EVTDESC_WOL_352_DISTANT;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま遠方の客人[From.GetTitledFirstName]に遭遇した。 私たちは数時間雑談して笑っていましたが、言葉が柔らかくなり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
-EVTDESC_WOL_352_HOMO;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 私たちは数時間雑談して笑っていましたが、おかしな気分になってきました。惹かれている？[From.GetManWoman]同士なのに...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
-EVTDESC_WOL_352_CR;私はいつもの夜のおやつのためにキッチンに忍び込み、たまたま[GetFromRelation][From.GetFirstName]に遭遇した。 私たちは数時間雑談して笑っていましたが、おかしな気分になってきました。惹かれている？私の[GetFromRelation]に...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352;私はいつもの夜食のためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 私たちは数時間ほど雑談して笑っていたが、次第に互いの言葉は甘いものになり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_DISTANT;私はいつもの夜食のためにキッチンに忍び込み、たまたま遠方の客人[From.GetTitledFirstName]に遭遇した。 私たちは数時間雑談して笑っていたが、次第に互いの言葉は甘いものになり、手が触れ合った...突然、[From.GetSubjectPronoun]は、私の耳にやさしく囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_HOMO;私はいつもの夜食のためにキッチンに忍び込み、たまたま[From.GetTitledFirstNameNoRegnal]に遭遇した。 数時間ほど雑談して笑っていたが、お互いにおかしな気分になってきた。惹かれている？[From.GetManWoman]同士なのに...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
+EVTDESC_WOL_352_CR;私はいつもの夜食のためにキッチンに忍び込み、たまたま[GetFromRelation][From.GetFirstName]に遭遇した。 私たちは数時間雑談して笑っていたが、お互いにおかしな気分になってきた。惹かれている？私の[GetFromRelation]に...？もう出て行こうかというとき、[From.GetSubjectPronoun]は突然、私の耳にしなやかに囁いた... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;x
 EVTOPTA_WOL_352_POET;なんと才知あふれる詩だろうか！これには抗えない...;;;;;;;;;;;;x
-EVTOPTA_WOL_352_LEWD;なんて汚れた心だろう、[From.GetFirstName]！ それでは、少しだけ罪を犯そう...;;;;;;;;;;;;x
+EVTOPTA_WOL_352_LEWD;なんて淫らなことを言うのか！ それでは、少しだけ罪を犯そう...;;;;;;;;;;;;x
 EVTOPTA_WOL_352_LOVE;なんて甘美な愛の言葉だろう！どうしてこの心が抵抗できるだろうか？;;;;;;;;;;;;x
 EVTOPTA_WOL_352_BREATH;[From.GetPossPronounCap]の熱い吐息で、私は体を雷に打たれたように感じた！;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_306_2;ベッドへ[This.GetFirstName]の後を追う...;;;;;;;;;;;;x
 EVTOPTB_WOL_352_POET;詩？そんな戯言に気をかけるつもりはない！;;;;;;;;;;;;x
-EVTOPTB_WOL_352_LEWD;無礼な！ 私はそんなイヤラシイ言葉が存在することさえ知りませんでした！;;;;;;;;;;;;x
+EVTOPTB_WOL_352_LEWD;無礼な！ 私はそんな卑猥な言葉が存在することさえ知らなかったくらいだ！;;;;;;;;;;;;x
 EVTOPTB_WOL_352_LOVE;愛の告白？なんて子供らしい戯言だこと！;;;;;;;;;;;;x
 EVTOPTB_WOL_352_BREATH;欲望が私を圧倒してくるが、私は屈するわけにはいかない！;;;;;;;;;;;;x
 EVTDESC_WOL_353;[From.GetFirstName]は顔を赤らめて、申し訳なさそうに何事かを口ごもりながら、私のそばから後ずさりをしたかと思うと走り去った。;;;;;;;;;;;;x
-EVTDESC_WOL_353_CR;[From.GetFirstName] は、顔に驚きと嫌悪の色を浮かべ、「いい加減にしてくれ、[Root.GetFirstName]、私はあなたの[GetFromRelation]なんだ！」と叫びながら私のそばから飛び退った。;;;;;;;;;;;;x
+EVTDESC_WOL_353_CR;[From.GetFirstName] は、顔に驚きと嫌悪の色を浮かべ、「いい加減にしてくれ、[Root.GetFirstName]、私はあなたの[GetFromRelation]なのに！」と叫びながら私のそばから飛び退った。;;;;;;;;;;;;x
 EVTDESC_WOL_353_OLD_M;[From.GetFirstName]はショックを受けたように私から距離をとって、「[Root.GetTitledFirstNameNoRegnal]！私の父親でもおかしくない年齢なのに！」と言い放った。さっきまでの笑顔は跡形もなく消えていた。;;;;;;;;;;;;x
 EVTDESC_WOL_353_OLD_F;[From.GetFirstName]はショックを受けたように私から距離をとり、そのまま逃げるように去って行った。去り際に「申し訳ないが、[Root.PrimaryTitle.GetRulerTitle]、私からするとあなたは大分年をとりすぎている」と言い残していった。;;;;;;;;;;;;x
 EVTDESC_WOL_353_YOUNG;[From.GetFirstName]はゆっくりと首を振ると、笑みを浮かべながらゆっくりと私を押しのけた。「ごめんなさい[Root.GetLadLass]、あなたは[From.GetMenWomen]のことをまだよくわかっていないようですね！」;;;;;;;;;;;;x
