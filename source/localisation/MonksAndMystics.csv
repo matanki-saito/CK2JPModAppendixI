@@ -1740,7 +1740,7 @@ EVTDESC_4402_PENANCE;[Root.GetMOGreeting], [Root.GetSocietyRank] [Root.GetFirstN
 EVTDESC_4402_MEDITATION;[Root.GetMOGreeting], [Root.GetSocietyRank] [Root.GetFirstName]\n\n統治者の日常は慌ただしく、十分な内省の時間が取れません。私は、あなたが俗世を離れ、世界における自身の位置を理解することを望みます。自覚こそが自由への第一歩となります、[Root.GetSocietyRank]よ。\n\n[Root.GetMOFarewell],\n(署名), [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
 EVTDESC_4403;今日から、隠遁生活が始まる。私は、[Root.GetCapitalHolding]の中の、質素な一室を選び、そこで来たる数か月の大半を過ごすのだ。剥き出しの壁の中、私は[Root.GetPrayers]し、[Root.Religion.GetScriptureName]を読み、私の人生を見つめなおすのだ。;;;;;;;;;;;;x
 EVTOPTA_MNM_4403_GOD;[Root.GetMOGod]が私の話し相手だ。;;;;;;;;;;;;x
-EVTOPTA_MNM_4403_NOGOD;In solitude there is peace.;;;;;;;;;;;;x
+EVTOPTA_MNM_4403_NOGOD;孤独にこそ平穏があるのだ。;;;;;;;;;;;;x
 monastic_order_penance;苦行を行う;;;;;;;;;;;;x
 monastic_order_penance_desc;§Y[Root.GetTitledFirstName]§! can seclude [Root.GetHerselfHimself] and contemplate their life and sins in order to become a better [Root.GetReligiousPerson].;;;;;;;;;;;;x
 monastic_order_penance_allow_tt;§Y[Root.GetTitledFirstName]§! has not secluded [Root.GetHerselfHimself] to do penance recently.\n;;;;;;;;;;;;x
@@ -2019,14 +2019,14 @@ the_cold_ones_rank_3_female;Koldunya;;;;;;;;;;;;x
 the_cold_ones_rank_3_male;Koldun;;;;;;;;;;;;x
 the_cold_ones_rank_4_female;Vedma;;;;;;;;;;;;x
 the_cold_ones_rank_4_male;Vedun;;;;;;;;;;;;x
-the_cult_of_kali_rank_1_female;Deceiver;;;;;;;;;;;;x
-the_cult_of_kali_rank_1_male;Deceiver;;;;;;;;;;;;x
-the_cult_of_kali_rank_2_female;Jemadar;;;;;;;;;;;;x
-the_cult_of_kali_rank_2_male;Jemadar;;;;;;;;;;;;x
+the_cult_of_kali_rank_1_female;欺瞞者;;;;;;;;;;;;x
+the_cult_of_kali_rank_1_male;欺瞞者;;;;;;;;;;;;x
+the_cult_of_kali_rank_2_female;ジェマダール;;;;;;;;;;;;x
+the_cult_of_kali_rank_2_male;ジェマダール;;;;;;;;;;;;x
 the_cult_of_kali_rank_3_female;アーチャーリヤ;;;;;;;;;;;;x
 the_cult_of_kali_rank_3_male;アーチャーリヤ;;;;;;;;;;;;x
-the_cult_of_kali_rank_4_female;Brahminrakshasa;;;;;;;;;;;;x
-the_cult_of_kali_rank_4_male;Brahminrakshasa;;;;;;;;;;;;x
+the_cult_of_kali_rank_4_female;バラモンラクシャーサ;;;;;;;;;;;;x
+the_cult_of_kali_rank_4_male;バラモンラクシャーサ;;;;;;;;;;;;x
 the_plaguebringers_rank_1_female;Uylak;;;;;;;;;;;;x
 the_plaguebringers_rank_1_male;Uylak;;;;;;;;;;;;x
 the_plaguebringers_rank_2_female;Hortdan;;;;;;;;;;;;x

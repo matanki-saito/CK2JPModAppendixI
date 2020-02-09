@@ -2251,9 +2251,9 @@ EVT_DESC_JD_60004;After [chinese_guest.GetFullName]'s departure I was informed a
 request_to_rank_up_within_society_virtues1;少なくとも1つの§Y美徳§!を持たなければならない\n;;;;;;;;;;;;x
 request_to_rank_up_within_society_virtues2;少なくとも2つの§Y美徳§!を持たなければならない\n;;;;;;;;;;;;x
 request_to_rank_up_within_society_virtues3;少なくとも3つの§Y美徳§!を持たなければならない\n;;;;;;;;;;;;x
-GetSocietyRankUpTooltip2_MOBuddhistJain_Rank1;Cannot be §YCruel§!.\n;;;;;;;;;;;;x
-GetSocietyRankUpTooltip2_MOBuddhistJain_Rank2;Cannot be §YCruel§! or §YCynical§!\n;;;;;;;;;;;;x
-GetSocietyRankUpTooltip2_MOBuddhistJain_Rank3;Cannot be §YCruel§!, §YCynical§! or have any §YVices§!\n;;;;;;;;;;;;x
+GetSocietyRankUpTooltip2_MOBuddhistJain_Rank1;§Y残虐§!であってはならない\n;;;;;;;;;;;;x
+GetSocietyRankUpTooltip2_MOBuddhistJain_Rank2;§Y残虐§!や§Y冷笑的§!であってはならない\n;;;;;;;;;;;;x
+GetSocietyRankUpTooltip2_MOBuddhistJain_Rank3;§Y残虐§!、§Y冷笑的§!、如何なる§Y大罪§!もあってはならない\n;;;;;;;;;;;;x
 EVTDESC20272;To [Root.GetTitledFirstName],\n\nYou are most wise, I shall henceforth continue my [From.SecretReligion.GetName] practices in secret.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA20272;I knew [From.GetSheHe] would see reason!;;;;;;;;;;;;x
 EVTDESC20273;To [Root.GetTitledFirstName],\n\nI will not cower and hide in fear! I shall practice my [From.Religion.GetName] beliefs for all the world to see and people with stronger wills than you will join me in the open.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;;x

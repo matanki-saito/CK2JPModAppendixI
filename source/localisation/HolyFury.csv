@@ -12600,7 +12600,7 @@ tb_great_pillar_hellenic;[GetZeusJupiterName] Column;;;;;;;;;;;;x
 tb_great_pillar_hellenic_desc;地域の原始宗教にとって宗教的に深い意義のある聖なる彫刻柱。;;;;;;;;;;;;x
 tribal_build_great_pillar;大柱の建設;;;;;;;;;;;;x
 tribal_build_great_pillar_desc;首都にシャーマンや供物を集めるための神聖な記念碑の建設を行うことで、§Y[Root.Location.Religion.GetName]§!の§Y道徳的権威§!を高めます。;;;;;;;;;;;;x
-tooltip_province_already_has_great_pillar;No §YGreat Pillar§! exists in §Y[Root.GetName]§!;;;;;;;;;;;;x
+tooltip_province_already_has_great_pillar;§Y[Root.GetName]§!に§Y大柱§!が存在しない;;;;;;;;;;;;x
 tooltip_celebrate_new_great_pillar;§Y[Root.GetName]§!の広場に§Y大柱§!が建設されるでしょう。;;;;;;;;;;;;x
 built_great_pillar;Great Pillars Built;;;;;;;;;;;;x
 destroyed_great_pillar;Great Pillars Destroyed;;;;;;;;;;;;x
@@ -12611,7 +12611,7 @@ recently_destroyed_great_pillar_cooldown_desc;One of the great symbols of the [R
 destroy_great_pillar;Destroy Great Pillar;;;;;;;;;;;;x
 destroy_great_pillar_desc;Destroying this decayed symbol of a dying faith is a necessary step we have to take in order to wash away the old rituals and superstitions.;;;;;;;;;;;;x
 tooltip_celebrate_destroyed_great_pillar;The local §YGreat Pillar§! will be permanently destroyed.;;;;;;;;;;;;x
-tooltip_ruler_recently_had_pillar_destroyed;A §Y[From.Religion.GetName] Great Pillar§! has NOT been recently destroyed.;;;;;;;;;;;;x
+tooltip_ruler_recently_had_pillar_destroyed;§Y[From.Religion.GetName]の大柱§!が最近建設されていない。;;;;;;;;;;;;x
 EVTTITLEHF23470;[Root.PrimaryTitle.GetName]の大柱;;;;;;;;;;;;x
 EVTDESCAHF23470;この壮大な世界樹イルミンスルの建設によって[Root.Religion.GetName]の信仰の火は燃え上がり、荒々しい古き神々に仕える精霊の少しの命を与えられた。すでに[From.GetName]の新たな聖なる記念碑のもとに最初の供物が捧げられた。;;;;;;;;;;;;x
 EVTDESCBHF23470;By the construction of this sacred Ovoo Shrine, the fires of the [Root.Religion.GetName] faith have been stoked, bringing a bit of life to the spirits of our old and wild gods. The first offerings are already being presented at the feet of the new sacred monument of [From.GetName].;;;;;;;;;;;;x
