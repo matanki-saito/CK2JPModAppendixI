@@ -486,15 +486,15 @@ SELECT_ERA_TOOLTIP_DISABLED;§RRequired DLC is not activated§!;;;;;;;;;;;;x
 CLICK_DLC_ICON_TO_VIEW_DLC;§GDLCアイコンをクリックして続きを読む§!;;;;;;;;;;;;x
 RECOMMENDED;推奨;;;;;;;;;;;;x
 HIGHLY_RECOMMENDED;強く推奨;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_PACK_CULTURE;We're recommending this pack as you've selected a character of §Y[Root.Culture.GetName]§! culture.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_PACK_DYNASTY;We're recommending this pack as you've selected a character whose dynasty is represented in this DLC.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_PACK_RELIGION;We're recommending this pack as you've selected a character of §Y[Root.Religion.GetName]§! religion.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_PACK_RULER;We're recommending this pack as you've selected a Patrician character ruling a Republic.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_PACK_RELIGIOUS;We're recommending this pack as you've selected a religious character.;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_PACK_CULTURE;§Y[Root.Culture.GetName]§!文化のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_PACK_DYNASTY;このDLCに象徴される王朝のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_PACK_RELIGION;§Y[Root.Religion.GetName]§!のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_PACK_RULER;共和国を支配する都市貴族のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_PACK_RELIGIOUS;敬虔なキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_EXPANSION;We're recommending this expansion as its gameplay is compatible with all expansions and characters.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_CULTURE;§Y[Root.Culture.GetName]§!のキャラクターとしてプレイするにはこの§RDLCが必要§!です;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_EXPANSION_RELIGION;§Y[Root.Religion.GetName]§!のキャラクターを選択しているため、このDLCを推奨します;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_EXPANSION_CULTURE;We're recommending this expansion as you've selected a character of §Y[Root.Culture.GetName]§! culture.;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_EXPANSION_RELIGION;§Y[Root.Religion.GetName]§!のキャラクターを選択しているため、このDLCを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_EXPANSION_CULTURE;§Y[Root.Culture.GetName]§!文化のキャラクターを選択しているため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_REPUBLIC;This Expansion is §Rrequired§! to play as a Republican character.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_RELIGION;This Expansion is §Rrequired§! to play as a §Y[Root.Religion.GetName]§! character.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_NEIGHBOR;We're recommending this expansion as it will add additional flavor to neighboring regions.;;;;;;;;;;;;x
@@ -565,8 +565,8 @@ DLC_dlc071_RECOMMENDATION_MYSTICS_CATHOLIC_ORTHODOX;The song tracks in §YHymns 
 DLC_dlc007_RECOMMENDATION_REQUIRED;§YThe Sword of Islam§!によってプレイ可能なイスラム教統治者を追加し、イスラム教の新しい個性的なゲームプレイを提供します。\n;;;;;;;;;;;;x
 DLC_dlc011_RECOMMENDATION_LEGASY_OF_ROME_RELIGION;The §YLegacy of Rome§! expansion allows Orthodox rulers to mend the great schism, reuniting the Western and Eastern halves of the church.\n;;;;;;;;;;;;x
 DLC_dlc011_RECOMMENDATION_LEGASY_OF_ROME_CULTURE;DLC『§YLegacy of Rome§!』はビザンツ帝国の濃厚な政治の世界に焦点を当てたものです。古代ローマの領地と栄光をあなたは取り戻しますか？\n;;;;;;;;;;;;x
-DLC_dlc011_RECOMMENDATION_LOR_CULTURE;Retinues are regiments of troops that unlike levies don’t need to be dismissed before declaring war. The §Y[Root.Culture.GetName]§! culture has a unique type of retinue, [Root.GetCultureArmyNamePlural].\n;;;;;;;;;;;;x
-DLC_dlc011_RECOMMENDATION_LOR_CULTURE_UNSPECIFIC;Retinues are regiments of troops that unlike levies don’t need to be dismissed before declaring war. The §Y[Root.Culture.GetName]§! culture has a unique type of retinue.\n;;;;;;;;;;;;x
+DLC_dlc011_RECOMMENDATION_LOR_CULTURE;常備軍は召集軍とは異なり宣戦布告の前に解散する必要のない連隊です。§Y[Root.Culture.GetName]§!文化は固有の常備軍として[Root.GetCultureArmyNamePlural]を保有している。\n;;;;;;;;;;;;x
+DLC_dlc011_RECOMMENDATION_LOR_CULTURE_UNSPECIFIC;常備軍は召集軍とは異なり宣戦布告の前に解散する必要のない連隊です。§Y[Root.Culture.GetName]§!文化は固有の常備軍を保有している。\n;;;;;;;;;;;;x
 DLC_dlc018_RECOMMENDATION_SI_REQUIRED_NAHUATI;With the ahistorical invasion from west, §YSunset Invasion§! makes it possible to play as the Mesoamericans.\n;;;;;;;;;;;;x
 DLC_dlc022_RECOMMENDATION_REASON_REQUIRED;We’re recommending this expansion as you’ve selected a Republican character.;;;;;;;;;;;;x
 DLC_dlc022_RECOMMENDATION_REASON_REPUBLIC;We’re recommending this expansion as you’ve selected a non-nomadic pagan character.;;;;;;;;;;;;x

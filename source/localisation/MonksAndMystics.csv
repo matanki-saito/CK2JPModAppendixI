@@ -1975,7 +1975,7 @@ quest_monastic_order_theology_focus;神学フォーカスを選択;;;;;;;;;;;;x
 quest_monastic_order_theology_focus_desc;Even though a member of [Root.Society.GetName] always keeps their spiritual development in mind, no matter where they go and what they do, there is a time in all of our lives where these matters become even more crucial. It is time for you to focus on theology.;;;;;;;;;;;;x
 quest_monastic_order_theology_focus_tooltip;この任務を完了するには、キャラクター画面で「§Y神学§!」の方針を選択してください。;;;;;;;;;;;;x
 monastic_orders_temple_construction;[Root.GetHouseOfWorship]の建設;;;;;;;;;;;;x
-monastic_orders_temple_construction_desc;To every member of the [Root.Society.GetName], the [Root.GetHouseOfWorship] is like a second home. We come here to study, worship and say our [Root.GetPrayers]. Building a new [Root.GetHouseOfWorship] will offer a safe harbor for the local believers and act as an outpost of the Faith, an outstretched hand to those on the wrong path.;;;;;;;;;;;;x
+monastic_orders_temple_construction_desc;[Root.Society.GetName]の全ての会員にとって[Root.GetHouseOfWorship]は第2の家のようなものだ。学びや礼拝、[Root.GetPrayers]に語り掛けるためにここに集まります。新たな[Root.GetHouseOfWorship]の建設によって地域の信者にとって安住の地となり、邪道の者たちへ教えを広げる信仰の前哨地となります。;;;;;;;;;;;;x
 monastic_orders_temple_construction_tooltip;この任務を完了するためには自分の領国の州に教区を建設してください。;;;;;;;;;;;;x
 devil_worshipers_summon_familiar_desc;As a practitioner of [Root.GetDWDarkMagic], §Y[Root.GetTitledFirstName]§! can summon a familiar of [Root.GetHerHis] choice. This supernatural guardian will grant §Y[Root.GetTitledFirstName]§! its powers by increasing [Root.GetHerHis] attributes.;;;;;;;;;;;;x
 EVTOPTA_MNM_7507;And so, it is done.;;;;;;;;;;;;x

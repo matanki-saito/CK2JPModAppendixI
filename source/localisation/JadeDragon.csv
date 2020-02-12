@@ -1668,7 +1668,7 @@ TAX_VALUE;§Y税額§!;;;;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_AT_WAR;部隊の所有者は戦争中ではない;;;;;;;;;;;;x
 ZEUS_EDUCATOR_DESC;The Educator acts as a teacher and mentor to children. By default, rulers act as Educators to all children at court. However, if there is a Teacher (Honorary Title) assigned, the Teacher will be the default Educator instead. You can also assign a specific character as the Guardian of a child. If a Guardian is assigned, the child goes to live in the same court as the Guardian, and it's not possible to declare war on someone who has a close relative child in their court.;;;;;;;;;;;;x
 china_open;開国;;;;;;;;;;;;x
-china_open_desc;China is currently open to trade and interested in acquiring friends and tributaries within its sphere of influence.;;;;;;;;;;;;x
+china_open_desc;現在、中国は貿易を開放しており、影響力の範囲内で友人や朝貢国を獲得することに関心を持っています。;;;;;;;;;;;;x
 china_isolationist;孤立主義;;;;;;;;;;;;x
 china_isolationist_desc;中国は閉鎖的になり、野蛮な隣人との関わりを殆ど絶っています。皇帝の恩恵を得るアクションや恩賜を求めるアクションは無効になります。新たな朝貢国を受け入れることは恐らくないでしょう。;;;;;;;;;;;;x
 china_expansionist;拡張主義;;;;;;;;;;;;x
@@ -2289,7 +2289,7 @@ EVTOPTB_MNM_6993;So much for the power of [satanists_inductor.GetDWDevil]...;;;;
 EVTDESCB_MNM_6995;It seems that even [satanists_recruiter.GetBestName] can not reach me here in the confines of my cell. It's disappointing, as I was sort of curious to see where our meetings were going... As I attempt to get conformable in my new home I hope that when I am finally free I will see [satanists_recruiter.GetHerHim] again.;;;;;;;;;;;;x
 EVTOPTB_MNM_6995;So much for the power of [satanists_recruiter.GetDWDevil]...;;;;;;;;;;;;x
 title_court_jester_desc;宮廷道化師は、宮廷に絶えず笑いを振りまきます。一方で愚者の代名詞であり、名誉ある称号とは見なされません。;;;;;;;;;;;;x
-monastic_order_education_power_tt;能力: §Y[From.GetMOSaint]の叡智§!\n貴方の地区での教育は能力を伸ばす可能性があり、成人時に悪質な特性を消し、良質なものを得ることもあります。;;;;;;;;;;;;x
+monastic_order_education_power_tt;能力：§Y[From.GetMOSaint]の叡智§!\n貴方の地区での教育は能力を伸ばす可能性があり、成人時に悪質な特性を消し、良質なものを得ることもあります。;;;;;;;;;;;;x
 EVT_DESCB_MNM_4301;今日は[GetMOGod]についてや、[GetMOCode]に従って生きていくうえで心掛けるべきことなどを人々に説教するので、[From.GetFirstName]も連れて行くことにした。[From.GetFirstName]は最後まで集中して聞いていたため、[From.GetSheHe]が[GetMOGod]や[Root.Society.GetName]について様々な価値ある教訓を学んだことを確信した。;;;;;;;;;;;;x
 EVT_DESCC_MNM_4301;今日は[From.GetFirstName]を地方の[GetMOBuilding]に連れて行くことになった。そこで[From.GetSheHe]が[GetMOPenanceMeditation]の兄弟姉妹達に会うと、彼らもこの子に丁寧な挨拶をしてくれた。そして私たちが[GetMOBuilding]を発つとき、[From.GetRootRelation]が「[GetMOFarewell]」と今日出会った者たちに言った。[From.GetHerHis]の[GetMOSaint]へ続くような振る舞いをとても誇らしく思った。;;;;;;;;;;;;x
 EVT_OPTA_MNM_4301;[From.GetSheHeCap]は素晴らしい生徒だ！;;;;;;;;;;;;x
@@ -3836,7 +3836,7 @@ b_dahal_jalal;Dahal Jalal;;;;;;;;;;;;x
 b_ujan;Ujan;;;;;;;;;;;;x
 b_bahaduran;Bahaduran;;;;;;;;;;;;x
 b_kileh_shin;Kileh Shin;;;;;;;;;;;;x
-b_mansurlu;Mansurlu;;;;;;;;;;;;x
+b_mansurlu;マンスルル;;;;;;;;;;;;x
 b_amkaleh;Amkaleh;;;;;;;;;;;;x
 b_kavand;Kavand;;;;;;;;;;;;x
 b_kabgan;Kabgan;;;;;;;;;;;;x
@@ -3902,7 +3902,7 @@ duke_bodpa;トゥポ;;;;;;;;;;;;x
 duke_female_bodpa;トゥモ;;;;;;;;;;;;x
 job_spiritual_female_tangut;女開教師;;;;;;;;;;;;x
 job_spiritual_female_bodpa;女開教師;;;;;;;;;;;;x
-job_spiritual_female_indian_group;Upadhyayani;;;;;;;;;;;;x
+job_spiritual_female_indian_group;庵主;;;;;;;;;;;;x
 emperor_female_bodpa;ツェンモ;;;;;;;;;;;;x
 temple_baron_female_buddhist;住職;;;;;;;;;;;;x
 temple_count_female_buddhist;比丘尼;;;;;;;;;;;;x
@@ -4547,7 +4547,7 @@ EVTOPTD_JD_15017;旅商人、お世辞を言っても何も出ないよ。;;;;;;
 EVTOPTD_JD_15017_TT;あなたは他にすることがあります。\n;;;;;;;;;;;;x
 String_dangerous;危険な;;;;;;;;;;;;x
 String_valuable;貴重な;;;;;;;;;;;;x
-EVTDESC86320;The old man starts telling you that Ka'b ibn Malik reported that the Messenger of Allah, may Allah bless him and grant him peace, said 'Two hungry wolves loose among sheep do not cause as much damage as that caused to a man's deen by his greed for money and reputation.;;;;;;;;;;;;x
+EVTDESC86320;老人はカアブ・イブン・マリクがアッラーの使者からアッラーによって祝福を受け、平穏を与えられることを伝えられた際の言葉について語り始めた「飢えた2匹の狼も羊に囲まれていては大したことはできないように彼の金銭欲や名誉欲も大したことはできないでしょう」;;;;;;;;;;;;x
 uninspired;創造性のない;;;;;;;;;;;;x
 uninspired_desc;この人物は創造的な仕事をする気分ではありません。;;;;;;;;;;;;x
 not_awaiting_your_spouse_tt;[offmap_china.GetFullName]からの配偶者を持っていない\n;;;;;;;;;;;;x

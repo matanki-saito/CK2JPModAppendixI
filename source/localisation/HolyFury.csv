@@ -9488,7 +9488,7 @@ b_louhyny;Louhyny;;;;;;;;;;;;x
 b_vozvyahel;Vozvyahel;;;;;;;;;;;;x
 b_horodnytsia;Horodnytsia;;;;;;;;;;;;x
 b_berdytchiv;Berdytchiv;;;;;;;;;;;;x
-b_baranivka;Baranivka;;;;;;;;;;;;x
+b_baranivka;バラニフカ;;;;;;;;;;;;x
 b_yemilchyne;Yemilchyne;;;;;;;;;;;;x
 b_hrud;Hrud;;;;;;;;;;;;x
 b_medjybij;Medjybij;;;;;;;;;;;;x
@@ -9554,7 +9554,7 @@ b_voin;ヴォイン;;;;;;;;;;;;x
 b_drabiv;Drabiv;;;;;;;;;;;;x
 b_chornobai;Chornobai;;;;;;;;;;;;x
 b_irkliiv;Irkliiv;;;;;;;;;;;;x
-b_bohodukhivka;Bohodukhivka;;;;;;;;;;;;x
+b_bohodukhivka;ボホドゥキフカ;;;;;;;;;;;;x
 b_pishchane;Pishchane;;;;;;;;;;;;x
 b_hradyzk;Hradyzk;;;;;;;;;;;;x
 b_poltava;Poltava;;;;;;;;;;;;x
@@ -9800,7 +9800,7 @@ b_lukhovitsy;Lukhovitsy;;;;;;;;;;;;x
 b_rybnoye;Rybnoye;;;;;;;;;;;;x
 b_novoselki;Novoselki;;;;;;;;;;;;x
 b_turlatovo;Turlatovo;;;;;;;;;;;;x
-b_rostislavl;Rostislavl;;;;;;;;;;;;x
+b_rostislavl;ロスラヴリ;;;;;;;;;;;;x
 b_veniov;Veniov;;;;;;;;;;;;x
 b_kochira;Kochira;;;;;;;;;;;;x
 b_laptevo;Laptevo;;;;;;;;;;;;x
@@ -9860,7 +9860,7 @@ b_ivanovo;Ivanovo;;;;;;;;;;;;x
 b_sereda;Sereda;;;;;;;;;;;;x
 b_yuryev;Yuryev;;;;;;;;;;;;x
 b_godenovo;Godenovo;;;;;;;;;;;;x
-b_gavrilov_posad;Gavrilov Posad;;;;;;;;;;;;x
+b_gavrilov_posad;ガヴリロフ・ポサード;;;;;;;;;;;;x
 b_kolchugino;Kolchugino;;;;;;;;;;;;x
 b_varvarino;Varvarino;;;;;;;;;;;;x
 b_bavleny;Bavleny;;;;;;;;;;;;x
@@ -10065,7 +10065,7 @@ EVTDESC_RoI_117_ALT;[jain.GetName]の教えには裸行派と白衣派の二つ�
 EVTOPTA_RoI_117_ALT;これから私は裸行派だ。;;;;;;;;;;;;x
 EVTOPTB_RoI_117_ALT;これから私は白衣派だ。;;;;;;;;;;;;x
 society_leader_desc;The §YLeader§! of a society is responsible for its integrity and also often manages members of lower ranks. The leader regulates promotions between ranks, handles membership applications and hands out tasks to lower-ranking members. In certain cases there can exist more than one leader, in which case the most senior one is shown above.;;;;;;;;;;;;x
-dharmic_good_trait_power_tt;Power: §Y[GetDharmic] Wisdom§!\nMakes you lose wicked traits and gain pious ones over time.;;;;;;;;;;;;x
+dharmic_good_trait_power_tt;能力：§Y[GetDharmic]の叡智§!\n時間の経過とともに邪悪な特性を失い、敬虔な特性を獲得します。;;;;;;;;;;;;x
 string_Dharmic;ダルマ;;;;;;;;;;;;x
 string_Dharmic_alt;[indian_group.GetGroupName];;;;;;;;;;;;x
 quest_monastic_order_penance_desc;自分自身を[Root.Religion.GetHighGodName]に近づけ、罪を悔い改めるために、人里離れた苦行をしなければなりません。[Root.Religion.GetScriptureName]を読んで、[Root.Religion.GetHighGodName]に祈り、人生とふるまいを見つめなおしてください。あなたはこの間、簡素に暮らして、俗世から遮断されなければなりません。;;;;;;;;;;;;x
@@ -12745,7 +12745,7 @@ nick_the_cowardly;the Cowardly;;;;;;;;;;;;x
 nick_the_squirmy;the Squirmy;;;;;;;;;;;;x
 nick_the_frantic;the Frantic;;;;;;;;;;;;x
 nick_the_spare;the Spare;;;;;;;;;;;;x
-nick_the_dry_throat;Dry-Throat;;;;;;;;;;;;x
+nick_the_dry_throat;渇いた喉;;;;;;;;;;;;x
 nick_the_floor_kisser;the Floor-Kisser;;;;;;;;;;;;x
 nick_the_toothless_wolf;the Toothless Wolf;;;;;;;;;;;;x
 nick_the_rough_hair;Roughhair;;;;;;;;;;;;x
@@ -14139,8 +14139,8 @@ string_WL_flyting_accomplishments_insult_desc_11;[From.GetFirstName] starts mock
 string_WL_flyting_accomplishments_insult_desc_12;[From.GetFirstName] starts teasing me for having always lived under [From.GetHerHis] shadow, content to pasture at the feet of greatness without ever daring to look up.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_13;[From.GetFirstName] starts teasing me for having always lived under [From.GetHerHis] shadow, content to pasture at the feet of greatness, too fearful to ever look up.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_14;[From.GetFirstName] starts teasing me for having always lived under [From.GetHerHis] shadow, weeping at the feet of greatness for having never had the courage to fulfill my dreams of conquest.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_18;[From.GetFirstName] claims that [From.GetSheHe] has scarcely seen a family spawn as many clueless and ugly children as the [Root.GetOnlyDynastyName] line. [From.GetSheHeCap] longs for the days [From.GetSheHe] thought me to be an exception rather than the main example of this truth.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_19;[From.GetFirstName] claims that [From.GetSheHe] has scarcely seen a family spawn as many clueless and ugly children as the [Root.GetOnlyDynastyName] line, and [From.GetSheHe] cannot fathom what humiliating depths of ignominious incompetence may descendants will face, given my present state.;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_18;[From.GetFirstName]は、[Root.GetOnlyDynastyName]程多くの蒙昧で醜悪な家系を知らないと主張した。[From.GetSheHe]は、私がこの主張の例外であることを期待している熱望しているようだ。;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_19;[From.GetFirstName]は、[Root.GetOnlyDynastyName]程多くの蒙昧で醜悪な家系を知らないと主張しており、[From.GetSheHe]には、子孫まで貶めるような下劣な侮辱をされた私の行動すら理解していないようだ。;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_20;[From.GetFirstName] claims that my dynasty has been a descending spiral of honor-less cowards and drooling idiots, of which I am the greatest example yet.;;;;;;;;;;;;x
 TOGGLE_LOOTER_DESC;この部隊を略奪軍に設定すると、他の領主の州や州区からの§Y金§!の略奪が可能になります。ただし対象となった領主は一時的に§R敵§!となり、あなたの軍へ攻撃できるようになります。注意点として、もし領主が囚人であれば、監禁している者の領地を略奪することは出来ません。;;;;;;;;;;;;x
 nick_the_bull;the Bull;;;;;;;;;;;;x
@@ -16175,7 +16175,7 @@ b_ust_ilych;Ust'Ilych;;;;;;;;;;;;x
 b_sevkcha;Sevkcha;;;;;;;;;;;;x
 b_andeg;Andeg;;;;;;;;;;;;x
 b_kuya;Kuya;;;;;;;;;;;;x
-b_makarovo;Makarovo;;;;;;;;;;;;x
+b_makarovo;マカロヴォ;;;;;;;;;;;;x
 b_oksino;Oksino;;;;;;;;;;;;x
 b_pylemets;Pylemets;;;;;;;;;;;;x
 b_labozhskoye;Labozhskoye;;;;;;;;;;;;x
@@ -16657,7 +16657,7 @@ b_bumbag;Bumbag;;;;;;;;;;;;x
 b_myangan_ugalzat;Myangan Ugalzat;;;;;;;;;;;;x
 b_darvi_kharkhiraa;Darvi;;;;;;;;;;;;x
 b_sutay;Sutay;;;;;;;;;;;;x
-b_sangiin;Sangiin;;;;;;;;;;;;x
+b_sangiin;サンギーン;;;;;;;;;;;;x
 b_shuurmak;Shuurmak;;;;;;;;;;;;x
 b_tere_khol;Tere-Khol;;;;;;;;;;;;x
 b_kungurtug;Kungurtug;;;;;;;;;;;;x
@@ -16727,7 +16727,7 @@ b_erdene_burkhan;Erdene;;;;;;;;;;;;x
 b_delgerkhangai;Delgerkhangai;;;;;;;;;;;;x
 b_luus;Luus;;;;;;;;;;;;x
 b_saikhan;Saikhan;;;;;;;;;;;;x
-b_sangiindalai;Sangiindalai;;;;;;;;;;;;x
+b_sangiindalai;サンギンダライ;;;;;;;;;;;;x
 b_tsant;Tsant;;;;;;;;;;;;x
 b_delgertsogt;Delgertsogt;;;;;;;;;;;;x
 b_khuld_delgerkhangai;Khuld;;;;;;;;;;;;x
