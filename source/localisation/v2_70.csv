@@ -1,7 +1,7 @@
 ﻿### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 nick_the_inquisitor;異端審問官;;;;;;;;;;;;x
-nick_the_purifier;浄化;;;;;;;;;;;;x
+nick_the_purifier;浄化者;;;;;;;;;;;;x
 String_man_at_arm;重騎兵;;;;;;;;;;;;x
 String_spahi;スィパーヒー;;;;;;;;;;;;x
 MNM.6668.d;貴方は最近確かに控えめな振る舞いをしていない-大変頻繁にかつ露骨に[Root.Society.GetName]の力を、隠匿すべきという深慮無しに使用したことで、公然と[Root.Religion.GetPriestTitle]に背教者だと非難されることになりました！;;;;;;;;;;;;x

@@ -573,7 +573,7 @@ EVTOPTA_WoL_4141;自分にもワインを渡してくれ！;;;;;;;;;;;;x
 EVTOPTA_WoL_4142;これは[From.GetHerHim]をもっと頻繁に招待しなければ;;;;;;;;;;;;x
 EVTDESC_WoL_4151;大酒盛りで我々は素晴らしい時を過ごせた。同志達にもっと飲酒のペースを遅くするべきだと言われたが、そんなの馬鹿らしい。;;;;;;;;;;;;x
 EVTOPTA_WoL_4151;自分でなんとかできる！;;;;;;;;;;;;x
-EVTDESC_WoL_4152_non_drunkard;[From.GetTitledFirstName] is clearly going overboard with [From.GetHerHis] drinking.;;;;;;;;;;;;x
+EVTDESC_WoL_4152_non_drunkard;[From.GetTitledFirstName]は明らかに酒を飲みすぎている。;;;;;;;;;;;;x
 EVTDESC_WoL_4152_drunkard;[From.GetTitledFirstName]は戦士のように酒を飲んでいる！;;;;;;;;;;;;x
 EVTOPTA_WoL_4152;[From.GetSheHeCap] should take it easier.;;;;;;;;;;;;x
 EVTOPTB_WoL_4152;乾杯！;;;;;;;;;;;;x

@@ -289,8 +289,8 @@ curious_may_become_patient;[From.GetFirstName]が忍耐強くなる機会;;;;;;;
 EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;;x
 EVTDESCB_ZE_13104;I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.;;;;;;;;;;;;x
 EVTDESCC_ZE_13104;[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.;;;;;;;;;;;;x
-EVTOPTA_ZE_13104;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;;x
-EVTOPTB_ZE_13104;But they are fools!;;;;;;;;;;;;x
+EVTOPTA_ZE_13104;[From.GetSheHeCap]は正しい、少し冷静になろう。;;;;;;;;;;;;x
+EVTOPTB_ZE_13104;うるさい！ばーか！ばーか！;;;;;;;;;;;;x
 EVTOPTC_ZE_13104;Is [From.GetSheHe] not interested in the world at all?;;;;;;;;;;;;x
 EVTOPTD_ZE_13104;Too clever for [From.GetHerHim], maybe.;;;;;;;;;;;;x
 EVTDESCA_ZE_13111;成長するにつれて、信仰が真の強さの源であることをますます感じている。;;;;;;;;;;;;x
@@ -1049,7 +1049,7 @@ EVTOPTE_ZE_12104;人のものを読むべきじゃなかったな。;;;;;;;;;;;;
 EVTOPTF_ZE_12104;It's probably a boring letter anyway.;;;;;;;;;;;;x
 EVTOPTG_ZE_12104;I'm glad I found out!;;;;;;;;;;;;x
 EVTOPTH_ZE_12104;I was meant to learn.;;;;;;;;;;;;x
-EVTOPTI_ZE_12104;What a great day.;;;;;;;;;;;;x
+EVTOPTI_ZE_12104;なんて良い日だ。;;;;;;;;;;;;x
 EVTDESCA_ZE_12106;[From.GetFirstName]は行いを正そうとするわたしのやり方に反応しなかった。それどころか[From.GetSheHe]はこちらに疑いの眼差しを向けている。;;;;;;;;;;;;x
 EVTDESCB_ZE_12106;[From.GetFirstName]は、私に背いたことを反省しているようだ。もう二度と同じことをしなければ良いのだが。;;;;;;;;;;;;x
 EVTDESCC_ZE_12106;[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.;;;;;;;;;;;;x
@@ -1058,8 +1058,8 @@ EVTOPTA_ZE_12106;不安だ。;;;;;;;;;;;;x
 EVTOPTB_ZE_12106;この子には見込みがあるな。;;;;;;;;;;;;x
 EVTOPTC_ZE_12106;Maybe I should have dealt with it differently.;;;;;;;;;;;;x
 EVTOPTD_ZE_12106;正しき道への第一歩だ;;;;;;;;;;;;x
-EVTOPTE_ZE_12100_TOOLTIP1;Find something nasty.;;;;;;;;;;;;x
-EVTOPTE_ZE_12100_TOOLTIP2;Find a friend.;;;;;;;;;;;;x
+EVTOPTE_ZE_12100_TOOLTIP1;不快な何かを見つける。;;;;;;;;;;;;x
+EVTOPTE_ZE_12100_TOOLTIP2;友達を見つける。;;;;;;;;;;;;x
 EVTDESCA_ZE_12080;[conscientious_events_char_1.GetFullName]の私室が非常に散らかっているのを見た。書類、本、その他もろもろがそこら中に散乱しているのだ！;;;;;;;;;;;;x
 EVTDESCB_ZE_12080;After supper, me and [conscientious_events_char_2.GetFirstName] were supposed to help do the dishes. But [conscientious_events_char_2.GetFirstName] hid the dirty dishes and wants to go play instead.;;;;;;;;;;;;x
 EVTDESCC_ZE_12080;日が暮れてしまっているが、遊んでいるうちに下ろしたてのベストをどこかに置き忘れてしまったようだ。今戻ってしまったら、だらしない子だと思われてしまう！;;;;;;;;;;;;x

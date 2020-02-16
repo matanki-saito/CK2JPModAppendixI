@@ -1157,7 +1157,7 @@ baptism_sponsor_patriarch;§Y[Root.GetTitledFirstName]§! rules over the §Y[Roo
 baptism_sponsor_tributary;§Y[Root.GetTitledFirstName]§!が§Y[From.GetTitledFirstName]§!の属国である;;;;;;;;;;;;x
 nick_the_submissive;従順なる;;;;;;;;;;;;x
 nick_the_deliverer;the Deliverer;;;;;;;;;;;;x
-nick_the_purified;the Purified;;;;;;;;;;;;x
+nick_the_purified;浄化されし者;;;;;;;;;;;;x
 nick_the_illuminated;the Illuminated;;;;;;;;;;;;x
 nick_the_exalted;the Exalted;;;;;;;;;;;;x
 nick_the_awoken;the Awoken;;;;;;;;;;;;x
@@ -2799,7 +2799,7 @@ EVTDESCFHFP20669;脚には自信はありませんが、間違いなく頑健な
 EVTOPTDHFP20669_ZE;大きいことはいいことだ！;;;;;;;;;;;;x
 EVTDESCGHFP20669;Lack of exercise and frequent snacks are turning young [From.GetFirstName] into a stout young man.;;;;;;;;;;;;x
 EVTDESCHHFP20669;The sedentary lifestyle and frequent snacks are turning young [From.GetFirstName] into a sturdy young woman.;;;;;;;;;;;;x
-EVTDESCIHFP20669;[From.GetTitledFirstName] thinks I should play more often with my friends and eat less if I want to be able to ride when I grow up.;;;;;;;;;;;;x
+EVTDESCIHFP20669;大きくなって馬に乗れるようになりたければ、もっと友人と遊び、食べる量を減らすべきだと[From.GetTitledFirstName]は考えているようだ。;;;;;;;;;;;;x
 EVTOPTEHFP20669;But why?;;;;;;;;;;;;x
 mother_pregnancy_glow;Pregnancy Glow;;;;;;;;;;;;x
 mother_pregnancy_glow_desc;This woman looks positively ravishing.;;;;;;;;;;;;x
@@ -5648,7 +5648,7 @@ ca_culture_ethiopian_2;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
 ca_culture_ethiopian_3;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
 ca_culture_ethiopian_4;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
 ca_culture_group_iberian_1_desc;The agile [iberian.GetGroupName] "jinete" light cavalry is raised here. Inspired by the Moors, these horsemen are skilled at skirmishing and harassment.;;;;;;;;;;;;x
-ca_culture_russian_1_desc;Druzhina retinues train here, well-knit martial fellowships in service of a [russian.GetName] lord.;;;;;;;;;;;;x
+ca_culture_russian_1_desc;ドルジーナの従士はここで訓練を行い、屈強で勇ましい軍団として[russian.GetName]の君主に仕えます。;;;;;;;;;;;;x
 ca_culture_ethiopian_1_desc;Large numbers of [ethiopian.GetName] warriors are drilled here in the effective use of spears and bows.;;;;;;;;;;;;x
 ca_culture_jewish_1;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
 ca_culture_jewish_2;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
@@ -5773,7 +5773,7 @@ harald_fairhair_desc;その手腕と軍をもってしてノルウェー王国�
 arpad_desc;マジャール族のケンデ（聖なる統治者）。カルパティア盆地を征服しにやって来て、ハンガリー人の新しい住処を作り上げた。;;;;;;;;;;;;x
 basil_desc;東ローマ皇帝の中で最も偉大な一人である彼の統治は、栄光、繁栄、芸術そして帝国の力の時代をもたらした。;;;;;;;;;;;;x
 alexios_komnenos_desc;A great emperor who fought both the Seljuk Turks and the Normans. His reforms stopped the imperial decline, restoring much of the former glory.;;;;;;;;;;;;x
-dyre_desc;A legendary Varangian warrior. He ruled over the Kiev area, becoming its first king.;;;;;;;;;;;;x
+dyre_desc;伝説のヴァリャーグ戦士。彼はキエフ地域を支配し、最初の王となった。;;;;;;;;;;;;x
 zvonimir_desc;A peaceful ruler who rose to kingship through skilled diplomacy. His rule saw huge economic and cultural advancements take place in Croatia.;;;;;;;;;;;;x
 brian_boru_desc;アイルランドの崇高な王で伝説の存在。アイルランドの部族の長を戦いの中統一し、島のバイキング支配を終わらせた。;;;;;;;;;;;;x
 songtsen_gampo_desc;いくつかのチベット王国を統一した吐蕃帝国の創始者。仏教をチベットに導入して、チベット文字を作成した人物です。;;;;;;;;;;;;x
@@ -7088,7 +7088,7 @@ EVTDESC_HF_42025_DUEL;私たちは予選をほぼ難なく勝ち上がってい�
 EVTDESC_HF_42025_GAME;ゲームが進展していくと、私と[From.GetFirstName]が組むことになった。私は我々のどちらか1人の持ち駒すべてを、勝つために犠牲にすることができると知っている。[From.GetFirstName]はまだそれに気づいていないようだ。;;;;;;;;;;;;x
 EVTDESC_HF_42025_SOCIAL;何時間か経ったが、[From.GetFirstName]は楽しく過ごしているようだった。きっと[From.GetSheHe]は、今夜私が[From.GetHerHim]に何人かの仲間を紹介したおかげで、より一層楽しい気分になったのではないだろうか。;;;;;;;;;;;;x
 EVTDESC_HF_42025_SCHOLAR;始まりから数時間は経ったが討論は続いている。[From.GetFirstName]と私は同じ側の立場に立って議論を進めてきたが、宇宙の本質についての議論は行き詰まりを見せてきた。[From.GetSheHeCap]は私のほうに目をやり、私が先だって議論の道筋をつけるのを期待してるのは明らかだった。;;;;;;;;;;;;x
-EVTDESC_HF_42025_STEWARD;迷路に入ってから最初のうちは楽しんでいたが、いつからか、我々は迷ってどの道から来たのかも分からなくなってしまった。四つ辻にたどり着いたものの、出口につながる道がどれなのかよく分からない。;;;;;;;;;;;;x
+EVTDESC_HF_42025_STEWARD;迷路に入ってから最初のうちは楽しんでいたが、いつからか我々は迷ってどの道から来たのかも分からなくなってしまった。四つ辻にたどり着いたものの、出口につながる道がどれなのかよく分からない。;;;;;;;;;;;;x
 EVTDESC_HF_42025_TORTURE;We start testing out the different tools we have at hand, and quickly work our way through a couple of the prisoners. They almost look spiffy after we are done with them, and I have to say, we are being quite generous as we leave them mostly intact.;;;;;;;;;;;;x
 EVTOPTA_HF_42025_HUNT;さっさとあいつを仕留めるぞ！;;;;;;;;;;;;x
 EVTOPTA_HF_42025_DUEL;大きい奴ほど倒れた時の怪我もひどいのだ。;;;;;;;;;;;;x
@@ -9129,7 +9129,7 @@ PROV1706;スカーラ;;;;;;;;;;;;x
 d_gotland;ゴットランド;;;;;;;;;;;;x
 d_gotland_adj;ゴトランド;;;;;;;;;;;;x
 c_vista_adj;ヴィスタ;;;;;;;;;;;;x
-c_kinda_adj;Kindan;;;;;;;;;;;;x
+c_kinda_adj;シンダ;;;;;;;;;;;;x
 c_finnveden_adj;Finnvedian;;;;;;;;;;;;x
 c_sevede_adj;Sevedan;;;;;;;;;;;;x
 c_njudung_adj;Njudunger;;;;;;;;;;;;x
@@ -15945,7 +15945,7 @@ b_tengiz_kangly;Tengiz;;;;;;;;;;;;x
 b_karasha;Karasha;;;;;;;;;;;;x
 b_barskhan;Barskhan;;;;;;;;;;;;x
 b_kyzyl_suu;Kyzyl Suu;;;;;;;;;;;;x
-b_kyzyl_tuu;Kyzyl Tuu;;;;;;;;;;;;x
+b_kyzyl_tuu;キジル・トゥー;;;;;;;;;;;;x
 b_shelji;Shelji;;;;;;;;;;;;x
 b_tyup;Tyup;;;;;;;;;;;;x
 b_lipenka;Lipenka;;;;;;;;;;;;x
@@ -16064,7 +16064,7 @@ b_zavarot;Zavarot;;;;;;;;;;;;x
 b_kolguyev;Kolguyev;;;;;;;;;;;;x
 b_soyma;Soyma;;;;;;;;;;;;x
 b_koshma;Kosham;;;;;;;;;;;;x
-b_tobysh;Tobysh;;;;;;;;;;;;x
+b_tobysh;トビシュ;;;;;;;;;;;;x
 b_tsilma;Tsilma;;;;;;;;;;;;x
 b_kozhva;Kozhva;;;;;;;;;;;;x
 b_izhma;Izhma;;;;;;;;;;;;x
@@ -16203,7 +16203,7 @@ b_ilner;Ilner;;;;;;;;;;;;x
 b_hurai;Hurai;;;;;;;;;;;;x
 b_sula_tobysh;Sula;;;;;;;;;;;;x
 b_shchelino;Shchelino;;;;;;;;;;;;x
-b_medvezhka;Medvezhka;;;;;;;;;;;;x
+b_medvezhka;メドヴェジエゴルスク;;;;;;;;;;;;x
 b_kotkino;Kotkino;;;;;;;;;;;;x
 b_khongurey;Khongurey;;;;;;;;;;;;x
 b_velikovisochnoye;Velikovisochnoye;;;;;;;;;;;;x
@@ -16571,7 +16571,7 @@ b_selenge;Selenge;;;;;;;;;;;;x
 b_uda;ウダ;;;;;;;;;;;;x
 b_khilok;Khilok;;;;;;;;;;;;x
 b_chikoi;Chikoi;;;;;;;;;;;;x
-b_tuul;Tuul;;;;;;;;;;;;x
+b_tuul;トゥール;;;;;;;;;;;;x
 b_inya;Inya;;;;;;;;;;;;x
 b_multa;Multa;;;;;;;;;;;;x
 b_tyungur;Tyungur;;;;;;;;;;;;x
@@ -16606,7 +16606,7 @@ b_birikchul;Birikchul;;;;;;;;;;;;x
 b_mutnyy_kuznetsk;Mutnyy;;;;;;;;;;;;x
 b_chernoye_kuznetsk;Chernoye;;;;;;;;;;;;x
 b_sarala_kuznetsk;Sarala;;;;;;;;;;;;x
-b_medvezhka_kuznetsk;Medvezhka;;;;;;;;;;;;x
+b_medvezhka_kuznetsk;メドヴェジエゴルスク;;;;;;;;;;;;x
 b_naryk;Naryk;;;;;;;;;;;;x
 b_belogorsk;Belogorsk;;;;;;;;;;;;x
 b_terekhino;Terekhino;;;;;;;;;;;;x
@@ -16671,7 +16671,7 @@ b_tsagaanchuulut;Tsagaanchuulut;;;;;;;;;;;;x
 b_zag;Zag;;;;;;;;;;;;x
 b_bayanbulag;Bayanbulag;;;;;;;;;;;;x
 b_zegstei;Zegstei;;;;;;;;;;;;x
-b_khotont;Khotont;;;;;;;;;;;;x
+b_khotont;ホトント;;;;;;;;;;;;x
 b_tsenher;Tsenher;;;;;;;;;;;;x
 b_jargalant_suvraga;Jargalant;;;;;;;;;;;;x
 b_khushuut_suvraga;Khushuut;;;;;;;;;;;;x
@@ -17190,7 +17190,7 @@ c_vychegda_adj;Vychegdan;;;;;;;;;;;;x
 c_yolva_adj;Yolvan;;;;;;;;;;;;x
 c_sedyu_adj;セドゥー;;;;;;;;;;;;x
 c_onega_peninsula_adj;Onegan;;;;;;;;;;;;x
-c_tobysh_adj;Tobyshi;;;;;;;;;;;;x
+c_tobysh_adj;トビシ;;;;;;;;;;;;x
 c_talas_adj;Talasi;;;;;;;;;;;;x
 c_ohrid_adj;Ohridian;;;;;;;;;;;;x
 c_hellas_adj;Theban;;;;;;;;;;;;x
@@ -17238,7 +17238,7 @@ c_selenge_adj;Selenger;;;;;;;;;;;;x
 c_uda_adj;Udani;;;;;;;;;;;;x
 c_khilok_adj;Khiloki;;;;;;;;;;;;x
 c_chikoi_adj;Chikoier;;;;;;;;;;;;x
-c_tuul_adj;Tuuli;;;;;;;;;;;;x
+c_tuul_adj;トゥーリ;;;;;;;;;;;;x
 c_ochrid_adj;Ohridienne;;;;;;;;;;;;x
 c_corfu_adj;Corfuer;;;;;;;;;;;;x
 c_saqsin_adj;Saqsini;;;;;;;;;;;;x
