@@ -534,11 +534,11 @@ vice_royalty_duke_female_byzantine;ストラテギティッサ;;;;;;;;;;;;x
 vice_royalty_king_female_byzantine;総督府長官;;;;;;;;;;;;x
 epic_hangover;滅茶苦茶な二日酔い;;;;;;;;;;;;x
 epic_hangover_desc;時には大酒盛りとどんちゃん騒ぎをやり過ぎてしまうこともある。そんな場合はその代償を払わなければならない。;;;;;;;;;;;;x
-EVTDESC_WoL_4000;親愛なる[Root.GetFirstName]へ、\n偶には浮世を忘れて、友人同士で飲み食いする小さな集まりをやるのですが、ぜひ貴方も参加してみませんか？大変盛り上がる場合もあるでしょうから、このために数日間は空けておいて下さい。\n\nかしこ、\n[FromFrom.GetTitledName];;;;;;;;;;;;x
+EVTDESC_WoL_4000;親愛なる[Root.GetFirstName]へ、\n偶には浮世を忘れて、友人同士で飲み食いする小さな集まりをやるのですが、ぜひ貴方も参加してみませんか？大変盛り上がる場合もあるでしょうから、このために数日間は空けておいて下さい。\n\n敬具、\n[FromFrom.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4000;勿論、行きましょう！;;;;;;;;;;;;x
 EVTOPTB_WoL_4000;残念ですが行けないのです。;;;;;;;;;;;;x
 EVTOPTC_WoL_4000;[FromFrom.GetHerHis]のあからさまな退廃はけしからん。[FromFrom.GetHerHim]に直接言っておいてやろう！;;;;;;;;;;;;x
-EVTDESC_WoL_4001;親愛なる[GetFromReverseRelation]殿へ\n\n勿論、貴方の晩餐会に参りましょう。どんちゃん騒ぎに備えて腹を出来るだけ空かして参ります！\n\nかしこ、\n[From.GetTitledName];;;;;;;;;;;;x
+EVTDESC_WoL_4001;親愛なる[GetFromReverseRelation]殿へ\n\n勿論、貴方の晩餐会に参りましょう。どんちゃん騒ぎに備えて腹を出来るだけ空かして参ります！\n\n敬具、\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4001;これは楽しいことになるぞ！;;;;;;;;;;;;x
 EVTDESC_WoL_4002;親愛なる[GetFromReverseRelation]殿へ\n\n残念ですが、今回のお祭り騒ぎには参加できないのです。ですが今回の親切なお誘い、ありがとうございました。\n\nまた次の機会に\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4002;ああ、[From.GetSheHe]は自分がいないとどんなに寂しいか知らないのだ。;;;;;;;;;;;;x
