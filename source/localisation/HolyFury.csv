@@ -6851,23 +6851,23 @@ nick_the_righteous;公正者;;;;;;;;;;;;x
 nick_the_venerable;高徳なる者;;;;;;;;;;;;x
 nick_the_spark_of_god;[Root.Religion.GetHighGodName]の閃光;;;;;;;;;;;;x
 nick_the_right_believing;正信者;;;;;;;;;;;;x
-nick_the_merciful;慈悲深き;;;;;;;;;;;;x
+nick_the_merciful;慈悲深き者;;;;;;;;;;;;x
 nick_the_confessor;告白者;;;;;;;;;;;;x
 nick_the_miracle_worker;奇跡を為す者;;;;;;;;;;;;x
-saintly_impaler_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] love for the pain of others. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-nick_gods_torturer;the Impaler of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
-saintly_hedonist_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] wild parties across the [saint_person.Religion.GetGroupName] realm. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-nick_gods_hedonist;the Hedonist of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
-saintly_cannibal_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] disgusting acts of cannibalism. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-nick_gods_cannibal;the Eater of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
-saintly_lunatic_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] insane and erratic actions throughout [saint_person.GetHerHis] life. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-saintly_drunkard_description;[saint_person.GetFirstName] was known for [saint_person.GetHerHis] love for alcohol. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-nick_gods_drunkard;Drunken Friend of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
-saintly_homosexual_description;[saint_person.GetFirstName] was known as the lover of [Root.GetTitledFirstName]. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-saintly_lustful_description;[saint_person.GetFirstName] was known as the lover of [Root.GetTitledFirstName]. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
+saintly_impaler_description;[saint_person.GetFirstName]は他者の苦痛を大いに好むことで知られていました。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+nick_gods_torturer;[saint_person.Religion.GetHighGodName]の刺貫者;;;;;;;;;;;;x
+saintly_hedonist_description;[saint_person.GetFirstName]は[saint_person.Religion.GetGroupName]の国じゅうで酒池肉林の大宴会を幾度も催したことで知られていました。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+nick_gods_hedonist;[saint_person.Religion.GetHighGodName]の快楽主義者;;;;;;;;;;;;x
+saintly_cannibal_description;[saint_person.GetFirstName]は唾棄すべき人肉嗜食の行いの数々で知られていました。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+nick_gods_cannibal;[saint_person.Religion.GetHighGodName]の嗜食者;;;;;;;;;;;;x
+saintly_lunatic_description;[saint_person.GetFirstName]はその生涯を通じて、狂気に満ちて常軌を逸した行いを幾度もしたことで知られていました。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+saintly_drunkard_description;[saint_person.GetFirstName]は酒を大いに好んだことで知られていました。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+nick_gods_drunkard;[saint_person.Religion.GetHighGodName]の泥酔せる友;;;;;;;;;;;;x
+saintly_homosexual_description;[saint_person.GetFirstName]は[Root.GetTitledFirstName]の恋人であったことで有名でした。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
+saintly_lustful_description;[saint_person.GetFirstName]は[Root.GetTitledFirstName]の恋人であったことで有名でした。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 nick_papal_lover;教皇の愛人;;;;;;;;;;;;x
 saintly_seducer_description;[saint_person.GetFirstName] was known for sleeping [saint_person.GetHerHis] way through the [saint_person.Religion.GetGroupName] realm. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
-nick_gods_seducer;the Lover of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;x
+nick_gods_seducer;[saint_person.Religion.GetHighGodName]の恋人;;;;;;;;;;;;x
 EVTDESC_HF_43400;A message is delivered to you by a [Root.GetMonkOrder]. Your ancestor made an impact on them, and they would like to extend their hand to you in friendship. If you so wish, they will settle some of their monks in [Root.Capital.GetName] to talk to the locals and spread the faithful message of [Root.Religion.GetHighGodName].;;;;;;;;;;;;x
 EVTOPTA_HF_43400;A donation to help them out will be made.;;;;;;;;;;;;x
 EVTOPTB_HF_43400;I will do them one better, and join the monastic order myself.;;;;;;;;;;;;x
@@ -7120,9 +7120,9 @@ EVTTOOLTIPB_HF_42025_STEWARD;私は正直に迷ったことを告げて、一緒
 EVTTOOLTIPB_HF_42025_TORTURE;ゆっくり責めて、いつまで被検体が正気を保てるか確かめてみることにした。;;;;;;;;;;;;x
 EVTDESC_HF_42026_HUNT;我々は探していたイノシシと出くわした。[From.GetFirstName]は何も言わずに駆け出してイノシシに攻撃を加えた。イノシシは向きを変えると[From.GetFirstName]に向かって突進してきた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_DUEL;ついに我々は大会の決勝戦まで勝ち上がった。最後の対戦相手は2人の巨漢であった。[From.GetFirstName]は開始のときから駆け出して、2人を相手に攻勢をとり続けた。;;;;;;;;;;;;x
-EVTDESC_HF_42026_GAME;The game is starting to develop into a bloodbath, as the armies are clashing together. [From.GetFirstName] seem to set [From.GetHerselfHimself] in a horrible position, though it leaves an opening for me to take out a lot of our opponents' units.;;;;;;;;;;;;x
-EVTDESC_HF_42026_SOCIAL;夜も更けていくにつれ、私はこの集まりを楽しんでいた。[From.GetFirstName]は、私を次から次へと積極的に他の客たちと引き合わせてくれたが、これは私が今夜うまく仲間を作れるようにという[From.GetSheHe]の計らいなのだろう。;;;;;;;;;;;;x
-EVTDESC_HF_42026_SCHOLAR;Several hours has passed, and the discussion has reached an impasse when it comes to the nature of the universe. [From.GetFirstName] and I agree, but now we need to find out how to convince everyone else. [From.GetFirstName] starts aggressively making [From.GetHerHis] arguments. ;;;;;;;;;;;;x
+EVTDESC_HF_42026_GAME;両軍が衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。序盤に私が敵の駒をかなり倒していたとはいえ、[From.GetFirstName]は自軍を危険な場所に配置した。;;;;;;;;;;;;x
+EVTDESC_HF_42026_SOCIAL;夜が更けていくにしたがい、私はこの集まりを楽しんでいた。[From.GetFirstName]は、私を次から次へと積極的に他の客たちと引き合わせてくれたが、これは私が今夜うまく仲間を作れるようにという[From.GetSheHe]の計らいだったのだろう。;;;;;;;;;;;;x
+EVTDESC_HF_42026_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は積極的に[From.GetHerHis]の自説を述べ始めた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_STEWARD; I start wondering if we have gotten lost as we walk through the hedge-maze, but [From.GetFirstName] confidently keeps up the pace. Is the hedge-maze really that big, or is [From.GetFirstName] terrified of telling me [From.GetSheHe] does not know the way out?;;;;;;;;;;;;x
 EVTDESC_HF_42026_TORTURE;[From.GetFirstName] picks out one of the prisoners, and starts mercilessly torture the individual, pulling it through the rack. If this keeps up for much longer, I am sure the individual will break in no time. ;;;;;;;;;;;;x
 EVTOPTA_HF_42026_HUNT;[From.GetHerHim]を助けよう！;;;;;;;;;;;;x
