@@ -2916,7 +2916,7 @@ mother_dark_rest_desc;According to tradition, spending long periods of time rest
 mother_chatting;冗長;;;;;;;;;;;;x
 mother_chatting_desc;妊娠のせいで、彼女は普段よりもはるかにおしゃべりで気が散っている。;;;;;;;;;;;;x
 mother_popular;Friendly Host;;;;;;;;;;;;x
-mother_popular_desc;This woman's cheerful and welcoming attitude has earned her the trust and friendship of many in her court.;;;;;;;;;;;;x
+mother_popular_desc;この女性の明るく歓迎的な態度は、宮廷の多くの人々の信頼と友情を彼女にもたらした。;;;;;;;;;;;;x
 mother_fertility_festival_1;豊作を願う儀式;;;;;;;;;;;;x
 mother_fertility_festival_1_desc;この女性が妊娠している間守護してくれるよう、適切な供物が[Root.GetFertilityGoddess]に捧げられました。;;;;;;;;;;;;x
 mother_fertility_festival_2;収穫の女王;;;;;;;;;;;;x

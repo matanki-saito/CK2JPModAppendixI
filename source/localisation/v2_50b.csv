@@ -1144,10 +1144,10 @@ EVTOPTC_ZE_12096;臭い！;;;;;;;;;;;;x
 EVTOPTD_ZE_12096;ああ、失くしたのかと思ったよ。;;;;;;;;;;;;x
 EVTOPTE_ZE_12096;どうしようもない。;;;;;;;;;;;;x
 EVTOPTF_ZE_12096;Peace at last.;;;;;;;;;;;;x
-EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName] is so kind to me. And [idolizer_events_char_1.GetSheHe] seems to know so much about everything.;;;;;;;;;;;;x
+EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName]はとても親切にしてくれる。それに[idolizer_events_char_1.GetSheHe]は何でもよく知っているようだ。;;;;;;;;;;;;x
 EVTDESCB_ZE_12110;Spending time with [idolizer_events_char_2.GetFirstName] is great. We get along so well. Even when we do chores together time goes by so fast.;;;;;;;;;;;;x
 EVTDESCC_ZE_12110;しばらくの間[Root.Religion.GetPriestTitle]とともに祈りを捧げた。そして、寺院にいた他の何人かの人々は帰る準備をしている。;;;;;;;;;;;;x
-EVTOPTA_ZE_12110;I'll write [idolizer_events_char_1.GetHerHim] a song!;;;;;;;;;;;;x
+EVTOPTA_ZE_12110;[idolizer_events_char_1.GetHerHim]に歌を書いてあげよう！;;;;;;;;;;;;x
 EVTOPTB_ZE_12110;I should tell the courtiers that I like it here.;;;;;;;;;;;;x
 EVTOPTC_ZE_12110;Everything is better when [idolizer_events_char_2.GetSheHe] is around.;;;;;;;;;;;;x
 EVTOPTD_ZE_12110;I will stay friends with [idolizer_events_char_2.GetHerHim] forever.;;;;;;;;;;;;x
@@ -1214,14 +1214,14 @@ EVTDESCB_ZE_12074;[From.GetFirstName] was not happy that I ran away from [From.G
 EVTDESCC_ZE_12074;正体を確認する前に、男はドアを走り抜けていいた。彼は一度も振り返ることはなかった。;;;;;;;;;;;;x
 EVTDESCD_ZE_12074;[From.GetFirstName]は私を見つけた時、ギョッとしたようだった。警備兵がやってくるとテーブルの下に隠れていた男は連れ去られていった。彼は悪い男であり、見知らぬ人のそばにいてはならないと皆はそういった。;;;;;;;;;;;;x
 EVTDESCE_ZE_12074;We had some time to play before we finished all of the work.;;;;;;;;;;;;x
-EVTDESCF_ZE_12074;She was not ticklish, and now she is telling everybody what a hassle I am to have around.;;;;;;;;;;;;x
+EVTDESCF_ZE_12074;彼女はくすぐったがってはくれなかった。それどころか、私が周りにいることがどんなに面倒かを触れ回るようになってしまった。;;;;;;;;;;;;x
 EVTOPTA_ZE_12074;[From.GetSheHeCap]はとっても速いね!!;;;;;;;;;;;;x
 EVTOPTB_ZE_12074;[From.GetFirstName]はずるをしている;;;;;;;;;;;;x
 EVTOPTC_ZE_12074;Everyone here is so boring.;;;;;;;;;;;;x
 EVTOPTD_ZE_12074;楽勝だ。;;;;;;;;;;;;x
 EVTOPTE_ZE_12074;あれは誰だったのかなぁ。;;;;;;;;;;;;x
 EVTOPTF_ZE_12074;Nothing has to be boring.;;;;;;;;;;;;x
-EVTOPTG_ZE_12074;She is stupid.;;;;;;;;;;;;x
+EVTOPTG_ZE_12074;彼女は愚かな人だ。;;;;;;;;;;;;x
 EVTDESCA_ZE_12076;[From.GetFirstName]は悩みもなく、いつものんきそうだ。;;;;;;;;;;;;x
 EVTDESCB_ZE_12076;[From.GetFirstName] was a little bit let down that I caught up with [From.GetHerHim] and even called me a cheater. Not always winning is a good thing for children to learn.;;;;;;;;;;;;x
 EVTDESCC_ZE_12076;I heard noises in the middle of the night and when I got up to check on [From.GetFirstName] I had to call out several times. Then [From.GetSheHe] finally answered and I found [From.GetHerHim] under the dining table with a burglar. The guards made quick work of the burglar.;;;;;;;;;;;;x
@@ -1336,7 +1336,7 @@ EVTOPTA_ZE_12044;[From.GetSheHeCap]はイジワルだ！;;;;;;;;;;;;x
 EVTOPTB_ZE_12044;だれかがなんとかするよ;;;;;;;;;;;;x
 EVTOPTC_ZE_12044;Come, or I'll say it was your idea.;;;;;;;;;;;;x
 EVTOPTD_ZE_12044;You're right.;;;;;;;;;;;;x
-EVTOPTE_ZE_12044;They will tell stories of today.;;;;;;;;;;;;x
+EVTOPTE_ZE_12044;みんな今日のことを噂するだろうな。;;;;;;;;;;;;x
 EVTOPTF_ZE_12044;やってはみたよ。;;;;;;;;;;;;x
 EVTDESCA_ZE_12046;[From.GetFirstName]は、私は当てにならないという意味に受け取った。[From.GetSheHeCap]は[From.GetHerHis]の舌を私に向かって出した。;;;;;;;;;;;;x
 EVTDESCB_ZE_12046;[From.GetFirstName] says [From.GetSheHe] will get someone else to help [From.GetHerHim].;;;;;;;;;;;;x

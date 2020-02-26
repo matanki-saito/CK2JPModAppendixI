@@ -2961,7 +2961,7 @@ EVTOPTA_MNM_3934;It felt good to fight in the name of [Root.TrueReligion.GetHigh
 EVTOPTB_MNM_3934;[Root.TrueReligion.GetHighGodName] can prove strength by healing my wounds instead...;;;;;;;;;;;;x
 bruised_knuckles;Bruised Knuckles;;;;;;;;;;;;x
 mediator;仲介者;;;;;;;;;;;;x
-ACCEPT_SECRETLY_WORSHIP_OLD_RELIGION;Accept, but secretly worship [Root.Religion.GetHighGodName];;;;;;;;;;;;x
+ACCEPT_SECRETLY_WORSHIP_OLD_RELIGION;受け入れるが、秘密裏に[Root.Religion.GetHighGodName]を信仰する。;;;;;;;;;;;;x
 EVTDESC_MNM_3949;I feel the [old_religion.Religion.GetName] way of life calling to me still. My [demander.GetLordLady]'s demand for me to abandon my beliefs and never enter my [old_religion.GetHouseOfWorship] again only makes the urge stronger. I find no truth in the [demander.Religion.GetName] faith and truly doubt [demander.GetHerHis] [demander.GetHouseOfWorship] will ever be a place for me.;;;;;;;;;;;;x
 EVTOPTA_MNM_3949;I will stay a true [old_religion.Religion.GetName], even if I have to do so in secret.;;;;;;;;;;;;x
 EVTOPTB_MNM_3949;I must purge my mind of these thoughts and fully embrace [Root.Religion.GetHighGodName].;;;;;;;;;;;;x
