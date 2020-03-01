@@ -6866,12 +6866,12 @@ nick_gods_drunkard;[saint_person.Religion.GetHighGodName]の泥酔せる友;;;;;
 saintly_homosexual_description;[saint_person.GetFirstName]は[Root.GetTitledFirstName]の恋人であったことで有名でした。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 saintly_lustful_description;[saint_person.GetFirstName]は[Root.GetTitledFirstName]の恋人であったことで有名でした。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 nick_papal_lover;教皇の愛人;;;;;;;;;;;;x
-saintly_seducer_description;[saint_person.GetFirstName] was known for sleeping [saint_person.GetHerHis] way through the [saint_person.Religion.GetGroupName] realm. Impiously canonized by the wicked [Root.GetTitledName].;;;;;;;;;;;;x
+saintly_seducer_description;[saint_person.GetFirstName]は[saint_person.Religion.GetGroupName]の領国じゅうで、眠りこけていたことで知られています。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 nick_gods_seducer;[saint_person.Religion.GetHighGodName]の恋人;;;;;;;;;;;;x
 EVTDESC_HF_43400;A message is delivered to you by a [Root.GetMonkOrder]. Your ancestor made an impact on them, and they would like to extend their hand to you in friendship. If you so wish, they will settle some of their monks in [Root.Capital.GetName] to talk to the locals and spread the faithful message of [Root.Religion.GetHighGodName].;;;;;;;;;;;;x
-EVTOPTA_HF_43400;A donation to help them out will be made.;;;;;;;;;;;;x
-EVTOPTB_HF_43400;I will do them one better, and join the monastic order myself.;;;;;;;;;;;;x
-EVTOPTC_HF_43400;All right, I wish them luck.;;;;;;;;;;;;x
+EVTOPTA_HF_43400;彼らの助けになるような寄付をしよう。;;;;;;;;;;;;x
+EVTOPTB_HF_43400;もっとよい方法がある。私自身がこの修道会に入るのだ。;;;;;;;;;;;;x
+EVTOPTC_HF_43400;よくわかった。彼らの幸運を祈ろう。;;;;;;;;;;;;x
 monk_society_help;Monks Helping Out;;;;;;;;;;;;x
 string_getmonk_benedictine;Benedictine monk;;;;;;;;;;;;x
 string_getmonk_orthodox;monk from the Community of Saint Basil;;;;;;;;;;;;x
