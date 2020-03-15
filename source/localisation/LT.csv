@@ -1597,7 +1597,7 @@ EVTOPTA_MNM_6205_B;[Root.Religion.GetHighGodNameCap]を讃えよ！;;;;;;;;;;;;x
 EVTDESC100550_B;The [Root.Religion.GetName] [Root.Religion.GetPriestTitle]s are constantly pestering me about religion and [Root.Religion.GetRandomGodName]. No matter what I do, promise to pray more or read the [Root.Religion.GetScriptureName] more thoroughly, they won't leave me alone!;;;;;;;;;;;;x
 EVTOPTC100550;[Root.Religion.GetHighGodNameCap], help me be a better [Root.GetManWoman]!;;;;;;;;;;;;x
 EVTDESC_MNM_6021_c;Last night I approached [From.GetTitledFirstName] during a feast, intending to figure out whether [From.GetSheHe] might be persuaded to convert to the true faith. Unfortunately, as soon I steered the conversation towards the topics of the [Root.Religion.GetRandomGodName] and the [Root.Religion.GetScriptureName], the narrow-minded [From.GetManWoman] became quite disagreeable...;;;;;;;;;;;;x
-EVTDESC_MNM_6024_B;We are quiet for a moment, both seemingly contemplating these devoted souls. Then [From.GetFirstName] looks up at me, a curious intensity in [From.GetHerHis] gaze. "That is not an impossible wish, [Root.GetFirstName]. Are you ready to kill and, if They will it, get killed to defend the words of [Root.Religion.GetRandomGodName] and the [Root.Religion.GetScriptureName]?";;;;;;;;;;;;x
+EVTDESC_MNM_6024_B;少しの沈黙の間、私たちは敬虔な魂について思考を巡らす。[From.GetFirstName]は真剣な眼差しで私に向き直った。「それは不可能な願いではないかもしれません、[Root.GetFirstName]。[Root.Religion.GetRandomGodName]と[Root.Religion.GetScriptureName]の言葉を彼らを殺すことで守れるならば、殺す覚悟はありますか？」;;;;;;;;;;;;x
 EVTDESC_MNM_6027_B;"I do, [Root.GetFirstName]," says [From.GetTitledFirstName] with a solemn, almost ceremonial, voice. "There is an Order devoted to [Root.Religion.GetHighGodNameCap]. One that defends those true of faith and bring vengeance to their persecutors. The Assassins are always in need of champions. Think it over, and someone might reach out...";;;;;;;;;;;;x
 EVTDESC_MNM_6202_PERSECUTED_SHIITES;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nFor far too long, the gentle people of [shiite_province.GetName] has suffered under the cruel rule of [assassins_target.GetTitledFirstName]. It is your sacred duty to end [assassins_target.GetHerHim] and liberate our people. Turn [assassins_target.GetHerHim] into an example to fill our enemies' hearts with dread.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_6028_B;[Root.Religion.GetHighGodNameCap]に栄光あれ！;;;;;;;;;;;;x
@@ -1748,7 +1748,7 @@ b_naucratis_egypt;Naucratis;;;;;;;;;;;;x
 b_shatnuf;Shatnuf;;;;;;;;;;;;x
 b_nikiou;Nikiou;;;;;;;;;;;;x
 b_minya;Minya;;;;;;;;;;;;x
-b_wadi_el_rayan;Wadi el Rayan;;;;;;;;;;;;x
+b_wadi_el_rayan;ワーディ・アッ・ラーヤン;;;;;;;;;;;;x
 b_ahnas;Ahnas;;;;;;;;;;;;x
 b_bahnasa;Bahnasa;;;;;;;;;;;;x
 b_heracleus;Heracleus;;;;;;;;;;;;x

@@ -192,7 +192,7 @@ LANDING_HEADER_DLC030;Europa Universalis IV Converter;;;;;;;;;;;;x
 LANDING_HEADER_DLC031;Customization Pack;;;;;;;;;;;;x
 LANDING_HEADER_DLC032;『Sons of Abraham』 - DLC;;;;;;;;;;;;x
 LANDING_HEADER_DLC033;Military Orders Unit Pack;;;;;;;;;;;;x
-LANDING_HEADER_DLC034;Warriors of Faith Unit Pack;;;;;;;;;;;;x
+LANDING_HEADER_DLC034;『Warriors of Faith Unit Pack』;;;;;;;;;;;;x
 LANDING_HEADER_DLC035;Hymns of Abraham;;;;;;;;;;;;x
 LANDING_HEADER_DLC036;Songs of Yuletide;;;;;;;;;;;;x
 LANDING_HEADER_DLC037;Saxon Unit Pack;;;;;;;;;;;;x
@@ -374,7 +374,7 @@ DLC_INTERESTING_CHAR_kara_khitai_DESC;"Zhilugu's reign was plagued by numerous r
 DLC_INTERESTING_CHAR_kaiser_heinrich_DESC;"Heinrich IV is considered to be one of the most influential and important figures of the 11th century. One of the most famous events in his reign was the Investiture Controversy with the Papacy which made him unpopular with the church. He was excommunicated five times by three different popes."\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_william_the_conqueror_DESC;"William I, known as William the Conqueror or William the Bastard was the first Norman King of England. He was the illegitimate son of Robert I, Duke of Normandy. After a long struggle to establish his power, he secured his hold on Normandy in 1060, and he launched the Norman conquest of England."\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_philippe_DESC;"Philippe I, nicknamed the Amorous, was King of the Franks from 1060 until his death. He was excommunicated in 1095 after marrying another woman while already married. A significant portion of his reign was spent on his power-hungry vassals, putting down their frequent revolts."\n;;;;;;;;;;;;x
-DLC_INTERESTING_CHAR_boleslaw_DESC;"King Boleslaw II of Poland had many nicknames, 'the Generous' and 'the Bold' are two examples. Boleslaw II is considered to be one of the most capable Piast rulers as he was the first Polish monarch to produce his coinage in quantity high enough to replace the foreign coins."\n;;;;;;;;;;;;x
+DLC_INTERESTING_CHAR_boleslaw_DESC;「ポーランドのボレスワフ2世には多くの異名がある。『冷酷王』や『大胆王』が有名だろう。ボレスワフ2世は外国の硬貨を排除するに十分な量の硬貨を生産した最も有能なピアスト朝支配者の一人でしょう」\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_alp_arslan_DESC;"Alp Arslan is the nickname, meaning Heroic Lion in Turkish, given to Muhammad bin Dawud Chaghri for his military genius and awe-inspiring deeds. He famously humiliated Emperor Romanos IV by releasing him after routing the Byzantine's army and capturing the emperor as a prisoner."\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_gudrod_DESC;"Gudrød may have been a son or nephew of the King of Dublin. Little is known about him until he successfully took the island of Man from Fingal in 1079. Eventually, Gudrød was ousted from Dublin and fled to Islay, where he died in the plague of 1095."\n;;;;;;;;;;;;x
 DLC_INTERESTING_CHAR_baudouin_DESC;"Baudouin IV, The Leper King who reigned as King of Jerusalem. The first signs that Baudouin was sick was that Baudouin felt no pain. Though he suffered from leprosy, he was able to maintain himself as king and delayed Saladin's campaigns in the Holy Land until his death."\n;;;;;;;;;;;;x
@@ -399,12 +399,12 @@ ERA_CHAR_NAME_476500_DLC;スルタン オルハン・オスマン;;;;;;;;;;;;x
 ERA_CHAR_NAME_1742;バシレウス・アレクシオス;;;;;;;;;;;;x
 ERA_CHAR_NAME_215674;バシレウス・テオドロス;;;;;;;;;;;;x
 ERA_CHAR_NAME_223023;バシレウス・イオアンニス;;;;;;;;;;;;x
-ERA_CHAR_NAME_163111;King Ivar the Boneless;;;;;;;;;;;;x
+ERA_CHAR_NAME_163111;骨無しのイーヴァル;;;;;;;;;;;;x
 ERA_CHAR_NAME_145655;King Dawit of Axum;;;;;;;;;;;;x
 ERA_CHAR_NAME_74025;Khagan Manasseh II;;;;;;;;;;;;x
 ERA_CHAR_NAME_20289;Count Werner of Basel;;;;;;;;;;;;x
 ERA_CHAR_NAME_188912;Kara-Khitai Yelü-Zhilugu;;;;;;;;;;;;x
-ERA_CHAR_NAME_762;King Boleslaw the Bold;;;;;;;;;;;;x
+ERA_CHAR_NAME_762;『大胆王』ボレスワフ;;;;;;;;;;;;x
 ERA_CHAR_NAME_73683;スルタン ムハンマド;;;;;;;;;;;;x
 ERA_CHAR_NAME_213601;Patrician Enrico of Dandolo;;;;;;;;;;;;x
 ERA_CHAR_NAME_189029;Thakur Vijayabahu;;;;;;;;;;;;x
@@ -417,8 +417,8 @@ ERA_CHAR_NAME_71157;Doge Oberto;;;;;;;;;;;;x
 ERA_CHAR_NAME_74656;Maharaja Singhana II;;;;;;;;;;;;x
 ERA_CHAR_NAME_167219;Mayor Heinrich of the Hansa;;;;;;;;;;;;x
 ERA_CHAR_NAME_194282;Mayor Gunnar of Visby;;;;;;;;;;;;x
-ERA_CHAR_NAME_459560;Alfonso II 'the Fat';;;;;;;;;;;;x
-ERA_CHAR_NAME_109500;King Garcia of Galicia;;;;;;;;;;;;x
+ERA_CHAR_NAME_459560;『肥満王』アルフォンソ2世;;;;;;;;;;;;x
+ERA_CHAR_NAME_109500;ガリシアのガルーシア王;;;;;;;;;;;;x
 ERA_CHAR_NAME_204500;King Henry of England;;;;;;;;;;;;x
 ERA_CHAR_NAME_223523;King Baudouin IV of Jerusalem;;;;;;;;;;;;x
 ERA_CHAR_NAME_188628;Satrap Jimofuta of Zabulistan;;;;;;;;;;;;x
@@ -435,8 +435,8 @@ ERA_CHAR_NAME_LONG_194282;Grand Mayor Gunnar of Visby;;;;;;;;;;;;x
 ERA_CHAR_NAME_LONG_3504;Khagan Akhad Moshka of Bolghar;;;;;;;;;;;;x
 DLC_dlc001_EXAMPLE_IMAGE_1_TOOLTIP;King Philippe of France \nDynasty: Capet \nDate: 1066 AD;;;;;;;;;;;;x
 DLC_dlc001_EXAMPLE_IMAGE_1_TOOLTIP_DELAYED;"Philippe I, nicknamed the Amorous, was King of the Franks from 1060 until his death. After marrying another woman while already married, the pope excommunicated him in 1095. A significant portion of his reign was spent on his power-hungry vassals, putting down their frequent revolts.";;;;;;;;;;;;x
-DLC_dlc001_EXAMPLE_IMAGE_2_TOOLTIP;King Boleslaw the Bold \nDynasty: Piast \nDate: 1066 AD;;;;;;;;;;;;x
-DLC_dlc001_EXAMPLE_IMAGE_2_TOOLTIP_DELAYED;"King Boleslaw II of Poland had many nicknames, 'the Generous' and 'the Bold' are two examples. Boleslaw II is considered to be one of the most capable Piast rulers as he was the first Polish monarch to produce his coinage in quantity high enough to replace the foreign coins.";;;;;;;;;;;;x
+DLC_dlc001_EXAMPLE_IMAGE_2_TOOLTIP;『大胆王』ボレスワフ\n一族：ピアスト\n日付：1066 AD;;;;;;;;;;;;x
+DLC_dlc001_EXAMPLE_IMAGE_2_TOOLTIP_DELAYED;「ポーランドのボレスワフ2世には多くの異名がある。『冷酷王』や『大胆王』が有名だろう。ボレスワフ2世は外国の硬貨を排除するに十分な量の硬貨を生産した最も有能なピアスト朝支配者の一人でしょう」;;;;;;;;;;;;x
 DLC_dlc001_EXAMPLE_IMAGE_3_TOOLTIP;King Henry of England \nDynasty: Plantagenet \nDate: 1155 AD;;;;;;;;;;;;x
 DLC_dlc001_EXAMPLE_IMAGE_3_TOOLTIP_DELAYED;"Henry II was a driven man who was involved in many intrigues during his reign. While compelled to restore the lands of his grandfather, his family were plotting on how they would inherit the realm.";;;;;;;;;;;;x
 DLC_dlc001_EXAMPLE_IMAGE_4_TOOLTIP;キエフの大君 イジャスラフ\n王朝: リューリク朝\n日付: 西暦1066年;;;;;;;;;;;;x
@@ -451,7 +451,7 @@ DLC_dlc010_EXAMPLE_IMAGE_4_TOOLTIP;King Fernando of Castille \nDynasty: d'Ivrea 
 DLC_dlc010_EXAMPLE_IMAGE_4_TOOLTIP_DELAYED;"Ferdinand III, nicknamed the Saint (El Santo), was one of the most successful kings of Castile and León but also the mastermind of the most expansive campaign of Reconquista. He led a twenty-year onslaught against the al-Andalus, taking all the Muslim part of Spain but the Emirate of Granada.";;;;;;;;;;;;x
 DLC_dlc029_EXAMPLE_IMAGE_1_TOOLTIP;King Stenkil of Sweden \nDynasty: Stenkiling \nDate: 1066 AD;;;;;;;;;;;;x
 DLC_dlc029_EXAMPLE_IMAGE_1_TOOLTIP_DELAYED;"Stenkil was King of Sweden between 1060 until 1066. He was as a devoted Christian who supported the Christianization of Sweden, yet sympathetic to the old Pagan religion. His death triggered a violent civil war between Christians and pagans, whose relationship he had tried to stabilize.";;;;;;;;;;;;x
-DLC_dlc029_EXAMPLE_IMAGE_2_TOOLTIP;King Ivar the Boneless \nDynasty: Ivaring \nDate: 867 AD\n;;;;;;;;;;;;x
+DLC_dlc029_EXAMPLE_IMAGE_2_TOOLTIP;骨無しのイーヴァル\n一族：イヴァリング\n日付：867 AD\n;;;;;;;;;;;;x
 DLC_dlc029_EXAMPLE_IMAGE_2_TOOLTIP_DELAYED;"There are multiple theories for how this Viking leader got the nickname 'the boneless.' Some say it was the result of a curse, and others think it's the result of miscommunication. While the sagas detail his physical disability, they also highlight his mastery of strategy as he invaded what is now England.";;;;;;;;;;;;x
 DLC_dlc029_EXAMPLE_IMAGE_3_TOOLTIP;Emperor Robert of the Latin Empire \nDynasty: de Courtenay \nDate: 1220 AD;;;;;;;;;;;;x
 DLC_dlc029_EXAMPLE_IMAGE_3_TOOLTIP_DELAYED;"Robert I, also Robert of Courtenay, was the Latin Emperor of Constantinople, whose reign lasted from 1221 to 1228. His elder brother renounced the succession to the Latin empire to Robert. Ousted from Constantinople after a conspiracy, Robert fled to Rome and died on his return trip.";;;;;;;;;;;;x

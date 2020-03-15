@@ -5781,7 +5781,7 @@ merovingian_desc;The legendary founder of the Merovingian dynasty. He joined his
 solomon_desc;The Solomonid Dynasty claim direct descendance from the biblical Solomon, a king of Israel famed for legendary wisdom and wealth.;;;;;;;;;;;;x
 attila_desc;クブラトは多くの部族をその旗の下に団結させ、古代ローマで最も恐れられた人物の一人であるアッティラの子孫であると主張している。;;;;;;;;;;;;x
 ashina_desc;The Ashina clan rose to prominence after revolting against the Rouran Khaganate. Members of the clan are considered sacred, if not divine, by the people of the steppe.;;;;;;;;;;;;x
-bagratid_desc;世界最古のキリスト教王朝の1つ。バグラトの子孫たちは何世紀にも渡りジョージアを繁栄させた。;;;;;;;;;;;;x
+bagratid_desc;世界最古のキリスト教王朝の1つ。バグラトの子孫たちは何世紀にも渡りジョージアに繁栄をもたらした。;;;;;;;;;;;;x
 parthian_desc;サーサーン朝によって支配された7のパルティア氏族のうちの1つの子孫です。7氏族、または7家はペルシアの歴史において重要な役割を果たしました。;;;;;;;;;;;;x
 sassanid_desc;サーサーン朝の創始者。偉大な戦士、狩人、そしてゾロアスター教の指導者てして知られている。;;;;;;;;;;;;x
 niall_desc;アイルランドの伝説的な高王であり、ウイネ王朝の創始者。 統治の間に彼は、サクソン人、スコットランド人、ガリア人そしてローマ人に対してさえもいくつかの戦いに勝った。;;;;;;;;;;;;x
@@ -16069,7 +16069,7 @@ b_tsilma;Tsilma;;;;;;;;;;;;x
 b_kozhva;Kozhva;;;;;;;;;;;;x
 b_izhma;Izhma;;;;;;;;;;;;x
 b_vel;ヴェル;;;;;;;;;;;;x
-b_severnaya;Severnaya;;;;;;;;;;;;x
+b_severnaya;セヴェルナヤ;;;;;;;;;;;;x
 b_vychegda;Vychegda;;;;;;;;;;;;x
 b_yolva;Yolva;;;;;;;;;;;;x
 b_sedyu;セドゥー;;;;;;;;;;;;x
@@ -16678,7 +16678,7 @@ b_khushuut_suvraga;Khushuut;;;;;;;;;;;;x
 b_mogod;Mogod;;;;;;;;;;;;x
 b_khorgo;Khorgo;;;;;;;;;;;;x
 b_tariat;Tariat;;;;;;;;;;;;x
-b_khunt;Khunt;;;;;;;;;;;;x
+b_khunt;ハント;;;;;;;;;;;;x
 b_avgaldai;Avgaldai;;;;;;;;;;;;x
 b_khadat;Khadat;;;;;;;;;;;;x
 b_tsahir;Tsahir;;;;;;;;;;;;x
@@ -17131,7 +17131,7 @@ c_tsilma_adj;Tsilman;;;;;;;;;;;;x
 c_kozhva_adj;Kozhvan;;;;;;;;;;;;x
 c_izhma_adj;Izhman;;;;;;;;;;;;x
 c_vel_adj;Velian;;;;;;;;;;;;x
-c_severnaya_adj;Severnayan;;;;;;;;;;;;x
+c_severnaya_adj;セヴェルナヤ;;;;;;;;;;;;x
 c_kolva_adj;Kolvan;;;;;;;;;;;;x
 c_komi_adj;Pil'van;;;;;;;;;;;;x
 c_keltma_adj;Keltma;;;;;;;;;;;;x

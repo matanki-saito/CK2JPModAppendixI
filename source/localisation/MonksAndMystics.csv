@@ -649,7 +649,7 @@ assassins_clear_marked_for_death_target_allow_tooltip;§Y[Root.GetTitledFirstNam
 assassins_clear_marked_for_death_target_effect_tooltip;§Y[Root.GetTitledFirstName]§!の死の刻印が取り消されます。;;;;;;;;;;;;x
 EVTDESC_MNM_6842;I have marked [From.GetTitledFirstName] for death. Soon enough, one of my assassins will be sent on a mission to end [From.GetHerHis] life. They will notify me when the deed is done.;;;;;;;;;;;;x
 EVTDESC_MNM_6843;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nIt is done. [plot_target.GetTitledFirstName] has met [plot_target.GetHerHis] end at my hands. As these news reach our other enemies, they will tremble with fear!\n\nGlory to the Assassins!\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_MNM_6249;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nWhile our members are devout believers, many lack the practical skills, bodily stamina, and rigorous education needed by an expert assassin. Therefore I give you this mission, [Root.GetSocietyRank]: take on a protégé and turn them into a weapon of [Root.Religion.GetHighGodNameCap]'s fury.\n\nPraised be [Root.Religion.GetHighGodNameCap]!\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_MNM_6249;アッサラーム・アレイクム、[Root.GetSocietyRank] [Root.GetFirstName]、\n\n我々の結社の会員は敬虔な信者ではあるが、卓越した暗殺者としては、実践的な技能や体力、厳格な規律が欠けている。そこで私は[Root.GetSocietyRank]であるあなたに次の任務を与えましょう：弟子を見つけ出し、[Root.Religion.GetHighGodNameCap]の憤怒の剣へと変えなさい。\n\n[Root.Religion.GetHighGodNameCap]を讃えよ！\n署名、[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;;;x
 quest_the_assassins_protege;弟子の訓練;;;;;;;;;;;;x
 decline_quest_tooltip;貴方は任務を辞退し、しばらくの間は他の任務は提供されません。;;;;;;;;;;;;x
 the_assassins_rank_1_male;信奉者;;;;;;;;;;;;x
@@ -2973,7 +2973,7 @@ elaborate_danda;宝石細工の檀陀;;;;;;;;;;;;x
 sarira;仏舎利;;;;;;;;;;;;x
 sarira_desc;This is a small crystal like bead that was once retrieved from the ashes of a cremated spiritual master. It is an object of some power and is believed to be able to ward off evil and convey blessings upon those that possess it.;;;;;;;;;;;;x
 sariraka_actual_body_part;シャリーラカの骨;;;;;;;;;;;;x
-sariraka_actual_body_part_desc;This is a bone that once belonged to the Buddha himself. They serve as Cetiya, or a reminder of the great Gautama Buddha.;;;;;;;;;;;;x
+sariraka_actual_body_part_desc;この骨はかつて仏陀の体の一部でした。チャイティヤや偉大なる釈迦を想起させる役に立つでしょう。;;;;;;;;;;;;x
 EVTNAME_MNM_9200;仏陀の歯;;;;;;;;;;;;x
 EVTDESC_MNM_9200;Having received the news of [relic_hunter.GetTitledFirstName]'s return you hurry to the throne room. As you receive [relic_hunter.GetHerHim] [relic_hunter.GetSheHe] presents you with a small box containing an unusually large tooth. It is with great reverence in [relic_hunter.GetHerHis] voice that [relic_hunter.GetFirstName] announces: 'This is the sacred tooth of Buddha. It is the same relic that was once left in the custody of Khema, smuggled out of Kalinga by princess Hemamali and which has since been cared for by the finest kings in all of India'. To be the custodian of this relic is to exhibit the greatest of kingly virtues, it marks the divine right of the holder to rule over men. Your [relic_hunter.GetJobTitle] has brought you a greater prize than you dared imagine.\n\nAs you look up from the tooth itself you realize this is something that has not escaped [relic_hunter.GetFirstName] [relic_hunter.GetHerselfHimself]. A steady gaze meets yours, this is clearly the look of a [relic_hunter.GetManWoman] that expects a great reward.;;;;;;;;;;;;x
 EVTNAME_MNM_9201;The Mountain of Light;;;;;;;;;;;;x
@@ -5677,7 +5677,7 @@ on_indian_pilgrimage;巡礼中;;;;;;;;;;;;x
 on_indian_pilgrimage_desc;この人物は大いなる巡礼の旅路の途上にいます。;;;;;;;;;;;;x
 temple_baron_female_christian;司教;;;;;;;;;;;;x
 String_spahis;スィパーヒー（騎士）;;;;;;;;;;;;x
-EVTDESC_MNM_6024_A;We are quiet for a moment, both seemingly contemplating these devoted souls. Then [From.GetFirstName] looks up at me, a curious intensity in [From.GetHerHis] gaze. "That is not an impossible wish, [Root.GetFirstName]. Are you ready to kill and, if He wills it, get killed to defend the words of His Prophet and the rightful heir?";;;;;;;;;;;;x
+EVTDESC_MNM_6024_A;少しの沈黙の間、私たちは敬虔な魂について思考を巡らす。[From.GetFirstName]は真剣な眼差しで私に向き直った。「それは不可能な願いではないかもしれません、[Root.GetFirstName]。預言者とその正統な後継者の言葉を彼らを殺すことで守れるならば、殺す覚悟はありますか？」;;;;;;;;;;;;x
 EVTDESC_MNM_6027_A;"I do, [Root.GetFirstName]," says [From.GetTitledFirstName] with a solemn, almost ceremonial, voice. "There is an Order devoted to Allah and the rightful Caliph. One that defends those true of faith and bring vengeance to their persecutors. The Assassins are always in need of champions. Think it over, and someone might reach out...";;;;;;;;;;;;x
 EVTOPTA_6028_A;Allahu akbar! Glory to Ali!;;;;;;;;;;;;x
 EVTDESC_MNM_6205_A;The people of the county [conversion_province.GetName] has now fully embraced Shia Islam as their religion. From [conversion_province.Capital.GetHolding] to countryside, the names of Allah, his prophets and the Imams are honored and cherished. Your mission is complete.;;;;;;;;;;;;x
