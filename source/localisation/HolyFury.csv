@@ -6468,8 +6468,8 @@ DISMISS_CONSORT_INTERACTION_ACCEPT_SETUP;遠ざけられた側室/男妾;;;;;;;;
 DISMISS_CONSORT_INTERACTION_LETTER;[Recipient.GetFirstName]、もはや貴方とともに居ても喜びを感じられない。私室を片付け、早々に出ていくように。\n\n[Actor.GetFirstName];;;;;;;;;;;;x
 REFORM_RELIGION_PREVIEW;§Y$RELIGION$の改革を閲覧する§!\n現時点では改革を行うことはできませんが、信仰の改革で選択できる信条を閲覧することはできます;;;;;;;;;;;;x
 ALT_START_RANDOMIZE_WORLD;世界をランダム化;;;;;;;;;;;;x
-TRIGGER_ARTIFACT_PREVIOUS_OWNER;Previous Artifact Owner;;;;;;;;;;;;x
-ANY_ARTIFACT_OWNER_STARTS;Any Past or Present Artifact Owner;;;;;;;;;;;;x
+TRIGGER_ARTIFACT_PREVIOUS_OWNER;以前の宝物所有者;;;;;;;;;;;;x
+ANY_ARTIFACT_OWNER_STARTS;過去または現在の宝物所有者;;;;;;;;;;;;x
 BLOODLINE_SHOW_DESCENDANTS;§Gクリックして子孫を表示§!;;;;;;;;;;;;x
 BLOODLINES_HEADER;§L血脈§!;;;;;;;;;;;;x
 BLOODLINE_PATRILINEAL_INHERITANCE;§Y父系継承§!;;;;;;;;;;;;x
@@ -6756,7 +6756,7 @@ EVTDESC_HF_41419_ALT;突然、私はレイス・セルテアにたどり着い�
 EVTOPTA_HF_41419;どんな墓なのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41420_A;The whole area is filled with people, looking like they come from all the different corners of the world. I see another [Root.Culture.GetName] looking at me, and giving me a small nod before [Root.GetSheHeOpp] disappears in the crowd. I never knew  [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
 EVTDESC_HF_41420_B;There is a couple of other pilgrims around, but they all look relatively local to the area. I walk over to the grave, and look down at the small statue of the saint as well as the stone commemorating the life of the saint. It has been a long journey to get to [pilgrimage_destination.GetName], and I finally get to look upon the blessed burial site of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
-EVTDESC_HF_41420_C;The burial site is completely void of people, not a single soul to be seen. I look around for it, almost sure I am at the wrong place for a moment, and then I see the small grave. It looks overgrown and deserted, and I take some time to tidy the place up before I finally sit down in prayer to [Root.Religion.GetHighGodName]. It is almost like  [pilgrimage_destination.province_saint.GetFirstNameWithNick] is here and prays with me.;;;;;;;;;;;;x
+EVTDESC_HF_41420_C;墓場にはまったく人気がなく、幽霊の気配すらない。辺りを見回し、一瞬間違えたような気がしたが、小さな墓を見つけた。草が生い茂ってさびれたその墓を時間をかけてきれいにしてから、やっと[Root.Religion.GetHighGodName]に祈るために座った。それはほとんど、[pilgrimage_destination.province_saint.GetFirstNameWithNick]がここにいて、私と一緒に祈っているようなものだ。;;;;;;;;;;;;x
 EVTDESC_HF_41420_ALT;修道女が小さな礼拝堂の隅を掃除している以外は、がらんとしたものだ。 彼女は私に近づき、聖パトリックの墓を見に来たのかと尋ねた。私は小さくうなずき、彼女は、私を、おそらく聖パトリックが横たわっている大きな岩の前に連れて行った。彼女は私の横にひざまずき、一緒に[Root.Religion.GetHighGodName]への祈りを捧げた。しばらくして、私は墓の前に一人残された。;;;;;;;;;;;;x
 EVTOPTA_HF_41420;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41420;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
@@ -6773,7 +6773,7 @@ EVTDESC_HF_41429_ALT;突然、私はHippoにたどり着いていることに気
 EVTOPTA_HF_41429;どんな墓なのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41430_A;The whole area is filled with people, looking like they come from all the different corners of the world. I see another [Root.Culture.GetName] looking at me, and giving me a small nod before [Root.GetSheHeOpp] disappears in the crowd. I never knew  [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
 EVTDESC_HF_41430_B;There is a couple of other pilgrims around, but they all look relatively local to the area. I walk over to the grave, and look down at the small statue of the saint as well as the stone commemorating the life of the saint. It has been a long journey to get to [pilgrimage_destination.GetName], and I finally get to look upon the blessed burial site of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
-EVTDESC_HF_41430_C;The burial site is completely void of people, not a single soul to be seen. I look around for it, almost sure I am at the wrong place for a moment, and then I see the small grave. It looks overgrown and deserted, and I take some time to tidy the place up before I finally sit down in prayer to [Root.Religion.GetHighGodName]. It is almost like  [pilgrimage_destination.province_saint.GetFirstNameWithNick] is here and prays with me.;;;;;;;;;;;;x
+EVTDESC_HF_41430_C;墓場にはまったく人気がなく、幽霊の気配すらない。辺りを見回し、一瞬間違えたような気がしたが、小さな墓を見つけた。草が生い茂ってさびれたその墓を時間をかけてきれいにしてから、やっと[Root.Religion.GetHighGodName]に祈るために座った。それはほとんど、[pilgrimage_destination.province_saint.GetFirstNameWithNick]がここにいて、私と一緒に祈っているようなものだ。;;;;;;;;;;;;x
 EVTDESC_HF_41430_ALT;ようやく探していた礼拝堂を見つけることができた。中に入った私は、今なお残る聖アウグスティヌスの存在を心から感じることができる。最終的に司祭が現れるまで、数分間、私は祈りを続けていた。彼から、実際は聖アウグスティヌスが数世紀前に礼拝堂から移されたと説明され、私はあっけにとられた。だから他の巡礼者がいないのか。;;;;;;;;;;;;x
 EVTOPTA_HF_41430;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41430;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
@@ -6782,7 +6782,7 @@ EVTDESC_HF_41434;突然、私は[pilgrimage_destination.GetName]にたどり着�
 EVTOPTA_HF_41434;どんな墓なのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41435_A;The whole area is filled with people, looking like they come from all the different corners of the world. I see another [Root.Culture.GetName] looking at me, and giving me a small nod before [Root.GetSheHeOpp] disappears in the crowd. I never knew  [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
 EVTDESC_HF_41435_B;There is a couple of other pilgrims around, but they all look relatively local to the area. I walk over to the grave, and look down at the small statue of the saint as well as the stone commemorating the life of the saint. It has been a long journey to get to [pilgrimage_destination.GetName], and I finally get to look upon the blessed burial site of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
-EVTDESC_HF_41435_C;The burial site is completely void of people, not a single soul to be seen. I look around for it, almost sure I am at the wrong place for a moment, and then I see the small grave. It looks overgrown and deserted, and I take some time to tidy the place up before I finally sit down in prayer to [Root.Religion.GetHighGodName]. It is almost like  [pilgrimage_destination.province_saint.GetFirstNameWithNick] is here and prays with me.;;;;;;;;;;;;x
+EVTDESC_HF_41435_C;墓場にはまったく人気がなく、幽霊の気配すらない。辺りを見回し、一瞬間違えたような気がしたが、小さな墓を見つけた。草が生い茂ってさびれたその墓を時間をかけてきれいにしてから、やっと[Root.Religion.GetHighGodName]に祈るために座った。それはほとんど、[pilgrimage_destination.province_saint.GetFirstNameWithNick]がここにいて、私と一緒に祈っているようなものだ。;;;;;;;;;;;;x
 EVTOPTA_HF_41435;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41435;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
 EVTOPTC_HF_41435;What a journey it has been.;;;;;;;;;;;;x
@@ -8448,7 +8448,7 @@ warrior_lodge_west_african_create_fetish_desc;Enlist the help of the Lodge's sha
 warrior_lodge_west_african_create_fetish_power_desc;§Y策略§!メニューで、§Y[west_african_pagan_reformed.GetName]§!統治者は戦闘の腕を向上させる特別な仮面や偶像を作成する決断が可能になります。。;;;;;;;;;;;;x
 tooltip_west_african_create_fetish_cooldown;Is NOT already supervising the creation of a fetish;;;;;;;;;;;;x
 tooltip_has_african_mask_duplicate;Does NOT already own a Mask and an Idol;;;;;;;;;;;;x
-tooltip_west_african_create_fetish;Begin crafting a new §YArtifact§!.;;;;;;;;;;;;x
+tooltip_west_african_create_fetish;新しい§Y宝物§!の作成を開始します。;;;;;;;;;;;;x
 crown_african_mask_1;Spirit-Mask of Bravery;;;;;;;;;;;;x
 crown_african_mask_1_desc;希少な木材に勇気と優しさの真髄を込めて制作された勇壮な面頬です。;;;;;;;;;;;;x
 crown_african_mask_2;Spirit-Mask of Terror;;;;;;;;;;;;x
@@ -9416,7 +9416,7 @@ PROV1603;ポモーリェ;;;;;;;;;;;;x
 PROV1605;カッラ;;;;;;;;;;;;x
 PROV1606;カルヤー;;;;;;;;;;;;x
 PROV1607;ケイテレ;;;;;;;;;;;;x
-meshchera;メシュチェラ;;;;;;;;;;;;x
+meshchera;メシュチョラ;;;;;;;;;;;;x
 d_oltenia;オルテニア;;;;;;;;;;;;x
 d_oltenia_adj;オルテニア;;;;;;;;;;;;x
 d_bessarabia;ベッサラビア;;;;;;;;;;;;x
@@ -10765,7 +10765,7 @@ bloodline_effect_artisan_craftsmen;Characters have §YSmiths§! strive to please
 bloodline_effect_battle_bards;戦闘での特別なアクションを解除する。;;;;;;;;;;;;x
 bloodline_effect_inspire_commanders;The §YPromote Commander§! decision attracts better commanders.;;;;;;;;;;;;x
 bloodline_effect_fearsome;Increases the chance of capturing enemy Commanders.;;;;;;;;;;;;x
-bloodline_effect_reaver;Increases the chance of looting §YArtifacts§!, after sieging enemy Holdings.;;;;;;;;;;;;x
+bloodline_effect_reaver;敵の領地を包囲すると、§Y宝物§!を略奪できる可能性が高くなります。;;;;;;;;;;;;x
 poet_opinion;詩人の評価;;;;;;;;;;;;x
 falconer_opinion;鷹匠からの評価;;;;;;;;;;;;x
 greedy_opinion;強欲からの評価;;;;;;;;;;;;x
@@ -13155,7 +13155,7 @@ EVTOPTBHF25212;What!?! What is it?!;;;;;;;;;;;;x
 EVTDESCHF25215;ドシンという大きな音と共に、私は[wl_arm_wrestling_loser.GetFirstName]の拳を机に叩きつけ、周りを囲む他の戦士たちの歓声のシャワーを聞いた。対戦相手は私を睨み、[wl_arm_wrestling_loser.GetSheHe]は[wl_arm_wrestling_loser.GetHerHis]の手を擦りながら、敗北を受け入れることについてぼそぼそと言っていた。;;;;;;;;;;;;x
 EVTOPTAHF25215;貴方はどれだけ弱いの？;;;;;;;;;;;;x
 TT_EVTOPTAHF25215;§Y[wl_arm_wrestling_loser.GetTitledFirstName]§!は侮辱に対して§Y決闘§!を挑むかもしれません。;;;;;;;;;;;;x
-TT_EVTOPTAHF25263;§Y[From.GetTitledFirstName]§! might challenge you to a §YDuel§! for insulting [From.GetHerHim].;;;;;;;;;;;;x
+TT_EVTOPTAHF25263;§Y[From.GetTitledFirstName]§!は雪辱を晴らすための§Y決闘§!を貴方に申し込むかもしれません。;;;;;;;;;;;;x
 EVTOPTBHF25215;そんなに自分を責めるな！;;;;;;;;;;;;x
 EVTDESCHF25216;ドシンという大きな音と共に、[wl_arm_wrestling_winner.GetFirstName]は私の拳を机に叩きつけ、周りを囲む他の戦士たちの歓声のシャワーを聞いた。私を倒しただけでは飽き足らず、[wl_arm_wrestling_winner.GetSheHe]は公然と私を嘲笑した。;;;;;;;;;;;;x
 EVTOPTYHF25216;本当の強さを見せてやる！;;;;;;;;;;;;x
@@ -14014,7 +14014,7 @@ string_WL_flyting_accomplishments_insult_option_4;一族の恥と言われるの
 string_WL_flyting_accomplishments_insult_option_5;お前が[From.GetTitle]の役目を果たしているとはとても信じられない。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_6;It is very impressive to wish for so much yet accomplish so little.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_7;Hard to find somebody with greater designs and pettier goals.;;;;;;;;;;;;x
-string_WL_flyting_accomplishments_insult_option_8;The thought of you managing to accomplish something is as scary as laughable.;;;;;;;;;;;;x
+string_WL_flyting_accomplishments_insult_option_8;お前がこれで何かを成せると考えていることが、恐ろしいほど滑稽だ。;;;;;;;;;;;;x
 string_accomplishments_insult_option_default;今までに一つでも人生の目標を成し遂げたことがあるか？;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_1;I guess, after seeing how you came out, your parents simply gave up?;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_2;So, how is the wretched harpy that spawned you, [From.GetFirstName]?;;;;;;;;;;;;x
@@ -14026,7 +14026,7 @@ string_WL_flyting_family_insult_option_7;Eager to return to that toad you call w
 string_WL_flyting_family_insult_option_8;Eager to return to that spineless worm you call husband?;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_9;教えてくれるか、子供の頭を何回踏みつけたんだい？;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_10;One can only hope your children sprung from a stronger seed than yours.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_option_11;How does it feel to be the disgrace of your dynasty?;;;;;;;;;;;;x
+string_WL_flyting_family_insult_option_11;あんたの一族の恥となる気分はどうだ？;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_12;You are truly the greatest example of your dynasty's mediocrity.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_13;Claiming that you are the best that the [From.GetOnlyDynastyName] can offer is but meager praise.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_option_14;今のおまえを見たら、ご先祖サマも墓の下でのたうち回るだろうな。;;;;;;;;;;;;x
@@ -14087,13 +14087,13 @@ string_WL_flyting_accomplishments_insult_desc_7;[From.GetFirstName] claims that 
 string_WL_flyting_accomplishments_insult_desc_8;[From.GetFirstName] addresses the crowd, saying that the very thought of me achieving something worthy of note is just as scary as it is laughable.;;;;;;;;;;;;x
 string_accomplishments_insult_desc_default;[From.GetFirstName] starts mocking me for my delusional dreams of greatness, claiming that I have fallen in love with my own legend and lost any perspective on the limitations of my stature.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_1;[From.GetFirstName] whether after seeing what a horrible child I was, my parents simply gave up on making any more kids.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_2;[From.GetFirstName] decides to take a cheap shot at my mother, making unsavory allusions regarding her looks and character.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_3;[From.GetFirstName] decides to take a cheap shot at my father, claiming that [From.GetSheHe] has heard many tales of his cowardice.;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_2;[From.GetFirstName]は卑劣にも、私の母の容姿や性格について貶めるようなことを言った。;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_3;[From.GetFirstName]は卑劣にも、私の父は臆病だという話を聞いていると主張し始めた。;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_4;[From.GetFirstName] claims that if I am the best my parents could create, [From.GetSheHe] dreads to meet any of my siblings.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_5;[From.GetFirstName] decides to entertain the crowd with an implausible tale about how my parents confided to [From.GetHerHim] that I am their greatest shame and disappointment.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_6;[From.GetFirstName] asks me whether we can finish this game quickly, since my mother's legs are growing cold while [From.GetSheHe] is busy entertaining me.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_7;[From.GetFirstName] decides to take a cheap shot at my wife, calling her an unlikable, domineering toad.;;;;;;;;;;;;x
-string_WL_flyting_family_insult_desc_8;[From.GetFirstName] decides to take a cheap shot at my husband, calling him a spineless, sniveling worm.;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_7;[From.GetFirstName]は卑劣にも私の妻に言及し、彼女は誰からも好かれない傲慢なヒキガエルだと言い放った。;;;;;;;;;;;;x
+string_WL_flyting_family_insult_desc_8;[From.GetFirstName]は卑劣にも私の夫に言及し、彼を意気地のない鼻水野郎だと呼んだ。;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_9;[From.GetFirstName] asks me how many times I stomped on my children's faces in order to make them look so ugly.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_10;[From.GetFirstName] taunts me by claiming [From.GetSheHe] dearly hopes my wife was unfaithful to me, as otherwise my children will be doomed to grow as stupid and ugly as me.;;;;;;;;;;;;x
 string_WL_flyting_family_insult_desc_11;[From.GetFirstName] asks me how does it feel to be the disgrace of my family, a weak link destined to utterly destroy the ancient legacy of my dynasty.;;;;;;;;;;;;x
@@ -17978,7 +17978,7 @@ pledge_crusade_alternate_crusades;Not currently part of another Crusade;;;;;;;;;
 cannot_expel_jews_during_blame_game_chain_TT;Cannot expel [GetJewsName] during the worst parts of the Black Death epidemic;;;;;;;;;;;;x
 promoted_commander_TT;兵士が§Y[Root.GetTitledName]§!の宮廷に現れます。;;;;;;;;;;;;x
 completely_control_near_east_TT;§Y近東§!地域を完全に支配している;;;;;;;;;;;;x
-alternate_crusade_artifact_distribution_effect_TT;Receive an §YArtifact§! from §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;x
+alternate_crusade_artifact_distribution_effect_TT;§Y宝物§! を§Y[From.GetTitledFirstName]§!から受け取る;;;;;;;;;;;;x
 select_crusade_beneficiary;十字軍の受益者に選択;;;;;;;;;;;;x
 select_crusade_beneficiary_desc;十字軍の参加者全員が十字軍成功時に創設される十字軍国家で領地を得る後継者である§Y受益者§!を選択できます。;;;;;;;;;;;;x
 higher_tier_than_teutonic_knights_TT;§Yチュートン騎士団§!より称号の階級が高い;;;;;;;;;;;;x
@@ -18025,7 +18025,7 @@ northern_crusade_fitting_title_02_TT;Has land in §YNorthern Europe§!, §YEaste
 not_reverse_truce_TT;Does not have a truce with §Y[Root.GetTitledName]§!;;;;;;;;;;;;x
 higher_tier_than_count_TT;Higher tier than Count;;;;;;;;;;;;x
 alternate_crusade_artifact_name;[Root.GetAlternateCrusaderWeaponName];;;;;;;;;;;;x
-string_alternate_weapon;[Root.GetAlternateCrusadeNameForArtifacts] [Root.GetWeaponType];;;;;;;;;;;;x
+string_alternate_weapon;[Root.GetAlternateCrusadeNameForArtifacts]の[Root.GetWeaponType];;;;;;;;;;;;x
 string_alternate_teutonic_crusade;Teutonic;;;;;;;;;;;;x
 string_alternate_shepherds_crusade;Shepherds';;;;;;;;;;;;x
 string_alternate_reconquista_crusade;Reconquista;;;;;;;;;;;;x
@@ -19833,7 +19833,7 @@ lefthanded_desc;この人物は左利きです。聖職者から胡散臭く見�
 alert_owns_wrong_settlement_type_delayed;状況に応じて、地区のメニューから§Y新たな封臣を任命§!をするか、称号を渡すことができます。\n\n領地タイプと領主が適合しない地区：\n$LIST$;;;;;;;;;;;;x
 random_building_is_destroyed_tt;ランダムで §Y[This.GetName]§! の建物が §R破壊§! される。;;;;;;;;;;;;x
 OLD_ARTIFACT_DESTROYED_LOG;$ARTIFACT|Y$ は、$CHARACTER|Y$ の宝物庫から失われた。;;;;;;;;;;;;x
-OLD_ARTIFACT_DESTROYED_SETUP;Artifact removed;;;;;;;;;;;;x
+OLD_ARTIFACT_DESTROYED_SETUP;宝物の喪失;;;;;;;;;;;;x
 BAPTISM_SETUP;洗礼;;;;;;;;;;;;x
 EVTDESCHF10521;やあ、[Root.GetSocietyRank]！\n\nあなたの[recruit_to_be.GetSonDaughter][recruit_to_be.GetFirstName]が、私達の集会に参加していないと耳にした。[recruit_to_be.GetHerHim]が[Root.GetFatherMother]に倣って[Root.Society.GetName]の一員となるよう、話をしてくれないだろうか？\n\n（署名）、[From.GetTitledFirstName];;;;;;;;;;;;x
 quest_warrior_lodge_recruit;あなたの子供に対する勧誘;;;;;;;;;;;;x

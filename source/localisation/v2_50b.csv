@@ -451,7 +451,7 @@ EVTDESCA_ZE_12030;[rowdy_events_char_1.GetFirstName]のせいでいつもイラ�
 EVTDESCB_ZE_12030;There are so many fun things to do, so many forbidden things. I wonder if [rowdy_events_char_1.GetFirstName] would like to join me in some fun pranks?;;;;;;;;;;;;x
 EVTOPTA_ZE_12030;[rowdy_events_char_1.GetHerHim]にやめるよう言わなくては！;;;;;;;;;;;;x
 EVTOPTA_ZE_12030_TOOLTIP1;問題がエスカレートします…\n;;;;;;;;;;;;x
-EVTOPTB_ZE_12030;It doesn't matter, [rowdy_events_char_1.GetSheHe] can win.;;;;;;;;;;;;x
+EVTOPTB_ZE_12030;気にしないよ。[rowdy_events_char_1.GetSheHe]の勝ちだ。;;;;;;;;;;;;x
 EVTOPTC_ZE_12030;I'll ask [rowdy_events_char_1.GetHerHim]!;;;;;;;;;;;;x
 EVTOPTD_ZE_12030;それならサイコロでだけ遊ぶようにしよう。;;;;;;;;;;;;x
 EVTDESCA_ZE_12032;いつも[From.GetFirstName]をゲームで負かしているので[From.GetHerHim]は私に腹を立てている。;;;;;;;;;;;;x

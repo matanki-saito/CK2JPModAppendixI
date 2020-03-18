@@ -576,7 +576,7 @@ DLC_dlc024_RECOMMENDATION_REQUIRED;§YThe Old Gods§! expansion lets you play as
 DLC_dlc032_RECOMMENDATION_REQUIRED;With the focus on the three Abrahamic religions, §YSons of Abraham§! lets you play as a Jewish ruler. Will you to recreate the Kingdom of Israel and rebuild the Third Temple in Jerusalem?\n;;;;;;;;;;;;x
 DLC_dlc032_RECOMMENDATION_ABRAHAMIC;With the focus on the three Abrahamic religions, §YSons of Abraham§! adds plenty of events, unique holy orders, and more content to enhance these faiths.\n;;;;;;;;;;;;x
 DLC_dlc032_RECOMMENDATION_RELIGION;With §YSons of Abraham§! comes a major overhaul of Holy Orders, as well as the addition of religion unique Holy Orders. The §Y[Root.Religion.GetName]§! gains [Root.GetHolyOrderName].\n;;;;;;;;;;;;x
-DLC_dlc039_RECOMMENDATION_REQUIRED;§YRajas of India§! expansion introduces new three dharmic religions for the Indian subcontinent. Try to unite India as the legendary Samrat Chakravartin!\n;;;;;;;;;;;;x
+DLC_dlc039_RECOMMENDATION_REQUIRED;拡張§YRajas of India§!によってインド亜大陸に3つの新しいダルマ宗教が導入されます。インドを統一し、伝説の転輪聖王となるのだ！\n;;;;;;;;;;;;x
 DLC_dlc039_RECOMMENDATION_ROI_RELIGION;§YRajas of India§! is recommended as it allows you to play as Dharmic Religions, such as Buddhists and Hindus.\n;;;;;;;;;;;;x
 DLC_dlc045_RECOMMENDATION_VICEROY;In §YCharlemagne§!, Emperors get the ability to appoint viceroys, who gain lifetime governorship with the title returning to the liege on death.\n;;;;;;;;;;;;x
 DLC_dlc050_RECOMMENDATION_WAY_OF_LIFE;§YWay of Life§! adds a layer of character focus to Crusader Kings 2, where every character can select a Focus which grants them a bonus as well as specific content to their chosen lifestyle.\n;;;;;;;;;;;;x
@@ -702,11 +702,11 @@ RULES_FEATS_REQUIRE_RULES;No §YGame Rule§! must disable challenges;;;;;;;;;;;;
 RULES_FEATS_REQUIRE_SAVEOK;The save file must not have been changed, and must have had challenges enabled from the start;;;;;;;;;;;;x
 RULE_FEATS_WARNINGS; §RThis setting disables challenges!§!;;;;;;;;;;;;x
 RULES_START_REQUIRES_FEATS;§YChallenges§! must be enabled;;;;;;;;;;;;x
-BRONZEMAN_MODE_DESC;When playing in Bronzeman mode, you can have multiple saves for each playthrough. Unlike Ironman mode, Steam Achievements are not available when playing in Bronzeman mode.;;;;;;;;;;;;x
-RULER_USES_BRONZEMAN;This ruler uses the new Bronzeman mode. Unlike Ironman mode, when playing in Bronzeman mode, you can have multiple saves for each playthrough and Steam Achievements are not available.;;;;;;;;;;;;x
+BRONZEMAN_MODE_DESC;ブロンズマンモードでプレイすると、複数のセーブを作成できます。 鉄人モードとは異なり、ブロンズマンモードでプレイする場合、Steam実績は解除することができません。;;;;;;;;;;;;x
+RULER_USES_BRONZEMAN;この支配者は新しいブロンズマンモードを使用します。 鉄人モードとは異なり、ブロンズマンモードでプレイすると、複数のセーブを作成できますが、Steam実績は解除することができません。;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_PLAY_HINT;The ruler and the challenges can be restarted if a save has already been made.;;;;;;;;;;;;x
 HIGHLIGHTED_RULER_RESTART_HINT;Restarting will create a new save game, however previous saves will not be removed.;;;;;;;;;;;;x
-BRONZEMAN_DISABLED_ACHIEVEMENTS_WARNING;Achievements are disabled when playing in Bronzeman Mode.;;;;;;;;;;;;x
+BRONZEMAN_DISABLED_ACHIEVEMENTS_WARNING;ブロンズマンモードでプレイすると実績を解除することができません。;;;;;;;;;;;;x
 secret_religions_personally_adopt_secret_religion_desc;Give up the charade of your false religion you've acted upon and openly declare your true faith.\n§RYou cannot convert to a religion locked by unowned or disabled DLC!§!;;;;;;;;;;;;x
 EVTTT_MNM_9105_NO_DUPLICATE_WARNING;同じ品質の同じ宝物の複製を宝物庫に収めることはできません。別の選択肢を選択するか、すでに所有しているこのタイプの宝物の別の品質レベルを取得することを検討してください。;;;;;;;;;;;;x
 EVTTT_MNM_9105_NO_DUPLICATES;同じ品質の同じ宝物の複製を宝物庫に収めることはできないため、投資の一部を回収できます。;;;;;;;;;;;;x

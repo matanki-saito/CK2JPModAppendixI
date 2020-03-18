@@ -2822,7 +2822,7 @@ IS_LIEGE_OR_ABOVE;$LIEGE|Y$の封臣かそれ以下である;;;;;;;;;;;;x
 IS_NOT_LIEGE_OR_ABOVE;$LIEGE|Y$の封臣かそれ以下でない;;;;;;;;;;;;x
 HAS_NOT_RAISED_LEVIES_OF;$VASSAL|Y$からの召集軍を動員していない;;;;;;;;;;;;x
 HAS_RAISED_LEVIES_OF;$VASSAL|Y$からの召集軍を動員している;;;;;;;;;;;;x
-ARTIFACT_IS_NOT;Artifact is NOT;;;;;;;;;;;;x
+ARTIFACT_IS_NOT;宝物なし;;;;;;;;;;;;x
 ARTIFACT_IS;宝物は;;;;;;;;;;;;x
 CLIMATE_IS_NOT;気候は「$CLIMATE|Y$」ではない;;;;;;;;;;;;x
 CLIMATE_IS;気候は「$CLIMATE|Y$」である;;;;;;;;;;;;x

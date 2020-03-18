@@ -37,7 +37,7 @@ IS_NOT_DIVINE_BLOOD;§Y$DYNASTY$§!一族は神の血を引いていない;;;;;;
 SET_DIVINE_BLOOD;§Y$DYNASTY$§!一族は神の血を引いているとみなされている\n;;;;;;;;;;;;x
 UNSET_DIVINE_BLOOD;§Y$DYNASTY$§!一族はもはや神の血を引いているとはみなされていない\n;;;;;;;;;;;;x
 AIREASON_AMBITION;野心;;;;;;;;;;;;x
-b_kroran;クロラン;;;;;;;;;;;;x
+b_kroran;クロルィン;;;;;;;;;;;;x
 b_endere;エンデレ;;;;;;;;;;;;x
 b_dandan_uilik;ダンダン・ウィリク;;;;;;;;;;;;x
 b_korla;コルラ;;;;;;;;;;;;x
