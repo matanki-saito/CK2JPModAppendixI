@@ -1088,7 +1088,7 @@ EVTDESCHFA20382;As I was berating [From.GetFirstName] for [From.GetHerHis] faili
 EVTOPTAHF20382;良さそうだな！;;;;;;;;;;;;x
 EVTOPTBHF20382;私から離れろ！;;;;;;;;;;;;x
 EVTDESCHFA20383;It seems my [GetFromRelation] was not in the mood tonight. My attempt to distract [From.GetHerHim] from the issue of my pending coronation did not end quite well...;;;;;;;;;;;;x
-EVTOPTAHF20383;Maybe some other time?;;;;;;;;;;;;x
+EVTOPTAHF20383;まあ、そのうちにしては？;;;;;;;;;;;;x
 EVTDESCHFA20384;My liege's rule has yet to be properly legitimized by the holy right of coronation. I must inform [From.GetHerHim] that [From.GetHerHis] current condition is becoming a hindrance to my work as Chancellor of [From.PrimaryTitle.GetName].;;;;;;;;;;;;x
 EVTOPTAHF20384;[From.GetSheHeCap] will not like to hear this...;;;;;;;;;;;;x
 EVTDESCHFA20385;My Chancellor informed me today that my prolonged lack of legitimization in the eyes of the [Root.Religion.GetName] Church is seriously damaging all diplomatic missions of my realm.;;;;;;;;;;;;x
@@ -3453,7 +3453,7 @@ EVTDESCAHFP20695;[From.GetTitledFirstName], the patron of the bard that entertai
 EVTOPTAHFP20695;It is just a song, [From.GetFirstName]!;;;;;;;;;;;;x
 EVTDESCAHFP20696;What I feared has happened: the bard's song greatly angered [From.GetTitledFirstName], to the point that my liege had the bard flogged and thrown out of court without much ceremony. Unfortunately, this morning I have heard news that the man has not even learned his lesson: he is going around the countryside, still performing his shameful pieces.;;;;;;;;;;;;x
 EVTOPTAHFP20696;At least I am not his target...;;;;;;;;;;;;x
-EVTDESCAHFP20697;My equity was not appreciated, it seems. The bard was flogged and exiled from court, as he should have been, yet now he still persist in his irreverent behavior. I have heard news that he is wandering through the countryside, telling even more unflattering songs about me to everyone he meets.;;;;;;;;;;;;x
+EVTDESCAHFP20697;私の正義は高く評価されなかったようだ。 吟遊詩人は鞭打たれ、宮廷から追放されたはずだったが、今でも彼は不敬な振る舞いを続けている。 私は彼が田舎をさまよい、出会う人すべてに私についてのより一層卑劣な歌を伝えているという噂を聞いた。;;;;;;;;;;;;x
 EVTOPTAHFP20697;I should have had him killed...;;;;;;;;;;;;x
 EVTDESCAHFP20698;The unthinkable has happened: [From.GetTitledFirstName] was so furious of the bard's song that [From.GetSheHe] had the man roasted on the spot as punishment. I never imagined my liege could be such a cruel and ruthless [From.GetManWoman]...;;;;;;;;;;;;x
 EVTOPTAHFP20698;I best not get on [From.GetHerHis] bad side...;;;;;;;;;;;;x
@@ -4284,7 +4284,7 @@ EVTOPTA_HFP_10108_shy;It was too much, how they were just... All looking at me.;
 EVTOPTA_HFP_10108_wroth;[Root.GetFirstName]よ、どうしてしまったのだ！？;;;;;;;;;;;;x
 EVTDESC_HFP_10109;私が[other_combatant.GetWeaponInjuringBlow]した時に、[other_combatant.GetTitledFirstName]は、うまく[Root.GetWeaponInjuringBlowOnMe]させた。しかしながら、観衆は私の名を唱えている！;;;;;;;;;;;;x
 EVTOPTA_HFP_10109;紛れもなく価値ある勝利だ。;;;;;;;;;;;;x
-EVTDESC_HFP_10110;私が[other_combatant.GetWeaponInjuringBlow]した時に、[other_combatant.GetTitledFirstName]は、うまく[Root.GetWeaponInjuringBlowOnMe]させた。眩暈、私は観衆の声を理解することができた。それは私の名を唱えていない。;;;;;;;;;;;;x
+EVTDESC_HFP_10110;私が[other_combatant.GetWeaponInjuringBlow]した時に、[other_combatant.GetTitledFirstName]は、うまく[Root.GetWeaponInjuringBlowOnMe]ことに成功した。眩暈の中で聞こえた群衆の声は、私の名を叫んではいなかった...;;;;;;;;;;;;x
 EVTOPTA_HFP_10110;どこで間違ってしまったのか……？;;;;;;;;;;;;x
 EVTDESC_HFP_10111_intrigue;[other_combatant.GetTitledName] has already managed to [Root.GetWeaponInjuringBlowOnMe], when something twisted passes over [other_combatant.GetHerHis] face. I barely register the glint of something metal in [other_combatant.GetHerHis] hand, before my throat is cut open, blood spraying on [other_combatant.GetHerHis] face. I try to ask why, but no words come out.;;;;;;;;;;;;x
 EVTDESC_HFP_10111_default;[other_combatant.GetTitledName] has already managed to [Root.GetWeaponInjuringBlowOnMe], when [other_combatant.GetSheHe] lets out an angry grunt. Before I know it, I am begging for mercy, but [other_combatant.GetSheHe] is beyond reasoning. The last thing I hear is the shocked gasp of the crowd, and a soft thud, which can only be my head hitting the ground.;;;;;;;;;;;;x
@@ -6083,9 +6083,9 @@ notify_parent_recruiter_tt;Your [recruiting_parent.GetRootRelation] will hear ab
 your_parent_will_be_proud_tt;Your [recruiting_parent.GetRootRelation] enjoys the news.\n\n;;;;;;;;;;;;x
 EVTDESC_HF_10014_A;[new_recruit.GetSonDaughter]はその夜私と夕食を共にしたが、永遠のように感じるほどの間、一言も話さなかった。私が[new_recruit.GetBoyGirl]から会話を引き出そうとした時、[new_recruit.GetSheHe]はぼそぼそと言った。「私は貴方とは違います、[Root.GetFatherMother]よ」恥入って顔を赤くした。「私は入会の儀式に失敗しました。」;;;;;;;;;;;;x
 EVTDESC_HF_10014_B;[new_recruit.GetSonDaughter]はその夜私と夕食を共にしたが、永遠のように感じるほどの間、一言も話さなかった。私が[new_recruit.GetBoyGirl]から会話を引き出そうとした時、[new_recruit.GetSheHe]はぼそぼそと言った。「怒らないで下さい。[Root.Society.GetName]への参加について、考えを変えたのです。」;;;;;;;;;;;;x
-EVTOPTA_HF_10014;Oh, dear... I am still proud to call you family, [new_recruit.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_HF_10014;ああ、親愛なる我が子よ...私はまだお前を家族と呼ぶことを誇りに思う、[new_recruit.GetFirstName]。;;;;;;;;;;;;x
 EVTOPTA_HF_10014_TT;§Y[new_recruit.GetTitledFirstName]§! will recover from [new_recruit.GetHerHis] failure.\n;;;;;;;;;;;;x
-EVTOPTB_HF_10014;I expected more, honestly.;;;;;;;;;;;;x
+EVTOPTB_HF_10014;正直、もうちょっと期待していたんだが。;;;;;;;;;;;;x
 EVTOPTB_HF_10014_TT;§Y[new_recruit.GetTitledFirstName]§! blinks away a tear.\n;;;;;;;;;;;;x
 recruit_child_decision;戦士団に勧誘;;;;;;;;;;;;x
 recruit_child_decision_desc;§Y[Root.GetTitledFirstName]§!は貴方の[Root.GetSonDaughter]であるため、[From.Society.GetName]への入会の儀式を受けるよう頼むことができます.\n;;;;;;;;;;;;x
@@ -8372,14 +8372,14 @@ EVTOPTBHF25021;古き神々へと我が民を一人、生贄として捧げま�
 EVTOPTCHF25021_A;我が家畜から、選りすぐりの一匹を捧げましょう！;;;;;;;;;;;;x
 EVTOPTCHF25021_B;I will immolate some of my best horses.;;;;;;;;;;;;x
 EVTOPTDHF25021;御身の稚気を鎮めるため、食物と財貨を捧げましょう。;;;;;;;;;;;;x
-EVTDESCAHF25022;Two warriors from the Lodge carry [scoped_war_sacrifice.GetFirstName] outside, ignoring [scoped_war_sacrifice.GetHerHis] kicking and screaming. While the priests prepare me for the ritual by inscribing holy signs under my skin, the offering is brought to the tallest tree we can find and hanged from its strongest branch. We then start chanting hymns to the old gods under the twitching shadow of [scoped_war_sacrifice.GetFirstName].;;;;;;;;;;;;x
+EVTDESCAHF25022;小屋から二人の戦士が[scoped_war_sacrifice.GetFirstName]を[scoped_war_sacrifice.GetHerHis]が蹴ったり叫んだりするのを無視しながら外へ引きずり出した。聖職者たちが聖なる印を私の肌の下に刻むことで儀式の準備をしている間に、供物は最も高い木の最も太い枝から吊り下げられた。そして我々は、[scoped_war_sacrifice.GetFirstName]の痙攣する影の下で、古い神々に賛美歌を歌い始めた。;;;;;;;;;;;;x
 EVTDESCBHF25022;We ride for a few hours in the wilderness, leaving all signs of civilization behind us. Once we are alone, a pair of fellow warriors tie [scoped_war_sacrifice.GetFirstName] on the ground and I repeatedly trample [scoped_war_sacrifice.GetHerHim] with my horse while the priests beat their drums and chant around us. Once the offering has been made, the warriors paint my face and invoke the spirits' powers to protect me.;;;;;;;;;;;;x
 EVTDESCCHF25022;After leading [scoped_war_sacrifice.GetFirstName] in the woods, a few warriors and I start stalking [scoped_war_sacrifice.GetHerHim], our faces painted and our bodies covered in pelts. We run after our prey, howling the gods' names and throwing rocks at [scoped_war_sacrifice.GetHerHim]. In the end, after having surrounded [scoped_war_sacrifice.GetHerHim], we tear [scoped_war_sacrifice.GetHerHim] apart, offering [scoped_war_sacrifice.GetHerHis] flesh to the gods.;;;;;;;;;;;;x
 EVTDESCDHF25022;Under the maddening beating of the shamans' drums, the warriors bring [scoped_war_sacrifice.GetFirstName] forward. I approach [scoped_war_sacrifice.GetHerHim], my face inscribed with the sacred symbols, and carve a long cut through [scoped_war_sacrifice.GetHerHis] throat, grabbing [scoped_war_sacrifice.GetHerHim] by the head and showering the Lodge's totem with [scoped_war_sacrifice.GetHerHis] blood.;;;;;;;;;;;;x
 EVTDESCEHF25022;[scoped_war_sacrifice.GetFirstName] is driven by my fellow warriors to the top of the temple while the priests chant praises to the Sun and cover my face in golden dust. When the victim is brought to my feet, I plunge my blade through [scoped_war_sacrifice.GetHerHis] chest and carve out [scoped_war_sacrifice.GetHerHis] heart, offering it to the eternal aster;;;;;;;;;;;;x
 EVTDESCFHF25022;We meet in a secluded grove, a few warriors carrying my offering to the gods and a priest bringing all the sacred tools to officiate the rite. [scoped_war_sacrifice.GetFirstName] is stripped naked and cleaned. The warriors then bring [scoped_war_sacrifice.GetHerHim] whimpering to my feet, and I plunge my blade through [scoped_war_sacrifice.GetHerHis] neck, pushing it all the way to [scoped_war_sacrifice.GetHerHis] beating heart.;;;;;;;;;;;;x
-EVTOPTAHF25022;My blood for your power!;;;;;;;;;;;;x
-EVTDESCAHF25023;Two warriors from the Lodge carry [sacrificed_courtier.GetFirstName] outside, ignoring [sacrificed_courtier.GetHerHis] kicking and screaming. While the priests prepare me for the ritual by inscribing holy signs under my skin, the offering is brought to the tallest tree we can find and hanged from its strongest branch. We then start chanting hymns to the old gods under the twitching shadow of [sacrificed_courtier.GetFirstName].;;;;;;;;;;;;x
+EVTOPTAHF25022;私の血はあなたの力となるだろう!;;;;;;;;;;;;x
+EVTDESCAHF25023;小屋から二人の戦士が[sacrificed_courtier.GetFirstName]を[sacrificed_courtier.GetHerHis]が蹴ったり叫んだりするのを無視しながら外へ引きずり出した。聖職者たちが聖なる印を私の肌の下に刻むことで儀式の準備をしている間に、供物は最も高い木の最も太い枝から吊り下げられた。そして我々は、[sacrificed_courtier.GetFirstName]の痙攣する影の下で、古い神々に賛美歌を歌い始めた。;;;;;;;;;;;;x
 EVTDESCBHF25023;We ride for a few hours in the wilderness, leaving all signs of civilization behind us. Once we are alone, a pair of fellow warriors tie [sacrificed_courtier.GetFirstName] on the ground and I repeatedly trample [sacrificed_courtier.GetHerHim] with my horse while the priests beat their drums and chant around us. Once the offering has been made, the warriors paint my face and invoke the spirits' powers to protect me.;;;;;;;;;;;;x
 EVTDESCCHF25023;After leading [sacrificed_courtier.GetFirstName] in the woods, a few warriors and I start stalking [sacrificed_courtier.GetHerHim], our faces painted and our bodies covered in pelts. We run after our prey, howling the gods' names and throwing rocks at [sacrificed_courtier.GetHerHim]. In the end, after having surrounded [sacrificed_courtier.GetHerHim], we tear [sacrificed_courtier.GetHerHim] apart, offering [sacrificed_courtier.GetHerHis] flesh to the gods.;;;;;;;;;;;;x
 EVTDESCDHF25023;Under the maddening beating of the shamans' drums, the warriors bring [sacrificed_courtier.GetFirstName] forward. I approach [sacrificed_courtier.GetHerHim], my face inscribed with the sacred symbols, and carve a long cut through [sacrificed_courtier.GetHerHis] throat, grabbing [sacrificed_courtier.GetHerHim] by the head and showering the Lodge's totem with [sacrificed_courtier.GetHerHis] blood.;;;;;;;;;;;;x
@@ -9971,7 +9971,7 @@ PROV1718;キーロフ;;;;;;;;;;;;x
 PROV1719;ウドムルト;;;;;;;;;;;;x
 PROV1720;クディムカル;;;;;;;;;;;;x
 PROV436;ナーベレジヌイェ;;;;;;;;;;;;x
-b_boleslav;Boleslav;;;;;;;;;;;;x
+b_boleslav;ボレスラフ;;;;;;;;;;;;x
 b_opatovice;Opatovice;;;;;;;;;;;;x
 b_naberezhnye;Naberezhnye;;;;;;;;;;;;x
 b_bugulma;Bugulma;;;;;;;;;;;;x
@@ -10552,7 +10552,7 @@ EVTDESC_HF_10060;「もう席は埋まってるぞ、[Root.GetSocietyRank]。そ
 EVTOPTA_HF_10060;決闘？そうさ、そのとおりだ。;;;;;;;;;;;;x
 EVTOPTB_HF_10060;おお、[combatant_2.GetLordLady]、それは誤解です！そうじゃなくて…えっと…(ゴクリ);;;;;;;;;;;;x
 EVTDESC_HF_10062_A;Hail, [From.GetSocietyRank]!\n\nYou have proven yourself worthy of [Root.Society.GetName]. I admit defeat and hereby step back from the title you may now acquire – use it well. \n\nSigned, [Root.GetSocietyRank] [From.GetTitledFirstName];;;;;;;;;;;;x
-EVTDESC_HF_10062_B;Hail, [From.GetSocietyRank]!\n\nWhile we mourn the loss, know that by defeating [combatant_2.GetTitledFirstName] you have more than proven yourself worthy of the title you wished to acquire – use it well.\n\nSigned, [From.GetSocietyRank] [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_HF_10062_B;[From.GetSocietyRank]万歳!\n\n我々は、[combatant_2.GetTitledFirstName]の死を悼んでいるが、彼を打ち負かしたことで、あなたは獲得したいと思っていたタイトルにふさわしいことを十分証明した。新しい立場を十二分に活用せよ。\n\n(署名)[From.GetSocietyRank][From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_HF_10062;Thank you.;;;;;;;;;;;;x
 EVTDESC_HF_10063_A;Hail, [Root.GetSocietyRank]!\n\nIt was a valiant effort, but given the result of our duel, we cannot with good conscience let you advance to the next rank within [Root.Society.GetName]. I suggest you see more battle or spend some time in the training grounds.\n\nSigned, [From.GetSocietyRank] [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_HF_10063;I would be angry, if I wasn't so humiliated...;;;;;;;;;;;;x
@@ -12312,17 +12312,17 @@ EVTDESCAHF20108;[From.GetFirstName]はできるだけ早く洗礼を受けるべ
 EVTOPTCHF20108;On the other hand, maybe a regular baptism will do...;;;;;;;;;;;;x
 cannibal_haruspicy_sacrifice;Blood Fate;;;;;;;;;;;;x
 cannibal_haruspicy_sacrifice_desc;The flesh of this ruler's recent sacrifice is filling [Root.GetHerHis] body and mind with preternatural strength and determination.;;;;;;;;;;;;x
-martial_haruspicy_sacrifice;Clarity of Action;;;;;;;;;;;;x
+martial_haruspicy_sacrifice;行動の明快さ;;;;;;;;;;;;x
 martial_haruspicy_sacrifice_desc;The divination of the entrails of [Root.GetHerHis] last enemy showed to this ruler a clear road to victory on the fields of battle.;;;;;;;;;;;;x
-intrigue_def_haruspicy_sacrifice;Clarity of Intent;;;;;;;;;;;;x
+intrigue_def_haruspicy_sacrifice;意図の明快さ;;;;;;;;;;;;x
 intrigue_def_haruspicy_sacrifice_desc;The divination of the entrails of [Root.GetHerHis] last enemy showed to this ruler the names of the people who are plotting against [Root.GetHerHim].;;;;;;;;;;;;x
 intrigue_att_haruspicy_sacrifice;Clarity of Recourse;;;;;;;;;;;;x
 intrigue_att_haruspicy_sacrific_desc;The divination of the entrails of [Root.GetHerHis] last enemy showed to this ruler the weaknesses and secret desires of all [Root.GetHerHis] opponents.;;;;;;;;;;;;x
-stewardship_haruspicy_sacrifice;Grim Prosperity;;;;;;;;;;;;x
+stewardship_haruspicy_sacrifice;厳しい繁栄;;;;;;;;;;;;x
 stewardship_haruspicy_sacrifice_desc;As the blood of [Root.GetHerHis] last enemy is offered to the gods, the priests have prophesied a new age of prosperity for this ruler's realm.;;;;;;;;;;;;x
 negative_haruspicy_sacrifice;Rotten Entrails;;;;;;;;;;;;x
 negative_haruspicy_sacrifice_desc;Having attempted to divine the future by letting [Root.GetHerHis] priests examine the entrails of one of [Root.GetHerHis] enemies, this ruler has discovered that the powers above have nothing good in store for [Root.GetHerHim].;;;;;;;;;;;;x
-blood_haruspicy_positive;Favorable Blood Divination;;;;;;;;;;;;x
+blood_haruspicy_positive;好ましい血液占い;;;;;;;;;;;;x
 EVTTITLEAHF23411;Through [From.GetHerHis] own flesh...;;;;;;;;;;;;x
 EVTDESCAHF23411;[From.GetTitledFirstName] was a notable and prestigious [From.GetManWoman]. My priests are of the opinion that performing a divination on [From.GetHerHis] very entrails would yield much more accurate results than on any other lesser creature.;;;;;;;;;;;;x
 EVTOPTAHF23411;Do not bother yourselves. I can learn the future by eating them!;;;;;;;;;;;;x
@@ -12351,7 +12351,7 @@ EVTDESCAHF23421;The diviners rummage intently through [FromFrom.GetTitledFirstNa
 EVTOPTAHF23421;No! How could this be?!;;;;;;;;;;;;x
 EVTDESCAHF23422;By taking the lead on my diviners rummaging through [FromFrom.GetTitledFirstName]'s entrails and examining every nob and knot, I am able to discern the most endearing of results. It appears that the gods were extremely pleased by my sacrifice and have elected me to be the champion of the [Root.Religion.GetName] faith.;;;;;;;;;;;;x
 EVTOPTAHF23422;I am the chosen one!;;;;;;;;;;;;x
-religious_blood_haruspicy_sacrifice;Clarity of Destiny;;;;;;;;;;;;x
+religious_blood_haruspicy_sacrifice;運命の明快さ;;;;;;;;;;;;x
 religious_blood_haruspicy_sacrifice_desc;The divination of the entrails of [Root.GetHerHis] last enemy showed this ruler that the gods have chosen [Root.GetHerHim] to lead the [Root.Religion.GetName] faithful into a new age of prosperity and conquest.;;;;;;;;;;;;x
 bloodthirsty_gods_1;Haemophiliac;;;;;;;;;;;;x
 bloodthirsty_gods_1_desc;This [Root.GetManWoman] has performed a notable amount of human sacrifices.;;;;;;;;;;;;x
@@ -12767,15 +12767,15 @@ EVTDESCHF23806;壮大な祭りはまさに[Root.PrimaryTitle.GetName]の人々�
 EVTOPTAHF23806;さあ始めましょうか！;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23806;§Y宮廷§!と§Y封臣§!に招待状を送る。;;;;;;;;;;;;x
 EVTDESCHFA23807;[Root.GetTitledFirstName]にご挨拶申し上げる。\n[From.Capital.GetName]で素晴らしい祭りが開催されている。 あなたの家族と共に我々の幸運を祝い、供物を祖先にさ捧げようではないか。\n\n署名\n[From.GetFullName];;;;;;;;;;;;x
-EVTOPTAHF23807;What a wonderful idea!;;;;;;;;;;;;x
+EVTOPTAHF23807;それは、素晴らしい考えだ!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23807;Accept §Y[From.GetTitledFirstName]§!'s invitation.;;;;;;;;;;;;x
-EVTOPTBHF23807;Maybe some other time...;;;;;;;;;;;;x
+EVTOPTBHF23807;またの機会に...;;;;;;;;;;;;x
 EVTDESCHF23808;§Y大部族祭§!に参加させていただきとても嬉しいです、我が君。;;;;;;;;;;;;x
 EVTOPTAHF23808;よろしい。;;;;;;;;;;;;x
-EVTDESCHFA23810;Hail, [Root.GetSocietyRank]!\n\nI have heard news of the great celebration you are preparing for your fellow tribesmen. I wager you'd enjoy the company of a fellow warrior to exchange stories with.\n\nSigned, [From.GetFullName];;;;;;;;;;;;x
-EVTOPTAHF23810;Of course you are welcome!;;;;;;;;;;;;x
+EVTDESCHFA23810;[Root.GetSocietyRank]万歳!\n\n部族民の仲間のために偉大な祭りの準備をされているとの噂を聞きました。あなたは仲間の戦士と話をして楽しんでいることでしょう。\n\n(署名) [From.GetFullName];;;;;;;;;;;;x
+EVTOPTAHF23810;もちろん、歓迎するよ。;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23810;Allow §Y[From.GetTitledFirstName]§! to join in the §YFestival§!.;;;;;;;;;;;;x
-EVTOPTBHF23810;Not this time.;;;;;;;;;;;;x
+EVTOPTBHF23810;今回は参加されなくて結構;;;;;;;;;;;;x
 EVTDESCHFA23811;祭りが始まろうとしている。 あらゆる種類の商人、吟遊詩人、占い師が[great_tribal_festival_host.Capital.GetName]に集まって、彼らの商品や物語を披露している。 部族の皆に会うために旅行へ出る前に、祭りのために準備をしなければならない。;;;;;;;;;;;;x
 EVTDESCHFB23811;The period of festivities is about to start. All sorts of peddlers, bards and fortunetellers are gathering in [great_tribal_festival_host.Capital.GetName], bringing their tales and offerings. This is surely going to be a great opportunity to meet new people and learn new games.;;;;;;;;;;;;x
 EVTOPTAHF23811;狩りに行こう...;;;;;;;;;;;;x
@@ -12793,9 +12793,9 @@ EVTOPTDHF23811_B;This is going to be amazing!;;;;;;;;;;;;x
 EVTDESCHF23812;お祝いがようやく始まった。 [Root.Capital.GetName]は活気にあふれている。[Root.PrimaryTitle.GetName]の隅々から来た人々は私や私の先祖に敬意を払い、物語や物を交換し、楽しい時間を過ごすためにここを訪れた。;;;;;;;;;;;;x
 EVTOPTAHF23812;ようこそみなさん！;;;;;;;;;;;;x
 EVTDESCHF23813;お祝いがようやく始まった。 [From.Capital.GetName]は活気にあふれている。[From.PrimaryTitle.GetName]の隅々から来た人たちは、[From.GetTitledFirstName]と[From.GetHerHis]の先祖に敬意を払い、物語や物を交換し、楽しい時間を過ごすためにここを訪れた。;;;;;;;;;;;;x
-EVTOPTAHF23813;So many new faces...;;;;;;;;;;;;x
+EVTOPTAHF23813;多くの新顔がいるな...;;;;;;;;;;;;x
 EVTDESCHFA23814;人ごみの中から枯れた声が私の名前を呼んでいることに気が付いた。一人の老いた占い師が、古い石のそばに座って私を待っている。彼は私の将来を僅かな代金で占うと言った。;;;;;;;;;;;;x
-EVTDESCHFB23814;An old woman suddenly jumps in my line of sight, giving me a toothless smile and shaking a cup filled with dice. She claims that she can determine what the stars have in store for me, for the right price.;;;;;;;;;;;;x
+EVTDESCHFB23814;老婦人が突然私の視界に飛び込んできて、歯のない顔に微笑を浮かべ、サイコロの入ったコップを振っている。彼女は、正当な見返りをくれれば星のお告げを教えてやろうといっている。;;;;;;;;;;;;x
 EVTDESCHFC23814;As I am appraising some of the merchandise of the travelers drawn to the festival, I meet the unsettling gaze of a weird boy in tatters. The kid approaches me slowly, ignoring the crowd bustling with activity around him, and whispers that he can read me my future for just a small price.;;;;;;;;;;;;x
 EVTOPTAHF23814;銅貨を数枚渡す...;;;;;;;;;;;;x
 EVTOPTBHF23814;そのようなことに費やしている時間は無い!;;;;;;;;;;;;x
@@ -12825,7 +12825,7 @@ EVTOPTAHF23821;Hail, [tribal_festival_potential_friend_1.GetFirstName]! How fare
 TOOLTIP_EVTOPTAHF23821;Try to become §GFriends§! with §Y[tribal_festival_potential_friend_1.GetTitledFirstName]§!;;;;;;;;;;;;x
 EVTOPTBHF23821;Let me offer you a drink, [tribal_festival_potential_friend_1.GetFirstName]!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23821;Try to improve §Y[tribal_festival_potential_friend_1.GetTitledFirstName]§!'s §YOpinion§! of you.;;;;;;;;;;;;x
-EVTOPTCHF23821;Maybe some other time...;;;;;;;;;;;;x
+EVTOPTCHF23821;またの機会に...;;;;;;;;;;;;x
 EVTDESCHFA23822;[From.GetTitledFirstName] and I spent the evening telling old tales of our clans to each other, having a very good time alongside the other guests of [great_tribal_festival_host.GetTitledFirstName]'s feast. I never noticed how likable [From.GetFirstName] was before...;;;;;;;;;;;;x
 EVTOPTAHF23822;But what does [From.GetSheHe] *really* wants from me?;;;;;;;;;;;;x
 EVTOPTBHF23822;Let us become friends!;;;;;;;;;;;;x
@@ -12915,7 +12915,7 @@ EVTOPTBHF23849;実際には、昼寝をするだけかもしれない。;;;;;;;;
 EVTDESCHFA23850;[From.GetFirstName] challenged me to a race around town to determine who is the fastest kid of the tribe. [From.GetSheHeCap] seems very confident that [From.GetSheHe] will win and has already started to tease me that I am too much of a coward to even accept [From.GetHerHis] challenge.;;;;;;;;;;;;x
 EVTOPTAHF23850;Oh, you will see!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23850;§Y[From.GetFirstName]§!の挑戦を受け入れる。;;;;;;;;;;;;x
-EVTOPTCHF23850;Maybe some other time...;;;;;;;;;;;;x
+EVTOPTCHF23850;またの機会に...;;;;;;;;;;;;x
 EVTDESCHFA23851;Turns out that [From.GetFirstName] was too much of a coward to pick up my challenge. [From.GetSheHeCap] has run away with [From.GetHerHis] tail between [From.GetHerHis] legs, throwing some poor excuse to avoid the race.;;;;;;;;;;;;x
 EVTOPTAHF23851;Typical.;;;;;;;;;;;;x
 EVTDESCHFA23852;After we gather a few playmates to act as witnesses, [From.GetFirstName] and I are off running around town, dodging servants, scaring off farm animals, zigzagging through the fields for the quickest path. Several minutes later, I jump head-first over the final line, surrounded by the cheers of the other kids.;;;;;;;;;;;;x
@@ -13063,13 +13063,13 @@ EVTDESCHFB23903;Unfortunately for me, of the many tapestries created today none 
 EVTOPTAHF23903;見るぶんにはかなり美しいな。;;;;;;;;;;;;x
 EVTTITLE23910;奉納;;;;;;;;;;;;x
 EVTDESCHFA23910;祭りも終わりに近づき、ついに供物を焼いて先祖に捧げ、今後も私たちを守ってくださるよう祈る時が来た。 煙が夜の空に上がると、長い間沈黙が[Root.Capital.GetName]を覆い隠した。その後、我々はシャーマンの指揮で荘厳な賛美歌にを歌い、式を終えた。;;;;;;;;;;;;x
-EVTDESCHFB23910;With the period of festivities coming to an end, the priests lead a procession of faithful carrying our village's most sacred icon, on a litter filled with all the offerings accumulated into the past days. A long moment of silence shrouds [Root.Capital.GetName] as the holy symbol blesses the streets of the village with its presence before being brought back to the safety of the local chapel, concluding the ceremony.;;;;;;;;;;;;x
+EVTDESCHFB23910;祭りの期間が終わると、祭司たちは村の最も神聖な象徴を担いだ信者の行列を先導し、これまでに捧げられたすべての供え物でいっぱいのごみの上に乗せた。長い沈黙の時間が[Root.Capital.GetName]を覆い、聖なる象徴が村の通りをその存在で祝福した後、地元の祠の安全な場所に戻され、儀式は終了した。;;;;;;;;;;;;x
 EVTDESCHFC23910;祭りも終わりに近づき、ついに供物を焼いて神々に捧げ、今後も私たちを守ってくださるよう祈る時が来た。 煙が夜の空に上がると、長い間沈黙が[Root.Capital.GetName]を覆い隠した。その後、我々はシャーマンの指揮で荘厳な賛美歌を歌い、式を終えた。;;;;;;;;;;;;x
 EVTOPTAHF23910;[Root.Religion.GetRandomGodName]に栄光あれ！;;;;;;;;;;;;x
 EVTTITLE23911;奉納;;;;;;;;;;;;x
 EVTDESCHFA23911;祭りも終わりに近づき、ついに供物を焼いて先祖に捧げ、今後も私たちを守ってくださるよう祈る時が来た。 煙が夜の空に上がると、長い間沈黙が[From.Capital.GetName]を覆い隠した。その後、我々はシャーマンの指揮で荘厳な賛美歌を歌い、式を終えた。;;;;;;;;;;;;x
-EVTDESCHFB23911;With the period of festivities coming to an end, the priests lead a procession of faithful carrying our village's most sacred icon, on a litter filled with all the offerings accumulated into the past days. A long moment of silence shrouds [From.Capital.GetName] as the holy symbol blesses the streets of the village with its presence before being brought back to the safety of the local chapel, concluding the ceremony.;;;;;;;;;;;;x
-EVTDESCHFC23911;With the period of festivities nearing its end, it is finally time to burn our offerings to the old gods and pray that they will protect us in the years to come. A long moment of silence shrouds [From.Capital.GetName] as the smoke rises to the nightly sky, then the shamans lead us in a somber hymn, concluding the ceremony.;;;;;;;;;;;;x
+EVTDESCHFB23911;祭りの期間が終わると、祭司たちは村の最も神聖な象徴を担いだ信者の行列を先導し、これまでに捧げられたすべての供え物でいっぱいのごみの上に乗せた。長い沈黙の時間が[From.Capital.GetName]を覆い、聖なる象徴が村の通りをその存在で祝福した後、地元の祠の安全な場所に戻され、儀式は終了した。;;;;;;;;;;;;x
+EVTDESCHFC23911;祭りも終わりに近づき、いよいよ古い神々に捧げるために供え物に火をつけ、彼らがこれからの数年間にわたり私たちを守るように祈る時だ。 煙が夜の空に昇ると、長い沈黙の時間が[From.Capital.GetName]を覆い、シャーマンたちは私たちを陰鬱な賛美歌で導いて、式典を終えた。;;;;;;;;;;;;x
 EVTOPTAHF23911;[From.Religion.GetRandomGodName]に栄光あれ！;;;;;;;;;;;;x
 opinion_held_great_festival;Held Great Festival;;;;;;;;;;;;x
 great_tribal_festival_1;Festivals Held;;;;;;;;;;;;x
@@ -13441,7 +13441,7 @@ string_warrior_lodge_die_is_kali;カーリー;;;;;;;;;;;;x
 EVTTITLEHF25226;The Dice Game;;;;;;;;;;;;x
 EVTDESCHF25226;A few of my fellow warriors have been spending the night at the Lodge, playing dice games while drinking. Noticing me watching them, they immediately invite me to join them. Initially, I refuse, but then they start teasing me, insinuating I am afraid of a simple betting game.;;;;;;;;;;;;x
 EVTOPTAHF25226;Alright, then! Pass me the die!;;;;;;;;;;;;x
-EVTOPTBHF25226;Maybe some other time.;;;;;;;;;;;;x
+EVTOPTBHF25226;またの機会に。;;;;;;;;;;;;x
 EVTDESCHF25227;As I take the four-sided die inscribed with the intricate faces of the gods, I am asked how much I wish to bet before starting the game.;;;;;;;;;;;;x
 EVTOPTAHF25227;All in!;;;;;;;;;;;;x
 EVTOPTBHF25227;I am feeling rather lucky tonight.;;;;;;;;;;;;x
@@ -16040,7 +16040,7 @@ b_orda;Orda;;;;;;;;;;;;x
 b_tungysh;Tungysh;;;;;;;;;;;;x
 b_mereke;Mereke;;;;;;;;;;;;x
 b_borsi;Borsi;;;;;;;;;;;;x
-b_marks;Marks;;;;;;;;;;;;x
+b_marks;マークス;;;;;;;;;;;;x
 b_lipovka;Lipovka;;;;;;;;;;;;x
 b_burnyy;Burnyy;;;;;;;;;;;;x
 b_shumeyka;Shumeyka;;;;;;;;;;;;x
@@ -16545,7 +16545,7 @@ b_acinganorum;Acinganorum;;;;;;;;;;;;x
 b_belukha;Belukha;;;;;;;;;;;;x
 b_khuiten;Khüiten;;;;;;;;;;;;x
 b_monkh_khairkhan;ムンク・ハイルハン;;;;;;;;;;;;x
-b_markakol;Markakol;;;;;;;;;;;;x
+b_markakol;マルカコル;;;;;;;;;;;;x
 b_abakan;Abakan;;;;;;;;;;;;x
 b_tom;Tom;;;;;;;;;;;;x
 b_kuznetsk;Kuznetsk;;;;;;;;;;;;x
@@ -16799,14 +16799,14 @@ b_louka;Louka;;;;;;;;;;;;x
 b_svaty_kopecek;Svatý Kopecek;;;;;;;;;;;;x
 b_vyskov;Vyskov;;;;;;;;;;;;x
 b_veligrad;ヴェリグラド;;;;;;;;;;;;x
-b_brno;Brno;;;;;;;;;;;;x
+b_brno;ブルノ;;;;;;;;;;;;x
 b_mikulcice;Mikulcice;;;;;;;;;;;;x
 b_svitavy;Svitavy;;;;;;;;;;;;x
-b_rajhrad;Rajhrad;;;;;;;;;;;;x
+b_rajhrad;ライフラト;;;;;;;;;;;;x
 b_pernstejn;Pernstejn;;;;;;;;;;;;x
 b_hodonin;Hodonín;;;;;;;;;;;;x
-b_krnov;Krnov;;;;;;;;;;;;x
-b_bruntal;Bruntál;;;;;;;;;;;;x
+b_krnov;クルノフ;;;;;;;;;;;;x
+b_bruntal;ブルンタール;;;;;;;;;;;;x
 b_hradec_nad_moravici;Hradec nad Moravicí;;;;;;;;;;;;x
 b_hlubcice;Hlubcice;;;;;;;;;;;;x
 b_holasovice;Holasovice;;;;;;;;;;;;x
@@ -17211,7 +17211,7 @@ c_tsagaannuur_adj;Zavkhan;;;;;;;;;;;;x
 c_belukha_adj;Belukhani;;;;;;;;;;;;x
 c_khuiten_adj;Khüiteni;;;;;;;;;;;;x
 c_monkh_khairkhan_adj;Mönkher;;;;;;;;;;;;x
-c_markakol_adj;Markakoli;;;;;;;;;;;;x
+c_markakol_adj;マルカコル;;;;;;;;;;;;x
 c_abakan_adj;Abakani;;;;;;;;;;;;x
 c_tom_adj;Toman;;;;;;;;;;;;x
 c_kuznetsk_adj;Kuznetski;;;;;;;;;;;;x
@@ -17589,7 +17589,7 @@ nick_the_elder;長老;;;;;;;;;;;;x
 EVTDESCHFP24001;I may not be as strong and sprightly as I once was, but I have a duty to keep sharing my wisdom and advice to the brash, young members of [Root.Capital.GetName], thus ensuring the prosperity of my tribe. Somebody must tell these kids all the things that they are doing wrong.;;;;;;;;;;;;x
 EVTOPTAHFP24001;I am not going anywhere!;;;;;;;;;;;;x
 EVTDESCHFP24003;[From.GetTitledFirstName] decided to appear unannounced at my court this morning, claiming that [From.GetSheHe] is pleased by my leadership and that [From.GetSheHe] wishes to follow my progress as [Root.GetTitle] more closely, while providing me with [From.GetHerHis] priceless advice.;;;;;;;;;;;;x
-EVTOPTAHFP24003;Of course you are welcome!;;;;;;;;;;;;x
+EVTOPTAHFP24003;もちろん、歓迎するよ。;;;;;;;;;;;;x
 tooltip_other_elders_pleased;§Y[Root.PrimaryTitle.GetName]§!にいる§Y長老§!は全員、あなたの決定に満足するでしょう。;;;;;;;;;;;;x
 EVTOPTBHFP24003;Who do you think you are, old [From.GetManWoman]?;;;;;;;;;;;;x
 tooltip_other_elders_displeased;§Y[Root.PrimaryTitle.GetName]§!にいる§Y長老§!は全員、あなたの決定に腹を立てるでしょう。;;;;;;;;;;;;x
@@ -19670,7 +19670,7 @@ baibars_desc;Once sold in a slave market, Baibars would eventually become the ma
 arwa_desc;A powerful woman, Arwa was known for her intelligence and knowledge of both heavenly and earthly affairs. She also engaged in several building projects across Yemen.;;;;;;;;;;;;x
 philippe_capet_desc;A pious and respected leader of the Third Crusade, Philippe fought against both heretics and infidels with great success.;;;;;;;;;;;;x
 barbarossa_desc;An able ruler, Frederick 'Barbarossa' was known both as a warrior who sought to control the rebel Italian princes and as a skilled lawmaker.;;;;;;;;;;;;x
-premyslid_desc;Despite his involvement in the murder of his elder brother, Boleslav was a tenacious leader who significantly strengthened the Bohemian realm.;;;;;;;;;;;;x
+premyslid_desc;兄の殺害に関与していたにも関わらず、ボレスラフはボヘミアの国土を繁栄させた不屈の指導者でした。;;;;;;;;;;;;x
 christian_church_opinion;[christian.GetGroupName]教会からの評価;;;;;;;;;;;;x
 muslim_church_opinion;[muslim.GetGroupName]教聖職者からの評価;;;;;;;;;;;;x
 pagan_group_church_opinion;[pagan_group.GetGroupName]教聖職者からの評価;;;;;;;;;;;;x
