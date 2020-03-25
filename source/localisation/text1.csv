@@ -14524,7 +14524,7 @@ MESSAGE_IS_ONMAP;現在、この種類のメッセージはマップ上に表示
 MESSAGE_SETTING_TRUE;いる;;;;;;;;;;;;x
 MESSAGE_SETTING_FALSE;いない;;;;;;;;;;;;x
 SUCCESSION_SETUP;継承権による相続;;;;;;;;;;;;x
-SUCCESSION_LOG;§Y$SUCCESSOR$§!が§Y$PREDECESSOR$§!から§Y$TITLES$§!の称号を相続。;;;;;;;;;;;;x
+SUCCESSION_LOG;§Y$SUCCESSOR$§! が §Y$PREDECESSOR$§! から §Y$TITLES$§! の称号を相続。;;;;;;;;;;;;x
 SUCCESSION_ALL_VASSALS;その他の称号;;;;;;;;;;;;x
 LOSTVASSAL_SETUP;封臣が称号を喪失;;;;;;;;;;;;x
 LOSTVASSAL_LOG;$OLDLIEGE$の封臣が$TITLE$の称号を喪失。;;;;;;;;;;;;x

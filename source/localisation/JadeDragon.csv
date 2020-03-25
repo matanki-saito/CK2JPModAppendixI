@@ -4548,7 +4548,7 @@ EVTOPTD_JD_15017_TT;あなたは他にすることがあります。\n;;;;;;;;;;
 String_dangerous;危険な;;;;;;;;;;;;x
 String_valuable;貴重な;;;;;;;;;;;;x
 EVTDESC86320;老人はカアブ・イブン・マリクがアッラーの使者からアッラーによって祝福を受け、平穏を与えられることを伝えられた際の言葉について語り始めた「飢えた2匹の狼も羊に囲まれていては大したことはできないように彼の金銭欲や名誉欲も大したことはできないでしょう」;;;;;;;;;;;;x
-uninspired;創造性のない;;;;;;;;;;;;x
+uninspired;創造性の枯渇;;;;;;;;;;;;x
 uninspired_desc;この人物は創造的な仕事をする気分ではありません。;;;;;;;;;;;;x
 not_awaiting_your_spouse_tt;[offmap_china.GetFullName]からの配偶者を持っていない\n;;;;;;;;;;;;x
 adopt_chinese_imperialism_tt;You will found a new Empire in the West, inspired by the splendor of the [offmap_china.GetFullName].\n;;;;;;;;;;;;x

@@ -6868,15 +6868,15 @@ saintly_lustful_description;[saint_person.GetFirstName]は[Root.GetTitledFirstNa
 nick_papal_lover;教皇の愛人;;;;;;;;;;;;x
 saintly_seducer_description;[saint_person.GetFirstName]は[saint_person.Religion.GetGroupName]の領国じゅうで、眠りこけていたことで知られています。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 nick_gods_seducer;[saint_person.Religion.GetHighGodName]の恋人;;;;;;;;;;;;x
-EVTDESC_HF_43400;A message is delivered to you by a [Root.GetMonkOrder]. Your ancestor made an impact on them, and they would like to extend their hand to you in friendship. If you so wish, they will settle some of their monks in [Root.Capital.GetName] to talk to the locals and spread the faithful message of [Root.Religion.GetHighGodName].;;;;;;;;;;;;x
+EVTDESC_HF_43400;ある[Root.GetMonkOrder]から、あなた宛ての手紙を受け取った。かつて彼らはあなたの祖先に感銘を受けたため、あなたに友情を感じており、助力をしようというのだ。あなたが望むのなら、彼らは修道士を[Root.Capital.GetName]に常駐させ、地元の人々と語らい、[Root.Religion.GetHighGodName]のありがたい御言葉を広めるたいとのことだ。;;;;;;;;;;;;x
 EVTOPTA_HF_43400;彼らの助けになるような寄付をしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_43400;もっとよい方法がある。私自身がこの修道会に入るのだ。;;;;;;;;;;;;x
 EVTOPTC_HF_43400;よくわかった。彼らの幸運を祈ろう。;;;;;;;;;;;;x
 monk_society_help;Monks Helping Out;;;;;;;;;;;;x
-string_getmonk_benedictine;Benedictine monk;;;;;;;;;;;;x
-string_getmonk_orthodox;monk from the Community of Saint Basil;;;;;;;;;;;;x
-string_getmonk_nestorian;monk from the Community of Saint Abraham;;;;;;;;;;;;x
-string_getmonk_monophysite;monk from the Community of Saint Anthony;;;;;;;;;;;;x
+string_getmonk_benedictine;ベネディクト派の修道士;;;;;;;;;;;;x
+string_getmonk_orthodox;聖バシレイオス教団の修道士;;;;;;;;;;;;x
+string_getmonk_nestorian;聖アブラハム共同体の修道士;;;;;;;;;;;;x
+string_getmonk_monophysite;聖アントニウス修道会の修道士;;;;;;;;;;;;x
 string_getmonk_generic;修道士;;;;;;;;;;;;x
 create_the_hansa;ハンザ同盟を結成;;;;;;;;;;;;x
 create_the_hansa_desc;ハンザ同盟の執政官となります。;;;;;;;;;;;;x
