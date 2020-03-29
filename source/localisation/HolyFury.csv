@@ -6544,7 +6544,7 @@ NOT_ANY_BLOODLINE_STARTS;血脈なし;;;;;;;;;;;;x
 NOT_ANY_KILL_LIST_CHARACTER_START;殺した人一覧が空;;;;;;;;;;;;x
 NOT_DESCENDANT_OF_A_JEWISH_SAINT;Is NOT the descendant of a Saintly Bloodline commended by the [jewish.GetName] community;;;;;;;;;;;;x
 EVTDESC_HF_40004;[saint_person.GetDynName]は[saint_person.Religion.GetHighGodName]の模範として敬虔な人生を生きた。[saint_person.GetSheHeCap]は[saint_person.GetDeathDate]に亡くなり、人々は[saint_person.GetSheHe]が真の[saint_person.Religion.GetGroupName]徒であるかないか疑問を持ち続けていた。\n\n盛大な式典の中、[bishopric_holder.GetTitledFirstName]は[saint_person.GetFirstNameWithNick]が真の[saint_person.Religion.GetGroupName]徒であり、天国に入ったことを宣言した。[saint_person.PrimaryTitle.GetName]の臣民と同様に、[saint_person.Religion.GetGroupName]世界全体がそれを祝福した。\n\n[saint_person.GetHerHis]を手本とし、[saint_person.Religion.GetHighGodName]の目に真に敬虔な人間として映るよう願うばかりだ。;;;;;;;;;;;;x
-EVTOPTAHF.40004;私たち全体の損失だ。;;;;;;;;;;;;x
+EVTOPTAHF.40004;我ら皆の良き隣人を失った;;;;;;;;;;;;x
 TITLEHF.40004;福者が認定された;;;;;;;;;;;;x
 saint;聖人;;;;;;;;;;;;x
 saint_desc;この人物は真の[saint_person.Religion.GetGroupName]として列聖されている。;;;;;;;;;;;;x
@@ -6683,15 +6683,15 @@ EVTOPTF_HF_41300;聖アウグスティヌスは、[Root.Religion.GetGroupName]�
 EVTOPTG_HF_41300;聖クリストフォロスの墓を見るためにアンティオキアへ！;;;;;;;;;;;;x
 EVTDESC_HF_41310;[pilgrimage_destination.GetName]への旅への計画がしばらくの間、練られた。北方は寒く残忍な場所であり、[pilgrimage_destination.Realm.GetName]で遭遇するかもしれないどんな潜在的な危険にも備えなければならない。最終的に[pilgrimage_destination.province_saint.GetFirstNameWithNick]の埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している。;;;;;;;;;;;;x
 EVTDESC_HF_41310_ALT;レイス・セルテアへの旅への計画がしばらくの間、練られた。北方は寒く残忍な場所であり、アイルランドで遭遇するかもしれないどんな潜在的な危険にも備えなければならない。最終的に聖パトリックの埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している。;;;;;;;;;;;;x
-EVTOPTA_HF_41310;興奮の旅が始まる。;;;;;;;;;;;;x
+EVTOPTA_HF_41310;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
 EVTDESC_HF_41312;The journey to [pilgrimage_destination.GetName] has been planned for a while. Despite the mild climate of [pilgrimage_destination.Realm.GetName], a traveler has to be properly prepared for long trips like these. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
 EVTDESC_HF_41312_ALT;The journey to Antioch has been planned for a while. Despite the mild climate of Syria, a traveler has to be properly prepared for long trips like these. I am excited to finally be on my way, to find my destiny as I search for the final burial place of Saint Christopher.;;;;;;;;;;;;x
-EVTOPTA_HF_41312;興奮の旅が始まる。;;;;;;;;;;;;x
+EVTOPTA_HF_41312;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
 EVTDESC_HF_41314;The journey to [pilgrimage_destination.GetName] has been planned for a while. A traveler has to be prepared for what you might meet in the exotic lands of [pilgrimage_destination.Realm.GetName]. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
 EVTDESC_HF_41314_ALT;古代都市ヒッポへの旅への計画がしばらくの間、練られた。旅人は異国の地アフリカで遭遇しうる何かに備えなければならない。最終的に聖アウグスティヌスの埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している;;;;;;;;;;;;x
-EVTOPTA_HF_41314;興奮の旅が始まる。;;;;;;;;;;;;x
+EVTOPTA_HF_41314;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
 EVTDESC_HF_41316;The journey to [pilgrimage_destination.GetName] has been planned for a while. I have spent a lot of time preparing for whatever risks I might meet on my way to [pilgrimage_destination.Realm.GetName]. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
-EVTOPTA_HF_41316;興奮の旅が始まる。;;;;;;;;;;;;x
+EVTOPTA_HF_41316;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
 EVTDESC_HF_41320;私は別の巡礼者の一団と出くわした。かれらも[pilgrimage_destination.province_saint.GetFirstNameWithNick]の祝福を求めて[pilgrimage_destination.GetName]へ向かう途中だという。一緒に行けば、歩みは多少遅くなろうとも、有益で安全な旅となるだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41320_ALT;私は別の巡礼者の一団と出くわした。かれらも聖パトリックの祝福を求めてレイス・セルテアへ向かう途中だという。一緒に行けば、歩みは多少遅くなろうとも、有益で安全な旅となるだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41320_ALT_2;私は別の巡礼者の一団と出くわした。かれらも聖アウグスティヌスの祝福を求めて旅の途中だという。一緒に行けば、歩みは多少遅くなろうとも、有益で安全な旅となるだろう。;;;;;;;;;;;;x
@@ -6712,7 +6712,7 @@ EVTOPTA_HF_41352_ALT;アンティオキアで、何が待ち受けているの�
 EVTDESC_HF_41354;There have been new sights to behold every day, as I travel to [pilgrimage_destination.Realm.GetName]. By my own estimates, I should be halfway to [pilgrimage_destination.GetName] by now. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
 EVTDESC_HF_41354_ALT;There have been new sights to behold every day, as I travel to Africa. By my own estimates, I should be halfway to Hippo. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
 EVTOPTA_HF_41354;[pilgrimage_destination.GetName]で、何が待ち受けているのだろうか。;;;;;;;;;;;;x
-EVTOPTA_HF_41354_ALT;I wonder what awaits me in Hippo.;;;;;;;;;;;;x
+EVTOPTA_HF_41354_ALT;ヒッポで、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTDESC_HF_41356;It has been a tiresome yet fulfilling journey so far, as I travel to [pilgrimage_destination.Realm.GetName]. By my own estimates, I should be halfway to [pilgrimage_destination.GetName] by now. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
 EVTOPTA_HF_41356;[pilgrimage_destination.GetName]で、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTDESC_HF_41360;I come across a group of caravans, filled with the laughter and joy of a group of traveling entertainers. As day turns to night, I enjoy the company of the group. A particularly beautiful [Root.GetManWomanOpp] is teasing me, and invites me to stay the night.;;;;;;;;;;;;x
@@ -6868,7 +6868,7 @@ saintly_lustful_description;[saint_person.GetFirstName]は[Root.GetTitledFirstNa
 nick_papal_lover;教皇の愛人;;;;;;;;;;;;x
 saintly_seducer_description;[saint_person.GetFirstName]は[saint_person.Religion.GetGroupName]の領国じゅうで、眠りこけていたことで知られています。堕落した[Root.GetTitledName]によって不正にも列聖されています。;;;;;;;;;;;;x
 nick_gods_seducer;[saint_person.Religion.GetHighGodName]の恋人;;;;;;;;;;;;x
-EVTDESC_HF_43400;ある[Root.GetMonkOrder]から、あなた宛ての手紙を受け取った。かつて彼らはあなたの祖先に感銘を受けたため、あなたに友情を感じており、助力をしようというのだ。あなたが望むのなら、彼らは修道士を[Root.Capital.GetName]に常駐させ、地元の人々と語らい、[Root.Religion.GetHighGodName]のありがたい御言葉を広めるたいとのことだ。;;;;;;;;;;;;x
+EVTDESC_HF_43400;ある[Root.GetMonkOrder]から、あなた宛ての手紙を受け取った。かつて彼らはあなたの祖先に感銘を受けたため、あなたに友情を感じており、助力をしようというのだ。あなたが望むのなら、彼らは修道士を[Root.Capital.GetName]に常駐させ、地元の人々と語らい、[Root.Religion.GetHighGodName]のありがたい御言葉を広めようとのことだ。;;;;;;;;;;;;x
 EVTOPTA_HF_43400;彼らの助けになるような寄付をしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_43400;もっとよい方法がある。私自身がこの修道会に入るのだ。;;;;;;;;;;;;x
 EVTOPTC_HF_43400;よくわかった。彼らの幸運を祈ろう。;;;;;;;;;;;;x
@@ -7123,22 +7123,22 @@ EVTDESC_HF_42026_DUEL;ついに我々は大会の決勝戦まで勝ち上がっ�
 EVTDESC_HF_42026_GAME;両軍が衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。序盤に私が敵の駒をかなり倒していたとはいえ、[From.GetFirstName]は自軍を危険な場所に配置した。;;;;;;;;;;;;x
 EVTDESC_HF_42026_SOCIAL;夜が更けていくにしたがい、私はこの集まりを楽しんでいた。[From.GetFirstName]は、私を次から次へと積極的に他の客たちと引き合わせてくれたが、これは私が今夜うまく仲間を作れるようにという[From.GetSheHe]の計らいだったのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_42026_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は積極的に[From.GetHerHis]の自説を述べ始めた。;;;;;;;;;;;;x
-EVTDESC_HF_42026_STEWARD; I start wondering if we have gotten lost as we walk through the hedge-maze, but [From.GetFirstName] confidently keeps up the pace. Is the hedge-maze really that big, or is [From.GetFirstName] terrified of telling me [From.GetSheHe] does not know the way out?;;;;;;;;;;;;x
-EVTDESC_HF_42026_TORTURE;[From.GetFirstName] picks out one of the prisoners, and starts mercilessly torture the individual, pulling it through the rack. If this keeps up for much longer, I am sure the individual will break in no time. ;;;;;;;;;;;;x
+EVTDESC_HF_42026_STEWARD;迷路のなかを歩いているうちに、我々は道に迷っているのではないかと私は疑い始めたが、[From.GetFirstName]は自信ありげに歩き続けている。この迷路は本当に大きいのか、それとも[From.GetFirstName]が自分は道がわからなくなったと私に言うのを恐れているのかどちらなのだろうか。;;;;;;;;;;;;x
+EVTDESC_HF_42026_TORTURE;[From.GetFirstName]は囚人のなかから一人を選び出し、拷問台にかけて両手両足を引き絞り無慈悲にも責め始めた。そいつの身体が十分強くなければ、すぐに引き裂かれてしまっていただろうと私は思った。;;;;;;;;;;;;x
 EVTOPTA_HF_42026_HUNT;[From.GetHerHim]を助けよう！;;;;;;;;;;;;x
 EVTOPTA_HF_42026_DUEL;我々はともに立ち向かうのだ！;;;;;;;;;;;;x
-EVTOPTA_HF_42026_GAME;No, I will aid [From.GetFirstName] so [From.GetSheHe] can save most of [From.GetHerHis] units.;;;;;;;;;;;;x
-EVTOPTA_HF_42026_SOCIAL;Let us find me someone!;;;;;;;;;;;;x
-EVTOPTA_HF_42026_SCHOLAR;We need to be on the offensive, I will back [From.GetHerHim] up.;;;;;;;;;;;;x
-EVTOPTA_HF_42026_STEWARD;I will try to reason with [From.GetHerHim], which way will lead us out.;;;;;;;;;;;;x
-EVTOPTA_HF_42026_TORTURE;Let me in on the fun as well!;;;;;;;;;;;;x
-EVTOPTB_HF_42026_HUNT;[From.GetSheHeCap] should have been more careful.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_DUEL;I will hold back, and let the others tire themselves out.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_GAME;I will take advantage of this opportunity, so we can win the war.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_SOCIAL;It is all right, I am already having fun.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_SCHOLAR;[From.GetFirstName] got this.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_STEWARD;[From.GetSheHeCap] probably knows the way out.;;;;;;;;;;;;x
-EVTOPTB_HF_42026_TORTURE;We should take it slow instead.;;;;;;;;;;;;x
+EVTOPTA_HF_42026_GAME;いや、[From.GetFirstName]の駒のほとんどを救えるのだから、[From.GetSheHe]を支援しよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42026_SOCIAL;誰か相手を見つけることにしよう！;;;;;;;;;;;;x
+EVTOPTA_HF_42026_SCHOLAR;我々は攻めの姿勢で臨まねば。[From.GetHerHim]を援護しよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42026_STEWARD;うまく案内できずに道に迷ってしまったと[From.GetHerHim]に説明しよう。;;;;;;;;;;;;x
+EVTOPTA_HF_42026_TORTURE;私も一丁楽しむとしようか！;;;;;;;;;;;;x
+EVTOPTB_HF_42026_HUNT;[From.GetSheHeCap]はもっと慎重に行動するべきだった。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_DUEL;背後をとって、奴らをくたくたに疲れさせてやろう。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_GAME;この機に乗じて行こう、そうすればこの戦いに勝てるはずだ。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_SOCIAL;大丈夫だ、私はもう十分楽しんでいるよ。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_SCHOLAR;[From.GetFirstName]はわかっているな。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_STEWARD;[From.GetSheHeCap]はおそらく道に迷っていると知ってる。;;;;;;;;;;;;x
+EVTOPTB_HF_42026_TORTURE;そうではなく、ゆっくり責めるべきだ。;;;;;;;;;;;;x
 EVTDESC_HF_42027_HUNT;We come across the boar we have been looking for, but [From.GetFirstName] does not give the order to engage. I am not sure if [From.GetSheHe] is waiting it out, unsure what to do or is just being a coward.;;;;;;;;;;;;x
 EVTDESC_HF_42027_DUEL;We finally reach the finale of the tournament, and our last opponents are two large men. [From.GetFirstName] wait them out, and dodge back and forth, apparently trying to tire them out.;;;;;;;;;;;;x
 EVTDESC_HF_42027_GAME;The game is starting to develop into a bloodbath, as the armies are clashing together. There seems to have been some sort of miscommunication between [From.GetFirstName] and myself, as I have been put in a terrible position where most of my units are getting slaughtered, whereas [From.GetSheHe] is holding [From.GetHerHis] units back. ;;;;;;;;;;;;x

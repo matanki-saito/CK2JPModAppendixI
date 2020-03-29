@@ -643,7 +643,7 @@ TECH_MARTIAL_VALUE;軍事技術点の基本成長;;;;;;;;;;;;x
 TECH_STEWARDSHIP_VALUE;経済技術点の基本成長;;;;;;;;;;;;x
 TECH_DIPLOMACY_VALUE;文化技術点の基本成長;;;;;;;;;;;;x
 TECH_POINTS_PER_MONTH;点/月;;;;;;;;;;;;x
-TECHPOINT_EFFECT;$TYPE$が$DIRECTION$$VALUE$。\n;;;;;;;;;;;;x
+TECHPOINT_EFFECT;$TYPE$$VALUE$を$DIRECTION$。\n;;;;;;;;;;;;x
 TECH_POINTS_PER_ATTRIBUTE;属性ポイント当たりの技術点;;;;;;;;;;;;x
 PARTIALLY_FILLED;部分的に満たされている;;;;;;;;;;;;x
 COUNT_TECH_POINTS;伯爵は技術点を生み出しません;;;;;;;;;;;;x

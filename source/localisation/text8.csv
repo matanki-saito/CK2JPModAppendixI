@@ -44,7 +44,7 @@ ASK_TO_JOIN_WAR_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§Wは、§Y[Ac
 ASK_TO_JOIN_WAR_INTERACTION_DECLINE_SETUP;参戦の申し出は断られた;;;;;;;;;;;;x
 ASK_TO_JOIN_WAR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§Wは、§Y[Actor.GetBestName]§Wの§Y$WAR$§!への参戦を断った。;;;;;;;;;;;;x
 ASK_TO_JOIN_WAR_INTERACTION_OFFER;[Actor.GetBestName]は§Y$WAR$§!への参戦を望んでいる。;;;;;;;;;;;;x
-ASK_TO_JOIN_WAR_INTERACTION_LETTER;貴国の主張はもっともである！　ぜひ、貴君に$WAR$への参戦を、お聞き入れ願いたい。;;;;;;;;;;;;x
+ASK_TO_JOIN_WAR_INTERACTION_LETTER;貴君の主張はもっともである！　ぜひ、私の$WAR$への参戦を、貴君にお聞き入れ願いたい。;;;;;;;;;;;;x
 INTERACTION_CANNOT_JOIN_LIEGE_WAR;我らの主君の戦争に、加わるわけにはいかない：;;;;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_IS_SAME_RELIGION;§Y[Recipient.GetTitledFirstName]§!は[Actor.Religion.GetName]の信徒である;;;;;;;;;;;;x
 EVTDESC293;喜んで貴君の加勢の申し出をお受けしよう。敵を震え上がらせてやろうではないか！\n\n[From.GetTitledFirstName];;;;;;;;;;;;x
