@@ -454,10 +454,10 @@ secretly_convert_to_aztec_holy_site;アステカ原始宗教を秘匿信仰す�
 secretly_convert_to_aztec_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site;アステカ宗教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_zun_pagan_holy_site;ズン教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_zun_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_zun_pagan_reformed_holy_site;改革派ズン教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_zun_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y改革派ズン教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_holy_site;ズン宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_reformed_holy_site;改革派ズン宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン教会§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 RULE_SECRET_CULTS;秘密のカルト教団;;;;;;;;;;;;x
 RULE_SECRET_CULTS_DEFAULT_DESC;秘密のカルト教団を設立することができます。;;;;;;;;;;;;x
 RULE_SECRET_CULTS_NONE_DESC;秘密のカルト教団を設立することはできません。;;;;;;;;;;;;x

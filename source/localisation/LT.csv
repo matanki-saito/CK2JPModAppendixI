@@ -1502,8 +1502,8 @@ EVTDESC50022;[enemy_liege.GetTitledFirstName]は[enemy_liege.Religion.GetHighGod
 String_most_recently_added;壮麗な[This.GetName]に多くの注目が集まっている;;;;;;;;;;;;x
 recently_sent_alcohol_gift;最近アルコール飲料を贈った;;;;;;;;;;;;x
 EVTOPTA_LT_20432_B;人生は素晴らしい！;;;;;;;;;;;;x
-zun_pagan_opinion;ズン教信者の評価;;;;;;;;;;;;x
-zun_pagan_reformed_opinion;改革派ズン教信者の評価;;;;;;;;;;;;x
+zun_pagan_opinion;ズン宗教教徒の評価;;;;;;;;;;;;x
+zun_pagan_reformed_opinion;改革派ズン宗教教徒の評価;;;;;;;;;;;;x
 TECH_CITY_CONSTRUCTION;都市と教区;;;;;;;;;;;;x
 TECH_CITY_CONSTRUCTION_DESC;都市と教区にある建物の改良;;;;;;;;;;;;x
 TECH_INFANTRY;歩兵;;;;;;;;;;;;x
@@ -2074,7 +2074,7 @@ tribal_king_female_hungarian;女大公;;;;;;;;;;;;x
 COURT_LIMITED_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).\n\nRulers can house only a certain number of adult people in their court, depending on the tier of their Title. Beyond that number, §YCourt Expenses§! will increase.;;;;;;;;;;;;x
 COURT_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).;;;;;;;;;;;;x
 death_text_evil_wonder;For [GetHerHis] wicked deeds, many screamed not to bury [GetFirstName] with the other rulers of our lands, instead to toss [GetHerHim] in an unmarked grave and without the proper services. May [GetFirstName] finally pay for [GetHerHis] sins in the afterlife;;;;;;;;;;;;x
-death_text_started_wonder;Never succeeding in making a name for [GetHerselfHimself], [GetFirstName] most notable deed was participating in the construction of the great works which [GetSheHe] will never see finished;;;;;;;;;;;;x
+death_text_started_wonder;[GetHerselfHimself]が名を上げることはありませんでしたが、[GetFirstName]の最も有名な功績は[GetSheHe]が完成を見ることはなかった文化遺産の建設に携わったことでしょう。;;;;;;;;;;;;x
 death_text_architect_wonder;[GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [GetHerHis] labor;;;;;;;;;;;;x
 death_text_child;While many struggle to see why [Religion.GetHighGodName] decided to take a young child away from us, we hope [GetFirstName] will find peace in the afterlife;;;;;;;;;;;;x
 EVTDESC64065;結婚してしまった[lover.GetManWoman]との関係は、実際のところ気の滅入るものになりつつある。人々から軽蔑されることを恐れず、堂々と[lover.GetHerHim]を愛することができれば良いのに……;;;;;;;;;;;;x

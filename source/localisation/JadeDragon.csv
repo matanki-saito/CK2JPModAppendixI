@@ -697,8 +697,8 @@ LIBERATED_KINGDOM;[new_ruler.GetLastWordInDynastyName] [Prev.GetName];;;;;;;;;;;
 gov_confucian;中華帝国都護府;;;;;;;;;;;;x
 RULE_UNJUSTIFIED_ON_DESC;キャラクターは信仰点とゴールドを費やし、国境を接している1つの州に対し国境紛争による戦争を仕掛けることができる。;;;;;;;;;;;;x
 RULE_UNJUSTIFIED_OFF_DESC;キャラクターは国境紛争による戦争を仕掛けることはできない。;;;;;;;;;;;;x
-bon;ボン教;;;;;;;;;;;;x
-bon_DESC;ボン教は、仏教が伝来する以前のチベットの土着宗教です。自然と多くの神を崇拝しており、シャーマニズムとア二ミズムを併せ持っています。ボン教は、仏教が伝来してからその要素を多く取り込んでいます。;;;;;;;;;;;;x
+bon;ボン宗教;;;;;;;;;;;;x
+bon_DESC;ボン宗教は、仏教が伝来する以前のチベットの土着宗教です。自然と多くの神を崇拝しており、シャーマニズムとア二ミズムを併せ持っています。ボン宗教は、仏教が伝来してからその要素を多く取り込んでいます。;;;;;;;;;;;;x
 MDODUS;諸経要集;;;;;;;;;;;;x
 LAMA;ラマ;;;;;;;;;;;;x
 temple_baron_bon;ラマ;;;;;;;;;;;;x
@@ -715,7 +715,7 @@ GOD_SHERAB_CHAMMA;シェラブ・チャンマ;;;;;;;;;;;;x
 String_Animal_made_of_bread;パンの動物;;;;;;;;;;;;x
 String_Yinyang_symbol;太極図;;;;;;;;;;;;x
 String_khurmazta_faithful;隠れフルムズド教信者;;;;;;;;;;;;x
-String_bon_faithful;隠れボン教信者;;;;;;;;;;;;x
+String_bon_faithful;隠れボン宗教信者;;;;;;;;;;;;x
 patrons_bon;守り神の選択;;;;;;;;;;;;x
 patrons_bon_desc;You can choose a personal patron from among the many lesser deities of the Bön faith.;;;;;;;;;;;;x
 patron_damchen;守り神：ダムチェン;;;;;;;;;;;;x

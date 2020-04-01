@@ -403,12 +403,12 @@ secretly_west_african_pagan;アフリカ原始宗教の秘匿信者;;;;;;;;;;;;x
 secretly_west_african_pagan_desc;この人物はアフリカ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_west_african_pagan_reformed;アフリカ宗教の秘匿信者;;;;;;;;;;;;x
 secretly_west_african_pagan_reformed_desc;この人物はアフリカ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_zun_pagan;ズン教の秘匿信者;;;;;;;;;;;;x
-secretly_zun_pagan_desc;この人物はズン教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_zun_pagan_reformed;改革派ズン教の秘匿信者;;;;;;;;;;;;x
-secretly_zun_pagan_reformed_desc;この人物は改革派ズン教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_hellenic_pagan;古代ギリシャ多神教の秘匿信者;;;;;;;;;;;;x
-secretly_hellenic_pagan_desc;この人物は古代ギリシャ多神教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_zun_pagan;ズン宗教の秘匿信者;;;;;;;;;;;;x
+secretly_zun_pagan_desc;この人物はズン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_zun_pagan_reformed;改革派ズン宗教の秘匿信者;;;;;;;;;;;;x
+secretly_zun_pagan_reformed_desc;この人物はズン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_hellenic_pagan;古代ギリシャ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_hellenic_pagan_desc;この人物は古代ギリシャ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_pagan;異教の秘匿信者;;;;;;;;;;;;x
 secretly_pagan_desc;この人物は異教の信者であることを秘匿しています。;;;;;;;;;;;;x
 assassins_recruit;アサシン教団に勧誘;;;;;;;;;;;;x
@@ -5510,7 +5510,7 @@ String_Orthodox_Christian;正教会キリスト教徒;;;;;;;;;;;;x
 String_Jew;ユダヤ人;;;;;;;;;;;;x
 String_Norse_Follower;ノース教徒;;;;;;;;;;;;x
 String_Suomenusko_Follower;スオメヌスコ信者;;;;;;;;;;;;x
-String_Zunist;ズン教徒;;;;;;;;;;;;x
+String_Zunist;ズン宗教教徒;;;;;;;;;;;;x
 assassins_drug_effect_power_desc;役に立つ夢幻を得るために、§Y[Root.Society.GetCurrency]§!と引き換えに§Yアサシン教団§!から大麻を受け取るという決断が可能になります。これは貴方の健康に悪影響を及ぼすかもしれません。;;;;;;;;;;;;x
 hermetics_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 EVTOPTA_WOL_10116;[steward.GetBestName]は[steward.GetHerHis]の宗教に基づいて行っているのです。;;;;;;;;;;;;x

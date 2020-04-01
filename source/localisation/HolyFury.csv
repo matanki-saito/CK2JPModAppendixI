@@ -1119,9 +1119,9 @@ EVTOPTAHF20394;結構。;;;;;;;;;;;;x
 EVTOPTBHF20394;I owe [Root.Liege.GetHerHim] nothing!;;;;;;;;;;;;x
 EVTDESCHFA20395;[From.GetTitledFirstName]が[Root.Capital.GetName]に赴かず、[From.GetHerHis]の正当な君主に対して不忠を示したとの報せを受けた。;;;;;;;;;;;;x
 EVTOPTAHF20395;なんと無礼な！;;;;;;;;;;;;x
-EVTDESCHFA20396;I have been informed that [From.GetTitledFirstName] has come to [Root.Capital.GetName] and has requested an audience with me in order to pay me homage, as is tradition for a newly-appointed vassal.;;;;;;;;;;;;x
-EVTOPTAHF20396;Very well, send [From.GetHerHim] in.;;;;;;;;;;;;x
-EVTOPTBHF20396;I do not have time to waste with the likes of [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCHFA20396;[From.GetTitledFirstName]が[Root.Capital.GetName]に赴き、忠誠を表するために私に謁見を要求したとの知らせを受けた。;;;;;;;;;;;;x
+EVTOPTAHF20396;よろしい、[From.GetHerHim]を招き入れろ。;;;;;;;;;;;;x
+EVTOPTBHF20396;[From.GetHerHim]程度の人間に費やす時間はない。;;;;;;;;;;;;x
 EVTDESCHFA20397;[From.GetTitledFirstName] was courteous enough to accept my homage and offer [From.GetHerHis] blessing as well. Now that this nuisance has been dealt with, I am free to return to my lands and rule in peace.;;;;;;;;;;;;x
 EVTOPTAHF20397;ようやくだ。;;;;;;;;;;;;x
 EVTDESCHFA20398;I was shocked to learn that [From.GetTitledFirstName] refused to grant me an audience, especially after all the trouble I have gone through only to pay [From.GetHerHim] homage.;;;;;;;;;;;;x
@@ -3113,7 +3113,7 @@ EVTOPTAHF20107;I must be really special!;;;;;;;;;;;;x
 tooltip_gain_baptized_by_satan;特性 '§Yサタニストによる戴冠§!'を得ます。;;;;;;;;;;;;x
 tooltip_gain_baptized_by_pope;特性 '§Y教皇による戴冠§!'を得ます。;;;;;;;;;;;;x
 tooltip_gain_baptized_by_bishop;特性 '§Y大司教による戴冠§!'を得ます。;;;;;;;;;;;;x
-tooltip_HF20396_A;§Y[From.GetTitledFirstName]§! is granted an audience to your court.;;;;;;;;;;;;x
+tooltip_HF20396_A;§Y[From.GetTitledFirstName]§!はあなたへの謁見を許可されます。;;;;;;;;;;;;x
 EVTDESCHFA20410;The way [FromFrom.GetTitledFirstName] knelt down and offered me [FromFrom.GetHerHis] loyalty one would easily forget that [FromFrom.GetSheHe] doesn't even believe in [Root.Religion.GetHighGodName] as I do. Still, it was a respectful gesture for an unbeliever such as [FromFrom.GetHerHim] to come pay me homage in the [Root.Religion.GetName] way.;;;;;;;;;;;;x
 EVTDESCHFB20410;The child kneels down, reciting mechanically [FromFrom.GetHerHis] oath of vassalage. I had no idea [FromFrom.GetTitledFirstName] was such a young [FromFrom.GetBoyGirl]...;;;;;;;;;;;;x
 EVTDESCHFC20410;[FromFrom.GetTitledFirstName] slowly kneels down with the help of one of [FromFrom.GetHerHis] servants. The old man recites [FromFrom.GetHerHis] oath of vassalage with a faint voice, stopping a few times to remember some of the words.;;;;;;;;;;;;x
@@ -3590,9 +3590,9 @@ string_antagonized_desc_chaste_f;It is well enough time that somebody exposed [F
 string_antagonized_desc_temperate;Why is [From.GetTitledFirstName] so mindful of what [From.GetSheHe] eats? Is [From.GetHerHis] constitution so weak that [From.GetSheHe] can only withstand the blandest of foods, or is [From.GetSheHe] so afraid to be poisoned that [From.GetSheHe]'d rather starve [From.GetHerselfHimself]? I should share my doubts with everyone.;;;;;;;;;;;;x
 string_antagonized_desc_charitable;[From.GetTitledFirstName] is a hopeless squanderer. It is baffling to me how anybody would entrust anything of value to such a [From.GetManWoman]. Warning other people about [From.GetHerHis] damnable habit would be nothing more than my duty.;;;;;;;;;;;;x
 string_antagonized_desc_diligent;[From.GetTitledFirstName] is always doing something, always working... Clearly [From.GetSheHe] doesn't trust [From.GetHerHis] own friends and family to handle even the simplest of tasks. I should make sure that everybody knows of [From.GetHerHis] disconcerting pettiness.;;;;;;;;;;;;x
-string_antagonized_desc_patient;Some of [From.GetHerHis] sycophants would claim that [From.GetTitledFirstName] is a very patient [From.GetManWoman], but how could [From.GetHerHis] quiet and condescending demeanor hide anything but cowardice? I must make sure that everyone knows the true nature of this wicked person.;;;;;;;;;;;;x
-string_antagonized_desc_kind;Some of [From.GetHerHis] sycophants would claim that [From.GetTitledFirstName] is a very kind [From.GetManWoman], but how could [From.GetHerHis] quiet and condescending demeanor hide anything but cowardice? I must make sure that everyone knows the true nature of this wicked person.;;;;;;;;;;;;x
-string_antagonized_desc_humble;Some of [From.GetHerHis] sycophants would claim that [From.GetTitledFirstName] is a very humble [From.GetManWoman], but how could [From.GetHerHis] quiet and self-deprecating attitude hide anything but cowardice? I must make sure that everyone knows the true nature of this wicked person.;;;;;;;;;;;;x
+string_antagonized_desc_patient;[From.GetTitledFirstName]の取り巻き共から、[From.GetHerHis]は非常に忍耐強い[From.GetManWoman]だと推す声も聞こえてくる。が、[From.GetHerHis]のすました見下すようなふるまいは、臆病さだけでない何かを隠している、その裏返しなのでは？このような邪悪な人間の真の姿を、皆に知らしめねばならない。;;;;;;;;;;;;x
+string_antagonized_desc_kind;[From.GetTitledFirstName]の取り巻き共から、[From.GetHerHis]は優しさ溢れる[From.GetManWoman]だと推す声も聞こえてくる。が、[From.GetHerHis]のすました見下すようなふるまいは、臆病さだけでない何かを隠している、その裏返しなのでは？このような邪悪な人間の真の姿を、皆に知らしめねばならない。;;;;;;;;;;;;x
+string_antagonized_desc_humble;[From.GetTitledFirstName]の取り巻き共から、[From.GetHerHis]はとても奥ゆかしい[From.GetManWoman]だと推す声も聞こえてくる。が、[From.GetHerHis]のすました見下すようなふるまいは、臆病さだけでない何かを隠している、その裏返しなのでは？このような邪悪な人間の真の姿を、皆に知らしめねばならない。;;;;;;;;;;;;x
 string_antagonized_desc_lustful;[From.GetTitledFirstName] is clearly a slave to [From.GetHerHis] own passion. It is only a matter of time before [Root.Religion.GetHighGodName] rots [From.GetHerHis] lustful limbs away. I should warn the people around [From.GetHerHim] before [From.GetSheHe] drags somebody else into perdition.;;;;;;;;;;;;x
 string_antagonized_desc_gluttonous;[From.GetTitledFirstName]は食べ物に憑りつかれている。そのような自堕落は裁きを免れない。私が[From.GetHerHis]の行動を公然と非難するのは、実に正当だ。;;;;;;;;;;;;x
 string_antagonized_desc_greedy;[From.GetTitledFirstName]の心は欲望で満ち溢れている。文明社会には、卑小な唯物論者の居場所はない。公衆の場で [From.GetHerHim] への侮蔑を示さねば。;;;;;;;;;;;;x
@@ -3615,27 +3615,27 @@ string_antagonized_desc_just;[From.GetTitledFirstName] already has a reputation 
 string_antagonized_desc_paranoid;[From.GetTitledFirstName] is a twitching, paranoid fool. If [From.GetSheHe] is unable to trust even [From.GetHerHis] closest friends and family, how can [From.GetSheHe] properly be part of civilized society? Surely, [From.GetSheHe] must be shunned away from it.;;;;;;;;;;;;x
 string_antagonized_desc_shy;[From.GetTitledFirstName]は内気で、意気地のない隠遁者だ。もし[From.GetSheHe]が最も親しい友人や、家族にさえ心を開かないのなら、どうして文明社会の一員でいられる？そうだ、[From.GetSheHe]は社会を避けるより術がないのだ。;;;;;;;;;;;;x
 string_antagonized_desc_dull;[From.GetTitledFirstName] has such a dull and forgettable personality, devoid of any spark of imagination, that I am surprised there is anybody willing to spend any amount of time listening to [From.GetHerHim]. Perhaps I should bring more light upon [From.GetHerHis] lack of intellect...;;;;;;;;;;;;x
-string_antagonized_desc_trusting;[From.GetTitledFirstName] is nothing but a gullible fool, ready to believe anything that [From.GetHerHis] sycophants tell [From.GetHerHim]. Such a careless person should never have any meaningful place in civilized society, at least not if I have anything to say about it.;;;;;;;;;;;;x
+string_antagonized_desc_trusting;[From.GetTitledFirstName]は騙されやすい愚か者以外の何者でもなく、[From.GetHerHis]の取り巻き共が[From.GetHerHim]に吹き込むことなら何でも信じるようであった。このような軽率な人間がこの文明社会で意義ある立場に居てはならない。少なくとも私が言及するならば、否である。;;;;;;;;;;;;x
 string_antagonized_desc_zealous;[From.GetTitledFirstName] is nothing more than a fanatic, unable to see reason or consider any moderate opinion when it comes to matters of faith. People like [From.GetHerHim] should be shouting from street corners amongst the peasants, they do not belong in a court.;;;;;;;;;;;;x
 string_antagonized_desc_hunchback;[From.GetTitledFirstName] is nothing more than a deformed freak, yet [From.GetSheHe] still thinks that [From.GetSheHe] deserves any dignity? Maybe I should make it clear to [From.GetHerHim] how pathetic [From.GetHerHis] state is.;;;;;;;;;;;;x
 string_antagonized_desc_relative;[From.GetTitledFirstName] and I might share the same blood, but we have always been of very different minds. I could never stand the sight of my [GetFromRelation], and I think it's time I reminded [From.GetHerHim] of the reasons why once more.;;;;;;;;;;;;x
 string_antagonized_desc_infidel;[From.GetTitledFirstName] is an infidel, worshiping false idols and forsaking the word of [Root.Religion.GetHighGodName]. What more is needed to disparage [From.GetHerHim]?;;;;;;;;;;;;x
 string_antagonized_desc_heretic;[From.GetTitledFirstName] is a heretic, perverting the worship of [Root.Religion.GetHighGodName] with twisted, unholy rituals. What more is needed to disparage [From.GetHerHim]?;;;;;;;;;;;;x
-string_antagonized_reaction_kinslayer;[From.GetTitledFirstName]は私の悪しき噂を広め、再び苦しめるために、[From.GetHerHis]のおべっか使いを送り出した。連中は私が、私自身の家族に対して犯した口に出せない犯罪を吹聴しようと夢中になっている。;;;;;;;;;;;;x
-string_antagonized_reaction_excommunicated;[From.GetTitledFirstName]は私の悪しき噂を広め、再び苦しめるために、[From.GetHerHis]のおべっか使いを送り出した。連中は私が、教会から破門され、最も基本的な良識すら持たないと吹聴しようと夢中になっている。;;;;;;;;;;;;x
-string_antagonized_reaction_eunuch;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my mutilation now, and on how it makes me less of a man and unfit to rule.;;;;;;;;;;;;x
-string_antagonized_reaction_mystic;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my experiments now, and on how they are nothing but degenerate witchcraft.;;;;;;;;;;;;x
-string_antagonized_reaction_seducer;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my amorous adventures now, saying that I am too inconstant and frivolous to be entrusted with any power or dignity.;;;;;;;;;;;;x
-string_antagonized_reaction_schemer;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how untrustworthy and conniving I am, saying that I am too devious and deceitful to be given any trust.;;;;;;;;;;;;x
-string_antagonized_reaction_impaler;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my macabre pastimes, saying that I am little more than a demon in human form.;;;;;;;;;;;;x
-string_antagonized_reaction_hedonist;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my hedonistic lifestyle, saying that my epicurean excesses are unbecoming of a [Root.GetTitle].;;;;;;;;;;;;x
-string_antagonized_reaction_bastard;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about the unfortunate circumstances of my birth, and more people are rising up to question my claim to the throne..;;;;;;;;;;;;x
-string_antagonized_reaction_maimed;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my weakened condition, claiming that I am no longer fit to rule in my current crippled state.;;;;;;;;;;;;x
-string_antagonized_reaction_infirm;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how my mind is rotting away, claiming that I am no longer fit to rule in my current state.;;;;;;;;;;;;x
-string_antagonized_reaction_malnourished;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my weakened condition, claiming that I am no longer fit to rule in my current state.;;;;;;;;;;;;x
-string_antagonized_reaction_fat;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about mocking words about my generous size and my lack of self-control when it comes to eating.;;;;;;;;;;;;x
-string_antagonized_reaction_depressed;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how fragile and weak my mind is, claiming that a [Root.GetTitle] who is unable to control [Root.GetHerHis] emotions is unfit to rule anything.;;;;;;;;;;;;x
-string_antagonized_reaction_drunkard;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about my drinking habits, complaining about the disgrace of having a drunk for a [Root.GetTitle].;;;;;;;;;;;;x
+string_antagonized_reaction_kinslayer;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。連中は私が、私自身の家族に対して犯した口に出せない犯罪を吹聴しようと夢中になっている。;;;;;;;;;;;;x
+string_antagonized_reaction_excommunicated;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。連中は私が、教会から破門され、最も基本的な良識すら持たないと吹聴しようと夢中になっている。;;;;;;;;;;;;x
+string_antagonized_reaction_eunuch;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の去勢の件を噂しあっている。加えて、いかに男性として欠けているか、統治者に足らないかにまで。;;;;;;;;;;;;x
+string_antagonized_reaction_mystic;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の実験について噂しあっている。退廃的な魔術にすぎないと。;;;;;;;;;;;;x
+string_antagonized_reaction_seducer;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の好色譚の数々を噂しあっている。どのような権勢や地位であろうと任せるには、あまりに浅薄で節操がなさすぎなのでは、と。;;;;;;;;;;;;x
+string_antagonized_reaction_schemer;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私がいかに信用できないか腹に一物抱えた人物か噂しあっている。あまりにも狡猾で欺瞞に満ちていて、どんな信用にも値しないとまで。;;;;;;;;;;;;x
+string_antagonized_reaction_impaler;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の気味の悪い戯れを噂しあっている。人の形をした悪魔も同然だとまで。;;;;;;;;;;;;x
+string_antagonized_reaction_hedonist;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の快楽主義的な生活様式を噂しあっている。過ぎた享楽ぶりは[Root.GetTitle]に不相応だとまで。;;;;;;;;;;;;x
+string_antagonized_reaction_bastard;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の出自にまつわる不幸な事情について噂しあっている。私の継承権への疑問が多く取り沙汰されている…;;;;;;;;;;;;x
+string_antagonized_reaction_maimed;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の健康状態の悪化について噂しあっている。現在のような不具では、もはや統治者に相応しくないとの主張まで聞こえてくる。;;;;;;;;;;;;x
+string_antagonized_reaction_infirm;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の精神状態がいかに朽ち果てたか噂しあっている。このままではもはや統治者に相応しくないとの主張まで聞こえてくる。;;;;;;;;;;;;x
+string_antagonized_reaction_malnourished;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の健康状態の悪化について噂しあっている。このままでは、もはや統治者に相応しくないとの主張まで聞こえてくる。;;;;;;;;;;;;x
+string_antagonized_reaction_fat;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の太っ腹な腹回りや食事時となると不足してしまう自制心について嘲い、噂しあっている。;;;;;;;;;;;;x
+string_antagonized_reaction_depressed;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の心がいかに脆く弱いか噂しあっている。感情に振り回されるような[Root.GetTitle]は、いかほども君臨するに値しないとの主張まで聞こえてくる。;;;;;;;;;;;;x
+string_antagonized_reaction_drunkard;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私の酒の嗜み方について噂しあっている。[Root.GetTitle]のために呑むなど不名誉だとの愚痴まで聞こえてくる。;;;;;;;;;;;;x
 string_antagonized_reaction_lunatic;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how I have lost my mind and should no longer be trusted to rule over anything.;;;;;;;;;;;;x
 string_antagonized_reaction_possessed;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how my mind is a den of demons and I should no longer be trusted to rule over anything.;;;;;;;;;;;;x
 string_antagonized_reaction_ugly;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how ugly I am, and on how [From.Religion.GetHighGodName] has punished me with this visage to reflect the twisted soul lying beneath.;;;;;;;;;;;;x
@@ -3651,7 +3651,7 @@ string_antagonized_reaction_gluttonous;[From.GetTitledFirstName] has sent [From.
 string_antagonized_reaction_greedy;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how my mind has been consumed by greed and of how I no longer have any concern left for other people.;;;;;;;;;;;;x
 string_antagonized_reaction_slothful;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how indolent and apathetic I am, claiming that I entirely lack the will to rule.;;;;;;;;;;;;x
 string_antagonized_reaction_wroth;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how my poor temper and complete lack of control makes me unfit to be [Root.GetTitle].;;;;;;;;;;;;x
-string_antagonized_reaction_envious;[From.GetTitledFirstName]は私の悪しき噂を広め、再び苦しめるために、[From.GetHerHis]のおべっか使いを送り出した。宮廷のだれもが、私がいかに卑しく怒りっぽいか噂しあっている。;;;;;;;;;;;;x
+string_antagonized_reaction_envious;[From.GetTitledFirstName]は、私の悪しき噂を広めて再び苦しめるために[From.GetHerHis]の取り巻き共を差し向けた。宮廷のだれもが、私がいかに卑しく怒りっぽいか噂しあっている。;;;;;;;;;;;;x
 string_antagonized_reaction_proud;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how I am unable to ever see past my own selfish interests, even when doing so causes harm to my friends and family.;;;;;;;;;;;;x
 string_antagonized_reaction_ambitious;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how I am unable to ever see past my own selfish ambition, even when doing so causes harm to my friends and family.;;;;;;;;;;;;x
 string_antagonized_reaction_arbitrary;[From.GetTitledFirstName] has sent [From.GetHerHis] sycophants to torment me once more, spreading vile rumors about me. Everybody at court is whispering about how I am unable to be consistent when administering justice, that I am inconstant and petty.;;;;;;;;;;;;x
@@ -3850,9 +3850,9 @@ EVTDESCHFA22109;I cannot believe the pettiness of some people. The painting [Fro
 EVTOPTAHF22109;ちくしょう！;;;;;;;;;;;;x
 EVTDESCHF22110;I have just received some hilarious news from [From.GetTitledFirstName]'s court. It appears the painting I gave [From.GetHerHim] has started to rot, both twisting the features of its subject into a ridiculous, grotesque mockery and filling [From.GetFirstName]'s palace with an unbearable stench.;;;;;;;;;;;;x
 EVTOPTAHF22110;What an unexpected turn of events!;;;;;;;;;;;;x
-bon_reformed;ボン教;;;;;;;;;;;;x
-bon_reformed_DESC;改革されたボン教は、仏教の要素のいくつかを完全に取り込み、その一方でシャーマニズムとア二ミズムの神々にその崇拝者を詳細な聖典一式に記しました。;;;;;;;;;;;;x
-hellenic_pagan_reformed;古代ギリシャ多神教;;;;;;;;;;;;x
+bon_reformed;ボン宗教;;;;;;;;;;;;x
+bon_reformed_DESC;改革されたボン宗教は、仏教の要素のいくつかを完全に取り込み、その一方でシャーマニズムとア二ミズムの神々にその崇拝者を詳細な聖典一式に記しました。;;;;;;;;;;;;x
+hellenic_pagan_reformed;古代ギリシャ宗教;;;;;;;;;;;;x
 hellenic_pagan_reformed_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] and [GetHestiaVestaName]. Restored after having been almost but wiped out by Christianity, it has been fully adapted by its new practitioners to contend against its more aggressive, younger competitors.;;;;;;;;;;;;x
 REFORMATION_DESCRIPTION;我々の信仰の形を永遠に再形成するまたとない機会を得ました。我々の宗教の新たな教義が確立されれば、変更が不可能なものとなるので、着手する方針に細心の注意を払う必要があります。あらゆる種類の神学問題を議論して、古き口伝の伝承を完璧で緻密な物語に再構築するために多くの見識ある司祭や学者が宮廷に集まっています。\nだが、新しい宗教の性質、教義、指導権に対して自分の意見があるならば、この改革を可能にしたものは公正でなければならない。;;;;;;;;;;;;x
 tooltip_religion_feature_pacifist;§G当主は戦争を始めたり、陰謀に加担したり、派閥に加入する可能性が低くなります§!;;;;;;;;;;;;x
@@ -4183,9 +4183,9 @@ has_liege_vassal_or_neighbor_of_baltic_religion_tt;§Y主§!・§Y封臣§!・§
 has_liege_vassal_or_neighbor_of_finnish_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスオメヌスコ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 has_liege_vassal_or_neighbor_of_slavic_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスラヴ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 has_liege_vassal_or_neighbor_of_west_african_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yアフリカ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_zun_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yズン教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_bon_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yボン教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_hellenic_religion_tt;§Y主§!、§Y封臣§!、§Y隣国の領主§!の中に§Y古代ギリシャ多神教§!の教えを信じている者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_zun_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yズン宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_bon_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yボン宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_hellenic_religion_tt;§Y主§!、§Y封臣§!、§Y隣国の領主§!の中に§Y古代ギリシャ宗教§!の教えを信じている者がいる\n;;;;;;;;;;;;x
 warrior_lodge_tengri_rank_1_female;駆け出し;;;;;;;;;;;;x
 warrior_lodge_tengri_rank_2_female;勇士;;;;;;;;;;;;x
 warrior_lodge_tengri_rank_3_female;古参;;;;;;;;;;;;x
@@ -5608,10 +5608,10 @@ tb_culture_moors_3;ムーア騎兵兵舎;;;;;;;;;;;;x
 tb_culture_moors_4;ムーア騎兵兵舎;;;;;;;;;;;;x
 tb_culture_group_byzantine_1_desc;A combination of mobile cavalry and heavily armored infantry trains here.;;;;;;;;;;;;x
 tb_culture_frank_norman_german_1_desc;Hardened [GetGermanic] warriors meet here to train and exchange tactics.;;;;;;;;;;;;x
-tb_culture_ethiopian_1;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-tb_culture_ethiopian_2;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-tb_culture_ethiopian_3;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-tb_culture_ethiopian_4;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
+tb_culture_ethiopian_1;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+tb_culture_ethiopian_2;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+tb_culture_ethiopian_3;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+tb_culture_ethiopian_4;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
 tb_culture_jewish_1;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
 tb_culture_jewish_2;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
 tb_culture_jewish_3;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
@@ -5643,13 +5643,13 @@ ca_culture_altaic_jurchen_2;[jurchen.GetName]騎兵兵舎;;;;;;;;;;;;x
 ca_culture_altaic_jurchen_3;[jurchen.GetName]騎兵兵舎;;;;;;;;;;;;x
 ca_culture_altaic_jurchen_4;[jurchen.GetName]騎兵兵舎;;;;;;;;;;;;x
 ca_culture_altaic_jurchen_1_desc;The [jurchen.GetName] are famous for their skilled cavalry, the Tie-Futu and their unique battle tactics – this is their practice grounds where they train to improve upon their specialty.;;;;;;;;;;;;x
-ca_culture_ethiopian_1;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-ca_culture_ethiopian_2;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-ca_culture_ethiopian_3;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
-ca_culture_ethiopian_4;[ethiopian.GetName] Drilling Grounds;;;;;;;;;;;;x
+ca_culture_ethiopian_1;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+ca_culture_ethiopian_2;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+ca_culture_ethiopian_3;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
+ca_culture_ethiopian_4;[ethiopian.GetName]練兵場;;;;;;;;;;;;x
 ca_culture_group_iberian_1_desc;The agile [iberian.GetGroupName] "jinete" light cavalry is raised here. Inspired by the Moors, these horsemen are skilled at skirmishing and harassment.;;;;;;;;;;;;x
 ca_culture_russian_1_desc;ドルジーナの従士はここで訓練を行い、屈強で勇ましい軍団として[russian.GetName]の君主に仕えます。;;;;;;;;;;;;x
-ca_culture_ethiopian_1_desc;Large numbers of [ethiopian.GetName] warriors are drilled here in the effective use of spears and bows.;;;;;;;;;;;;x
+ca_culture_ethiopian_1_desc;槍や弓の有効な使い方を学ぶため、[ethiopian.GetName]戦士の多くがここで訓練を行っている。;;;;;;;;;;;;x
 ca_culture_jewish_1;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
 ca_culture_jewish_2;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
 ca_culture_jewish_3;[israelite.GetGroupName]重歩兵兵舎;;;;;;;;;;;;x
@@ -5738,7 +5738,7 @@ setting_names_tooltip;文化及び宗教名を史実通りにするかランダ�
 setting_names_random_tooltip;文化と宗教の名前をランダム化します。\n\n※§YEU4コンバータ§!を使ってこのセーブを変換した場合、その§Y本来の§!名前が使用されます。;;;;;;;;;;;;x
 SHATTERED_WORLD_SCENARIO_DESC;世界はバラバラになってしまい、過去の栄光は灰と化している。この世界には権威はなく、支配し、法を作り、指導する者はいない……\n\n今こそ、秩序を取り戻すのです。あなたの聡明なる指導のもとに、帝国は興り、繁栄は戻り、散り散りになった人々はそれに値する指導者の下に再度結集するでしょう。時間はありません、神々自身があなたの勝利を待っているのです!;;;;;;;;;;;;x
 RANDOM_WORLD_SCENARIO_DESC;この世界はそうなっていないが、そうなることもできた。歴史上のほんのささいな変化でも、特に遊び心のある神が関係したような場合、思いもよらぬ結果をもたらすことがある。この新しい世界は歴史のるつぼの中で練り上げられたものだが、我々の世界とは大きく異なっていた。赤熱するまで放置された後、神々はその可鍛性の惑星を気まぐれに適したものに形作った。\n\n彼らは今、歴史の方向を当然の結論へと導くために、その運命をあなたの手に委ねている。この世界は勝利し、進歩と繁栄の時代に入るのだろうか。それとも、暗闇と停滞に圧倒されたままになるのだろうか。時がたてばわかる。;;;;;;;;;;;;x
-EVTDESC62320_alt;Large numbers of adventurous warriors have arrived from all corners of your realm, hoping to join your great expedition against [From.GetTitledName]!;;;;;;;;;;;;x
+EVTDESC62320_alt;[From.GetTitledName]への偉大なる遠征に参加することを望んで国中から多数の野心ある戦士が集まった！;;;;;;;;;;;;x
 EVTDESC62321_alt;A renowned hero has arrived at your court with his warriors and followers, hoping to partake in your glorious invasion of [From.GetTitledName]!;;;;;;;;;;;;x
 HF_120_DESC;私が血脈を有している偉大な[target_bloodline_founder.GetManWoman]については多くの伝説がある。最近、ある話が宮廷で流布している。[target_bloodline_founder.GetFirstName]が強さを証明する壮大な特技に焦点を当てた話だ。聞けば聞くほど、[target_bloodline_founder.GetHerHim]に倣いたくなる…;;;;;;;;;;;;x
 EVTOPTA_HF_120;もっ​​と[target_bloodline_founder.GetHerHim]のようになるように努力すべきだ！;;;;;;;;;;;;x
@@ -6669,7 +6669,7 @@ EVTDESC_HF_41300;多くの心動かされる聖者がいて、どの墓を詣で
 EVTOPTA_HF_41300_1;I will seek out the grand tomb of Saint [first_burial_site.province_saint.GetFirstName] in [first_burial_site.GetName].;;;;;;;;;;;;x
 EVTOPTA_HF_41300_2;The impressive tomb of Saint [first_burial_site.province_saint.GetFirstName] in [first_burial_site.GetName] sounds perfect.;;;;;;;;;;;;x
 EVTOPTA_HF_41300_3;[first_burial_site.GetName]の聖[first_burial_site.province_saint.GetFirstName]の墓には多くの巡礼者がいる。;;;;;;;;;;;;x
-EVTOPTB_HF_41300_1;I have heard the grave of Saint [second_burial_site.province_saint.GetFirstName] in [second_burial_site.GetName] is magnificent.;;;;;;;;;;;;x
+EVTOPTB_HF_41300_1;[second_burial_site.GetName]にある聖[second_burial_site.province_saint.GetFirstName]の墓は荘厳だと耳にした。;;;;;;;;;;;;x
 EVTOPTB_HF_41300_2;[second_burial_site.GetName]の聖[second_burial_site.province_saint.GetFirstName]の巨像には多くの物語がある。;;;;;;;;;;;;x
 EVTOPTB_HF_41300_3;The beautiful burial site of Saint [second_burial_site.province_saint.GetFirstName] in [second_burial_site.GetName].;;;;;;;;;;;;x
 EVTOPTC_HF_41300_1;The pious Saint [third_burial_site.province_saint.GetFirstName] has a small grave in [third_burial_site.GetName].;;;;;;;;;;;;x
@@ -6760,14 +6760,14 @@ EVTDESC_HF_41420_C;墓場にはまったく人気がなく、幽霊の気配す�
 EVTDESC_HF_41420_ALT;修道女が小さな礼拝堂の隅を掃除している以外は、がらんとしたものだ。 彼女は私に近づき、聖パトリックの墓を見に来たのかと尋ねた。私は小さくうなずき、彼女は、私を、おそらく聖パトリックが横たわっている大きな岩の前に連れて行った。彼女は私の横にひざまずき、一緒に[Root.Religion.GetHighGodName]への祈りを捧げた。しばらくして、私は墓の前に一人残された。;;;;;;;;;;;;x
 EVTOPTA_HF_41420;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41420;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
-EVTOPTC_HF_41420;What a journey it has been.;;;;;;;;;;;;x
+EVTOPTC_HF_41420;なんという旅であったか。;;;;;;;;;;;;x
 EVTDESC_HF_41424;突然、私は[pilgrimage_destination.GetName]にたどり着いていることに気づく。大自然と共にある長い旅路であったから、人々に出会うのはよい気分転換になる。街の通りに沿って歩きながら、故郷と比較し、それぞれの土地の違いについて考える。[pilgrimage_destination.province_saint.GetName]が埋葬されている場所をできるだけ早く探さなくてはいけない。そのためにここにいるのだ。;;;;;;;;;;;;x
 EVTDESC_HF_41424_ALT;私は気づかぬうちに、いつの間にかアンティオキアに来ていた。人気のない荒野を駆け抜ける長い旅路の末に、たくさんの人の顔を見るのは心地よかった。街の通りに沿って歩きながら、私は故郷と比べて何が違うのか考えていた。私はできるだけ早く聖クリストフォロスの埋葬地を見つけるべきだろう、結局のところ私がここにいるのはそのためなのだ。;;;;;;;;;;;;x
 EVTOPTA_HF_41424;どんな墓なのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41425_ALT;巨大な聖クリストフォロスの墓は、アンティオキアの広場の真ん中にあったが、ほとんどの地元民はたいして気にかけていないようだ。私と同じ巡礼者が何人か、墓の周囲に立っているのが見えた。彼らは動揺しつつも、まだ幸せそうだ。ここシリアまでの旅路を果たした私には、その気持ちが理解できた。私は墓地の前で長い間、祈りを捧げた。;;;;;;;;;;;;x
 EVTOPTA_HF_41425;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41425;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
-EVTOPTC_HF_41425;What a journey it has been.;;;;;;;;;;;;x
+EVTOPTC_HF_41425;なんという旅であったか。;;;;;;;;;;;;x
 EVTDESC_HF_41429;突然、私は[pilgrimage_destination.GetName]にたどり着いていることに気づく。大自然と共にある長い旅路であったから、人々に出会うのはよい気分転換になる。街の通りに沿って歩きながら、故郷と比較し、人々がどのようにしてこのエキゾチックな土地に適応しているのか不思議に思う。[pilgrimage_destination.province_saint.GetName]が埋葬されている場所をできるだけ早く探さなくてはいけない。そのためにここにいるのだ。;;;;;;;;;;;;x
 EVTDESC_HF_41429_ALT;突然、私はHippoにたどり着いていることに気づく。大自然と共にある長い旅路であったから、人々に出会うのはよい気分転換になる。街の通りに沿って歩きながら、故郷と比較し、またこの異国の地に人々がどうやって適合しているのか疑問に思う。聖アウグスティヌスが埋葬されている場所をできるだけ早く探さなくてはいけない。そのためにここにいるのだ。;;;;;;;;;;;;x
 EVTOPTA_HF_41429;どんな墓なのだろう。;;;;;;;;;;;;x
@@ -6777,7 +6777,7 @@ EVTDESC_HF_41430_C;墓場にはまったく人気がなく、幽霊の気配す�
 EVTDESC_HF_41430_ALT;ようやく探していた礼拝堂を見つけることができた。中に入った私は、今なお残る聖アウグスティヌスの存在を心から感じることができる。最終的に司祭が現れるまで、数分間、私は祈りを続けていた。彼から、実際は聖アウグスティヌスが数世紀前に礼拝堂から移されたと説明され、私はあっけにとられた。だから他の巡礼者がいないのか。;;;;;;;;;;;;x
 EVTOPTA_HF_41430;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41430;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
-EVTOPTC_HF_41430;What a journey it has been.;;;;;;;;;;;;x
+EVTOPTC_HF_41430;なんという旅であったか。;;;;;;;;;;;;x
 EVTDESC_HF_41434;突然、私は[pilgrimage_destination.GetName]にたどり着いていることに気づく。大自然と共にある長い旅路であったから、人々に出会うのはよい気分転換になる。街の通りに沿って歩きながら、故郷と比較し、それぞれの土地の違いについて考える。[pilgrimage_destination.province_saint.GetName]が埋葬されている場所をできるだけ早く探さなくてはいけない。そのためにここにいるのだ。;;;;;;;;;;;;x
 EVTOPTA_HF_41434;どんな墓なのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_41435_A;The whole area is filled with people, looking like they come from all the different corners of the world. I see another [Root.Culture.GetName] looking at me, and giving me a small nod before [Root.GetSheHeOpp] disappears in the crowd. I never knew  [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
@@ -6785,7 +6785,7 @@ EVTDESC_HF_41435_B;There is a couple of other pilgrims around, but they all look
 EVTDESC_HF_41435_C;墓場にはまったく人気がなく、幽霊の気配すらない。辺りを見回し、一瞬間違えたような気がしたが、小さな墓を見つけた。草が生い茂ってさびれたその墓を時間をかけてきれいにしてから、やっと[Root.Religion.GetHighGodName]に祈るために座った。それはほとんど、[pilgrimage_destination.province_saint.GetFirstNameWithNick]がここにいて、私と一緒に祈っているようなものだ。;;;;;;;;;;;;x
 EVTOPTA_HF_41435;私はこの瞬間を一生忘れないだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_41435;こ...これだったのか?なんて残念な幕切れだ。;;;;;;;;;;;;x
-EVTOPTC_HF_41435;What a journey it has been.;;;;;;;;;;;;x
+EVTOPTC_HF_41435;なんという旅であったか。;;;;;;;;;;;;x
 EVTDESC_HF_41450;長い道のりを経て、私はようやく故郷に戻ったことに気づいた。木々も道々も、それに人々もすべてが馴れ親しんだものばかりで、私は自分自身に微笑みかけた。家にいるのが楽しい。;;;;;;;;;;;;x
 EVTOPTA_HF_41450;まだ道があるのなら、私はそれを進む!;;;;;;;;;;;;x
 pet_snake;飼い蛇;;;;;;;;;;;;x
@@ -7320,8 +7320,8 @@ tooltip_religion_feature_branches;§Gこの宗教の信者は望む宗派を選�
 k_hellenic_pagan;神官団領;;;;;;;;;;;;x
 k_hellenic_pagan_adj;神官団;;;;;;;;;;;;x
 PONTIFEX_MAXIMUS;最高神祇官;;;;;;;;;;;;x
-d_bon_reformed;神聖ボン教階層;;;;;;;;;;;;x
-d_bon_reformed_adj;ボン教;;;;;;;;;;;;x
+d_bon_reformed;神聖ボン宗教階層;;;;;;;;;;;;x
+d_bon_reformed_adj;ボン宗教;;;;;;;;;;;;x
 HEAD_DALAI_LAMA;ダライ・ラマ;;;;;;;;;;;;x
 d_dralhas_children;ダラの崇拝者;;;;;;;;;;;;x
 d_dralhas_children_adj;Dralhan;;;;;;;;;;;;x
@@ -7485,7 +7485,7 @@ string_reformed_religion_aztec_outro;By this action, the Sunset invaders have ma
 string_reformed_religion_eastern_outro;この出来事によってイスラム教徒の征服者による東方へ侵入はより困難なものとなるかもしれない。;;;;;;;;;;;;x
 string_reformed_religion_hellenic_outro;For the first time in centuries, the authority of the Christian Church over Europe is being undermined.;;;;;;;;;;;;x
 pagan_revival;Pagan Revival;;;;;;;;;;;;x
-hellenic_resurgence;古代ギリシャ多神教の復活;;;;;;;;;;;;x
+hellenic_resurgence;古代ギリシャ宗教の復活;;;;;;;;;;;;x
 zoroastrian_rebirth;Zoroastrian Rebirth;;;;;;;;;;;;x
 opinion_forgiven;Forgave Me;;;;;;;;;;;;x
 EVTOPTZHFP20404;This child is not worth my life!;;;;;;;;;;;;x
@@ -7510,7 +7510,7 @@ secret_hellenic_pagan_community;隠れ[hellenic_pagan.GetName]信者;;;;;;;;;;;;
 secret_hellenic_pagan_community_desc;In secret, the faithful have organized around a small cabal in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;;;x
 secret_hellenic_pagan_reformed_community;隠れ[hellenic_pagan_reformed.GetName]信者;;;;;;;;;;;;x
 secret_hellenic_pagan_reformed_community_desc;In secret, the faithful have organized around a small cabal in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;;;x
-String_hellenic_pagan;古代ギリシャ多神教;;;;;;;;;;;;x
+String_hellenic_pagan;古代ギリシャ宗教;;;;;;;;;;;;x
 String_bon;Bön;;;;;;;;;;;;x
 String_hellenic_follower;Hellen;;;;;;;;;;;;x
 tooltip_religion_feature_looting;§G略奪が許可されます§!;;;;;;;;;;;;x
@@ -7674,7 +7674,7 @@ secret_religious_society_hellenic_pagan_reformed;[GetReligiousCommunityName_hell
 secret_religious_society_bon_reformed_desc;[GetReligiousSocietyDesc_bon_reformed];;;;;;;;;;;;x
 secret_religious_society_hellenic_pagan_reformed_desc;[GetReligiousSocietyDesc_hellenic_pagan_reformed];;;;;;;;;;;;x
 secret_religious_society_hellenic_pagan_desc;[GetReligiousSocietyDesc_hellenic_pagan];;;;;;;;;;;;x
-secret_religious_society_REAL_bon_reformed;隠れボン教信者;;;;;;;;;;;;x
+secret_religious_society_REAL_bon_reformed;隠れボン宗教信者;;;;;;;;;;;;x
 secret_religious_society_REAL_hellenic_pagan_reformed;The Hellenes;;;;;;;;;;;;x
 secret_religious_society_REAL_hellenic_pagan;The Hellenes;;;;;;;;;;;;x
 secret_religious_society_bon_reformed_desc_REAL;Followers of the Bön religion worship many gods and spirits. Adherents seek Great Perfection through the Dzogchen, which is one of the Nine Vehicles (or paths) of the Bön faith. In secret, the Bön Faithful continue to sacrifice animals made of barley flour to appease the higher powers.;;;;;;;;;;;;x
@@ -7761,11 +7761,11 @@ EVTDESCHF23104;ローマ市民は今回の大火をよく思っていないよ�
 EVTOPTAHF23104;残念だ。;;;;;;;;;;;;x
 EVTDESCAHF23106;I have restored the Empire, a feat worthy of immortal glory, yet now doubts beset my mind. How can I ensure that this Empire will not fall like it did in the past? When looking for the causes that fragmented and destroyed the old Empire, there is only one thing that appears to be constant...;;;;;;;;;;;;x
 EVTOPTAHF23106;帝国の崩壊の原因はキリスト教会にほかならない…;;;;;;;;;;;;x
-tooltip_HF23106_A;帝国を強化するために古の§Y古代ギリシャ多神教§!の教えを復活させます;;;;;;;;;;;;x
+tooltip_HF23106_A;帝国を強化するために古の§Y古代ギリシャ宗教§!の教えを復活させます;;;;;;;;;;;;x
 EVTOPTBHF23106;無能で不信心な指導者達が帝国の破滅をもたらしたのだ。;;;;;;;;;;;;x
 EVTDESCAHF23107;テオドシウス帝が東夷の宗教であるキリスト教を国教としたことでローマ帝国は滅亡への道を歩み始めたのではないか。つまり、逆に古き神々への信仰を取り戻せば帝国の長きにわたる繁栄をより確かなものとすることができるのではないだろうか？帝国を救うためのこの決断は、しかし一歩間違えば再び帝国を滅亡させてしまうものになるだろう…;;;;;;;;;;;;x
 EVTOPTAHF23107;皆が帝国を復興した自分を讃えている内に速やかにことを運ばなければ！;;;;;;;;;;;;x
-tooltip_HF23107_A;全§Y封臣§!に自分に従って改宗するよう命じる手紙を送ります。\nかつて§Yギリシャ多神教§!の聖地であった地域を全て自分の支配下に置くことができれば、そこに新たな神殿を建立することができます。;;;;;;;;;;;;x
+tooltip_HF23107_A;全§Y封臣§!に自分に従って改宗するよう命じる手紙を送ります。\nかつて§Y古代ギリシャ宗教§!の聖地であった地域を全て自分の支配下に置くことができれば、そこに新たな神殿を建立することができます。;;;;;;;;;;;;x
 EVTOPTBHF23107;自分の計画を明らかにするまでは我慢強く志を同じくする魂を探さなければ;;;;;;;;;;;;x
 EVTDESCAHF23108;[Root.GetTitledName]へ\n結論から言うと、嘗ての皇帝達がガラリヤの異教に入れ込んでしまったことこそが偉大なるローマ帝国の没落と密接に結びついていたのであり、ローマ帝国の栄光を真に回復するためには、古のローマの宗教を復興させなければならないのだ。\n\n敬具\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTAHF23108;やつは狂ったのか？;;;;;;;;;;;;x
@@ -7778,14 +7778,14 @@ EVTOPTAHF23110;素晴らしい。;;;;;;;;;;;;x
 EVTDESCAHF23111;[Root.GetTitledName],\nI have come to the conclusion to abide by the new Imperial decree and convert to the Hellenic faith. I expect all my subordinates to follow me in this decision.\n\nSincerely, \n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTAHF23111;帝国法は遵守しなければならない。;;;;;;;;;;;;x
 EVTOPTBHF23111;朽ち果てた宗教などに改宗するものか！;;;;;;;;;;;;x
-EVTTITLEHF23112;古代ギリシャ多神教の復活;;;;;;;;;;;;x
+EVTTITLEHF23112;古代ギリシャ宗教の復活;;;;;;;;;;;;x
 EVTDESCAHF23112;The great celebrations across the Christian world after the restoration of the Roman Empire at the hands of [From.GetTitledFirstName] have been cut short by a terrifying and unexpected turn of events. The new [From.GetTitle] has determined that Christianity is a barbarous and seditious cult that has no place in [From.GetHerHis] new Empire. \nIn an effort to rebuild the past glory of Rome in its entirety, [From.GetSheHe] has forsaken [From.GetHerHis] faith in favor of worshiping the old pagan gods of [From.GetHerHis] ancestors.;;;;;;;;;;;;x
 EVTOPTAHF23112;古の神々が教会の灰塵から立ち上がるだろう！;;;;;;;;;;;;x
-tooltip_rome_church_seized;新たな§Y古代ギリシャ多神教の神殿§!が§Yローマ§!に創建されます。;;;;;;;;;;;;x
-tooltip_thessalonike_church_seized;新たな§Y古代ギリシャ多神教の神殿§!が§Yテッサロニケ§!に創建されます。;;;;;;;;;;;;x
-tooltip_atheniai_church_seized;新たな§Y古代ギリシャ多神教の神殿§!が§Yアテナイ§!に創建されます。;;;;;;;;;;;;x
-tooltip_siracusa_church_seized;新たな§Y古代ギリシャ多神教の神殿§!が§Yシラクサ§!に創建されます。;;;;;;;;;;;;x
-tooltip_alexandria_church_seized;新たな§Y古代ギリシャ多神教の神殿§!が§Yアレキサンドリア§!に創建されます。;;;;;;;;;;;;x
+tooltip_rome_church_seized;新たな§Y古代ギリシャ宗教の神殿§!が§Yローマ§!に創建されます。;;;;;;;;;;;;x
+tooltip_thessalonike_church_seized;新たな§Y古代ギリシャ宗教の神殿§!が§Yテッサロニケ§!に創建されます。;;;;;;;;;;;;x
+tooltip_atheniai_church_seized;新たな§Y古代ギリシャ宗教の神殿§!が§Yアテナイ§!に創建されます。;;;;;;;;;;;;x
+tooltip_siracusa_church_seized;新たな§Y古代ギリシャ宗教の神殿§!が§Yシラクサ§!に創建されます。;;;;;;;;;;;;x
+tooltip_alexandria_church_seized;新たな§Y古代ギリシャ宗教の神殿§!が§Yアレクサンドリア§!に創建されます。;;;;;;;;;;;;x
 EVTOPTBHF23112;We stand united against the barbarity of the Galileans!;;;;;;;;;;;;x
 EVTOPTCHF23112;Babylon has risen again! The end time is near!;;;;;;;;;;;;x
 EVTOPTDHF23112;This is of no concern to us.;;;;;;;;;;;;x
@@ -7938,7 +7938,7 @@ string_from_baptized_by_bishop_aliveop;[From.baptizing_bishop_per.GetTitledFirst
 string_from_baptized_by_satan_male_aliveop;大祭司[From.baptizing_satanist_per.GetFirstName];;;;;;;;;;;;x
 string_from_baptized_by_satan_female_aliveop;大祭司[From.baptizing_satanist_per.GetFirstName];;;;;;;;;;;;x
 monastic_order_stoics;ストア派;;;;;;;;;;;;x
-monastic_order_stoics_desc;ギリシャ多神教の学派であるストア派は、知恵、勇気、節制、正義の美徳を中心とした合理的な生き方と、情動を避け、平衡を重んじる精神に基づいている。ほとんどのストア学派は、哲学を学び、高潔な人生を送ることで幸福になると信じている。;;;;;;;;;;;;x
+monastic_order_stoics_desc;古代ギリシャ宗教の学派であるストア派は、知恵、勇気、節制、正義の美徳を中心とした合理的な生き方と、情動を避け、平衡を重んじる精神に基づいている。ほとんどのストア学派は、哲学を学び、高潔な人生を送ることで幸福になると信じている。;;;;;;;;;;;;x
 currency_name_monastic_order_stoics;アパテイア;;;;;;;;;;;;x
 stoic_order_culture_convert_county;州の文明化;;;;;;;;;;;;x
 stoic_order_culture_convert_county_desc;地域住民を、より文明化された[From.Culture.GetName]文化に平和的に導くため、一連の布告を公布する。;;;;;;;;;;;;x
@@ -8391,7 +8391,7 @@ EVTOPTAHF25024;この生贄は私に幸運をもたらすだろう!;;;;;;;;;;;;x
 EVTDESCAHF25025;My fellow warriors accompany me into the wilderness, helping me to carry my generous offering to the gods. When we are far from civilization, we bury the gold and burn the food. While a priest chants, invoking the protectors of the Lodge to bestow me their power, one of my fellow warriors inscribes a few symbols on my face.;;;;;;;;;;;;x
 EVTOPTAHF25025;May the gods protect me!;;;;;;;;;;;;x
 EVTTITLEHF25026;オリンポスの戦士団;;;;;;;;;;;;x
-EVTDESCHF25026;[From.GetTitledFirstName]は、優秀なアスリートや剣闘士をまとめ上げ、[From.GetHerHis]の下で肉体労働を通して俊英を目指す結社、オリンポスの戦士団を作り上げた。\nこの結社はギリシャ多神教の原則に基づいているが、その扉は規律を学び、指導者の教えに従うものであれば如何なる野蛮人にも開かれている。;;;;;;;;;;;;x
+EVTDESCHF25026;[From.GetTitledFirstName]は、優秀なアスリートや剣闘士をまとめ上げ、[From.GetHerHis]の下で肉体労働を通して俊英を目指す結社、オリンポスの戦士団を作り上げた。\nこの結社は古代ギリシャ宗教の原則に基づいているが、その扉は規律を学び、指導者の教えに従うものであれば如何なる野蛮人にも開かれている。;;;;;;;;;;;;x
 EVTOPTAHF25026;面白そうだ！;;;;;;;;;;;;x
 EVTOPTBHF25026;Bah! This looks suspicious...;;;;;;;;;;;;x
 create_warrior_lodge_hellenic;オリンポスの戦士団を創立する;;;;;;;;;;;;x
@@ -10923,7 +10923,7 @@ warrior_lodge_bon;[GetBonWarriorSocietyName];;;;;;;;;;;;x
 warrior_lodge_bon_desc;[GetBonWarriorSocietyDesc];;;;;;;;;;;;x
 warrior_lodge_bon_real;光の守護者;;;;;;;;;;;;x
 warrior_lodge_bon_random;The Light Keepers;;;;;;;;;;;;x
-warrior_lodge_bon_desc_real;守護者たちは多くのボン教寺院を取り巻く戦士氏族社会の恩恵だ。彼らの住む山岳地帯と同様に厳しい規律を有した迷信深い共同体出身の戦士であり、戦いの前には適切な儀式と生贄を行ったかを確かめるでしょう。;;;;;;;;;;;;x
+warrior_lodge_bon_desc_real;守護者たちは多くのボン宗教寺院を取り巻く戦士氏族社会の恩恵だ。彼らの住む山岳地帯と同様に厳しい規律を有した迷信深い共同体出身の戦士であり、戦いの前には適切な儀式と生贄を行ったかを確かめるでしょう。;;;;;;;;;;;;x
 warrior_lodge_bon_desc_random;The Light Keepers are the boon of a society of warrior clans surrounding the many [bon.GetName] monasteries. Possessing a discipline as harsh as the environment they inhabit, these fighters are from a superstitious community and will always make certain to perform the appropriate rites and sacrifices, before each battle.;;;;;;;;;;;;x
 warrior_lodge_hellenic;[GetHellenicWarriorSocietyName];;;;;;;;;;;;x
 warrior_lodge_hellenic_desc;[GetHellenicWarriorSocietyDesc];;;;;;;;;;;;x
@@ -11051,13 +11051,13 @@ DISMISS_CONSORT_INTERACTION_LONG_DESC;[Actor.GetOppositeConsortSexCap]には何�
 DISMISS_CONSORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§Wは[Actor.GetOppositeConsortSex]の§Y[Recipient.GetBestName]§Wを遠ざけた。;;;;;;;;;;;;x
 DISMISS_CONSORT_INTERACTION_OFFER;[Actor.GetBestName]はあなたを遠ざけました。あなたはもう[Actor.GetBestName]の[Actor.GetOppositeConsortSex]ではありません！;;;;;;;;;;;;x
 MAKE_CONSORT_INTERACTION_LONG_DESC;配偶者のほかに3人までの[Actor.GetOppositeConsortSex]を持つことができます。 [Actor.GetOppositeConsortSexCap]は正式な婚姻関係ではありませんが、生まれた子供は継承権を持ちます。 囚人は、すでに結婚していても強制的に自分の[Actor.GetOppositeConsortSex]にすることができます。;;;;;;;;;;;;x
-NOT_ALLOWED_BON;DLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン教徒§!でのプレイはできません！;;;;;;;;;;;;x
-NOT_ALLOWED_BON_MP;§Y$PLAYER$§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン教徒§!でのプレイはできません！;;;;;;;;;;;;x
+NOT_ALLOWED_BON;DLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン宗教の教徒§!でのプレイはできません！;;;;;;;;;;;;x
+NOT_ALLOWED_BON_MP;§Y$PLAYER$§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければ§Yボン宗教の教徒§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_PAGAN;DLC『The Old Gods』または『Holy Fury』のいずれかがなければ§Y原始宗教信者§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_PAGAN_MP;§Y$PLAYER$は§!、DLC『The Old Gods』または『Holy Fury』のいずれかがなければ§Y原始宗教信者§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_ZOROASTRIAN;DLC『The Old Gods』がなければ§Yゾロアスター教徒§!でのプレイはできません！;;;;;;;;;;;;x
 NOT_ALLOWED_ZOROASTRIAN_MP;§Y$PLAYER$§!はDLC『The Old Gods』がなければ§Yゾロアスター教徒§!でのプレイはできません！;;;;;;;;;;;;x
-RD_BON_NOT_PLAYABLE;§Yボン教§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければプレイできません;;;;;;;;;;;;x
+RD_BON_NOT_PLAYABLE;§Yボン宗教§!はDLC『The Old Gods』、『Jade Dragon』、『Holy Fury』のいずれかがなければプレイできません;;;;;;;;;;;;x
 RD_NOT_PLAYABLE_WITHOUT_PAGAN_DLC;原始宗教はDLC『The Old Gods』または『Holy Fury』のいずれかがなければプレイできません;;;;;;;;;;;;x
 RD_ZOROASTRIAN_NOT_PLAYABLE;ゾロアスター教はDLC『The Old Gods』がなければプレイできません;;;;;;;;;;;;x
 ANTIPOPE_COUNT_OR_ABOVE;§R伯爵級以下の者を対立教皇にすることはできません§!;;;;;;;;;;;;x
@@ -11707,7 +11707,7 @@ opinion_crusade_agreement;十字軍参加の盟約を評価;;;;;;;;;;;;x
 opinion_disapprove_of_crusade_unpledge;十字軍を裏切った;;;;;;;;;;;;x
 secretly_convert_to_bon_holy_site;Secretly Convert to Bön;;;;;;;;;;;;x
 secretly_convert_to_bon_holy_site_desc;The §YBön§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;;;x
-secretly_convert_to_bon_reformed_holy_site;ボン教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_bon_reformed_holy_site;ボン宗教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_bon_reformed_holy_site_desc;The §YBön§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;;;x
 secretly_convert_to_taoist_holy_site;道教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_taoist_holy_site_desc;The §YTaoist§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;;;x
@@ -11937,7 +11937,7 @@ tooltip_feudal_elector_vote_lustful_negative;[From.GetSheHeCap]は§Y好色§!�
 tooltip_feudal_elector_vote_gluttonous_positive;[From.GetSheHeCap]は気前の良い主人だ。;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_gluttonous_negative;[From.GetSheHeCap]は§Y大食§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_greedy_positive;[From.GetSheHeCap]は倹約家だ;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_greedy_negative;[From.GetSheHeCap]は§Y貪欲§!だ;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_greedy_negative;[From.GetSheHeCap]は§Y強欲§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_slothful_positive;[From.GetSheHeCap]は用心深い;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_slothful_negative;[From.GetSheHeCap]は§Y怠惰§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_wroth_positive;[From.GetSheHeCap]は気性が激しい;;;;;;;;;;;;x
@@ -13230,7 +13230,7 @@ POPE_AIREASON_MODIFIER_RULER_HUMBLE;[Root.GetTitledFirstName]は§Y謙虚§!で�
 POPE_AIREASON_MODIFIER_RULER_CYNICAL;[Root.GetTitledFirstName]は§Y冷笑的§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_LUSTFUL;[Root.GetTitledFirstName]は§Y好色§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS;[Root.GetTitledFirstName]は§Y大食§!である;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GREEDY;[Root.GetTitledFirstName]は§Y貪欲§!である;;;;;;;;;;;;x
+POPE_AIREASON_MODIFIER_RULER_GREEDY;[Root.GetTitledFirstName]は§Y強欲§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_SLOTHFUL;[Root.GetTitledFirstName]は§Y怠惰§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_WROTH;[Root.GetTitledFirstName]は§Y憤怒§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_ENVIOUS;[Root.GetTitledFirstName]は§Y嫉妬§!である;;;;;;;;;;;;x
@@ -13277,7 +13277,7 @@ POPE_AIREASON_MODIFIER_RULER_HUMBLE_TARGET;[FromFrom.GetTitledFirstName]は§Y�
 POPE_AIREASON_MODIFIER_RULER_CYNICAL_TARGET;[FromFrom.GetTitledFirstName]は§Y冷笑的§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_LUSTFUL_TARGET;[FromFrom.GetTitledFirstName]は§Y好色§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS_TARGET;[FromFrom.GetTitledFirstName]は§Y大食§!である;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GREEDY_TARGET;[FromFrom.GetTitledFirstName]は§Y貪欲§!である;;;;;;;;;;;;x
+POPE_AIREASON_MODIFIER_RULER_GREEDY_TARGET;[FromFrom.GetTitledFirstName]は§Y強欲§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_SLOTHFUL_TARGET;[FromFrom.GetTitledFirstName]は§Y怠惰§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_WROTH_TARGET;[FromFrom.GetTitledFirstName]は§Y憤怒§!である;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_ENVIOUS_TARGET;[FromFrom.GetTitledFirstName]は§Y嫉妬§!である;;;;;;;;;;;;x
@@ -17994,8 +17994,8 @@ TT_PAGAN_CANONIZATION_FAMILY;[saint_person.GetFirstName] has become known as a b
 pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YSaint§! of the faith. [saint_person.GetHerHisCap] dynasty would surely appreciate the gesture.;;;;;;;;;;;;x
 pagan_pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YBlessed Ancestor§! of the faith. [saint_person.GetHerHisCap] §YDynasty§! would surely appreciate the gesture.;;;;;;;;;;;;x
 emperor_has_hre;§Y[e_hre.Holder.GetTitledName]§!の直臣;;;;;;;;;;;;x
-hellenic_hermetic_join_tooltip;公に§Y古代ギリシャ多神教§!を信仰している;;;;;;;;;;;;x
-zunist_hermetic_join_tooltip;公に§Yズン教§!を信仰している;;;;;;;;;;;;x
+hellenic_hermetic_join_tooltip;公に§Y古代ギリシャ宗教§!を信仰している;;;;;;;;;;;;x
+zunist_hermetic_join_tooltip;公に§Yズン宗教§!を信仰している;;;;;;;;;;;;x
 e_spain_allow_TT;[Root.Religion.GetGroupName]の信者でない者が保持している慣習的王位が一つもない;;;;;;;;;;;;x
 remove_previous_reconquista_beneficiary;§Y[reconquista_beneficiary_target.GetTitledName]§!はもう自分の受益者ではなくなるだろう;;;;;;;;;;;;x
 new_reconquista_beneficiary_self;§Y[This.GetTitledName]§!が自分の新たな受益者となる;;;;;;;;;;;;x
@@ -19882,9 +19882,9 @@ MORGANNWG;モルガンヌグ;;;;;;;;;;;;x
 MORGANNWG_ADJ;モルガンヌグ;;;;;;;;;;;;x
 LOCHA_LEIN;ロハ・レーン;;;;;;;;;;;;x
 LOCHA_LEIN_ADJ;ロハ・レーン;;;;;;;;;;;;x
-RULE_HELLENISM;古代ギリシャ多神教の復興;;;;;;;;;;;;x
-RULE_HELLENISM_ON;まれな状況下では、当主は古代ギリシャ多神教に改宗し、古い宗教を復興する可能性があります。;;;;;;;;;;;;x
-RULE_HELLENISM_OFF;古代ギリシャ多神教の復興に関連するイベントや決定は無効になっています。;;;;;;;;;;;;x
+RULE_HELLENISM;古代ギリシャ宗教の復興;;;;;;;;;;;;x
+RULE_HELLENISM_ON;まれな状況下では、当主は古代ギリシャ宗教に改宗し、古い宗教を復興する可能性があります。;;;;;;;;;;;;x
+RULE_HELLENISM_OFF;古代ギリシャ宗教の復興に関連するイベントや決定は無効になっています。;;;;;;;;;;;;x
 EVTDESCHFC20370;式典がようやく終了したので、[From.GetTitledFirstName]は私に別れを告げ、他の客人と一緒に陣地から解散させた。戴冠式が敵の急襲によって突然中断されなかったのがまだ信じられない... [From.Religion.GetHighGodNameCap]は本当に[From.GetTitledFirstName]を保護しているに違いない。;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23835;他の§Y客人§!全員が侮辱される。;;;;;;;;;;;;x
 EVTOPTBHF23474;ハッ！迷信を信じるとは馬鹿馬鹿しい！;;;;;;;;;;;;x

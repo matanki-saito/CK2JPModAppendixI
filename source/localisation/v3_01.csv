@@ -11,8 +11,8 @@ crown_unicorn_helmet_desc;古代のユニコーンの神秘的な力を着用者
 EVTOPTDHF23200;双児神のいずれか、もしくは神々の伝令使をこの神殿に祀ることができます。;;;;;;;;;;;;x
 EVTOPTCHF23200_TT;§Y[scoped_temple_barony.GetName]§!の寺院を繁栄に関連する神――§Y[GetHestiaVestaName]§!、§Y[GetDemetraCeresName]§!、§Y[GetAphroditeVenusName]§!のいずれかに捧げます。;;;;;;;;;;;;x
 EVTOPTDHF23200_TT;§Y[scoped_temple_barony.GetName]§!の寺院をレートーの子である§Yアポローン§!ないし§Y[GetArtemisDianaName]§!、または神々の伝令使§Y[GetHermesMercuryName]§!のいずれかに捧げます。;;;;;;;;;;;;x
-EVTDESCHF23203;大地や繁栄に関連するギリシアの神は複数います。[GetDemetraCeresName]は豊穣を司り、[GetAphroditeVenusName]は多産に関連付けられます。またローマ人から強く支持された女神[GetHestiaVestaName]は健康と家族に関連しています。;;;;;;;;;;;;x
-EVTDESCHF23204;アポロはギリシャ神話における代表的な神で、芸術と医療を司ります。一方双子の姉妹[GetArtemisDianaName]はつつましく、秘密の信奉者がおり、夜と自然を司ります。最後に、[GetHermesMercuryName]は神々の伝令使であり司るのは、道、交易、そして時々、詐欺と盗人です。[GetPrincelyElectorsList];;;;;;;;;;;;x
+EVTDESCHF23203;大地や繁栄に関連する古代ギリシャ宗教の神々は複数います。[GetDemetraCeresName]は豊穣を司り、[GetAphroditeVenusName]は多産に関連付けられます。またローマ人から強く支持された女神[GetHestiaVestaName]は健康と家族に関連しています。;;;;;;;;;;;;x
+EVTDESCHF23204;アポロは古代ギリシャ宗教の神話における代表的な神で、芸術と医療を司ります。一方双子の姉妹[GetArtemisDianaName]はつつましく、秘密の信奉者がおり、夜と自然を司ります。最後に、[GetHermesMercuryName]は神々の伝令使であり司るのは、道、交易、そして時々、詐欺と盗人です。[GetPrincelyElectorsList];;;;;;;;;;;;x
 succ_hre_elective_desc;皇帝及び7選帝侯が領主の嫡子と兄弟姉妹、及び自分たち自身とその他の帝国の慣習的封臣たち（ただし現在の皇帝と異なる宗教を信仰している者を除く）の中から後継者を指名します。もし史実の選帝侯の称号が邪教徒によって保有されていたり、或いは存在しなかった場合は他の慣習的封臣がそれに代わって選帝侯となります。もし帝国が§Y教皇叙任権§!を認めている、または§Y教条主義的§!な宗教のもとにある場合、大司教が選挙において大きな権勢をふるいます。[GetPrincelyElectorsList];;;;;;;;;;;;x
 string_princely_elective_elector_list_desc;[e_hre.GetName]の§Y史実での選帝侯§!は伯爵級が[hre_title_1_per.GetName]、[hre_title_2_per.GetName]、[hre_title_3_per.GetName]、公爵級が[hre_title_4_per.GetName]、[hre_title_5_per.GetName]、[hre_title_6_per.GetName]、[hre_title_7_per.GetName]です;;;;;;;;;;;;x
 GOD_TYPHON;テューポーン;;;;;;;;;;;;x
@@ -172,7 +172,7 @@ EVTOPT_TEMPLE_BACK_TO_SELECTION;On second thought...;;;;;;;;;;;;x
 EVTOPT_TEMPLE_BACK_TO_SELECTION_TT;Go back to look at your other options.;;;;;;;;;;;;x
 EVTDESC_HF_41425_A;The whole area is filled with people, looking like they come from all the different corners of the world. I never knew [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
 EVTDESC_HF_41425_B;There is a couple of other pilgrims around, but they all look relatively local to the area. I walk over to the grave and look down at the small statue of the saint, as well as the stone commemorating [pilgrimage_destination.province_saint.GetHerHis] life. It has been a long journey, and I finally get to gaze upon the blessed burial site of [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
-EVTDESC_HF_41425_C;The burial site is completely void of people, not a single soul to be seen, and I have to search to spot the small grave. Overgrown and deserted as it is, I take it upon myself to tidy the place up before I finally sit down in prayer to [Root.Religion.GetHighGodName]. It is almost as if [pilgrimage_destination.province_saint.GetFirstNameWithNick] is here, praying with me.;;;;;;;;;;;;x
+EVTDESC_HF_41425_C;墓場にはまったく人気がなく、幽霊の気配すらない。小さな墓はどこかと目を皿のようにして見渡す。その墓は、予想外に草が生い茂ってさびれてしまっていた。そのままにしては置けず、その場をきれいに整える。最後に腰を下ろし[Root.Religion.GetHighGodName]に祈った。それはまるでここに[pilgrimage_destination.province_saint.GetFirstNameWithNick]がいて、共に祈るかのようあった。;;;;;;;;;;;;x
 gain_berserker_tt;§Y[This.GetTitledFirstName]§! gains the trait §YBerserker§! giving:\nMartial: §G+4§!\nDiplomacy: §R-2§!\nPersonal Combat Skill: §G+25§!\nSame Trait Opinion: §G+10§!\n\n[GetBerserkerDecisionExtras]\n;;;;;;;;;;;;x
 String_some_change_tt;This action is bound to affect your personality:\n[GetBerserkerDecisionTraitChanges]\n;;;;;;;;;;;;x
 String_gain_wroth_aggressive_leader_lose_defender;§Y[This.GetTitledFirstName]§!は§Y憤怒§!と§Y猛将§!の特性を獲得し、§Y堅将§!の特性を失います\n;;;;;;;;;;;;x

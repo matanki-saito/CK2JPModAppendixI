@@ -407,9 +407,9 @@ d_zun_warriors;太陽の騎士団;;;;;;;;;;;;x
 d_zun_warriors_adj;ズン;;;;;;;;;;;;x
 job_spiritual_zun_pagan;予言者;;;;;;;;;;;;x
 job_spiritual_zun_pagan_reformed;予言者;;;;;;;;;;;;x
-zun_pagan;ズン教;;;;;;;;;;;;x
+zun_pagan;ズン宗教教徒;;;;;;;;;;;;x
 zun_pagan_reformed;ズン教会;;;;;;;;;;;;x
-zun_pagan_reformed_adj;ズン教;;;;;;;;;;;;x
+zun_pagan_reformed_adj;ズン宗教教徒;;;;;;;;;;;;x
 zun_pagan_DESC;正義を司る太陽神であるズンは、アフガニスタンのズンビール王朝で崇拝されていた。ズンは知恵、力、火、夜を照らす光の象徴である。ゲーム内の特徴は：\n§Y*§!他の原始宗教全てに対して服属戦争を宣言できる\n§Y*§!改宗力が劣っており、非原始宗教の宣教師の改宗に応じやすい;;;;;;;;;;;;x
 ca_culture_suebi_1;自由戦士野営地;;;;;;;;;;;;x
 ca_culture_suebi_2;自由戦士野営地;;;;;;;;;;;;x
@@ -665,7 +665,7 @@ convert_to_italian_desc;More and more of our people are becoming completely lati
 convert_to_occitan;オクシタン文化を受容;;;;;;;;;;;;x
 convert_to_occitan_desc;Under the influence of Latin culture, many people in our realm are now adopting Occitan traditions, no longer identifying themselves as Visigoths. We could do the same...;;;;;;;;;;;;x
 EVTTITLE_CM_4000;太陽の騎士団;;;;;;;;;;;;x
-EVTDESC_CM_4000;新たな宗教騎士団は改革と拡張が行われたズン教の継続と保護のために設立された。この騎士団は「太陽の騎士団」と呼ばれ、戦場では決して引くことをせず、敬虔な信徒を守り、新たな土地に正義を与えしズンの光を広げることを誓っている。多くの若い戦士たちはすでに騎士団の金字塔に集結している。;;;;;;;;;;;;x
+EVTDESC_CM_4000;新たな宗教騎士団は改革と拡張が行われたズン教会の継続と保護のために設立された。この騎士団は「太陽の騎士団」と呼ばれ、戦場では決して引くことをせず、敬虔な信徒を守り、新たな土地に正義を与えしズンの光を広げることを誓っている。多くの若い戦士たちはすでに騎士団の金字塔に集結している。;;;;;;;;;;;;x
 EVTOPTA_CM_4000;[zun_leader.Religion.GetRandomGodName]を讃えよ！;;;;;;;;;;;;x
 EVTDESC_CM_4002;私の[GetFromRelation]である[From.GetTitledFirstName]が、信徒を守る使命のために「太陽の騎士」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
 EVTTOOLTIP_CM_4003;[This.GetTitledFirstName]は太陽の騎士になる。;;;;;;;;;;;;x
