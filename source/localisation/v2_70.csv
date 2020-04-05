@@ -308,7 +308,7 @@ religion_openly_aztec_or_reformed_tooltip;公に§Y[aztec_reformed.GetName]§!�
 FOLLOWS_SECRET_RELIGION_TOOLTIP;この人物は$RELIGION|Y$を秘匿信仰している;;;;;;;;;;;;x
 CAN_SEE_SECRET_RELIGION;$WHO|Y$は秘匿信者として知られている;;;;;;;;;;;;x
 CANNOT_SEE_SECRET_RELIGION;$WHO|Y$が秘匿信者かどうかは不明;;;;;;;;;;;;x
-FILTER_HAS_SECRET_RELIGION;Has Secret Religion;;;;;;;;;;;;x
+FILTER_HAS_SECRET_RELIGION;秘密の宗教持ち;;;;;;;;;;;;x
 alert_society_rank_up_possible_instant;§Y結社で昇格が可能§!;;;;;;;;;;;;x
 alert_society_rank_up_possible_delayed;あなたは結社で次の階級への昇格を要求するのに十分な影響力を持っています。;;;;;;;;;;;;x
 ALLY_ORDER_BUSY_OTHER_CAMPAIGN;この人物は$WAR|Y$に忙しく、貴方を支援することができません;;;;;;;;;;;;x
@@ -426,37 +426,37 @@ secretly_convert_to_buddhist_holy_site;仏教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_buddhist_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y仏教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 secretly_convert_to_jain_holy_site;ジャイナ教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_jain_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yジャイナ教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_norse_pagan_holy_site;ゲルマン原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_norse_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_norse_pagan_reformed_holy_site;ゲルマン多神教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_norse_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_slavic_pagan_holy_site;スラブ原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_slavic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラブ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_slavic_pagan_reformed_holy_site;スラブ多神教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_slavic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラブ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_tengri_pagan_holy_site;テングリ信仰を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_tengri_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ信仰§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_tengri_pagan_reformed_holy_site;テングリ教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_tengri_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_holy_site;ロムヴァ原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_reformed_holy_site;ロムヴァ多神教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_baltic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_holy_site;スオメヌスコ原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_reformed_holy_site;スオメヌスコ多神教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_finnish_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ多神教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_west_african_pagan_holy_site;アフリカ原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_west_african_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアフリカ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_holy_site;ゲルマン宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_reformed_holy_site;ゲルマン宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_norse_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yゲルマン宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_holy_site;スラヴ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラブ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_reformed_holy_site;スラヴ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_slavic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスラヴ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_holy_site;テングリ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_reformed_holy_site;テングリ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_tengri_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yテングリ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_holy_site;ロムヴァ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_reformed_holy_site;ロムヴァ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_baltic_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yロムヴァ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_holy_site;スオメヌスコ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_reformed_holy_site;スオメヌスコ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_finnish_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yスオメヌスコ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_holy_site;アフリカ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_west_african_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアフリカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_reformed_holy_site;アフリカ宗教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_west_african_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Y西アフリカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_aztec_holy_site;アステカ原始宗教を秘匿信仰する;;;;;;;;;;;;x
-secretly_convert_to_aztec_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ原始宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
+secretly_convert_to_aztec_holy_site;アステカ宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_aztec_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site;アステカ宗教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_aztec_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yアステカ宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 secretly_convert_to_zun_pagan_holy_site;ズン宗教を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_zun_pagan_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン宗教§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
-secretly_convert_to_zun_pagan_reformed_holy_site;改革派ズン宗教を秘匿信仰する;;;;;;;;;;;;x
+secretly_convert_to_zun_pagan_reformed_holy_site;ズン教会を秘匿信仰する;;;;;;;;;;;;x
 secretly_convert_to_zun_pagan_reformed_holy_site_desc;§Y[Root.Location.GetName]§!にある聖地への§Yズン教会§!の巡礼者達はその信仰の深さと情熱で私に感動をもたらした。密かに改宗する誘惑にかられてしまう…;;;;;;;;;;;;x
 RULE_SECRET_CULTS;秘密のカルト教団;;;;;;;;;;;;x
 RULE_SECRET_CULTS_DEFAULT_DESC;秘密のカルト教団を設立することができます。;;;;;;;;;;;;x

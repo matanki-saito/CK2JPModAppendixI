@@ -475,7 +475,7 @@ expel_zealots_desc;私の領国から熱心党を追い払い、彼らの城砦�
 donate_money_to_the_zealots;熱心党に300¤を寄付;;;;;;;;;;;;x
 expelled_d_zealots;熱心党を追放;;;;;;;;;;;;x
 EVTTITLE_SOA_2009;天上神党;;;;;;;;;;;;x
-EVTDESC_SOA_2009;テングリ教の天空神はすべてを見通しているが、地上では人間の遣いを必要としている。天上神党はテングリ教の改革をきっかけに設立された新しい宗教騎士団であり、邪教徒と闘い天空神の意志を広げるために馬に跨る。騎乗する彼らの轟音は空の雷のようなものだ。この音を聞いただけで改宗したものもいるという話だ。;;;;;;;;;;;;x
+EVTDESC_SOA_2009;テングリ宗教の天空神はすべてを見通しているが、地上では人間の遣いを必要としている。天上神党はテングリ宗教の改革をきっかけに設立された新しい宗教騎士団であり、邪教徒と闘い天空神の意志を広げるために馬に跨る。騎乗する彼らの轟音は空の雷のようなものだ。この音を聞いただけで改宗したものもいるという話だ。;;;;;;;;;;;;x
 EVTOPTA_SOA_2009;天空神の名の下に前進しろ！;;;;;;;;;;;;x
 EVTOPTB_SOA_2009;次は何をしようとしているんだ？この野蛮人どもは;;;;;;;;;;;;x
 EVTDESC_SOA_2031;私の[GetFromRelation]である[From.GetTitledFirstName]が、異教徒と戦う「天上神党」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
@@ -490,7 +490,7 @@ donate_money_to_sky_lords;天上神党に300¤を寄付;;;;;;;;;;;;x
 donate_money_to_sky_lords_desc;I can donate money to the Lords of the Sky in exchange for [Player.Religion.GetPietyName] and lifelong respect from the Tengri Priesthood.;;;;;;;;;;;;x
 expelled_d_sky_lords;天上神党を追放;;;;;;;;;;;;x
 EVTTITLE_SOA_2109;精霊の守護者;;;;;;;;;;;;x
-EVTDESC_SOA_2109;アフリカ原始宗教の多くの宗教体系を一つに纏め上げたことで、諸部族は最高の戦士たちを一つの宗教騎士団に纏めることに同意した。彼らは精霊の守護者を自称して、精霊とその信者に仇なす物から守ると誓った。;;;;;;;;;;;;x
+EVTDESC_SOA_2109;アフリカ宗教の多くの宗教体系を一つに纏め上げたことで、諸部族は最高の戦士たちを一つの宗教騎士団に纏めることに同意した。彼らは精霊の守護者を自称して、精霊とその信者に仇なす物から守ると誓った。;;;;;;;;;;;;x
 EVTOPTA_SOA_2109;精霊に祝福あれ！;;;;;;;;;;;;x
 EVTDESC_SOA_2131;私の[GetFromRelation]である[From.GetTitledFirstName]が、信仰を守る勇者である「精霊の守護者」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
 EVTDESC_SOA_2141;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation shall aid us greatly in our unceasing efforts to defend the Spirits and their faithful believers! You have my friendship, as well as that of the priesthood.\n\nMay the Spirits walk with you,\nWarchief [From.GetFirstName];;;;;;;;;;;;x
@@ -532,7 +532,7 @@ donate_money_to_chosen_perkunas;ペルクナスに選ばれし者達に300¤を�
 donate_money_to_chosen_perkunas_desc;[Player.Religion.GetPietyName]と尊敬の念を得るのと引き換えに、ペルクナスに選ばれし者達にお金を寄付します。;;;;;;;;;;;;x
 expelled_d_chosen_perkunas;ペルクナスに選ばれし者達を追放;;;;;;;;;;;;x
 EVTTITLE_SOA_2409;カレヴァの息子達;;;;;;;;;;;;x
-EVTDESC_SOA_2409;新たなフィンランドの宗教騎士団は改革されたスオメヌスコ多神教の継続と保護のためにその身を捧げた。この騎士団の戦士は「カレヴァの息子達」と呼ばれ、信仰の真実を否定する人々との戦いに備えている。多くのフィンランド人が彼らを古代神話の英雄として尊敬しており、騎士団の新兵が不足することはない。;;;;;;;;;;;;x
+EVTDESC_SOA_2409;新たなフィンランドの宗教騎士団は改革されたスオメヌスコ宗教の継続と保護のためにその身を捧げた。この騎士団の戦士は「カレヴァの息子達」と呼ばれ、信仰の真実を否定する人々との戦いに備えている。多くのフィンランド人が彼らを古代神話の英雄として尊敬しており、騎士団の新兵が不足することはない。;;;;;;;;;;;;x
 EVTOPTA_SOA_2409;まるで神話の英雄のようだ！;;;;;;;;;;;;x
 EVTDESC_SOA_2431;私の[GetFromRelation]である[From.GetTitledFirstName]が、異教徒と戦う英雄である「カレヴァの息子達」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
 EVTDESC_SOA_2441;偉大なる[Root.PrimaryTitle.GetRulerTitle]よ、あなたの非常に寛大なる寄付が我々のカレヴァの意志を果たす探求の大きな助けとなるでしょう！私のあなたへの友情は、聖職者たちへ向けるそれと同じです。 \n\n 神々の加護ぞあれ。 \n 団長[From.GetFirstName];;;;;;;;;;;;x
@@ -881,9 +881,9 @@ EVTOPTC_SoA_5205;Hang on, let me see...;;;;;;;;;;;;x
 EVTDESC_SoA_5206;Your court chaplain comes to you and suggests that the family relic could be used to help heal your pains. A night of prayers and the presence of this holy item might bring the Lord's attention to you and drive the sickness out.;;;;;;;;;;;;x
 EVTOPTA_SoA_5206;Our holy relic will surely be my salvation!;;;;;;;;;;;;x
 EVTOPTB_SoA_5206;Bring a healer but keep those old bones away from me.;;;;;;;;;;;;x
-EVTDESC_SoA_5207;As the farmers prepare for sowing their spring crops, your court chaplain suggests that you bring out the holy relic in procession and bless the fields. Surely, this would increase the likelihood of a bountiful harvest this year.;;;;;;;;;;;;x
-EVTOPTA_SoA_5207;Yes, it will bless the land and pacify the peasants.;;;;;;;;;;;;x
-EVTOPTB_SoA_5207;No, I don't think it would do any good.;;;;;;;;;;;;x
+EVTDESC_SoA_5207;農夫たちが春の作付けの準備をする時期、宮廷の牧師は聖遺物もって練り歩き、畑に祝福を与えるよう提案する。今年は豊作の可能性が高まるだろう。;;;;;;;;;;;;x
+EVTOPTA_SoA_5207;よし、土地に祝福を与えて農夫たちを鎮めるのだ;;;;;;;;;;;;x
+EVTOPTB_SoA_5207;はっ、それに何の意味がある？;;;;;;;;;;;;x
 EVTDESC_SoA_5208;洗礼者ヨハネの指、10箱の割引特価！\n司教は、聖遺物の贋作が暴利で市場で販売されていることに、あなたの注意を向けさせます。それらはもちろん、多くの商取引と税収を産み出しますが、それはかなり不道徳で冒涜的なやり方です。;;;;;;;;;;;;x
 EVTOPTA_SoA_5208;犯罪者共を厳しく取り締まれ!;;;;;;;;;;;;x
 EVTOPTB_SoA_5208;放っておけ。;;;;;;;;;;;;x

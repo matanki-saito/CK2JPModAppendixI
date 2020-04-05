@@ -59,7 +59,7 @@ sea_queen_desc;この人物はあまねくところから畏怖されている�
 88017.cannibal;[From.GetBestName]は恥ずべき輩だが、おかげで小腹が満たされた！;;;;;;;;;;;;x
 8469.a;[Root.Religion.GetHighGodNameCap]よ!感謝します!;;;;;;;;;;;;x
 tengri_warrior;空の君主;;;;;;;;;;;;x
-tengri_warrior_desc;この者はテングリ信仰の栄光のために戦う草原の戦士そのものだ。;;;;;;;;;;;;x
+tengri_warrior_desc;この者はテングリ宗教の栄光のために戦う草原の戦士そのものだ。;;;;;;;;;;;;x
 romuvas_own;ディエヴァスの猟犬;;;;;;;;;;;;x
 romuvas_own_desc;この者は聖なる森を守るために戦ってきた。;;;;;;;;;;;;x
 ukkos_shield;ウッコのハンマー;;;;;;;;;;;;x
@@ -69,7 +69,7 @@ eagle_warrior_desc;アステカ戦士たちにとっての戦いは生活の一�
 peruns_chosen;ペルーンに選ばれし者;;;;;;;;;;;;x
 peruns_chosen_desc;ペルーンに選ばれしものが使用する戦斧は稲妻の力をもってスラヴの教えの敵を斬り刻む。;;;;;;;;;;;;x
 nyames_shield;ニャムの盾;;;;;;;;;;;;x
-nyames_shield_desc;この人物はアフリカ原始宗教の教えのために戦う選ばれし戦士の一人である。;;;;;;;;;;;;x
+nyames_shield_desc;この人物はアフリカ宗教の教えのために戦う選ばれし戦士の一人である。;;;;;;;;;;;;x
 sun_warrior;太陽の戦士;;;;;;;;;;;;x
 sun_warrior_desc;太陽の戦士はズン宗教に由来するあらゆる火の力と契約をしている;;;;;;;;;;;;x
 ares_own;アレスの戦士;;;;;;;;;;;;x

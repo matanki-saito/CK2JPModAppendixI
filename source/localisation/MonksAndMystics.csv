@@ -375,38 +375,38 @@ secretly_buddhism;仏教の秘匿信者;;;;;;;;;;;;x
 secretly_buddhism_desc;この人物は仏教の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_jain;ジャイナ教の秘匿信者;;;;;;;;;;;;x
 secretly_jain_desc;この人物はジャイナ教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_norse_pagan;ゲルマン原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_norse_pagan_desc;この人物はゲルマン原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_norse_pagan_reformed;改革派ゲルマン原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_norse_pagan_reformed_desc;この人物は改革派ゲルマン原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_baltic_pagan;ロムヴァ原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_baltic_pagan_desc;この人物はロムヴァ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_baltic_pagan_reformed;ロムヴァ多神教の秘匿信者;;;;;;;;;;;;x
-secretly_baltic_pagan_reformed_desc;この人物はロムヴァ多神教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_finnish_pagan;スオメヌスコ原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_finnish_pagan_desc;この人物はスオメヌスコ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_finnish_pagan_reformed;スオメヌスコ多神教の秘匿信者;;;;;;;;;;;;x
-secretly_finnish_pagan_reformed_desc;この人物はスオメヌスコ多神教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_slavic_pagan;スラブ原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_slavic_pagan_desc;この人物はスラブ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_slavic_pagan_reformed;スラブ多神教の秘匿信者;;;;;;;;;;;;x
-secretly_slavic_pagan_reformed_desc;この人物はスラブ多神教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_tengri_pagan;テングリ信仰の秘匿信者;;;;;;;;;;;;x
-secretly_tengri_pagan_desc;この人物はテングリ信仰の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_tengri_pagan_reformed;テングリ教の秘匿信者;;;;;;;;;;;;x
-secretly_tengri_pagan_reformed_desc;この人物はテングリ教信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_aztec;アステカ原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_aztec_desc;この人物はアステカ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_aztec_reformed;アステカ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_norse_pagan;ゲルマン宗教の秘匿信者;;;;;;;;;;;;x
+secretly_norse_pagan_desc;この人物はゲルマン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_norse_pagan_reformed;改革派ゲルマン宗教の秘匿信者;;;;;;;;;;;;x
+secretly_norse_pagan_reformed_desc;この人物はゲルマン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_baltic_pagan;ロムヴァ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_baltic_pagan_desc;この人物はロムヴァ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_baltic_pagan_reformed;改革派ロムヴァ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_baltic_pagan_reformed_desc;この人物はロムヴァ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_finnish_pagan;スオメヌスコ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_finnish_pagan_desc;この人物はスオメヌスコ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_finnish_pagan_reformed;改革派スオメヌスコ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_finnish_pagan_reformed_desc;この人物はスオメヌスコ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_slavic_pagan;スラヴ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_slavic_pagan_desc;この人物はスラヴ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_slavic_pagan_reformed;改革派スラヴ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_slavic_pagan_reformed_desc;この人物はスラヴ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_tengri_pagan;テングリ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_tengri_pagan_desc;この人物はテングリ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_tengri_pagan_reformed;改革派テングリ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_tengri_pagan_reformed_desc;この人物はテングリ宗教信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_aztec;アステカ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_aztec_desc;この人物はアステカ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_aztec_reformed;改革派アステカ宗教の秘匿信者;;;;;;;;;;;;x
 secretly_aztec_reformed_desc;この人物はアステカ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_west_african_pagan;アフリカ原始宗教の秘匿信者;;;;;;;;;;;;x
-secretly_west_african_pagan_desc;この人物はアフリカ原始宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_west_african_pagan_reformed;アフリカ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_west_african_pagan;アフリカ宗教の秘匿信者;;;;;;;;;;;;x
+secretly_west_african_pagan_desc;この人物はアフリカ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_west_african_pagan_reformed;改革派アフリカ宗教の秘匿信者;;;;;;;;;;;;x
 secretly_west_african_pagan_reformed_desc;この人物はアフリカ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_zun_pagan;ズン宗教の秘匿信者;;;;;;;;;;;;x
 secretly_zun_pagan_desc;この人物はズン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
-secretly_zun_pagan_reformed;改革派ズン宗教の秘匿信者;;;;;;;;;;;;x
-secretly_zun_pagan_reformed_desc;この人物はズン宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
+secretly_zun_pagan_reformed;ズン教会の秘匿信者;;;;;;;;;;;;x
+secretly_zun_pagan_reformed_desc;この人物はズン教会の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_hellenic_pagan;古代ギリシャ宗教の秘匿信者;;;;;;;;;;;;x
 secretly_hellenic_pagan_desc;この人物は古代ギリシャ宗教の信者であることを秘匿しています。;;;;;;;;;;;;x
 secretly_pagan;異教の秘匿信者;;;;;;;;;;;;x
@@ -2119,7 +2119,7 @@ AUTO_ASSIGN_COMMANDERS;指揮官を自動配置;;;;;;;;;;;;x
 SHOW_COMMANDERS_ONLY;指揮官のみ表示;;;;;;;;;;;;x
 IS_SOCIETY_RANK_FULL_TRIGGER_NOT;$SOCIETY|Y$の$RANK|Y$は満員ではない;;;;;;;;;;;;x
 IS_SOCIETY_RANK_FULL_TRIGGER;$SOCIETY|Y$の$RANK|Y$は満員である;;;;;;;;;;;;x
-is_germanic_pagan_custom_tooltip;宗教が§Yゲルマン原始宗教§!である\n;;;;;;;;;;;;x
+is_germanic_pagan_custom_tooltip;宗教が§Yゲルマン宗教§!である\n;;;;;;;;;;;;x
 alert_councillor_no_job_instant;§Y待機中の評議員§!;;;;;;;;;;;;x
 alert_councillor_no_job_delayed;The following councilors are currently not on a job:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;;x
 NO_VALID_SOCIETY;あなたが参加できる既知の§Y結社§!はありません。;;;;;;;;;;;;x
@@ -5678,7 +5678,7 @@ on_indian_pilgrimage_desc;この人物は大いなる巡礼の旅路の途上に
 temple_baron_female_christian;司教;;;;;;;;;;;;x
 String_spahis;スィパーヒー（騎士）;;;;;;;;;;;;x
 EVTDESC_MNM_6024_A;少しの沈黙の間、私たちは敬虔な魂について思考を巡らす。[From.GetFirstName]は真剣な眼差しで私に向き直った。「それは不可能な願いではないかもしれません、[Root.GetFirstName]。預言者とその正統な後継者の言葉を彼らを殺すことで守れるならば、殺す覚悟はありますか？」;;;;;;;;;;;;x
-EVTDESC_MNM_6027_A;"I do, [Root.GetFirstName]," says [From.GetTitledFirstName] with a solemn, almost ceremonial, voice. "There is an Order devoted to Allah and the rightful Caliph. One that defends those true of faith and bring vengeance to their persecutors. The Assassins are always in need of champions. Think it over, and someone might reach out...";;;;;;;;;;;;x
+EVTDESC_MNM_6027_A;「そうです、[Root.GetFirstName]」[From.GetTitledFirstName]は厳格で格式ばった声で言う。「アッラーと正統なカリフに信仰を捧げた教団があります。信仰の正しさを守護し、迫害者に復讐する教団。アサシン教団は常に強者を求めています。望むのならば、声が掛かるかもしれませんよ…」;;;;;;;;;;;;x
 EVTOPTA_6028_A;Allahu akbar! Glory to Ali!;;;;;;;;;;;;x
 EVTDESC_MNM_6205_A;The people of the county [conversion_province.GetName] has now fully embraced Shia Islam as their religion. From [conversion_province.Capital.GetHolding] to countryside, the names of Allah, his prophets and the Imams are honored and cherished. Your mission is complete.;;;;;;;;;;;;x
 EVTOPTA_MNM_6205_A;Allahu Akbar!;;;;;;;;;;;;x

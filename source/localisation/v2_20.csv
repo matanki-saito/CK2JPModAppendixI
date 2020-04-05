@@ -320,12 +320,12 @@ EVTTITLE_CM_1100;ザクセン戦争;;;;;;;;;;;;x
 EVTDESC_CM_1100;フランクの邦、その北の方に住む異教の民ザクセン人は長きに渡り頑なに古き宗教に忠誠を誓い、神をも畏れることなくキリスト教徒の領地を略奪し、外国からの侵略も尽く撥ね退けてきた。もはやそれもここまでだ―今こそ剣と十字架を掲げるのだ。もはや生きているザクセン人に慈悲はない。来世に慈悲を求めんとするならば滅びの前に洗礼を受け入れよ。;;;;;;;;;;;;x
 EVTOPTA_CM_1100;異教徒を叩き潰せ！;;;;;;;;;;;;x
 EVTTITLE_CM_1101;イルミンスル;;;;;;;;;;;;x
-EVTDESC_CM_1101;ゲルマン原始宗教の偉大なる聖地の1つであるパーダーボルンの大聖域を奪取した。ここにはザクセンにおける異教信仰において計り知れない重要さを持つと言われる巨大なイルミンスルの聖木が立っている。ザクセン人にとってイルミンスルは「世界樹」を表し、膨大な道徳的権威と霊感の出づる場所とされてるようだ。;;;;;;;;;;;;x
+EVTDESC_CM_1101;ゲルマン宗教の偉大なる聖地の1つであるパーダーボルンの大聖域を奪取した。ここにはザクセンにおける異教信仰において計り知れない重要さを持つと言われる巨大なイルミンスルの聖木が立っている。ザクセン人にとってイルミンスルは「世界樹」を表し、膨大な道徳的権威と霊感の出づる場所とされてるようだ。;;;;;;;;;;;;x
 EVTOPTA_CM_1101;焼き払え！;;;;;;;;;;;;x
 EVTOPTB_CM_1101;木を残して、大聖堂を建てるのだ。;;;;;;;;;;;;x
 EVTOPTC_CM_1101;この木だけを残せ…「悪魔の木」としてな。;;;;;;;;;;;;x
 EVTTITLE_CM_1102;イルミンスルの破壊;;;;;;;;;;;;x
-EVTDESC_CM_1102;ザクセンでの泥沼の戦いが加熱する中、[From.GetTitledName]の軍が聖木イルミンスルの大聖域であるパーダーボルンを奪取した。征服者[From.GetTitle]の命令で敵軍は聖木に火を放ち、次いで聖域全体を完全に破壊した。これはいたる所でゲルマン原始宗教を信ずる人々の怒りを招いた。;;;;;;;;;;;;x
+EVTDESC_CM_1102;ザクセンでの泥沼の戦いが加熱する中、[From.GetTitledName]の軍が聖木イルミンスルの大聖域であるパーダーボルンを奪取した。征服者[From.GetTitle]の命令で敵軍は聖木に火を放ち、次いで聖域全体を完全に破壊した。これはいたる所でゲルマン宗教を信ずる人々の怒りを招いた。;;;;;;;;;;;;x
 EVTOPTA_CM_1102;ああイルミンスルよ！断固復仇すべし！;;;;;;;;;;;;x
 EVTOPTB_CM_1102;卑劣な冒涜行為だ！;;;;;;;;;;;;x
 EVTOPTC_CM_1102;いと高き処におわす主に栄光あれ！;;;;;;;;;;;;x
@@ -1058,8 +1058,8 @@ EVTOPTA63104;愉快ではないぞ;;;;;;;;;;;;x
 EVTDESC63105;You feared that the lands of [From.GetTitledFirstName] might become independent from your realm in the uncertain moment of your inheritance. Luckily, [From.GetSheHe] has instead confirmed [From.GetHerHis] loyalty by swearing fealty to you.;;;;;;;;;;;;x
 EVTOPTA63105;A true and loyal vassal!;;;;;;;;;;;;x
 TRIBAL_VASSAL_MIN_LEVY;部族の封臣による召集軍の最小規模;;;;;;;;;;;;x
-norse_pagan;ゲルマン原始宗教;;;;;;;;;;;;x
-norse_pagan_reformed;ゲルマン多神教;;;;;;;;;;;;x
+norse_pagan;ゲルマン宗教;;;;;;;;;;;;x
+norse_pagan_reformed;ゲルマン宗教;;;;;;;;;;;;x
 EVTDESC8029;内戦でこの国がずたずたにされることを恐れた[From.GetTitledName]は部族組織法を下げることを受け入れた。今回の一件における貴殿の貴重な支援は、決して忘れぬ。\n\n（署名）\n[FromFrom.GetTitledName];;;;;;;;;;;;x
 EVTDESC8028;Under pressure from a powerful Faction, [From.GetTitledName] has agreed to Lower Crown Authority.;;;;;;;;;;;;x
 EVTDESC8071;内戦でこの国がずたずたにされるのは耐えられぬ。そうなるくらいなら貴様の要求を飲んで部族組織法を下げることを選ぼう。だが、この脅迫という裏切り行為を決して忘れることは無いからな…\n\n署名\n[From.GetTitledName];;;;;;;;;;;;x

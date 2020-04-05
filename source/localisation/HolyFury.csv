@@ -9,7 +9,7 @@ gender_is_culturally_or_religiously_eligble_tt;§Y[Root.GetTitledName]§!の性�
 special_gender_laws_active_tt;特別な§Y法律§!または§Yゲームルール§!が有効である\n;;;;;;;;;;;;x
 no_special_gender_laws_active_tt;特別な§Y法律§!または§Yゲームルール§!が有効ではない\n;;;;;;;;;;;;x
 tribal_or_nomadic_government_tt;§Y部族§!制もしくは§Y遊牧§!制である\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_norse_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yゲルマン原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_norse_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yゲルマン宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 currency_name_warrior_lodge_norse;名誉;;;;;;;;;;;;x
 warrior_lodge_norse_rank_1_female;駆け出し;;;;;;;;;;;;x
 warrior_lodge_norse_rank_2_female;戦士;;;;;;;;;;;;x
@@ -380,7 +380,7 @@ EVTTOOLTIPHF20003;§Y[From.GetTitledName]§!は我が臣民の一斉改宗の大
 EVTTOOLTIPHF20005;§Y[Root.PrimaryTitle.GetName]§!の全封臣が近々行われる式典に招待されるだろう。;;;;;;;;;;;;x
 EVTTITLE20003;[converting_king.PrimaryTitle.GetName]の改宗;;;;;;;;;;;;x
 EVTDESCHFB20003;[sponsoring_king.GetTitledFirstName]のイマームと封臣達を[converting_king.Capital.GetName]の広場の真ん中に集めた。\n周りに集まった平民たちにも聞こえるように、古の神々を公然と糾弾し、その偽りの偶像に唾を吐きかけ、そして家臣にも同じことをするように促した。群衆から上がった不満の囁きはすぐに鎮められた。そして、イマームが偶像に火を放つに至って遂にアッラーと預言者に対する自らの信仰を宣言したのだった。\n偽りの神々の火葬を後ろに、叩頭平服してメッカへの祈りを捧げた。;;;;;;;;;;;;x
-EVTDESCHFC20003;フードを身にまとった聖職者が[sponsoring_king.Capital.GetName]から到着したのは夜明けのことだったが、彼らが新しい神々の像を新たな家となる寺院に据えて、儀式を始める頃には日が暮れていた。\n街の外に家臣で家臣たちが待っていた。集まった臣民達で周りは埋め尽くされている。そして、太鼓や角笛がいかめしく響く中で、ゲルマン多神教の司祭たちが儀式を始めた。顔にいけにえの子羊の血を塗りつけられ、司祭たちが神聖なハーブを燃やし、秘密の呪文を唱えると、人々はトランス状態になった。\n恐怖と歓喜の光景が一晩中繰り広げられ、目を覚ますと既に夜は明けており、祭司たちもいなくなっていた。一人、また一人と、困惑顔の改宗者の群衆が[converting_king.Capital.GetName]へと戻っていった。;;;;;;;;;;;;x
+EVTDESCHFC20003;フードを身にまとった聖職者が[sponsoring_king.Capital.GetName]から到着したのは夜明けのことだったが、彼らが新しい神々の像を新たな家となる寺院に据えて、儀式を始める頃には日が暮れていた。\n街の外に家臣で家臣たちが待っていた。集まった臣民達で周りは埋め尽くされている。そして、太鼓や角笛がいかめしく響く中で、ゲルマン宗教の司祭たちが儀式を始めた。顔にいけにえの子羊の血を塗りつけられ、司祭たちが神聖なハーブを燃やし、秘密の呪文を唱えると、人々はトランス状態になった。\n恐怖と歓喜の光景が一晩中繰り広げられ、目を覚ますと既に夜は明けており、祭司たちもいなくなっていた。一人、また一人と、困惑顔の改宗者の群衆が[converting_king.Capital.GetName]へと戻っていった。;;;;;;;;;;;;x
 EVTDESCHFD20003;[sponsoring_king.GetTitledFirstName]の祭司に言われるがままに、封臣を集めて自分の一番いい馬に乗ると[converting_king.Capital.GetName]を後にした。\nテングリの司祭たちは街道からどんどん離れ、そのまま原野の奥深くへと進んでいった。どこに行くのか聞いてみたが返事はなかった。\nそのまま馬に乗って進むこと丸一日、崖っぷちで遂に一行は停止した。夕日で空は血のような色に染まっている。祭司たちは天空神への捧げ物の食べ物を火にかけ、小さな焚き火から大きな煙が立った。そして、司祭たちの詠唱が響く中、馬に乗ったまま封臣たちと共に煙の中を進み、古の神々の残滓を完全に浄化したのだった。;;;;;;;;;;;;x
 EVTDESCHFE20003;「儀式は日没に行わなければならない。」と言うのが[sponsoring_king.Capital.GetName]からやってきた祭司たちの主張だった。日が沈むと、封臣達と共に[converting_king.Capital.GetName]郊外の崖の上に集まった。眼下には臣民たちが集まっているのが見える。\n儀式が始まった。祭司たちが詠唱し、神聖な楽器を演奏する。彼方に最後の日の光が消えると同時に、封臣達と共に古き神々はこの日を以て死せることを宣した。再び司祭達の歌と踊りが始まり、殆どの人が寝てしまった後もなお夜を徹して続けられた。夜が開けると祭司達は宣した。これでディエヴァスのご加護の元、新たな日の元に生まれ変わったのだ。;;;;;;;;;;;;x
 EVTDESCHFF20003;「儀式は日没に行わなければならない。」と言うのが[sponsoring_king.Capital.GetName]からやってきた祭司たちの主張だった。日が沈むと、封臣達と共に[converting_king.Capital.GetName]郊外の崖の上に集まった。眼下には臣民たちが集まっているのが見える。\n儀式が始まった。祭司達は巨大な火を熾し、供え物を霊魂に捧げた。彼方に最後の日の光が消えると同時に、封臣達と共に古き神々はこの日を以て死せることを宣した。再び司祭達の歌と踊りが始まり、殆どの人が寝てしまった後もなお夜を徹して続けられた。夜が開けると祭司達は宣した。供え物を受け入れた天空神の御加護の元に無事迎え入れられたのだ。;;;;;;;;;;;;x
@@ -430,7 +430,7 @@ EVTOPTAHF20007;迷信を信じる愚か者め！;;;;;;;;;;;;x
 EVTTITLE20008;[converting_king.PrimaryTitle.GetName]の改宗;;;;;;;;;;;;x
 EVTDESCHFA20008;[converting_king.Capital.GetName]への一斉改宗は、ある日の冷え込み厳しい朝に始まった\n主と共に[sponsoring_king.GetTitledFirstName]からの大使を率いる司教と落ち合ったのは市郊外の川であった。[converting_king.GetTitledFirstName]のすぐ後ろに並んだが、振り返ると後ろに続く他の封臣達は明らかに困惑した面持ちで自分たちの順番を待っている様子だ。司教が聖書から何節かを諳んじると、[converting_king.GetTitledFirstName]は皆を引き連れて川に入り、[sponsoring_king.Religion.GetName]の司祭達が自分たちに順番に洗礼を施していった。自分たちに続いて農民共を水に入らせるために少々衛兵たちに小突かせる必要があったが、しばらくして丁度司祭達が助手達と共に古の偶像を川の中に放り込み始めた時には川辺に集まった群衆皆がずぶ濡れになって寒さに震えていた。\n「偽りの顔共が潮の中に飲まれぬる今」司教は高らかに宣言した「彼奴らの記憶も汝らの魂より永遠に祓われん。」;;;;;;;;;;;;x
 EVTDESCHFB20008;[sponsoring_king.GetTitledFirstName]のイマームと[converting_king.Capital.GetName]の広場の真ん中の主の元に集まった\n周りに集まった平民たちにも聞こえるように、[converting_king.GetTitledFirstName]は古の神々を公然と糾弾し、その偽りの偶像に唾を吐きかけ、そして自分たち封臣にも同じことをするように促した。群衆から上がった不満の囁きはすぐに鎮められた。そして、イマームが偶像に火を放つに至って遂にアッラーと預言者に対する自らの信仰を宣言したのだった。\n偽りの神々の火葬を後ろに、叩頭平服してメッカへの祈りを捧げた。;;;;;;;;;;;;x
-EVTDESCHFC20008;フードを身にまとった聖職者が[sponsoring_king.Capital.GetName]から到着したのは夜明けのことだったが、彼らが新しい神々の像を新たな家となる[converting_king.GetTitledFirstName]の寺院に据えて、儀式を始める頃には日が暮れていた。\nあなたは街の外で主君に接見し、[converting_king.GetHerHis]を取り囲む臣下の群衆と会った。そして、太鼓や角笛がいかめしく響く中で、ゲルマン多神教の司祭たちは儀式を始める。彼らはあなたたちの顔にいけにえの子羊の血を塗りつけた。神聖なハーブを燃やし、秘密の呪文を唱えると、人々はトランス状態になった。\n恐怖と歓喜の光景が一晩中つきまとう。翌日の夜明けに目を覚ますと、祭司たちはもういなくなっていた。一人、また一人と、困惑顔の改宗者の群衆が[converting_king.Capital.GetName]へと戻っていった。;;;;;;;;;;;;x
+EVTDESCHFC20008;フードを身にまとった聖職者が[sponsoring_king.Capital.GetName]から到着したのは夜明けのことだったが、彼らが新しい神々の像を新たな家となる[converting_king.GetTitledFirstName]の寺院に据えて、儀式を始める頃には日が暮れていた。\nあなたは街の外で主君に接見し、[converting_king.GetHerHis]を取り囲む臣下の群衆と会った。そして、太鼓や角笛がいかめしく響く中で、ゲルマン宗教の司祭たちは儀式を始める。彼らはあなたたちの顔にいけにえの子羊の血を塗りつけた。神聖なハーブを燃やし、秘密の呪文を唱えると、人々はトランス状態になった。\n恐怖と歓喜の光景が一晩中つきまとう。翌日の夜明けに目を覚ますと、祭司たちはもういなくなっていた。一人、また一人と、困惑顔の改宗者の群衆が[converting_king.Capital.GetName]へと戻っていった。;;;;;;;;;;;;x
 EVTDESCHFD20008;[sponsoring_king.GetTitledFirstName]の祭司に言われるがままに、[converting_king.GetTitledFirstName]は自分たち封臣を集めて一番いい馬に乗ると[converting_king.Capital.GetName]を後にした。\nテングリの司祭たちは街道からどんどん離れ、そのまま原野の奥深くへと進んでいった。どこに行くのか聞いてみたが返事はなかった。\nそのまま馬に乗って進むこと丸一日、崖っぷちで遂に一行は停止した。夕日で空は血のような色に染まっている。祭司たちは天空神への捧げ物の食べ物を火にかけ、小さな焚き火から大きな煙が立った。そして、司祭たちの詠唱が響く中、馬に乗ったまま皆と共に煙の中を進み、古の神々の残滓を完全に浄化したのだった。;;;;;;;;;;;;x
 EVTDESCHFE20008;「儀式は日没に行わなければならない。」と言うのが[sponsoring_king.Capital.GetName]からやってきた祭司たちの主張だった。日が沈むと、[converting_king.Capital.GetName]郊外の崖の上の主の元に集められた。眼下には臣民たちが集まっているのが見える。\n儀式が始まった。祭司たちが詠唱し、神聖な楽器を演奏する。彼方に最後の日の光が消えると同時に、全員で古き神々はこの日を以て死せることを宣した。再び司祭達の歌と踊りが始まり、殆どの人が寝てしまった後もなお夜を徹して続けられた。夜が開けると祭司達は宣した。これでディエヴァスのご加護の元、新たな日の元に生まれ変わったのだ。;;;;;;;;;;;;x
 EVTDESCHFF20008;「儀式は日没に行わなければならない。」と言うのが[sponsoring_king.Capital.GetName]からやってきた祭司たちの主張だった。日が沈むと、[converting_king.Capital.GetName]郊外の崖の上にいる主の元へ集まった。眼下には臣民たちが集まっているのが見える。\n儀式が始まった。祭司達は巨大な火を熾し、供え物を霊魂に捧げた。彼方に最後の日の光が消えると同時に、全員で古き神々はこの日を以て死せることを宣した。再び司祭達の歌と踊りが始まり、殆どの人が寝てしまった後もなお夜を徹して続けられた。夜が開けると祭司達は宣した。供え物を受け入れた天空神の御加護の元に無事迎え入れられたのだ。;;;;;;;;;;;;x
@@ -907,7 +907,7 @@ EVTOPTAHF20323;I am the most important person EVER!;;;;;;;;;;;;x
 EVTOPTBHF20323;I should work hard to show that I know how important this is.;;;;;;;;;;;;x
 EVTDESCHFA20324;今晩[coronation_priest.GetTitledFirstName]は、戴冠式に付随して組織したひと月にわたる素晴らしい祝祭に[coronation_priest.GetSheHe]がどれほど満足しているかについて個人的に知らせるために、私に話しかけた。[coronation_priest.GetSheHe]が宮廷でどれだけ歓迎されているかを知っていて、私の偉大さに期待していることを明らかにしておきたいと望んでいた。;;;;;;;;;;;;x
 EVTOPTAHF20324;光栄です。;;;;;;;;;;;;x
-EVTDESCHFA20325;[coronation_priest.GetTitledFirstName] approached [From.GetTitledFirstName] tonight to personally inform [From.GetHerHim] of how satisfied [coronation_priest.GetSheHe] is of the great month of festivity [From.GetSheHe] has organized to accompany [From.GetHerHis] coronation. [coronation_priest.GetFirstName] wanted to be sure that [From.GetTitledFirstName], as well as everyone within earshot, knew of how welcome [coronation_priest.GetSheHe] feels at [From.GetHerHis] court, and that [coronation_priest.GetSheHe] expects great things of [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCHFA20325;今晩[coronation_priest.GetTitledFirstName]は、戴冠式に付随して組織したひと月にわたる素晴らしい祝祭に[coronation_priest.GetSheHe]がどれほど満足しているかについて個人的に知らせるために、[From.GetTitledFirstName]に話しかけた。[coronation_priest.GetFirstName]が宮廷でどれだけ歓迎されているかを知っていて、[From.GetTitledFirstName]の偉大さに期待していることを明らかにしておきたいと望んでいた。;;;;;;;;;;;;x
 EVTOPTAHF20325;実に感慨深い式典だった…;;;;;;;;;;;;x
 EVTDESCHFA20326;[coronation_priest.GetTitledFirstName] took some time after dinner to take me aside and give me a long talk about what my new responsibilities will be after [coronation_priest.GetSheHe] crowns me Holy Roman Emperor. [coronation_priest.GetSheHeCap] warned me that being the heir to Charlemagne, as well as the protector of all Christendom will be a colossal undertaking, and that I should always strive to do my best to live up to the charge.;;;;;;;;;;;;x
 EVTOPTAHF20326;帝国に新たな栄光をもたらそう。;;;;;;;;;;;;x
@@ -929,10 +929,10 @@ EVTDESCHFA20330;[From.GetTitledFirstName] was happy to learn more about [From.Ge
 EVTOPTAHF20330;A good action is its own reward.;;;;;;;;;;;;x
 EVTDESCHFA20331;Perhaps [From.GetTitledFirstName] is too young to understand that I was only attempting to aid [From.GetHerHim]: [From.GetSheHe] did not listen to my words and dismissed [From.GetHerselfHimself] as soon as [From.GetSheHe] could. This sacred ceremony might well be just a big game for [From.GetHerHim].;;;;;;;;;;;;x
 EVTOPTAHF20331;Such is the foolishness of youth.;;;;;;;;;;;;x
-EVTDESCHFA20332;I was surprised tonight when [coronation_priest.GetTitledFirstName] stated that the period of festivity I have organized is unfit for the severity of the holy charge I am about to receive. [coronation_priest.GetSheHeCap] has concluded [coronation_priest.GetHerHis] scolding by remarking that [coronation_priest.GetSheHe] has witnessed many impious acts and degenerate behavior during [coronation_priest.GetHerHis] visit that have left [coronation_priest.GetHerHim] shocked and repulsed.;;;;;;;;;;;;x
+EVTDESCHFA20332;その夜、私は驚いた。[coronation_priest.GetTitledFirstName]が私が主催した祝宴の期間をこれから取ろうとしている神聖な雰囲気を台無しにしていると述べたからだ。[coronation_priest.GetSheHeCap]はその訪問中に多くの不敬な行為や堕落した行為を目撃し、衝撃と反発を受けたと言って私を叱責し、言葉を締めくくった。;;;;;;;;;;;;x
 EVTOPTAHF20332;Clearly [coronation_priest.GetSheHe] is exaggerating...;;;;;;;;;;;;x
-EVTDESCHFA20333;Many tonight were surprised when [coronation_priest.GetTitledFirstName] stated that the period of festivity [From.GetTitledFirstName] has organized is unfit for the severity of the holy charge [From.GetSheHe] is about to take. [coronation_priest.GetSheHeCap] has concluded [coronation_priest.GetHerHis] scolding by remarking that [coronation_priest.GetSheHe] has witnessed many impious acts and degenerate behaviors during [coronation_priest.GetHerHis] visit that have left [coronation_priest.GetHerHim] shocked and repulsed.;;;;;;;;;;;;x
-EVTOPTAHF20333;Our host should be ashamed of [From.GetHerselfHimself].;;;;;;;;;;;;x
+EVTDESCHFA20333;今夜の多くの人々は驚いた。[coronation_priest.GetTitledFirstName]が[From.GetTitledFirstName]が主催した祝宴の期間は[From.GetSheHe]が取ろうとしている神聖な雰囲気を台無しににしていると述べたからだ。[coronation_priest.GetSheHeCap]はその訪問中に多くの不敬な行為や堕落した行為を目撃し、衝撃と反発を受けたと言って叱責し、言葉を締めくくった。;;;;;;;;;;;;x
+EVTOPTAHF20333;ホストは[From.GetHerselfHimself]のことを恥ずかしいと思うべきだ;;;;;;;;;;;;x
 EVTDESCHFA20335;It was not enough to learn that [From.GetTitledFirstName] was at [FromFrom.GetTitledFirstName]'s celebration: tonight, in the middle of dinner, my old rival decided to insult me in front of my host and many of the other guests!;;;;;;;;;;;;x
 EVTDESCHFB20335;I would be quite enjoying my visit at [FromFrom.GetTitledFirstName]'s court if it were not for [From.GetTitledFirstName] constant harassment. The [From.GetManWoman] is clearly jealous of my accomplishments as [Root.GetTitle], and cannot stop trying to besmirch my reputation, hoping it would make [From.GetHerHim] feel better about [From.GetHerselfHimself].;;;;;;;;;;;;x
 EVTOPTAHF20335;よくもまあそんなことを！;;;;;;;;;;;;x
@@ -974,10 +974,10 @@ EVTDESCHFB20346;This morning a curious visitor came to my court: he is a wanderi
 EVTDESCHFC20346;This morning a curious visitor came to my court: he is a wandering knight who traveled to [Root.Capital.GetName] after hearing news of my upcoming coronation. He has proclaimed that he wishes to pledge his loyalty to me and protect me from any who would attempt to harm me. He is ready and eager to join the ranks of my bodyguards and shield my life with his.;;;;;;;;;;;;x
 EVTOPTAHF20346;歓迎しよう、[coronation_knight.GetFirstName]！;;;;;;;;;;;;x
 EVTOPTBHF20346;立ちされ、お前など知らぬ。;;;;;;;;;;;;x
-EVTDESCHFA20347;It was hard to notice at first, but, after spending a few days with him in my service, I have come to realize that [coronation_knight.GetFirstName]'s devotion to me goes well beyond the boundaries of loyalty between a knight and his [Root.GetTitle]. Tonight, I pressed the issue with him, only to have [coronation_knight.GetTitledFirstName] kneel at my feet and profess his undying love for me.;;;;;;;;;;;;x
-EVTOPTAHF20347;Oh, I love you too, [coronation_knight.GetTitledFirstName]!;;;;;;;;;;;;x
-EVTOPTBHF20347;Can we not just be friends instead?;;;;;;;;;;;;x
-EVTOPTCHF20347;Unacceptable. You are relieved of duty.;;;;;;;;;;;;x
+EVTDESCHFA20347;最初は気づかなかったが数日を共に仕えた後、自分に対する[coronation_knight.GetFirstName]の情熱が騎士と[Root.GetTitle]への忠誠心の境界をはるかに越えていることに気が付いた。今夜、彼にそのことを問いただすと、[coronation_knight.GetTitledFirstName]は私の足元にひざまずき、私への永遠の愛を告白した。;;;;;;;;;;;;x
+EVTOPTAHF20347;おお、[coronation_knight.GetTitledFirstName]、私もよ！;;;;;;;;;;;;x
+EVTOPTBHF20347;ただのお友達ではいけなくて？;;;;;;;;;;;;x
+EVTOPTCHF20347;冗談じゃない！明日から来なくてよいぞ。;;;;;;;;;;;;x
 EVTTOOLTIPBHF20347;[coronation_knight.GetTitledFirstName] leaves your court forever.;;;;;;;;;;;;x
 EVTDESCHFA20348;Giving into my lust for [coronation_knight.GetTitledFirstName] may have been a poor choice, especially at this time: with the court so filled with guests for my impending coronation, somebody ended up spotting the two of us while we were consuming our illicit relationship in the gardens. Now, the entire palace is ablaze with vicious rumors about me.;;;;;;;;;;;;x
 EVTOPTAHF20348;Who could have seen us?;;;;;;;;;;;;x
@@ -3113,7 +3113,7 @@ EVTOPTAHF20107;I must be really special!;;;;;;;;;;;;x
 tooltip_gain_baptized_by_satan;特性 '§Yサタニストによる戴冠§!'を得ます。;;;;;;;;;;;;x
 tooltip_gain_baptized_by_pope;特性 '§Y教皇による戴冠§!'を得ます。;;;;;;;;;;;;x
 tooltip_gain_baptized_by_bishop;特性 '§Y大司教による戴冠§!'を得ます。;;;;;;;;;;;;x
-tooltip_HF20396_A;§Y[From.GetTitledFirstName]§!はあなたへの謁見を許可されます。;;;;;;;;;;;;x
+tooltip_HF20396_A;§Y[From.GetTitledFirstName]§!はあなたへの謁見を許可されます;;;;;;;;;;;;x
 EVTDESCHFA20410;The way [FromFrom.GetTitledFirstName] knelt down and offered me [FromFrom.GetHerHis] loyalty one would easily forget that [FromFrom.GetSheHe] doesn't even believe in [Root.Religion.GetHighGodName] as I do. Still, it was a respectful gesture for an unbeliever such as [FromFrom.GetHerHim] to come pay me homage in the [Root.Religion.GetName] way.;;;;;;;;;;;;x
 EVTDESCHFB20410;The child kneels down, reciting mechanically [FromFrom.GetHerHis] oath of vassalage. I had no idea [FromFrom.GetTitledFirstName] was such a young [FromFrom.GetBoyGirl]...;;;;;;;;;;;;x
 EVTDESCHFC20410;[FromFrom.GetTitledFirstName] slowly kneels down with the help of one of [FromFrom.GetHerHis] servants. The old man recites [FromFrom.GetHerHis] oath of vassalage with a faint voice, stopping a few times to remember some of the words.;;;;;;;;;;;;x
@@ -3183,7 +3183,7 @@ EVTOPTAHFP21101;What a disappointment...;;;;;;;;;;;;x
 EVTDESCAHFP21102;[From.GetTitledFirstName]の[From.GetHouse]は初めてではなかったが、[GetFromRelation]とこれほど長い期間を共に過ごすというのは、それまでとはまた違った経験であった。;;;;;;;;;;;;x
 EVTDESCBHFP21102;[From.GetTitledFirstName] has prepared a grandiose welcoming parade for my arrival. The [From.GetTitle] of [From.PrimaryTitle.GetName] greets me in person as soon as I cross the gates of [From.GetHerHis] [From.GetHouse], asking me if I had a good travel.;;;;;;;;;;;;x
 EVTOPTAHFP21102;本当に君に会えて嬉しいよ、[From.GetTitledFirstName]！;;;;;;;;;;;;x
-EVTDESCHFPA21104;It was nice finally being with [sway_target.GetFirstName] for a while. Even though [sway_target.GetSheHe] is my [sway_target.GetRootRelation], my duties as [Root.GetTitle] often prevent me from spending enough time with my own family...;;;;;;;;;;;;x
+EVTDESCHFPA21104;久しぶりに[sway_target.GetFirstName]と一緒にいられてとても嬉しかった。[sway_target.GetSheHe]は自分の[sway_target.GetRootRelation]ではあるが、私の[Root.GetTitle]としての義務が家族と十分な時間を過ごすのを少なからず妨ぐのだった...;;;;;;;;;;;;x
 EVTDESCHFPB21104;驚きであった。今回の訪問の間、[sway_target.GetTitledFirstName]との神学議論を通じて、どれだけの気づきを得られたか。出鱈目なまでに信条の異なる二人の人間がこれだけ長い時を共に過ごしたこの時間、避けられなかったように思う。;;;;;;;;;;;;x
 EVTDESCHFPC21104;私は模範的なホストとして[sway_target.GetTitledFirstName]をもてなし、[sway_target.GetHerHim]に、私が長年に渡り究極の喜悦を追求し続けた末に見出したいくつもの至高の楽しみを経験するよう勧めた。何はともあれ[sway_target.GetSheHe]は、私が蒐集してきたアートに感銘を受けたようだ。;;;;;;;;;;;;x
 EVTDESCHFPD21104;[sway_target.GetTitledFirstName]と私は、[sway_target.GetHerHis]の訪問中、あらゆる種類の戦争ゲームで互いにベストを尽くし、無数の時間を費やした。私はあまり勝ちすぎないように[sway_target.GetSheHe]に何度か勝ちを譲った。 週末になるころには、[sway_target.GetSheHe]はもっと遊びたがっていた。;;;;;;;;;;;;x
@@ -3197,14 +3197,14 @@ EVTDESCHFPL21104;[sway_target.GetFirstName] and I spent most of our afternoons i
 EVTDESCHFPM21104;While [sway_target.GetFirstName] was my guest, I could not stop myself from sharing with [sway_target.GetHerHim] stories of my most exceptional duels, hoping to impress [sway_target.GetHerHim].;;;;;;;;;;;;x
 EVTDESCHFPN21104;I have taken the opportunity to have [sway_target.GetFirstName] explore [Root.Capital.GetName] during [sway_target.GetHerHis] visit. Together we examined some of the marvels of architecture that make my capital the greatest city in [Root.PrimaryTitle.GetName].;;;;;;;;;;;;x
 EVTDESCHFPO21104;この数日間のおかげで、 [sway_target.GetFirstName] は、私のことをより深く知り、評価するようになった。その多くの時間は、私の所領への訪問と、様々なテーマの議論に費やされた。;;;;;;;;;;;;x
-EVTOPTAHFP21104_A;I am really glad I could spend some time with you.;;;;;;;;;;;;x
+EVTOPTAHFP21104_A;一緒に過ごせて本当に幸せだ;;;;;;;;;;;;x
 EVTOPTAHFP21104_B;I hope these debates helped us understanding and accepting our differences.;;;;;;;;;;;;x
 EVTOPTAHFP21104_C;あなたの訪問で、私の[Root.GetHouse]に彩りが増しました。;;;;;;;;;;;;x
 EVTOPTAHFP21104_D;少し間、あなたと過ごせて本当に光栄でした。;;;;;;;;;;;;x
 EVTOPTBHFP21104_DRUNKARD;Be sure to take another sip before leaving!;;;;;;;;;;;;x
 EVTOPTCHFP21104_LUNATIC;I was honored to host an Ambassador from the Moon-King.;;;;;;;;;;;;x
 EVTOPTDHFP21104_POSSESSED;When Judgment comes, I promise I will not eat your soul.;;;;;;;;;;;;x
-EVTOPTEHFP21104_FAIR;It is rare to have such a charming host as myself.;;;;;;;;;;;;x
+EVTOPTEHFP21104_FAIR;私のような魅力的なホストはそうめったにはいないね;;;;;;;;;;;;x
 EVTOPTFHFP21104_CHASTE;今回の訪問であなたのことを悪く思う人がいないと良いのですが…;;;;;;;;;;;;x
 EVTOPTGHFP21104_TEMPERATE;I hope you enjoyed our frugal dinners.;;;;;;;;;;;;x
 EVTOPTHHFP21104_CHARITABLE;ここを去る前に、あなたのために何かさせてください!;;;;;;;;;;;;x
@@ -3233,7 +3233,7 @@ EVTOPTQHFP21104_HONEST;今よりも互いを信頼できるようになりたい
 EVTOPTQHFP21104_JUST;I fulfilled all my obligations as a host.;;;;;;;;;;;;x
 EVTOPTQHFP21104_PARANOID;Remember to never sleep too much at home!;;;;;;;;;;;;x
 EVTOPTQHFP21104_SHY;...;;;;;;;;;;;;x
-EVTOPTQHFP21104_STUBBORN;And one last thing!;;;;;;;;;;;;x
+EVTOPTQHFP21104_STUBBORN;最後に一つだけ！;;;;;;;;;;;;x
 EVTOPTQHFP21104_TRUSTING;You really look like a trustworthy [From.GetTitle].;;;;;;;;;;;;x
 EVTOPTQHFP21104_ZEALOUS;I have truly been a model [Root.Religion.GetName] host.;;;;;;;;;;;;x
 EVTOPTZHFP21104_A;ここで過ごした時間を気に入って貰えれば良いのだが。;;;;;;;;;;;;x
@@ -3853,7 +3853,7 @@ EVTOPTAHF22110;What an unexpected turn of events!;;;;;;;;;;;;x
 bon_reformed;ボン宗教;;;;;;;;;;;;x
 bon_reformed_DESC;改革されたボン宗教は、仏教の要素のいくつかを完全に取り込み、その一方でシャーマニズムとア二ミズムの神々にその崇拝者を詳細な聖典一式に記しました。;;;;;;;;;;;;x
 hellenic_pagan_reformed;古代ギリシャ宗教;;;;;;;;;;;;x
-hellenic_pagan_reformed_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] and [GetHestiaVestaName]. Restored after having been almost but wiped out by Christianity, it has been fully adapted by its new practitioners to contend against its more aggressive, younger competitors.;;;;;;;;;;;;x
+hellenic_pagan_reformed_DESC;古代ギリシャ宗教は[GetZeusJupiterName]、[GetAresMarsName]、[GetHestiaVestaName]、[GetHermesMercuryName]、[GetAphroditeVenusName]、[GetAthenaMinervaName]といった有名な12神を含む多数の神々を奉じた多神教です。キリスト教によってほとんど全滅させられましたが復活。攻撃的な若い宗教と戦うため、新しい改革者によって完璧に改造されました。;;;;;;;;;;;;x
 REFORMATION_DESCRIPTION;我々の信仰の形を永遠に再形成するまたとない機会を得ました。我々の宗教の新たな教義が確立されれば、変更が不可能なものとなるので、着手する方針に細心の注意を払う必要があります。あらゆる種類の神学問題を議論して、古き口伝の伝承を完璧で緻密な物語に再構築するために多くの見識ある司祭や学者が宮廷に集まっています。\nだが、新しい宗教の性質、教義、指導権に対して自分の意見があるならば、この改革を可能にしたものは公正でなければならない。;;;;;;;;;;;;x
 tooltip_religion_feature_pacifist;§G当主は戦争を始めたり、陰謀に加担したり、派閥に加入する可能性が低くなります§!;;;;;;;;;;;;x
 tooltip_religion_feature_no_crusade;§R大聖戦を起こせません§!;;;;;;;;;;;;x
@@ -3965,11 +3965,11 @@ religion_no_leader_desc;全ての聖職者は聖典に対して自由な解釈�
 dogmatic_religion;教条主義的;;;;;;;;;;;;x
 cosmopolitan_religion;世界主義;;;;;;;;;;;;x
 norse_pagan_reformed_DESC;改革されたノルド宗教は創世神話、神々の伝説、ラグナロク、「ガルドル」とよばれるまじないの歌からなる聖典を奉じています。祭殿は位階によって組織化され、規範に則った礼拝を行っています。もはや信仰を導くのに祈祷師や占い師に頼ることはありません。;;;;;;;;;;;;x
-tengri_pagan_reformed_DESC;テングリ信仰はユーラシアの草原地帯の民、特にトルコ及びモンゴル遊牧民によって信仰された宗教です。その主神は創造神にして空を統べる神たるテングリです。改革されたテングリの教えは、その口頭の伝説をオルホンのルーン文字で書かれた巻物の収集し、標準化された典礼と正式な教会階層を獲得しました。;;;;;;;;;;;;x
-baltic_pagan_reformed_DESC;バルト多神教は天空神ディエヴスを主神とする多神教で、他の主要な神としてはゲルマン多神教のトールやスラヴ多神教のペルーンによく似た雷神ペルクーナスが挙げられます。バルト多神教は創世神話、神々の伝説や預言者の書からなる聖典を奉じています。祭殿では規範に則った礼拝が行われ、祭司には位階がさだめられています。;;;;;;;;;;;;x
+tengri_pagan_reformed_DESC;テングリ宗教はユーラシアの草原地帯の民、特にトルコ及びモンゴル遊牧民によって信仰された宗教です。その主神は創造神にして空を統べる神たるテングリです。改革されたテングリの教えは、その口頭の伝説をオルホンのルーン文字で書かれた巻物の収集し、標準化された典礼と正式な教会階層を獲得しました。;;;;;;;;;;;;x
+baltic_pagan_reformed_DESC;バルト宗教は天空神ディエヴスを主神とする多神教で、他の主要な神としてはゲルマン宗教のトールやスラヴ宗教のペルーンによく似た雷神ペルクーナスが挙げられます。バルト多神教は創世神話、神々の伝説や預言者の書からなる聖典を奉じています。祭殿では規範に則った礼拝が行われ、祭司には位階がさだめられています。;;;;;;;;;;;;x
 finnish_pagan_reformed_DESC;Finnic paganism is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth. The reformed Finnish faith has a Holy Book with a creation myth, chapters on the gods and a book of spells and mysteries.;;;;;;;;;;;;x
 aztec_reformed_DESC;アステカ宗教の特徴は生贄を中心とした創世神話です。太陽を運行しつづけるためならば、神々ですら生贄に捧げられるのです。この思想は、様々な祭りや宗教儀式にも反映されており、これらの場では大勢の人間が生贄として捧げられます。改革されたアステカの宗教は適切な聖典を持ち、位階によって組織化された祭殿では、献身的な祭司達によって規範に則った礼拝が行われます。;;;;;;;;;;;;x
-slavic_pagan_reformed_DESC;スラヴ多神教はゲルマン原始宗教の神トールと酷似した雷神ペルーンを主神とした多神教です。他の重要な神としては黄泉の国の神ヴェーレス、スヴァローグ、ヤリーロ、スヴェントヴィトが挙げられます。スラヴ多神教は創世神話、神々の伝説や預言者の書からなる聖典を奉じています。;;;;;;;;;;;;x
+slavic_pagan_reformed_DESC;スラヴ宗教はゲルマン宗教の神トールと酷似した雷神ペルーンを主神とした多神教です。他の重要な神としては黄泉の国の神ヴェーレス、スヴァローグ、ヤリーロ、スヴェントヴィトが挙げられます。スラヴ宗教は創世神話、神々の伝説や預言者の書からなる聖典を奉じています。;;;;;;;;;;;;x
 west_african_pagan_reformed_DESC;改革されたアフリカ宗教は、創造神話、精霊の伝説、精霊獣の寓話や神々をまとめた単一の聖典の下に多くの民間伝承を融合させました。;;;;;;;;;;;;x
 zun_pagan_reformed_DESC;Zun, the Sun-God and Giver of Justice, embodies wisdom, power, fire and the light that drives away the night. The reformed Zun faith has a Holy Book detailing things such as the creation myths and outlining church doctrine, as well as a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;;x
 vassal_generic_sacrifice_decision;[Root.GetTitledFirstName]を生贄に捧げる;;;;;;;;;;;;x
@@ -4167,7 +4167,7 @@ warrior_lodge_baltic_real;メディーナの一団;;;;;;;;;;;;x
 warrior_lodge_baltic_desc_real;メディーナは森の狩猟女神として、狩人や戦士に崇められています。メディーナは彼女の領域から動物を送り出すことで愚か者を誘き寄せることで知られており、信者は想像上の彼女の姿である狼の毛皮を被り、兎を神聖視しています。メディーナの戦士たちは「森を、家を、祖先の真の遺産を守る」という単純な欲求に従っている。;;;;;;;;;;;;x
 warrior_lodge_baltic_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 warrior_lodge_finnish_real;オツォの信徒;;;;;;;;;;;;x
-warrior_lodge_finnish_desc_real;スオメヌスコ多神教の精霊オツォの信徒たちは聖なる動物の名前を口に出すことはないが、クマを「森の王」と呼んで崇拝し、力を授かっています。クマの狩りを行ったならば、クマが殺されたのではなく自身の失敗によって死んだのだと確信させるための複雑な儀式を行わなければならず、そのために狩人が毛皮を被ることもあります。;;;;;;;;;;;;x
+warrior_lodge_finnish_desc_real;スオメヌスコ宗教の精霊オツォの信徒たちは聖なる動物の名前を口に出すことはないが、クマを「森の王」と呼んで崇拝し、力を授かっています。クマの狩りを行ったならば、クマが殺されたのではなく自身の失敗によって死んだのだと確信させるための複雑な儀式を行わなければならず、そのために狩人が毛皮を被ることもあります。;;;;;;;;;;;;x
 warrior_lodge_finnish_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 warrior_lodge_slavic_real;ペルーンの闘士;;;;;;;;;;;;x
 warrior_lodge_slavic_desc_real;スラヴの雷神ペルーンに仕える勇敢な闘士は、悪意から同胞を守り、名誉の理想を掲げ続けている。闘士らの家族は、家に守護を表す弓矢と稲妻のシンボルが飾られていることで知られており、戦場にいる彼らの英雄に幸運を与えて、嵐から家を守ってくれると信じられている。;;;;;;;;;;;;x
@@ -4178,11 +4178,11 @@ warrior_lodge_bon_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 warrior_lodge_hellenic_real;オリンポスの戦士団;;;;;;;;;;;;x
 warrior_lodge_hellenic_desc_real;オリンポスの戦士団は戦いの為だけでなく、スポーツの試合の為にも体を鍛えて優れた体格を維持する。これに参加することだけで名誉なことであり、組織の中で最も熟練した者は一般人、そして貴族など、誰からも尊敬される。;;;;;;;;;;;;x
 warrior_lodge_hellenic_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_tengri_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yテングリ信仰§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_baltic_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yロムヴァ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_finnish_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスオメヌスコ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_slavic_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスラヴ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_west_african_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yアフリカ原始宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_tengri_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yテングリ宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_baltic_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yロムヴァ宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_finnish_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスオメヌスコ宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_slavic_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yスラヴ宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
+has_liege_vassal_or_neighbor_of_west_african_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yアフリカ宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 has_liege_vassal_or_neighbor_of_zun_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yズン宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 has_liege_vassal_or_neighbor_of_bon_religion_tt;§Y主§!・§Y封臣§!・§Y近隣の領主§!に§Yボン宗教§!を信仰している者がいる\n;;;;;;;;;;;;x
 has_liege_vassal_or_neighbor_of_hellenic_religion_tt;§Y主§!、§Y封臣§!、§Y隣国の領主§!の中に§Y古代ギリシャ宗教§!の教えを信じている者がいる\n;;;;;;;;;;;;x
@@ -4872,7 +4872,7 @@ pepin_religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to emulate Pepin 
 EVTDESCHFA20211;To [Root.GetTitledName],\nI shall be glad to legitimize your divine right to rule, as soon as you recognize that the Church is no servant to any King or Emperor, but instead watches over the salvation of the souls of all [christian.GetGroupName]s, regardless of their stature. \n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESCHFA20222;The [christian.GetGroupName] Pope has decided to call one of his lackeys to arms against me, in an attempt to reclaim some of the Italian lands currently under my control. [From.GetTitledName] has just declared war against me on the Pope's behalf.;;;;;;;;;;;;x
 EVTDESCHFA20306;Organizing such a monumental ceremony has given me the chance to meet the rulers of the realms neighboring [Root.PrimaryTitle.GetName]. Maintaining healthy relationships with my [christian.GetGroupName] peers is fundamental to ensure future peace and prosperity for my realm. [potential_friend.GetTitledFirstName] in particular seems like a [potential_friend.GetManWoman] I could trust...;;;;;;;;;;;;x
-EVTDESCHFA20315;The night at [From.GetTitledFirstName]'s court took a strange turn when our host decided to call some of the clergymen and scholars at the nobles' table, engaging with them in a long discussion about theology. I did not expect this feast to turn into a lesson about [christian.GetGroupName]ity, but...;;;;;;;;;;;;x
+EVTDESCHFA20315;その夜の[From.GetTitledFirstName]の宮廷は奇妙な成り行きを見せた。主催者は貴族たちの食卓にいる聖職者や学者たちを呼んで、彼らと神学についての長い議論をしようと決めたのだ。この宴会が[christian.GetGroupName]についての勉強会になるとは思わなかったな、正直…;;;;;;;;;;;;x
 EVTOPTAHF20358;Yet, should a [christian.GetGroupName] not eschew excesses?;;;;;;;;;;;;x
 String_the_Benedictine_Order_alternate;The Diligent Ones;;;;;;;;;;;;x
 monastic_order_benedictine;[GetBenedictineSocietyName];;;;;;;;;;;;x
@@ -4993,13 +4993,13 @@ b_poligny;Poligny;;;;;;;;;;;;x
 b_pontarlier;Pontarlier;;;;;;;;;;;;x
 b_saint_claude;Saint-Claude;;;;;;;;;;;;x
 b_aosta;Aosta;;;;;;;;;;;;x
-b_fenis;Fénis;;;;;;;;;;;;x
-b_st_jacqueme;St-Jacquême;;;;;;;;;;;;x
-b_st_ours;St-Ours;;;;;;;;;;;;x
+b_fenis;フェーニス;;;;;;;;;;;;x
+b_st_jacqueme;サン＝ジャケーム;;;;;;;;;;;;x
+b_st_ours;サン＝トゥルス;;;;;;;;;;;;x
 b_chatel_argent;Châtel-Argent;;;;;;;;;;;;x
 b_arnad;Arnad;;;;;;;;;;;;x
 b_aostachatillon;Châtillon;;;;;;;;;;;;x
-b_st_pierre;St-Pierre;;;;;;;;;;;;x
+b_st_pierre;サン＝ピエール;;;;;;;;;;;;x
 b_moutiers;Moutiers;;;;;;;;;;;;x
 b_como;Como;;;;;;;;;;;;x
 b_lugano;Lugano;;;;;;;;;;;;x
@@ -5033,7 +5033,7 @@ b_chillon;シヨン;;;;;;;;;;;;x
 b_yvoire;Yvoire;;;;;;;;;;;;x
 b_annecy;Annecy;;;;;;;;;;;;x
 b_aarau_augstgau;Aarau;;;;;;;;;;;;x
-b_st_ursanne;St-Ursanne;;;;;;;;;;;;x
+b_st_ursanne;サン＝テュルサンヌ;;;;;;;;;;;;x
 b_porrentruy;Porrentruy;;;;;;;;;;;;x
 b_delemont;Delémont;;;;;;;;;;;;x
 b_moutier;Moutier;;;;;;;;;;;;x
@@ -5045,17 +5045,17 @@ b_faucigny;Faucigny;;;;;;;;;;;;x
 b_tarentaise;Tarentaise;;;;;;;;;;;;x
 b_conflens;Conflens;;;;;;;;;;;;x
 b_thonon;Thonon;;;;;;;;;;;;x
-b_st_jean;St-Jean;;;;;;;;;;;;x
+b_st_jean;サン＝ジャン;;;;;;;;;;;;x
 b_cluses;Cluses;;;;;;;;;;;;x
-b_aix_savoie;Aix;;;;;;;;;;;;x
+b_aix_savoie;エクス;;;;;;;;;;;;x
 b_meinier;Meinier;;;;;;;;;;;;x
 b_thonex;Thonex;;;;;;;;;;;;x
 b_bozen;ボルツァーノ;;;;;;;;;;;;x
 b_meran;Meran;;;;;;;;;;;;x
-b_st_jacob;St-Jacob;;;;;;;;;;;;x
+b_st_jacob;サン＝ヤコプ;;;;;;;;;;;;x
 b_dolladitz;Dolladitz;;;;;;;;;;;;x
 b_cortina;Cortina;;;;;;;;;;;;x
-b_st_helena;St-Helena;;;;;;;;;;;;x
+b_st_helena;セントヘレナ;;;;;;;;;;;;x
 b_florian;Florian;;;;;;;;;;;;x
 b_molven;Molven;;;;;;;;;;;;x
 b_marchaux;Marchaux;;;;;;;;;;;;x
@@ -5344,7 +5344,7 @@ monastic_order_jain;[GetSravakaSamghaSocietyName];;;;;;;;;;;;x
 monastic_order_dominican_real;ドミニコ会;;;;;;;;;;;;x
 monastic_order_orthodox_real;聖バシレイオス教団;;;;;;;;;;;;x
 monastic_order_nestorian_real;The Community of Saint Abraham;;;;;;;;;;;;x
-monastic_order_monophysite_real;The Community of Saint Anthony;;;;;;;;;;;;x
+monastic_order_monophysite_real;聖アントニウス修道会;;;;;;;;;;;;x
 monastic_order_hindu_real;アドヴァイタ僧院;;;;;;;;;;;;x
 monastic_order_buddhist_real;声聞僧伽;;;;;;;;;;;;x
 monastic_order_jain_real;The Sravaka-Samgha;;;;;;;;;;;;x
@@ -5365,7 +5365,7 @@ monastic_order_jain_desc;[GetSravakaSamghaSocietyDesc];;;;;;;;;;;;x
 monastic_order_dominican_desc_real;ドミニコ会はどのキリスト教徒からの懺悔も受け入れますー彼らは白と黒の法衣をまとい、異端審問を率い、異端者を特定する任務についています。彼らの修道会の一員として、物質的利益の追求ではなく、真実の探求者になるべく努力することを期待されます。;;;;;;;;;;;;x
 monastic_order_orthodox_desc_real;聖バシレイオスの信徒は禁欲生活を送り、士女援助の名の下に、祈祷と奉仕に人生の意義を見出している。教団の聖職者は隠者の生活を援助する必要はなく、共同体の会員への援助の注力するべきだ。;;;;;;;;;;;;x
 monastic_order_nestorian_desc_real;アブラハム大王の命令は、カシュカルのアブラハムによって定められた修道院の規則に従います。 メンバーは、厳格な従順を守り、3人の偉大なネストリア医師、ネストリアス、タルススのディオドロス、およびモプスエスティアのセオドアの言葉を広めることを誓います。 識字者だけが注文に参加することができ、厳格な独占が必要です。 勉強と散文主義は秩序の中心的な柱であり、その一員としてあなたはネストリアの信仰をこれまで東に広げることが期待されています。;;;;;;;;;;;;x
-monastic_order_monophysite_desc_real;The Community of Saint Anthony follows the oldest of monastic rules, set originally by Saint Anthony of Egypt, Saint Paul of Thebes, Saint Macarius and Saint Pachomius. In the spirit of the Great Fathers of Egypt's deserts we value simplicity, submission and humility. It is the duty of Miaphysite monks to work to spread the word of Christ, building on the oldest Christian monastic tradition in the world.;;;;;;;;;;;;x
+monastic_order_monophysite_desc_real;聖アントニウス修道会は、最古の修道院規則に従っています。その起源はエジプトの聖アントニウス、テーベの聖ポール、聖マカリオス及び聖パコミオスです。エジプトに広がる砂漠のような偉大な神父たちの精神に基づき、質素、恭順、謙譲を美徳としています。世界最古のキリスト教修道院の伝統を下地に、キリストの言葉を広めるために働くのは、合成論を信じる修道士の義務です。;;;;;;;;;;;;x
 monastic_order_hindu_desc_real;ヒンドゥー教僧院の僧侶は社会の統合と支援を行う勢力を目指している。僧侶は、瞑想や聖典研究、または地域経済への参入や慈善事業を通して精神的な啓蒙の達成を目指している。インドの統治者から僧院は名誉を授かり、時に後援される。;;;;;;;;;;;;x
 monastic_order_buddhist_desc_real;仏教僧院の会員は、素朴な生活と瞑想を通して涅槃へと辿り着くために厳しい規範に従っている。必要最低限の物以外の物的財産に固執することをやめた比丘は他者に与えられた物のみで生活する誓いを立てている。;;;;;;;;;;;;x
 monastic_order_jain_desc_real;Jain monks swear to abide by a number of vows, regulations, essential duties and restrictions. They dispose of all personal property, seeking purification and self-realization.;;;;;;;;;;;;x
@@ -6710,7 +6710,7 @@ EVTDESC_HF_41352_ALT;道のりは長いものの、気候は温暖で快適だ�
 EVTOPTA_HF_41352;[pilgrimage_destination.GetName]で、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTOPTA_HF_41352_ALT;アンティオキアで、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTDESC_HF_41354;There have been new sights to behold every day, as I travel to [pilgrimage_destination.Realm.GetName]. By my own estimates, I should be halfway to [pilgrimage_destination.GetName] by now. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
-EVTDESC_HF_41354_ALT;There have been new sights to behold every day, as I travel to Africa. By my own estimates, I should be halfway to Hippo. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
+EVTDESC_HF_41354_ALT;アフリカの旅では毎日目を見張るような場所があらわれる。見立てだと今はヒッポへの道のりを半分終えたことになるはずだ。長歩きには慣れていないが、進み具合は悪くない。;;;;;;;;;;;;x
 EVTOPTA_HF_41354;[pilgrimage_destination.GetName]で、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTOPTA_HF_41354_ALT;ヒッポで、何が待ち受けているのだろうか。;;;;;;;;;;;;x
 EVTDESC_HF_41356;It has been a tiresome yet fulfilling journey so far, as I travel to [pilgrimage_destination.Realm.GetName]. By my own estimates, I should be halfway to [pilgrimage_destination.GetName] by now. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
@@ -6719,10 +6719,10 @@ EVTDESC_HF_41360;I come across a group of caravans, filled with the laughter and
 EVTDESC_HF_41360_ALT;I come across a group of caravans, filled with the laughter and joy of a group of traveling entertainers. As day turns to night, I enjoy the company of the group. A particularly beautiful [Root.GetManWoman] is teasing me, and invites me to stay the night.;;;;;;;;;;;;x
 EVTOPTA_HF_41360;良い提案に聞こえる。;;;;;;;;;;;;x
 EVTOPTB_HF_41360;What kind of [Root.GetManWoman] do you think I am?;;;;;;;;;;;;x
-EVTDESC_HF_41365;It has been a long day of traveling, when I come across a burning inn. I had hoped to find a place to stay the night, but these people are clearly in dire need of help just stopping the flames from engulfing the entire place.;;;;;;;;;;;;x
-EVTOPTA_HF_41365;[Root.Religion.GetHighGodName] calls upon me to help out these poor people.;;;;;;;;;;;;x
-EVTOPTB_HF_41365;[Root.Religion.GetHighGodName] calls upon me to continue my pilgrimage.;;;;;;;;;;;;x
-EVTOPTC_HF_41365;[Root.Religion.GetHighGodName] calls upon me to grab some valuables while they are busy.;;;;;;;;;;;;x
+EVTDESC_HF_41365;燃えさかる宿に出くわしたのは旅の一日の終わりだった。自分はその夜泊まる場所を早く見つけたかったが、そこにいる人々は炎がその場を飲み込むのを止めるための手助けを切実に必要としているようだ。;;;;;;;;;;;;x
+EVTOPTA_HF_41365;[Root.Religion.GetHighGodName]は言っている、不幸な彼らを助けよと;;;;;;;;;;;;x
+EVTOPTB_HF_41365;[Root.Religion.GetHighGodName]は言っている、巡礼を続けよと;;;;;;;;;;;;x
+EVTOPTC_HF_41365;[Root.Religion.GetHighGodName]は言っている、彼らが忙しい間に金品を戴いてしまえと;;;;;;;;;;;;x
 EVTDESC_HF_41370;A loud roar, and suddenly there is a huge furry creature just down the road. A bear? Now? Here? This must be a creature sent by [Root.Religion.GetHighGodName] to test me and my faith.;;;;;;;;;;;;x
 EVTOPTA_HF_41370;[Root.Religion.GetHighGodName] is testing my strength!;;;;;;;;;;;;x
 EVTOPTB_HF_41370;[Root.Religion.GetHighGodName] is testing my speed!;;;;;;;;;;;;x
@@ -7099,7 +7099,7 @@ EVTOPTA_HF_42025_STEWARD;上手くいくと信じて、自信をもって進む�
 EVTOPTA_HF_42025_TORTURE;この中の1人をどれだけ追い詰めることができるか見せてやろう。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_HUNT;私は駆けだして獲物を迎え撃った。怪我をする可能性も高かったが、§Y[From.GetTitledFirstName]§!が助力してくれれば成功する可能性も高かったのだ。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_DUEL;私は意を決して立ち向かった。怪我をする可能性も高かったが、§Y[From.GetTitledFirstName]§!が共に立ち向かってくれるのなら勝てる可能性も高かったのだ。;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_GAME;あなたは自分を危険な場所に置いた。§Y[From.GetTitledFirstName]§!が自分は何をするべきかわかっていれば、勝てる可能性は高い。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_GAME;あなたは自軍を危険な場所に配置した。§Y[From.GetTitledFirstName]§!が自分は何をするべきかわかっていれば、勝てる可能性は高い。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SOCIAL;私は§Y[From.GetTitledFirstName]§!が今夜楽しくすごせるように、相手を見つける手助けをしてみようと決めた。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SCHOLAR;私は自分の主張を曲げず、論じていくことにした。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_STEWARD;私は運にかけてみることにした。成功の見込みは薄いが、§Y[From.GetFirstName]§!は、私が自分たちがどこにいるのかわかっていないということに気づくことはないだろうから。;;;;;;;;;;;;x
@@ -7138,9 +7138,9 @@ EVTOPTB_HF_42026_GAME;この機に乗じて行こう、そうすればこの戦�
 EVTOPTB_HF_42026_SOCIAL;大丈夫だ、私はもう十分楽しんでいるよ。;;;;;;;;;;;;x
 EVTOPTB_HF_42026_SCHOLAR;[From.GetFirstName]はわかっているな。;;;;;;;;;;;;x
 EVTOPTB_HF_42026_STEWARD;[From.GetSheHeCap]はおそらく道に迷っていると知ってる。;;;;;;;;;;;;x
-EVTOPTB_HF_42026_TORTURE;そうではなく、ゆっくり責めるべきだ。;;;;;;;;;;;;x
-EVTDESC_HF_42027_HUNT;We come across the boar we have been looking for, but [From.GetFirstName] does not give the order to engage. I am not sure if [From.GetSheHe] is waiting it out, unsure what to do or is just being a coward.;;;;;;;;;;;;x
-EVTDESC_HF_42027_DUEL;We finally reach the finale of the tournament, and our last opponents are two large men. [From.GetFirstName] wait them out, and dodge back and forth, apparently trying to tire them out.;;;;;;;;;;;;x
+EVTOPTB_HF_42026_TORTURE;そうではなく、じわじわと責めるべきだ。;;;;;;;;;;;;x
+EVTDESC_HF_42027_HUNT;我々は探していたイノシシと遭遇したが、[From.GetFirstName]は攻撃の命令を出そうとしない。[From.GetSheHe]が好機を待っているのかどうか私にはわからない。なにかをしようとしているのか、怖気づいているのかもはっきりしない。;;;;;;;;;;;;x
+EVTDESC_HF_42027_DUEL;我々はついに武芸大会の決勝戦まで勝ち進み、最後の対戦者は二人の巨漢であった。[From.GetFirstName]は機会をうかがいながら、前に出たり後ろに下がったりして敵の攻撃を避けていた。明らかに相手を疲れさせようとしている。;;;;;;;;;;;;x
 EVTDESC_HF_42027_GAME;The game is starting to develop into a bloodbath, as the armies are clashing together. There seems to have been some sort of miscommunication between [From.GetFirstName] and myself, as I have been put in a terrible position where most of my units are getting slaughtered, whereas [From.GetSheHe] is holding [From.GetHerHis] units back. ;;;;;;;;;;;;x
 EVTDESC_HF_42027_SOCIAL;I am having fun as the evening turns to night. [From.GetFirstName] seem to be a pretty content host, occasionally bringing people over to talk to me. Should a host not be a bit more assertive?;;;;;;;;;;;;x
 EVTDESC_HF_42027_SCHOLAR;Several hours has passed, and the discussion has reached an impasse when it comes to the nature of the universe. [From.GetFirstName] and I agree, but now we need to find out how to convince everyone else. [From.GetFirstName] let the other side speak their mind.;;;;;;;;;;;;x
@@ -11680,9 +11680,9 @@ crusade_saintly_tongue_name_placeholder;[Root.GetRandomSaintName]の舌;;;;;;;;;
 crusade_saintly_tongue_description_placeholder;[Root.GetRandomSaintName]の舌は[crusade_title.GetName]への十字軍の参加の印として[ThePope.GetTitledName]から[Root.GetTitledName]に対し授けられたものです。;;;;;;;;;;;;x
 string_saint_peter;ローマの聖ペトロ;;;;;;;;;;;;x
 string_saint_paul;タルススの聖パウロ;;;;;;;;;;;;x
-string_saint_patrick;アイルランドの聖パトリック;;;;;;;;;;;;x
+string_saint_patrick;アイルランドの聖パトリキウス;;;;;;;;;;;;x
 string_saint_christopher;アンティオキアの聖クリストフォロス;;;;;;;;;;;;x
-string_saint_valentine;ローマの聖ヴァレンタイン;;;;;;;;;;;;x
+string_saint_valentine;ローマの聖ウァレンティヌス;;;;;;;;;;;;x
 string_saint_joseph;聖ヨセフ;;;;;;;;;;;;x
 string_saint_cecilia;聖セシリア;;;;;;;;;;;;x
 exploring_local_culture;土着の文化を調査する;;;;;;;;;;;;x
@@ -13997,7 +13997,7 @@ string_WL_flyting_character_insult_option_18;骨折しないでこのテーブ�
 string_WL_flyting_character_insult_option_19;気絶しないように手を握ってやろうか、お嬢ちゃん？;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_20;できるだけ穏やかに話すよう気をつけてやろう、さもないとおまえが死んでしまいそうだ。;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_21;Delicate as a flower, [From.GetFirstName] yet clings to dreams of war.;;;;;;;;;;;;x
-string_WL_flyting_character_insult_option_22;Was there ever a problem [From.GetFirstName]'s mind couldn't avoid solving?;;;;;;;;;;;;x
+string_WL_flyting_character_insult_option_22;[From.GetFirstName]の根暗な性格で問題なかったのか？;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_23;Are you truly as dumb as you look, I wonder?;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_24;I will be using big words now, [From.GetFirstName], try to keep up.;;;;;;;;;;;;x
 string_WL_flyting_character_insult_option_25;機転が必要なゲームだということは理解しているんだろうな？;;;;;;;;;;;;x
@@ -14009,7 +14009,7 @@ string_WL_flyting_character_insult_option_30;知りうる限りで最も怠惰�
 string_character_insult_option_default;板きれと同じくらいには面白い奴だ。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_1;[From.Culture.GetName]人にはちっとも効きませんよ……;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_2;I suppose being born with so few skills makes mediocrity desirable?;;;;;;;;;;;;x
-string_WL_flyting_accomplishments_insult_option_3;Better be careful not to trip over your broken dreams on your way out.;;;;;;;;;;;;x
+string_WL_flyting_accomplishments_insult_option_3;果せない夢の道で精々躓かないよう気を付けるんだな。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_4;一族の恥と言われるのはどんな気分なんだ？;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_5;お前が[From.GetTitle]の役目を果たしているとはとても信じられない。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_6;It is very impressive to wish for so much yet accomplish so little.;;;;;;;;;;;;x
@@ -14080,7 +14080,7 @@ string_character_insult_desc_default;[From.GetFirstName] decides to focus on my 
 string_WL_flyting_accomplishments_insult_desc_1;[From.GetFirstName] teases me for my lack of ambition, claiming that no other [Root.Culture.GetName] would be satisfied after having achieved as little as I did.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_2;[From.GetFirstName] smirks as [From.GetSheHe] asks me whether being born with so few skills makes mediocrity a desirable condition for me.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_3;[From.GetFirstName] warns me that, after [From.GetSheHe] has beaten me, I should be careful not to trip on the broken dreams of my aspirations on my way out of the hall.;;;;;;;;;;;;x
-string_WL_flyting_accomplishments_insult_desc_4;[From.GetFirstName] asks me how does it feel for me to be the black sheep of my dynasty, unloved and forgotten.;;;;;;;;;;;;x
+string_WL_flyting_accomplishments_insult_desc_4;[From.GetFirstName]はどうすれば誰からも愛されず、忘れ去られた一族の厄介者になれるのかを私に聞いてきた。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_5;[From.GetFirstName] says that [From.GetSheHe] is very surprised of how a [Root.GetTitle] like me could manage to accomplish so little with all my power.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_6;[From.GetFirstName] taunts me by saying that it is quite impressive for a [Root.GetManWoman] to have such ambition and yet being able to accomplish so little as I have.;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_desc_7;[From.GetFirstName] claims that it is harder to find somebody that has greater designs and pettier goals than me.;;;;;;;;;;;;x
@@ -14689,12 +14689,12 @@ EVTOPTBHF24065;We will spare no expenses!;;;;;;;;;;;;x
 EVTOPTCHF24065;I should make known that artists are welcome here.;;;;;;;;;;;;x
 EVTOPTDHF24065;I will try to make the court a more welcoming haven for artists.;;;;;;;;;;;;x
 EVTOPTEHF24065;This task is too taxing for me.;;;;;;;;;;;;x
-EVTDESCAHF24066;Now that artists are finally starting to populate [Root.Capital.GetName] in great numbers, it is time for me to fund their activities and provide the books and materials they need to operate their craft.;;;;;;;;;;;;x
-EVTOPTAHF24066;I will lead the construction efforts personally.;;;;;;;;;;;;x
+EVTDESCAHF24066;多くの芸術家がようやく[Root.Capital.GetName]に居住し始めた今、彼らの活動に資金を提供し工芸のために必要な本や材料を提供する時が来た。;;;;;;;;;;;;x
+EVTOPTAHF24066;私自らが建設を監督しよう。;;;;;;;;;;;;x
 EVTOPTBHF24066;壮大で新しい図書館こそ、我々が求めていたものだ。;;;;;;;;;;;;x
-EVTOPTCHF24066;A large workshop should provide them with what they need.;;;;;;;;;;;;x
-EVTOPTDHF24066;I will host the best amongst them in my court permanently.;;;;;;;;;;;;x
-EVTOPTEHF24066;This is all well beyond my limited resources.;;;;;;;;;;;;x
+EVTOPTCHF24066;大規模な工房では彼らが必要とするものを提供しなければならない。;;;;;;;;;;;;x
+EVTOPTDHF24066;彼らの中で最も優れた者を私の宮廷で常にもてなそう。;;;;;;;;;;;;x
+EVTOPTEHF24066;これは私の財力を超えている。;;;;;;;;;;;;x
 EVTDESCAHF24067;Having spent years of [Root.GetHerHis] reign sponsoring artists and philosophers within [Root.GetHerHis] realm, [Root.GetTitledFirstName] has become famous as an enlightened patron of the arts, celebrated in poems, paintings and ballads all throughout [Root.PrimaryTitle.GetName] and beyond.\nKnown as a learned and charming personality, the [Root.GetTitle] of [Root.PrimaryTitle.GetName] has become the archetype of the philosopher [Root.GetKingQueen] of [Root.GetHerHis] age, a protector of all that is beautiful and metaphysical.;;;;;;;;;;;;x
 EVTOPTAHF24067;Art merely imitates the perfection of our world.;;;;;;;;;;;;x
 EVTTITLEHF24068;The sword of [Root.Religion.GetHighGodName];;;;;;;;;;;;x
@@ -15521,7 +15521,7 @@ b_libasso;Libasso;;;;;;;;;;;;x
 b_danouala;Danouala;;;;;;;;;;;;x
 b_kiroungou;Kiroungou;;;;;;;;;;;;x
 b_mateukous;Mateukous;;;;;;;;;;;;x
-b_ash_shurraf;Ash Shurraf;;;;;;;;;;;;x
+b_ash_shurraf;アシュ・シャラフ;;;;;;;;;;;;x
 b_massah;Massah;;;;;;;;;;;;x
 b_tmessa;Tmessa;;;;;;;;;;;;x
 b_zizau;Zizau;;;;;;;;;;;;x
@@ -15659,7 +15659,7 @@ b_safanqu;Safanqu;;;;;;;;;;;;x
 b_kabara;Kabara;;;;;;;;;;;;x
 b_tendirma;Tendirma;;;;;;;;;;;;x
 b_dire;Dire;;;;;;;;;;;;x
-b_gundam;Gundam;;;;;;;;;;;;x
+b_gundam;グンダーム;;;;;;;;;;;;x
 b_douentza;Douentza;;;;;;;;;;;;x
 b_tagant;タガント;;;;;;;;;;;;x
 b_selegon;セレゴン;;;;;;;;;;;;x
@@ -16002,7 +16002,7 @@ b_durdzukia;ドゥルズキア;;;;;;;;;;;;x
 b_terek;Terek;;;;;;;;;;;;x
 b_kalaus;カラウス;;;;;;;;;;;;x
 b_uvek;Uvek;;;;;;;;;;;;x
-b_ryn;Ryn;;;;;;;;;;;;x
+b_ryn;ルィン;;;;;;;;;;;;x
 b_yeruslan;Yeruslan;;;;;;;;;;;;x
 b_shali;Shali;;;;;;;;;;;;x
 b_argun;Argun;;;;;;;;;;;;x
@@ -16451,7 +16451,7 @@ b_zalivino;Zalivino;;;;;;;;;;;;x
 b_keyzes;Keyzes;;;;;;;;;;;;x
 b_nizovoye;Nizovoye;;;;;;;;;;;;x
 b_chernovka;Chernovka;;;;;;;;;;;;x
-b_butovka;Butovka;;;;;;;;;;;;x
+b_butovka;ブトフカ;;;;;;;;;;;;x
 b_omskiy;Omskiy;;;;;;;;;;;;x
 b_stepnoy;Stepnoy;;;;;;;;;;;;x
 b_rostovka;ロストフカ;;;;;;;;;;;;x
@@ -16965,7 +16965,7 @@ c_massat_adj;Anfan;;;;;;;;;;;;x
 c_bilma_adj;Bilman;;;;;;;;;;;;x
 c_manan_adj;マナン;;;;;;;;;;;;x
 c_djimi_adj;ジミ;;;;;;;;;;;;x
-c_air_adj;Airian;;;;;;;;;;;;x
+c_air_adj;アイル;;;;;;;;;;;;x
 c_fachi_adj;ファシ―;;;;;;;;;;;;x
 c_zawila_adj;ザヴィラ;;;;;;;;;;;;x
 c_djado_adj;Djadian;;;;;;;;;;;;x
@@ -17108,7 +17108,7 @@ c_durdzukia_adj;ドゥルズキア;;;;;;;;;;;;x
 c_terek_adj;Terekan;;;;;;;;;;;;x
 c_kalaus_adj;カラウス;;;;;;;;;;;;x
 c_pecheneg_adj;Bandjan;;;;;;;;;;;;x
-c_ryn_adj;Rynian;;;;;;;;;;;;x
+c_ryn_adj;ルィン;;;;;;;;;;;;x
 c_uvek_adj;Uveki;;;;;;;;;;;;x
 c_belaya_adj;Belayan;;;;;;;;;;;;x
 c_zyriane_adj;Illyinsker;;;;;;;;;;;;x
@@ -19313,10 +19313,10 @@ EVTDESCHFB20356;However justified my reasons were to organize a secluded ceremon
 EVTDESCHFB20357;I have only heard of [From.GetTitledFirstName]'s pending coronation after the news spread across the realm. It seems that the [From.GetTitle] has organized a very secluded ceremony for [From.GetHerHis] coronation, to be held in [From.GetHerHis] own military tent. Invitation was granted only to [From.GetHerHis] most trusted councilors.;;;;;;;;;;;;x
 EVTDESCHFC20358;As if sending a Cardinal in [coronation_priest.GetHerHis] place was not enough of a slight from the Holy Father, the Papal envoy himself has proven to be a most insufferable man, constantly complaining about the lack of care he is receiving and recanting all the many dangers I am exposing him to by having this coronation held in the middle of a war.;;;;;;;;;;;;x
 EVTDESCHFB20359;It came to me as no surprise that [coronation_priest.GetTitledFirstName] was disappointed with the secluded ceremony my liege organized for [From.GetHerHis] coronation. The [coronation_priest.GetTitle] even refused to visit my ruler in person, claiming that it would have been too dangerous a travel for [coronation_priest.GetHerHim] to partake.;;;;;;;;;;;;x
-EVTDESCHFM20366;As the yells of the commanders drilling troops echo in the tent, [coronation_priest.GetTitledFirstName] gives me a quick blessing and summarily places the crown upon my head, proclaiming me [coronation_ruler.GetTitle] of [coronation_ruler.PrimaryTitle.GetName] by grace of God.;;;;;;;;;;;;x
-EVTDESCHFN20366;As the yells of the commanders drilling troops echo in the tent, [coronation_priest.GetTitledFirstName]'s envoy gives me a quick blessing and summarily places the crown upon my head, proclaiming me [coronation_ruler.GetTitle] of [coronation_ruler.PrimaryTitle.GetName] by grace of God.;;;;;;;;;;;;x
-EVTDESCHFM20367;As the yells of the commanders drilling troops echo in the tent, [coronation_priest.GetTitledFirstName] gives [coronation_ruler.GetFirstName] a quick blessing and summarily places the crown upon [coronation_ruler.GetHerHis] head, proclaiming [coronation_ruler.GetHerHim] [coronation_ruler.GetTitle] of [coronation_ruler.PrimaryTitle.GetName] by grace of God.;;;;;;;;;;;;x
-EVTDESCHFN20367;As the yells of the commanders drilling troops echo in the tent, [coronation_priest.GetTitledFirstName]'s envoy gives [coronation_ruler.GetFirstName] a quick blessing and summarily places the crown upon [coronation_ruler.GetHerHis] head, proclaiming [coronation_ruler.GetHerHim] [coronation_ruler.GetTitle] of [coronation_ruler.PrimaryTitle.GetName] by grace of God.;;;;;;;;;;;;x
+EVTDESCHFM20366;天幕の中に軍を練る指揮官たちの大声が響く。[coronation_priest.GetTitledFirstName]は私に簡単な祝福をし、神の恩寵によって[coronation_ruler.PrimaryTitle.GetName]の[coronation_ruler.GetTitle]であると略式に宣言をしてその頂きに王冠を載せた。;;;;;;;;;;;;x
+EVTDESCHFN20366;天幕の中に軍を練る指揮官たちの大声が響く。[coronation_priest.GetTitledFirstName]の特は私に簡単な祝福をし、神の恩寵によって[coronation_ruler.PrimaryTitle.GetName]の[coronation_ruler.GetTitle]であると略式に宣言をしてその頂きに王冠を載せた。;;;;;;;;;;;;x
+EVTDESCHFM20367;天幕の中に軍を練る指揮官たちの大声が響く。[coronation_priest.GetTitledFirstName]は[coronation_ruler.GetFirstName]に簡単な祝福をし、神の恩寵によって[coronation_ruler.PrimaryTitle.GetName]の[coronation_ruler.GetTitle]であると略式に宣言をしてその頂きに王冠を載せた。;;;;;;;;;;;;x
+EVTDESCHFN20367;天幕の中に軍を練る指揮官たちの大声が響く。[coronation_priest.GetTitledFirstName]の特使は[coronation_ruler.GetFirstName]に簡単な祝福をし、神の恩寵によって[coronation_ruler.PrimaryTitle.GetName]の[coronation_ruler.GetTitle]であると略式に宣言をしてその頂きに王冠を載せた。;;;;;;;;;;;;x
 EVTDESCHFC20369;式典がようやく終了したので、[From.GetTitledFirstName]は別れを告げ、[From.GetHerHis]の私的な天幕から私を他の客人と一緒に解放した。;;;;;;;;;;;;x
 crowned_in_war;戦場の戴冠式;;;;;;;;;;;;x
 crowned_in_war_desc;After endless procrastination, this ruler was eventually forced to be crowned in a hurry at the worst of times, in the middle of a war.;;;;;;;;;;;;x

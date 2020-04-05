@@ -1503,7 +1503,7 @@ String_most_recently_added;壮麗な[This.GetName]に多くの注目が集まっ
 recently_sent_alcohol_gift;最近アルコール飲料を贈った;;;;;;;;;;;;x
 EVTOPTA_LT_20432_B;人生は素晴らしい！;;;;;;;;;;;;x
 zun_pagan_opinion;ズン宗教教徒の評価;;;;;;;;;;;;x
-zun_pagan_reformed_opinion;改革派ズン宗教教徒の評価;;;;;;;;;;;;x
+zun_pagan_reformed_opinion;ズン教会教徒の評価;;;;;;;;;;;;x
 TECH_CITY_CONSTRUCTION;都市と教区;;;;;;;;;;;;x
 TECH_CITY_CONSTRUCTION_DESC;都市と教区にある建物の改良;;;;;;;;;;;;x
 TECH_INFANTRY;歩兵;;;;;;;;;;;;x
@@ -1598,7 +1598,7 @@ EVTDESC100550_B;The [Root.Religion.GetName] [Root.Religion.GetPriestTitle]s are 
 EVTOPTC100550;[Root.Religion.GetHighGodNameCap], help me be a better [Root.GetManWoman]!;;;;;;;;;;;;x
 EVTDESC_MNM_6021_c;Last night I approached [From.GetTitledFirstName] during a feast, intending to figure out whether [From.GetSheHe] might be persuaded to convert to the true faith. Unfortunately, as soon I steered the conversation towards the topics of the [Root.Religion.GetRandomGodName] and the [Root.Religion.GetScriptureName], the narrow-minded [From.GetManWoman] became quite disagreeable...;;;;;;;;;;;;x
 EVTDESC_MNM_6024_B;少しの沈黙の間、私たちは敬虔な魂について思考を巡らす。[From.GetFirstName]は真剣な眼差しで私に向き直った。「それは不可能な願いではないかもしれません、[Root.GetFirstName]。[Root.Religion.GetRandomGodName]と[Root.Religion.GetScriptureName]の言葉を彼らを殺すことで守れるならば、殺す覚悟はありますか？」;;;;;;;;;;;;x
-EVTDESC_MNM_6027_B;"I do, [Root.GetFirstName]," says [From.GetTitledFirstName] with a solemn, almost ceremonial, voice. "There is an Order devoted to [Root.Religion.GetHighGodNameCap]. One that defends those true of faith and bring vengeance to their persecutors. The Assassins are always in need of champions. Think it over, and someone might reach out...";;;;;;;;;;;;x
+EVTDESC_MNM_6027_B;「そうです、[Root.GetFirstName]」[From.GetTitledFirstName]は厳格で格式ばった声で言う。「[Root.Religion.GetHighGodNameCap]に信仰を捧げた教団があります。信仰の正しさを守護し、迫害者に復讐する教団。望むのならば、声が掛かるかもしれませんよ…」;;;;;;;;;;;;x
 EVTDESC_MNM_6202_PERSECUTED_SHIITES;As-salaam alaykum, [Root.GetSocietyRank] [Root.GetFirstName],\n\nFor far too long, the gentle people of [shiite_province.GetName] has suffered under the cruel rule of [assassins_target.GetTitledFirstName]. It is your sacred duty to end [assassins_target.GetHerHim] and liberate our people. Turn [assassins_target.GetHerHim] into an example to fill our enemies' hearts with dread.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_6028_B;[Root.Religion.GetHighGodNameCap]に栄光あれ！;;;;;;;;;;;;x
 6252_CONVERT_APPRENTICE_TT;§Y[assassin_protege.GetTitledFirstName]§! will offer [assassin_protege.GetHerselfHimself] up to [Root.Religion.GetHighGodNameCap] and convert to the religion of [Root.Religion.GetName].;;;;;;;;;;;;x
@@ -1856,7 +1856,7 @@ KENNEMERLAND;ケンネメルラント;;;;;;;;;;;;x
 KENNEMERLAND_ADJ;ケンネメルラント;;;;;;;;;;;;x
 WEST_FRISIA;西フリジア;;;;;;;;;;;;x
 WEST_FRISIA_ADJ;西フリジア;;;;;;;;;;;;x
-d_scholae_palatinae;Scholae Palatinae;;;;;;;;;;;;x
+d_scholae_palatinae;スコライ軍団;;;;;;;;;;;;x
 domestic;Domestic;;;;;;;;;;;;x
 domestic_female;Domestic;;;;;;;;;;;;x
 domestic_byzantine;Domestikos;;;;;;;;;;;;x

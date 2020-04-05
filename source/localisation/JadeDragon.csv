@@ -1527,10 +1527,10 @@ ca_desert_stable_2;砂漠騎兵;;;;;;;;;;;;x
 ca_desert_stable_3;砂漠騎兵;;;;;;;;;;;;x
 ca_desert_stable_4;砂漠騎兵;;;;;;;;;;;;x
 form_st_anthony_desc;Call forth warriors to defend the Miaphysite faith.;;;;;;;;;;;;x
-form_st_anthony;Form the Order of Saint Anthony;;;;;;;;;;;;x
+form_st_anthony;聖アントニウス騎士団を組織;;;;;;;;;;;;x
 EVTDESC39810;As the world is plunged into a period of holy wars, [From.GetTitledName] has called forth the greatest warriors of the land to defend the Patriarch of Alexandria. This newly formed order of Saint Anthony will safeguard the Miaphysite faith against all heathens.;;;;;;;;;;;;x
-EVTTITLE39810;The Order of Saint Anthony;;;;;;;;;;;;x
-EVT_39810_TT;The Order of Saint Anthony is formed;;;;;;;;;;;;x
+EVTTITLE39810;聖アントニウス騎士団;;;;;;;;;;;;x
+EVT_39810_TT;聖アントニウス騎士団を編成;;;;;;;;;;;;x
 RULE_SIEGE_ASSAULTS;包囲戦強襲;;;;;;;;;;;;x
 RULE_SIEGE_ASSAULTS_ON_DESC;陸軍は包囲中の地区の要塞化レベルが6未満の場合、強襲により地区を陥落させることを試みることができます。;;;;;;;;;;;;x
 RULE_SIEGE_ASSAULTS_UNLIMITED_DESC;陸軍は包囲中に常時、強襲により地区を陥落させることを試みることができます。;;;;;;;;;;;;x
@@ -1540,10 +1540,10 @@ COMBATVALUE_MORALE_SIEGE;§Y士気:§! $MORALE$\n$FREQ|Y$日毎に$DELTA|R$を�
 SIEGE_TECH_DIFF;包囲技術の差分;;;;;;;;;;;;x
 assyrian;アッシリア;;;;;;;;;;;;x
 form_st_addai_desc;ネストリウス派の信仰を守るべく軍を召集します;;;;;;;;;;;;x
-form_st_addai;Form the Order of Saint Addai;;;;;;;;;;;;x
+form_st_addai;聖アダイ騎士団を編成する。;;;;;;;;;;;;x
 EVTDESC39811;As the world is plunged into a period of holy wars, [From.GetTitledName] has called forth the greatest warriors of the land to defend the Nestorian Patriarch. This newly formed order of Saint Addai will safeguard the Nestorian faith against all heathens.;;;;;;;;;;;;x
 EVTTITLE39811;The Order of Saint Addai;;;;;;;;;;;;x
-EVT_39811_TT;The Order of Saint Addai is formed;;;;;;;;;;;;x
+EVT_39811_TT;聖アダイ騎士団を編成;;;;;;;;;;;;x
 manichean_DESC;Manichaeism is a Gnostic religion founded by the alleged Prophet Mani who was put to death by Sassanid Shahanshah Bahram I in 277 A.D. His 'Religion of Light' incorporated elements of Christianity, Zoroastrianism, Buddhism and Gnosticism. In the game, Manichaeism is regarded as Zoroastrian heresy with its own special mechanics. The formal head of the religion is Yamag, who normally resides in Samarkand.;;;;;;;;;;;;x
 d_manichean;マニ教会;;;;;;;;;;;;x
 YAMAG;Yamag;;;;;;;;;;;;x
@@ -3513,7 +3513,7 @@ b_nyingzhung;ニンズン;;;;;;;;;;;;x
 b_ombulung;Ombulung;;;;;;;;;;;;x
 b_onen;Onen;;;;;;;;;;;;x
 b_oschiri;Oschiri;;;;;;;;;;;;x
-b_pabillonis;Pabillonis;;;;;;;;;;;;x
+b_pabillonis;パビッローニス;;;;;;;;;;;;x
 b_paggor;Paggor;;;;;;;;;;;;x
 b_pagsum;Pagsum;;;;;;;;;;;;x
 b_paryang;パーヤン;;;;;;;;;;;;x
