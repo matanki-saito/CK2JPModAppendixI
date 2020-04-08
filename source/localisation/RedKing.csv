@@ -147,7 +147,7 @@ DLC_dlc067_TOOLTIP_DELAYED;- East African Portrait Pack \n- Late Byzantine Cloth
 DLC_dlc068_TOOLTIP_INSTANT;§YFull Plate Metal Music Pack§!;;;;;;;;;;;;x
 DLC_dlc068_TOOLTIP_DELAYED;- Five metal soundtracks;;;;;;;;;;;;x
 DLC_dlc069_TOOLTIP_INSTANT;§Y『Monks And Mystics』§!;;;;;;;;;;;;x
-DLC_dlc069_TOOLTIP_DELAYED;- Join a Society of your liking \n- Relics and Special Items \n\nAdditional Features: \n- New Orders for Councilors \n- New clothing and hairstyles \n- New portraits and unit models for English and German Cultures;;;;;;;;;;;;x
+DLC_dlc069_TOOLTIP_DELAYED;-貴方好みの結社に参加\n-聖遺物や特別なアイテム\n\nその他の要素：\n-評議員に対する新しい命令\n-新しい衣類と髪形\n-イングランド文化とゲルマン文化の新しいポートレイトとユニットモデル;;;;;;;;;;;;x
 DLC_dlc070_TOOLTIP_INSTANT;§Y『Monks And Mystics Content Pack』§!;;;;;;;;;;;;x
 DLC_dlc070_TOOLTIP_DELAYED;- このコンテンツパックはDLC『§YMonks and Mystics§!』に含まれます。;;;;;;;;;;;;x
 DLC_dlc071_TOOLTIP_INSTANT;§YHymns of Revelation§!;;;;;;;;;;;;x
@@ -645,8 +645,8 @@ NO_SAVE_AVAILABLE;セーブなし;;;;;;;;;;;;x
 UNKNOWN_CHAR;Unknown Character;;;;;;;;;;;;x
 LANDING_HEADER_DLC074;『Holy Fury』 - DLC;;;;;;;;;;;;x
 DLC_dlc074_TOOLTIP_INSTANT;§YHoly Fury§!;;;;;;;;;;;;x
-DLC_dlc074_TOOLTIP_DELAYED;-ランダムな世界・シャッフルされた世界\n-戦士団\n-伝説的な血脈\n-ダイナミックな異教の改革\n\n追加特徴;\n-隣人を抱きこむ、または敵対する\n-聖人と戴冠式;;;;;;;;;;;;x
-LANDING_DLC074_TEXT;主な特徴\n-ランダムな世界・シャッフルされた世界\n-異教の戦士団\n-伝説的な血脈\n-ダイナミックな異教の改革\n\n追加の特徴\n-聖人と戴冠式\n-隣人を抱きこむ、または敵対する\n-新しい十字軍イベント\n-新しい継承法と殺害リスト\n-アラブ、スラブ、フランス、イタリア文化の新しいポートレート\n-ベドウィン人、ベルベル人、レバントーネ人の新しいユニット;;;;;;;;;;;;x
+DLC_dlc074_TOOLTIP_DELAYED;-ランダムな世界・シャッフルされた世界\n-戦士団\n-伝説的な血脈\n-ダイナミックな異教の改革\n\nその他の要素：\n-隣人を抱きこむ、または敵対する\n-聖人と戴冠式;;;;;;;;;;;;x
+LANDING_DLC074_TEXT;主な特徴\n-ランダムな世界・シャッフルされた世界\n-異教の戦士団\n-伝説的な血脈\n-ダイナミックな異教の改革\n\nその他の要素：\n-聖人と戴冠式\n-隣人を抱きこむ、または敵対する\n-新しい十字軍イベント\n-新しい継承法と殺害リスト\n-アラブ、スラブ、フランス、イタリア文化の新しいポートレート\n-ベドウィン人、ベルベル人、レバントーネ人の新しいユニット;;;;;;;;;;;;x
 LANDING_EXPANSION_FLAVOR_TEXT_DLC074;Description: \nChrist may rule in Rome and Constantinople, but Northern Europe is still home to the old gods of war and the hearth. These faiths will collide in fierce combat as the Prince of Peace brings conversion by the sword, and Gods of Nature demand unnatural sacrifices as the price of their favor. \n\n§YHoly Fury§! focuses on enhancing the experience of playing as a Pagan or a Catholic character. Lean on your war lodge for support in your conquests, or bow before the Pope to claim your divine throne. Play as a historical bloodline, giving a bonus to all members of that dynasty, or establish your own legendary bloodline that will echo through the ages. \n\nYou can also start your game on a fictional map of Europe as a small realm fighting for space, or on a random map with historical analogs for the great kingdoms of yore.;;;;;;;;;;;;x
 DLC_dlc074_EXAMPLE_IMAGE_1_TOOLTIP;High Chief Arisato of Kanem \nDynasty: Duguwa \nDate: 867 AD\n;;;;;;;;;;;;x
 DLC_dlc074_EXAMPLE_IMAGE_1_TOOLTIP_DELAYED;"The Kanem Empire at its height covered most of modern Chad and northeastern Nigeria. The origin of this African empire is unclear, but under the leadership of the Duguwa dynasty, the Kanembu people eventually dominated the other cultures and became the line of kings (Mai) of the Empire.";;;;;;;;;;;;x

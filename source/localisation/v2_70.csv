@@ -277,7 +277,7 @@ EVTOPTE_MNM_5115;実を言うと、棚を空っぽにしたかったんだ。全
 EVTOPTE_MNM_5115_tt;Desperate times call for desperate measures.\n;;;;;;;;;;;;x
 must_not_already_be_preparing_potion_tt;NOT already preparing a potion;;;;;;;;;;;;x
 EVTDESC_MNM_4950;[From.GetTitledFirstName]としばらく語り合ってから、[From.GetHerHim]をその罪業から救い出す霊的指導を行った。;;;;;;;;;;;;x
-EVTDESC_MNM_4951;After spending some time talking with [FromFrom.GetTitledFirstName], I have realized the errors of my ways and freed myself of my sinful ways.;;;;;;;;;;;;x
+EVTDESC_MNM_4951;[FromFrom.GetTitledFirstName]としばらく語り合ったのち、私は自分の過ちに気づき、その業から解放された。;;;;;;;;;;;;x
 EVTDESC_MNM_4960;[From.GetTitledFirstName]に徳を高める方法を説くと、[From.GetHerHim]は私の説明に注意深く耳を傾け、その議論を通じてより善い[From.GetManWoman]になったようだ。;;;;;;;;;;;;x
 EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName]は、[From.GetSheHe]がいかにこの時々容赦のなく苦痛に満ちた人生において美徳を貫き生き抜いてきたのかを教え諭してきた。[FromFrom.GetHerHim]の話を聞いている内に、私はより徳を重ねることによって、自身に平穏がもたらされるのだと学ぶことが出来た。;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance;霊的指導を行う;;;;;;;;;;;;x

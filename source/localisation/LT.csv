@@ -2009,9 +2009,9 @@ EVTTITLE_LT_40016;Egypt Calls for Aid;;;;;;;;;;;;x
 EVTDESC_LT_40016;The Shias under the rule of [sultan_egypt.GetTitledName] have long suffered from being treated different to their Sunni neighbors, and lately it has gotten even worse. Stories of families being run out of or murdered in their homes have been told back to us, and now they are looking for someone to help them out.\n\nSeveral messengers, traders and merchants have come to [Root.Capital.GetName] to seek our aid, begging us to intervene. Egypt has long been an area that we have wished to influence, and this could be an opportunity to do just that.;;;;;;;;;;;;x
 EVTOPTA_LT_40016;And [Root.PrimaryTitle.GetName] will answer!;;;;;;;;;;;;x
 EVTOPTB_LT_40016;Sadly, we do not have the resources to help them.;;;;;;;;;;;;x
-EVTDESC_LT_41000;The name 'West-Frisia' is a relic of times past, when the Frisians had presence in these lands. With them driven out and replaced by mighty Dutch, people have begun calling our realm 'Holland' instead, after the forested lands that form the center of the duchy. Perhaps it is time for us to embrace the change and use the new name in our records?;;;;;;;;;;;;x
-EVTOPTA_LT_41000;Yes, progress is progress!;;;;;;;;;;;;x
-EVTOPTB_LT_41000;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTDESC_LT_41000;「西フリジア」という地名は、フリジア人がこれらの土地に存在していた時代の遺物です。彼らが追い出されて強力なオランダ人が住みだしたことで、人々は公国の中心を形成する森林に覆われた土地を「ホラント」と呼び始めました。変化を受け入れ、新たな地名を我らの文書に記す時が来たのだろう。;;;;;;;;;;;;x
+EVTOPTA_LT_41000;そうだ、進歩は進歩なのだ！;;;;;;;;;;;;x
+EVTOPTB_LT_41000;いいえ、私たちは引き継いできたものを尊重するべきです。;;;;;;;;;;;;x
 EVTTITLE_LT_41001;A Land Renamed;;;;;;;;;;;;x
 EVTDESC_LT_41001;The lands north of the Rhine delta were once ruled by a mighty Frisian kingdom, but with their presence a distant memory, 'Holland' has become the accepted term for their duchy. [From.GetBestName] has encouraged the transition, and will be using it in [From.GetHerHis] official records from this moment forward.;;;;;;;;;;;;x
 EVTOPTA_LT_41001;How we have fallen...;;;;;;;;;;;;x
@@ -2029,7 +2029,7 @@ DUCHY_CHAMAVIA;カマウィア;;;;;;;;;;;;x
 DUCHY_CHAMAVIA_ADJ;カマウィア;;;;;;;;;;;;x
 EVTDESC_LT_41004;A representative of the newly expanded city of Breda is making demands of you. They want their status as the main population center of the county of Toxandria to be recognized. The Toxandri were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Breda instead?;;;;;;;;;;;;x
 EVTOPTA_LT_41004;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;x
-EVTOPTB_LT_41004;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTOPTB_LT_41004;いいえ、私たちは引き継いできたものを尊重するべきです。;;;;;;;;;;;;x
 EVTDESC_LT_41005;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Toxandria by the name of its most populous city, Breda, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;x
 EVTOPTA_LT_41005;Good for them!;;;;;;;;;;;;x
 EVTOPTB_LT_41005;A weed by any other name...;;;;;;;;;;;;x
@@ -2039,7 +2039,7 @@ TOXANDRIA;トクサンドリア;;;;;;;;;;;;x
 TOXANDRIA_ADJ;トクサンドリア;;;;;;;;;;;;x
 EVTDESC_LT_41006;A representative of the newly expanded city of Kleve is making demands of you. They want their status as the main population center of the county of Hattuaria to be recognized. The Chattuarii were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Kleve instead?;;;;;;;;;;;;x
 EVTOPTA_LT_41006;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;x
-EVTOPTB_LT_41006;No, we must honor our legacy.;;;;;;;;;;;;x
+EVTOPTB_LT_41006;いいえ、私たちは引き継いできたものを尊重するべきです。;;;;;;;;;;;;x
 EVTDESC_LT_41007;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Hattuaria by the name of its most populous city, Kleve, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;x
 EVTOPTA_LT_41007;Good for them!;;;;;;;;;;;;x
 EVTOPTB_LT_41007;A weed by any other name...;;;;;;;;;;;;x
@@ -2076,7 +2076,7 @@ COURT_TAB_DRO;The Court mainly consists of various unlanded nobles, but also cou
 death_text_evil_wonder;For [GetHerHis] wicked deeds, many screamed not to bury [GetFirstName] with the other rulers of our lands, instead to toss [GetHerHim] in an unmarked grave and without the proper services. May [GetFirstName] finally pay for [GetHerHis] sins in the afterlife;;;;;;;;;;;;x
 death_text_started_wonder;[GetHerselfHimself]が名を上げることはありませんでしたが、[GetFirstName]の最も有名な功績は[GetSheHe]が完成を見ることはなかった文化遺産の建設に携わったことでしょう。;;;;;;;;;;;;x
 death_text_architect_wonder;[GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [GetHerHis] labor;;;;;;;;;;;;x
-death_text_child;While many struggle to see why [Religion.GetHighGodName] decided to take a young child away from us, we hope [GetFirstName] will find peace in the afterlife;;;;;;;;;;;;x
+death_text_child;諸々はなぜ[Religion.GetHighGodName]が幼子を連れていくことにしたのか理解に苦しんでいるが、まずは[GetFirstName]の来世での平穏を一心に願おう;;;;;;;;;;;;x
 EVTDESC64065;結婚してしまった[lover.GetManWoman]との関係は、実際のところ気の滅入るものになりつつある。人々から軽蔑されることを恐れず、堂々と[lover.GetHerHim]を愛することができれば良いのに……;;;;;;;;;;;;x
 EVTDESC64070;伴侶の陰でコソコソ[lover.GetManWoman]と逢い引きするのは骨が折れるようになってきた。嘘は私の心をかき乱し、愛人と一緒にいたいという私の願いは限界まで膨らんでいる。;;;;;;;;;;;;x
 EVTDESC64085;私は[lover.GetHerHim]を愛しているし、[lover.GetSheHe]も私を愛している。私たちはもう大人だ。誰にも私たちの結婚をとめられるものか！;;;;;;;;;;;;x

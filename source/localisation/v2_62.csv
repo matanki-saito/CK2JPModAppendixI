@@ -207,12 +207,12 @@ commit_suicide_immortal;自殺する;;;;;;;;;;;;x
 commit_suicide_immortal_desc;初めは、永遠の命というものは甘い夢のようなものだと想像していた。後になって考えると永遠というものはあまりに、あまりにも長い時間ということである;;;;;;;;;;;;x
 attempting_suicide_tooltip;最近、自殺を試みていない。;;;;;;;;;;;;x
 EVTDESC_RIP_30200_A;永遠の命は嘆きと悲しみしかもたらさなかった。周囲の人も物も、みな老い朽ちてゆき、あなただけが変わらずにいる。かわり映えのしない、退屈な日々だ。あなたはもう終わりにしようと決意した……そうできるならば。;;;;;;;;;;;;x
-EVTDESC_RIP_30200_B;You tried. You really, really did, but the endless, dreary days and even longer, empty nights have gotten the better of you. With no one to call your love, no friends to brighten your days and no children bringing dreams of a better tomorrow… life is not really worth living anymore.;;;;;;;;;;;;x
+EVTDESC_RIP_30200_B;あなたはよくやった、本当に、本当にだ。しかし果てしなく続く退屈な日々が、それ以上に長く空っぽの夜が、あなたを打ち負かした。愛をささやける人もいないし、日々を輝かせる友達もいないし、より良い明日の夢をもたらす子どももいない... 人生は、もはや生きるに値しない。;;;;;;;;;;;;x
 EVTDESC_RIP_30200_C;You tried. You really, really did, but dark thoughts creep uninvited into your mind none the less. You know that you are not alone, although it sure feels that way. Being surrounded by people who do not see, cannot understand… some days that is worse than total isolation.;;;;;;;;;;;;x
 EVTOPTA_RIP_30200;決闘で最期を遂げよう。;;;;;;;;;;;;x
 EVTOPTA_RIP_30200_TOOLTIP;貴方のライバルである§Y[suicide_duel_target.GetTitledFirstName]§!に決闘を申し込みます。;;;;;;;;;;;;x
-EVTOPTB_RIP_30200;Poison will gift me sweet oblivion.;;;;;;;;;;;;x
-EVTOPTC_RIP_30200;首吊りで迅速かつ痛みの無い死を迎える。;;;;;;;;;;;;x
+EVTOPTB_RIP_30200;毒は私に甘美な忘却を与えてくれる;;;;;;;;;;;;x
+EVTOPTC_RIP_30200;首吊りだと痛みもなくすぐに死を迎えられるだろう。;;;;;;;;;;;;x
 EVTOPTD_RIP_30200;いちばん高い塔のバルコニーで、わが領地を眺めてから逝こう。;;;;;;;;;;;;x
 EVTDESC_RIP_30202;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様が今なお生きていること自体がこの世界の汚点である。ここに決闘を申し込む。一ヶ月の後、剣を携えて[From.Location.GetName]へ来られたし。さもなくば貴様の名声は地に落ちるであろう。我らのうち、生きて帰るのはただ一人だ。\n\n（署名）、[From.GetBestName];;;;;;;;;;;;x
 EVTOPTA_RIP_30202;あの[GetFromRootInsult]の首を刎ねてくれよう！;;;;;;;;;;;;x
@@ -557,12 +557,12 @@ EVTDESC_TOG_7520_JARILO;Your efforts to make the most out Jarilo's holy soil has
 EVTOPTA_TOG_7520;[Root.Capital.GetName]の繁栄は確かに素晴らしい光景だ！;;;;;;;;;;;;x
 blessed_lands;祝福されし土地;;;;;;;;;;;;x
 blessed_lands_desc;この土地は繁栄しており、多くの住民は神々からの祝福によるものと信じています。;;;;;;;;;;;;x
-EVTDESC_TOG_7522_LEMPO_ME;Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
-EVTDESC_TOG_7522_VELNIAS_ME;Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
-EVTDESC_TOG_7522_VELES_ME;Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!;;;;;;;;;;;;x
-EVTDESC_TOG_7522_LEMPO;Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
-EVTDESC_TOG_7522_VELNIAS;Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
-EVTDESC_TOG_7522_VELES;Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...;;;;;;;;;;;;x
+EVTDESC_TOG_7522_LEMPO_ME;レンポの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前露見した、他ならぬあなた自身を脅かす[god_plotter.GetTitledFirstName]の企みなどは正に！;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELNIAS_ME;ヴェルニアスの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前露見した、他ならぬあなた自身を脅かす[god_plotter.GetTitledFirstName]の企みなどは正に！;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELES_ME;ヴェーレスの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前露見した、他ならぬあなた自身を脅かす[god_plotter.GetTitledFirstName]の企みなどは正に！;;;;;;;;;;;;x
+EVTDESC_TOG_7522_LEMPO;レンポの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前、[god_plot_target.GetTitledFirstName]を脅かす[god_plotter.GetTitledFirstName]の企みが露見したのも…;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELNIAS;ヴェルニアスの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前、[god_plot_target.GetTitledFirstName]を脅かす[god_plotter.GetTitledFirstName]の企みが露見したのも…;;;;;;;;;;;;x
+EVTDESC_TOG_7522_VELES;ヴェーレスの足跡を辿ることは、他では決して歩むことのない数多の道へとあなたを誘います。そのような旅路において貴重な何かを耳にすることは実によくある話。まさにこの前、[god_plot_target.GetTitledFirstName]を脅かす[god_plotter.GetTitledFirstName]の企みが露見したのも…;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_A;That treacherous snake!;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_B;Perhaps I should warn [god_plot_target.GetHerHim].;;;;;;;;;;;;x
 EVTOPTA_TOG_7522_C;それが神の意志ならば。;;;;;;;;;;;;x

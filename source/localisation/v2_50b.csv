@@ -286,13 +286,13 @@ EVTDESCB_ZE_13102;Young [From.GetFirstName] seems to be taking a curious interes
 EVTDESCC_ZE_13102;[From.GetFirstName]は[From.GetHerHim]の興味がある新しい考えや課題に対する姿勢は、本物の探求家や実験屋のように見える。;;;;;;;;;;;;x
 EVTOPTA_ZE_13102;私はこの傾向を止めようと試みるべきだ…;;;;;;;;;;;;x
 curious_may_become_patient;[From.GetFirstName]が忍耐強くなる機会;;;;;;;;;;;;x
-EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;;x
+EVTDESCA_ZE_13104;[From.GetTitledFirstName]は私が司祭の言葉に疑問を持つようになるのも時間の問題だと考えている。;;;;;;;;;;;;x
 EVTDESCB_ZE_13104;I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.;;;;;;;;;;;;x
 EVTDESCC_ZE_13104;[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.;;;;;;;;;;;;x
 EVTOPTA_ZE_13104;[From.GetSheHeCap]は正しい、少し冷静になろう。;;;;;;;;;;;;x
 EVTOPTB_ZE_13104;うるさい！ばーか！ばーか！;;;;;;;;;;;;x
 EVTOPTC_ZE_13104;Is [From.GetSheHe] not interested in the world at all?;;;;;;;;;;;;x
-EVTOPTD_ZE_13104;Too clever for [From.GetHerHim], maybe.;;;;;;;;;;;;x
+EVTOPTD_ZE_13104;[From.GetHerHim]の考えすぎだ、おそらく。;;;;;;;;;;;;x
 EVTDESCA_ZE_13111;成長するにつれて、信仰が真の強さの源であることをますます感じている。;;;;;;;;;;;;x
 EVTDESCB_ZE_13111;昔の賢い[Root.GetMenWomen]の言葉を聞く程、彼らのようになりたいと思う。;;;;;;;;;;;;x
 EVTDESCC_ZE_13111;他人の功績を称賛することは大きな喜びを与えてくれます。特に私自身がとても弱いものですから。;;;;;;;;;;;;x

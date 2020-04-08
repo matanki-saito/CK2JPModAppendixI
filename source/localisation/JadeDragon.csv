@@ -1793,7 +1793,7 @@ raise_chinese_regiment_desc;中国の属国は、防衛戦争を支援する中�
 primary_defender_TT;戦争の主要防衛者でなければならない;;;;;;;;;;;;x
 already_raised_TT;既に中国連隊を動員していない;;;;;;;;;;;;x
 raise_chinese_regiment_TT;過去1年間に中国連隊を動員していない;;;;;;;;;;;;x
-china_famine_desc;A disastrous harvest has caused the Chinese agriculture to buckle under the population. The calamity has caused most trade to cease, and even as their numbers dwindle, the [offmap_china.GetName]'s once-mighty armies have been burdened with relief efforts for the suffering.;;;;;;;;;;;;x
+china_famine_desc;悲惨な飢饉が中国で農業に人々を張り付かせた。この災難はほとんどの貿易をも停止させた。そして数は減ったとは言えども[offmap_china.GetName]の栄華を誇った軍隊は、この苦難のための救援活動に苦しめられている。;;;;;;;;;;;;x
 PROV1513;酒泉;;;;;;;;;;;;x
 PROV1514;エジン;;;;;;;;;;;;x
 PROV1515;陽関;;;;;;;;;;;;x
@@ -2240,8 +2240,8 @@ EVT_OPTB_JD_60002;[chinese_envoy_concubine_target.GetTitledFirstName] will make 
 EVT_OPTC_JD_60002;We shall send plenty of gold for you to return with!;;;;;;;;;;;;x
 EVT_OPTE_JD_60002;そんな安物や紛い物はいりません。;;;;;;;;;;;;x
 JD_60002_likes_but_dislikes_tt;This will not change the chance of receiving a better artifact as the [offmap_china.Ruler.GetTitle] §Glikes [This.GetLike]§! but §Rdislikes [This.GetDislike]§!;;;;;;;;;;;;x
-JD_60002_eunuch_tt;This option is available because you have a courtier to send as a §Yeunuch§!.;;;;;;;;;;;;x
-JD_60002_concubine_tt;This option is available because you have a courtier to send as a §Yconcubine§!.;;;;;;;;;;;;x
+JD_60002_eunuch_tt;§Y宦官§!として送れる廷臣がいるため、これが選択可能です;;;;;;;;;;;;x
+JD_60002_concubine_tt;§Y側室§!として送れる廷臣がいるため、これが選択可能です;;;;;;;;;;;;x
 EVT_DESC_JD_60003_A;[FromFrom.GetFullName]は頷きお辞儀をした。「[offmap_china.Ruler.GetTitle]もこれにはお喜びになるでしょう。あなたは本当に[GetChineseComplimentAdjective][Root.GetTitle]だ！」[FromFrom.GetFullName]は出発し、私は新たに手にした[FromFrom.Culture.GetName]の宝物を見に行く。;;;;;;;;;;;;x
 EVT_DESC_JD_60003_B;Come the evening everything proceeds exactly as I intended. The food is good, the drinks are flowing and [FromFrom.GetFullName] is smiling the entire night. The following morning, as [FromFrom.GetFullName] departs, [FromFrom.GetSheHe] points to a chest which contains a [FromFrom.Culture.GetName] treasure that [FromFrom.GetSheHe] wishes for me to have as thanks for the feast and for being such a gracious host.;;;;;;;;;;;;x
 EVT_OPTA_JD_60003;私は風流な[Root.GetManWoman]だと自負がある！;;;;;;;;;;;;x
@@ -2267,7 +2267,7 @@ String_offmap_cost_prestige_king;4 Prestige per month;;;;;;;;;;;;x
 String_offmap_cost_prestige_emperor;8 Prestige per month;;;;;;;;;;;;x
 EVTDESC_JD_40011_C;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has been most pleased to notice the esteem you command among your peers. To show [offmap_china.Ruler.GetHerHisCap] appreciation [offmap_china.Ruler.GetSheHeCap] has decided to grant you a rare [From.Offmap.Ruler.Culture.GetName] treasure.;;;;;;;;;;;;x
 EVTDESC_JD_40011_D;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has been most pleased to notice the esteem you command among your peers. Know that the [offmap_china.Ruler.GetChineseComplimentAdjective] [offmap_china.Ruler.GetLongChineseEmperorName] thinks very highly of you.;;;;;;;;;;;;x
-EVTOPT39830_SCHOLAR_TT;This option is available because you have the §YScholarly Theologian§! or §YMastermind Theologian§! trait.;;;;;;;;;;;;x
+EVTOPT39830_SCHOLAR_TT;§Y学問的神学者§!もしくは§Y並ぶ者なき神学者§!の特性を持っているため、この選択肢が利用可能;;;;;;;;;;;;x
 EVTOPT39830_SOLDIER_TT;This option is available because you have the §YTough Soldier§!, §YSkilled Tactician§! or §YBrilliant Strategist§! trait.;;;;;;;;;;;;x
 EVTOPT39830_HUMBLE_TT;This option is available because you have the §YHumble§!, §YContent§! or §YGardener§! trait.;;;;;;;;;;;;x
 EVTOPT39830_GREG_TT;This option is available because you have the §YGregarious§!, §YAttractive§!, §YCharismatic Negotiator§!, §YMidas Touched§! or §YGrey Eminence§! trait.;;;;;;;;;;;;x

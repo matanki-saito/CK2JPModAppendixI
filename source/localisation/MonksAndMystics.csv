@@ -1131,7 +1131,7 @@ String_women;女性;;;;;;;;;;;;x
 String_man;男;;;;;;;;;;;;x
 String_woman;女;;;;;;;;;;;;x
 String_doing_penance;贖罪苦行;;;;;;;;;;;;x
-String_in_meditation;瞑想中;;;;;;;;;;;;x
+String_in_meditation;瞑想;;;;;;;;;;;;x
 String_prayers;祈祷;;;;;;;;;;;;x
 String_mantras;マントラ;;;;;;;;;;;;x
 String_Gods_blessing_upon_thee;そなたの上に神の恵みがあらんことを;;;;;;;;;;;;x
@@ -1419,7 +1419,7 @@ EVTOPTB_MNM_8027;彼らは私に私の正しい権利を与えているだけで
 EVTDESC_MNM_8028;今日は全てうまくいかない。郷土料理も良くなかったし、沼でキャンプする羽目になったのも良くなかった。確かなことは言えないが、この巡礼には何かおかしいことがある...。;;;;;;;;;;;;x
 EVTOPTA_MNM_8028;A small offering and then I must continue onwards.;;;;;;;;;;;;x
 EVTOPTB_MNM_8028;休息と癒しの時だ。;;;;;;;;;;;;x
-EVTDESC_MNM_8029;You come across a thriving city in the middle of a dry upland. The secret of their prosperity seems to be huge water tanks, built and maintained by the local Raja. A separate reservoir is also under construction to allow the city to grow even bigger. You stop to admire this feat of engineering and cannot help wondering how much a similar construction could benefit [Root.Capital.GetName].;;;;;;;;;;;;x
+EVTDESC_MNM_8029;あなたは乾燥した高地の真ん中で繁栄している都市に立ち寄った。繁栄の秘密はこの地のラージャによって建設され、維持されてきた巨大な貯水池にあるようだ。都市の更なる拡大のために新たな貯水池も建設している。あなたはこの土木技術に感銘を覚えると共に[Root.Capital.GetName]に同様の貯水池を建設すればどのような恩恵が得られるか考えざるおえない。;;;;;;;;;;;;x
 EVTOPTA_MNM_8029;私はこれらの貯水池についてもっと知る必要があります。;;;;;;;;;;;;x
 EVTOPTB_MNM_8029;これは無駄な仕事です、雨はそれが望むところに降ります。;;;;;;;;;;;;x
 EVTDESC_MNM_8030;小さな村の中心部には非常に大きな菩提樹があります。村人たちはその中心に草と泥の土台を作りました、これは明らかに人々が反省し議論するための場所です。;;;;;;;;;;;;x
@@ -1470,8 +1470,8 @@ EVTDESC_MNM_8062;浄化と啓蒙をこれほど実感できた場所を知らな
 EVTOPTA_MNM_8062;私はこれについて他人に伝えるのを待つことができません！;;;;;;;;;;;;x
 EVTDESC_MNM_8063;Many pilgrims have stories of the experiences from their journeys and the great enlightenment or purification achieved in at the destination. I expected much more than I have found here. The place is certainly full of monks, sadhus, priests and holy men but neither circumambulation, meditation or cleansing has left me with anything but an empty feeling of doubt.;;;;;;;;;;;;x
 EVTOPTA_MNM_8063;ここの目的は何ですか？;;;;;;;;;;;;x
-EVTDESC_MNM_8064;Eager to engage other in discussion I rushed right ahead to the centers of learning. I can tell the ideas and thoughts I have had over the years have made an impression on others here. Even great minds, scholars and sadhus alike seem taken by my reasoning and my home-grown theological arguments.;;;;;;;;;;;;x
-EVTOPTA_MNM_8064;It is but a small contribution to the knowledge of mankind.;;;;;;;;;;;;x
+EVTDESC_MNM_8064;他者との討論を求めた私は学問の中心地へと急ぎました。 私がこれまでの人生で培ってきた思想や思考は、この地の人々に感銘を与えることができたのだろう。 偉大な賢者、学者、苦行僧でさえも、私と自身の宗教理論の考察に囚われているようだ。;;;;;;;;;;;;x
+EVTOPTA_MNM_8064;人類の知識へほんの少し貢献できたようだ。;;;;;;;;;;;;x
 EVTDESC_MNM_8065;There are people here from every corner of the world. Though we are united in reverence of this holy place their languages, clothes and even the people themselves seem exotic and different. Meeting and conversing with strangers is in itself an experience that will impact me more than the religious aspects of this pilgrimage itself.;;;;;;;;;;;;x
 EVTOPTA_MNM_8065;私はそれらすべてに話をしなければならない！;;;;;;;;;;;;x
 EVTOPTB_MNM_8065;I must observe and learn about the peoples of this world.;;;;;;;;;;;;x
@@ -1627,7 +1627,7 @@ EVTDESC_4400_ADD_PATIENT;善き[Root.GetReligiousPerson]信徒になりたいと
 EVTDESC_4400_ADD_DILIGENT;善き[Root.GetReligiousPerson]信徒になりたいという願いは、私を[Root.GetMOCode]へと導いた。私はもはや己の欲望を満たす必要を感じなくなった。むしろ、この世を全ての人にとってより良き場所にするために働きたい。研究の中で神との真のつながりを見つけたのだ。;;;;;;;;;;;;x
 doing_penance;苦行を行う;;;;;;;;;;;;x
 doing_penance_desc;This character has secluded themselves to contemplate their sins and deepen their connection to God.;;;;;;;;;;;;x
-in_meditation;瞑想中;;;;;;;;;;;;x
+in_meditation;瞑想;;;;;;;;;;;;x
 EVTOPTB_MNM_4405_tt_fail;悪性に打ち克つことに失敗する。\n;;;;;;;;;;;;x
 in_meditation_desc;This character has secluded themselves to meditate on the truths of their life and the universe.;;;;;;;;;;;;x
 EVTDESC_4405_LUSTFUL;During my time [Root.GetMOPenanceMeditation] I have spent many long hours contemplating my carnal desires. Despite my attempts to stay true to [Root.GetMOCode], I can never seem to restrict myself around [Root.GetMenWomenPreference]! As I sit here in solitude, ignoring that relentless heat in the pit of my stomach is getting harder and harder...;;;;;;;;;;;;x
@@ -1637,7 +1637,7 @@ EVTOPTA_4406_TOOLTIP;§Y[Root.GetTitledFirstName]§!は、[Root.GetMOPenanceMedi
 EVTDESC_4406_LUSTFUL_A;I waited until midnight before I left my chambers and hurried towards the quarters of [holy_seclusion_lover.GetTitledFirstName]. [holy_seclusion_lover.GetSheHeCap] greeted me with the sweetest of smiles and in [holy_seclusion_lover.GetHerHis] arms, all of my wishes were fulfilled. When I returned to my chambers some hours later, the [Root.Location.GetHolding] was still deserted.;;;;;;;;;;;;x
 EVTDESC_4406_LUSTFUL_B;I waited until midnight before I left my chambers and hurried towards the servants' quarters. There I found a [Root.GetManWomanPreference] with the sweetest of smiles that told me all of my wishes would be fulfilled. When I returned to my chambers some hours later, the [Root.Location.GetHolding] was still deserted.;;;;;;;;;;;;x
 EVTOPTA_4406_LUSTFUL;今、私は再び集中することができます！;;;;;;;;;;;;x
-EVTOPTA_4407_TOOLTIP;§Y[Root.GetTitledFirstName]§! makes no progress [Root.GetMOPenanceMeditation].\n;;;;;;;;;;;;x
+EVTOPTA_4407_TOOLTIP;§Y[Root.GetTitledFirstName]§!は、[Root.GetMOPenanceMeditation]が進んでいない。\n;;;;;;;;;;;;x
 EVTDESC_4407_LUSTFUL;I waited until midnight before I left my seclusion and ventured out in the [Root.Location.GetHolding] to find a willing lover. I visited the chambers of the [Root.GetMenWomenPreference] I had shared a bed with before, but all of them were either asleep or uninterested. As morning approached I returned to my lonely bed, where I spent some time with a fantasy before drifting off to sleep...;;;;;;;;;;;;x
 EVTOPTA_4407_LUSTFUL;まあ、それは無駄な努力でした。;;;;;;;;;;;;x
 EVTDESC_4408_LUSTFUL;最初のころは、[Root.GetManWomanPreference]の肌に触れられない日々を拷問のように感じていた。毎晩のように夢に見たし、昼間もそのことしか考えられなくなった。だがどういうわけか、そのうち気分が楽になった。以前に比べれば独りでいる時間も心地よくなり、[Root.GetMOCode]に忠実でいるのもかつてほど無理難題とは思わなくなった。;;;;;;;;;;;;x
@@ -1684,7 +1684,7 @@ EVTDESC_4409_SLOTHFUL;居眠りをした記憶はないが、気づいたとき�
 EVTOPTA_4409_SLOTHFUL;何という恥ずかしさだ！;;;;;;;;;;;;x
 EVTOPTA_4408_TOOLTIP;忍耐力と集中力を通して、あなたは自分の罪深い性質を打ち負かし、秘密を守ることができました。;;;;;;;;;;;;x
 EVTOPTA_4409_TOOLTIP;あなたは自らの罪深い性質と、半端な隠遁生活に裏切られました。衆目に恥を晒し、進歩は大いに妨げられました。;;;;;;;;;;;;x
-EVTOPTA_MNM_4410_TOOLTIP;§Y[Root.GetTitledFirstName]§! struggles while [Root.GetMOPenanceMeditation].\n;;;;;;;;;;;;x
+EVTOPTA_MNM_4410_TOOLTIP;§Y[Root.GetTitledFirstName]§!は、[Root.GetMOPenanceMeditation]に苦労している。\n;;;;;;;;;;;;x
 the_assassins_rank_1_female;信奉者;;;;;;;;;;;;x
 the_assassins_rank_2_female;同志;;;;;;;;;;;;x
 the_assassins_rank_3_female;布教者;;;;;;;;;;;;x
@@ -1713,7 +1713,7 @@ EVTOPTA_MNM_4415_A;[Root.GetMOGod]の叡智は無限で、議論の余地はな�
 EVTOPTA_MNM_4415_B;[Root.Religion.GetScriptureName]の叡智は無限で、議論の余地はない。;;;;;;;;;;;;x
 EVTDESC_MNM_4416;私の生来の強情さが、助けを求めることを拒んでいた。[Root.GetTitle]である私は、[Root.Religion.GetScriptureName]のこの一節を、きっと理解できるはずだ! 何時間にもわたって、私は座り込み、じっと文字を見つめながら、その意味を理解しようとしたが、解釈の一つ一つは噛み合わず、支離滅裂だった...;;;;;;;;;;;;x
 EVTOPTA_MNM_4416_A;[Root.GetMOGod]の知恵は、私の理解を超えている。;;;;;;;;;;;;x
-EVTOPTA_MNM_4416_B;The wisdom of [Root.Religion.GetScriptureName] is beyond my understanding.;;;;;;;;;;;;x
+EVTOPTA_MNM_4416_B;[Root.Religion.GetScriptureName]の知恵は、私の理解を超えている。;;;;;;;;;;;;x
 EVTDESC_MNM_4417;誇りに思っていることが[Root.GetMOCode]に合わないので、[court_spiritual.GetJobTitle]の[court_spiritual.GetFirstName]に助けを求めることにした。[court_spiritual.GetSheHeCap]は私の要求に驚いたようだったが、喜んでは一緒にある一節の言葉を解釈し始めてくれた。[court_spiritual.GetFirstName]の忍耐強い指導で、私は最後に何とかそれを理解することができた!;;;;;;;;;;;;x
 EVTDESC_MNM_4418;私は、[court_spiritual.GetJobTitle][court_spiritual.GetFirstName]の助けを得るために、直ちに[court_spiritual.GetFirstName]を探し出した。悪いタイミングで[court_spiritual.GetHerHim]を呼び出したらしかったが、[court_spiritual.GetSheHe]は、渋々応じた。[court_spiritual.GetFirstName]はこらえ性が無く、私は理解が追い付かず、怒りのうちに放り出した。;;;;;;;;;;;;x
 EVTOPTA_MNM_4418;[court_spiritual.GetJobTitle][court_spiritual.GetFirstName]は無知なのだ!;;;;;;;;;;;;x
@@ -1751,7 +1751,7 @@ EVTDESC_MNM_4425_A;私は一日中、集中力を高めて[Root.GetPrayers]を�
 EVTDESC_MNM_4425_B;[Root.Religion.GetScriptureName]には豊富な知恵が詰まっている。今日も、何気なく見慣れた箇所から、新たな意味を見出した。どのような人生を歩もうと、この新たな学びは、私の心を育み、共に在り続けるだろう。我が言葉を刻め、「[Root.Religion.GetScriptureName]は、まこと奇跡の書だ！」;;;;;;;;;;;;x
 EVTDESC_MNM_4425_C;今日は、新たな洞察と啓示の日となった。隠遁生活で、自分の行動、自分の生活、そして世界の中の自分の居場所について考える時間はたっぷりあった。それまで考えもしなかったことが、突然、明らかになったのだ。;;;;;;;;;;;;x
 EVTOPTA_MNM_4426_GOD;[Root.GetMOGod]は私に光を示された!;;;;;;;;;;;;x
-EVTOPTA_MNM_4426_NOGOD;Today my awareness has truly expended.;;;;;;;;;;;;x
+EVTOPTA_MNM_4426_NOGOD;今日、私は全意識を集中していた。;;;;;;;;;;;;x
 EVTDESC_MNM_4428;[Root.GetMOGreeting]、[Root.GetSocietyRank][Root.GetFirstName]\nあなたの前進を評価します。あなたは隠遁生活を通して[Root.GetMOCode]を理解するための大いなる一歩を踏み出したのです。任務の終了をここに宣言します。\n\n(署名)[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_MNM_4428;光栄です、[From.GetSocietyRank];;;;;;;;;;;;x
 EVTDESC_MNM_4429;[Root.GetSocietyRank] [Root.GetFirstName] へ\nあなたの聖なる隠遁修行について、良からぬ話を耳にしました。[Root.GetSocietyRank]。 私は、あなたの内省が、まだ期待するほどの水準ではないと気遣っています。我々は日を改めてこの使命をあなたに課しますが、今回は失敗と見なさねばなりません。\n\n(署名) [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
@@ -1949,16 +1949,16 @@ quest_devil_worshipers_corrupt_priest_tooltip;To complete this mission, §Gright
 quest_devil_worshipers_desecrate_temple;[FromFrom.GetName]教区を冒涜;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_ruler;領主を生け贄に捧げる;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_ruler_desc;強大で偉大なる[Root.GetDWDevil]は公平な取引を行います。ほとんどの王や女王が今までに夢見てきたものを遥かに超える力を授けられてきましたが、何事にも対価が必要です。[Root.GetDWDevil]は血と魂の代償を要求しています。強力な領主の命を捧げてください。;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_ruler_tooltip;この任務を完了するには、領主である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]に生け贄を捧げる§!」を選択してください。;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_ruler_tooltip;この任務を完了するには、領主である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]へ捧げる§!」を選択してください。;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_holy_person;聖人を生け贄に捧げる;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_holy_person_desc;強大で偉大なる[Root.GetDWDevil]は公平な取引を行います。ほとんどの王や女王が今までに夢見てきたものを遥かに超える力を授けられてきましたが、何事にも対価が必要です。[Root.GetDWDevil]は血と魂の代償を要求しています。[Root.Religion.GetHighGodName]に忠誠を誓った者の命を捧げてください。;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_holy_person_tooltip;この任務を完了するには、[Root.Religion.GetPriestTitle]または修道者である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]に生け贄を捧げる§!」を選択してください。;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_holy_person_tooltip;この任務を完了するには、[Root.Religion.GetPriestTitle]または修道者である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]へ捧げる§!」を選択してください。;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_virgin;処女を生け贄に捧げる;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_virgin_desc;強大で偉大なる[Root.GetDWDevil]は公平な取引を行います。ほとんどの王や女王が今までに夢見てきたものを遥かに超える力を授けられてきましたが、何事にも対価が必要です。[Root.GetDWDevil]は血と魂の代償を要求しています。情事を知らない者の命を捧げてください。;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_virgin_tooltip;この任務を完了するには、処女または童貞である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]に生け贄を捧げる§!」を選択してください。子供、貞節、修道者はその可能性が高いです。;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_virgin_tooltip;この任務を完了するには、処女または童貞である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]へ捧げる§!」を選択してください。子供、貞節、修道者はその可能性が高いです。;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_dwarf;小人を生け贄に捧げる;;;;;;;;;;;;x
 quest_the_devil_worshipers_sacrifice_dwarf_desc;強大で偉大なる[Root.GetDWDevil]は公平な取引を行います。ほとんどの王や女王が今までに夢見てきたものを遥かに超える力を授けられてきましたが、何事にも対価が必要です。[Root.GetDWDevil]は血と魂の代償を要求しています。小人の命を捧げてください。;;;;;;;;;;;;x
-quest_the_devil_worshipers_sacrifice_dwarf_tooltip;この任務を完了するには、小人である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]に生け贄を捧げる§!」を選択してください。;;;;;;;;;;;;x
+quest_the_devil_worshipers_sacrifice_dwarf_tooltip;この任務を完了するには、小人である囚人のポートレートを§G右クリック§!し、「§Y[Root.GetDWDevil]へ捧げる§!」を選択してください。;;;;;;;;;;;;x
 quest_the_devil_worshipers_demonic_impregnation;[Root.GetDWDevil]の誕生;;;;;;;;;;;;x
 quest_the_devil_worshipers_demonic_impregnation_desc;[Root.GetDWDevil]の化身がこの世界に誕生し、輝かしい威厳ある新しい時代をもたらす時が来ました。この子供は人類を偉大な未来に導き、真の信者である我々が帝国を支配するでしょう。邪悪なる母親を選択する名誉は貴方に託されました。;;;;;;;;;;;;x
 quest_the_devil_worshipers_demonic_possession;悪魔の憑依;;;;;;;;;;;;x
@@ -1972,7 +1972,7 @@ quest_monastic_order_meditation_tooltip;この任務を完了するには、策�
 quest_monastic_order_donate_to_charity;慈善活動に寄付;;;;;;;;;;;;x
 quest_monastic_order_donate_to_charity_desc;[Root.Society.GetName]の重要な役割は助けを求める人々に手を差し伸べることです。慈善活動を行う能力は、富裕層からの寄付に完全に依存しています。強力な統治者であるあなたにはこの要因に対する貢献を期待されています。;;;;;;;;;;;;x
 quest_monastic_order_theology_focus;神学フォーカスを選択;;;;;;;;;;;;x
-quest_monastic_order_theology_focus_desc;Even though a member of [Root.Society.GetName] always keeps their spiritual development in mind, no matter where they go and what they do, there is a time in all of our lives where these matters become even more crucial. It is time for you to focus on theology.;;;;;;;;;;;;x
+quest_monastic_order_theology_focus_desc;[Root.Society.GetName]のメンバーは常に精神的な成長を念頭に置いていますが、どこへ行って何をするにしてもその人生の中でそのことがひときわ重要になる時というのはあります。今こそフォーカスを「神学」に合わせてください。;;;;;;;;;;;;x
 quest_monastic_order_theology_focus_tooltip;この任務を完了するには、キャラクター画面で「§Y神学§!」の方針を選択してください。;;;;;;;;;;;;x
 monastic_orders_temple_construction;[Root.GetHouseOfWorship]の建設;;;;;;;;;;;;x
 monastic_orders_temple_construction_desc;[Root.Society.GetName]の全ての会員にとって[Root.GetHouseOfWorship]は第2の家のようなものだ。学びや礼拝、[Root.GetPrayers]に語り掛けるためにここに集まります。新たな[Root.GetHouseOfWorship]の建設によって地域の信者にとって安住の地となり、邪道の者たちへ教えを広げる信仰の前哨地となります。;;;;;;;;;;;;x
@@ -2380,8 +2380,8 @@ EVTOPTA_MNM_3264;何をバカなことを! これは傑作だ！そして世界�
 EVTOPTA_MNM_3264_TT;あなたは、§Y[From.GetTitledFirstName]§!の望みに反して、その作品の公開を決めます。\n;;;;;;;;;;;;x
 EVTOPTB_MNM_3264;この一連の詩歌は[This.Society.GetName]の宝となるだろう。;;;;;;;;;;;;x
 EVTOPTB_MNM_3264_TT;あなたは、この作品たちが§Y[This.Society.GetName]§!に安全に保管されるよう計らうつもりだ。\n;;;;;;;;;;;;x
-EVTOPTC_MNM_3264;Can I keep this?;;;;;;;;;;;;x
-EVTOPTC_MNM_3264_TT;You find great comfort in the writings.\n;;;;;;;;;;;;x
+EVTOPTC_MNM_3264;これを貰ってもよいかい？;;;;;;;;;;;;x
+EVTOPTC_MNM_3264_TT;物書きは慰めになることを知った\n;;;;;;;;;;;;x
 EVTOPTD_MNM_3264;もし私がこれらの詩を自分の名前で出したならば...;;;;;;;;;;;;x
 EVTOPTD_MNM_3264_TT;You decide to steal the writings and take the credit yourself.\n;;;;;;;;;;;;x
 EVTDESC_MNM_3266_A;「私の希望に反して公表するなんて信じられない」、[From.GetTitledName]はそう書いて寄越した。「あの詩は完成とは程遠く、今ようやく作品と調和しそうなメタファが産まれたところなのですよ?恥をかかされた!」 私は渋い顔で手紙を片付けた。;;;;;;;;;;;;x
@@ -2390,7 +2390,7 @@ EVTOPTA_MNM_3266;ウムムム。機会を捉えるためだったのだ、責め
 EVTOPTA_MNM_3266_TT;いずれ§Y[From.GetTitledFirstName]§!もわかってくれるだろう。\n;;;;;;;;;;;;x
 EVTDESC_MNM_3267;「私の作品が[This.Society.GetName]の利益となるというあなたの意見に歓喜しました。」と[From.GetTitledName]からの手紙には書かれていた。「援助に感謝します、[Root.GetSisterBrother]」  [From.GetSheHe]は私に最後の仕上げを保証するまで[From.GetSheHe]は作品を書き続け、最終稿が図書館に収蔵されるまで[From.GetSheHe]は作品を確認し続けようとするだろう。;;;;;;;;;;;;x
 EVTOPTA_MNM_3267;[From.GetFirstName]の精神に触れられて誇らしい。;;;;;;;;;;;;x
-EVTDESC_MNM_3268;"I cannot believe that my words could have such an impact on someone, honored [Root.GetSocietyRank] [Root.GetFirstName]." I place the letter on the mantelpiece, the sigil of [From.GetOnlyDynastyName] a friendly reminder of the comfort I feel.;;;;;;;;;;;;x
+EVTDESC_MNM_3268;「私の言葉が誰かにこれほどの影響を与えたなんて信じられません、名誉ある[Root.GetSocietyRank]の[Root.GetFirstName]」私はその手紙を炉棚に置いた。手紙にある[From.GetOnlyDynastyName]のシジルが優しく安らぎを思い出させてくれるように感じる。;;;;;;;;;;;;x
 EVTOPTA_MNM_3268;I am lucky to be a part of [This.Society.GetName].;;;;;;;;;;;;x
 EVTOPTA_MNM_3268_TT;You feel better.\n;;;;;;;;;;;;x
 patron_of_the_arts;芸術の後援者;;;;;;;;;;;;x
@@ -2436,7 +2436,7 @@ EVTOPTA_MNM_4206_TT;あなたは[Root.Religion.GetHighGodName]の御業を成す
 EVTDESC_MNM_4212;ある日、早朝の祈りに出席しているとき、我らが[From.GetSisterBrother]の[From.GetFirstName]がウトウトと居眠りしていることに気づいた。一方、[This.Society.GetName]の他の仲間たちは深く瞑想をしていてまだ気づいていないようだった。;;;;;;;;;;;;x
 EVTOPTA_MNM_4212;誰かに悟られる前に私が[From.GetHerHim]を起こすべきだ。;;;;;;;;;;;;x
 EVTOPTB_MNM_4212;[From.GetSheHeCap]も居眠りが出来たほうがよさそうだ…;;;;;;;;;;;;x
-EVTOPTC_MNM_4212;I think I heard [From.GetHerHim] request a mustache.;;;;;;;;;;;;x
+EVTOPTC_MNM_4212;[From.GetHerHim]が髭を求めているような気がする。;;;;;;;;;;;;x
 EVTDESC_MNM_4214;[From.GetFirstName]を優しくつついたが、何も反応がなかった。今度は[From.GetHerHis]の脇腹を肘で押すと、[From.GetHerHim]はせき込んで目を開いたが、そこには怒りの色が見えた。[From.GetSheHe]は顔を赤くして瞬きをするが、直ぐに状況が見えてきたようで「ありがとう」ときまりが悪そうにつぶやいた。;;;;;;;;;;;;x
 EVTOPTA_MNM_4214;気にするな、友よ。;;;;;;;;;;;;x
 EVTOPTB_MNM_4214;大きな恥をかくところを私が助けたみたいだなぁ…;;;;;;;;;;;;x
