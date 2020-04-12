@@ -268,12 +268,12 @@ EVTDESCC_ZE_13092;年のいかない[From.GetFirstName]は、[From.GetHerHis]の
 EVTOPTA_ZE_13092;私は[From.GetHerHim]を正しい方向に導く手助けをするべきだ。;;;;;;;;;;;;x
 EVTOPTB_ZE_13092;[From.GetSheHeCap]には私と同じように勤勉なる魂が宿っている。;;;;;;;;;;;;x
 fussy_may_become_diligent;[From.GetFirstName]が勤勉になる機会;;;;;;;;;;;;x
-EVTDESCA_ZE_13094;[From.GetTitledFirstName] approves of my patient diligence but thinks I should be even more focused on the results of my efforts.;;;;;;;;;;;;x
+EVTDESCA_ZE_13094;[From.GetTitledFirstName]は私のたゆまぬ努力を認めたが、もっとその努力の結果に着目すべきだと考えている。;;;;;;;;;;;;x
 EVTDESCB_ZE_13094;[From.GetTitledFirstName] approves of my active mind but thinks I spend too much time thinking about gold and silver.;;;;;;;;;;;;x
 EVTDESCC_ZE_13094;[From.GetTitledFirstName] says it's good that I have my own strong ideas, but [From.GetSheHe] wants me to focus more on the results of my actions than on worrying about the envy of others.;;;;;;;;;;;;x
-EVTOPTA_ZE_13094;I should be more like [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTA_ZE_13094;自分はもっと[From.GetHerHim]の期待に応えるべきだ;;;;;;;;;;;;x
 EVTOPTB_ZE_13094;Now, don't be hasty, [From.GetLordLady] [From.GetFirstName].;;;;;;;;;;;;x
-EVTOPTC_ZE_13094;But gold is so pretty!;;;;;;;;;;;;x
+EVTOPTC_ZE_13094;でもお金はとてもきれいなんだ！;;;;;;;;;;;;x
 EVTOPTD_ZE_13094;But they hate me!;;;;;;;;;;;;x
 EVTDESCA_ZE_13101;物事について考えると、世界がすべて司祭たちの言うとおりというわけではないという結論に達した。;;;;;;;;;;;;x
 EVTDESCB_ZE_13101;There are people I know that follow different traditions than those of the [Root.Religion.GetName] faith. I have spoken to them and asked them about it, and now it doesn't seem so strange to me.;;;;;;;;;;;;x

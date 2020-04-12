@@ -2207,7 +2207,7 @@ tooltip_20646_I;Abandon your diet and accept the reality of your condition.;;;;;
 EVTDESCAHFP20647;Whenever I walk through the streets of [Root.Capital.GetName], I can hear the sound of snickering behind my back. My tribesmen do not respect me, and who could blame them? I have grown so fat that even the most menial task makes me sweat and pant. How can I be the [Root.GetTitle] of anything in these conditions?;;;;;;;;;;;;x
 EVTDESCBHFP20647;Whenever I am carried around [Root.Capital.GetName] on my litter, I receive no shortage of envious gazes from the starving tribeswomen working in the streets. They all envy my pampered lifestyle, but little do they of what it has cost me. I have grown so fat and bloated that even breathing is turning into a challenge for me.;;;;;;;;;;;;x
 EVTDESCCHFP20647;どんな大きな鎧にも私の体は入らない。どんなに強い馬でも私を乗せることはできない。[Root.Capital.GetName]の鍛冶屋は私が座れるよう、大きく安定した玉座を作るために昼夜を問わず働いている。;;;;;;;;;;;;x
-EVTDESCDHFP20647;Having a curvier body might have been fun at first, but now I have become the laughing stock of the whole court: no decent dress fits me and every child in [Root.Capital.GetName] sings songs about the thunderous thighs and gigantic belly of their [From.GetTitle].;;;;;;;;;;;;x
+EVTDESCDHFP20647;ふくよかな体形であることは最初は楽しかったかもしれない、しかし今の私は宮廷すべての物笑いの種になっている。まともなドレスは私には合わず、[Root.Capital.GetName]にいるすべての子供が[From.GetTitle]の太すぎる太ももと、でっぷりしたお腹についての歌を歌うのだ。;;;;;;;;;;;;x
 EVTOPTAHFP20647;もういい！私には運動が必要だ！;;;;;;;;;;;;x
 tooltip_20647_A;減量するために激しい運動を始めます。時間はかかりますが、厳しい食事制限よりは精神的な悪影響が少ないでしょう。;;;;;;;;;;;;x
 EVTOPTBHFP20647;食事制限をしなければ！;;;;;;;;;;;;x
@@ -2715,11 +2715,11 @@ EVTDESCAHFP21088;Despite all the care that I put in preparing [From.GetHerHis] g
 EVTDESCBHFP21088;[From.GetTitledFirstName]はプレゼントの意図を完全に誤解したようだ。理由はどうであれ、[From.GetSheHe]は、私が[From.GetHerHim]を怯えさせようとしていると考えている!;;;;;;;;;;;;x
 EVTOPTAHFP21088;私は、どうしてこんなことをしたのか?;;;;;;;;;;;;x
 EVTDESCHFP21090;私は筆を通じて語りかけるのが得意だ。[From.GetTitledFirstName]への好意を示すには、[From.GetHerHim]に詩を献呈するのが、最良の手段だろう。;;;;;;;;;;;;x
-EVTOPTAHFP21090_A;I will write about how fair [From.GetSheHe] is.;;;;;;;;;;;;x
-EVTOPTAHFP21090_B;I will write about how charming [From.GetSheHe] is.;;;;;;;;;;;;x
-tooltip_21090_A;Write a poem dedicated to §Y[From.GetTitledFirstName]'s§! looks, hoping it will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
+EVTOPTAHFP21090_A;[From.GetSheHe]がなんと公正なのかについて詠おう。;;;;;;;;;;;;x
+EVTOPTAHFP21090_B;[From.GetSheHe]がなんと魅力的なのかについて詠おう。;;;;;;;;;;;;x
+tooltip_21090_A;§Y[From.GetTitledFirstName]の§!の外見に捧げる詩を詠えば、[From.GetHerHim]の心は§Y揺れ動く§!だろう;;;;;;;;;;;;x
 EVTOPTBHFP21090;[From.GetHerHis]の功業について詠おう。;;;;;;;;;;;;x
-tooltip_21090_B;§Y[From.GetTitledFirstName]'s§!の業績に捧げる詩を捧げれば、[From.GetHerHim]の心は§Y揺れ動く§!だろう。;;;;;;;;;;;;x
+tooltip_21090_B;§Y[From.GetTitledFirstName]'s§!の業績に捧げる詩を詠えば、[From.GetHerHim]の心は§Y揺れ動く§!だろう。;;;;;;;;;;;;x
 EVTOPTCHFP21090;[From.GetHerHis]の領国について詠おう。;;;;;;;;;;;;x
 tooltip_21090_C;§Y[From.GetTitledFirstName]'s§!の領国に関する詩を捧げれば、[From.GetHerHim]の心は§Y揺れ動く§!だろう。;;;;;;;;;;;;x
 EVTOPTDHFP21090;インスピレーションが沸かない...;;;;;;;;;;;;x
@@ -5455,7 +5455,7 @@ bagratid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 sassanid;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 niall;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 bloodline_effect_convert_zhangzhung_and_sumpa;§Y[zhangzhung.GetName]§!文化及び§Y[sumpa.GetName]§!文化から§G[bodpa.GetName]§!文化への転向速度の増加;;;;;;;;;;;;x
-bloodline_effect_great_heroes_appear;Periodically attracts the servitude of §GGreat Warriors§! (if §Y[From.Founder.Religion.GetName]§!);;;;;;;;;;;;x
+bloodline_effect_great_heroes_appear;定期的に§G偉大な戦士§!の隷属を惹きよせます（§Y[From.Founder.Religion.GetName]§!の場合）;;;;;;;;;;;;x
 HF_110_DESC;[target_bloodline_founder.GetFullName]の血が私の静脈に流れている。[target_bloodline_founder.GetSheHe]が迷い始めた日から、私たちは古い[target_bloodline_founder.Religion.GetName]の信仰を放棄した。私はそのような伝説の形成に役立つやり方にも功績を認めてはいるが…;;;;;;;;;;;;x
 EVTOPTA_HF_110;我々はかつて彼らのようだったのだから、彼らのやり方を裁くべきではない;;;;;;;;;;;;x
 EVTOPTB_HF_110;いや、古いやり方は過去のものだ;;;;;;;;;;;;x
@@ -5752,7 +5752,7 @@ bloodline_effect_sky_burial;§G鳥葬§!が可能;;;;;;;;;;;;x
 bloodline_effect_tanistry;§Gタニストリー相続制§!を利用可能;;;;;;;;;;;;x
 nick_of_the_nine_hostages;九人の人質の;;;;;;;;;;;;x
 bloodline_effect_bloodline_mercenary_traditions;Children can prove themselves as §GMercenaries§!;;;;;;;;;;;;x
-carolingian_desc;A brilliant warrior as well as a great statesman, he established the Franks as undisputed masters of Gaul and led the army that defeated the Muslims in the Battle of Tours.;;;;;;;;;;;;x
+carolingian_desc;優れた戦士であり偉大な政治家であった彼はフランク人を誰もが認めるガリアの支配者として確立し、イスラム教徒を破ったトゥール・ポワティエ間の戦いで軍隊を率いていた。;;;;;;;;;;;;x
 ragnarr_lodbrok_desc;伝説のヴァイキングの英雄。彼はフランク人とアングロサクソン人に対して数多くの襲撃を行い、セーヌ川を航海して首尾よくパリを包囲した。;;;;;;;;;;;;x
 seljuk_desc;An Oghuz Turkic warlord, Seljuk started out an officer in the Khazar army. He later went on to found his own clan, seeking adventure away from his ancestral home.;;;;;;;;;;;;x
 william_the_conqueror_desc;Born an illegitimate bastard, he more than proved himself after successfully claiming the throne of England – becoming known as 'the Conqueror'.;;;;;;;;;;;;x
@@ -6475,7 +6475,7 @@ BLOODLINES_HEADER;§L血脈§!;;;;;;;;;;;;x
 BLOODLINE_PATRILINEAL_INHERITANCE;§Y父系継承§!;;;;;;;;;;;;x
 BLOODLINE_MATRILINEAL_INHERITANCE;§Y母系継承§!;;;;;;;;;;;;x
 BLOODLINE_NO_BASTARDS_INHERITANCE;§Y私生子には継承されない§!;;;;;;;;;;;;x
-BLOODLINE_NO_BASTARDS_INHERITANCE_DELAYED;This Bloodline will never be passed on to bastard children.;;;;;;;;;;;;x
+BLOODLINE_NO_BASTARDS_INHERITANCE_DELAYED;この血脈は落とし子には決して受け継がれません。;;;;;;;;;;;;x
 BLOODLINE_ACTIVE;§G血脈は有効§!;;;;;;;;;;;;x
 BLOODLINE_ACTIVE_DELAYED;この人物の血脈は有効で、その効果を発揮しています。;;;;;;;;;;;;x
 BLOODLINE_INACTIVE;§R血脈が無効§!;;;;;;;;;;;;x
@@ -6593,12 +6593,12 @@ saintly_bloodline_09;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_bloodline_10;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_bloodline_11;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_bloodline_12;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
-saintly_defender_bloodline;§GZealots§! periodically join wars against Heathens;;;;;;;;;;;;x
+saintly_defender_bloodline;§G狂信者§!が定期的に異教徒との戦争に加わります;;;;;;;;;;;;x
 saintly_monastic_bloodline;Gain more §GDevotion§! in §GMonastic Societies§!;;;;;;;;;;;;x
 saintly_cultural_bloodline;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;;x
 saintly_inquisitional_bloodline;§GConvert Counties§! to your §GReligion§! faster;;;;;;;;;;;;x
 saintly_jewish_bloodline;Friendly relations with the Jews;;;;;;;;;;;;x
-saintly_theologians_bloodline;Periodically attracts the servitude of §GGreat Theologians§!;;;;;;;;;;;;x
+saintly_theologians_bloodline;定期的に§G偉大な神学者§!の隷属を惹きよせます;;;;;;;;;;;;x
 saintly_crusader_bloodline;Crusader Family\nAn easier time gaining participation bonuses in Crusades;;;;;;;;;;;;x
 saintly_bishops_bloodline;Princes and Bishops\nAn easier time handling all kinds of bishops;;;;;;;;;;;;x
 saintly_benedictine_bloodline;Benedictine Diligence\nA small chance of getting the aid of the Benedictines;;;;;;;;;;;;x
@@ -7120,7 +7120,7 @@ EVTTOOLTIPB_HF_42025_STEWARD;私は正直に迷ったことを告げて、一緒
 EVTTOOLTIPB_HF_42025_TORTURE;ゆっくり責めて、いつまで被検体が正気を保てるか確かめてみることにした。;;;;;;;;;;;;x
 EVTDESC_HF_42026_HUNT;我々は探していたイノシシと出くわした。[From.GetFirstName]は何も言わずに駆け出してイノシシに攻撃を加えた。イノシシは向きを変えると[From.GetFirstName]に向かって突進してきた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_DUEL;ついに我々は大会の決勝戦まで勝ち上がった。最後の対戦相手は2人の巨漢であった。[From.GetFirstName]は開始のときから駆け出して、2人を相手に攻勢をとり続けた。;;;;;;;;;;;;x
-EVTDESC_HF_42026_GAME;両軍が衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。序盤に私が敵の駒をかなり倒していたとはいえ、[From.GetFirstName]は自軍を危険な場所に配置した。;;;;;;;;;;;;x
+EVTDESC_HF_42026_GAME;両軍の衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。序盤に私が敵の駒をかなり倒していたとはいえ、[From.GetFirstName]は自軍を危険な場所に配置した。;;;;;;;;;;;;x
 EVTDESC_HF_42026_SOCIAL;夜が更けていくにしたがい、私はこの集まりを楽しんでいた。[From.GetFirstName]は、私を次から次へと積極的に他の客たちと引き合わせてくれたが、これは私が今夜うまく仲間を作れるようにという[From.GetSheHe]の計らいだったのだろう。;;;;;;;;;;;;x
 EVTDESC_HF_42026_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は積極的に[From.GetHerHis]の自説を述べ始めた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_STEWARD;迷路のなかを歩いているうちに、我々は道に迷っているのではないかと私は疑い始めたが、[From.GetFirstName]は自信ありげに歩き続けている。この迷路は本当に大きいのか、それとも[From.GetFirstName]が自分は道がわからなくなったと私に言うのを恐れているのかどちらなのだろうか。;;;;;;;;;;;;x
@@ -7141,10 +7141,10 @@ EVTOPTB_HF_42026_STEWARD;[From.GetSheHeCap]はおそらく道に迷っている�
 EVTOPTB_HF_42026_TORTURE;そうではなく、じわじわと責めるべきだ。;;;;;;;;;;;;x
 EVTDESC_HF_42027_HUNT;我々は探していたイノシシと遭遇したが、[From.GetFirstName]は攻撃の命令を出そうとしない。[From.GetSheHe]が好機を待っているのかどうか私にはわからない。なにかをしようとしているのか、怖気づいているのかもはっきりしない。;;;;;;;;;;;;x
 EVTDESC_HF_42027_DUEL;我々はついに武芸大会の決勝戦まで勝ち進み、最後の対戦者は二人の巨漢であった。[From.GetFirstName]は機会をうかがいながら、前に出たり後ろに下がったりして敵の攻撃を避けていた。明らかに相手を疲れさせようとしている。;;;;;;;;;;;;x
-EVTDESC_HF_42027_GAME;The game is starting to develop into a bloodbath, as the armies are clashing together. There seems to have been some sort of miscommunication between [From.GetFirstName] and myself, as I have been put in a terrible position where most of my units are getting slaughtered, whereas [From.GetSheHe] is holding [From.GetHerHis] units back. ;;;;;;;;;;;;x
-EVTDESC_HF_42027_SOCIAL;I am having fun as the evening turns to night. [From.GetFirstName] seem to be a pretty content host, occasionally bringing people over to talk to me. Should a host not be a bit more assertive?;;;;;;;;;;;;x
-EVTDESC_HF_42027_SCHOLAR;Several hours has passed, and the discussion has reached an impasse when it comes to the nature of the universe. [From.GetFirstName] and I agree, but now we need to find out how to convince everyone else. [From.GetFirstName] let the other side speak their mind.;;;;;;;;;;;;x
-EVTDESC_HF_42027_STEWARD;Some minutes pass, and [From.GetFirstName] admits we seem to have gotten lost in the large hedge-maze. [From.GetSheHeCap] asks me for my thoughts, on how we should try to get out of here. ;;;;;;;;;;;;x
+EVTDESC_HF_42027_GAME;両軍の衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。[From.GetFirstName]が自分の駒を出し惜しんでいる一方で、私は駒を非常に危険な場所に置いて、かなりの被害をだしている。どうも[From.GetSheHe]と私のあいだに行き違いのようなものがあるように思える。;;;;;;;;;;;;x
+EVTDESC_HF_42027_SOCIAL;夜が更けていくにしたがい、私はこの集まりを楽しんでいた。[From.GetFirstName]は時折、私に話し相手を連れてきてくれて、とてもすばらしいホスト役を務めてくれたと思う。ホストというものはやや強引であるべきなのだろうか？;;;;;;;;;;;;x
+EVTDESC_HF_42027_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は相手方に彼らの考えを述べさせようとした。;;;;;;;;;;;;x
+EVTDESC_HF_42027_STEWARD;何分か経って、[From.GetFirstName]は我々が巨大迷路のなかで迷っているということを認めた。[From.GetSheHeCap]はどうやってここから抜け出すべきか、私の意見を聞いてきた。;;;;;;;;;;;;x
 EVTDESC_HF_42027_TORTURE;[From.GetFirstName] picks out one of the prisoners, and puts the individual at a Judas cradle. Every five minutes [From.GetFirstName] lowers the individual a bit further down on the device, making small talk as [From.GetSheHe] proceeds.;;;;;;;;;;;;x
 EVTOPTA_HF_42027_HUNT;I will rush in and take care of it myself!;;;;;;;;;;;;x
 EVTOPTA_HF_42027_DUEL;The offense is the only way to take people like that out.;;;;;;;;;;;;x
@@ -7246,11 +7246,11 @@ opinion_weak_duelist;Weak Duelist;;;;;;;;;;;;x
 opinion_fought_together;Fought Together;;;;;;;;;;;;x
 opinion_helpful_ally;Helpful Board Game Ally;;;;;;;;;;;;x
 opinion_unhelpful_ally;Unhelpful Board Game Ally;;;;;;;;;;;;x
-opinion_party_friend;Party Friends;;;;;;;;;;;;x
-opinion_useless_host;Useless Host;;;;;;;;;;;;x
+opinion_party_friend;宴会仲間;;;;;;;;;;;;x
+opinion_useless_host;無能なホスト役;;;;;;;;;;;;x
 opinion_impaler_friends;Impaler Friends;;;;;;;;;;;;x
-opinion_fellow_speaker;Fellow Speaker;;;;;;;;;;;;x
-opinion_impressive_speaker;Impressive Speaker;;;;;;;;;;;;x
+opinion_fellow_speaker;弁論家仲間;;;;;;;;;;;;x
+opinion_impressive_speaker;堂々たる弁論家;;;;;;;;;;;;x
 opinion_working_together;Worked Together;;;;;;;;;;;;x
 opinion_confident_host;Confident Host;;;;;;;;;;;;x
 NO_SEA_PATH_TT;Can be Reached by Sea;;;;;;;;;;;;x
@@ -14633,7 +14633,7 @@ TT_EVTOPTBHF24055;Work on forging a §YBloodline§! by increasing your power as 
 EVTTITLEHF24056;慈悲深き支配者;;;;;;;;;;;;x
 EVTDESCHF24056;It has come to my attention that many of the realm's laws handling petty disputes are old and obsolete. Revising our legal system to provide fair and satisfying judgment will certainly improve the conditions of my subjects and increase the prestige of my dynasty.;;;;;;;;;;;;x
 EVTOPTAHF24056;私自身で法改正を指導するぞ！;;;;;;;;;;;;x
-TT_EVTOPTAHF24056;By acting fast and investing the most amount of resources, you will found a §YBloodline§! much sooner.;;;;;;;;;;;;x
+TT_EVTOPTAHF24056;迅速に行動して大量のリソースを投資することで、より早く§Y血脈§!を創始することができるでしょう。;;;;;;;;;;;;x
 EVTOPTBHF24056;The most learned scholars in the realm will look into this.;;;;;;;;;;;;x
 TT_EVTOPTBHF24056;迅速に行動して大量の資金を投資することで、比較的早く§Y血脈§!を創始することができるでしょう。;;;;;;;;;;;;x
 EVTOPTCHF24056;I will try to revise the legal system myself.;;;;;;;;;;;;x
@@ -14670,7 +14670,7 @@ EVTDESCBHF24061;Thanks to the restless efforts of [Root.GetTitledFirstName], the
 EVTOPTAHF24061;Family over all.;;;;;;;;;;;;x
 EVTTITLEHF24062;天国の領地;;;;;;;;;;;;x
 EVTDESCAHF24062;[Root.Capital.GetName]を神学論争の中心地とするために、著名な学者を見つけ、過去の神学者との契約を獲得し、その両方を主催するために必要なインフラを構築するには、いくらかの資金を投資しなければならない。それは決して容易で安価な試みではない。;;;;;;;;;;;;x
-EVTOPTAHF24062;I will lead the search myself!;;;;;;;;;;;;x
+EVTOPTAHF24062;私が探求を直接指示する!;;;;;;;;;;;;x
 EVTOPTBHF24062;この聖なる探求を成し遂げるための対価が高すぎるなんてことはない。;;;;;;;;;;;;x
 EVTOPTCHF24062;著名な学者を数人集めれば十分だろう……;;;;;;;;;;;;x
 EVTOPTDHF24062;私が個人的に探して連れてきましょう。;;;;;;;;;;;;x
@@ -17607,8 +17607,8 @@ tooltip_EVTOPTBHFP24006;Advice §Y[scoped_ruler.GetTitledFirstName]§! to grant 
 EVTOPTCHFP24006;[scoped_recipient_third.GetFirstName] is the most competent [scoped_recipient_third.GetManWoman] I can think of.;;;;;;;;;;;;x
 tooltip_EVTOPTCHFP24006;Advice §Y[scoped_ruler.GetTitledFirstName]§! to grant one of [scoped_ruler.GetHerHis] §YCounties§! to §Y[scoped_recipient_third.GetFirstName]§!.;;;;;;;;;;;;x
 EVTOPTDHFP24006;Then again, maybe there is a lack of talent around here...;;;;;;;;;;;;x
-EVTDESCAHFP24007;[From.GetTitledFirstName]が、だいぶ長い間しつこく絡んでくる。[scoped_potential_count.GetFirstName]は、チャンスさえもらえるなら、どれだけ模範的な家臣になるのだろうか、と。;;;;;;;;;;;;x
-EVTDESCBHFP24007;[From.GetTitledFirstName]が、だいぶ長い間しつこく絡んでくる。領民の繁栄を願うならばある程度の責任は分配すべきだと。だが、単に[From.GetSheHe]自身の領土拡大を望んでいるだけでは、という疑念が拭えない…;;;;;;;;;;;;x
+EVTDESCAHFP24007;[From.GetTitledFirstName]が、いつからか執拗に絡んでくるようになった。[scoped_potential_count.GetFirstName]は、チャンスさえもらえるなら、どれだけ模範的な家臣になるのだろうか、と。;;;;;;;;;;;;x
+EVTDESCBHFP24007;[From.GetTitledFirstName]が、いつからか執拗に絡んでくるようになった。領民の繁栄を願うならばある程度の責任は分配すべきだと。だが、単に[From.GetSheHe]自身の領土拡大を望んでいるだけでは、という疑念が拭えない…;;;;;;;;;;;;x
 EVTOPTAHFP24007;Fine! Whatever you say.;;;;;;;;;;;;x
 EVTOPTBHFP24007;I am the [Root.GetTitle], not you.;;;;;;;;;;;;x
 EVTDESCAHFP24008;It took me some time to convince [From.GetTitledFirstName] of [scoped_potential_count.GetFirstName]'s clear potential, but I was able to get my way in the end. I am certain my [GetFromRelation] will not have reason to regret [From.GetHerHis] decision.;;;;;;;;;;;;x
@@ -17622,8 +17622,8 @@ EVTOPTAHFP24010;One cannot deny [scoped_recipient_first.GetFirstName] has a... s
 EVTOPTBHFP24010;[scoped_recipient_second.GetFirstName] is truly a likable fellow.;;;;;;;;;;;;x
 EVTOPTCHFP24010;[scoped_recipient_third.GetFirstName]'s potential is sure to blossom... eventually.;;;;;;;;;;;;x
 EVTOPTDHFP24010;Then again, maybe [scoped_ruler.GetSheHe] is better off alone.;;;;;;;;;;;;x
-EVTDESCAHFP24011;As if having to regularly deal with [From.GetHerHis] inane prattling was not enough, [From.GetTitledFirstName] has been tormenting me from some time now about the necessity of sharing my responsibilities as [Root.GetTitle] with one of [From.GetHerHis] spineless sycophants.;;;;;;;;;;;;x
-EVTDESCBHFP24011;As if having to regularly deal with [From.GetHerHis] inane prattling was not enough, [From.GetTitledFirstName] has been tormenting me from some time now about the necessity of sharing my responsibilities as [Root.GetTitle] with [From.GetHerHim] by granting the old [From.GetManWoman] direct control over one of my provinces.;;;;;;;;;;;;x
+EVTDESCAHFP24011;いつものように[From.GetHerHis]の空虚なおしゃべりに付き合う。それだけではまるで不足であった。結果、いつからか[From.GetTitledFirstName]は私の足を引っ張るようになってしまった。[From.GetHerHis]の骨抜き腰巾着に、[Root.GetTitle]たる私の責務を分け与えてはどうかと言い出したのだ。;;;;;;;;;;;;x
+EVTDESCBHFP24011;いつものように[From.GetHerHis]の空虚なおしゃべりに付き合う、それだけではまるで不足であった。結果、いつからか[From.GetTitledFirstName]は私の足を引っ張るようになってしまった。年老いた[From.GetManWoman]に私の領地の一画を与え直接統治させる形で、[Root.GetTitle]たる私の責務を[From.GetHerHim]に分け与えてはどうかと言い出したのだ。;;;;;;;;;;;;x
 EVTOPTAHFP24011;Whatever will make you shut up!;;;;;;;;;;;;x
 EVTOPTBHFP24011;It will never happen!;;;;;;;;;;;;x
 EVTDESCAHFP24012;For once, it appears I have been able to instill some wisdom in [From.GetFirstName]'s thick skull. After a long and lively discussion, the [From.GetTitle] has finally decided to give into my demands.;;;;;;;;;;;;x
@@ -17742,7 +17742,7 @@ tooltip_imperial_vote_strength_roman_diplomacy;[Root.GetFirstName]が高い§Y�
 tooltip_imperial_vote_strength_emperor_sycophants;[Root.GetFirstName]が無能な§Y指揮官§!を任命した;;;;;;;;;;;;x
 tooltip_imperial_vote_strength_emperor_paranoia;[Root.GetFirstName]が有能な§Y指揮官§!を罷免した。;;;;;;;;;;;;x
 tooltip_byzantine_empire_can_appoint_commanders;他に有効な土地持ち封臣がいない;;;;;;;;;;;;x
-bloodline_effect_wandering_artists;Periodically attracts the servitude of §GFamous Artists§!;;;;;;;;;;;;x
+bloodline_effect_wandering_artists;定期的に§G高名な芸術家§!の隷属を惹きよせます;;;;;;;;;;;;x
 EVTDESCHF24237;A famous bard named [invited_character.GetFirstName] has arrived to my court, lured by tales of my family's generosity towards all artists and craftsmen. [invited_character.GetSheHeCap] hopes to join my court and offer [invited_character.GetHerHis] services to such an illustrious patron of the art as I am.;;;;;;;;;;;;x
 EVTOPTAHF24237;もちろんだ！歓迎する。;;;;;;;;;;;;x
 EVTOPTBHF24237;I am afraid you will have to look further.;;;;;;;;;;;;x
@@ -19259,7 +19259,7 @@ KAISERSWERTH;カイザースヴェーアト;;;;;;;;;;;;x
 BERNICIA;ベルニチェ;;;;;;;;;;;;x
 BERNICIA_ADJ;ベルニチェ;;;;;;;;;;;;x
 vortigern;ヴォーティガンの血筋;;;;;;;;;;;;x
-vortigern_desc;A king in sub-Roman Britain. He was a strong leader, but is notorious for hiring the Saxons as mercenaries and allowing them to enter the Isle of Britain.;;;;;;;;;;;;x
+vortigern_desc;サブローマン・ブリテン時代の英国の王。彼は強力な指導者だったが、サクソン人を傭兵として雇い、彼らをイギリス諸島に招き入れたことで悪名高い。;;;;;;;;;;;;x
 caratacus;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 caratacus_desc;An ancient British warrior. King of the Catuvellauni tribe when the Romans invaded Britain, he led a resistance that nearly prevented them from conquering the island.;;;;;;;;;;;;x
 boudica;ブーディカの魂;;;;;;;;;;;;x

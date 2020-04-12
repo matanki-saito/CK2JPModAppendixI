@@ -861,7 +861,7 @@ china_unrest_desc;Civil unrest runs rampant in the [Root.GetName], and it has th
 china_civil_war_desc;[Root.GetName]内で内戦が勃発し、結果として東方との貿易に被害が出ている。帝国の軍隊は互いに対立しており、王朝はその地位を脅かされている。 勇敢な将軍たちは、中国の国境を越えて、西方に新天地を求めに来るかもしれない。;;;;;;;;;;;;x
 china_mongol_invasion_desc;The Mongol hordes of the north pour into China. The mighty Chinese armies are occupied with their desperate defense of the Empire, and the fighting has greatly disrupted trade as well as caused a mass exodus of refugees. Scions of the current dynasty may well flee westward if the war goes poorly enough.;;;;;;;;;;;;x
 china_plague_desc;A terrible disease wracks the [Root.GetName], leaving thousands lying dead in its wake. Trade has ground to a halt as the Chinese economy has been forced to its knees, and even the Empire's armies have been decimated to but a shadow of their former glory.;;;;;;;;;;;;x
-china_golden_age_desc;The [Root.GetName] has reached untold power and wealth. As China flourishes, the trade routes with the East bring not only valuable goods in previously unheard-of quantities, but also rich and abundant examples of Chinese culture. An Emperor of China in this Golden Age may well rightfully consider [Root.Ruler.GetHerselfHimself] the [Root.Ruler.GetMasterMistress] of the known world.;;;;;;;;;;;;x
+china_golden_age_desc;[Root.GetName]は計り知れない力と富を手に入れました。中国が繁栄するにつれ、東との貿易ルートはかつてないほどの量の貴重な商品をもたらすだけでなく、中国文化の豊かで豊富な実例ももたらします。この黄金時代の中国の皇帝が、[Root.Ruler.GetHerselfHimself]が既知の世界の[Root.Ruler.GetMasterMistress]であると考えるのはもっともなことです。;;;;;;;;;;;;x
 raise_chinese_honor_guard;中国儀仗隊を動員;;;;;;;;;;;;x
 EVTDESC_JD_40001_A;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has decreed that it is in the [offmap_china.GetName]'s interests that a new, vibrant city be established on the trade routes to the West. This would be a feat worthy of favourable trade agreements, as well as [offmap_china.Ruler.GetHerHisCap] personal notice.;;;;;;;;;;;;x
 EVTDESC_JD_40001_C;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] [From.Offmap.Ruler.GetFullName] has decreed that it is in the [offmap_china.GetName]'s interests to bestow favourable trade agreements on the [Root.GetTitle] most worthy of such association. They may well also find themselves blessed with [offmap_china.Ruler.GetHerHisCap] personal appreciation.;;;;;;;;;;;;x
@@ -1757,7 +1757,7 @@ pet_hedgehog;Vanghapara Pet;;;;;;;;;;;;x
 pet_hedgehog_desc;この人物は家でハリネズミを飼っていて、おかげで害虫駆除に困りません。;;;;;;;;;;;;x
 pet_otter;Sag-e Aabi Guardian;;;;;;;;;;;;x
 pet_otter_desc;この人物は領国に平穏をもたらしているカワウソの守護者です。;;;;;;;;;;;;x
-confucian_bureaucracy_desc;Confucian Bureaucracies rely on a set of strict imperial examinations to select their rulers. Candidates are tested on their knowledge of the Confucian Classics - though merit, previous achievements and recommendations from prominent aristocrats also play a major role in the selection process. Rulers tend to be very skilled stewards.;;;;;;;;;;;;x
+confucian_bureaucracy_desc;儒教の官僚は支配者を選出するために厳密に定められた一連の判定基準である科挙に頼っています。儒教の古典についての知識が問われますが、そうはいっても功績、過去の業績や有名な貴族からの推薦も選考過程で重要な役割を果たします。支配者は非常に熟練した家令になる傾向があります。;;;;;;;;;;;;x
 silk_road_province_desc;§Yシルクロード交易所§!は§Yシルクロード§!沿いの州でのみ建設できます。\n 有効な州を表示するには、§Y交易圏マップモード§!を開く;;;;;;;;;;;;x
 GOD_KHURMAZTA;フルムズド;;;;;;;;;;;;x
 trade_offices_1;初歩的な貿易事務所;;;;;;;;;;;;x
@@ -2546,7 +2546,7 @@ EVT_OPTA_JD_60209;They were no match for the [offmap_china.GetFullName].;;;;;;;;
 EVTDESC_JD_60211;[offmap_china.Ruler.GetLongChineseEmperorName], is no longer the only dragon to rule. General [From.GetOnlyDynastyName] [From.GetBirthName] has completed [From.GetHerHis] conquest and has crowned [From.GetHerselfHimself] [From.GetTitledName]! [From.GetSheHeCap] claims to be the true Son of Heaven and Lord of Ten Thousand Years.\nTalk among the traders from the east say that the [offmap_china.Ruler.GetShortChineseEmperorName] is most angered by this pretender. The future of this new [From.PrimaryTitle.GetFullName] remains in question but nobody can argue with results of [From.GetTitledFirstName]'s invasion...;;;;;;;;;;;;x
 EVT_OPTA_JD_60211;And now we bow to a dragon.;;;;;;;;;;;;x
 EVT_OPTB_JD_60211;And now they bow to a dragon.;;;;;;;;;;;;x
-china_golden_age_effect_desc;§Y*§! The value of the Silk Road is §GDoubled§!\n§Y*§! The effects of Chinese §YStrategists§!, §YScholar-Bureaucrats§! and §YMaster Engineers§! are §GDoubled§!\n§Y*§! The armies of China are significantly stronger;;;;;;;;;;;;x
+china_golden_age_effect_desc;§Y*§! シルクロードの交易価値は§G倍増§!する\n§Y*§! 中国の§Y戦略家§!、§Y士大夫§!、§Y主席技術者§!の影響は§G倍増§!する\n§Y*§! 中国の軍隊は非常に強力である;;;;;;;;;;;;x
 IS_INDESTRUCTIBLE_TRIGGER;Is indestructible;;;;;;;;;;;;x
 IS_NOT_INDESTRUCTIBLE_TRIGGER;Is NOT indestructible;;;;;;;;;;;;x
 familial_kinslayer;近親殺し;;;;;;;;;;;;x

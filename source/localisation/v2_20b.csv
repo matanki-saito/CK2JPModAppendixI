@@ -74,7 +74,7 @@ action_settle_tribe_desc;[GetMyTreasurerName]に命じて同胞の入植事業�
 EVTNAME925;部族の定住;;;;;;;;;;;;x
 EVTDESC925;My efforts to settle our tribe in [Root.Location.GetName] have met with success! My liege will be pleased!;;;;;;;;;;;;x
 EVTOPTA925;[Root.Liege.Culture.GetName] ways are superior.;;;;;;;;;;;;x
-EVTDESC20205;[Root.GetMyTreasurerName][From.GetTitledFirstName]が嬉しそうに報告してきた。[From.Location.GetName]において、[Root.Culture.GetName]の流れを汲む有力階級が数多く定着しだしているとのこと。現地では、つまずきはあったものの、我々の言語と文化が取り入れられ始めているのだ!;;;;;;;;;;;;x
+EVTDESC20205;[Root.GetMyTreasurerName]である[From.GetTitledFirstName]より吉報を受ける。[From.Location.GetName]において、[Root.Culture.GetName]の流れを汲む有力階級が数多く定着しだしているとのこと。つまずきはあったものの、現地では、我々の言語と文化が取り入れられ始めているのだ!;;;;;;;;;;;;x
 EVTOPTA20205;[From.GetFirstName]はいつも頼りになる;;;;;;;;;;;;x
 EVTNAME20206;[Root.GetMyTreasurerName]の負傷;;;;;;;;;;;;x
 EVTDESC20206;The locals in [Root.Location.GetName], angered by the increasing numbers of [Root.Liege.Culture.GetName] settlers, stormed my house and almost killed me! I took a wound in the shoulder fighting for my life!;;;;;;;;;;;;x

@@ -1660,10 +1660,10 @@ IS_NOT_HISTORICAL;重要な人物もしくは進行中のイベントチェー�
 IS_NOT_IMPORTANT_CHARACTER_TO;$CHAR|Y$にとって重要な人物ではない;;;;;;;;;;;;x
 IS_IMPORTANT_CHARACTER_TO;$CHAR|Y$にとって重要な人物である;;;;;;;;;;;;x
 EVTDESCHFP22006_A;[antagonize_target.GetTitledFirstName] has secluded [antagonize_target.GetHerselfHimself] with the rest of the court in [antagonize_target.Location.GetName], presumably biding their time while disease lingers in the countryside of the realm. "It will not be possible to reach [antagonize_target.GetHerHim] for some time", my council informs me.;;;;;;;;;;;;x
-EVTDESCHFP22006_B;As I have gone into seclusion with my court, my efforts to antagonize [antagonize_target.GetTitledFirstName] will have to be halted.;;;;;;;;;;;;x
+EVTDESCHFP22006_B;私が宮廷に引き籠ることになったので、[antagonize_target.GetTitledFirstName]への敵対行為は中断することになった。;;;;;;;;;;;;x
 EVTDESCHFP22006_A_B;As both [antagonize_target.GetTitledFirstName] and I are both currently weathering the disease ravaging the countryside outside, my efforts to antagonize [antagonize_target.GetHerHim] will have to be put on hold...;;;;;;;;;;;;x
 tooltip_stop_antagonizing;Stop §YAntagonizing§! §Y[antagonize_target.GetTitledFirstName]§!;;;;;;;;;;;;x
-EVTOPTAHFP22006;If only we had pigeons...;;;;;;;;;;;;x
+EVTOPTAHFP22006;私たちがハトを飼っていれば......;;;;;;;;;;;;x
 NUDGE_4;港/交易所;;;;;;;;;;;;x
 RULE_WONDERS_HISTORICAL_ON;史実の文化遺産が存在します。;;;;;;;;;;;;x
 RULE_WONDERS_HISTORICAL_OFF;史実の文化遺産は存在しません。;;;;;;;;;;;;x

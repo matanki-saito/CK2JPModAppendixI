@@ -1260,18 +1260,18 @@ EVTOPTA_MNM_4601;I will, but [benedictines_diligent_mentee.GetHerHis] first less
 EVTOPTA_MNM_4601_TOOLTIP;Offer to help [benedictines_diligent_mentee.GetTitledFirstName] in return for monetary compensation.\n;;;;;;;;;;;;x
 EVTOPTB_MNM_4601;No, [benedictines_diligent_mentee.GetSheHe] must find [benedictines_diligent_mentee.GetHerHis] own way.;;;;;;;;;;;;x
 EVTOPTB_MNM_4601_TOOLTIP;Do not help [benedictines_diligent_mentee.GetTitledFirstName].\n;;;;;;;;;;;;x
-EVTDESC_MNM_4603_SLOTHFUL;Blessings to you, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName],\nForgive me for writing so candidly, but your unfortunate lack of work ethic is putting our Order in a poor light. I propose to aid you to find structure and purpose in life. A minor form of compensation in return for my help would already go a long way to teaching you the value of hard work.\n\nSigned, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName];;;;;;;;;;;;x
+EVTDESC_MNM_4603_SLOTHFUL;あなた様に幸運を、[benedictines_diligent_mentee.GetSisterBrotherCap]である[benedictines_diligent_mentee.GetFirstName]\n率直に書いて申し訳ありませんが、残念ながらあなたの労働倫理の欠如が私たちの修道会に暗い影を落としています。私はあなたが人生の計画と目的を見つけるのを助けることを提案いたします。私の助けに対するささやかな見返りは、あなたに一生懸命働くことの価値を教えるのにもう大いに役立つことでしょう。\n\n（署名）あなたの[benedictines_diligent_mentor.GetSisterBrotherCap]、[benedictines_diligent_mentor.GetFirstName];;;;;;;;;;;;x
 EVTDESC_MNM_4603_REGULAR;Blessings to you, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName],\nI have observed your attempts at following the Rule of Saint Benedict, and I noticed you could do with some help. Allow me to offer mine. However, the first lesson must be that nothing in life is obtained without cost, and a minor form of compensation would therefore be required.\n\nSigned, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName];;;;;;;;;;;;x
-EVTOPTA_MNM_4603;[benedictines_diligent_mentor.GetSheHeCap] is right, I could use the help...;;;;;;;;;;;;x
+EVTOPTA_MNM_4603;[benedictines_diligent_mentor.GetSheHeCap]の言うことはもっともだ。助けを借りよう…;;;;;;;;;;;;x
 EVTOPTB_MNM_4603_SLOTHFUL;How dare [benedictines_diligent_mentor.GetSheHe]?!;;;;;;;;;;;;x
-EVTOPTC_MNM_4603_REGULAR;I don't need [benedictines_diligent_mentor.GetHerHis] help.;;;;;;;;;;;;x
+EVTOPTC_MNM_4603_REGULAR;[benedictines_diligent_mentor.GetHerHis]の助けはいらない;;;;;;;;;;;;x
 EVTDESC_MNM_4604;Blessings to you, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName],\nI thank you for your offer of help, and I send to you the requested payment alongside this message. I look forward to your guidance!\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_MNM_4604;すばらしい、準備を始めよう...;;;;;;;;;;;;x
 EVTOPTA_MNM_4604_TOOLTIP;Help [benedictines_diligent_mentee.GetTitledFirstName] to become a hard worker.\n;;;;;;;;;;;;x
-EVTDESC_MNM_4605;With patient dedication [benedictines_diligent_mentor.GetTitledFirstName] has shown me how to create a horarium to assign my time appropriately, making it easier to structure the work I do. It has already proven to be most useful, and work comes more easily to me now.;;;;;;;;;;;;x
-EVTOPTA_MNM_4605;[benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName] is a gift from the Lord himself!;;;;;;;;;;;;x
+EVTDESC_MNM_4605;[benedictines_diligent_mentor.GetTitledFirstName]は、私の時間を適切に割り当てるためのホラリウム（時禱）の作り方を教えてくれたので、私の仕事の構成がより簡単になった。これが最も有用であることはすでに証明されており、今では仕事の方が楽になった。;;;;;;;;;;;;x
+EVTOPTA_MNM_4605;[benedictines_diligent_mentor.GetSisterBrotherCap][benedictines_diligent_mentor.GetFirstName]は主からの贈り物だ！;;;;;;;;;;;;x
 EVTDESC_MNM_4607_SLOTHFUL;With some help and ample amounts of discipline the horarium [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName] helped me create has allowed me to defeat my laziness. Hard work is so much more fulfilling!;;;;;;;;;;;;x
-EVTDESC_MNM_4607_REGULAR;[benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName]'s horarium was exactly what I needed to truly live up to the ideals of our Order.;;;;;;;;;;;;x
+EVTDESC_MNM_4607_REGULAR;[benedictines_diligent_mentor.GetSisterBrotherCap][benedictines_diligent_mentor.GetFirstName]のホラリウムはまさに私が修道会の理想に忠実に生きるために必要としていたものだった。;;;;;;;;;;;;x
 EVTOPTA_MNM_4607;きつい事は自身のためになる。;;;;;;;;;;;;x
 EVTDESC_MNM_4608_OUTRAGED;[benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName].\nI am most offended by your insinuation that I embarrass the Order. I neither need nor desire your aid, and I would not think to pay you for it even if I did. Perhaps you should focus on your own work rather than stick your nose in others' affairs.\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;;;x
 EVTDESC_MNM_4608_NORMAL;Blessings to you, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName],\nI thank you for your offer of help, but I do not feel that it is necessary at this point.\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;;;x
@@ -2446,7 +2446,7 @@ EVTDESC_MNM_4216;I scurry off to fetch some ink, before I gently sit down beside
 EVTOPTA_MNM_4216;What is not to like?;;;;;;;;;;;;x
 monastic_orders_invite_ascetic;苦行者を招く;;;;;;;;;;;;x
 monastic_orders_invite_ascetic_desc;[Root.Society.GetName]に属する苦行者を宮廷に招く。;;;;;;;;;;;;x
-monastic_orders_invite_ascetic_tt;A holy ascetic will soon appear at the court of §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;x
+monastic_orders_invite_ascetic_tt;まもなく、苦行者が§Y[Root.GetTitledFirstName]§!の宮廷に現れます。\n;;;;;;;;;;;;x
 EVTDESC_MNM_4434;The [From.GetAscetic] [From.GetBestName] has finally arrived at my court. [From.GetFirstName] is a most noble and wise [From.GetManWoman] and I will happily receive [From.GetHerHis] council in matters of religion and scholarly pursuits.;;;;;;;;;;;;x
 EVTOPTA_MNM_4434;[Root.GetMOGreeting], [From.GetBestName]!;;;;;;;;;;;;x
 secret_religions_evoke_sympathy;Evoke Sympathy for [From.GetTrueReligionGroupPersons];;;;;;;;;;;;x

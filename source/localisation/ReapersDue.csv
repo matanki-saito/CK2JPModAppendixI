@@ -1946,7 +1946,7 @@ EVTOPTB_RIP_12050;それは賢い意見だ!…検討しておこう。;;;;;;;;;;
 EVTOPTB_RIP_12050_TOOLTIP;あなたは§Y[secluded_steward.GetFirstName]§!の意見を信用しておらず、[secluded_steward.GetHerHim]にいくらか経路が欠けたトンネルの地図を渡そうとします...\n;;;;;;;;;;;;x
 EVTOPTC_RIP_12050;ふん、お前がやろうとしていることはお見通しだ!お前に答えるべきことなんぞ何もない!;;;;;;;;;;;;x
 EVTOPTC_RIP_12050_TOOLTIP;あなたは§Y[secluded_steward.GetFirstName]§!のことを信用しないと決心する\n;;;;;;;;;;;;x
-EVTDESC_RIP_12052;My liege! [secluded_steward.GetTitledFirstName] catches up with you as you are strolling down the main hall. [secluded_steward.GetSheHeCap] looks concerned and you order [secluded_steward.GetHerHim] to spit it out, whatever the news is. "The tunnels, my [Root.GetLordLady]", [secluded_steward.GetSheHe] breathes and continues to tell you that it seems somebody has been using them - guards have stumbled upon tools and torches, recently used, by the looks of it.;;;;;;;;;;;;x
+EVTDESC_RIP_12052;「わが主君よ!」 [secluded_steward.GetTitledFirstName]はメインホールを下っているあなたに追いついた。[secluded_steward.GetSheHeCap]は不安そうにしていたので、あなたは[secluded_steward.GetHerHim]に気がかりなことをすべて話すように命じた。「トンネルです、わが偉大なる[Root.GetLordLady]よ」[secluded_steward.GetSheHe]は息をつぎ、続けて話した。「番兵が最近使用された形跡のある道具や松明を発見したことから、誰かがトンネルで何かしているようです」;;;;;;;;;;;;x
 EVTOPTA_RIP_12052;これは待ち伏せの絶好のチャンスだ!;;;;;;;;;;;;x
 EVTOPTA_RIP_12052_TOOLTIP;あなたは密かにトンネルに出入りする人を捕まえようと、もっと多くの番兵を派遣しました\n\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12052;これは災いだ!トンネルを封印せよ!;;;;;;;;;;;;x
