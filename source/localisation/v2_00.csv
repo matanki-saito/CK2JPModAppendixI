@@ -765,7 +765,7 @@ ASK_FOR_MONEY_INTERACTION_DECLINE_SETUP;金銭要求の申し入れを拒否;;;;
 ASK_FOR_MONEY_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! has declined a request to gift §Y[Actor.GetBestName]§!;;;;;;;;;;;;x
 ASK_FOR_MONEY_INTERACTION_OFFER;[Actor.GetBestName] has presented a request for §Y$COST$§W to us!;;;;;;;;;;;;x
 ASK_FOR_MONEY_INTERACTION_LETTER;Please accept my request of §Y$COST$§!.;;;;;;;;;;;;x
-EVTDESC_SOA_3100;Of course I will give you some funds to help spread the Faith in your realm. I trust §Y[GetDiploGiftSize]§!¤ will do?;;;;;;;;;;;;x
+EVTDESC_SOA_3100;当然、幾ばくかだが蓄えを差し上げよう。あなたの領国に信仰が頒布される助けとしてほしい。§Y[GetDiploGiftSize]§!¤あればよかろう？;;;;;;;;;;;;x
 EVTDESC_SOA_3101;Your request for §Y[GetDiploGiftSize]§!¤ is denied. I doubt you would use the money to aid the Faith.;;;;;;;;;;;;x
 asked_for_money;資金を要求した;;;;;;;;;;;;x
 AIREASON_FREE_VS_PAPAL_INVEST_ASK_FOR_MONEY;貴方は叙任権を持っている;;;;;;;;;;;;x

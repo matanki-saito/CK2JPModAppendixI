@@ -155,7 +155,7 @@ EVTDESC_WOL_2081_HERETIC;[From.GetTitledName]は私が異端を広めている�
 EVTDESC_WOL_2081_INFIDEL;[From.GetTitledName]は私が[Root.Religion.GetGroupName]の教えを広めようとしていると主張している！このことを理由に自分は逮捕されるかもしれない。;;;;;;;;;;;;x
 EVTDESC_WOL_2081_DEVIANT;[From.GetTitledName]は私の犯罪的な性的逸脱と道徳性の無さの衝撃的な証拠を発掘したと主張している。このことを理由に自分は逮捕されるかもしれない。;;;;;;;;;;;;x
 EVTOPTA_WOL_2081;卑劣な嘘だ！;;;;;;;;;;;;x
-EVTDESC_WOL_2082;[From.GetTitledName]は[target_spy_on.GetTitledName]が私を酷く中傷していたという証拠を提供してきた。この情報をどう使うべきだろうか？;;;;;;;;;;;;x
+EVTDESC_WOL_2082;[From.GetTitledName]より、[target_spy_on.GetTitledName]が私を酷く中傷していたという証拠を貰い受けた。この情報をどう使うべきだろうか？;;;;;;;;;;;;x
 EVTDESC_WOL_2082_BASTARD;[From.GetTitledName]から[target_spy_on.GetTitledName]が実は非嫡出子であることを証明する本物の恋文を発掘したとの知らせが届いた！[target_spy_on.GetPossPronounCap]の母[target_spy_on.Mother.GetTitledFirstName]は[target_spy_on.RealFather.GetTitledName]と情熱的な情事を交わしたのだ。この衝撃的な情報をどう使うべきだろうか？;;;;;;;;;;;;x
 EVTDESC_WOL_2082_DEVIANT;[From.GetTitledName]から[target_spy_on.GetTitledName]の性的嗜好に関する奇怪で酷く不愉快な証拠を渡された。この旨味のある情報をどう使うべきだろうか？;;;;;;;;;;;;x
 EVTDESC_WOL_2082_HERETIC;[From.GetTitledName]は[target_spy_on.GetTitledName]が邪悪な異端を広めようとしていると主張している。この情報をどう使うべきだろうか？;;;;;;;;;;;;x

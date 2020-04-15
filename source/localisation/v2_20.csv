@@ -407,9 +407,9 @@ d_zun_warriors;太陽の騎士団;;;;;;;;;;;;x
 d_zun_warriors_adj;ズン;;;;;;;;;;;;x
 job_spiritual_zun_pagan;予言者;;;;;;;;;;;;x
 job_spiritual_zun_pagan_reformed;予言者;;;;;;;;;;;;x
-zun_pagan;ズン宗教教徒;;;;;;;;;;;;x
+zun_pagan;ズン宗教;;;;;;;;;;;;x
 zun_pagan_reformed;ズン教会;;;;;;;;;;;;x
-zun_pagan_reformed_adj;ズン宗教教徒;;;;;;;;;;;;x
+zun_pagan_reformed_adj;ズン宗教;;;;;;;;;;;;x
 zun_pagan_DESC;正義を司る太陽神であるズンは、アフガニスタンのズンビール王朝で崇拝されていた。ズンは知恵、力、火、夜を照らす光の象徴である。ゲーム内の特徴は：\n§Y*§!他の原始宗教全てに対して服属戦争を宣言できる\n§Y*§!改宗力が劣っており、非原始宗教の宣教師の改宗に応じやすい;;;;;;;;;;;;x
 ca_culture_suebi_1;自由戦士野営地;;;;;;;;;;;;x
 ca_culture_suebi_2;自由戦士野営地;;;;;;;;;;;;x

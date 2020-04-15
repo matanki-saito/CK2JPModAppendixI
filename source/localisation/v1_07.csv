@@ -143,8 +143,8 @@ faction_claimant_ultimatum_desc;他の派閥構成員と共に§Y[Root.Liege.Get
 REVOLT_DISTANCE_LESS_THAN;未満の反乱距離;;;;;;;;;;;;x
 REVOLT_DISTANCE_AT_LEAST;以上の反乱距離;;;;;;;;;;;;x
 LOADING_TIP_51;男系優先双系において、息子がいる娘はより年長の娘よりも継承順が上位となります。;;;;;;;;;;;;x
-OPINION_DIFF_LOWER_THAN;§Y$FIRST$§!と§Y$SECOND$§!の間の意見の違いは§Y$VAL$§!を下回る;;;;;;;;;;;;x
-OPINION_DIFF_AT_LEAST;§Y$FIRST$§!と§Y$SECOND$§!の間の意見の違いは§Y$VAL$§!を下回る;;;;;;;;;;;;x
+OPINION_DIFF_LOWER_THAN;§Y$FIRST$§!と§Y$SECOND$§!、それぞれへの評価値の差が§Y$VAL$§!を下回る;;;;;;;;;;;;x
+OPINION_DIFF_AT_LEAST;§Y$FIRST$§!と§Y$SECOND$§!、それぞれへの評価値の差が少なくとも§Y$VAL$§!ある;;;;;;;;;;;;x
 FACTION_CANCELLED_SETUP;派閥を解散;;;;;;;;;;;;x
 FACTION_CANCELLED_LOG;§Y$CHARNAME$§!を指導者とした「$OBJECTIVE$」派閥は解散した。;;;;;;;;;;;;x
 FACTION_CREATED_SETUP;派閥を設立;;;;;;;;;;;;x

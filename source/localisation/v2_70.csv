@@ -284,7 +284,7 @@ monastic_orders_spiritual_guidance;霊的指導を行う;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance_desc;あなたは[Root.GetTitledFirstName]が罪深い人であることを知っています。[Root.GetHerHis]の悪徳の1つを取り除く手助けをするために霊的指導を行います。;;;;;;;;;;;;x
 monastic_orders_spiritual_guidance_power_desc;親族、結社の仲間、領内の領地持ちの人物を§G右クリック§!して悪習を取り除く事ができます。あなた自身が持っていない悪徳のみを取り除くことができます。;;;;;;;;;;;;x
 opinion_spiritual_guidance;霊的指導を受けた;;;;;;;;;;;;x
-spiritual_guidance_tooltip;Has a sin that §Y[From.GetTitledFirstName]§! does NOT have;;;;;;;;;;;;x
+spiritual_guidance_tooltip;§Y[From.GetTitledFirstName]§!が所持していない大罪を所持している;;;;;;;;;;;;x
 monastic_orders_teach_virtue;美徳を教示;;;;;;;;;;;;x
 monastic_orders_teach_virtue_desc;あなたは[Root.GetTitledFirstName]が時々正しい行動をしようと悪戦苦闘していることに気づいた。あなたの数多ある美徳の一部を[Root.GetHerHim]に教えることで状況を改善できます。;;;;;;;;;;;;x
 monastic_orders_teach_virtue_power_desc;親族、結社の仲間、領国内の領主を§G右クリック§!して新しい美徳を与えることができます。あなた自身が持っている美徳のみを追加できます。;;;;;;;;;;;;x

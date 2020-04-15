@@ -2798,7 +2798,7 @@ EVTDESCEHFP20669;I may not be the fastest runner, but I am without a doubt growi
 EVTDESCFHFP20669;脚には自信はありませんが、間違いなく頑健な若い女性に育ちました。;;;;;;;;;;;;x
 EVTOPTDHFP20669_ZE;大きいことはいいことだ！;;;;;;;;;;;;x
 EVTDESCGHFP20669;Lack of exercise and frequent snacks are turning young [From.GetFirstName] into a stout young man.;;;;;;;;;;;;x
-EVTDESCHHFP20669;The sedentary lifestyle and frequent snacks are turning young [From.GetFirstName] into a sturdy young woman.;;;;;;;;;;;;x
+EVTDESCHHFP20669;座りっぱなしの生活様式と頻繁な軽食は、若き[From.GetFirstName]を頑健な女性へと変えてしまうでしょう。;;;;;;;;;;;;x
 EVTDESCIHFP20669;大きくなって馬に乗れるようになりたければ、もっと友人と遊び、食べる量を減らすべきだと[From.GetTitledFirstName]は考えているようだ。;;;;;;;;;;;;x
 EVTOPTEHFP20669;But why?;;;;;;;;;;;;x
 mother_pregnancy_glow;Pregnancy Glow;;;;;;;;;;;;x
@@ -11585,7 +11585,7 @@ defense_pledge_crusade_target_TT_2;外交範囲内である;;;;;;;;;;;;x
 crusade_no_antipope_TT;自分の宗教指導者が教皇である。;;;;;;;;;;;;x
 new_crusade_win_TT;この十字軍は§Y[From.GetTitledName]§!が支配する目標称号の全領域を巡る戦争です;;;;;;;;;;;;x
 forced_to_crusade_TT;教皇に強制された場合十字軍参加への盟約を撤回することはできません。;;;;;;;;;;;;x
-vassal_castrate_decision_desc;You may give the order to castrate §Y[Root.GetFirstName]§! and turn him into a eunuch. He will be unable to sire more spawn or be granted landed titles, a severe punishment.;;;;;;;;;;;;x
+vassal_castrate_decision_desc;あなたは§Y[Root.GetFirstName]§!を去勢し性無能力者とする命令を下せる。男親として子を成せなくなり、今後一切の領地称号は授与され得なくなる。厳罰である。;;;;;;;;;;;;x
 NOT_ANY_REALM_LORD_STARTS;領国に領地を持たない人物がいない;;;;;;;;;;;;x
 knights_templar_loan_money_TT;§Y[d_knights_templar.Holder.GetTitledName]§!の§Y[Root.GetTitledName]§!に対する評価が§G25§!以上;;;;;;;;;;;;x
 bektashi_loan_money_TT;§Y[d_bektashi.Holder.GetTitledName]§!の§Y[Root.GetTitledName]§!に対する評価が§G25§!以上;;;;;;;;;;;;x
@@ -16080,7 +16080,7 @@ b_vishera;Vishera;;;;;;;;;;;;x
 b_tynea;ティーニア;;;;;;;;;;;;x
 b_shipovo;Shipovo;;;;;;;;;;;;x
 b_asy;Asy;;;;;;;;;;;;x
-b_urunda;Urunda;;;;;;;;;;;;x
+b_urunda;ウルンダ;;;;;;;;;;;;x
 b_slutka;Slutka;;;;;;;;;;;;x
 b_akberdino;Akberdino;;;;;;;;;;;;x
 b_balazhi;Balazhi;;;;;;;;;;;;x
@@ -17568,7 +17568,7 @@ baptized_emperor_to;Converted Empire;;;;;;;;;;;;x
 baptized_king_from;Converted Realm;;;;;;;;;;;;x
 baptized_emperor_from;Converted Empire;;;;;;;;;;;;x
 EVTOPTB662;I will never rest until [FromFrom.GetSheHe] is brought to justice!;;;;;;;;;;;;x
-ASK_FOR_DIVORCE_INTERACTION_2;Ask §Y[Actor.RelHead.GetTitledFirstName]§W for a divorce from §Y[Actor.Spouse.GetFirstName]§W. This will cost you [Player.Religion.GetPietyName] and, if granted, will be viewed as an insult by [Actor.Spouse.GetPossPronoun] relatives. Fidelity and fertility of the spouse tend to be the main factors in determining the willingness of the [Actor.RelHead.GetTitle] to take such requests in consideration.;;;;;;;;;;;;x
+ASK_FOR_DIVORCE_INTERACTION_2;§Y[Actor.RelHead.GetTitledFirstName]§Wに対し、§Y[Actor.Spouse.GetFirstName]§Wとの離婚許可を要請します。要請すると[Player.Religion.GetPietyName]が下がるうえ、許可された場合、配偶者の親族に侮辱とみなされます。このような要請の検討において、配偶者の貞節さと多産性は、[Actor.RelHead.GetTitle]の決断を促す主たる要因となる傾向にあります。;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_player_heir;[From.GetSheHeCap]は正当な跡継ぎです。;;;;;;;;;;;;x
 EVTDESCLoR40_HELLENIC;The story of the Roman Empire's glorious recovery will be told throughout the ages. Those unfortunate enough to have lived through the black days when barbarians sacked Rome at will or the Arab invaders swept in from the desert would not have dared dream of this day. All of the old provinces have been reclaimed and the Empire now stretches farther than it has in nearly a thousand years.\n\nBy shedding the weight of the dead god of the Galileans and re-embracing the Olympians the Empire of Caesar and Augustus has risen from its ashes. It will be a challenge to keep such a vast realm together, but for the sake of all humanity you must succeed, lest the world plunge into yet another dark age of ignorance and barbarity bereft of Rome's guiding light.;;;;;;;;;;;;x
 EVTDESCLoR40_GENERIC;The story of the Roman Empire's glorious recovery will be told throughout the ages. Those unfortunate enough to have lived through the black days when barbarians sacked Rome at will or the Arab invaders swept in from the desert would not have dared dream of this day. All of the old provinces have been reclaimed and the Empire now stretches farther than it has in nearly a thousand years.\n\nCountless people from all races and creeds all across Europe are celebrating this momentous occasion and men and women in both Rome and Constantinople are weeping tears of joy. It will be a challenge to keep an empire of this scale together, but for the sake of all humanity you must succeed, lest the world plunge into yet another dark age of ignorance and barbarity bereft of Rome's guiding light.;;;;;;;;;;;;x

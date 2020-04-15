@@ -2930,7 +2930,7 @@ EVTOPTB_WoL_7090;はっ!!そんなことしなくとも時が解決してくれ�
 EVTDESC_WoL_7091;私は老いた隠者たちに新たな敬意を抱いた! 隔離された場所で断食と祈りに費やした時間は、私に良い結果をもたらした。 [Root.Religion.GetHighGodNameCap]は、私の精神を鍛えてくれた。;;;;;;;;;;;;x
 EVTDESC_WoL_7091_PAGAN;自分だけの洞窟に籠り、聖別された根菜と苦いジュースだけで生活したところ、思考が明晰になった。『ただ意思のみが私の精神を規定する』;;;;;;;;;;;;x
 EVTDESC_WoL_7091_INDIAN;Secluded in my cave, meditating on the teachings of [Root.Religion.GetRandomGodName], I have gained better control over my thoughts and desires.;;;;;;;;;;;;x
-EVTDESC_WoL_7091_LUNATIC;Curled up safely in the badger's den, I've steeled my mind against the ululating shadow men who stalk me outside. I wonder how long I have been holed up in here?;;;;;;;;;;;;x
+EVTDESC_WoL_7091_LUNATIC;アナグマの巣穴の中で安全に体を丸め、外に忍び寄ってくる唸る影の男たちに心を奪われた。いつからここに隠れているんだろう。;;;;;;;;;;;;x
 EVTOPT_WoL_7091_DRUNKARD;Time to cut down on the beer;;;;;;;;;;;;x
 EVTOPT_WoL_7091_GLUTTON;Too much food harms the body and dulls the mind;;;;;;;;;;;;x
 EVTOPT_WoL_7091_SLOTHFUL;今から本気出す;;;;;;;;;;;;x
@@ -2939,7 +2939,7 @@ EVTOPT_WoL_7091_BLIND;Praise [Root.Religion.GetHighGodName]! I can see again!;;;
 EVTOPT_WoL_7091_CHASTE;My loins are on fire! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;x
 EVTOPT_WoL_7091_POX;The pox... It's gone! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;x
 EVTOPT_WoL_7091_LEPER;I can feel my face again! My leprosy is healed!;;;;;;;;;;;;x
-EVTOPT_WoL_7091_LUNATIC;The accursed wailing... is almost quiet now.;;;;;;;;;;;;x
+EVTOPT_WoL_7091_LUNATIC;呪われた哭声...は今はほとんど聞こえない。;;;;;;;;;;;;x
 EVTOPT_WoL_7091;私は、より善き[Root.GetManWoman]となるのだ。;;;;;;;;;;;;x
 RULE_DEJURE_DURATION;慣習的領土変遷期間;;;;;;;;;;;;x
 RULE_DEJURE_DURATION_DEFAULT_DESC;領土は慣習的領土に移行するのに100年を要します。;;;;;;;;;;;;x
@@ -3470,7 +3470,7 @@ demand_gavelkind_use_favor;分割相続制の要求;;;;;;;;;;;;x
 demand_gavelkind_use_favor_desc;§Y[This.GetTitledName]§!に分割相続制に法改正するよう要求します。[This.GetSubjectPronounCap]は私に恩があるため拒否することはできないでしょう。;;;;;;;;;;;;x
 EVTDESC_RIP_30040;忠実なる封臣、[Root.GetTitledFirstName]に告げる。\n\n長期的な利益のために、継承法を分割相続性に変更するよう要求する。\n\n敬愛すべき[FromFrom.GetTitledFirstName]より;;;;;;;;;;;;x
 EVTOPTB_RIP_30040;[FromFrom.GetSubjectPronounCap]は私に大きな借りを持つことだろう!!;;;;;;;;;;;;x
-EVTDESC_RIP_30041;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am not keen on Gavelkind Law, but I would never dream of refusing you, my liege!\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_30041;[GetFromRootCompliment]である[Root.GetTitledFirstName]陛下へ\n\n分割相続制を望むものではありません。しかし、お申し出を断るなぞ夢にも思いません、我が君！\n\n忠実なる封臣, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30043;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am not thrilled at instituting Gavelkind law, but I will comply in return for a large sum of money. I am sure you understand.\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30043;Very well...;;;;;;;;;;;;x
 EVTDESC_RIP_30044;To my vassal, [Root.GetTitledFirstName].\n\nI am willing to compensate you fairly in return for your institution of Gavelkind law. Your wisdom serves your people well.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
@@ -3989,6 +3989,6 @@ FEMALE_ENDING_E;$$;;;;;;;;;;;;x
 MALE_ENDING_E;$$;;;;;;;;;;;;x
 OBJ_PRONOUN_MAL_CAP;彼;;;;;;;;;;;;x
 OBJ_PRONOUN_FEM_CAP;彼女;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN_UNKNOWN;was devoured;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN_UNKNOWN_NO_KILLER;was devoured;;;;;;;;;;;;x
+DEATH_EXECUTION_EATEN_UNKNOWN;食い殺された;;;;;;;;;;;;x
+DEATH_EXECUTION_EATEN_UNKNOWN_NO_KILLER;食い殺された;;;;;;;;;;;;x
 nick_the_tenacious;不屈者;;;;;;;;;;;;x

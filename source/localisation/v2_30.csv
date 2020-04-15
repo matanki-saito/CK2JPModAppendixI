@@ -7,8 +7,8 @@ ACQUISITION_USURP;戦争を伴わずに簒奪;;;;;;;;;;;;x
 ACQUISITION_FACTION_DEMAND;派閥の要求により即位;;;;;;;;;;;;x
 PERSONAL_OPINION_LOWER_THAN;個人的な意見が右記未満:;;;;;;;;;;;;x
 PERSONAL_OPINION_AT_LEAST;個人的な意見が右記以上:;;;;;;;;;;;;x
-PERS_OPINION_DIFF_LOWER_THAN;§Y$VAL$§!より低い個人的意見の差異が§Y$FIRST$§!と§Y$SECOND$§!との間にある;;;;;;;;;;;;x
-PERS_OPINION_DIFF_AT_LEAST;少なくとも§Y$VAL$§!の個人的意見の差異が§Y$FIRST$§!と§Y$SECOND$§!との間にある;;;;;;;;;;;;x
+PERS_OPINION_DIFF_LOWER_THAN;§Y$FIRST$§!と§Y$SECOND$§!、それぞれへの個人的評価値の差が§Y$VAL$§!を下回る;;;;;;;;;;;;x
+PERS_OPINION_DIFF_AT_LEAST;§Y$FIRST$§!と§Y$SECOND$§!、それぞれへの個人的評価値の差が少なくとも§Y$VAL$§!ある;;;;;;;;;;;;x
 RULER_OF_TITLE;$TITLE$の$RULER$;;;;;;;;;;;;x
 EVTDESC38305;私は、自分に降り掛かった運命を受け入れ、信頼を育んだ。 私は誇大妄想の特性を失った。;;;;;;;;;;;;x
 EVTDESC38306;人々の二面性を感じる。私は信頼の特性を失った。;;;;;;;;;;;;x
@@ -632,8 +632,8 @@ EVTTOOLTIP_WoL_1006;[This.GetFirstName] is upset;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1009;[This.GetFirstName]は動転しているので、過剰に反応するかもしれません…;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1022;[This.GetFirstName]は私の嘘に反応を返します…;;;;;;;;;;;;x
 EVTTOOLTIP_WoL_1010;[This.GetFirstName] is manipulated;;;;;;;;;;;;x
-EVTDESC_WOL_1006;My [GetFromRelation] [From.GetFirstName] tearfully admitted to [From.GetPossPronoun] affair with [FromFromFrom.GetTitledFirstNameNoRegnal] and is begging me for forgiveness on [From.GetPossPronoun] bare knees...;;;;;;;;;;;;x
-EVTOPTA_WOL_1006;Very well, but I am deeply disappointed.;;;;;;;;;;;;x
+EVTDESC_WOL_1006;我が[GetFromRelation][From.GetFirstName]は、[FromFromFrom.GetTitledFirstNameNoRegnal]との不義密通を涙ながらに告白しました。そして、むき出しの両膝を地に付け、許しを請いました。;;;;;;;;;;;;x
+EVTOPTA_WOL_1006;よかろう。だが、我は、大いに失望した。;;;;;;;;;;;;x
 EVTOPTB_WOL_1006;ありえない！両者を公に非難する！;;;;;;;;;;;;x
 EVTDESC_WOL_1007;The jealous [GetFromFromVsFromRelation] of my lover [FromFrom.GetTitledFirstNameNoRegnal] has denounced us both as adulterers publicly!;;;;;;;;;;;;x
 EVTDESC_WOL_1007_LOVER_ADM;[GetRootFromInsult][From.GetTitledFirstNameNoRegnal]は私の誠意ある謝罪を受け入れず、却って私と[From.GetPossPronoun]の[GetFromVsFromFromRelation]である[FromFrom.GetTitledFirstNameNoRegnal]との姦通を公表までした！;;;;;;;;;;;;x

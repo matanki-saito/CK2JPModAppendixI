@@ -2016,8 +2016,8 @@ OVER_MAX_VASSAL_SIZE_TRIGGER;封臣限界より$VALUE|Y$$COMPARISON$多い;;;;;;
 OPINION_TRIGGER;評価が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
 PERSONAL_OPINION_TRIGGER;個人評価が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
 CLAN_OPINION_TRIGGER;氏族感情が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
-OPINION_DIFF_TRIGGER;Opinion difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
-PERSONAL_OPINION_DIFF_TRIGGER;Personal Opinion difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
+OPINION_DIFF_TRIGGER;$FIRST|Y$と$SECOND|Y$、それぞれへの評価値の差が$VALUE|Y$$COMPARISON$である。;;;;;;;;;;;;x
+PERSONAL_OPINION_DIFF_TRIGGER;$FIRST|Y$と$SECOND|Y$、それぞれへの個人的評価値の差が$VALUE|Y$$COMPARISON$である。;;;;;;;;;;;;x
 CLAN_OPINION_DIFF_TRIGGER;Clan Sentiment difference between $FIRST|Y$ and $SECOND|Y$ is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
 AGE_DIFF_TRIGGER;Age difference is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
 NUM_HOLDING_TRIGGER;Has $COMPARISON$ $VALUE|Y$ $TYPE$s in demesne;;;;;;;;;;;;x
@@ -2078,7 +2078,7 @@ DIFFERENT_DYNASTY_VASSALS_TRIGGER;Has vassals from $COMPARISON$ $VALUE|Y$ differ
 NUM_CLAIMS_TRIGGER;保持している請求権が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
 NUM_CLAIMS_ON_TARGET_TRIGGER;$TARGET|Y$に対する請求権が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
 DIFFICULITY_TRIGGER;Difficulty is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
-RELIGION_AUTHORITY_TRIGGER;Religion has Authority $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
+RELIGION_AUTHORITY_TRIGGER;宗教の「道徳的権威」が$VALUE|Y$$COMPARISON$である;;;;;;;;;;;;x
 TITLE_TIER_TRIGGER;Title Rank is $COMPARISON$ $VALUE|Y$;;;;;;;;;;;;x
 COMBAT_DAYS_TRIGGER;Combat has lasted $COMPARISON$ $VALUE|Y$ days;;;;;;;;;;;;x
 REALM_SIZE_TRIGGER;領地の規模が$VALUE|Y$$COMPARISON$;;;;;;;;;;;;x
@@ -3122,7 +3122,7 @@ EVTOPTB_JD_20006;1、2時間程で簡単な挨拶を覚えればすれば十分�
 EVTOPTC_ZE_8012;Pah! You are lying - but I will not take this further.;;;;;;;;;;;;x
 defeated_decadence_revolt;退廃を打ち破った;;;;;;;;;;;;x
 defeated_decadence_revolt_desc;この人物は退廃の蔓延を打ち破りました。全ての一族の中で最大の領域を支配している限り、退廃的だとは思われることはありません。;;;;;;;;;;;;x
-earmarked_regiments_tt;既に儀仗隊を動員していない;;;;;;;;;;;;x
+earmarked_regiments_tt;まだ儀仗隊を動員していない;;;;;;;;;;;;x
 not_forced_tt;主君によって継承法を変更することを強制されていない;;;;;;;;;;;;x
 forced_elective_tt;法律によって選挙君主制を持つことを強制されていない;;;;;;;;;;;;x
 not_swapping_tt;Is NOT swapping Councilors;;;;;;;;;;;;x
@@ -4052,7 +4052,7 @@ EVTTITLE_JD_32113;Fatal Hospitality;;;;;;;;;;;;x
 EVTTOOLTIP_JD_BAD_INFLUENCE_ON_EMPEROR_EVALUATION;This might reflect §Rpoorly§! on you, in the eyes of the Emperor.;;;;;;;;;;;;x
 EVTTOOLTIP_JD_GOOD_INFLUENCE_ON_EMPEROR_EVALUATION;This might reflect §Gwell§! on you, in the eyes of the Emperor.;;;;;;;;;;;;x
 EVTTOOLTIPA_JD_32200;You start to travel on the imperial roads towards the celestial palace.;;;;;;;;;;;;x
-EVTTOOLTIP_MNM_1812_ILL;Upset stomach problems;;;;;;;;;;;;x
+EVTTOOLTIP_MNM_1812_ILL;胃腸の不調に悩まされる;;;;;;;;;;;;x
 bear;熊;;;;;;;;;;;;x
 bear_group;熊;;;;;;;;;;;;x
 ARTIFACT_AGE_TRIGGER;Age is $COMPARISON$ $VALUE|Y$ years;;;;;;;;;;;;x
@@ -4472,8 +4472,8 @@ write_a_book;文芸作品を執筆;;;;;;;;;;;;x
 write_a_book_desc;§Y[Root.GetTitledFirstName]§!が世界についてある程度の知識を持っていれば、文学作品を執筆することができます。;;;;;;;;;;;;x
 this_may_take_some_time_tt;This will take time...\n;;;;;;;;;;;;x
 choose_a_topic_tt;取り上げる価値のある題材を選ぶ;;;;;;;;;;;;x
-has_not_explored_all_topics_tt;Has NOT explored all topics available to you;;;;;;;;;;;;x
-not_currently_working_on_a_book_tt;Has NOT already put all available scribes to work;;;;;;;;;;;;x
+has_not_explored_all_topics_tt;着手可能な題目全てを探求し終えていない;;;;;;;;;;;;x
+not_currently_working_on_a_book_tt;まだ手隙の書字生全てに仕事を依頼していない;;;;;;;;;;;;x
 has_an_education_or_related_attribute_above_ten_tt;Has an Education trait, OR a related attribute above §Y10§!;;;;;;;;;;;;x
 has_diplomacy_education_tt;Has a §YDiplomacy§! education;;;;;;;;;;;;x
 has_martial_education_tt;Has a §YMartial§! education;;;;;;;;;;;;x

@@ -2383,7 +2383,7 @@ EVTOPTB_MNM_3264_TT;あなたは、この作品たちが§Y[This.Society.GetName
 EVTOPTC_MNM_3264;これを貰ってもよいかい？;;;;;;;;;;;;x
 EVTOPTC_MNM_3264_TT;物書きは慰めになることを知った\n;;;;;;;;;;;;x
 EVTOPTD_MNM_3264;もし私がこれらの詩を自分の名前で出したならば...;;;;;;;;;;;;x
-EVTOPTD_MNM_3264_TT;You decide to steal the writings and take the credit yourself.\n;;;;;;;;;;;;x
+EVTOPTD_MNM_3264_TT;この作品を盗み、功績を横取りすることにする。\n;;;;;;;;;;;;x
 EVTDESC_MNM_3266_A;「私の希望に反して公表するなんて信じられない」、[From.GetTitledName]はそう書いて寄越した。「あの詩は完成とは程遠く、今ようやく作品と調和しそうなメタファが産まれたところなのですよ?恥をかかされた!」 私は渋い顔で手紙を片付けた。;;;;;;;;;;;;x
 EVTDESC_MNM_3266_B;「私の希望に反して公表するなんて信じられない」、[From.GetTitledName]はそう書いて寄越した。「あの詩は完成とは程遠く、今や人々は、私が[From.Religion.GetHighGodName]の心地良い側面を理解していないのだろうと言っていますよ?恥をかかされた!」 私は渋い顔で手紙を片付けた。;;;;;;;;;;;;x
 EVTOPTA_MNM_3266;ウムムム。機会を捉えるためだったのだ、責めないで欲しい。;;;;;;;;;;;;x
@@ -3370,7 +3370,7 @@ holy_chalice_desc;イエスが最後の晩餐で使用した聖杯です。イ�
 fragment_of_true_cross;聖釘;;;;;;;;;;;;x
 fragment_of_true_cross_desc;イエスが磔刑に処された際にその体を打ちつけた釘です。聖十字架にまつわるものを所有する貴方は大変な名門です！;;;;;;;;;;;;x
 bones_of_st_peter_desc;この小さな鉄の箱には最初の教皇とされている「使徒」ペテロの骨が入っていると考えられています。これを所有することはキリスト教世界の羨望の的です。;;;;;;;;;;;;x
-holy_foreskin_desc;The foreskin of Jesus Christ, cut and placed in an alabaster box of spikenard oil on the 8th day after his birth, so that it might be preserved. Thus, it is the only body part of Christ remaining on Earth, after his ascension into Heaven.;;;;;;;;;;;;x
+holy_foreskin_desc;イエス・キリストの包皮は生誕より8日目に切り取られ、雪花石膏の箱にナルドの香油とともに保存のため納められた。かようにして、キリストが天に召されてのち、地上で唯一の肉体の残滓となっている。;;;;;;;;;;;;x
 crown_of_thorns_desc;The crown of thorns that Jesus wore during his crucifixion. Once intended to mock Jesus' claims of divine authority, it now has become a symbol of precisely that.;;;;;;;;;;;;x
 seamless_robe_of_jesus_desc;The woven tunic that Jesus wore before his crucifixion. Rather than divide it into four parts, like Christ's other garments, the tunic was without seams, and so was kept whole by the soldiers who had crucified him.;;;;;;;;;;;;x
 staff_of_moses_desc;天地創造の第六日目に造られ、神からモーセに与えられた杖。紅海を裂き、岩から水を生み出し、コブラに変身するなど、数々の奇跡を起こした。;;;;;;;;;;;;x
@@ -3540,7 +3540,7 @@ stole_artifact;宝物を盗んだ;;;;;;;;;;;;x
 stole_artifact_penance;窃盗の罪で罰せられた;;;;;;;;;;;;x
 paid_for_celebration_artifact;有名な宝物;;;;;;;;;;;;x
 caught_red_handed;現行犯で逮捕された;;;;;;;;;;;;x
-caught_red_handed_desc;This character was caught attempting a theft. [GetSheHeCap] does not seem to be as sneaky as [GetSheHe] thinks [GetSheHe] is.;;;;;;;;;;;;x
+caught_red_handed_desc;この人物は盗みを企て捕まった。自身の考えほど隠密性に長けてはいないようだ。;;;;;;;;;;;;x
 caught_stealing_artifact_penance;懺悔中;;;;;;;;;;;;x
 caught_stealing_artifact_penance_desc;この人物は窃盗未遂により公開懺悔を行っています。;;;;;;;;;;;;x
 artifact_patron;聖遺物の後援者;;;;;;;;;;;;x
@@ -3985,13 +3985,13 @@ EVTOPTD_MNM_1800;考え直したがそんなことをしている時間はない
 EVTDESC_MNM_1810;[gathering_companion.GetTitledFirstName]と私は早朝に種々の有用なハーブを収集するため田園地帯の丘にやって来た。;;;;;;;;;;;;x
 EVTOPTA_MNM_1810;私達の知識をもってすれば、有用な植物を見分けることができるだろう。;;;;;;;;;;;;x
 EVTOPTB_MNM_1810;私は少なくともいくつかの植物を特定する方法を知っている。;;;;;;;;;;;;x
-EVTOPTC_MNM_1810;Which were the poisonous ones again?;;;;;;;;;;;;x
+EVTOPTC_MNM_1810;毒のあるものはどれであったろうか？;;;;;;;;;;;;x
 EVTDESC_MNM_1812_A;[gathering_companion.GetTitledFirstName]は才にあふれている。互いに色々な原理を多くの角度から議論しながら、植物を味見したり匂いをかいだりして植物の種類を識別していると、いつの間にか一日が終わっていた。;;;;;;;;;;;;x
 EVTOPTA_MNM_1812;持ち帰れないくらい大量だ。;;;;;;;;;;;;x
 EVTDESC_MNM_1812_B;有用な薬草を探し回って数日が経過した。私と[gathering_companion.GetTitledFirstName]は疲労し、興味深い植物もそこそこに切り上げることを決めざるを得なかった。;;;;;;;;;;;;x
 EVTOPTB_MNM_1812;少ないが得るものはあった。;;;;;;;;;;;;x
-EVTDESC_MNM_1812_C;My mouth is feeling funny and numb after [gathering_companion.GetTitledFirstName] got me to taste a weird looking plant.;;;;;;;;;;;;x
-EVTOPTC_MNM_1812;Let's head home already.;;;;;;;;;;;;x
+EVTDESC_MNM_1812_C;[gathering_companion.GetTitledFirstName]に植物のなりそこないを毒見させられると、口内に違和感としびれを覚えた。;;;;;;;;;;;;x
+EVTOPTC_MNM_1812;さぁ家に帰ろう。;;;;;;;;;;;;x
 EVTDESC_MNM_1815;小さな狩人の一団として、[gathering_companion.GetTitledFirstName]と私は動物の部位を集めるため森へ狩りに出かけた。動物から取れる材料は世界の理を理解するための実験に役立つだろう。;;;;;;;;;;;;x
 EVTOPTA_MNM_1815;我々の狩りの経験が合わされば簡単なはずだ。;;;;;;;;;;;;x
 EVTOPTB_MNM_1815;獲物を捕まえよう。;;;;;;;;;;;;x
