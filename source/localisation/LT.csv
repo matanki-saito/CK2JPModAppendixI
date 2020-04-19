@@ -1577,8 +1577,8 @@ EVTOPTC_LT_20431_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingula
 EVTOPTC_LT_20431_TT_not_serious_romance;You leave §Y[From.GetTitledFirstName]§! wanting more.;;;;;;;;;;;;x
 EVTOPTB_LT_20410_TT_unlikely;あなたの[target_character.GetRootRelation]は、おそらくよく思わないだろう。;;;;;;;;;;;;x
 EVTOPTA_LT_20431_no_love;I am not looking for anything 'serious', my [From.GetLordLady].;;;;;;;;;;;;x
-EVTDESC_LT_20432_A;[target_character.GetFirstName] returned my kiss, and more. "When will I see you again?" I asked, as we were parting. The [From.GetManWoman] chuckled, and said that this was fun, but that is all it was.;;;;;;;;;;;;x
-EVTDESC_LT_20432_B;[target_character.GetFirstName] returned my kiss, and more. Afterwards, we talked for hours, and I found myself fascinated by [From.GetHerHis] [From.GetLoverEnjoyableQuirk]. As we part, my heart is singing with [From.GetHerHis] name and I cannot wait until I can see [From.GetHerHim] again. I must learn everything about [From.GetHerHim]!;;;;;;;;;;;;x
+EVTDESC_LT_20432_A;[target_character.GetFirstName]は私の口付けに激しく応えた。別れ際に”また会えるのはいつ？"と尋ねると、[From.GetManWoman]は意味ありげに微笑みながら、楽しかったと答え、そしてそれだけだった。;;;;;;;;;;;;x
+EVTDESC_LT_20432_B;[target_character.GetFirstName]は私の口付けに激しく応えた。その後、何時間も話し込むうちに、私はその[From.GetLoverEnjoyableQuirk]の虜となった。別れてからも、[From.GetHerHis]のことが心から離れず、次に会うのがちきれない。[From.GetHerHim]のすべてが知りたい！;;;;;;;;;;;;x
 EVTOPTA_LT_20432_A;Wait... That's it? But I...!;;;;;;;;;;;;x
 String_boldness;boldness;;;;;;;;;;;;x
 String_love_of_life;love of life;;;;;;;;;;;;x
@@ -1832,7 +1832,7 @@ DUCHY_GELRE;ヘルレ;;;;;;;;;;;;x
 DUCHY_GELRE_ADJ;ヘルレ;;;;;;;;;;;;x
 COUNTY_BREDA;ブレダ;;;;;;;;;;;;x
 COUNTY_BREDA_ADJ;ブレダ;;;;;;;;;;;;x
-EVTDESC7830;My co-conspirator, [From.GetTitledFirstName], has procured a venomous viper, and sends word that it will soon dig its fangs into [Root.PlotTarget.GetTitledFirstName].;;;;;;;;;;;;x
+EVTDESC7830;共謀者である[From.GetTitledFirstName]が手を尽くし毒蛇を調達したとのこと。そして、すぐにでも[Root.PlotTarget.GetTitledFirstName]へとその牙を立てるとの報を受ける。;;;;;;;;;;;;x
 IS_LOCAL_HUMAN_OBSERVER;The local player is an observer.;;;;;;;;;;;;x
 IS_NOT_LOCAL_HUMAN_OBSERVER;The local player is NOT an observer.;;;;;;;;;;;;x
 DESTROY_WONDER_EFFECT;The Great Work is destroyed.\n;;;;;;;;;;;;x

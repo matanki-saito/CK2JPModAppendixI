@@ -79,7 +79,7 @@ EVTOPTA20205;[From.GetFirstName]はいつも頼りになる;;;;;;;;;;;;x
 EVTNAME20206;[Root.GetMyTreasurerName]の負傷;;;;;;;;;;;;x
 EVTDESC20206;The locals in [Root.Location.GetName], angered by the increasing numbers of [Root.Liege.Culture.GetName] settlers, stormed my house and almost killed me! I took a wound in the shoulder fighting for my life!;;;;;;;;;;;;x
 EVTOPTA20206;I can't say I blame them...;;;;;;;;;;;;x
-EVTDESC20207;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], has been stabbed and wounded by the locals in [From.Location.GetName], who are fiercely resisting our settlers.;;;;;;;;;;;;x
+EVTDESC20207;[Root.GetMyTreasurerName]である[From.GetTitledFirstName]が襲われ、負傷した。[From.Location.GetName]の地元民に寄るもので、我らの植民に猛烈に反抗している。;;;;;;;;;;;;x
 EVTOPTA20207;Such is to be expected...;;;;;;;;;;;;x
 action_build_legend;伝説を構築;;;;;;;;;;;;x
 EVTNAME20208;Warriors Raised;;;;;;;;;;;;x
@@ -162,8 +162,8 @@ EVTOPTB_CM_1011;今は彼女が女王だ。やつらはその状況を受け入�
 EVTDESC_CM_1076;[From.GetDynName], the wife of the recently deceased [FromFrom.GetTitledName], has arrived at your gates, asking for refuge for herself and her offspring. She claims that her late husband's evil brother murdered him in cold blood in order to take control of the realm for himself, and now she fears for her life as well.;;;;;;;;;;;;x
 EVTOPTA_CM_1076;You shall be welcome here.;;;;;;;;;;;;x
 EVTOPTB_CM_1076;I am sorry, this does not concern me.;;;;;;;;;;;;x
-EVTDESC_CM_1077;Word reaches you that [FromFromFrom.GetFirstName]'s wife [FromFrom.GetDynName] has received refuge at the court of [From.GetTitledName]. Surely, there is a plot against you brewing here...;;;;;;;;;;;;x
-EVTOPTA_CM_1077;This will not go unpunished.;;;;;;;;;;;;x
+EVTDESC_CM_1077;便りが届く。[From.GetTitledName]の宮廷において[FromFromFrom.GetFirstName]の妻[FromFrom.GetDynName]が、保護を受け入れたとのこと。確かに貴方を狙う陰謀がここに醸成しつつある…;;;;;;;;;;;;x
+EVTOPTA_CM_1077;罰せられないままはありえない。;;;;;;;;;;;;x
 EVTDESC_CM_1078;Your soldiers have brought [FromFromFrom.GetFirstName]'s family before you. [FromFrom.GetDynName] falls to her knees, begging you for mercy.;;;;;;;;;;;;x
 EVTOPTA_CM_1078;Lock them up in houses of God.;;;;;;;;;;;;x
 EVTOPTB_CM_1078;They must die, there is no other way.;;;;;;;;;;;;x

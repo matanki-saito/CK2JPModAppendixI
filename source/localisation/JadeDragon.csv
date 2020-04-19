@@ -4628,7 +4628,7 @@ GAME_SETUP_LOWBORN_EXPLANATION;王朝が不明です――ゲーム開始時に�
 DESTROY_ARTIFACT;$WHAT|Y$は破壊され、$WHO|Y$の宝物庫から削除されました。\n;;;;;;;;;;;;x
 DESTROY_ARTIFACT_NO_OWNER;$WHAT|Y$は破壊されました。\n;;;;;;;;;;;;x
 COULD_BE_CHILD_OF_TRIGGER;$CHILD|Y$ is the right age to potentially be a child of $PARENT|Y$;;;;;;;;;;;;x
-CANNOT_FIRE_IF_COERCED;You cannot dismiss someone who recently used a favor to get appointed;;;;;;;;;;;;x
+CANNOT_FIRE_IF_COERCED;最近貸しによって任命された者は解雇できません;;;;;;;;;;;;x
 EVTDESC681;[From.GetTitledFirstName]に称号を譲るように求められたが拒絶した。こうなっては反乱の旗を掲げるしかない。;;;;;;;;;;;;x
 EVTDESC682;[From.GetTitledFirstName]に正当な封臣を譲るように求められたが拒絶した。こうなっては反乱の旗を掲げるしかない。;;;;;;;;;;;;x
 EVTDESC683;[From.GetTitledFirstName]に自分の一族の吸収を求められたが拒絶した。こうなっては反乱の旗を掲げるしかない。;;;;;;;;;;;;x

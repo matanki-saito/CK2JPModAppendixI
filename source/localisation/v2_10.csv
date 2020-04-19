@@ -146,7 +146,7 @@ EVTDESC_RoI_101;この神々は尽く強大な神々である。この中から�
 EVTOPTA_RoI_101;殺戮者にして時間を司るカーリー;;;;;;;;;;;;x
 EVTOPTB_RoI_101;障害を取り除く神ガネーシャ;;;;;;;;;;;;x
 EVTOPTC_RoI_101;清浄なる水の神ガンガー;;;;;;;;;;;;x
-EVTOPTD_RoI_101;いや、もう少し考えてみたが、やはり三神一体を成す三人の神から守り神を選ぶべきだ。;;;;;;;;;;;;x
+EVTOPTD_RoI_101;やはり三神一体を成す三人の神から守り神を選ぶべきか…;;;;;;;;;;;;x
 EVTDESC_RoI_10001;[GetFromRelation] [From.GetFirstName]の奇妙な痣の位置は確か、私の[GetFromReincarnationRelation] [From.Reincarnation.GetBestName]の痣の位置と同じではなかったか。[From.Reincarnation.GetSubjectPronoun]は私の[GetFromRelation]に転生したのだろうか？;;;;;;;;;;;;x
 EVTOPTA_RoI_10001;これが[From.Reincarnation.GetHerHis]の業なのだろう;;;;;;;;;;;;x
 EVTOPTB_RoI_10001;いや、これは彼の真我ではない;;;;;;;;;;;;x

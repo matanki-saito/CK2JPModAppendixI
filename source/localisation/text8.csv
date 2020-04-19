@@ -881,13 +881,13 @@ EVTOPTA100215;[From.GetTitledFirstName]は同意せず、私の構想を拒ん�
 EVTOPTB100215;[From.GetTitledFirstName]は同意し、私に報酬を支払うことを承諾した。;;;;;;;;;;;;x
 EVTDESC100220;私に出される料理の味が近頃、変だ。私は毒殺を恐れて、少食に徹している。[Root.GetSpymasterName]に犯人が見つけられるとは思えない。私の友人が唯一の頼みだ。;;;;;;;;;;;;x
 EVTOPTA100220;友と共に、私は毒を持った犯人を見つけ、こんなまねを止めさせてやる！;;;;;;;;;;;;x
-EVTTOOLTIP100221;は、何者かが[Root.GetTitledFirstName]の毒殺を図っているとにらんだ。;;;;;;;;;;;;x
+EVTTOOLTIP100221;何者かが[Root.GetTitledFirstName]の毒殺を図っているとにらんだ。;;;;;;;;;;;;x
 EVTOPTB100220;神経質になりすぎた、料理はなんともない。;;;;;;;;;;;;x
 EVTDESC100221;最初はまた、[From.GetTitledFirstName]の被害妄想が始まったのかと思った...が、しかし、[From.GetSheHe]に晩餐に招かれてみると、確かに料理の味はおかしく、かなり変な後味が舌に残る。何者かが[From.GetTitledFirstName]に毒を盛っているのかも！;;;;;;;;;;;;x
 EVTOPTA100221;求めよさらば与えられん。お助けしましょう！;;;;;;;;;;;;x
-EVTTOOLTIP100222;は、何者かが[This.GetHerHim]に毒を盛っていると[Root.GetTitledFirstName]が信じたので、安心した。;;;;;;;;;;;;x
+EVTTOOLTIP100222;何者かが[This.GetHerHim]に毒を盛っていると[Root.GetTitledFirstName]が信じたので、安心した。;;;;;;;;;;;;x
 EVTOPTB100221;いい気分だ！料理の味は奇妙だけど、毒のせいじゃない！;;;;;;;;;;;;x
-EVTTOOLTIP100223;は、何者かが[This.GetHerHim]に毒を盛っていると[Root.GetTitledFirstName]が信じなかったことに、愕然とした。;;;;;;;;;;;;x
+EVTTOOLTIP100223;何者かが[This.GetHerHim]に毒を盛っていると[Root.GetTitledFirstName]が信じなかったことに、愕然とした。;;;;;;;;;;;;x
 EVTOPTC100221;硬貨を何枚か拝借したい、私がすぐに解明してみせましょう！;;;;;;;;;;;;x
 EVTTOOLTIP100224;そんな価値があるのか否か、考え込む。;;;;;;;;;;;;x
 EVTDESC100222;[From.GetTitledFirstName]は、料理の味がおかしなことには同意したが、これを毒殺の企みとは断定しなかった。私は[From.GetSheHe]に、気がかりな人物を尋問する許可を与えた。その結果、料理番が腐臭のする肉でシチューを作った時に、味をごまかすために、香辛料を大量に用いたことを告白した。その中には、適量であれば毒性の無いものも入っていた…。;;;;;;;;;;;;x
