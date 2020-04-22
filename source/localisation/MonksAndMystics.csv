@@ -1041,7 +1041,7 @@ devil_worshipers_induction;[From.Society.GetName]に勧誘;;;;;;;;;;;;x
 recent_induction_attempt;最近、勧誘を試みた;;;;;;;;;;;;x
 recent_induction_attempt_desc;誰かが最近、この人物の勧誘を試みた;;;;;;;;;;;;x
 EVTOPT_MNM_4090;神を讃えよ！;;;;;;;;;;;;x
-EVTDESC_MNM_4091;I have decided to stop my vow of celibacy and re-attend my duties to my family.;;;;;;;;;;;;x
+EVTDESC_MNM_4091;禁欲の誓いを手放して家族の責務に再び向き合うと決めた。;;;;;;;;;;;;x
 EVTOPT_MNM_4091;試練は終わりだ。;;;;;;;;;;;;x
 EVTDESC_MNM_4093;Going along the teachings of [Root.Society.GetName] I have decided to donate a portion of my wealth to those who need it better.;;;;;;;;;;;;x
 EVTOPT_MNM_4093;これが私の評判を向上させることを願っています。;;;;;;;;;;;;x
@@ -5023,9 +5023,9 @@ EVTOPTB_MNM_1842;暗闇を恐れるような年でもなくなったろうに、
 EVTDESC_MNM_1843;土地の所有権や商人が税金を支払っているか適時確認する仕事は時間がかかります。税金で金庫を満たすことよりも星々の正しい場所を確認することに私の心は占められています。;;;;;;;;;;;;x
 EVTOPTA_MNM_1843;知識と比べれば富は何になるのか？;;;;;;;;;;;;x
 EVTOPTB_MNM_1843;如何なる業務も怠ってはならない。;;;;;;;;;;;;x
-EVTDESC_MNM_1844;[target_friend.GetTitledFirstName] has been very cold to me lately. When I approach [target_friend.GetHerHim] about it today, [target_friend.GetSheHe] asks me point blank where I was. "Was when?", I respond. "We had plans to visit my uncle? The one who likes fishing? I knew you weren't all that excited, but I didn't expect you to simply not show up", [target_friend.GetSheHe] mutters.;;;;;;;;;;;;x
-EVTOPTA_MNM_1844;I.. I have had many important things on my mind, lately.;;;;;;;;;;;;x
-EVTOPTB_MNM_1844;I understand why you are upset, and I am so sorry, [target_friend.GetFirstName].;;;;;;;;;;;;x
+EVTDESC_MNM_1844;最近[target_friend.GetTitledFirstName]は私に冷たい。[target_friend.GetHerHim]にその理由を尋ねてみると、間をおかず、私がどこに居たのかと聞かれた。「いつのこと？」と聞き返すと、"私の叔父を尋ねる予定があったはずだが？一人釣りの方がお好きかな？気乗りしてないのはわかっていたが、まさか姿も現さないとは"と[target_friend.GetSheHe]は小言を並べた。;;;;;;;;;;;;x
+EVTOPTA_MNM_1844;さ ..最近、ひらめきが次々と頭に浮かんできてね。;;;;;;;;;;;;x
+EVTOPTB_MNM_1844;あなたのその態度の理由がわかりました。すみません、[target_friend.GetFirstName]。;;;;;;;;;;;;x
 EVTDESC_MNM_1845;評議会との会議中、頭蓋骨の中からこみ上げてくるような痛みに襲われ、会議の内容が頭に入らなくなっていた。寝不足の影響だ。そんな中、[councillor1.GetTitledFirstName]が私の名前を怒り混じりに叫んだことで意識が戻ると、直後に物凄い剣幕で[councillor1.GetSheHe]が私に賛同を求めてきた。;;;;;;;;;;;;x
 EVTOPTA_MNM_1845;「あ、ああそうだな…？」;;;;;;;;;;;;x
 EVTOPTB_MNM_1845;「申し訳ない、もう一度説明してくれないか？」;;;;;;;;;;;;x

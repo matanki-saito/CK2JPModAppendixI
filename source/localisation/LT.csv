@@ -1587,7 +1587,7 @@ String_seeing_the_best_in_people;always way of seeing the best in people;;;;;;;;
 String_optimism;optimism;;;;;;;;;;;;x
 String_sense_of_humor;sense of humor;;;;;;;;;;;;x
 String_jaded_view_on_romance;jaded views on romance;;;;;;;;;;;;x
-EVTDESC_MNM_4090;I have decided to show my devotion to [Root.Religion.GetHighGodNameCap] and the order by taking a vow of celibacy.;;;;;;;;;;;;x
+EVTDESC_MNM_4090;禁欲の誓いを立て、[Root.Religion.GetHighGodNameCap]と修道会への信心を示すと決めた。;;;;;;;;;;;;x
 RELATION_TRIBUTARY;属国;;;;;;;;;;;;x
 quest_the_assassins_convert_province_desc;[GetAssassinsConversionDesc];;;;;;;;;;;;x
 assassins_conversion_desc_random;The most essential goals of the Assassins is to protect the believers of the True Faith and spread the words of [shiite.GetHighGodName] to every corner of the Earth. While even the most remote lands shall be converted one day, first we must turn to places closer to home — your mission is to convert the county [FromFrom.GetName].;;;;;;;;;;;;x

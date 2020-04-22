@@ -192,12 +192,12 @@ EVTOPTC_MNM_1842_powder;静まれ、我が子よ。この[GetSelectedIngredient_
 EVTOPTC_MNM_1842_liquid;静まれ、我が子よ。何か作ってやろう、この…うーむ、[GetSelectedIngredient_1]でな。;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_herb;Let us talk about this, while I brew something soothing.;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_animal_part;I'll make it up to you! Let us share some broth from [GetSelectedIngredient_1].;;;;;;;;;;;;x
-EVTOPTC_MNM_1844_powder;Oh, friend. You clearly need this [GetSelectedIngredient_1] infused brew of mine.;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_powder;あー、友よ。君が鉱山で採れたこの[GetSelectedIngredient_1]が必要なのはわかっている。;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_liquid;Well... Would you care for some experiential [GetSelectedIngredient_1] infused beer I've made?;;;;;;;;;;;;x
 nauseous_from_potion;吐き気;;;;;;;;;;;;x
 nauseous_from_potion_desc;この人物は良い状態にあるようにはとても見えません。;;;;;;;;;;;;x
 opinion_apologized;Apologized;;;;;;;;;;;;x
-opinion_cheered_up;Cheered Up;;;;;;;;;;;;x
+opinion_cheered_up;元気づけた;;;;;;;;;;;;x
 opinion_calmed;Calmed;;;;;;;;;;;;x
 EVTDESC_MNM_1855;現在の私の研究を熟考している内に、天国への理解を深めるための実験に使えるやもしれぬ物品をいくつか持っていることに気がついた…！;;;;;;;;;;;;x
 EVTOPTA_MNM_1855;[GetSelectedIngredient_1]を燃やし、その香りで感覚を満たそうではないか。;;;;;;;;;;;;x

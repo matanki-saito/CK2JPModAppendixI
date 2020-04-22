@@ -43,7 +43,7 @@ GAIN_SETTLEMENT_UNDER_TITLE_EFFECT;$REGION$内の$GIVER$の領地を獲得;;;;;;
 VASSALIZE_OR_TAKE_UNDER_TITLE_EFFECT;$REGION$内の$GIVER$の保有地を獲得または臣従化;;;;;;;;;;;;x
 OFFER_PEACE_INTERACTION_DEMAND;これらがあなた方の降伏の条件である：;;;;;;;;;;;;x
 OFFER_PEACE_INTERACTION_WHITE;我々は、以下の条件の下で白紙和平を提案する：;;;;;;;;;;;;x
-OFFER_PEACE_INTERACTION_SURRENDER;我々は以下の条件の下降伏する：;;;;;;;;;;;;x
+OFFER_PEACE_INTERACTION_SURRENDER;以下の条件で降伏する：;;;;;;;;;;;;x
 DYNA_FILTER;フィルター;;;;;;;;;;;;x
 DYNA_F_ALL;すべて;;;;;;;;;;;;x
 DYNA_F_ONLYMEN;男性のみ;;;;;;;;;;;;x

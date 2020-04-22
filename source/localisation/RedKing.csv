@@ -573,8 +573,8 @@ DLC_dlc022_RECOMMENDATION_REASON_REPUBLIC;We’re recommending this expansion as
 DLC_dlc022_RECOMMENDATION_REQUIRED;§YThe Republic§! expansion makes patrician families available for play, so now you can become the doge of a merchant republic.\n;;;;;;;;;;;;x
 DLC_dlc022_RECOMMENDATION_REPUBLIC;With time, the non-nomadic pagans can choose reform to a Merchant Republic. §YThe Republic§! expansion is required then to continue to play.\n;;;;;;;;;;;;x
 DLC_dlc024_RECOMMENDATION_REQUIRED;§YThe Old Gods§! expansion lets you play as a Pagan or Zoroastrian ruler. Survive by ravaging your neighbors!\n;;;;;;;;;;;;x
-DLC_dlc032_RECOMMENDATION_REQUIRED;With the focus on the three Abrahamic religions, §YSons of Abraham§! lets you play as a Jewish ruler. Will you to recreate the Kingdom of Israel and rebuild the Third Temple in Jerusalem?\n;;;;;;;;;;;;x
-DLC_dlc032_RECOMMENDATION_ABRAHAMIC;With the focus on the three Abrahamic religions, §YSons of Abraham§! adds plenty of events, unique holy orders, and more content to enhance these faiths.\n;;;;;;;;;;;;x
+DLC_dlc032_RECOMMENDATION_REQUIRED;３つのアブラハムの宗教に焦点を当てた§YSons of Abraham§!ではユダヤ人の統治者をプレイできます。イスラエル王国を再興し、エルサレムの第三神殿を再建しますか？\n;;;;;;;;;;;;x
+DLC_dlc032_RECOMMENDATION_ABRAHAMIC;§YSons of Abraham§!は３つのアブラハムの宗教に焦点を当て、これらの信仰を強化するために、多くのイベント、特殊な宗教騎士団、さらなるコンテンツを追加します。\n;;;;;;;;;;;;x
 DLC_dlc032_RECOMMENDATION_RELIGION;With §YSons of Abraham§! comes a major overhaul of Holy Orders, as well as the addition of religion unique Holy Orders. The §Y[Root.Religion.GetName]§! gains [Root.GetHolyOrderName].\n;;;;;;;;;;;;x
 DLC_dlc039_RECOMMENDATION_REQUIRED;拡張§YRajas of India§!によってインド亜大陸に3つの新しいダルマ宗教が導入されます。インドを統一し、伝説の転輪聖王となるのだ！\n;;;;;;;;;;;;x
 DLC_dlc039_RECOMMENDATION_ROI_RELIGION;§YRajas of India§! is recommended as it allows you to play as Dharmic Religions, such as Buddhists and Hindus.\n;;;;;;;;;;;;x
@@ -592,7 +592,7 @@ DLC_dlc069_RECOMMENDATION_MAM_SHIITE;In §YMonks and Mystics§!, you'll get to j
 DLC_dlc069_RECOMMENDATION_MAM_D;In §YMonks and Mystics§!, you'll get to join a secret religious Society which grants you unique bonuses, like worshipping a Demon grants you healing powers and the ability to curse your enemies.\n;;;;;;;;;;;;x
 DLC_dlc069_RECOMMENDATION_CULTURE;In addition to the societies that you get in §YMonks and Mystics§!, you also get new portraits and new graphics for your units appropriate for the §Y[Root.Culture.GetName]§! culture.\n;;;;;;;;;;;;x
 DLC_dlc073_RECOMMENDATION_JD_CULTURE;With §YJade Dragon§!, China is introduced with its own game rules, and you also get new portraits for your characters appropriate for the §Y[Root.Culture.GetName]§! culture.\n;;;;;;;;;;;;x
-DLC_dlc073_RECOMMENDATION_JD_REQUIRED;With the focus on the East, §YJade Dragon§! introduces China with its own game rules, and additional religions in the region can be accessed by either §YJade Dragon§! or other DLCs.\n;;;;;;;;;;;;x
+DLC_dlc073_RECOMMENDATION_JD_REQUIRED;§YJade Dragon§!は東方に焦点を当てており、中国に独自のゲームルールを追加し、東方の追加宗教をプレイするには§YJade Dragon§!か他のDLCが必要となります。\n;;;;;;;;;;;;x
 Holy_Order_Catholic;カラトヴァ騎士団とサンティアゴ騎士団;;;;;;;;;;;;x
 Holy_Order_Orthodox;聖墳墓同胞団;;;;;;;;;;;;x
 Holy_Order_Miaphysite;聖アントニウス騎士団;;;;;;;;;;;;x

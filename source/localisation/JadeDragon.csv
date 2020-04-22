@@ -815,7 +815,7 @@ WAR_NAME_NOMAD_TRIBUTARY;$FIRST_ADJ$による$DEFENDER$に対する$ORDER$朝貢
 tributary_nomad_cb_desc;§Y$TARGET$§!の領国は弱く、我々にはかなわない。貢物を払うか、我が遊牧民の大群の轟く蹄で砕かれる時だ！\n\n戦争を通じて、§Y属国§!の収入の§Y50%§!を貢納するように強制することができます。\n§Y宗主国§!の§Y威信§!が§Rマイナス§!である場合に限り、従属関係を破棄できます。\nこの種類の§Y属国§!に参戦要請を行えます。\nこの種類の§Y属国§!は、貴方に§Y参戦要請§!を行えますができますが、参戦を強制されるわけではありません。;;;;;;;;;;;;x
 tributary_independence_normal;貢納を止める;;;;;;;;;;;;x
 tributary_independence_normal_desc;My §YSuzerain§! is weak and unable to prevent me from simply not paying them further tribute.;;;;;;;;;;;;x
-EVTDESC_JD_2200;Our Tributary State of [From.PrimaryTitle.GetName] has apparently decided to stop paying us tribute - [From.GetTitledFirstName] calls us "weak" and claims that we are "unable to defend [From.GetHerHis] realm", what nonsense!;;;;;;;;;;;;x
+EVTDESC_JD_2200;どうも朝貢国の[From.PrimaryTitle.GetName]が私たちへの朝貢停止を決めたようだ。[From.GetTitledFirstName]は私たちを「弱者」と呼び、私たちが「[From.GetHerHis]の領国を守ることができない」と主張している。馬鹿な！;;;;;;;;;;;;x
 EVTOPTA_JD_2200;Perhaps it is time to make [From.GetHerHim] get back in line...;;;;;;;;;;;;x
 tributary_independence_china;進貢を止める;;;;;;;;;;;;x
 tributary_independence_china_desc;The §Y[offmap_china.GetName]§! is in a weakened state and unable to prevent me from simply not paying them further tribute.;;;;;;;;;;;;x

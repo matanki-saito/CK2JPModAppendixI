@@ -102,7 +102,7 @@ tp_shipyard_3;教区の造船所;;;;;;;;;;;;x
 tp_shipyard_4;教区の造船所;;;;;;;;;;;;x
 shipyard_desc;熟練した船大工はここで仕事に励み、あらゆる種類の船舶を建造しています。;;;;;;;;;;;;x
 TOGGLE_LOOTER;§Y略奪軍の切り替え§!;;;;;;;;;;;;x
-REL_AUTHORITY_CHANGE;§Y$RELIGION$§!：§Y$TIME$§!$TIMEUNIT$の間、道徳的権威が$PERC$に変更されます。\n;;;;;;;;;;;;x
+REL_AUTHORITY_CHANGE;§Y$RELIGION$§!：§Y$TIME$§!$TIMEUNIT$間、道徳的権威が$PERC$に変更される。\n;;;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION;§Y$RELIGION$§!の信仰は§Y$HOLDING$§!を聖地とみなしています;;;;;;;;;;;;x
 IS_HOLY_CITY_FOR_RELIGION_2;この領地を保持しています;;;;;;;;;;;;x
 IS_HOLY_ORDER;宗教騎士団である;;;;;;;;;;;;x

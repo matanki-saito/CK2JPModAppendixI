@@ -18,7 +18,7 @@ ERA_CHAR_INFO_74441;ソーメーシュヴァラ1世は1042年に西チャール�
 EVTDESC_CM_1401;[Root.Liege.GetTitledFirstName]に仕えるのにはもうほとほと疲れ果てたが、逆らうには[Root.Liege.GetSheHe]は強大すぎる。異国に同盟者を探す必要がありそうだ―近年その強大さを増す北のかたのフランク人たちなら[Root.Liege.GetOnlyDynastyName]家への愛もないだろうしちょうどいいだろう―別に奴らが助けてくれさえすればその後約束を守る必要なんてないさ…;;;;;;;;;;;;x
 EVTOPTA_CM_1401;使者を送ろう。;;;;;;;;;;;;x
 EVTOPTB_CM_1401;いや、リスクに見合わなさ過ぎる;;;;;;;;;;;;x
-EVTDESC_CM_1402;You have received a most unusual embassy from Spain. An emissary from [From.GetTitledNameWithNick] comes before you and speaks: 'My [From.GetLordLady] has come to request your assistance against the evil [From.Liege.GetTitledName]. [From.GetSheHeCap] asks for a pledge of your armed assistance in rebellion, and in return [From.GetSheHe] will swear fealty to you once the yoke of [From.Liege.GetOnlyDynastyName] oppression is off [From.GetHerHis] back.;;;;;;;;;;;;x
+EVTDESC_CM_1402;大変に珍しく、スペインからの外交大使を迎え入れた。[From.GetTitledNameWithNick]の使者が御前まで来るとこう話しだした：「我が[From.GetLordLady]がお力添えの願い、直にお伝えしたくまかり越してございます。願うは奸邪[From.Liege.GetTitledName]の打倒。軍事的支援の確約を頂き、[From.Liege.GetOnlyDynastyName]の抑圧によるくびきが我が[From.GetLordLady]の背より取り除かれた暁には、貴方様に忠節を誓うとのことでございます」;;;;;;;;;;;;x
 EVTOPTA_CM_1402;結構。その旨、協約に署名せねば;;;;;;;;;;;;x
 EVTOPTB_CM_1402;申し訳ない。スペインの政治に興味はないのだ。;;;;;;;;;;;;x
 EVTDESC_CM_1403;使者はフランシアから悪い知らせを持ち帰ってきた。[Root.Liege.GetOnlyDynastyName]家への反乱への助力の要請は[From.GetTitledName]に断られたとのことだ。;;;;;;;;;;;;x

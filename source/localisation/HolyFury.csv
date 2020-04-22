@@ -1321,13 +1321,13 @@ EVTOPTAHFP20501;宮廷医師なら彼女を救えるだろう。;;;;;;;;;;;;x
 EVTOOLTIPAHFP20501;Tell your wife that your Court Physician will take care of her in her time of need.;;;;;;;;;;;;x
 EVTOPTBHFP20501;I am as good as any Physician. I will help her.;;;;;;;;;;;;x
 EVTOOLTIPBHFP20501;Tell your wife that you will put your skills as a Scholar to good use to help her in her time of need.;;;;;;;;;;;;x
-EVTOPTCHFP20501;She needs a priest to pray for her.;;;;;;;;;;;;x
-EVTOOLTIPCHFP20501;Send a priest to comfort your wife in her time of need and pray for the salvation of her soul should the worst come to pass.;;;;;;;;;;;;x
+EVTOPTCHFP20501;彼女には自身のために祈る司祭が必要だ。;;;;;;;;;;;;x
+EVTOOLTIPCHFP20501;司祭を派遣して、妻が困窮しているときに慰め、最悪の事態が起こったときには妻の魂の救済を祈ります。;;;;;;;;;;;;x
 EVTOPTDHFP20501;She needs a shaman to protect her.;;;;;;;;;;;;x
 EVTOOLTIPDHFP20501;Send a shaman to comfort your wife and cast the proper spells to facilitate her labor.;;;;;;;;;;;;x
-EVTOPTEHFP20501;The only thing she needs is me.;;;;;;;;;;;;x
+EVTOPTEHFP20501;彼女に必要なのは私だけでよい。;;;;;;;;;;;;x
 EVTOOLTIPEHFP20501;妻に必要な時は慰問を申し出る;;;;;;;;;;;;x
-EVTOPTFHFP20501;She will manage on her own.;;;;;;;;;;;;x
+EVTOPTFHFP20501;彼女は自分で何とかするだろう。;;;;;;;;;;;;x
 EVTDESCHFP20502;[From.GetTitledFirstName]の現在の状態は,ほとんど完全に無防備だ。 彼女の妊娠は、永久に彼女を取り除く絶好の機会を私にもたらすかもしれない。;;;;;;;;;;;;x
 EVTOPTAHFP20502;A nice poison will do.;;;;;;;;;;;;x
 EVTOPTBHFP20502;I will simply smother her.;;;;;;;;;;;;x
@@ -1447,7 +1447,7 @@ EVTOPTAHFP20550;At least the body is fine.;;;;;;;;;;;;x
 EVTDESCHFP20551;私の妻[From.GetFirstName]は、分娩中に合併症で死んでしまった。;;;;;;;;;;;;x
 EVTOPTAHFP20551;少なくとも彼女はもはや苦痛から解放されたのだ。;;;;;;;;;;;;x
 EVTDESCHFPA20552;悪夢は妻にとってまだ終わっていなかった。妻が回復したのは一瞬に過ぎず、妻の体の状態は子供を産んだ後に急速に悪化した。すぐに良くならないのであれば、妻はきっと死んでしまうだろう。;;;;;;;;;;;;x
-EVTDESCHFPB20552;Labor is not going well. My wife is bleeding profusely and seems to be suffering great pains. If the bleeding does not stop soon she will surely perish.;;;;;;;;;;;;x
+EVTDESCHFPB20552;出産がうまくいっていない。妻は大量に出血していてとても痛そうだ。出血がすぐに止まらないと、きっと死んでしまうだろう。;;;;;;;;;;;;x
 EVTOPTAHFP20552;[Root.Religion.GetHighGodName]よ、妻を救い給え;;;;;;;;;;;;x
 EVTDESCHFPA20553;私の治療はついにいくつかの効果を表した。私の[GetFromRelation]の[From.GetFirstName]は、再び寝られるようになり、また定期的に食事をとれるようになった。そして彼女の痙攣は取り除かれた。  妊娠はまだ終わっていないが、無事に出産を終えることができそうだ。;;;;;;;;;;;;x
 EVTOPTAHFP20553;すばらしい。;;;;;;;;;;;;x
@@ -2387,7 +2387,7 @@ EVTDESCAHFP20668;They think themselves so clever, the little rats. They all thin
 EVTDESCBHFP20668;I cannot believe how many envious, malignant people are spreading rumors around me. But enough is enough. Since I am way too bored to whip them myself, I have decided to send all these nuisances directly to the dungeons whenever they start talking about my supposedly poor health.;;;;;;;;;;;;x
 EVTDESCCHFP20668;After so many days spent waiting for a worthy enough target, I jumped on the ambassador like a feral beast. I struggled to overcome him, my body was too weak after my self-imposed deprivation. Even worse, his meat lost all its flavor after only a few bites. Perhaps suffering is a necessary condiment...;;;;;;;;;;;;x
 EVTOPTAHFP20668;How tedious...;;;;;;;;;;;;x
-EVTOPTA301_legchildren_TOOLTIP;All of §Y[Root.GetTitledFirstName]'s§! other children's opinion of [Root.GetHerHim] changes by §R-40§! for §Y12§! months. §Y(Legitimized Bastard)§!;;;;;;;;;;;;x
+EVTOPTA301_legchildren_TOOLTIP;§Y[Root.GetTitledFirstName]§!のすべての他の子供たちの[Root.GetHerHim]の評価が§Y12§!か月にわたって§R-40§!されます。§Y(準正嫡出子)§!;;;;;;;;;;;;x
 emptied_library;空っぽの図書館;;;;;;;;;;;;x
 emptied_library_desc;This character's private library has been emptied of some of its more important books. It will take some time before the character will be able to acquire copies of them.;;;;;;;;;;;;x
 EVTDESCHFP21003;[From.GetTitledFirstName] is far beyond my reach. I should stop attempting to sway [From.GetHerHim] to my cause.;;;;;;;;;;;;x
@@ -2550,7 +2550,7 @@ EVTOPTDHFP21046;私にふさわしくない振る舞いだ。;;;;;;;;;;;;x
 EVTDESCAHFP21047;[From.GetTitledFirstName] decided to gift me one of [From.GetHerHis] most prized books, hoping it will help me in my search for knowledge as it helped [From.GetHerHim] in [From.GetHerHis] own endeavors.;;;;;;;;;;;;x
 EVTDESCBHFP21047;[From.GetTitledFirstName] sent me the most thoughtful letter. In it, [From.GetSheHe] explored all the proper rituals of worship that any good [From.Religion.GetName] should follow.;;;;;;;;;;;;x
 EVTDESCCHFP21047;[From.GetTitledFirstName] wished to inform me that I am free to take as many books as I wish from [From.GetHerHis] library in case I need any for whatever reason.;;;;;;;;;;;;x
-EVTOPTAHFP21047;I am flattered!;;;;;;;;;;;;x
+EVTOPTAHFP21047;光栄です！;;;;;;;;;;;;x
 EVTOPTBHFP21047;This is very nice of [From.GetHerHim].;;;;;;;;;;;;x
 EVTOPTCHFP21047;Books? Pah!;;;;;;;;;;;;x
 EVTDESCAHFP21048;そのような貴重な本との別れは簡単なものではなかった。が、一連の行為は無駄ではなかった。[From.GetTitledFirstName]は、私が考え抜いた贈り物にひどく感銘を受けた。;;;;;;;;;;;;x
@@ -3097,7 +3097,7 @@ EVTOPTCHF20101;[godfather_option_3.GetTitledFirstName]は有力な選択肢だ�
 EVTOPTDHF20101;[godfather_option_4.GetFirstName]が良いだろう。;;;;;;;;;;;;x
 EVTDESCAHF20102;[From.GetTitledFirstName] will initiate little [FromFromFrom.GetFirstName] to the dark rites from the cradle. I was offered the honor to accompany the child on [FromFromFrom.GetHerHis] dark path as [FromFromFrom.GetHerHis] god[Root.GetFatherMother].;;;;;;;;;;;;x
 EVTDESCBHF20102;[From.GetTitledFirstName] は、 [From.GetHerHis] の [FromFromFrom.GetSonDaughter] の洗礼に伴い、盛大な式典を開催することに決め、[From.GetSheHe] は、私にその子供の代[Root.GetFatherMother]となる名誉を与えることにした。;;;;;;;;;;;;x
-EVTOPTAHF20102;I am flattered.;;;;;;;;;;;;x
+EVTOPTAHF20102;光栄です。;;;;;;;;;;;;x
 EVTDESCAHF20103;秘密の会合に集まったフードの崇拝者達は子供を取り囲み、おぞましい詩を詠唱する。他の純真無垢な犠牲者達は[baptizing_child.GetHerHim]の上に血を流し、小さな[baptizing_child.GetFirstName]は闇と血の中で洗礼を受け、永遠にルシファーに束縛される。;;;;;;;;;;;;x
 EVTDESCBHF20103;[scoped_pope.GetTitledFirstName]は多くの枢機卿に囲まれながら、子供を三回洗い清め、その魂を守るために祈りの言葉を唱えた。そして[scoped_pope.GetSheHe]は[baptizing_child.GetFirstName]を少し掲げて大聖堂に集まった群衆に見えるようにし、将来家臣となる者たちの歓声を一身に浴びせた。;;;;;;;;;;;;x
 EVTDESCCHF20103;[scoped_pope.GetTitledFirstName]は子供を三回洗い清め、その魂を守るために祈りの言葉を唱えた。そして[scoped_pope.GetSheHe]は小さな[baptizing_child.GetFirstName]を、教会に集まった群衆に見えるよう高く掲げた。;;;;;;;;;;;;x
@@ -3535,7 +3535,7 @@ tooltip_22022_C;§Y[From.GetTitledFirstName]§!の侮辱を許す。;;;;;;;;;;;;
 EVTOPTDHF22022;だからなんだ？;;;;;;;;;;;;x
 tooltip_22022_D;Inform §Y[From.GetTitledFirstName]§! that you care little about [From.GetHerHis] moralizing.;;;;;;;;;;;;x
 EVTOPTEHF22022;[From.GetSheHe]にやられた!;;;;;;;;;;;;x
-EVTDESCHF22023;It looks like [From.GetTitledFirstName] is exclusively concerned with preventing the rumors I spread about [From.GetHerHim] from in any way jeopardizing [From.GetHerHis] legitimacy. [From.GetSheHeCap] seems to perceive my attack more as an annoyance than the grievous insult I intended...;;;;;;;;;;;;x
+EVTDESCHF22023;どうやら[From.GetTitledFirstName]は、私が[From.GetHerHim]について広めた噂が[From.GetHerHis]の正当性を危うくするのを防ぐことにもっぱら関心があるようだ。[From.GetSheHeCap]は私の攻撃を、私が意図していたひどい侮辱よりも迷惑に捉えているようだ…;;;;;;;;;;;;x
 EVTOPTAHF22023;もっと厳しい言葉を使うべきだったかな。;;;;;;;;;;;;x
 EVTDESCHF22024;[From.GetTitledFirstName]'s humility outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] accepted my slander as rightful criticism.;;;;;;;;;;;;x
 EVTOPTAHF22024;[From.GetSheHe]には誇りが無いのか？;;;;;;;;;;;;x
@@ -5082,7 +5082,7 @@ b_jouhe;Jouhe;;;;;;;;;;;;x
 b_saintylie;Saint-Ylie;;;;;;;;;;;;x
 b_belin;Belin;;;;;;;;;;;;x
 b_bellevaux;Bellevaux;;;;;;;;;;;;x
-b_ask_romerike;Ask;;;;;;;;;;;;x
+b_ask_romerike;アスク;;;;;;;;;;;;x
 b_sorumsand;Sørumsand;;;;;;;;;;;;x
 b_nannestad;Nannestad;;;;;;;;;;;;x
 b_hurdal;Hurdal;;;;;;;;;;;;x
@@ -5682,7 +5682,7 @@ ca_culture_germanic_1;[GetGermanic]歩兵兵舎;;;;;;;;;;;;x
 ca_culture_germanic_2;[GetGermanic]歩兵兵舎;;;;;;;;;;;;x
 ca_culture_germanic_3;[GetGermanic]歩兵兵舎;;;;;;;;;;;;x
 ca_culture_germanic_4;[GetGermanic]歩兵兵舎;;;;;;;;;;;;x
-ca_culture_germanic_1_desc;The heavy infantry formations of the [old_frankish.GetName] and [lombard.GetName] are heavily influenced by the [roman.GetName] army's organization and tactics. Here is where these elite warriors are trained and drilled to be ready for battle in the service of their liege.;;;;;;;;;;;;x
+ca_culture_germanic_1_desc;[old_frankish.GetName]、[lombard.GetName]における重歩兵隊形は、[roman.GetName]軍の編成と戦術から重く影響されている。この施設では、そういったエリート歩兵群が戦争において存分に主に尽力せんと軍事訓練や演習を重ねている。;;;;;;;;;;;;x
 ca_culture_pictish_1_desc;The Hall of War is where the most experienced and fierce of the [pictish.GetName] warriors gather to train their skills and exchange stories of battle. When the horns call them to war they are a fearsome force - woe to those that come in their path!;;;;;;;;;;;;x
 ca_culture_chinese_han_1_desc;Since the days of Zhuge Liang and the invention of his crossbow, [chinese_group.GetGroupName] soldiers carry an advantage on the battlefield. Here they gather, turning proficiency into mastery.;;;;;;;;;;;;x
 ca_culture_tibetan_desc;[GetHimalayanDesc];;;;;;;;;;;;x
@@ -5778,9 +5778,9 @@ zvonimir_desc;A peaceful ruler who rose to kingship through skilled diplomacy. H
 brian_boru_desc;アイルランドの崇高な王で伝説の存在。アイルランドの部族の長を戦いの中統一し、島のバイキング支配を終わらせた。;;;;;;;;;;;;x
 songtsen_gampo_desc;いくつかのチベット王国を統一した吐蕃帝国の創始者。仏教をチベットに導入して、チベット文字を作成した人物です。;;;;;;;;;;;;x
 merovingian_desc;The legendary founder of the Merovingian dynasty. He joined his tribal forces with Rome to drive the Huns out of Gaul, ending Attila's ambitions in the area.;;;;;;;;;;;;x
-solomon_desc;The Solomonid Dynasty claim direct descendance from the biblical Solomon, a king of Israel famed for legendary wisdom and wealth.;;;;;;;;;;;;x
+solomon_desc;ソロモン朝は旧約聖書に記されている伝説的なイスラエル王ソロモンの直系子孫であると主張しています。;;;;;;;;;;;;x
 attila_desc;クブラトは多くの部族をその旗の下に団結させ、古代ローマで最も恐れられた人物の一人であるアッティラの子孫であると主張している。;;;;;;;;;;;;x
-ashina_desc;The Ashina clan rose to prominence after revolting against the Rouran Khaganate. Members of the clan are considered sacred, if not divine, by the people of the steppe.;;;;;;;;;;;;x
+ashina_desc;アシナ氏族は柔然可汗国に対する反乱の後に勃興しました。氏族の人間は草原の民からいかなる場合も神聖視されました。;;;;;;;;;;;;x
 bagratid_desc;世界最古のキリスト教王朝の1つ。バグラトの子孫たちは何世紀にも渡りジョージアに繁栄をもたらした。;;;;;;;;;;;;x
 parthian_desc;サーサーン朝によって支配された7のパルティア氏族のうちの1つの子孫です。7氏族、または7家はペルシアの歴史において重要な役割を果たしました。;;;;;;;;;;;;x
 sassanid_desc;サーサーン朝の創始者。偉大な戦士、狩人、そしてゾロアスター教の指導者てして知られている。;;;;;;;;;;;;x
@@ -7553,7 +7553,7 @@ EVTOPTAHF21144;This is the perfect opportunity to capture [From.GetHerHim]!;;;;;
 tooltip_21144_ambush_succeeds;§Y[From.GetTitledFirstName]§! is captured.;;;;;;;;;;;;x
 tooltip_21144_ambush_fails;The ambush fails.;;;;;;;;;;;;x
 EVTOPTBHF21144;I will make my reasons clear.;;;;;;;;;;;;x
-EVTDESCHFA21145;Unfortunately, it appears that [From.GetTitledFirstName] is not interested in limiting [From.GetHerHis] option when fighting against my troops, probably not trusting that I would do the same.;;;;;;;;;;;;x
+EVTDESCHFA21145;残念ながら、[From.GetTitledFirstName]は私の部隊と戦う際に手心を加えることには興味がないようで、おそらく私が同じことをするだろうとは信じていない。;;;;;;;;;;;;x
 EVTDESCHFB21145;Unfortunately, it appears that [From.GetTitledFirstName] is not interested in talks of peace right now.;;;;;;;;;;;;x
 EVTDESCHFC21145;不幸にも[From.GetTitledFirstName]は私のことをじかに会うほどの十分な信用はしていないように思える。;;;;;;;;;;;;x
 EVTOPTAHF21145;なんてことだ…;;;;;;;;;;;;x
@@ -10494,8 +10494,8 @@ EVTOPTB_HFP_11042;[commander_cannon_fodder.GetTitledFirstName]を私の代わり
 EVTOPTC_HFP_11042;これで最期か…;;;;;;;;;;;;x
 nick_the_traitor;裏切り者;;;;;;;;;;;;x
 opinion_betrayed_me_in_battle;Betrayed Me In Battle;;;;;;;;;;;;x
-battlefield_betrayal;Battlefield Betrayal;;;;;;;;;;;;x
-battlefield_betrayal_desc;This character is rumored to have sold out an ally on the battlefield...!;;;;;;;;;;;;x
+battlefield_betrayal;戦場の裏切り;;;;;;;;;;;;x
+battlefield_betrayal_desc;この人物は戦場において味方を売ったと噂されています…！;;;;;;;;;;;;x
 EVTDESC_HFP_11043_A;It seems that the enemy commander [other_combatant.GetTitledFirstName] actually expected me to play fair when [other_combatant.GetSheHe] chased me down on the battlefield. "Just you and me!" the [other_combatant.GetManWoman] demanded, sword held high. My men quickly joined me in taking the fool down.;;;;;;;;;;;;x
 EVTDESC_HFP_11043_B;I was swinging my [Root.GetDuelWeapon] with increasing precision, but I am not sure the enemy commander [other_combatant.GetTitledFirstName] realized that [other_combatant.GetSheHe] was going to perish on this battlefield, until I landed a deadly blow to [other_combatant.GetHerHis] skull, cracking it audibly open.;;;;;;;;;;;;x
 EVTDESC_HFP_11043_C;It was surprising, but with each swing of my [Root.GetDuelWeapon], [other_combatant.GetTitledFirstName] seemed to have increasing difficulty controlling [other_combatant.GetHerHis] stance. All in all it was close, but in the end I landed a lucky blow to [other_combatant.GetHerHis] temple...;;;;;;;;;;;;x
@@ -13697,10 +13697,10 @@ EVTDESCBHFP20801;I should always strive to look at my best if I wish to find a g
 EVTDESCCHFP20801;最愛の配偶者のために私はいつも最善を尽くすよう努力すべきだ。それは簡単な仕事ではなかったが、適切な注意を払い、日々良くなってきていると思っている。;;;;;;;;;;;;x
 EVTDESCDHFP20801;If I wish to be successful in my amorous adventures, I must look at my very best. Nobody will fall for my words if I look like a toad. It has not been an easy job, but, with the proper care, I think I am managing to look better and better every day.;;;;;;;;;;;;x
 EVTOPTAHFP20801;それについて疑うことは何もない。;;;;;;;;;;;;x
-EVTDESCAHFP20802;While all this time spent outside is undoubtedly good for my health, it has not worked as well for my looks. Every night, when I return home, my clothes are soiled in dirt and mud, and my hair bears the stink of wet dogs.;;;;;;;;;;;;x
+EVTDESCAHFP20802;屋外で過ごす時間は疑いようもなく健康に良い。一方で、私の外見には何も変わりない。毎夜、帰るたびに私の衣服は泥やほこりに塗れ、髪からは湿気った犬のような悪臭が漂っていた。;;;;;;;;;;;;x
 EVTDESCCHFP20802;While my training has greatly improved my physical prowess and my skills in combat, it has not had a positive effect on my looks. My skin has grown rough and blemished by a countless amount of old bruises and small scars.;;;;;;;;;;;;x
 EVTOPTAHFP20802;I cannot afford myself to look like this!;;;;;;;;;;;;x
-EVTOPTBHFP20802;And so what? Looks do not matter.;;;;;;;;;;;;x
+EVTOPTBHFP20802;だから何だというのだ？見た目は重要ではない。;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_FAITH_THREATENED;The [From.Religion.GetName] faith is under siege;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_FAITH_THREATENED_FORREALS;The [From.Religion.GetName] faith is on the verge of destruction;;;;;;;;;;;;x
 nick_the_vain;the Vain;;;;;;;;;;;;x
@@ -15953,7 +15953,7 @@ b_ak_terek;Ak Terek;;;;;;;;;;;;x
 b_tosor;Tosor;;;;;;;;;;;;x
 b_korday;Korday;;;;;;;;;;;;x
 b_keru;Keru;;;;;;;;;;;;x
-b_asa;Asa;;;;;;;;;;;;x
+b_asa;エイサ;;;;;;;;;;;;x
 b_akchulak;Akchulak;;;;;;;;;;;;x
 b_sheker;Sheker;;;;;;;;;;;;x
 b_myrzatay;Myrzatay;;;;;;;;;;;;x
@@ -19739,7 +19739,7 @@ africa_rain_status_title;[Root.PrimaryTitle.GetName]を渡る風;;;;;;;;;;;;x
 africa_drought_status_title;[Root.PrimaryTitle.GetName]に照りつける太陽;;;;;;;;;;;;x
 EVTDESC_HF_15110;[GetWeatherReport] [GetRainConsequence];;;;;;;;;;;;x
 EVTOPTA_HF_15110;必ず商人に十分な蓄えをさせよ。;;;;;;;;;;;;x
-EVTOPTB_1_HF_15110;Have people keep an eye on our rivers and lakes.;;;;;;;;;;;;x
+EVTOPTB_1_HF_15110;河川や湖の巡回をさせよう。;;;;;;;;;;;;x
 EVTOPTB_2_HF_15110;道が浸水していないか人を遣わそう。;;;;;;;;;;;;x
 EVTOPTC_HF_15110;余った穀物を将来に備えて蓄えよう。;;;;;;;;;;;;x
 SO_IT_IS;ああ、そうだな。;;;;;;;;;;;;x

@@ -382,9 +382,9 @@ ERA_CHAR_INFO_98003;ベーラ四世はハンガリーのアールパード王朝
 ERA_CHAR_INFO_478011;フレグはチンギス・カンの孫であった。彼の兄モンケが大カーンになったとき、フレグは西アジアの残りのイスラム教徒の領土を征服するよう命じられた。彼の遠征では、モンゴル最大の軍隊が編成され、それはバグダッドとダマスカスという重要なムスリムの都市を荒廃させた。このことは如実にイスラム国家の重心を西方のカイロのマムルークに移動させることとなった。彼はまたハシシ（暗殺教団）を破壊する責任も担っていた。彼が征服した土地は中東の大国となったイルハン朝の土台となった。;;;;;;;;;;;;x
 ERA_CHAR_INFO_471500;カジミェシュ大王は1333年にポーランドの王位を継承し、父親に続きポーランド王国を統一するために動き続けた。彼は生涯の間、自分の領土を東に広げて西部国境を固めようと軍事行動を起こし続けた。ハンガリーの貴族たちの支持を得るために、子供に相続させないという条件で、彼らにもポーランドの王位を約束した。残念ながら、彼は4人と結婚したにもかかわらず正当な男性跡継ぎを育てることはできず、彼が1370年に死亡するとハンガリー人はポーランド人の王冠を要求し、ピャスト朝は断絶した。;;;;;;;;;;;;x
 EVTTITLE_CM_1070;オジェ・ル・ダノワ;;;;;;;;;;;;x
-EVTDESC_CM_1070;My Lord, there is a visitor at the gate, a Norseman calling himself Ogier. He looks strong and rugged but also speaks with grace and has a noble bearing. He says he comes from the land of the Danes and has travelled far to offer his services to you, naming you rightful lord of all Christians. He also claims to have seen in a dream how you will conquer all and your name will rise in glory to the Heavens.;;;;;;;;;;;;x
-EVTOPTA_CM_1070;Welcome this bringer of good prophecies!;;;;;;;;;;;;x
-EVTOPTB_CM_1070;We don't need his kind here.;;;;;;;;;;;;x
+EVTDESC_CM_1070;我が君、門前まで訪問者が来ております。この北欧人は自らをオジェと呼んでおります。屈強で厳つそうな見た目とは裏腹に、語り口は優雅でふるまいには高潔さが表れています。デンマークの地より我が君への奉仕を求めて遥々参上したと申しております。キリスト教徒全ての正統な統治者だという名声を耳にしているとも。また、夢を見たとも申し立てております。我が君が如何にして全てを征服し、栄光の内にその名声を天上にまで高め得るのか。それを見たと。;;;;;;;;;;;;x
+EVTOPTA_CM_1070;よくぞ来られた、善き予言をもたらす者よ！;;;;;;;;;;;;x
+EVTOPTB_CM_1070;ここでは、彼の親切を必要としていない。;;;;;;;;;;;;x
 tribal_count;族長;;;;;;;;;;;;x
 tribal_county_of;族長領;;;;;;;;;;;;x
 EVTDESC_CM_2000;我が[Root.GetLordLady]よ、一人の貴族の戦士が、城門に現れました。本人によると、彼は数多の戦場を経験した強者で、あなたの一族の擁護者となることを望んでいます。もし彼を従者にしたならば、彼はあなたの知恵と名誉と誓約を称え、あなたと御家族を常に守護します。;;;;;;;;;;;;x
@@ -647,7 +647,7 @@ EVTOPTA_CM_5000;I guess there is nothing I can do about it.;;;;;;;;;;;;x
 EVTDESC_CM_5001;Lately, you son Ragnarr has taken to wearing a pair of heavy, shaggy breeches for protection while practising his combat skills. Because of this, your kinsmen and friends have started calling him '[From.GetFirstName] Loðbrok'.;;;;;;;;;;;;x
 EVTOPTA_CM_5001;I like it!;;;;;;;;;;;;x
 convert_to_french;カロリング朝ルネサンスを受容;;;;;;;;;;;;x
-convert_to_french_desc;In our Realm, latin ways and words are increasingly melding in with our Germanic heritage. This tendency is seen above all in learned texts and matters of state and religion. Perhaps we should take the step in earnest and promote this cultural change...;;;;;;;;;;;;x
+convert_to_french_desc;我らの領国において、ラテン的なしきたりや言語が我らゲルマンの伝統にますます溶け込んできている。この社会的流れはとりわけ聖句や国事、宗務の修習において顕著である。ことによると、我々は本格的に何らかの措置を講じて、この文化的転換を促進すべきなのではないか…;;;;;;;;;;;;x
 convert_to_scottish;スコットランド文化を受容;;;;;;;;;;;;x
 convert_to_scottish_desc;Many of our subjects are adopting new ways and traditions brought in by foreigners, integrating them with local customs. Perhaps we should do the same...;;;;;;;;;;;;x
 convert_to_andalusian;アンダルシア文化を受容;;;;;;;;;;;;x
