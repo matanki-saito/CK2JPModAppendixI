@@ -7140,15 +7140,15 @@ EVTOPTB_HF_42026_SCHOLAR;[From.GetFirstName]はわかっているな。;;;;;;;;;
 EVTOPTB_HF_42026_STEWARD;[From.GetSheHeCap]はおそらく道に迷っていると知ってる。;;;;;;;;;;;;x
 EVTOPTB_HF_42026_TORTURE;そうではなく、じわじわと責めるべきだ。;;;;;;;;;;;;x
 EVTDESC_HF_42027_HUNT;我々は探していたイノシシと遭遇したが、[From.GetFirstName]は攻撃の命令を出そうとしない。[From.GetSheHe]が好機を待っているのかどうか私にはわからない。なにかをしようとしているのか、怖気づいているのかもはっきりしない。;;;;;;;;;;;;x
-EVTDESC_HF_42027_DUEL;我々はついに武芸大会の決勝戦まで勝ち進み、最後の対戦者は二人の巨漢であった。[From.GetFirstName]は機会をうかがいながら、前に出たり後ろに下がったりして敵の攻撃を避けていた。明らかに相手を疲れさせようとしている。;;;;;;;;;;;;x
+EVTDESC_HF_42027_DUEL;我々はついに武芸大会の決勝戦まで勝ち進み、二人の巨漢が最後の対戦者となった。[From.GetFirstName]は機会をうかがいながら、前に出たり後ろに下がったりして敵の攻撃を避けていた。明らかに相手を疲れさせようとしている。;;;;;;;;;;;;x
 EVTDESC_HF_42027_GAME;両軍の衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。[From.GetFirstName]が自分の駒を出し惜しんでいる一方で、私は駒を非常に危険な場所に置いて、かなりの被害をだしている。どうも[From.GetSheHe]と私のあいだに行き違いのようなものがあるように思える。;;;;;;;;;;;;x
 EVTDESC_HF_42027_SOCIAL;夜が更けていくにしたがい、私はこの集まりを楽しんでいた。[From.GetFirstName]は時折、私に話し相手を連れてきてくれて、とてもすばらしいホスト役を務めてくれたと思う。ホストというものはやや強引であるべきなのだろうか？;;;;;;;;;;;;x
 EVTDESC_HF_42027_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は相手方に彼らの考えを述べさせようとした。;;;;;;;;;;;;x
 EVTDESC_HF_42027_STEWARD;何分か経って、[From.GetFirstName]は我々が巨大迷路のなかで迷っているということを認めた。[From.GetSheHeCap]はどうやってここから抜け出すべきか、私の意見を聞いてきた。;;;;;;;;;;;;x
-EVTDESC_HF_42027_TORTURE;[From.GetFirstName] picks out one of the prisoners, and puts the individual at a Judas cradle. Every five minutes [From.GetFirstName] lowers the individual a bit further down on the device, making small talk as [From.GetSheHe] proceeds.;;;;;;;;;;;;x
+EVTDESC_HF_42027_TORTURE;[From.GetFirstName]は囚人の1人を選び出し、ユダのゆりかごに乗せた。[From.GetFirstName]は雑談をしながら、5分ごとに犠牲者を少しずつ器具へと下していった。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_HUNT;I will rush in and take care of it myself!;;;;;;;;;;;;x
-EVTOPTA_HF_42027_DUEL;The offense is the only way to take people like that out.;;;;;;;;;;;;x
-EVTOPTA_HF_42027_GAME;Fine, I will win this on my own then!;;;;;;;;;;;;x
+EVTOPTA_HF_42027_DUEL;こういう奴らを倒すには攻撃あるのみだ。;;;;;;;;;;;;x
+EVTOPTA_HF_42027_GAME;よし、これなら私の手で勝利できるだろう！;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SOCIAL;I should try and find some company for the night. ;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SCHOLAR;We need to be assertive, and I will speak my mind.;;;;;;;;;;;;x
 EVTOPTA_HF_42027_STEWARD;We should just keep walking, and we will find our way in the end.;;;;;;;;;;;;x
@@ -7177,7 +7177,7 @@ EVTDESC_HF_42028_TORTURE_FAILURE;Several of the specimen broke as we conducted o
 EVTOPTA_HF_42028_HUNT;We all fought as best we could.;;;;;;;;;;;;x
 EVTOPTA_HF_42028_DUEL;This fight is more than I could have hoped for.;;;;;;;;;;;;x
 EVTOPTA_HF_42028_GAME;It was a brutal close match. ;;;;;;;;;;;;x
-EVTOPTA_HF_42028_SOCIAL;Hopefully [From.GetSheHe] had fun.;;;;;;;;;;;;x
+EVTOPTA_HF_42028_SOCIAL;[From.GetSheHe]が楽しんでくれればいいのだが。;;;;;;;;;;;;x
 EVTOPTA_HF_42028_SCHOLAR;この議論から多くのことを学んだ。;;;;;;;;;;;;x
 EVTOPTA_HF_42028_STEWARD;That.. could have been worse, right?;;;;;;;;;;;;x
 EVTOPTA_HF_42028_TORTURE;Next time it will be even better.;;;;;;;;;;;;x
@@ -7241,9 +7241,9 @@ TT_SUCCESSFUL_SWAY_EVENT;a successful outcome;;;;;;;;;;;;x
 TT_PARTLY_SUCCESFUL_SWAY_EVENT;a partly successful outcome;;;;;;;;;;;;x
 TT_UNSUCCESSFUL_SWAY_EVENT;an unsuccessful outcome;;;;;;;;;;;;x
 TT_DISASTROUS_SWAY_EVENT;a disastrous outcome;;;;;;;;;;;;x
-opinion_weak_hunter;Weak Hunter;;;;;;;;;;;;x
-opinion_weak_duelist;Weak Duelist;;;;;;;;;;;;x
-opinion_fought_together;Fought Together;;;;;;;;;;;;x
+opinion_weak_hunter;下手な狩人;;;;;;;;;;;;x
+opinion_weak_duelist;弱い決闘家;;;;;;;;;;;;x
+opinion_fought_together;ともに戦った仲;;;;;;;;;;;;x
 opinion_helpful_ally;Helpful Board Game Ally;;;;;;;;;;;;x
 opinion_unhelpful_ally;Unhelpful Board Game Ally;;;;;;;;;;;;x
 opinion_party_friend;宴会仲間;;;;;;;;;;;;x
