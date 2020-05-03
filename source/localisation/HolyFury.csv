@@ -1307,8 +1307,8 @@ EVTDESCHFP20435;All my pleads have been for naught: my wife keeps sneaking out e
 EVTOPTAHFP20435;I do not know what else to do.;;;;;;;;;;;;x
 EVTDESCHFP20436;前これについて自分が話をした時は妻に怒鳴られたのにも関わらず、驚いたことに妻は遂に自分のヒステリーを治してしまったようだ。もう妻は誰に対しても前より上手く接することができるようになっている。;;;;;;;;;;;;x
 EVTOPTAHFP20436;願わくばこれが一時のものではないことを;;;;;;;;;;;;x
-EVTDESCHFP20437;Curses! I did not even manage to make my case: my wife just snapped at me and pushed me over the stairs. ...I think I broke something.;;;;;;;;;;;;x
-EVTOPTAHFP20437;At least I am out of reach, for now.;;;;;;;;;;;;x
+EVTDESCHFP20437;忌々しい！なんとか話しを聞いてもらおうとしたが、それすら叶わず：妻は一方的にまくし立てると、私を階段へと押し倒した。…何かを壊してしまったかのようだ。;;;;;;;;;;;;x
+EVTOPTAHFP20437;少なくとも、手の届かぬところに居る。今のところは。;;;;;;;;;;;;x
 EVTDESCHFP20438;It is such a relief to see my wife alive again! I was really starting to worry, but she finally managed to recover from her depression.;;;;;;;;;;;;x
 EVTOPTAHFP20438;Now if only she could stop talking for once in awhile...;;;;;;;;;;;;x
 EVTDESCHFP20439;I do not know what to do with my wife anymore: I can barely recognize her, all gloom and pale, she looks like a ghost. She has become completely unresponsive to everything and everyone.;;;;;;;;;;;;x
@@ -4325,10 +4325,10 @@ EVTOPTA_HFP_10118_TT;You will send a letter to §Y[other_combatant.GetTitledFirs
 EVTOPTB_HFP_10118;[other_combatant.GetSheHeCap] must never know...!;;;;;;;;;;;;x
 EVTDESC_HFP_10119_finally_lovers;I have received a letter from [From.GetTitledFirstName], containing a rather solemn declaration of love. Upon reading it, my eyes start stinging, and I have to sit down. [From.GetHerHisCap] words are anxious, expectant. Does [From.GetSheHe] not know how I have harbored feelings for [From.GetHerHim] too?;;;;;;;;;;;;x
 EVTDESC_HFP_10119_A;I have received a letter from [From.GetTitledFirstName], praising both my beauty and combat prowess. "Oh", I mumble. "A love letter?" The servant who handed it to me nods. "I... I guess that [From.GetRomanticObstacle], but...", I mumble. The [Root.GetBoyGirl] shifts uncomfortably, but I am re-reading the words, over and over.;;;;;;;;;;;;x
-EVTDESC_HFP_10119_B;"Dear [Root.GetFirstName]", the letter begins. As I keep reading, I feel my ears grow hot. A love letter? From [From.GetTitledFirstName]? I scratch my head. While I'm aware that [From.GetRomanticObstacle], I find my heart skipping a beat.;;;;;;;;;;;;x
+EVTDESC_HFP_10119_B;「親愛なる[Root.GetFirstName]」そんな書き出しでその手紙は始まった。そのまま読み進めると、耳が熱くなるような気さえする。恋文か？[From.GetTitledFirstName]から？頭をかきむしる。[From.GetRomanticObstacle]であると認識していながら、私の心臓は鼓動を激しくするのであった。;;;;;;;;;;;;x
 EVTDESC_HFP_10119_C;"I was told to give this to you in person", the servant says, handing me a letter, with the seal of [From.GetTitledFirstName]. "I think it's a love letter, [Root.GetMasterMistress]", the [Root.GetBoyGirl] continues. "From [From.GetFirstName]?" I ask incredulously, snatching the papers from [Root.GetHerHis] hands. After reading it, I am stuck re-reading it, over and over.;;;;;;;;;;;;x
-EVTOPTA_HFP_10119;Servant! Fetch me a scribe! I have to respond to this love letter.;;;;;;;;;;;;x
-EVTOPTB_HFP_10119;I would rather pretend I never received these news.;;;;;;;;;;;;x
+EVTOPTA_HFP_10119;誰ぞある！書字生を連れてまいれ！この恋文への返信ををせねば。;;;;;;;;;;;;x
+EVTOPTB_HFP_10119;むしろ、この報せを受け取らなかったことにしたい。;;;;;;;;;;;;x
 EVTOPTA_HFP_10119_TT;§Y[From.GetTitledFirstName]§! has received the opinion modifier §YBudding Romance§! towards §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;x
 EVTDESC_HFP_10120_finally_lovers;As a servant [Root.GetBoyGirl] hands me a letter, I sigh. I've waited to hear from [From.GetFirstName] for what feels like ages, and every letter I receive in its stead feels like mockery. "What's this seal?" I mumble, suddenly curious. Soon, relief is washing over me. "[From.GetSheHeCap] wants to see me!" I laugh, and the servant smiles.;;;;;;;;;;;;x
 EVTDESC_HFP_10120_A;While awaiting news from [From.GetFirstName], I have tried occupying myself... I briefly entertained the idea of courting a visiting diplomat, but I quickly realized it was only because [From.GetHerHis] hair was the exact same shade of color as that of [From.GetFirstName]'s... It seems silly now, reading the heartfelt words my [From.GetLordLady] has sent me.;;;;;;;;;;;;x
@@ -4485,8 +4485,8 @@ EVTOPTA_HF_10031;I can't believe I wasn't always like this.;;;;;;;;;;;;x
 norse_leader;畏怖;;;;;;;;;;;;x
 tengri_leader;Marauder;;;;;;;;;;;;x
 tengri_leader_desc;This character possesses great ability as a rider, thundering across the steppes.;;;;;;;;;;;;x
-baltic_leader;Forest Ambusher;;;;;;;;;;;;x
-baltic_leader_desc;This character is used to defending ancient and sacred woodlands.;;;;;;;;;;;;x
+baltic_leader;森の伏兵;;;;;;;;;;;;x
+baltic_leader_desc;この人物は古代から不可侵な森林地帯における撃退戦に慣熟しています。;;;;;;;;;;;;x
 finnish_leader;ツンドラの盾;;;;;;;;;;;;x
 finnish_leader_desc;This character is used to a harsh environment and blistering winters.;;;;;;;;;;;;x
 slavic_leader_desc;This character stands firmly on flat terrain, an inspiring figure for [GetHerHis] troops.;;;;;;;;;;;;x
@@ -4502,7 +4502,7 @@ has_warrior_training_with_current_society_tt;Has gained a Commander trait from [
 has_no_warrior_training_with_current_society_tt;[From.Society.GetName]の指揮官特性を保持していない\n;;;;;;;;;;;;x
 has_religion_matching_joined_warrior_lodge_tt;Has a religion that corresponds with [This.Society.GetName]\n;;;;;;;;;;;;x
 warrior_training;戦士の訓練;;;;;;;;;;;;x
-warrior_training_desc;As a member of §Y[From.Society.GetName]§!, you are becoming familiar with their training and what they value – you may gain a §YCommander Trait§! to reflect this.;;;;;;;;;;;;x
+warrior_training_desc;§Y[From.Society.GetName]§!の一員として、彼等のトレーニングを通じ何を肝心としているかを理解していきます－その影響により§Y指揮官特性§!を取得できるかもしれません。;;;;;;;;;;;;x
 EVTDESC_HF_10040_A;「[Root.Religion.GetHighGodNameCap]は貴方を誇りに思うでしょう」[fellow_member.GetTitledFirstName]は私にそう言って、[GetWarriorLodgeTrainingDesc];;;;;;;;;;;;x
 EVTDESC_HF_10040_B;「実に見事な献身ぶりでした」[fellow_member.GetTitledFirstName]は私にそう言って、[GetWarriorLodgeTrainingDesc];;;;;;;;;;;;x
 EVTOPTA_HF_10040;ありがとう、[fellow_member.GetFirstName]。とても嬉しいよ。;;;;;;;;;;;;x
@@ -8345,7 +8345,7 @@ tooltip_can_build_ca_wall_q_4;地元のインフラが§Y城砦の防衛設備§
 tooltip_can_build_ca_wall_q_5;地元のインフラが§Y城砦の防衛設備§!の改良を補助します;;;;;;;;;;;;x
 scarred_mid;酷い傷痕;;;;;;;;;;;;x
 scarred_mid_desc;この人物には、一目でわかる傷跡が残されています。;;;;;;;;;;;;x
-scarred_high_desc;This character has seen [Root.GetHerHis] share of fights, as [Root.GetHerHis] face can attest.;;;;;;;;;;;;x
+scarred_high_desc;この人物は幾度もの戦いに貢献したようで、[Root.GetHerHis]の顔面がそれを物語っている。;;;;;;;;;;;;x
 EVTOPTZ_SOA_3020;Let my TRUE nature be revealed for all to see!;;;;;;;;;;;;x
 tooltip_EVTOPTZ_SOA_3020;The frightful appearance of the Antichrist will become apparent to all.;;;;;;;;;;;;x
 loc_is_revealed_antichrist;Antichrist: $GAIN|=10+$;;;;;;;;;;;;x
@@ -14683,7 +14683,7 @@ EVTOPTDHF24063;奴らは私の偉業が羨ましいだけだ！;;;;;;;;;;;;x
 EVTOPTEHF24063;聖職者を混乱させるべきではない。;;;;;;;;;;;;x
 EVTOPTAHF24064;高潔で美徳に満ちた領地のために。;;;;;;;;;;;;x
 EVTTITLEHF24065;The Patron of the Arts;;;;;;;;;;;;x
-EVTDESCAHF24065;In order to attract artists and philosophers to [Root.Capital.GetName] I need to offer patronage and protection, as well as make sure that my court is an open space for free thinkers, one where they are able to express themselves and research new concepts without risk of punishment.;;;;;;;;;;;;x
+EVTDESCAHF24065;[Root.Capital.GetName]を数多の芸術家と哲学者の集う都市にするためには、後援と庇護を申し出る必要があった。同様に、我が宮廷を自由思想家に開放し、咎を気にすることなく己を表現し得る、新しい概念を追求し得る場所とする必要もあった。;;;;;;;;;;;;x
 EVTOPTAHF24065;I will personally reorganize the court.;;;;;;;;;;;;x
 EVTOPTBHF24065;We will spare no expenses!;;;;;;;;;;;;x
 EVTOPTCHF24065;I should make known that artists are welcome here.;;;;;;;;;;;;x

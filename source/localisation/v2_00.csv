@@ -1284,7 +1284,7 @@ EVTOPTA_SoA_5425;我々はユダヤ教徒やキリスト教徒を、彼ら自身
 nick_the_master_of_hungary;ハンガリーの名士;;;;;;;;;;;;x
 insulted_realm_infidels;貴方の領地内で異教徒が侮辱されている。;;;;;;;;;;;;x
 EVTNAME_SoA_5345;滞在者;;;;;;;;;;;;x
-EVTDESC_SoA_5345;You have received a visitor, a monk from one of the monasteries on the fabled Mount Athos on the Chalkidiki peninsula in Greece. He tells you that the monks are constantly expanding their presence and constructing new monasteries at this most holy site. However, building for the glory of [Root.Religion.GetRandomGodName] requires earthly funds, he explains, and this is why he has come to see you.\n\nIf you would demonstrate your piety by donating a large sum of gold to the monasteries on Mount Athos, it would surely become known all over the land that you have done so, and you would of course also be mentioned in the monks' daily prayers.;;;;;;;;;;;;x
+EVTDESC_SoA_5345;修道士が来訪した、ギリシャはハルキディキ半島にそびえる彼の名高いアトス山の、とある修道院の修道士である。彼が言うには、そこの修道士たちは絶えずその存在感を拡大せんと、聖域の最奥に修道院新設しようとしているとのこと。しかしながら、[Root.Religion.GetRandomGodName]の栄華を実現するには俗世の財貨が必要であり、それが来訪の際たる理由であると、そう釈明した。\n\nもし、信心の証として大金をアトス山の修道院へと寄進するのであれば、その行いは必ずやあまねく知られるようになるだろう。また、修道士による日々の礼拝においても当然の如く讃えられるだろう。;;;;;;;;;;;;x
 EVTOPTA_SoA_5345;もちろん彼らは私に援助されるべきだろう！;;;;;;;;;;;;x
 EVTOPTB_SoA_5345;今手持ちがないのだ…;;;;;;;;;;;;x
 EVTNAME_SoA_5346;招待状;;;;;;;;;;;;x

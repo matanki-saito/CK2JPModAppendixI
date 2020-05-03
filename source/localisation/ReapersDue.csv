@@ -3472,12 +3472,12 @@ EVTDESC_RIP_30040;忠実なる封臣、[Root.GetTitledFirstName]に告げる。\
 EVTOPTB_RIP_30040;[FromFrom.GetSubjectPronounCap]は私に大きな借りを持つことだろう!!;;;;;;;;;;;;x
 EVTDESC_RIP_30041;[GetFromRootCompliment]である[Root.GetTitledFirstName]陛下へ\n\n分割相続制を望むものではありません。しかし、お申し出を断るなぞ夢にも思いません、我が君！\n\n忠実なる封臣, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30043;[GetFromRootCompliment]、[Root.GetTitledFirstName]陛下\n\n分割相続制の制定、ぞっとしません。ですが、大金との引き換えであればやぶさかではございません。ご理解いただけるかと。\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
-EVTOPTA_RIP_30043;Very well...;;;;;;;;;;;;x
+EVTOPTA_RIP_30043;よかろう…;;;;;;;;;;;;x
 EVTDESC_RIP_30044;To my vassal, [Root.GetTitledFirstName].\n\nI am willing to compensate you fairly in return for your institution of Gavelkind law. Your wisdom serves your people well.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30045;To my vassal, [Root.GetTitledFirstName].\n\nYour wish for monetary compensation in return for Gavelkind law is understandable. However, I cannot afford the sum you requested.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30045;My realm shall not be divided!;;;;;;;;;;;;x
 EVTDESC_RIP_30046;[GetFromRootCompliment]、[Root.GetTitledFirstName]へ。\n\nあなたの要望に応えられたらと思いますが、分割相続法は私の子孫に便宜を図ってはくれないでしょう。残念ですがお断りせねばなりません。\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
-EVTDESC_RIP_30047;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am willing to institute Gavelkind law. However, it would clearly not be in my best interests, so you would owe me a comparable Favor...\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_30047;[GetFromRootCompliment]、[Root.GetTitledFirstName]陛下\n\nやむをえませんが、分割相続法を制定しましょう。しかし、我が方の利益にならないことは明らか、であれば同等の貸しを…\n\n忠実なる封臣, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30048;To my loyal vassal, [Root.GetTitledFirstName].\n\nThank you for instituting Gavelkind law. I am in your debt, and promise to assist you when you ask for a favor in return!\n\nMost gratefully, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30049;To my vassal, [Root.GetTitledFirstName].\n\nI do understand your reluctance to change to Gavelkind succession. However, I will not be indebted to you. With some disappointment.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30050;To my loyal vassal, [Root.GetTitledFirstName].\n\nI am calling in that favor you owe me. I need you to change succession law to Gavelkind. Trust me, it is for the best...\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
