@@ -4004,7 +4004,7 @@ lustful_opinion_EXPLANATION;（好色の影響）;;;;;;;;;;;;x
 opinion_of_lustful_EXPLANATION;（好色への評価）;;;;;;;;;;;;x
 lustful_opinion;好色な人物への評価;;;;;;;;;;;;x
 opinion_of_lustful;好色に対する評価;;;;;;;;;;;;x
-PAGAN_BAPTISM_DESC_DELAYED;Select a ruler belonging to an organized religion, and petition him to sponsor the Mass Conversion of [Root.PrimaryTitle.GetName]. \nEmbracing one of the more civilized religions could help you in your efforts to centralize your realm and set aside your tribal ways.\n[Root.GetMassBaptismTribalAuthorityHint];;;;;;;;;;;;x
+PAGAN_BAPTISM_DESC_DELAYED;組織的な宗教に属する領主を選択することで、[Root.PrimaryTitle.GetName]における一斉改宗の支援を嘆願します。\nより文明的な宗教を受け入れることで今の部族的な社会から脱却し自分の領国をより集権化できるかもしれません。\n[Root.GetMassBaptismTribalAuthorityHint];;;;;;;;;;;;x
 CHARVIEW_COMBAT_RATING;§Y個人的な戦闘能力§!;;;;;;;;;;;;x
 ARTIFACT_MODIFIER_HEADER;§Y宝物の効果§!;;;;;;;;;;;;x
 NUM_CULTURE_PROVINCES_TRIGGER;同じ文化の州の数が$COMPARISON$$VALUE|Y$;;;;;;;;;;;;x
@@ -4327,7 +4327,7 @@ EVTDESC_HFP_10119_finally_lovers;I have received a letter from [From.GetTitledFi
 EVTDESC_HFP_10119_A;I have received a letter from [From.GetTitledFirstName], praising both my beauty and combat prowess. "Oh", I mumble. "A love letter?" The servant who handed it to me nods. "I... I guess that [From.GetRomanticObstacle], but...", I mumble. The [Root.GetBoyGirl] shifts uncomfortably, but I am re-reading the words, over and over.;;;;;;;;;;;;x
 EVTDESC_HFP_10119_B;「親愛なる[Root.GetFirstName]」そんな書き出しでその手紙は始まった。そのまま読み進めると、耳が熱くなるような気さえする。恋文か？[From.GetTitledFirstName]から？頭をかきむしる。[From.GetRomanticObstacle]であると認識していながら、私の心臓は鼓動を激しくするのであった。;;;;;;;;;;;;x
 EVTDESC_HFP_10119_C;"I was told to give this to you in person", the servant says, handing me a letter, with the seal of [From.GetTitledFirstName]. "I think it's a love letter, [Root.GetMasterMistress]", the [Root.GetBoyGirl] continues. "From [From.GetFirstName]?" I ask incredulously, snatching the papers from [Root.GetHerHis] hands. After reading it, I am stuck re-reading it, over and over.;;;;;;;;;;;;x
-EVTOPTA_HFP_10119;誰ぞある！書字生を連れてまいれ！この恋文への返信ををせねば。;;;;;;;;;;;;x
+EVTOPTA_HFP_10119;書記を呼べ！この恋文への返信をせねば。;;;;;;;;;;;;x
 EVTOPTB_HFP_10119;むしろ、この報せを受け取らなかったことにしたい。;;;;;;;;;;;;x
 EVTOPTA_HFP_10119_TT;§Y[From.GetTitledFirstName]§! has received the opinion modifier §YBudding Romance§! towards §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;x
 EVTDESC_HFP_10120_finally_lovers;As a servant [Root.GetBoyGirl] hands me a letter, I sigh. I've waited to hear from [From.GetFirstName] for what feels like ages, and every letter I receive in its stead feels like mockery. "What's this seal?" I mumble, suddenly curious. Soon, relief is washing over me. "[From.GetSheHeCap] wants to see me!" I laugh, and the servant smiles.;;;;;;;;;;;;x
@@ -4344,8 +4344,8 @@ EVTDESC_HFP_10121;My [GetMyChancellorName] [advisor_target.GetFirstName] clasps 
 EVTOPTA_HFP_10121;I will not give up on our love...!;;;;;;;;;;;;x
 EVTOPTB_HFP_10121;It is useless.;;;;;;;;;;;;x
 EVTDESC_HF_10004;我々は、熱意のある新人を熱望している。[new_recruit.GetManWoman]は[new_recruit.GetHerHis]と同じ新規加入希望者たちに対して、自分の力を示す必要があると、知らせる必要がある。;;;;;;;;;;;;x
-EVTOPTA_HF_10004;I'll put on my most intimidating face. Ahem.;;;;;;;;;;;;x
-EVTOPTA_HF_10004_TT;You'll approach the [new_recruit.GetManWoman] to explain the initiation duel.;;;;;;;;;;;;x
+EVTOPTA_HF_10004;出来る限り威圧的な表情を作らねばな（咳払い）。;;;;;;;;;;;;x
+EVTOPTA_HF_10004_TT;その[new_recruit.GetManWoman]に、入会の決闘を説明するため近づく。;;;;;;;;;;;;x
 EVTDESC_HF_10005;[hero_character.Society.GetName]に属する[hero_character.GetTitledName]は短い頷きで迎えた。「ふん、新入りか？[Root.GetBoyGirl]よ、我々の仲間になるには力量を示さなければならない」と、ぶっきらぼうに言い、胸の前で腕を組んだ。「お前は我々のうちの一人と戦うことになる。まだ興味があればだが、[Root.GetLordLady]？」;;;;;;;;;;;;x
 EVTOPTA_HF_10005;力を示すために喜んで戦おう。;;;;;;;;;;;;x
 EVTOPTA_HF_10005_TT;§Y[hero_character.Society.GetNameCap]§!が選んだ相手との決闘を了承します。;;;;;;;;;;;;x
@@ -10551,9 +10551,9 @@ commander_lost;指揮官の死;;;;;;;;;;;;x
 EVTDESC_HF_10060;「もう席は埋まってるぞ、[Root.GetSocietyRank]。その座をかけて闘ろうって言いたいのか？」[combatant_2.GetTitledFirstName]は席を立ち、拳をパキリと鳴らすと距離をとった。;;;;;;;;;;;;x
 EVTOPTA_HF_10060;決闘？そうさ、そのとおりだ。;;;;;;;;;;;;x
 EVTOPTB_HF_10060;おお、[combatant_2.GetLordLady]、それは誤解です！そうじゃなくて…えっと…(ゴクリ);;;;;;;;;;;;x
-EVTDESC_HF_10062_A;Hail, [From.GetSocietyRank]!\n\nYou have proven yourself worthy of [Root.Society.GetName]. I admit defeat and hereby step back from the title you may now acquire – use it well. \n\nSigned, [Root.GetSocietyRank] [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_HF_10062_A;[From.GetSocietyRank]万歳！\n\n貴殿は[Root.Society.GetName]に相応しいことを自ら証明した。私は敗北を認め、貴殿がこれより得る称号から退こうー新しい立場を十二分に活用せよ。\n\n(署名)[Root.GetSocietyRank][From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_HF_10062_B;[From.GetSocietyRank]万歳!\n\n我々は、[combatant_2.GetTitledFirstName]の死を悼んでいるが、彼を打ち負かしたことで、あなたは獲得したいと思っていたタイトルにふさわしいことを十分証明した。新しい立場を十二分に活用せよ。\n\n(署名)[From.GetSocietyRank][From.GetTitledFirstName];;;;;;;;;;;;x
-EVTOPTA_HF_10062;Thank you.;;;;;;;;;;;;x
+EVTOPTA_HF_10062;感謝する。;;;;;;;;;;;;x
 EVTDESC_HF_10063_A;Hail, [Root.GetSocietyRank]!\n\nIt was a valiant effort, but given the result of our duel, we cannot with good conscience let you advance to the next rank within [Root.Society.GetName]. I suggest you see more battle or spend some time in the training grounds.\n\nSigned, [From.GetSocietyRank] [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_HF_10063;I would be angry, if I wasn't so humiliated...;;;;;;;;;;;;x
 recently_lost_rank_up_duel_tt;Did NOT recently prove [Root.GetHerselfHimself] unworthy of this\n;;;;;;;;;;;;x
@@ -13074,7 +13074,7 @@ EVTOPTAHF23911;[From.Religion.GetRandomGodName]に栄光あれ！;;;;;;;;;;;;x
 opinion_held_great_festival;Held Great Festival;;;;;;;;;;;;x
 great_tribal_festival_1;Festivals Held;;;;;;;;;;;;x
 great_tribal_festival_2;Great Festivals Held;;;;;;;;;;;;x
-string_baptism_low_tribal_authority;Undergoing a §YMass Conversion§! while below §YAbsolute Tribal Authority§! will increase the chances of §YPagan Vassals§! rejecting the new religion.;;;;;;;;;;;;x
+string_baptism_low_tribal_authority;§Y一斉改宗§!が進行中の一方で§Y最高の部族組織法§!に満たないと、§Y原始宗教の封臣§!が新宗教を拒絶する危険性が高まります。;;;;;;;;;;;;x
 mass_baptism_capital_traders;Foreign Traders;;;;;;;;;;;;x
 mass_baptism_capital_traders_desc;The recent mass conversion of this province's owner has attracted new merchants from the more civilized parts of the world, revitalizing local trade.;;;;;;;;;;;;x
 mass_baptism_capital_missionaries;Charity Sermons;;;;;;;;;;;;x
@@ -13783,7 +13783,7 @@ EVTDESCBHF25426;私が[GetFromRelation]を[warrior_lodge_to_join.GetName]に加�
 EVTDESCCHF25426;My [GetFromRelation] has confronted me today about my decision to have [From.GetHerHim] join [warrior_lodge_to_join.GetName]. [From.GetSheHeCap] claims that fighting is simply not a [From.GetManWoman]'s job, and demands that I allow [From.GetHerHim] to leave the Lodge.;;;;;;;;;;;;x
 EVTDESCDHF25426;My [GetFromRelation] has confronted me today about my decision to have [From.GetHerHim] join [warrior_lodge_to_join.GetName]. [From.GetSheHeCap] claims that the prospective of fighting other people makes [From.GetHerHim] uneasy and jittery. [From.GetSheHeCap] hopes I could reconsider my decision to make [From.GetHerHim] become a warrior like myself.;;;;;;;;;;;;x
 EVTOPTAHF25426;お前は私の[GetFromRelation]だ。私に従え！;;;;;;;;;;;;x
-TT_EVTOPTAHF25426;§Y[From.GetFirstName]§! might react poorly to your decision.;;;;;;;;;;;;x
+TT_EVTOPTAHF25426;あなたの決断に対する§Y[From.GetFirstName]§!の反応は薄いでしょう。;;;;;;;;;;;;x
 EVTOPTBHF25426;それが望みというならば...;;;;;;;;;;;;x
 EVTDESCAHF25427;[GetFromRelation]は私の要請を受け入れなかった。[From.GetSheHeCap]は[From.GetHerHim]のような戦士となるのが私の義務であって、私が反抗することは許さないと声を荒らげた。;;;;;;;;;;;;x
 EVTOPTAHF25427;仰せのままに、[GetFromRelation]よ……;;;;;;;;;;;;x
@@ -19445,7 +19445,7 @@ elephant_group;長鼻目;;;;;;;;;;;;x
 elephant_culture;象;;;;;;;;;;;;x
 TT_EVTOPTAHF20211;§Y[From.GetTitledFirstName]§! will be granted §YIndependence§!.;;;;;;;;;;;;x
 String_Sakpata;Sakpata;;;;;;;;;;;;x
-PAGAN_BAPTISM_DISABLED;§RAll Requirements must be fulfilled and at least one potential Sponsor must be available and within range.§!;;;;;;;;;;;;x
+PAGAN_BAPTISM_DISABLED;§R要件全てが満たされ、かつ、少なくとも1つの潜在的支援者が外交範囲内において利用可能でなければなりません。§!;;;;;;;;;;;;x
 tooltip_evt_hf_24240;§Y[Root.GetTitledFirstName]§! will become the founder of a new §YBloodline§!;;;;;;;;;;;;x
 EVTTITLEHF24240;The Eternal [Root.GetTitle];;;;;;;;;;;;x
 EVTDESCHFA24240;Thanks to the tireless efforts of the glorious [Root.GetTitledFirstName], the lands of the [Root.PrimaryTitle.GetName] have been wrestled from the barbarity and the misery of its dark past, and have been dragged into a new era of clarity and order. \nA new urbanized bureaucratic caste has taken hold of the provinces once held by quarreling warlords, reinvigorating the Imperial Throne with legitimacy and power beyond all expectations.\n\nTen thousand years of peace and prosperity upon the great [Root.GetOnlyDynastyName] dynasty and its magnificent reformer!;;;;;;;;;;;;x

@@ -491,16 +491,16 @@ DLC_RECOMMENDATION_REASON_PACK_DYNASTY;このDLCに象徴される王朝のキ�
 DLC_RECOMMENDATION_REASON_PACK_RELIGION;§Y[Root.Religion.GetName]§!のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_PACK_RULER;共和国を支配する都市貴族のキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_PACK_RELIGIOUS;敬虔なキャラクターを選択しているため、このパックを推奨します。;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_EXPANSION;We're recommending this expansion as its gameplay is compatible with all expansions and characters.;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_EXPANSION;あらゆるDLCや人物と相性の良いゲームプレイを提供するため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_CULTURE;§Y[Root.Culture.GetName]§!のキャラクターとしてプレイするにはこの§RDLCが必要§!です;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_EXPANSION_RELIGION;§Y[Root.Religion.GetName]§!のキャラクターを選択しているため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_EXPANSION_CULTURE;§Y[Root.Culture.GetName]§!文化のキャラクターを選択しているため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_REPUBLIC;This Expansion is §Rrequired§! to play as a Republican character.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_REQUIRED_EXPANSION_RELIGION;This Expansion is §Rrequired§! to play as a §Y[Root.Religion.GetName]§! character.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_NEIGHBOR;We're recommending this expansion as it will add additional flavor to neighboring regions.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_VICEROY;We're recommending this expansion as you've selected a non-tribal character.;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_NEIGHBOR;近隣の地域にフレーバーを追加するため、このDLCを推奨します。;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_VICEROY;非部族の人物を選択しているため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_EU4;The EU4 Converter requires both Crusader Kings 2 and Europa Universalis 4.;;;;;;;;;;;;x
-DLC_RECOMMENDATION_REASON_REAP;We're recommending this expansion as its unique gameplay is compatible with all expansions and characters.;;;;;;;;;;;;x
+DLC_RECOMMENDATION_REASON_REAP;あらゆるDLCや人物と相性の良いユニークなゲームプレイを提供するため、このDLCを推奨します。;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_SOA_RELIGION;This Expansion is recommended as you've selected a character of §Y[Root.Religion.GetName]§! religion.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_CULTURE;This Expansion is recommended as you've selected a character of §Y[Root.Culture.GetName]§! culture.;;;;;;;;;;;;x
 DLC_RECOMMENDATION_REASON_HL;We’re recommending this expansion as you’ve selected a nomadic pagan character.;;;;;;;;;;;;x
@@ -578,7 +578,7 @@ DLC_dlc032_RECOMMENDATION_ABRAHAMIC;§YSons of Abraham§!は３つのアブラ�
 DLC_dlc032_RECOMMENDATION_RELIGION;With §YSons of Abraham§! comes a major overhaul of Holy Orders, as well as the addition of religion unique Holy Orders. The §Y[Root.Religion.GetName]§! gains [Root.GetHolyOrderName].\n;;;;;;;;;;;;x
 DLC_dlc039_RECOMMENDATION_REQUIRED;拡張§YRajas of India§!によってインド亜大陸に3つの新しいダルマ宗教が導入されます。インドを統一し、伝説の転輪聖王となるのだ！\n;;;;;;;;;;;;x
 DLC_dlc039_RECOMMENDATION_ROI_RELIGION;§YRajas of India§! is recommended as it allows you to play as Dharmic Religions, such as Buddhists and Hindus.\n;;;;;;;;;;;;x
-DLC_dlc045_RECOMMENDATION_VICEROY;In §YCharlemagne§!, Emperors get the ability to appoint viceroys, who gain lifetime governorship with the title returning to the liege on death.\n;;;;;;;;;;;;x
+DLC_dlc045_RECOMMENDATION_VICEROY;§YCharlemagne§!により皇帝は総督を任命することが可能となり、総督は一代限りの統治権であり、死と共に君主へ返上されます。\n;;;;;;;;;;;;x
 DLC_dlc050_RECOMMENDATION_WAY_OF_LIFE;§YWay of Life§! adds a layer of character focus to Crusader Kings 2, where every character can select a Focus which grants them a bonus as well as specific content to their chosen lifestyle.\n;;;;;;;;;;;;x
 DLC_dlc054_RECOMMENDATION_REQUIRED;In §YHorse Lords§!, you can now play as nomadic government.\n;;;;;;;;;;;;x
 DLC_dlc062_RECOMMENDATION_CONCLAVE;§YConclave§! increases the challenge of the game by giving your councilors extra motivation to seize some of your power.\n;;;;;;;;;;;;x

@@ -1198,7 +1198,7 @@ EVTDESC_MNM_7832_cruel;[corrupt_priest_target.GetTitledFirstName] and I had a lo
 EVTDESC_MNM_7832_bonus;It seems that liberating [corrupt_priest_target.GetTitledFirstName] from [corrupt_priest_target.GetHerHis] virtue has had unforeseen effects... Having finally discovered what [corrupt_priest_target.GetSheHe] has missed out on for all these years, [corrupt_priest_target.GetFirstName] has sunk headlong into utter depravity.;;;;;;;;;;;;x
 EVTOPTA_MNM_7832;The things I do for [corrupt_priest_spell_caster.GetDWDevil]...;;;;;;;;;;;;x
 EVTOPTA_MNM_7832_TOOLTIP;[corrupt_priest_spell_caster.GetDWDevil] will surely bless me!\n;;;;;;;;;;;;x
-EVTOPTB_MNM_7832;I am [corrupt_priest_spell_caster.GetDWDevil]'s greatest servant!;;;;;;;;;;;;x
+EVTOPTB_MNM_7832;我は、[corrupt_priest_spell_caster.GetDWDevil]第一の下僕なり！;;;;;;;;;;;;x
 EVTOPTB_MNM_7832_TOOLTIP;[corrupt_priest_spell_caster.GetDWDevil] will surely bless me greatly!\n;;;;;;;;;;;;x
 EVTDESC_MNM_7834;Despite my best efforts, one misplaced word was all that was needed for [corrupt_priest_target.GetTitledFirstName] to take offense from my suggestion. [corrupt_priest_target.GetSheHeCap] stormed out of the room indignantly, and what's far worse, [corrupt_priest_target.GetSheHe] outed my supposed 'wickedness' to everyone!;;;;;;;;;;;;x
 EVTOPTA_MNM_7834;Oh no...;;;;;;;;;;;;x
@@ -1854,14 +1854,14 @@ EVTDESC_MNM_9004;私の[rumor_councillor.GetJobTitle]を務める[rumor_councill
 EVTOPTA_MNM_9004;探索を開始してくれ、[rumor_councillor.GetJobTitle]殿！;;;;;;;;;;;;x
 EVTOPTA_MNM_9004_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§!は特殊な宝物の探索を開始します。\n;;;;;;;;;;;;x
 EVTOPTB_MNM_9004;素晴らしい！[rumor_councillor.GetFirstName]、あなたに感謝を。;;;;;;;;;;;;x
-EVTOPTB_MNM_9004_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councilors to search for the extraordinary artifact.\n;;;;;;;;;;;;x
+EVTOPTB_MNM_9004_TT;§Y[Root.GetTitledFirstName]§!は評議員のひとりに、特殊な宝物を探索する活動を依頼することができます。\n;;;;;;;;;;;;x
 relic_rumor_major;類い稀な宝物の噂;;;;;;;;;;;;x
 relic_rumor_major_desc;この人物は類い稀な宝物に関する噂を耳にしました！探索のために評議員のひとりを送り出すことができます。;;;;;;;;;;;;x
 EVTDESC_MNM_9005;評議会の後、[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]が、内密な話をしたいと言って私の元を訪ねてきた。話を聞くにどうやら[rumor_councillor.GetSheHe]は、希少な宝物に関する噂を掴んだらしい。[rumor_councillor.GetFirstName]はこの噂にはいくつかの真実があったと確信しており、私にこの宝物の探索を手配してほしいと言ってきている。;;;;;;;;;;;;x
 EVTOPTA_MNM_9005;良い考えだ、[rumor_councillor.GetJobTitle]。取り計らってくれ。;;;;;;;;;;;;x
 EVTOPTA_MNM_9005_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]§!は希少な宝物の探索を開始します。\n;;;;;;;;;;;;x
 EVTOPTB_MNM_9005;[rumor_councillor.GetFirstName]、あなたに感謝を！;;;;;;;;;;;;x
-EVTOPTB_MNM_9005_TT;§Y[Root.GetTitledFirstName]§! can ask one of [Root.GetHerHis] councilors to search for the rare artifact.\n;;;;;;;;;;;;x
+EVTOPTB_MNM_9005_TT;§Y[Root.GetTitledFirstName]§!は評議員のひとりに、希少な宝物を探索する活動を依頼することができます。\n;;;;;;;;;;;;x
 relic_rumor_medium;希少な宝物の噂;;;;;;;;;;;;x
 relic_rumor_medium_desc;この人物は希少な宝物に関する噂を耳にしました！探索のために評議員のひとりを送り出すことができます。;;;;;;;;;;;;x
 EVTDESC_MNM_9006;この晩に開かれた評議会で、[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirstName]が、最近 [rumor_councillor.GetSheHe]自身が聞き及んだという噂について語りだした。何でも領内の農民たちの話によれば、ここからそう遠くない地に、とある隠された宝物が眠っているらしい。[rumor_councillor.GetFirstName]がいう情報の詳細は不明だが、調査してみる価値はあるのかもしれない。;;;;;;;;;;;;x
@@ -1870,7 +1870,7 @@ EVTOPTA_MNM_9006_TT;§Y[rumor_councillor.GetJobTitle] [rumor_councillor.GetFirst
 EVTOPTB_MNM_9006;興味深い...;;;;;;;;;;;;x
 EVTOPTB_MNM_9006_TT;§Y[Root.GetTitledFirstName]§!は評議員の誰かに宝物を探索する活動を依頼することができます。\n;;;;;;;;;;;;x
 relic_rumor_minor;宝物の噂;;;;;;;;;;;;x
-relic_rumor_minor_desc;This character heard a rumor concerning an artifact. They can send one of their councilors to search for it.;;;;;;;;;;;;x
+relic_rumor_minor_desc;この人物は宝物に関する噂を耳にしました。探索のために評議員のひとりを送り出すことができます。;;;;;;;;;;;;x
 EVTDESC_MNM_9020;評議会の後、[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName]が、例の宝物の探索をより進めるため、さらに多くの外交官を投入して支援してほしいと言ってきた。[relic_hunter.GetHerHim]のために外交官を割くことはできるが、そうすると外交官が本来なすべき外交努力に支障をきたすことは間違いないだろう。;;;;;;;;;;;;x
 EVTOPTA_MNM_9020;外交官たちを使わせてやろう、[relic_hunter.GetJobTitle]。;;;;;;;;;;;;x
 EVTOPTA_MNM_9020_TT;§Y[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName]§!が行っている宝物の探索が大幅に進捗する。\n;;;;;;;;;;;;x
@@ -2121,7 +2121,7 @@ IS_SOCIETY_RANK_FULL_TRIGGER_NOT;$SOCIETY|Y$の$RANK|Y$は満員ではない;;;;
 IS_SOCIETY_RANK_FULL_TRIGGER;$SOCIETY|Y$の$RANK|Y$は満員である;;;;;;;;;;;;x
 is_germanic_pagan_custom_tooltip;宗教が§Yゲルマン宗教§!である\n;;;;;;;;;;;;x
 alert_councillor_no_job_instant;§Y待機中の評議員§!;;;;;;;;;;;;x
-alert_councillor_no_job_delayed;The following councilors are currently not on a job:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;;x
+alert_councillor_no_job_delayed;以下の評議員は現在仕事をしていない:\n$LIST$\n§Gクリックして評議会ビューを開く§!;;;;;;;;;;;;x
 NO_VALID_SOCIETY;あなたが参加できる既知の§Y結社§!はありません。;;;;;;;;;;;;x
 IS_NOT_DEVIL_WORSHIPER;$CHAR|Y$は§Y悪魔崇拝者§!ではない。;;;;;;;;;;;;x
 IS_DEVIL_WORSHIPER;$CHAR|Y$は§Y悪魔崇拝者§!である。;;;;;;;;;;;;x
@@ -5629,8 +5629,8 @@ opinion_granted_other_count_vice_royalty;総督任命に対する封臣評価;;;
 opinion_granted_other_baron_vice_royalty;総督任命に対する封臣評価;;;;;;;;;;;;x
 clan_opinion_feud;確執;;;;;;;;;;;;x
 clan_opinion_feud_blood_brother;血の盟友との確執;;;;;;;;;;;;x
-clan_opinion_no_job;Is not a Councilor;;;;;;;;;;;;x
-clan_opinion_feud_leader_has_job;$WHO|Y$ is a Councilor;;;;;;;;;;;;x
+clan_opinion_no_job;評議員ではない;;;;;;;;;;;;x
+clan_opinion_feud_leader_has_job;$WHO|Y$は評議員である;;;;;;;;;;;;x
 clan_opinion_blood_oath;血の盟友;;;;;;;;;;;;x
 PEACE_ENFORCE_NOT_ON_COOLDOWN_NO_DATE;§Y私戦禁止令§!は過去§Y$YEARS$年間§!、使用されていません。;;;;;;;;;;;;x
 quest_secret_religious_societies_sympathy_ruler_fallback;Evoke the Sympathy of a Ruler;;;;;;;;;;;;x
