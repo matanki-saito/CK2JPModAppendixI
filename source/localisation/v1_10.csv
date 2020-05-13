@@ -120,7 +120,7 @@ HOLY_SITE_OF;聖地;;;;;;;;;;;;x
 RELHEAD_DIPLO;外交値 -;;;;;;;;;;;;x
 RELHEAD_PIETY;[Player.Religion.GetPietyName] -;;;;;;;;;;;;x
 ORGANIZED_RELIGION;組織化された宗教;;;;;;;;;;;;x
-INTERACTION_REQUIRES_RECIPIENT_CAN_MARRY;§Y[Recipient.GetTitledFirstName]§!は結婚して嫡子を得なければなりません;;;;;;;;;;;;x
+INTERACTION_REQUIRES_RECIPIENT_CAN_MARRY;§Y[Recipient.GetTitledFirstName]§!は結婚して嫡子を得ることが出来なければなりません;;;;;;;;;;;;x
 INTERACTION_PREP_INV_ALREADY_TARGETTED;§Y[Recipient.GetTitledFirstName]§!はまだ遠征の標的になっていない;;;;;;;;;;;;x
 INTERACTION_PREP_INV_ONLY_ONCE;§Y[Actor.GetTitledFirstName]§!は生涯に一度しか遠征を行えません;;;;;;;;;;;;x
 MORAL_AUTHORITY_OF_RELIGION;§Y$RELIGION$§!の信仰の道徳的権威：§Y$AUTHORITY$%§!;;;;;;;;;;;;x

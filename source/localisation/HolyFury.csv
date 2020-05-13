@@ -2835,8 +2835,8 @@ EVTOPTBHFP20008;I hate them all!;;;;;;;;;;;;x
 EVTOPTCHFP20008;Enough! Get out! I need some quiet!;;;;;;;;;;;;x
 EVTDESCHFPA20009;One of the maids helps me sit down, gently taking a feel of my belly and asking me if I am comfortable enough. Another servant encouragingly holds a spoonful of soup close to my mouth. All this pampering from my gossips is really spoiling me.;;;;;;;;;;;;x
 EVTOPTAHFP20009;Don't worry, I can handle this!;;;;;;;;;;;;x
-EVTOPTBHFP20009;What a blissful life I have!;;;;;;;;;;;;x
-EVTOPTCHFP20009;Just soup? The baby is hungry...;;;;;;;;;;;;x
+EVTOPTBHFP20009;なんという至福の人生！;;;;;;;;;;;;x
+EVTOPTCHFP20009;スープだけ？お腹の赤ちゃんは腹ペコなの……;;;;;;;;;;;;x
 EVTDESCHFPA20010;My [GetFromRelation] has asked me to spend some time with [From.GetHerHis] wife, as is tradition, hoping it will put her mind at ease as the day of her labor draws near.;;;;;;;;;;;;x
 EVTOPTAHFP20010;結構。;;;;;;;;;;;;x
 EVTOPTBHFP20010;I have no time for this!;;;;;;;;;;;;x
@@ -3679,7 +3679,7 @@ swaying_target_key;抱きこむ;;;;;;;;;;;;x
 antagonizing_target_key;Antagonizing;;;;;;;;;;;;x
 crown_pahlavi_name;[pahlavi_creator.GetOnlyDynastyName] Crown;;;;;;;;;;;;x
 tooltip_forge_pahalavi_crown;[Root.GetTitledFirstName]の宝物庫に'§Y[Root.GetOnlyDynastyName]王冠§!'を追加する;;;;;;;;;;;;x
-tooltip_antagonize_vassalize_claim;§Y[Root.GetTitledFirstName]§! has a rightful claim to rule over §Y[From.GetTitledFirstName]'s§! lands;;;;;;;;;;;;x
+tooltip_antagonize_vassalize_claim;§Y[Root.GetTitledFirstName]§!は§Y[From.GetTitledFirstName]§!の国土に対する正当な請求権を持つ;;;;;;;;;;;;x
 antagonize_slandering_vassals;De-legitimized Rule;;;;;;;;;;;;x
 antagonize_slandering_vassals_desc;Some recent events have put this ruler under a bad light, resulting in most of [Root.GetHerHis] vassals not entirely trusting [Root.GetHerHis] legitimacy as [Root.GetTitle].;;;;;;;;;;;;x
 antagonize_slandering_relatives;黒羊;;;;;;;;;;;;x
@@ -4369,14 +4369,14 @@ EVTOPTA_HFP_10106_spear;Aaargh...! With a WOODEN spear?!;;;;;;;;;;;;x
 EVTOPTA_HFP_10106_staff;Aaargh...! With a staff?!;;;;;;;;;;;;x
 EVTOPTA_HFP_10106_aaargh;ぐあぁぁぁぁ！くそっ！痛い！このくそ[other_combatant.GetManWoman]が！;;;;;;;;;;;;x
 EVTDESC_HF_10008_they_succeeded_greatly;Although I did not expect much, we were all stunned by the performance of [From.GetBestName] during [From.GetHerHis] initiation fight. It will be interesting to see what [From.GetSheHe] makes of [From.GetHerselfHimself], as a member of our ranks.;;;;;;;;;;;;x
-EVTDESC_HF_10008_they_were_mildly_injured;In spite of some bruises and mild injury, I was not alone in being satisfied with the skill displayed by [From.GetBestName]. While I am intrigued, only time will tell whether joining our ranks is the right path for the [From.GetAgeAdjective] [From.GetManWoman], or not.;;;;;;;;;;;;x
+EVTDESC_HF_10008_they_were_mildly_injured;数か所の打ち身と軽い切り傷を負いはしたが、[From.GetBestName]による腕試しに安堵したのは私一人ではなかった。我らが一員への加盟が、その[From.GetAgeAdjective][From.GetManWoman]にとって正しいのかそうでないのか。過ぎ行く時間だけが教えてくれるだろう。将来が楽しみになった。;;;;;;;;;;;;x
 EVTDESC_HF_10008_they_were_seriously_injured;[From.GetBestName] was rather seriously injured by [From.GetHerHis] opponent, [combatant_2.GetTitledFirstName]. I expected my [combatant_2.GetRootRelation] to get in a blow or two, but I am mildly surprised that [From.GetTitledFirstName] still wants to join our ranks.;;;;;;;;;;;;x
 EVTDESC_HF_10008_they_fled;Just as [combatant_2.GetTitledName] was about to show [From.GetTitledName] what sparring match should look like, the [From.GetAgeAdjective] [From.GetManWoman] dropped [From.GetHerHis] weapon and ran..;;;;;;;;;;;;x
 EVTOPTA_HF_10008_impressed;Now, that's what we want to see!;;;;;;;;;;;;x
 EVTOPTA_HF_10008_accepting;新入り？面白いじゃないか、まったく。;;;;;;;;;;;;x
 EVTOPTA_HF_10008_surprised;Another member, eh? What do you know!;;;;;;;;;;;;x
 EVTOPTA_HF_10008_unimpressed;What a waste of time!;;;;;;;;;;;;x
-EVTOPTA_HF_10008_TT;§Y[From.GetTitledFirstName]§! will be invited to join §Y[Root.Society.GetName]§!;;;;;;;;;;;;x
+EVTOPTA_HF_10008_TT;§Y[From.GetTitledFirstName]§!を§Y[Root.Society.GetName]§!加入に向けて招待します;;;;;;;;;;;;x
 EVTOPTB_HF_10008_TT;§Y[From.GetTitledFirstName]§! will be §Rbanned§! from joining §Y[Root.Society.GetName]§!, for 10 years;;;;;;;;;;;;x
 EVTOPTA_HF_10009;ようやくだ。;;;;;;;;;;;;x
 EVTDESC_HF_10010;臆病者の[Root.GetTitledFirstName]よ、\n言うまでもないが、あなたの行動は評価に値しない。あなたが我々を見つけ出して過ちを重ねないことを望む。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
@@ -7102,7 +7102,7 @@ EVTTOOLTIPA_HF_42025_DUEL;私は意を決して立ち向かった。怪我をす
 EVTTOOLTIPA_HF_42025_GAME;あなたは自軍を危険な場所に配置した。§Y[From.GetTitledFirstName]§!が自分は何をするべきかわかっていれば、勝てる可能性は高い。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SOCIAL;私は§Y[From.GetTitledFirstName]§!が今夜楽しくすごせるように、相手を見つける手助けをしてみようと決めた。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_SCHOLAR;私は自分の主張を曲げず、論じていくことにした。;;;;;;;;;;;;x
-EVTTOOLTIPA_HF_42025_STEWARD;私は運にかけてみることにした。成功の見込みは薄いが、§Y[From.GetFirstName]§!は、私が自分たちがどこにいるのかわかっていないということに気づくことはないだろうから。;;;;;;;;;;;;x
+EVTTOOLTIPA_HF_42025_STEWARD;私は運にかけてみることにした。成功の見込みは薄いが、自分たちがどこにいるのか私には見当もつかないということに、§Y[From.GetFirstName]§!が気づくことはないだろうから。;;;;;;;;;;;;x
 EVTTOOLTIPA_HF_42025_TORTURE;被検体を生かしつつどれくらい追い込めるか確かめてみることにした。;;;;;;;;;;;;x
 EVTOPTB_HF_42025_HUNT;通り過ぎるまで待って罠を仕掛けよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42025_DUEL;奴らが疲れ果てるのを待とう。;;;;;;;;;;;;x
@@ -7146,10 +7146,10 @@ EVTDESC_HF_42027_SOCIAL;夜が更けていくにしたがい、私はこの集�
 EVTDESC_HF_42027_SCHOLAR;数時間が経ち、話題が宇宙の本質についてになったあたりで議論は行き詰まりを迎えていた。[From.GetFirstName]と私はこの結論に賛同したが、ほかの皆にも納得してもらう方法を見つける必要が出てきた。[From.GetFirstName]は相手方に彼らの考えを述べさせようとした。;;;;;;;;;;;;x
 EVTDESC_HF_42027_STEWARD;何分か経って、[From.GetFirstName]は我々が巨大迷路のなかで迷っているということを認めた。[From.GetSheHeCap]はどうやってここから抜け出すべきか、私の意見を聞いてきた。;;;;;;;;;;;;x
 EVTDESC_HF_42027_TORTURE;[From.GetFirstName]は囚人の1人を選び出し、ユダのゆりかごに乗せた。[From.GetFirstName]は雑談をしながら、5分ごとに犠牲者を少しずつ器具へと下していった。;;;;;;;;;;;;x
-EVTOPTA_HF_42027_HUNT;I will rush in and take care of it myself!;;;;;;;;;;;;x
+EVTOPTA_HF_42027_HUNT;突撃して私の手で仕留めてやる！;;;;;;;;;;;;x
 EVTOPTA_HF_42027_DUEL;こういう奴らを倒すには攻撃あるのみだ。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_GAME;よし、これなら私の手で勝利できるだろう！;;;;;;;;;;;;x
-EVTOPTA_HF_42027_SOCIAL;I should try and find some company for the night. ;;;;;;;;;;;;x
+EVTOPTA_HF_42027_SOCIAL;この夜を楽しく過ごせるよう話し相手を見つけなければ。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SCHOLAR;We need to be assertive, and I will speak my mind.;;;;;;;;;;;;x
 EVTOPTA_HF_42027_STEWARD;We should just keep walking, and we will find our way in the end.;;;;;;;;;;;;x
 EVTOPTA_HF_42027_TORTURE;Let us just get this over with already, no need to drag it out.;;;;;;;;;;;;x
@@ -7469,7 +7469,7 @@ string_reformed_religion_cosmopolitan;古代より続く[Root.Religion.GetName]�
 string_reformed_religion_temporal_head;聖なる[Root.GetTitle]の指導の下、;;;;;;;;;;;;x
 string_reformed_religion_theocratic_head;Now organized in a strict hierarchy with an official religious head,;;;;;;;;;;;;x
 string_reformed_religion_autocephaly;高位聖職者同士の緩やかな繋がりによる、地方独立的な階級制度に再編成し、;;;;;;;;;;;;x
-string_reformed_religion_no_leader;Reorganized to give each independent clergyman full authority over [Root.GetHerHis] flock,;;;;;;;;;;;;x
+string_reformed_religion_no_leader;それぞれの独立した聖職者に[Root.GetHerHis]の信者に対する完全な権限を与えるために再編成され、;;;;;;;;;;;;x
 string_reformed_religion_norse;[Root.Religion.GetName] 信仰は、宣教師や十字軍などの、か弱く女々しい敵対者に対抗する準備を整えた。;;;;;;;;;;;;x
 string_reformed_religion_tengri;[Root.Religion.GetName]の信仰は再び活力を取り戻し、シャーマニズムとしての起源を捨て、公式の教義を獲得することで、邪教へ対抗するに相応しいものとなった。;;;;;;;;;;;;x
 string_reformed_religion_slavic; the [Root.Religion.GetName] faith has abandoned its tribal ways for a well-defined dogma and structure, fit to oppose its rivals.;;;;;;;;;;;;x
@@ -9239,7 +9239,7 @@ b_oldenburg_holstein;Oldenburg;;;;;;;;;;;;x
 b_heide;Heide;;;;;;;;;;;;x
 b_meldorf;Meldorf;;;;;;;;;;;;x
 b_wacken;Wacken;;;;;;;;;;;;x
-b_busum;Büsum;;;;;;;;;;;;x
+b_busum;ビューズム;;;;;;;;;;;;x
 b_ulstrup;Ulstrup;;;;;;;;;;;;x
 b_lolland;Lolland;;;;;;;;;;;;x
 b_nacascogh;Nacascogh;;;;;;;;;;;;x
@@ -10839,7 +10839,7 @@ String_sky_hunter;sky hunter;;;;;;;;;;;;x
 String_hunter;hunter;;;;;;;;;;;;x
 String_strategist_role;strategist;;;;;;;;;;;;x
 String_fighter;戦士;;;;;;;;;;;;x
-String_champion;champion;;;;;;;;;;;;x
+String_champion;勇士;;;;;;;;;;;;x
 String_soldier;戦士;;;;;;;;;;;;x
 String_duelist;duelist;;;;;;;;;;;;x
 String_brute;獣;;;;;;;;;;;;x
@@ -14008,7 +14008,7 @@ string_WL_flyting_character_insult_option_29;One can hardly find anything bad or
 string_WL_flyting_character_insult_option_30;知りうる限りで最も怠惰な[From.GetManWoman]だ、ということさえお前には過ぎた栄誉だ。;;;;;;;;;;;;x
 string_character_insult_option_default;板きれと同じくらいには面白い奴だ。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_1;[From.Culture.GetName]人にはちっとも効きませんよ……;;;;;;;;;;;;x
-string_WL_flyting_accomplishments_insult_option_2;I suppose being born with so few skills makes mediocrity desirable?;;;;;;;;;;;;x
+string_WL_flyting_accomplishments_insult_option_2;なんの才能も持たないからそんなに平凡に生きているのか？;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_3;果せない夢の道で精々躓かないよう気を付けるんだな。;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_4;一族の恥と言われるのはどんな気分なんだ？;;;;;;;;;;;;x
 string_WL_flyting_accomplishments_insult_option_5;お前が[From.GetTitle]の役目を果たしているとはとても信じられない。;;;;;;;;;;;;x
@@ -14766,9 +14766,9 @@ hybrid_murder_builder_bloodline_01_desc;A controversial figure in [This.Culture.
 hybrid_peace_architect_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 hybrid_peace_architect_bloodline_01_desc;[This.GetFirstName]はいくつもの都市を建設した工芸の後援者であり、同時に調停者としても多くの人々に記憶されています。;;;;;;;;;;;;x
 hybrid_peace_castellan_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
-hybrid_peace_castellan_bloodline_01_desc;[This.GetFirstName] is remembered by many as a peace-maker and a patron of engineering for sponsoring the construction of several castles.;;;;;;;;;;;;x
+hybrid_peace_castellan_bloodline_01_desc;[This.GetFirstName]はいくつもの城砦を建設を支援した工学の後援者であり、同時に調停者としても多くの人々に記憶されています。;;;;;;;;;;;;x
 hybrid_peace_monumental_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
-hybrid_peace_monumental_bloodline_01_desc;[This.GetFirstName] is remembered by many as a peace-maker and a devout creator of churches.;;;;;;;;;;;;x
+hybrid_peace_monumental_bloodline_01_desc;[This.GetFirstName]はいくつも教会を建設した敬虔な創造者であり、同時に調停者としても多くの人々に記憶されています。;;;;;;;;;;;;x
 event_family_bloodline_01;[This.GetTitledFirstName]'s Dynasty;;;;;;;;;;;;x
 event_family_bloodline_01_desc;Praised for spending a lifetime dedicating [This.GetHerselfHimself] to [This.GetHerHis] family, [This.GetFirstName] has immortalized [This.GetHerHis] dynasty as one of the most prestigious bloodlines in history.;;;;;;;;;;;;x
 event_technology_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
@@ -14961,14 +14961,14 @@ ca_special_fortifications_4;Reinforced Barbican;;;;;;;;;;;;x
 ca_special_fortifications_4_desc;The latest innovation in military engineering, a reinforced barbican will force the castle's assailants through a crooked and narrow path after the breach of the main gate, exposing them to heavy retaliation from the defenders.;;;;;;;;;;;;x
 bloodline_effect_monumental;特別な§Y教会§!建築物を利用できる;;;;;;;;;;;;x
 tooltip_has_monumental_bloodline;The ruling dynasty has taken a special interest in §YReligious Architecture§!;;;;;;;;;;;;x
-tp_monumental_shrines_1;Monumental Shrines;;;;;;;;;;;;x
-tp_monumental_shrines_1_desc;Only by erecting ever taller and greater monuments can we truly prove our eternal devotion towards the heavens.;;;;;;;;;;;;x
-tp_monumental_shrines_2;Monumental Shrines;;;;;;;;;;;;x
-tp_monumental_shrines_2_desc;Only by erecting ever taller and greater monuments can we truly prove our eternal devotion towards the heavens.;;;;;;;;;;;;x
-tp_monumental_shrines_3;Monumental Shrines;;;;;;;;;;;;x
-tp_monumental_shrines_3_desc;Only by erecting ever taller and greater monuments can we truly prove our eternal devotion towards the heavens.;;;;;;;;;;;;x
-tp_monumental_shrines_4;Monumental Shrines;;;;;;;;;;;;x
-tp_monumental_shrines_4_desc;Only by erecting ever taller and greater monuments can we truly prove our eternal devotion towards the heavens.;;;;;;;;;;;;x
+tp_monumental_shrines_1;記念碑の聖堂;;;;;;;;;;;;x
+tp_monumental_shrines_1_desc;より高く、巨大な記念碑を建設することによってのみ、天上に対する永遠の献身を示すことができる。;;;;;;;;;;;;x
+tp_monumental_shrines_2;記念碑の聖堂;;;;;;;;;;;;x
+tp_monumental_shrines_2_desc;より高く、巨大な記念碑を建設することによってのみ、天上に対する永遠の献身を示すことができる。;;;;;;;;;;;;x
+tp_monumental_shrines_3;記念碑の聖堂;;;;;;;;;;;;x
+tp_monumental_shrines_3_desc;より高く、巨大な記念碑を建設することによってのみ、天上に対する永遠の献身を示すことができる。;;;;;;;;;;;;x
+tp_monumental_shrines_4;記念碑の聖堂;;;;;;;;;;;;x
+tp_monumental_shrines_4_desc;より高く、巨大な記念碑を建設することによってのみ、天上に対する永遠の献身を示すことができる。;;;;;;;;;;;;x
 bloodline_effect_peace_prosperity;もっと早く§Y繁栄§!を手にする;;;;;;;;;;;;x
 bloodline_effect_faster_claims;Can §YFabricate Claims§! faster;;;;;;;;;;;;x
 bloodline_effect_faster_dissent;Can §YSow Dissent§! faster;;;;;;;;;;;;x
@@ -15175,7 +15175,7 @@ PROV1733;ムールーヤ;;;;;;;;;;;;x
 PROV1734;アーシール;;;;;;;;;;;;x
 PROV1735;ビルマ;;;;;;;;;;;;x
 PROV1736;マナン;;;;;;;;;;;;x
-PROV1737;ファシ―;;;;;;;;;;;;x
+PROV1737;ファシー;;;;;;;;;;;;x
 PROV1738;アイル;;;;;;;;;;;;x
 PROV1739;ジミ;;;;;;;;;;;;x
 PROV1740;マッセニヤ;;;;;;;;;;;;x
@@ -15227,7 +15227,7 @@ b_toumboula;Toumboula;;;;;;;;;;;;x
 b_tchalta;Tchalta;;;;;;;;;;;;x
 b_ngargue;Ngargué;;;;;;;;;;;;x
 b_koufe;Koufé;;;;;;;;;;;;x
-b_fachi;ファシ―;;;;;;;;;;;;x
+b_fachi;ファシー;;;;;;;;;;;;x
 b_goulo;Goulo;;;;;;;;;;;;x
 b_kemkaga;Kemkaga;;;;;;;;;;;;x
 b_mbarou;Mbarou;;;;;;;;;;;;x
@@ -15305,7 +15305,7 @@ b_gursi;Gursi;;;;;;;;;;;;x
 b_sikasso;Sikasso;;;;;;;;;;;;x
 b_wagadougou;ワガドゥグー;;;;;;;;;;;;x
 b_po;ポ;;;;;;;;;;;;x
-b_kissi;Kissi;;;;;;;;;;;;x
+b_kissi;キッシ;;;;;;;;;;;;x
 b_aribinda;アリビンダ;;;;;;;;;;;;x
 b_dori;Dori;;;;;;;;;;;;x
 b_yatenga;Yatenga;;;;;;;;;;;;x
@@ -15317,7 +15317,7 @@ b_dyamare;ディアマー;;;;;;;;;;;;x
 b_dosso;Dosso;;;;;;;;;;;;x
 b_gaya_songhay;ガヤー;;;;;;;;;;;;x
 b_kebbi;Kebbi;;;;;;;;;;;;x
-b_argungu;Argungu;;;;;;;;;;;;x
+b_argungu;アーガング;;;;;;;;;;;;x
 b_sokoto;ソコト;;;;;;;;;;;;x
 b_tahoua;タウア;;;;;;;;;;;;x
 b_bilanga;ビランガ;;;;;;;;;;;;x
@@ -15332,10 +15332,10 @@ b_fika;Fika;;;;;;;;;;;;x
 b_sao;サオ;;;;;;;;;;;;x
 b_yao;Yao;;;;;;;;;;;;x
 b_amcaka;Amcaka;;;;;;;;;;;;x
-b_kotoko;Kotoko;;;;;;;;;;;;x
+b_kotoko;コトコ;;;;;;;;;;;;x
 b_ngala;Ngala;;;;;;;;;;;;x
 b_nguru;Nguru;;;;;;;;;;;;x
-b_diaka;Diaka;;;;;;;;;;;;x
+b_diaka;ディアカ;;;;;;;;;;;;x
 b_mashina;Mashina;;;;;;;;;;;;x
 b_gumsa;Gumsa;;;;;;;;;;;;x
 b_masseniya;マッセニヤ;;;;;;;;;;;;x
@@ -15346,18 +15346,18 @@ b_kussiri;Kussiri;;;;;;;;;;;;x
 b_gambila;Gambila;;;;;;;;;;;;x
 b_bauchi;Bauchi;;;;;;;;;;;;x
 b_datsi;Datsi;;;;;;;;;;;;x
-b_anka;Anka;;;;;;;;;;;;x
+b_anka;アンカ;;;;;;;;;;;;x
 b_kano;カノ;;;;;;;;;;;;x
 b_hadejia;アデジャ;;;;;;;;;;;;x
 b_nok;Nok;;;;;;;;;;;;x
 b_turunku;Turunku;;;;;;;;;;;;x
 b_daura;ダウラ;;;;;;;;;;;;x
-b_maradi;Maradi;;;;;;;;;;;;x
+b_maradi;マラディ;;;;;;;;;;;;x
 b_zinder;Zinder;;;;;;;;;;;;x
 b_gobir;ゴビル;;;;;;;;;;;;x
-b_birnin_konni;Birnin Konni;;;;;;;;;;;;x
+b_birnin_konni;ビルニン・コーニ;;;;;;;;;;;;x
 b_katsina;カツィナ;;;;;;;;;;;;x
-b_zaria;Zaria;;;;;;;;;;;;x
+b_zaria;ザリア;;;;;;;;;;;;x
 b_kaduna;Kaduna;;;;;;;;;;;;x
 b_gusau;Gusau;;;;;;;;;;;;x
 b_djimi;ジミ;;;;;;;;;;;;x
@@ -15368,7 +15368,7 @@ b_muli_fuli;Muli Fuli;;;;;;;;;;;;x
 b_sandu;Sandu;;;;;;;;;;;;x
 b_auno;アウノ;;;;;;;;;;;;x
 b_manan;マナン;;;;;;;;;;;;x
-b_furtu;Furtu;;;;;;;;;;;;x
+b_furtu;フルトゥ;;;;;;;;;;;;x
 b_goyawa;Goyawa;;;;;;;;;;;;x
 b_garoumele;Garoumele;;;;;;;;;;;;x
 b_bilma;Bilma;;;;;;;;;;;;x
@@ -15390,7 +15390,7 @@ b_soso;ソソ;;;;;;;;;;;;x
 b_kirina;キリナ;;;;;;;;;;;;x
 b_sibi_mali;シビ;;;;;;;;;;;;x
 b_kita;キタ;;;;;;;;;;;;x
-b_nioro;Nioro;;;;;;;;;;;;x
+b_nioro;ニオロ;;;;;;;;;;;;x
 b_diara;ディアラ;;;;;;;;;;;;x
 b_yaresna;ヤレスナ;;;;;;;;;;;;x
 b_guidimaka;ギディマカ;;;;;;;;;;;;x
@@ -15515,7 +15515,7 @@ b_gausambe;Gausambe;;;;;;;;;;;;x
 b_tchoukoutoli;Tchoukoutoli;;;;;;;;;;;;x
 b_nankassa;Nankassa;;;;;;;;;;;;x
 b_arkolo;Arkolo;;;;;;;;;;;;x
-b_gouam;Gouam;;;;;;;;;;;;x
+b_gouam;グアム;;;;;;;;;;;;x
 b_tigue;ティゲー;;;;;;;;;;;;x
 b_libasso;Libasso;;;;;;;;;;;;x
 b_danouala;Danouala;;;;;;;;;;;;x
@@ -16962,7 +16962,7 @@ c_atlas_mnt_adj;Askedalian;;;;;;;;;;;;x
 c_idjil_adj;ビル・ウン・グライン;;;;;;;;;;;;x
 c_anti-atlas_adj;Safian;;;;;;;;;;;;x
 c_massat_adj;Anfan;;;;;;;;;;;;x
-c_bilma_adj;Bilman;;;;;;;;;;;;x
+c_bilma_adj;ビルマ;;;;;;;;;;;;x
 c_manan_adj;マナン;;;;;;;;;;;;x
 c_djimi_adj;ジミ;;;;;;;;;;;;x
 c_air_adj;アイル;;;;;;;;;;;;x
@@ -16971,7 +16971,7 @@ c_zawila_adj;ザヴィラ;;;;;;;;;;;;x
 c_djado_adj;Djadian;;;;;;;;;;;;x
 c_bornu_adj;Bornian;;;;;;;;;;;;x
 c_kagha_adj;カガ;;;;;;;;;;;;x
-c_munio_adj;Munian;;;;;;;;;;;;x
+c_munio_adj;ムニオ;;;;;;;;;;;;x
 c_masseniya_adj;マッセニヤ;;;;;;;;;;;;x
 c_makari_adj;マカリ;;;;;;;;;;;;x
 c_bauchi_adj;Bauchian;;;;;;;;;;;;x
@@ -18461,7 +18461,7 @@ String_they_averted_it_themselves;\nSuddenly, the taste of blood fills my mouth.
 String_they_lucked_out;Could I have messed up the ingredients...? "Wait!" I call out in desperation, trying to buy myself some time. Something is wrong, I think frantically, but it is too late. The [other_combatant.GetManWoman] [other_combatant.GetKillingBlowOnMeShort].;;;;;;;;;;;;x
 EVTDESC_HFP_10105_default_A;「決闘びよりだな！」ほくそ笑みながら[Root.GetDuelWeapon]を持ち上げると、[other_combatant.GetTitledFirstName]は「おしゃべりはたくさんだ！」と唸り声を上げた。直後、[other_combatant.GetWeaponInjuringBlow]し、その顔は[Root.Capital.GetGroundDesc]に沈んだ。;;;;;;;;;;;;x
 EVTDESC_HFP_10105_default_B;敵は緊張していて、鎧もあまり合っていないので、日を改めるか尋ねようかとまで思った…。瞬く間にその思考を止め、新鮮な朝の空気に感覚を研ぎ澄ます。[other_combatant.GetCharacterLook][other_combatant.GetManWoman]は直ぐに地面に転がり、痛みで呻き声を上げることになった。;;;;;;;;;;;;x
-EVTDESC_HFP_10105_default_C;The sun is beginning to set when I meet with [other_combatant.GetTitledFirstName], my [GetDuelWeapon] ready. After [other_combatant.GetSheHe] [other_combatant.GetClumsilyElegantly] dodges one attack, my next one lands perfectly. Frantically, the [other_combatant.GetManWoman] attempts to cover [other_combatant.GetHerHis] injured [other_combatant.GetBodyPartInjured], but I have rarely seen so much blood...!;;;;;;;;;;;;x
+EVTDESC_HFP_10105_default_C;日が落ちようとしていた。[other_combatant.GetTitledFirstName]と対峙する。我が手には[GetDuelWeapon]、それを構える。一振り目を[other_combatant.GetSheHe]は[other_combatant.GetClumsilyElegantly]回避する。が、次の一撃は完璧な手応え。取り乱すように[other_combatant.GetManWoman]は[other_combatant.GetBodyPartInjured]の負傷を抑えようとする。が、滅多に見ないほどの大出血のようだ…！;;;;;;;;;;;;x
 EVTDESC_HFP_10106_default_A;"Don't look so glum", [other_combatant.GetTitledName] offers. [other_combatant.GetSheHeCap] has me on the ground, *again*, and I am losing any patience I ever had. "You oaf-" I begin, but I collapse from the pain. The [other_combatant.GetManWoman] has managed to [Root.GetWeaponInjuringBlowOnMe], and the clear scent of blood has me dizzy.;;;;;;;;;;;;x
 EVTDESC_HFP_10106_default_B;I am not sure what is wrong with me, but nothing I do has any effect on [other_combatant.GetTitledFirstName]. "Come on, don't give up already!" [other_combatant.GetSheHe] commands, disgruntlement clear in [other_combatant.GetHerHis] voice. I try to rise, but I can't. My [Root.GetBodyPartInjured] hurts like it never has before. "I am just going to rest a little, here in the [Root.Capital.GetGroundDesc]", I mumble.;;;;;;;;;;;;x
 EVTDESC_HFP_10106_default_C;Pain is throbbing in my [GetBodyPartInjured], and I clench my jaw, trying not to cry. "It's not over!" I growl, but my opponent is lowering [other_combatant.GetHerHis] weapon. The last rays of the evening sun envelops [other_combatant.GetHerHim], and suddenly, [other_combatant.GetSheHe] looks like a warrior sent by the heavens themselves...! In an attempt to say something about it, I pass out.;;;;;;;;;;;;x
@@ -19319,7 +19319,7 @@ EVTDESCHFM20367;天幕の中に軍を練る指揮官たちの大声が響く。[
 EVTDESCHFN20367;天幕の中に軍を練る指揮官たちの大声が響く。[coronation_priest.GetTitledFirstName]の特使は[coronation_ruler.GetFirstName]に簡単な祝福をし、神の恩寵によって[coronation_ruler.PrimaryTitle.GetName]の[coronation_ruler.GetTitle]であると略式に宣言をしてその頂きに王冠を載せた。;;;;;;;;;;;;x
 EVTDESCHFC20369;式典がようやく終了したので、[From.GetTitledFirstName]は別れを告げ、[From.GetHerHis]の私的な天幕から私を他の客人と一緒に解放した。;;;;;;;;;;;;x
 crowned_in_war;戦場の戴冠式;;;;;;;;;;;;x
-crowned_in_war_desc;After endless procrastination, this ruler was eventually forced to be crowned in a hurry at the worst of times, in the middle of a war.;;;;;;;;;;;;x
+crowned_in_war_desc;延々と先延ばしにした後、この統治者は戦争の最中という最悪の時に急いで王位に就くことを余儀なくされた。;;;;;;;;;;;;x
 tooltip_eldership_stance_ruler_is_ruler;統治者である;;;;;;;;;;;;x
 tooltip_eldership_stance_elder_content;§Y満足§!である;;;;;;;;;;;;x
 tooltip_eldership_stance_elder_councilor;§Y評議会§!でよい地位を与えられた;;;;;;;;;;;;x
@@ -19524,8 +19524,8 @@ EVTDESC_HF_49008;Constantinople falls to great cheers from the [From.Religion.Ge
 string_42120_extra_text;In the middle of the fighting, [byzantine_refugee.GetDynName], the [From.Religion.GetName]-sponsored pretender to the Byzantine throne, died.;;;;;;;;;;;;x
 c_bayuda_adj;Bayudan;;;;;;;;;;;;x
 c_gezira_adj;Geziran;;;;;;;;;;;;x
-king_central_african;Mai;;;;;;;;;;;;x
-tribal_king_central_african;Mai;;;;;;;;;;;;x
+king_central_african;マイ;;;;;;;;;;;;x
+tribal_king_central_african;マイ;;;;;;;;;;;;x
 EVTTITLE_HFP_80000;ゴールドラッシュ！;;;;;;;;;;;;x
 EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of how many there are but quickly loses count. They are numerous, and every single one is filled with nothing but gold. To see such wealth is extraordinary and to know that all of it belong to me...;;;;;;;;;;;;x
 EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;x

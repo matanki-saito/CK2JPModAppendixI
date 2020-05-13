@@ -221,7 +221,7 @@ EVTDESC_RIP_30203;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様をこの�
 EVTOPTA_RIP_30203;[From.GetSheHeCap]は私の掌の上だ。;;;;;;;;;;;;x
 EVTDESC_RIP_30204;[GetFromRootInsult]の[Root.GetBestName]へ\n貴様のくだらない暇つぶしに付き合ってやるつもりも、その時間もない。もっと他にやることがあるだろう。領内を走り回ったらどうだ？\n\n（署名）、[From.GetBestName];;;;;;;;;;;;x
 EVTOPTA_RIP_30204;腰抜けの臆病者め……;;;;;;;;;;;;x
-EVTOPTA_RIP_30204_TOOLTIP;Your plans to end your life have been foiled. Perhaps you will make another attempt, in time...\n;;;;;;;;;;;;x
+EVTOPTA_RIP_30204_TOOLTIP;自らの人生を終わらせる企ては挫かれてしまった。おそらくだが、その内別の方法を試みるかもしれない…\n;;;;;;;;;;;;x
 EVTDESC_RIP_30205_LOST;[suicide_duel_target.GetTitledFirstName]を欺くのは簡単だった。[suicide_duel_target.GetSheHeCap]はあなたを倒すことに夢中で、あなたに防御する意思がないことにも気づかなかった。[suicide_duel_target.GetHerHis]の剣があなたの喉をとらえるのに時間はかからなかった。;;;;;;;;;;;;x
 EVTDESC_RIP_30205_WON;この無能な[suicide_duel_target.GetManWoman]は何をやらせてもだめだった！あなたがことあるごとに隙を見せていたにもかかわらず、[suicide_duel_target.GetTitledFirstName]はいくつかかすり傷をつけることしかできなかった。;;;;;;;;;;;;x
 EVTDESC_RIP_30205_INCAPABLE;すべては計画通りに進んでいるかに見えた。[suicide_duel_target.GetTitledFirstName]はあなたに防御するつもりがないとは気づかず、あなたはすぐに膝をついた。救いの剣が首に振り下ろされるのを待っていたが、[suicide_duel_target.GetSheHe]はあなたの後頭部に剣の柄を打ち込んできた……;;;;;;;;;;;;x

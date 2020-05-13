@@ -1674,7 +1674,7 @@ EVTOPTA_4409_GREEDY;軽率な行動を慎むことができていたら...;;;;;;
 EVTDESC_4405_SLOTHFUL;[Root.GetMOCode]の信奉者にとって、[Root.GetPrayers]の言葉と、[Root.Religion.GetScriptureName]の学習は重要 – と、少なくとも私の[Root.Religion.GetPriestTitle]は語る。しかしながら、[Root.GetMOPenanceMeditation]が何日も続く中で、集中し続けるのは骨が折れる。私は、ただここに座っているだけではないか、と感じることもある。ほんの一瞬、目を閉じたとして...それが悪いことだろうか?;;;;;;;;;;;;x
 EVTOPTA_4405_SLOTHFUL;少し昼寝をしてもいいですね。;;;;;;;;;;;;x
 EVTOPTB_4405_SLOTHFUL;疲れ始めたら、もっと努力しなければなりません！;;;;;;;;;;;;x
-EVTDESC_4406_SLOTHFUL;I was so immensely bored by my [Root.GetPrayers] and [Root.Religion.GetScriptureName], but after a little nap my duties did not feel quite so impossible anymore. I cannot expect myself to become like [Root.GetMOSaint] overnight. One step at a time, I say!;;;;;;;;;;;;x
+EVTDESC_4406_SLOTHFUL;私は[Root.GetPrayers]と[Root.Religion.GetScriptureName]にとても退屈していたが、少し仮眠をとった後は、この使命はもう不可能だと感じなかった。一晩で[Root.GetMOSaint]のようになるとは思えない。何事も一歩ずつ！;;;;;;;;;;;;x
 EVTOPTA_4406_SLOTHFUL;それは私にとって賢明なことでした。;;;;;;;;;;;;x
 EVTDESC_4407_SLOTHFUL;控えめに言って、寝覚めの心地は悪かった。私は床に沈んでいて、服の胸の部分のあちこちにはよだれが垂れていた。椅子に座りなおすと、私は部屋が真っ暗なことに呆然としてしまった。すでに真夜中で、ろうそくは燃え尽きていた。;;;;;;;;;;;;x
 EVTOPTA_4407_SLOTHFUL;ほんの少し仮眠をとるだけだったのに！;;;;;;;;;;;;x
@@ -1694,8 +1694,8 @@ assassins_borrow_money_effect_tooltip;The Grand Master will get in contact with 
 EVTDESC_MNM_4410;わたしにとって、[Root.GetMOPenanceMeditation]の間の最大の課題は、孤独だ。ここで座って[Root.GetMOCode]について黙考していると、誰かと無性に話したくなる想念に駆られるものの、なんとか、隠遁生活が始まってから一言も口を利かないでいた。私は[potential_friend.GetTitledFirstName]が友人たちと闊達な会話をしているのを見るためだけに、窓の外をちらっと見やった。;;;;;;;;;;;;x
 EVTOPTA_MNM_4410;あそこへ降りて、議論に参加しよう。ほんの数分だけだ!;;;;;;;;;;;;x
 EVTOPTB_MNM_4410;ここにいて、孤独と思索を深めよう。;;;;;;;;;;;;x
-EVTDESC_MNM_4411;While [potential_friend.GetTitledFirstName] and [potential_friend.GetHerHis] friends were surprised to see me, they were excellent company! As I stood there, surrounded by people, I could not stop talking. What was supposed to be a few minutes turned into an hour before my companions had to excuse themselves and get back to their duties.;;;;;;;;;;;;x
-EVTOPTA_MNM_4411;That was nice, although I know I shouldn't have.;;;;;;;;;;;;x
+EVTDESC_MNM_4411;[potential_friend.GetTitledFirstName]と[potential_friend.GetHerHis]の友達は私を見て驚いたが、彼らは素晴らしい友だった！人々に囲まれてそこに立っていたので、私は話をやめられなかった。数分とされていた時間が1時間になり、私の仲間たちは席を外して仕事に戻らなければならなかった。;;;;;;;;;;;;x
+EVTOPTA_MNM_4411;気分がいい、が、自分のやるべきことをやるべきだった;;;;;;;;;;;;x
 EVTDESC_MNM_4412;これは私に課せられた試練だ、早々に音を上げるわけにはいかない。私は、席に戻り、[Root.Religion.GetScriptureName]の写し書きを中断したところから再開した。最初の数ページは、中庭の陽気な友人たちが気になったが、しばらくすると読書の中に平穏を見出した。;;;;;;;;;;;;x
 EVTOPTA_MNM_4412;孤独は必ずしも悪いものではない。;;;;;;;;;;;;x
 EVTDESC_MNM_4413;I left the window and returned to my copy of [Root.Religion.GetScriptureName] and continued where I had left off. However, my heart was not really in it, and thoughts about the jolly friends in the courtyard kept distracting me. Then my thoughts drifted to my own companions, and how they had made no attempts to get in touch for weeks...;;;;;;;;;;;;x
@@ -3371,7 +3371,7 @@ fragment_of_true_cross;聖釘;;;;;;;;;;;;x
 fragment_of_true_cross_desc;イエスが磔刑に処された際にその体を打ちつけた釘です。聖十字架にまつわるものを所有する貴方は大変な名門です！;;;;;;;;;;;;x
 bones_of_st_peter_desc;この小さな鉄の箱には最初の教皇とされている「使徒」ペテロの骨が入っていると考えられています。これを所有することはキリスト教世界の羨望の的です。;;;;;;;;;;;;x
 holy_foreskin_desc;イエス・キリストの包皮は生誕より8日目に切り取られ、雪花石膏の箱にナルドの香油とともに保存のため納められた。かようにして、キリストが天に召されてのち、地上で唯一の肉体の残滓となっている。;;;;;;;;;;;;x
-crown_of_thorns_desc;The crown of thorns that Jesus wore during his crucifixion. Once intended to mock Jesus' claims of divine authority, it now has become a symbol of precisely that.;;;;;;;;;;;;x
+crown_of_thorns_desc;イエスが磔になったときに着けさせられた棘の冠。かつてはイエスが主張する神権を嘲る目的があったが、それは今では逆に神権の象徴となっている。;;;;;;;;;;;;x
 seamless_robe_of_jesus_desc;The woven tunic that Jesus wore before his crucifixion. Rather than divide it into four parts, like Christ's other garments, the tunic was without seams, and so was kept whole by the soldiers who had crucified him.;;;;;;;;;;;;x
 staff_of_moses_desc;天地創造の第六日目に造られ、神からモーセに与えられた杖。紅海を裂き、岩から水を生み出し、コブラに変身するなど、数々の奇跡を起こした。;;;;;;;;;;;;x
 davids_harp_desc;イスラエル王ダビデは王になる以前、サウル王の宮廷でハープ奏者として仕えていた。このハープは彼が使ったもので、何千年経った後でも未だにその素晴らしさは衰えない。;;;;;;;;;;;;x
@@ -3526,8 +3526,8 @@ monastic_may_become_friends;§Y[monastic_friend.GetTitledFirstName]§! が私と
 monastic_may_lead_to_more;何か問題が? 何もしてないよ......不自然なことは。\n;;;;;;;;;;;;x
 played_strategy_game;戦略ゲームで遊んだ;;;;;;;;;;;;x
 played_strategy_game_desc;This character has engaged in a game of military thinking with a friend.;;;;;;;;;;;;x
-discussed_scripture;Discussed Holy Text;;;;;;;;;;;;x
-discussed_scripture_desc;This character discussed the holy text with a friend.;;;;;;;;;;;;x
+discussed_scripture;聖典に関する議論;;;;;;;;;;;;x
+discussed_scripture_desc;この人物は友人と一緒に聖典に関する議論をしました。;;;;;;;;;;;;x
 discussed_realm_management;領国統治に関する議論;;;;;;;;;;;;x
 discussed_realm_management_desc;This character discussed the intricacies of realm management with a friend.;;;;;;;;;;;;x
 took_stroll_small_talk;Practiced Small Talk;;;;;;;;;;;;x
@@ -3555,7 +3555,7 @@ EVTOPTA_MNM_4611;掴んで走れ！;;;;;;;;;;;;x
 EVTOPTA_MNM_4611_TT;大胆かつ単純ですが、誰も見ていない隙を狙ってできるだけ早く実行するだけでは成功しないでしょう…\n;;;;;;;;;;;;x
 EVTOPTB_MNM_4611;修道院長を買収してみよう;;;;;;;;;;;;x
 EVTOPTB_MNM_4611_TT;だれも周りにいないことを保証するために修道院長を買収すれば、ほぼ成功は保証されます。しかしながら、高額がかかることも保証されているでしょう...\n;;;;;;;;;;;;x
-EVTOPTC_MNM_4611;Play a trick on everyone.;;;;;;;;;;;;x
+EVTOPTC_MNM_4611;ひと芝居打とう;;;;;;;;;;;;x
 EVTOPTC_MNM_4611_TT;うまくごまかせば、誰にも気づかれずにうまく遺物を手に入れられるかもしれない。\n;;;;;;;;;;;;x
 EVTOPTD_MNM_4611;恋人に助けを請おう！;;;;;;;;;;;;x
 EVTOPTD_MNM_4611_TT;愛の力は常に勝利を呼ぶ…そうだろ？\n;;;;;;;;;;;;x
