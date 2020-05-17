@@ -5755,7 +5755,7 @@ bloodline_effect_bloodline_mercenary_traditions;Children can prove themselves as
 carolingian_desc;優れた戦士であり偉大な政治家であった彼はフランク人を誰もが認めるガリアの支配者として確立し、イスラム教徒を破ったトゥール・ポワティエ間の戦いで軍隊を率いていた。;;;;;;;;;;;;x
 ragnarr_lodbrok_desc;伝説のヴァイキングの英雄。彼はフランク人とアングロサクソン人に対して数多くの襲撃を行い、セーヌ川を航海して首尾よくパリを包囲した。;;;;;;;;;;;;x
 seljuk_desc;An Oghuz Turkic warlord, Seljuk started out an officer in the Khazar army. He later went on to found his own clan, seeking adventure away from his ancestral home.;;;;;;;;;;;;x
-william_the_conqueror_desc;Born an illegitimate bastard, he more than proved himself after successfully claiming the throne of England – becoming known as 'the Conqueror'.;;;;;;;;;;;;x
+william_the_conqueror_desc;非嫡出の私生児として生まれ、イングランド王位継承権を首尾よく手に入れた後、己が力量を存分に証明した。―しかる後「征服王」として知られるようになる。;;;;;;;;;;;;x
 genghis_khan_desc;The founder of the Mongol Empire, proclaimed 'Genghis Khan' (Universal Ruler) by the many subjugated peoples of the steppe. An extremely brutal and efficient leader.;;;;;;;;;;;;x
 el_cid_desc;A military leader and hero of great renown. The Moors dubbed him 'El Cid' ('the Lord'), while the Christians called him 'El Campeador' ('Outstanding Warrior').;;;;;;;;;;;;x
 timur_desc;In his native tongue, Timur means 'Iron'. Despite being crippled by two arrows, he was both a military genius and a statesman capable of instilling great loyalty.;;;;;;;;;;;;x
@@ -15228,7 +15228,7 @@ b_tchalta;Tchalta;;;;;;;;;;;;x
 b_ngargue;Ngargué;;;;;;;;;;;;x
 b_koufe;Koufé;;;;;;;;;;;;x
 b_fachi;ファシー;;;;;;;;;;;;x
-b_goulo;Goulo;;;;;;;;;;;;x
+b_goulo;グロ;;;;;;;;;;;;x
 b_kemkaga;Kemkaga;;;;;;;;;;;;x
 b_mbarou;Mbarou;;;;;;;;;;;;x
 b_tiadam;Tiadam;;;;;;;;;;;;x
@@ -15444,7 +15444,7 @@ b_diba;Diba;;;;;;;;;;;;x
 b_morimissala;Morimissala;;;;;;;;;;;;x
 b_manyanbougou;Manyanbougou;;;;;;;;;;;;x
 b_ouario_ouario;Ouario Ouario;;;;;;;;;;;;x
-b_gourel_bassirou;Gourel Bassirou;;;;;;;;;;;;x
+b_gourel_bassirou;グレル・バシルー;;;;;;;;;;;;x
 b_seriwala;Sériwala;;;;;;;;;;;;x
 b_djila;Djila;;;;;;;;;;;;x
 b_dongossela;Dongosséla;;;;;;;;;;;;x
@@ -17247,7 +17247,7 @@ c_zatec_adj;Zatecian;;;;;;;;;;;;x
 c_opava_adj;Opavian;;;;;;;;;;;;x
 c_domazlice_adj;South-Bohemian;;;;;;;;;;;;x
 trans_saharan_trade_route;サハラ縦断交易路;;;;;;;;;;;;x
-trans_saharan_province_desc;Can only build §YTrade Posts§! in certain Counties along the §YTrans Saharan Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;x
+trans_saharan_province_desc;§Y交易所§!は§Yサハラ縦断交易路§!沿いの州でのみ建設できます。\n 有効な州を表示するには、§Y交易圏マップモード§!を開く;;;;;;;;;;;;x
 tr_gold_mine_2;Gold Mine;;;;;;;;;;;;x
 tr_salt_mine_1;岩塩鉱山;;;;;;;;;;;;x
 ACTIVE_TRADE_ROUTE_MODIFIER;\n交易路によって以下の影響を受けます：\n$MODIFIER$\n\n交易路に建てられた交易所によって全ての州の補正を増加させます。交易路が包囲や占領によって封鎖されている場合、交易は振り分けられ他の交易路は一時的に高いボーナスを得ます。;;;;;;;;;;;;x
@@ -18938,7 +18938,7 @@ b_srebrenik;Srebrenik;;;;;;;;;;;;x
 b_zenthdemeter;Zenthdemeter;;;;;;;;;;;;x
 b_rittium;Rittium;;;;;;;;;;;;x
 b_burgenae;Burgenae;;;;;;;;;;;;x
-b_bassiana;Bassiana;;;;;;;;;;;;x
+b_bassiana;バッシアナ;;;;;;;;;;;;x
 b_bononia;ボノニア;;;;;;;;;;;;x
 b_posga;Posga;;;;;;;;;;;;x
 b_posgawar;Posgawar;;;;;;;;;;;;x

@@ -2703,10 +2703,10 @@ EVTOPTA_MNM_6901;本当に優秀な暗殺者が誰か知らしめてやる。;;;
 EVTOPTA_MNM_6901_TT;§Y[From.GetTitledFirstName]§!に挑む。あなたの勝敗や[From.GetSheHe]がどのようにその結果にたどり着いたかによって多くの結果を得られるかもしれません。あなたは、恒久的または一時的なスキルを習得したり、怪我をしたり、新たな友達を獲得したり、新たなライバルを宣言したりするかもしれません。;;;;;;;;;;;;x
 EVTOPTB_MNM_6901;[From.GetHerHim]に挑む……私は簡単には挑発されないぞ！;;;;;;;;;;;;x
 EVTOPTB_MNM_6901_TT;§Y[From.GetTitledFirstName]§!を無視して訓練に集中します。\n;;;;;;;;;;;;x
-EVTDESC_MNM_6908_A;[From.GetTitledFirstName] was not slow to accept my challenge. It was a simple one: we would both craft disguises and enter the nearby town at noon the next day. The first person to spot the other, sneak up on them and place a dagger at their throat would be the winner!;;;;;;;;;;;;x
+EVTDESC_MNM_6908_A;[From.GetTitledFirstName]はすぐに私の挑戦を受けいれました。太陽が高く上ると同時に変装して町に入り、先に相手を見つけ出し、喉元にナイフを置いた方が勝者となるシンプルな勝負だ！;;;;;;;;;;;;x
 EVTDESC_MNM_6908_B;[From.GetTitledFirstName] gladly accepted my challenge. We decided to not complicate anything – a duel at midday the following day, a pair of daggers our only weapons. The first person to draw blood would be the winner.;;;;;;;;;;;;x
-EVTOPTA_MNM_6908;I am ready.;;;;;;;;;;;;x
-EVTOPTA_MNM_6908_TT;The challenge is about to begin.\n;;;;;;;;;;;;x
+EVTOPTA_MNM_6908;準備はできている。;;;;;;;;;;;;x
+EVTOPTA_MNM_6908_TT;挑戦が始まろうとしている。\n;;;;;;;;;;;;x
 EVTDESC_MNM_6903_A;I was sweating underneath my heavy robe and veil in the relentless noon sun, but this was what my training prepared me for. I kept my eyes peeled and within the hour I spotted another whose gait was incredibly familiar. As I placed the dagger against [From.GetFirstName]'s throat, [From.GetSheHe] laughed heartily. ' A fair victory, [Root.GetSocietyRank].';;;;;;;;;;;;x
 EVTDESC_MNM_6903_B;We were evenly matched, [From.GetTitledFirstName] and I. We had been at it for... hours? I knew I would not last for much longer, and as a last desperate measure, I fearlessly lunged at [From.GetHerHim]. We fell to the ground and I managed to nick [From.GetHerHis] arm. [From.GetFirstName]'s body shook as [From.GetSheHe] laughed underneath me. 'A fair victory, [Root.GetSocietyRank].';;;;;;;;;;;;x
 EVTDESC_MNM_6903_C;We were evenly matched, [From.GetTitledFirstName] and I. I did not remember when we had lost our weapons. Now we were wrestling on the ground, neither of us getting enough of an advantage, sweat soaking our clothes and stinging our eyes. 'Draw?' I breathed. 'Alright, draw,' [From.GetFirstName] chuckled in response.;;;;;;;;;;;;x
