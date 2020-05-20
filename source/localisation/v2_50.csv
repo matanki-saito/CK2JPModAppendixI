@@ -554,7 +554,7 @@ EVTDESC_ZE_8111;二人に近づき、両者を見やると「最近は[target_va
 EVTOPTA_ZE_8111;Leave.;;;;;;;;;;;;x
 EVTDESC_ZE_8112;私はどうでもいいことで[Root.GetHusbandWifeOpp]と激しく口論していたが、[From.GetTitledName]が助けにやってきてくれたお陰で妻との関係はなんとかなったようだ。;;;;;;;;;;;;x
 EVTOPTA_ZE_8112;私は[From.GetHerHim]に借りがあります。;;;;;;;;;;;;x
-CONTINUE_FROM_SAVE;セーブデータから続行する: $NAME$;;;;;;;;;;;;x
+CONTINUE_FROM_SAVE;セーブデータから続行する;;;;;;;;;;;;x
 LOADING_GAME;ゲームを読み込み中;;;;;;;;;;;;x
 coalition_target;標的: $TARGET$;;;;;;;;;;;;x
 coalition_members;メンバー: $MEMBERS$;;;;;;;;;;;;x

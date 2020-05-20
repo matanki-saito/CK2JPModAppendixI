@@ -584,7 +584,7 @@ expel_knights_calatrava_desc;私の領国からカラトラヴァ騎士団を追
 donate_money_to_knights_calatrava;カラトヴァ騎士団に300¤を寄付;;;;;;;;;;;;x
 expelled_d_knights_calatrava;カラトヴァ騎士団を追放;;;;;;;;;;;;x
 catholic_pilgrimage;巡礼に行く;;;;;;;;;;;;x
-catholic_pilgrimage_desc;Some faithful Christians choose to make a great pilgrimage at some point in their lives. The devout pilgrim is prepared to travel long distances in order to visit the holiest places of the faith.;;;;;;;;;;;;x
+catholic_pilgrimage_desc;忠実なキリスト教徒の中には、人生のどこかの時点で大巡礼をすることを選ぶ人もいます。敬虔な巡礼者は、信仰の最も神聖な場所を訪れるために、長距離を旅する準備ができています。;;;;;;;;;;;;x
 on_pilgrimage;巡礼中;;;;;;;;;;;;x
 on_pilgrimage_desc;この人物は大いなる巡礼の旅路の途上にいます。;;;;;;;;;;;;x
 appeased_religious_desc;The people living in this county feel that they and their ruler are blessed by God. They are therefore less likely to revolt.;;;;;;;;;;;;x

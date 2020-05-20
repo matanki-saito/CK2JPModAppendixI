@@ -4979,7 +4979,7 @@ EVTTOOLTIPA_MNM_1800;あなたと[gathering_companion.GetFirstName]は旅に出�
 EVTTOOLTIPB_MNM_1800;森で狩りを行うための小規模なパーティを集めます。;;;;;;;;;;;;x
 EVTTOOLTIPC_MNM_1800;[Root.Capital.Capital.GetName]の賑やかなマーケットの通りへ向かいます。;;;;;;;;;;;;x
 astronomical_insights_1;空を想う;;;;;;;;;;;;x
-astronomical_insights_1_desc;This character is spending a lot of their time looking at the skies.;;;;;;;;;;;;x
+astronomical_insights_1_desc;この人物は天空の考察に多くの時間を費やしています。;;;;;;;;;;;;x
 astronomical_insights_2;宵っ張り;;;;;;;;;;;;x
 astronomical_insights_2_desc;This character is spending a lot of their nights looking at the skies, odd instruments occasionally falling from their pockets.;;;;;;;;;;;;x
 astronomical_insights_3;輝いた瞳;;;;;;;;;;;;x
@@ -5029,8 +5029,8 @@ EVTOPTB_MNM_1844;あなたのその態度の理由がわかりました。すみ
 EVTDESC_MNM_1845;評議会との会議中、頭蓋骨の中からこみ上げてくるような痛みに襲われ、会議の内容が頭に入らなくなっていた。寝不足の影響だ。そんな中、[councillor1.GetTitledFirstName]が私の名前を怒り混じりに叫んだことで意識が戻ると、直後に物凄い剣幕で[councillor1.GetSheHe]が私に賛同を求めてきた。;;;;;;;;;;;;x
 EVTOPTA_MNM_1845;「あ、ああそうだな…？」;;;;;;;;;;;;x
 EVTOPTB_MNM_1845;「申し訳ない、もう一度説明してくれないか？」;;;;;;;;;;;;x
-EVTDESC_MNM_1846;My careful observations of [This.GetRandomPlanetName] has finally allowed me to conclude that the old projections of the planets path across the sky have been flawed. With some precise adjustments I can present a corrected projection.;;;;;;;;;;;;x
-EVTOPTA_MNM_1846;This will lead me closer to the truth behind the mysteries of the world.;;;;;;;;;;;;x
+EVTDESC_MNM_1846;注意深く[This.GetRandomPlanetName]を観測し続けたことで、遂に、夜空に描かれる天体の軌道に関する古い投影画に瑕疵ありと断定するに至った。いくつかの精細な調整を施して、より正確な投影画として公開することができた。;;;;;;;;;;;;x
+EVTOPTA_MNM_1846;世界の神秘に潜む真実により一層近づけるでしょう。;;;;;;;;;;;;x
 EVTDESC_MNM_1847;私が震える手と共に羽根ペンを下ろしたのは早朝のことだ…こんなことは可能なのか？私は流星の軌道を予測したのか？額の汗を拭いて、もう一度同じ計算をやり直す。そして、もう一度同じ結果が出てくる。計算が合致したのだ！私は椅子にもたれかかる。すべての兆候から判断すれば、この驚異がいつ発生するかほば間違いなく知ることができる。;;;;;;;;;;;;x
 EVTOPTA_MNM_1847;夜に来るぞ。私と共に目撃する仲間を集めなければ！;;;;;;;;;;;;x
 EVTOPTB_MNM_1847;このことは私だけに留めておこう。万が一にも間違っているかもしれない。;;;;;;;;;;;;x

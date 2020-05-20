@@ -2071,8 +2071,8 @@ c_almada_adj;アルマダ;;;;;;;;;;;;x
 tribal_king_hungarian;大公;;;;;;;;;;;;x
 tribal_kingdom_of_hungarian;大公国;;;;;;;;;;;;x
 tribal_king_female_hungarian;女大公;;;;;;;;;;;;x
-COURT_LIMITED_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).\n\nRulers can house only a certain number of adult people in their court, depending on the tier of their Title. Beyond that number, §YCourt Expenses§! will increase.;;;;;;;;;;;;x
-COURT_TAB_DRO;The Court mainly consists of various unlanded nobles, but also councilors (who can be landed vassals).;;;;;;;;;;;;x
+COURT_LIMITED_TAB_DRO;宮廷は主に領地を持たない貴族を中心に構成されていますが、領地を持つ評議員もいます。\n\n統治者は肩書きの階級に応じて、特定の数の成人のみを宮廷に収容できます。その数を超えると§Y宮廷費用§!が増加します。;;;;;;;;;;;;x
+COURT_TAB_DRO;宮廷は主に領地を持たない貴族を中心に構成されていますが、領地を持つ評議員もいます。;;;;;;;;;;;;x
 death_text_evil_wonder;For [GetHerHis] wicked deeds, many screamed not to bury [GetFirstName] with the other rulers of our lands, instead to toss [GetHerHim] in an unmarked grave and without the proper services. May [GetFirstName] finally pay for [GetHerHis] sins in the afterlife;;;;;;;;;;;;x
 death_text_started_wonder;[GetHerselfHimself]が名を上げることはありませんでしたが、[GetFirstName]の最も有名な功績は[GetSheHe]が完成を見ることはなかった文化遺産の建設に携わったことでしょう。;;;;;;;;;;;;x
 death_text_architect_wonder;[GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [GetHerHis] labor;;;;;;;;;;;;x

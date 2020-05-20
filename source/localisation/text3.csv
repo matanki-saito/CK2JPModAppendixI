@@ -496,7 +496,7 @@ EVTDESC3230;このところ私は自惚れがすぎる。そう見てとった[R
 EVTOPTE3655;[Root.GetLordSpiritualName]よ、[Root.job_spiritual.GetTitledFirstName]はワイルドハントを恐れています！;;;;;;;;;;;;x
 EVTDESC30059;その[Root.Religion.GetName]の教会の男達は、常に容易く扱えるとは限らない。私は彼らの祝福を得ることができるのか、そして私の妻の[Root.Spouse.GetFirstName] と私の [Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName]が彼らの賛同を得るための助言を私に与えるのか、を確かめなければならない。;;;;;;;;;;;;x
 EVTDESC30072;私とある男性の廷臣との間の友情は非常に特殊です。しかし私は、私の夫の[Root.Spouse.GetFirstName]が古い[Root.GetLordSpiritualName]である [Root.Spouse.job_spiritual.GetFullName]を追い払い、そして 彼の代わりに私の友人を[Root.GetLordSpiritualName]に任命する方法を見つけられなければ、彼を失うのだろうと恐れています。;;;;;;;;;;;;x
-EVTDESC30073;[Root.Spouse.GetFirstName]がとある廷臣に愛情を抱いていることは知っているし、彼女がその男の敬虔さを褒めているのも耳にしている。それだけに、彼女が近づいてきて、彼を[Root.GetLordSpiritualName]に任命するよう私を説得しようとしたときも、特に驚きはしなかった。だが、[Root.job_spiritual.GetFullName]は非常に尊敬されているので、[Root.Spouse.GetFirstName]の言うとおりにした場合には、多くの者が反対するだろう。;;;;;;;;;;;;x
+EVTDESC30073;[Root.Spouse.GetFirstName]がとある廷臣に愛情を抱いていることは知っているし、その男の敬虔さを褒めているのも耳にしている。それだけに、彼女が近づいてきて、彼を[Root.GetLordSpiritualName]に任命するよう説いてきたときも、特に驚きはしなかった。だが、[Root.job_spiritual.GetFullName]は非常に尊敬されているので、[Root.Spouse.GetFirstName]の言うとおりにした場合には、多くの者が反対するだろう。;;;;;;;;;;;;x
 EVTOPTA30073;[Root.Spouse.GetFirstName]の友人を[Root.GetLordSpiritualName]にしてやろう;;;;;;;;;;;;x
 EVTDESC30074;[Root.GetLordSpiritualName]である[Root.Spouse.job_spiritual.GetFullName]は非常に尊敬されているので、私の夫である[Root.Spouse.GetFullName]が私の友人を[Root.GetLordSpiritualName]に任命しようものなら、多くの者が反対し、不平を口にするでしょうが、かまうものですか。私には重臣である友人が必要なのです！;;;;;;;;;;;;x
 EVTOPTA30074;嬉しい！　私の友達が[Root.GetLordSpiritualName]だなんて！;;;;;;;;;;;;x

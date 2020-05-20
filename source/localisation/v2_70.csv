@@ -191,7 +191,7 @@ EVTOPTC_MNM_1842_animal_part;ぐずるでない、我が子よ。[GetSelectedIng
 EVTOPTC_MNM_1842_powder;静まれ、我が子よ。この[GetSelectedIngredient_1]を煎じた水薬が効くだろう。;;;;;;;;;;;;x
 EVTOPTC_MNM_1842_liquid;静まれ、我が子よ。何か作ってやろう、この…うーむ、[GetSelectedIngredient_1]でな。;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_herb;Let us talk about this, while I brew something soothing.;;;;;;;;;;;;x
-EVTOPTC_MNM_1844_animal_part;I'll make it up to you! Let us share some broth from [GetSelectedIngredient_1].;;;;;;;;;;;;x
+EVTOPTC_MNM_1844_animal_part;そなたと仲直りしたいのだ！[GetSelectedIngredient_1]を煮出したクリアスープを共に楽しもうではないか。;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_powder;あー、友よ。君が鉱山で採れたこの[GetSelectedIngredient_1]が必要なのはわかっている。;;;;;;;;;;;;x
 EVTOPTC_MNM_1844_liquid;Well... Would you care for some experiential [GetSelectedIngredient_1] infused beer I've made?;;;;;;;;;;;;x
 nauseous_from_potion;吐き気;;;;;;;;;;;;x

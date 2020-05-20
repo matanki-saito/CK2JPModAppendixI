@@ -1106,7 +1106,7 @@ EVTDESCHFA20389;私の戴冠式からしばらく時間が経ったが、[Root.C
 EVTOPTAHF20389;祭りは商人どもを引きつける口実に利用できるはずだ。;;;;;;;;;;;;x
 EVTOPTBHF20389;あぁ、群衆は楽しませておこう…;;;;;;;;;;;;x
 EVTOPTCHF20389;仕事に戻れ！;;;;;;;;;;;;x
-EVTDESCHFA20390;Word of the lavish period of celebration that surrounded my coronation has spread across the realm and beyond. My name will be forever associated with prestige and wealth.;;;;;;;;;;;;x
+EVTDESCHFA20390;我が戴冠式を祝う贅沢な祝賀会の噂は、領邦にとどまらず広まった。我が名は、富と威信の代名詞として永遠に語り継がれるであろう。;;;;;;;;;;;;x
 EVTOPTAHF20390;素晴らしい。;;;;;;;;;;;;x
 EVTDESCHFA20391;私の戴冠式とそれを取り巻く豪勢な祝宴は一ヶ月前に終わったが、[Root.Capital.GetName]に運ばれてくる交易品や富はまだ活況を呈しており、私の気前の良さが予期せぬ結果を生んだようだ。;;;;;;;;;;;;x
 EVTOPTAHF20391;素晴らしい。;;;;;;;;;;;;x
@@ -4871,7 +4871,7 @@ crowned_by_pope_desc;この支配者は[GetChristName]教皇自らによって�
 pepin_religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to emulate Pepin the Short by fighting to restore the Papal lands of the §Y$TITLE$§! to its rightful owner. This Casus Belli is valid only against any infidel or impious [christian.GetGroupName] who holds land in Central Italy. The Pope will certainly be thankful of §Y$CLAIMANT$'s§! assistance in returning Papal provinces under the Church's control.;;;;;;;;;;;;x
 EVTDESCHFA20211;To [Root.GetTitledName],\nI shall be glad to legitimize your divine right to rule, as soon as you recognize that the Church is no servant to any King or Emperor, but instead watches over the salvation of the souls of all [christian.GetGroupName]s, regardless of their stature. \n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESCHFA20222;The [christian.GetGroupName] Pope has decided to call one of his lackeys to arms against me, in an attempt to reclaim some of the Italian lands currently under my control. [From.GetTitledName] has just declared war against me on the Pope's behalf.;;;;;;;;;;;;x
-EVTDESCHFA20306;Organizing such a monumental ceremony has given me the chance to meet the rulers of the realms neighboring [Root.PrimaryTitle.GetName]. Maintaining healthy relationships with my [christian.GetGroupName] peers is fundamental to ensure future peace and prosperity for my realm. [potential_friend.GetTitledFirstName] in particular seems like a [potential_friend.GetManWoman] I could trust...;;;;;;;;;;;;x
+EVTDESCHFA20306;そのような歴史に名を遺す儀式を準備することは、[Root.PrimaryTitle.GetName]と隣り合う国の統治者と出会う機会となった。[christian.GetGroupName]の同輩との健全な関係を維持することは、我が領地の将来の平和と繁栄を確実にするために不可欠である。特に[potential_friend.GetTitledFirstName]は信頼できる[potential_friend.GetManWoman]のように思える...;;;;;;;;;;;;x
 EVTDESCHFA20315;その夜の[From.GetTitledFirstName]の宮廷は奇妙な成り行きを見せた。主催者は貴族たちの食卓にいる聖職者や学者たちを呼んで、彼らと神学についての長い議論をしようと決めたのだ。この宴会が[christian.GetGroupName]についての勉強会になるとは思わなかったな、正直…;;;;;;;;;;;;x
 EVTOPTAHF20358;Yet, should a [christian.GetGroupName] not eschew excesses?;;;;;;;;;;;;x
 String_the_Benedictine_Order_alternate;勤勉なるものたち;;;;;;;;;;;;x
