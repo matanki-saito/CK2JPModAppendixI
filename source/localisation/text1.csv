@@ -18942,7 +18942,7 @@ TRIGGER_NEW_CHAR;新しいキャラクター;;;;;;;;;;;;x
 ISNT_STATE_RELIGION;主君と異なる宗教である;;;;;;;;;;;;x
 IS_STATE_RELIGION;主君と同じ宗教である;;;;;;;;;;;;x
 NEVER;なし;;;;;;;;;;;;x
-ALWAYS;常にある;;;;;;;;;;;;x
+ALWAYS;常に;;;;;;;;;;;;x
 CANNOT_HOLD_TITLE;の称号を保有できない;;;;;;;;;;;;x
 CAN_HOLD_TITLE;の称号を保有できる;;;;;;;;;;;;x
 IS_NOT_LAND;陸地ではない;;;;;;;;;;;;x

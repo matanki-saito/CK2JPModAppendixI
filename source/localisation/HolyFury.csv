@@ -2962,9 +2962,9 @@ EVTDESCHFPA20043;我が妻 [From.GetFirstName] が妊娠する中、今年の収
 string_goddess_freyja;フレイヤ;;;;;;;;;;;;x
 string_goddess_zemyna;Zemyna;;;;;;;;;;;;x
 string_goddess_akka;アッカ;;;;;;;;;;;;x
-EVTOPTAHFP20043;I will dedicate the entire festival to [From.GetFirstName]!;;;;;;;;;;;;x
-EVTOPTBHFP20043;I will make a larger sacrifice to [Root.GetFertilityGoddess] in her name.;;;;;;;;;;;;x
-EVTOPTCHFP20043;No need to waste money on old superstitions...;;;;;;;;;;;;x
+EVTOPTAHFP20043;[From.GetFirstName]のため、完全無欠の収穫祭を挙行するのだ！;;;;;;;;;;;;x
+EVTOPTBHFP20043;[Root.GetFertilityGoddess]へと、妻の名のもと、多めに供物を捧げるのだ。;;;;;;;;;;;;x
+EVTOPTCHFP20043;古臭い迷信に使う金などない…;;;;;;;;;;;;x
 EVTDESCHFPA20044;I was relieved to hear that [From.GetFirstName] decided to make a huge sacrifice during the seasonal festivity made to honor [Root.GetFertilityGoddess] this year, hoping it would help me deliver a strong child with little complications.;;;;;;;;;;;;x
 EVTOPTAHFP20044;I am sure the goddess will protect me!;;;;;;;;;;;;x
 EVTDESCHFPA20045;[From.GetFirstName] has really gone out of his way to ensure that both our child and I receive the favor of the gods. He has personally organized this year's harvest festival, and elected me to portray [Root.GetFertilityGoddess] herself during the celebration, hoping it will help me deliver a strong, healthy child.;;;;;;;;;;;;x
@@ -7150,7 +7150,7 @@ EVTOPTA_HF_42027_HUNT;突撃して私の手で仕留めてやる！;;;;;;;;;;;;x
 EVTOPTA_HF_42027_DUEL;こういう奴らを倒すには攻撃あるのみだ。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_GAME;よし、これなら私の手で勝利できるだろう！;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SOCIAL;この夜を楽しく過ごせるよう話し相手を見つけなければ。;;;;;;;;;;;;x
-EVTOPTA_HF_42027_SCHOLAR;We need to be assertive, and I will speak my mind.;;;;;;;;;;;;x
+EVTOPTA_HF_42027_SCHOLAR;断固として自説を貫き、自分の思うところを述べよう。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_STEWARD;We should just keep walking, and we will find our way in the end.;;;;;;;;;;;;x
 EVTOPTA_HF_42027_TORTURE;Let us just get this over with already, no need to drag it out.;;;;;;;;;;;;x
 EVTOPTB_HF_42027_HUNT;Let us wait it out.;;;;;;;;;;;;x
@@ -12082,16 +12082,16 @@ EVTOPTAHF25508;これでよいのだ。;;;;;;;;;;;;x
 EVTDESCAHF25509;戦勝の祝宴や、戦友を交えての食事は久しぶりだ。どれだけ伝説的な偉業をなしたとしても、それを敬われず、記憶されなければ意味などあるのだろうか？;;;;;;;;;;;;x
 EVTOPTAHF25509;宴の始まりだ！;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_war;戦争の方針をとる;;;;;;;;;;;;x
-quest_warrior_lodge_weak_focus_to_war_desc;The older members of [Root.Society.GetName] are concerned that I might be neglecting my training to focus on other, menial activities.;;;;;;;;;;;;x
+quest_warrior_lodge_weak_focus_to_war_desc;[Root.Society.GetName]の年嵩の同士より、つまらぬことにかまけて鍛錬を怠っているのでは、との懸念を伝えられた。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_war_tooltip;この任務を完了するには、「§Y戦争の方針§!」を選択してください。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_hunting;狩猟の方針をとる;;;;;;;;;;;;x
-quest_warrior_lodge_weak_focus_to_hunting_desc;The older members of [Root.Society.GetName] have suggested that I spend some time refining my senses by hunting wild game.;;;;;;;;;;;;x
+quest_warrior_lodge_weak_focus_to_hunting_desc;[Root.Society.GetName]の年嵩の同士より、時間を作り手ごろな狩りに出かけてセンスを磨いてはどうかと提案を受けた。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_hunting_tooltip;この任務を完了するには、「§Y狩猟の方針§!」を選択してください。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_rulership;支配の方針をとる;;;;;;;;;;;;x
-quest_warrior_lodge_weak_focus_to_rulership_desc;The older members of [Root.Society.GetName] are concerned that I am neglecting my duties as [Root.GetTitle] to focus on other menial activities.;;;;;;;;;;;;x
+quest_warrior_lodge_weak_focus_to_rulership_desc;[Root.Society.GetName]の年嵩の同士より、つまらぬことにかまけて[Root.GetTitle]としての責務を怠っているのでは、との懸念を伝えられた。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_rulership_tooltip;この任務を完了するには、「§Y支配の方針§!」を選択してください。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_carousing;大酒盛りの方針をとる;;;;;;;;;;;;x
-quest_warrior_lodge_weak_focus_to_carousing_desc;There is a time for fighting and a time for celebrating, and the older members of [Root.Society.GetName] are concerned that I might be neglecting the latter to focus on other, menial activities.;;;;;;;;;;;;x
+quest_warrior_lodge_weak_focus_to_carousing_desc;戦いの時あれば祝いの時あり。[Root.Society.GetName]の年嵩の同士より、つまらぬことにかまけて後者の時間をおろそかにしているのでは、との懸念を伝えられた。;;;;;;;;;;;;x
 quest_warrior_lodge_weak_focus_to_carousing_tooltip;この任務を完了するには、「§Y大酒盛りの方針§!」を選択してください。;;;;;;;;;;;;x
 pirate;海賊;;;;;;;;;;;;x
 pirate_desc;This character has earned a reputation as a fearsome raider.;;;;;;;;;;;;x
@@ -15015,7 +15015,7 @@ ca_oppressive_fortifications_4_desc;A massive building raised within the fortres
 bloodline_effect_more_philosophers;§Y文化技術の研究§!に更なる効果がある;;;;;;;;;;;;x
 bloodline_effect_better_inquisition;§YCourt Chaplains§! convert §YCounties§! faster;;;;;;;;;;;;x
 bloodline_effect_revocation_plot;Easier to §YPlot§! to §YRevoke Vassal Titles§!;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_TYRANNICAL_BLOODLINE;§Y[From.GetTitledFirstName]§! belongs to a §YTyrannical Bloodline§!;;;;;;;;;;;;x
+TT_PLOT_GAIN_VASSAL_TITLE_TYRANNICAL_BLOODLINE;§Y[From.GetTitledFirstName]§!は§YTyrannical Bloodline§!である。;;;;;;;;;;;;x
 bloodline_effect_dynastic_meddling;Can influence younger\n §YClose Relatives§!;;;;;;;;;;;;x
 dynastic_meddling;Dynastic Meddling;;;;;;;;;;;;x
 dynastic_meddling_desc;Each member of our prestigious family must serve as an example of class and nobility if we wish to maintain our renown.;;;;;;;;;;;;x

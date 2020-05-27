@@ -1573,7 +1573,7 @@ HIGH_PRIO_OFF;重要マークを消す;;;;;;;;;;;;x
 RESET_DECISION_FILTERS;決断の重要マークを初期化;;;;;;;;;;;;x
 TT_FROM_IS_LIEGE_BEFORE_WAR;§Y[From.GetTitledFirstName]§!の直臣\n;;;;;;;;;;;;x
 TT_PLOT_GAIN_VASSAL_TITLE_COUNT_SECONDARY_COUNTY;Is a Count's secondary County\n;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_COUNTY_IN_CAPITAL_DUCHY;Is a County in the held capital Duchy of §Y[From.GetTitledFirstName]§!\n;;;;;;;;;;;;x
+TT_PLOT_GAIN_VASSAL_TITLE_COUNTY_IN_CAPITAL_DUCHY;公爵たる§Y[From.GetTitledFirstName]§!の主要支配地域に属する伯爵である\n;;;;;;;;;;;;x
 TT_PLOT_GAIN_VASSAL_TITLE_DUCHY_ALL_DJ_COUNTIES_NOT_DEFACTO;Is a Duchy with no de jure County under its holder\n;;;;;;;;;;;;x
 TT_PLOT_GAIN_VASSAL_TITLE_DUKE_COUNTY_OUTSIDE_DUCHY;慣習的な主君ではない公爵が州を保有している\n;;;;;;;;;;;;x
 IS_WILLING_TO_JOIN_COURT_IF_BRIBED;§Y金を渡せば、我が宮廷に加わるよう説得できるかもしれない§!;;;;;;;;;;;;x
@@ -3412,7 +3412,7 @@ loot_axe;§P'+2'斧§!;;;;;;;;;;;;x
 loot_axe_desc;この神秘的な斧は紫色の光沢があり、柄には奇妙な記号「+」と「2」が刻まれている。これは通常の武器と比べて、かなり...叙事詩的な...出来栄えのようだ。;;;;;;;;;;;;x
 strange_chest;奇妙な箱;;;;;;;;;;;;x
 strange_chest_desc;この奇妙な箱は、未知の金属で出来ている。開けられないにも関わらず、空っぽでないことだけは明言できるのだった。;;;;;;;;;;;;x
-EVTOPTB_TOG_3300;This aberration of a weapon must be destroyed!;;;;;;;;;;;;x
+EVTOPTB_TOG_3300;このような奇怪な武器など壊してしまえ！;;;;;;;;;;;;x
 necronomicon;ネクロノミコン;;;;;;;;;;;;x
 necronomicon_desc;奇妙な球体のあの世について扱う神秘的な本。多くの奇妙で背徳的な真理がページに記録されている...;;;;;;;;;;;;x
 finger_of_st_john;聖ヨハネの指;;;;;;;;;;;;x
