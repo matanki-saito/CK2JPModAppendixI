@@ -6241,7 +6241,7 @@ string_Sky;スカイ;;;;;;;;;;;;x
 string_Dragon;ドラゴン;;;;;;;;;;;;x
 string_Arrow;アロー;;;;;;;;;;;;x
 pet_hunting_eagle;ハンティング・エッジ;;;;;;;;;;;;x
-pet_hunting_eagle_desc;Whenever this character is out hunting, you can spy a majestic eagle perched at their side, if not scouting the way ahead.;;;;;;;;;;;;x
+pet_hunting_eagle_desc;この人物はいつも狩りに出かけていて、素晴らしく立派な鷲が道を斥候に出るとき以外は一行のそばに止まっているのを見かけるだろう。;;;;;;;;;;;;x
 string_Faithful;フェイスフル;;;;;;;;;;;;x
 string_Hunter;ハンター;;;;;;;;;;;;x
 string_Tricky;トリッキー;;;;;;;;;;;;x
@@ -6252,9 +6252,9 @@ string_Velnias;Velnias;;;;;;;;;;;;x
 string_Tuoni;トゥオニ;;;;;;;;;;;;x
 string_Xolotl;Xolotl;;;;;;;;;;;;x
 string_Veles;ヴェーレス;;;;;;;;;;;;x
-string_Guruhi;Guruhi;;;;;;;;;;;;x
-string_Darkness;Darkness;;;;;;;;;;;;x
-string_ahriman;Ahriman;;;;;;;;;;;;x
+string_Guruhi;グルヒ;;;;;;;;;;;;x
+string_Darkness;ダークネス;;;;;;;;;;;;x
+string_ahriman;アーリマン;;;;;;;;;;;;x
 string_Vinayaka;ヴィナーヤカ;;;;;;;;;;;;x
 string_Mara;Mara;;;;;;;;;;;;x
 string_Punisher;Punisher;;;;;;;;;;;;x
