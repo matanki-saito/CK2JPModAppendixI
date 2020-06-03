@@ -541,7 +541,7 @@ EVTOPTC_WoL_4000;[FromFrom.GetHerHis]のあからさまな退廃はけしから�
 EVTDESC_WoL_4001;親愛なる[GetFromReverseRelation]殿へ\n\n勿論、貴方の晩餐会に参りましょう。どんちゃん騒ぎに備えて腹を出来るだけ空かして参ります！\n\n敬具、\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4001;これは楽しいことになるぞ！;;;;;;;;;;;;x
 EVTDESC_WoL_4002;親愛なる[GetFromReverseRelation]殿へ\n\n残念ですが、今回のお祭り騒ぎには参加できないのです。ですが今回の親切なお誘い、ありがとうございました。\n\nまた次の機会に\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTA_WoL_4002;ああ、[From.GetSheHe]は自分がいないとどんなに寂しいか知らないのだ。;;;;;;;;;;;;x
+EVTOPTA_WoL_4002;ああ、[From.GetSheHe]は自分がいないと皆がどんなに寂しいか知らないのだ。;;;;;;;;;;;;x
 EVTDESC_WoL_4003;親愛なる[GetFromReverseRelation]殿へ\n\n貴方がこんな退廃した可哀想な人になるとは残念です。そりゃ[From.Religion.GetRandomEvilGodName]はこの突飛な企てに笑顔を浮かべているだろうが、それに参加するのは願い下げというものだ。\n\n最終的には改心すると願って\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTA_WoL_4003;なんだと？？;;;;;;;;;;;;x
 EVTOPTB_WoL_4003;少なくとも[From.Religion.GetRandomEvilGodName]にはユーモアの感覚がある。;;;;;;;;;;;;x

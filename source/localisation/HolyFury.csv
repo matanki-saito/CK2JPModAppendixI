@@ -2967,35 +2967,35 @@ EVTOPTBHFP20043;[Root.GetFertilityGoddess]へと、妻の名のもと、多め�
 EVTOPTCHFP20043;古臭い迷信に使う金などない…;;;;;;;;;;;;x
 EVTDESCHFPA20044;I was relieved to hear that [From.GetFirstName] decided to make a huge sacrifice during the seasonal festivity made to honor [Root.GetFertilityGoddess] this year, hoping it would help me deliver a strong child with little complications.;;;;;;;;;;;;x
 EVTOPTAHFP20044;I am sure the goddess will protect me!;;;;;;;;;;;;x
-EVTDESCHFPA20045;[From.GetFirstName] has really gone out of his way to ensure that both our child and I receive the favor of the gods. He has personally organized this year's harvest festival, and elected me to portray [Root.GetFertilityGoddess] herself during the celebration, hoping it will help me deliver a strong, healthy child.;;;;;;;;;;;;x
-EVTOPTAHFP20045;I am so excited!;;;;;;;;;;;;x
-EVTOPTBHFP20045;I am truly flattered.;;;;;;;;;;;;x
-EVTOPTCHFP20045;I am humbled by this honor.;;;;;;;;;;;;x
-EVTDESCHFPA20046;I place the baby back in the arms of the peasant woman and give her a warm smile as she thanks me for the blessing and gives space to the next petitioner. Acting on behalf of [Root.GetFertilityGoddess] for this short time has truly made me understand how I could become a better [Root.GetTitle].;;;;;;;;;;;;x
-EVTOPTAHFP20046;I must talk more often with my subjects.;;;;;;;;;;;;x
-EVTOPTBHFP20046;As a mother is to her children, I must be to my subjects.;;;;;;;;;;;;x
-EVTOPTCHFP20046;I must be a more exemplar worshiper.;;;;;;;;;;;;x
-EVTDESCHFPA20047;Wearing the symbols of divinity, looking at all the hopeful and awestruck faces of the petitioners come to take [Root.GetFertilityGoddess]'s blessing through me... It would be an overwhelming responsibility, if I didn't feel the touch of the goddess upon me.;;;;;;;;;;;;x
-EVTOPTAHFP20047;I am truly special!;;;;;;;;;;;;x
-EVTOPTBHFP20047;Could I be her own descendant?;;;;;;;;;;;;x
+EVTDESCHFPA20045;[From.GetFirstName]は私達の子供と私の両方が神々の寵愛を受けられるように努力を惜しまない。個人的に今年の収穫祭を企画してくれたし、その際に私に[Root.GetFertilityGoddess]自身を演じさせてくれた。;;;;;;;;;;;;x
+EVTOPTAHFP20045;すごく楽しかった！;;;;;;;;;;;;x
+EVTOPTBHFP20045;本当に光栄だ。;;;;;;;;;;;;x
+EVTOPTCHFP20045;この栄誉はとてもありがたい。;;;;;;;;;;;;x
+EVTDESCHFPA20046;赤ん坊を農民の女の腕の中に戻し、彼女が祝福に感謝して次の請願者のためにスペースを空けるのに、温かい微笑みを与える。[Root.GetFertilityGoddess]を代表して行動することで、この短い時間の間に、自分がどのようにしたらより良い[Root.GetTitle]になれるのかを本当に理解することができた。;;;;;;;;;;;;x
+EVTOPTAHFP20046;家臣ともっとよく話をしよう。;;;;;;;;;;;;x
+EVTOPTBHFP20046;子にとっての母のように、臣下にとっての私であろう。;;;;;;;;;;;;x
+EVTOPTCHFP20046;もっと模範的な教徒でなければならない;;;;;;;;;;;;x
+EVTDESCHFPA20047;神具を身にまとい、私を通して[Root.GetFertilityGoddess]の祝福を受けに来た請願者たちの希望と畏敬の念に満ちた顔を見る... 私は神の祝福を感じなければ、重大な責務を負うことになるだろう。;;;;;;;;;;;;x
+EVTOPTAHFP20047;私は特別なのだ！;;;;;;;;;;;;x
+EVTOPTBHFP20047;彼女の子孫になれるだろうか？;;;;;;;;;;;;x
 EVTOPTCHFP20047;No mother was ever as honored as I am.;;;;;;;;;;;;x
-EVTDESCHFPA20048;This festival was no mere coincidence. I can feel the goddess' power coursing through my veins as I administer my blessings to the crowd of petitioners from [Root.Capital.GetName]. I must really be a descendant of [Root.GetFertilityGoddess].;;;;;;;;;;;;x
-EVTOPTAHFP20048;I am a goddess!;;;;;;;;;;;;x
-EVTDESCHFPA20049;Being carried around town, administering blessings on behalf of [Root.GetFertilityGoddess], is not as relaxing or satisfying as I hoped, but the people are loving this year's festival. They are always excited to see me smile at them and hold up their children.;;;;;;;;;;;;x
-EVTOPTAHFP20049;Simple souls are easily impressed...;;;;;;;;;;;;x
-EVTDESCHFPA20050;Another noble guest bows his head at me, giving me his best wishes as my litter is moved through the streets of [Root.Capital.GetName]. I never realized how many of my vassals are devout followers of [Root.GetFertilityGoddess]. Having been elected to portray the goddess during the celebration has endeared me to many people.;;;;;;;;;;;;x
-EVTOPTAHFP20050;I wonder how long it will last?;;;;;;;;;;;;x
+EVTDESCHFPA20048;この祭りは単なる偶然ではなかった。私は[Root.Capital.GetName]からの請願者の群衆に祝福を与えている間、女神の力が私の血脈を流れているのを感じる。私は本当に[Root.GetFertilityGoddess]の子孫に違いない。;;;;;;;;;;;;x
+EVTOPTAHFP20048;我こそが神なり！;;;;;;;;;;;;x
+EVTDESCHFPA20049;[Root.GetFertilityGoddess]に代わって、町中を担ぎ回されて加護を与えるのは、思ったほどのんびりとしたものではないし、満足感もないが、今年のお祭りは人々に喜ばれている。彼らはいつも私が微笑みかけ、子供たちを抱きかかえるのを見て興奮している。;;;;;;;;;;;;x
+EVTOPTAHFP20049;単純な魂は簡単に感動するものよ...;;;;;;;;;;;;x
+EVTDESCHFPA20050;[Root.Capital.GetName]の通りで私の駕籠が移動されるとき、別の高貴な客人が私に頭を下げ、祝いの気持ちを伝えてくれた。これほどの家臣が[Root.GetFertilityGoddess]の敬虔な信者だとは気づかなかった。祝福中の女神の演者に選ばれたことは、私を多くの人々に愛させた。;;;;;;;;;;;;x
+EVTOPTAHFP20050;いつまで続くかな。;;;;;;;;;;;;x
 tooltip_HFPA20050;[Root.PrimaryTitle.GetName]の敬虔な§Y封臣§!全員からの評価が上昇;;;;;;;;;;;;x
-EVTDESCHFPA20051;This year, [From.GetTitledFirstName] was elected to represent [From.GetFertilityGoddess] during the harvest festival. The [From.GetTitle] has really risen up to the task, sharing her motherly love with all her subjects and ensuring prosperity to the land and cattle through her blessings.;;;;;;;;;;;;x
+EVTDESCHFPA20051;今年の収穫祭では、[From.GetTitledFirstName]が[From.GetFertilityGoddess]の代表に選ばれた。[From.GetTitle]は、母なる愛をすべての臣下に分け与え、彼女の祝福によって土地と家畜の繁栄を保証してくれた。;;;;;;;;;;;;x
 EVTOPTAHFP20051;なんて敬虔な女性なんだ！;;;;;;;;;;;;x
-EVTDESCHFPA20052;Portraying [Root.GetFertilityGoddess] during the harvest festival is a very enjoyable experience. An entire crowd of petitioners has come to my [Root.GetHouse] to get my blessing. They all shower me with words of gratitude, many of them have even brought sweets and cider to serve as small offerings to the goddess.;;;;;;;;;;;;x
-EVTOPTAHFP20052;Refusing to eat would be blasphemous!;;;;;;;;;;;;x
-EVTOPTBHFP20052;My throat does get hoarse with all these blessings...;;;;;;;;;;;;x
-EVTDESCHFPA20053;As I administer another blessing, wearing [Root.GetFertilityGoddess]'s regalia, I wonder... If she is the goddess of life and fertility, how can she also be portrayed as virtuous? Is the drive that allows her to bring life to the world more important than her demeanor?;;;;;;;;;;;;x
-EVTOPTAHFP20053;Virtue takes precedence, no doubt.;;;;;;;;;;;;x
-EVTOPTBHFP20053;She inspired lust in all of us so we could create life.;;;;;;;;;;;;x
-EVTDESCHFPA20054;My wife was thrilled to take the role of [Root.GetFertilityGoddess] for the festival. She has been very popular with the public, maintaining a cheerful demeanor, always smiling at everybody. Hopefully this will both help her deliver a strong child as well as spread the goddess' blessing across my lands.;;;;;;;;;;;;x
-EVTDESCHFPB20054;My wife could have not been a more appropriate choice for this year's festival. She is as gentle and caring when giving blessings to my subjects as [Root.GetFertilityGoddess] herself. Hopefully her actions will both help her deliver a strong child as well as spread the goddess' blessing across my lands.;;;;;;;;;;;;x
+EVTDESCHFPA20052;収穫祭の間に[Root.GetFertilityGoddess]を演じるのは、とても楽しい体験だ。私の[Root.GetHouse]には大勢の請願者が私の祝福を受けに来ている。彼らは皆、私に感謝の言葉を浴びせ、その多くは女神にささやかなお供え物としてお菓子やリンゴ酒を持ってきてくれた。;;;;;;;;;;;;x
+EVTOPTAHFP20052;食べるのを拒否するのは冒涜だ！;;;;;;;;;;;;x
+EVTOPTBHFP20052;この恵みのおかげで喉がしゃがれてきた...;;;;;;;;;;;;x
+EVTDESCHFPA20053;[Root.GetFertilityGoddess]の神器を身にまとい、祝福を行う私は疑問に思う。彼女が生命と豊穣の女神であるならば、どうして彼女は高潔な存在とされるのか？ふるまいよりも、世界に生命をもたらす原動力の方が重要なのだろうか。;;;;;;;;;;;;x
+EVTOPTAHFP20053;美徳が優先されるのは間違いない。;;;;;;;;;;;;x
+EVTOPTBHFP20053;彼女が我ら全員の欲望を刺激したので、私たちは生命を創造することがでたのだ。;;;;;;;;;;;;x
+EVTDESCHFPA20054;祭りのために[Root.GetFertilityGoddess]の役を引き受けた妻はわくわくしていた。いつも明るくて笑顔が絶えない彼女は、世間からの人気者だ。これを機に、強い子宝を授かることができるように、また、女神の祝福が私の土地にも広がっていくことを願っている。;;;;;;;;;;;;x
+EVTDESCHFPB20054;私の妻ほど今年の祭りにふさわしい選択はない。彼女は[Root.GetFertilityGoddess]自身と同じように、私の臣民に祝福を与える時には優しくて思いやりがある。彼女の行動が、彼女が強い子を産むのを助けると同時に、女神の祝福が私の土地全体にうまく広がることを願っている。;;;;;;;;;;;;x
 EVTDESCHFPC20054;今年の感謝祭において、我が妻以上にふさわしい選択なぞありえなかった。謙虚と敬虔の化身であった。強き子が生まれ、女神の息吹が我が土地に満ちる。彼女の振る舞いがそんな果報を招いてくれればいいのだが。;;;;;;;;;;;;x
 EVTDESCHFPD20054;妻は、祭りの期間中に[Root.GetFertilityGoddess]としての役割を本当に良く果たした。 彼女はどんな女神にも劣らず横柄に振る舞った。 彼女の行動は少し場違いかもしれないが、少なくとも彼女は楽しんでおり、儀式を適切に管理している。;;;;;;;;;;;;x
 EVTDESCHFPE20054;妻は、祭りの期間中に[Root.GetFertilityGoddess]としての役割を本当に良く果たした。 彼女はどんな女神にも劣らず横柄に振る舞った。私はただ、これらの特別な振る舞いが彼女のエゴを膨らませ、彼女が不注意にも[Root.GetFertilityGoddess]自身を怒らせないことを願っている...;;;;;;;;;;;;x
@@ -3009,7 +3009,7 @@ EVTDESCHFPN20054;My wife might have taken her role as goddess of fertility for t
 EVTOPTAHFP20054_A;そのような子を産んでくれると、確信している。;;;;;;;;;;;;x
 tooltip_HFPA20054;[Root.PrimaryTitle.GetName]の敬虔な§Y封臣§!全員からの評価が上昇;;;;;;;;;;;;x
 EVTDESCHFPA20055;[From.GetFirstName] grows more beautiful every day. I had my doubts at first, but now I cannot deny it any longer: the child is surely blessed. When I played [Root.GetFertilityGoddess] while I was carrying her, the goddess must have touched her and gifted her with her beauty and purity.;;;;;;;;;;;;x
-EVTDESCHFPB20055;[From.GetFirstName] grows more beautiful every day. I had my doubts at first, but now I cannot deny it any longer: the child is surely blessed. When my wife played [Root.GetFertilityGoddess] during the festival, the goddess must have touched the child within her and gifted her with her beauty and purity.;;;;;;;;;;;;x
+EVTDESCHFPB20055;[From.GetFirstName] は日に日に美しくなっていく。最初は疑っていたが、今やもう否定はできない、この子は間違いなく祝福を受けている。妻が[Root.GetFertilityGoddess] を祭りで演じた時、女神は彼女の中の子供に触れ、その美しさと愛嬌を授けてくれたに違いない。;;;;;;;;;;;;x
 EVTOPTAHFP20055;I could never be happier!;;;;;;;;;;;;x
 nick_the_heavenly;the Heavenly;;;;;;;;;;;;x
 EVTDESCHFPA30032;最初は気づかなかったが、今では疑いようもない：[GetFromRelation][From.GetFirstName]は左利きだ。それが常になる前にこの癖を修正したほうがいいかもしれない。;;;;;;;;;;;;x

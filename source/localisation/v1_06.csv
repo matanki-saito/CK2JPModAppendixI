@@ -257,7 +257,7 @@ EVTTOOLTIP7600;請求権の捏造に成功しました。;;;;;;;;;;;;x
 EVTTOOLTIP7601;請求権の捏造に失敗しました。;;;;;;;;;;;;x
 EVTDESC7600;仲間の共謀者の助力を得て[Root.PlotTargetTitle.GetFullBaseName]への請求権捏造を達成しました。;;;;;;;;;;;;x
 EVTOPTA7600;素晴らしい。;;;;;;;;;;;;x
-EVTDESC7601;[Root.PlotTargetTitle.GetFullBaseName]への請求権捏造に失敗しただけでなく、あなたの企みも露見してしまいました。[Root.PlotTarget.GetTitledFirstName]は不愉快な様子だ...;;;;;;;;;;;;x
+EVTDESC7601;[Root.PlotTargetTitle.GetFullBaseName]への請求権捏造に失敗しただけでなく、あなたの企みも露見してしまった。[Root.PlotTarget.GetTitledFirstName]は不愉快な様子だ...;;;;;;;;;;;;x
 EVTOPTA7601;これには訳がありまして...;;;;;;;;;;;;x
 ca_culture_group_north_germanic_1;ハスカール練兵場;;;;;;;;;;;;x
 ca_culture_group_north_germanic_2;ハスカール練兵場;;;;;;;;;;;;x
@@ -1015,7 +1015,7 @@ EVTOPTA7885;よろしい。だが遅れてはくれるなよ！;;;;;;;;;;;;x
 EVTOPTB7885;駄目だ、バカ者め！あれは罠だ！;;;;;;;;;;;;x
 EVTTOOLTIP7885;[This.GetTitledFirstName]を、路傍の待ち伏せで殺す手筈を整える。;;;;;;;;;;;;x
 EVTDESC7886;小径を半リーグも進まない内に、追いはぎどもに取り囲まれてしまった！馭者を追い払うと、興味があるのはおまえだけだと言い放った。手持ちの金品をすべて渡すと言ってみても、ただ笑うばかりだった。奴らの目当ては、君の命だ。;;;;;;;;;;;;x
-EVTOPTA7886;わかったぞ。成りすましの傭兵どもめ[FromFrom.GetTitledFirstName]の手先だな……。;;;;;;;;;;;;x
+EVTOPTA7886;わかったぞ。成りすましの傭兵どもめ、[FromFrom.GetTitledFirstName]の手先だな……。;;;;;;;;;;;;x
 EVTOPTA7887;お、お前たちは追いはぎじゃないな！;;;;;;;;;;;;x
 EVTDESC7888;急ごしらえの妨害物を無理やり押し通り、追いはぎどもの待ち伏せを辛くものがれた！奴らは急発進する馬車めがけて、後ろから正確な矢の一斉射を浴びせてきた。もう少しで当たるところだった。;;;;;;;;;;;;x
 EVTOPTA7888;こんな見事な弓の遣い手は、[FromFrom.GetTitledFirstName]の抱える傭兵の他にはいない……。;;;;;;;;;;;;x
