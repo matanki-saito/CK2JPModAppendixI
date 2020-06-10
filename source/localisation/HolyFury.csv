@@ -7151,11 +7151,11 @@ EVTOPTA_HF_42027_DUEL;こういう奴らを倒すには攻撃あるのみだ。;
 EVTOPTA_HF_42027_GAME;よし、これなら私の手で勝利できるだろう！;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SOCIAL;この夜を楽しく過ごせるよう話し相手を見つけなければ。;;;;;;;;;;;;x
 EVTOPTA_HF_42027_SCHOLAR;断固として自説を貫き、自分の思うところを述べよう。;;;;;;;;;;;;x
-EVTOPTA_HF_42027_STEWARD;We should just keep walking, and we will find our way in the end.;;;;;;;;;;;;x
-EVTOPTA_HF_42027_TORTURE;Let us just get this over with already, no need to drag it out.;;;;;;;;;;;;x
-EVTOPTB_HF_42027_HUNT;Let us wait it out.;;;;;;;;;;;;x
-EVTOPTB_HF_42027_DUEL;Yes, let us tire them out.;;;;;;;;;;;;x
-EVTOPTB_HF_42027_GAME;I believe [From.GetSheHe] has a plan, and will hold my position.;;;;;;;;;;;;x
+EVTOPTA_HF_42027_STEWARD;ひたすら歩くのみだ。最終的には道がわかるだろう。;;;;;;;;;;;;x
+EVTOPTA_HF_42027_TORTURE;もう十分だ。引っ張らなくていい。;;;;;;;;;;;;x
+EVTOPTB_HF_42027_HUNT;待つことにしよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42027_DUEL;よし、奴らを疲れさせることにしよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42027_GAME;[From.GetSheHe]には何か策があるのだろう。自分の場所を守るとしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_SOCIAL;I will just try and enjoy the rest of the evening.;;;;;;;;;;;;x
 EVTOPTB_HF_42027_SCHOLAR;Let them show their own incompetence.;;;;;;;;;;;;x
 EVTOPTB_HF_42027_STEWARD;Let us try and remember where we came from in the first place.;;;;;;;;;;;;x
