@@ -708,7 +708,7 @@ WAR_NAME_PAPAL_RELIGIOUS;$ORDER$$FIRST_ADJ$教皇領$OTHER_TITLE$回復戦争;;;
 pepin_religious_cb_succ_tip;教皇領は係争中称号の元にある全称号の内、邪教徒が保持するものについては請求権、[Root.Religion.GetName]領主に保有するものについては臣従を主張します。;;;;;;;;;;;;x
 opinion_requested_papal_investiture;教皇叙任権を要求している;;;;;;;;;;;;x
 opinion_requested_papal_land;教皇領を要求している;;;;;;;;;;;;x
-opinion_requested_land_holyorder;Demands Holy Order grants;;;;;;;;;;;;x
+opinion_requested_land_holyorder;騎士団への土地贈与を要請する;;;;;;;;;;;;x
 opinion_requested_independence;独立を要求している;;;;;;;;;;;;x
 opinion_requested_excommunication_war;破門戦争を要求している;;;;;;;;;;;;x
 opinion_requested_antipope_war;対立教皇の排除を望んでいる;;;;;;;;;;;;x
@@ -901,9 +901,9 @@ EVTOPTAHF20321;私は、最も偉大な[Root.GetTitle]になってみせよう�
 EVTOPTBHF20321;This is a sign to stop slouching and take my work seriously.;;;;;;;;;;;;x
 EVTDESCHFA20322;With all this pomp and circumstance, all these lavish preparations, and with my coronation so close, I am finally starting to understand the weight and importance of my role as [Root.GetTitle]. People expect great things of me.;;;;;;;;;;;;x
 EVTOPTAHF20322;彼らを失望させはしない。;;;;;;;;;;;;x
-EVTOPTBHF20322;Yet I should not let pride blind me.;;;;;;;;;;;;x
+EVTOPTBHF20322;しかし、私は驕りに自分の目を欺くべきではない。;;;;;;;;;;;;x
 EVTDESCHFA20323;誰もがとても親切で、私に敬意を表している。たった数日前に会った重要な人たちもたくさんいる。 この戴冠式は、私が思ったよりもはるかに重要だ。 [Root.GetTitle]になるのは本当に素晴らしいことだ！;;;;;;;;;;;;x
-EVTOPTAHF20323;I am the most important person EVER!;;;;;;;;;;;;x
+EVTOPTAHF20323;私は古から今に至るまで一番重要な人だ。;;;;;;;;;;;;x
 EVTOPTBHF20323;これがどれほど重要なことなのかがわかるように努力せねば。;;;;;;;;;;;;x
 EVTDESCHFA20324;今晩[coronation_priest.GetTitledFirstName]は、戴冠式に付随して組織したひと月にわたる素晴らしい祝祭に[coronation_priest.GetSheHe]がどれほど満足しているかについて個人的に知らせるために、私に話しかけた。[coronation_priest.GetSheHe]が宮廷でどれだけ歓迎されているかを知っていて、私の偉大さに期待していることを明らかにしておきたいと望んでいた。;;;;;;;;;;;;x
 EVTOPTAHF20324;光栄です。;;;;;;;;;;;;x
@@ -916,7 +916,7 @@ EVTOPTCHF20326;この偉大な人物の後継者としてふさわしい存在�
 EVTDESCHFA20327;Late this evening, as the servants were clearing up our tables, [coronation_priest.GetTitledName] decided to talk to me about my new responsibilities after the coronation: as a [Root.Religion.GetName] [Root.GetTitle], I will be sworn to care for the secular needs of all my subjects as well as to stand against the tide of sin and heresy beseeching our world.;;;;;;;;;;;;x
 EVTOPTAHF20327;The world will never know a more devout [Root.GetTitle] than me.;;;;;;;;;;;;x
 EVTOPTBHF20327;Let us talk about the details of these responsibilities...;;;;;;;;;;;;x
-EVTOPTCHF20327;Empty words and nothing more.;;;;;;;;;;;;x
+EVTOPTCHF20327;空虚な言葉以外にほかはない。;;;;;;;;;;;;x
 EVTDESCHFA20328;I can only imagine what pressure [From.GetTitledFirstName] must be under, to be given the responsibility of an entire realm while so young must be overwhelming. Perhaps I should take some time aside before dinner and try to teach [From.GetHerHim] a few things about being a good [Root.GetTitle], and thus repay the kindness [From.GetSheHe] did me by inviting me to such a lavish celebration.;;;;;;;;;;;;x
 EVTOPTAHF20328;Your [From.GetHonorific], could you lend me your ear for a moment?;;;;;;;;;;;;x
 EVTOPTBHF20328;I am sure [From.GetSheHe] will be able to handle it.;;;;;;;;;;;;x
@@ -928,7 +928,7 @@ EVTTOOLTIPHF20331;[From.GetTitledFirstName] is displeased of your refusal.;;;;;;
 EVTDESCHFA20330;[From.GetTitledFirstName] was happy to learn more about [From.GetHerHis] upcoming responsibilities as a [From.GetTitle] from me. I am sure that what I told [From.GetHerHim] tonight will be of great use to [From.GetHerHim] in the future, and it will make [From.GetHerHis] realm more prosperous as well.;;;;;;;;;;;;x
 EVTOPTAHF20330;良い行動はそれ自体が報酬になる。;;;;;;;;;;;;x
 EVTDESCHFA20331;Perhaps [From.GetTitledFirstName] is too young to understand that I was only attempting to aid [From.GetHerHim]: [From.GetSheHe] did not listen to my words and dismissed [From.GetHerselfHimself] as soon as [From.GetSheHe] could. This sacred ceremony might well be just a big game for [From.GetHerHim].;;;;;;;;;;;;x
-EVTOPTAHF20331;Such is the foolishness of youth.;;;;;;;;;;;;x
+EVTOPTAHF20331;青二才だ。;;;;;;;;;;;;x
 EVTDESCHFA20332;その夜、私は驚いた。[coronation_priest.GetTitledFirstName]が私が主催した祝宴の期間をこれから取ろうとしている神聖な雰囲気を台無しにしていると述べたからだ。[coronation_priest.GetSheHeCap]はその訪問中に多くの不敬な行為や堕落した行為を目撃し、衝撃と反発を受けたと言って私を叱責し、言葉を締めくくった。;;;;;;;;;;;;x
 EVTOPTAHF20332;Clearly [coronation_priest.GetSheHe] is exaggerating...;;;;;;;;;;;;x
 EVTDESCHFA20333;今夜の多くの人々は驚いた。[coronation_priest.GetTitledFirstName]が[From.GetTitledFirstName]が主催した祝宴の期間は[From.GetSheHe]が取ろうとしている神聖な雰囲気を台無しににしていると述べたからだ。[coronation_priest.GetSheHeCap]はその訪問中に多くの不敬な行為や堕落した行為を目撃し、衝撃と反発を受けたと言って叱責し、言葉を締めくくった。;;;;;;;;;;;;x
@@ -966,7 +966,7 @@ EVTOPTDHF20364;邪魔をしないほうがいい。;;;;;;;;;;;;x
 EVTDESCHFA20343;[From.GetTitledFirstName] decided to interfere with my argument with [coronation_priest.GetTitledFirstName]. While [From.GetSheHe] forced me to stop from further deriding the [coronation_priest.GetTitle], [From.GetSheHe] was also kind enough to recognize the validity of some of my complaints about [coronation_priest.GetFirstName]'s behavior.;;;;;;;;;;;;x
 EVTOPTAHF20343;At least [coronation_priest.GetSheHe] stopped preaching...;;;;;;;;;;;;x
 EVTDESCHFA20344;[From.GetTitledFirstName] decided to interfere with my argument with [coronation_priest.GetTitledFirstName], and predictably, the [From.GetTitle]-to-be decided to take the side of the [coronation_priest.GetTitle]. There is no doubt in my mind that [From.GetSheHe] did so only because [From.GetSheHe] does not wish to risk losing the officiant of [From.GetHerHis] coronation.;;;;;;;;;;;;x
-EVTOPTAHF20344;What a hypocrite.;;;;;;;;;;;;x
+EVTOPTAHF20344;まったく偽善者だな。;;;;;;;;;;;;x
 EVTDESCHFA20345;[From.GetTitledFirstName] decided to interfere with my argument with [coronation_priest.GetTitledFirstName], and surprisingly, the [From.GetTitle]-to-be took my side, going against the [coronation_priest.GetTitle] who is supposed to crown [From.GetHerHim] only a few days from now.;;;;;;;;;;;;x
 EVTOPTAHF20345;I will not forget your kindness, [From.GetFirstName].;;;;;;;;;;;;x
 EVTDESCHFA20346;今朝、奇妙な訪問者が宮廷に現れた。彼は放浪騎士であり、戴冠式の知らせを聞いて [Root.Capital.GetName] に来たらしい。彼はその剣にかけて、私に仕えたいと言い放った。私ほど聡明で有名な [Root.GetTitle] に仕えるためなら、死んでも構わないのだという。;;;;;;;;;;;;x
