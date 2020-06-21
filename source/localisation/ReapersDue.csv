@@ -2973,7 +2973,7 @@ DEPOPULATION_PROTECTION_VIEW_MINOR;§Y小規模§!;;;;;;;;;;;;x
 DEPOPULATION_PROTECTION_VIEW_MEDIUM;§Y中規模§!;;;;;;;;;;;;x
 DEPOPULATION_PROTECTION_VIEW_MAJOR;§Y大規模§!;;;;;;;;;;;;x
 opinion_unjust_execution;同胞を処刑した;;;;;;;;;;;;x
-PROVINCE_HOSPITAL_ICON_PROVINCE_TOTAL;この州は合計$VALUE$の§Y耐病性§!がある\n$SOURCES$\nより高い§Y耐病性§!は大感染を起こす可能性や州に感染が拡大する可能性が低くなります;;;;;;;;;;;;x
+PROVINCE_HOSPITAL_ICON_PROVINCE_TOTAL;この州は合計$VALUE$の§Y耐病性§!がある\n$SOURCES$\nより高い§Y耐病性§!は大感染を起こす可能性や州に感染が拡大する可能性を低減します;;;;;;;;;;;;x
 TRIGGER_HOSPITAL_OWNER;病院の所有者;;;;;;;;;;;;x
 HOSPITALS_INTERFACE_LABEL;§Y病院§!;;;;;;;;;;;;x
 HOSPITAL_LEVEL_TOOLTIP;レベル$LEVEL|Y$;;;;;;;;;;;;x
@@ -3487,7 +3487,7 @@ convert_to_spouse_religion_named; [Root.GetPossPronoun]の[Root.Religion.GetName
 convert_to_spouse_religion_desc;配偶者や側室のピロートークでの話は非常に説得力がある。私は§Y[Root.GetFirstName]§!が信仰しているものに改宗し、§Y[Root.Religion.GetName][Root.Religion.GetGroupName]§!の一員になることができる…;;;;;;;;;;;;x
 opinion_built_building;直轄領に建設の資金提供をした;;;;;;;;;;;;x
 PROVINCE_TOOLTIP_DISEASE_WEIGHT;- $DISEASE|Y$、 感染量$VALUE|R$ ($UNDEFENDED$);;;;;;;;;;;;x
-PROVINCE_TOOLTIP_DISEASE_WEIGHT_UNDEFENDED;以前は$VALUE$であり、§Y耐病性§!は$DISEASE_RESISTANCE$下がった;;;;;;;;;;;;x
+PROVINCE_TOOLTIP_DISEASE_WEIGHT_UNDEFENDED;$DISEASE_RESISTANCE$の§Y耐病性§!により、$VALUE$から軽減;;;;;;;;;;;;x
 IS_PROVINCE_OWNER_OR_LIEGE;州があなたやあなたの封臣に領有されている;;;;;;;;;;;;x
 GAME_STARTED_IN;$DATE|Y$にゲームを始めました;;;;;;;;;;;;x
 GAME_LASTED;ゲームは$LENGTH|Y$年続いています;;;;;;;;;;;;x
