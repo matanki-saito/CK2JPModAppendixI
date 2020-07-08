@@ -589,7 +589,7 @@ EVTDESC8153;[From.GetTitledName]は私に、[From.PlotTarget.GetTitledName]の�
 EVTDESC8154;[From.GetTitledName]は、[From.PlotTarget.GetTitledName]を消すのに必要な、希少な毒の購入資金の提供を断った。;;;;;;;;;;;;x
 EVTOPTA8154;自腹で何とかするぞ！;;;;;;;;;;;;x
 EVTOPTB8154;ならば止めだ;;;;;;;;;;;;x
-EVTDESC8155;なんと楽しい宴会だろう。周りにいるのは友人たちと愛する人々だけだ…私はまだ飲み足りないぞ。給仕よ、もっとワインをくれ！;;;;;;;;;;;;x
+EVTDESC8155;なんと楽しい宴会だろう。周りにいるのは友人たちと愛する人々だけだ… 私はまだ飲み足りないぞ。給仕よ、もっとワインをくれ！;;;;;;;;;;;;x
 EVTOPTA8155;あー、こいつに限るな！;;;;;;;;;;;;x
 EVTOPTB8155;待て、変な臭いがするぞ！;;;;;;;;;;;;x
 EVTDESC8156;毒だ！私の身体の感覚がだんだんなくなっていき、視界もぼやけてきた。下手人の名前を大声で呪いながら死んでやる！;;;;;;;;;;;;x
@@ -605,7 +605,7 @@ EVTOPTA8160;古典的だな！;;;;;;;;;;;;x
 EVTTOOLTIP8161;計画を承認する;;;;;;;;;;;;x
 EVTDESC8161;[From.GetTitledName]は[From.PlotTarget.GetTitledName]を毒殺するという私の案を採用した。[Root.Religion.GetRandomGodName]は私をお許しになることだろう!!;;;;;;;;;;;;x
 EVTOPTA8161;準備を始める;;;;;;;;;;;;x
-EVTDESC8162;[From.GetTitledName]は[From.PlotTarget.GetTitledName]の暗殺計画が順調に進んでいることを知らせてくれた。[From.PlotTarget.GetSubjectPronounCap]は1ヶ月内に晩餐会で毒酒により亡き者となるだろう。;;;;;;;;;;;;x
+EVTDESC8162;[From.GetTitledName]は[From.PlotTarget.GetTitledName]の暗殺計画が順調に進んでいることを知らせてくれた。[From.PlotTarget.GetSubjectPronounCap]は1ヶ月内に晩餐会で毒ワインにより亡き者となるだろう。;;;;;;;;;;;;x
 EVTOPTA8162;古典的だな！;;;;;;;;;;;;x
 EVTDESC8163;成功だ！[From.GetTitledName]は毒入りワインを飲んで死んだ。だが不幸なことに、私の関与がばれてしまった。;;;;;;;;;;;;x
 EVTOPTA8163;よくやった。しかし…これはまずいな。;;;;;;;;;;;;x
