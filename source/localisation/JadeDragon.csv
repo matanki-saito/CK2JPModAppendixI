@@ -1547,7 +1547,7 @@ EVT_39811_TT;聖アダイ騎士団を編成;;;;;;;;;;;;x
 manichean_DESC;Manichaeism is a Gnostic religion founded by the alleged Prophet Mani who was put to death by Sassanid Shahanshah Bahram I in 277 A.D. His 'Religion of Light' incorporated elements of Christianity, Zoroastrianism, Buddhism and Gnosticism. In the game, Manichaeism is regarded as Zoroastrian heresy with its own special mechanics. The formal head of the religion is Yamag, who normally resides in Samarkand.;;;;;;;;;;;;x
 d_manichean;マニ教会;;;;;;;;;;;;x
 YAMAG;Yamag;;;;;;;;;;;;x
-job_spiritual_manichean;Didaskalos;;;;;;;;;;;;x
+job_spiritual_manichean;教師;;;;;;;;;;;;x
 organize_army_light;Form the Army of Light;;;;;;;;;;;;x
 organize_army_light_desc;As the age of Crusades and renewed Jihad looms, it is your duty to call forth warriors to defend the Manichean faith.;;;;;;;;;;;;x
 celebrate_bema_desc;Hold a Bema festival to celebrate life of the prophet Mani.;;;;;;;;;;;;x

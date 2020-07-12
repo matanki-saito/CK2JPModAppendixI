@@ -38,7 +38,7 @@ EVTOPTA_CM_1409;Those treacherous [From.Culture.GetName]s!;;;;;;;;;;;;x
 EVTOPTB_CM_1409;Such treachery!;;;;;;;;;;;;x
 CALL_ALL_ALLIES;全ての同盟相手に参戦要請を送る;;;;;;;;;;;;x
 CALL_ALL_NO_WAR;戦争中ではないため、封臣や同盟国に参戦要請を送ることはできない;;;;;;;;;;;;x
-CALL_ALL_ALLIES_INFO;§GHold §YControl§G to Call all Allies to War§!;;;;;;;;;;;;x
+CALL_ALL_ALLIES_INFO;§G§Yコントロールキー§Gを押すとすべての同盟相手に参戦要請できます§!;;;;;;;;;;;;x
 CharlemagneDLC;『Charlemagne』;;;;;;;;;;;;x
 EarlyWesternClothingDLC;『Early Western Clothing Pack』;;;;;;;;;;;;x
 EarlyEasternClothingDLC;『Early Eastern Clothing Pack』;;;;;;;;;;;;x

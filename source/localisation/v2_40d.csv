@@ -104,8 +104,8 @@ EVTDESC20227;[From.GetTitledFirstName] wisely - though reluctantly - accepted my
 EVTDESC20228;私の有能な[From.GetJobTitle]である[From.GetTitledFirstName]は[FromFrom.GetTitledName]から追加の資金を絞り出すことに成功した。[FromFrom.GetSubjectPronoun]にとってはあまり良いことではないだろうが……;;;;;;;;;;;;x
 EVTDESC20229;[From.GetTitledFirstName] outrageously refused my demand for extra contributions to my liege, [Liege.GetTitledFirstName], claiming [From.GetSubjectPronoun] is under no such obligations!;;;;;;;;;;;;x
 EVTOPTA20229;[GetRootFromInsult]！;;;;;;;;;;;;x
-EVTDESC20231;The [GetRootFromFromInsult], [FromFrom.GetTitledFirstName], outrageously refused to pay the extra tribute demanded by my [Root.GetTreasurerName], [From.GetTitledFirstName]!;;;;;;;;;;;;x
-EVTOPTA20231;I shall not forget this...;;;;;;;;;;;;x
+EVTDESC20231;[GetRootFromFromInsult][FromFrom.GetTitledFirstName]は、[Root.GetTreasurerName][From.GetTitledFirstName]に要求された追加の貢物を強く拒否した。;;;;;;;;;;;;x
+EVTOPTA20231;この件は忘れぬぞ…;;;;;;;;;;;;x
 action_train_troops_nomadic;戦士の訓練;;;;;;;;;;;;x
 action_train_troops_nomadic_desc;人的資源の増加を高めるために、[GetMarshalName]を派遣します。;;;;;;;;;;;;x
 action_clan_sentiment;氏族感情の改善;;;;;;;;;;;;x
