@@ -893,13 +893,13 @@ EVTTOOLTIPAHF20318;あなたのスピーチのせいで、全ての来客の評�
 EVTDESCHFA20319;[From.GetTitledFirstName]は晩餐会を前にして、[From.GetHerHis]の賓客全員の耳目を集めることを決心し、善き[From.GetTitle]の美徳を我田引水することに多大なる時間を費やした。[From.GetHerHisCap]の演説は熱烈で的を射ており、[From.GetSheHe]が並外れた統治者になるであろうと多くの出席者をして確信させるには十分であった。;;;;;;;;;;;;x
 EVTDESCHFB20319;幼き[From.GetTitledFirstName]は晩餐会を前にして、[From.GetHerHis]の賓客全員の耳目を集めることを決心し、善き[From.GetTitle]の美徳を並べ立てることに多大なる時間を費やした。年端も行かぬ子供がかかる英知をもう示しているのを見るのは実に驚くべきことであった。その神童ぶり故に、[From.GetHerHis]の演説の後、多くの者は [From.GetHerHis]の幼齢にもかかわらず、[From.GetFirstName]が卓越した[From.GetTitle]となるかもしれぬことを確信した。;;;;;;;;;;;;x
 EVTOPTAHF20319;私自身も含めて。;;;;;;;;;;;;x
-EVTDESCHFA20320;[From.GetTitledFirstName] decided to call for the attention of all [From.GetHerHis] guests before tonight's dinner and spent a great deal of time decanting the virtues of a good [From.GetTitle]. Sadly, [From.GetHerHis] speech was stale and filled with platitudes, and not many believed in the conviction that [From.GetSheHe] proclaimed to have.;;;;;;;;;;;;x
-EVTDESCHFB20320;The young [From.GetTitledFirstName] decided to call for the attention of all [From.GetHerHis] guests before tonight's dinner and spent a great deal of time listing the virtues of a good [From.GetTitle]. Unfortunately, the child was not up to the task and stopped midway through [From.GetHerHis] speech, rushing away, red with embarrassment.;;;;;;;;;;;;x
+EVTDESCHFA20320;[From.GetTitledFirstName]は晩餐会を前にして、 [From.GetHerHis]の賓客全員の耳目を集めることを決心し、善き[From.GetTitle]の美徳を我田引水することに多大なる時間を費やした。不運にも、[From.GetHerHis]の演説は陳腐で決まり文句に満ちており、[From.GetSheHe]が有すると公言した確信に至る者はさほど多くはなかった。;;;;;;;;;;;;x
+EVTDESCHFB20320;幼き[From.GetTitledFirstName]は晩餐会を前にして、 [From.GetHerHis]の賓客全員の耳目を集めることを決心し、善き[From.GetTitle]の美徳を並べ立てることに多大なる時間を費やした。残念ながら、その任を果たすこと能わず、[From.GetHerHis]の演説を途中でやめると、恥ずかしさで頬を赤らめ、急いで出ていってしまった。;;;;;;;;;;;;x
 EVTOPTAHF20320;なんと残念なことだ。;;;;;;;;;;;;x
 EVTDESCHFA20321;王冠は、重いがそれは苦にはならない。ようやく[Root.GetTitle]になれるという喜びが勝るからだ。 ただ、聖油を塗油された支配者としての新しい責任について考えるとやはり恐れも感じる。;;;;;;;;;;;;x
 EVTOPTAHF20321;私は、最も偉大な[Root.GetTitle]になってみせよう。;;;;;;;;;;;;x
-EVTOPTBHF20321;This is a sign to stop slouching and take my work seriously.;;;;;;;;;;;;x
-EVTDESCHFA20322;With all this pomp and circumstance, all these lavish preparations, and with my coronation so close, I am finally starting to understand the weight and importance of my role as [Root.GetTitle]. People expect great things of me.;;;;;;;;;;;;x
+EVTOPTBHF20321;これは、だらだらするのはやめて、仕事に真剣に取り組めというお告げだ。;;;;;;;;;;;;x
+EVTDESCHFA20322;このようなあらゆる虚飾、こんなにも多くの豪勢な準備の中で、私の戴冠式が間近に迫り、私は[Root.GetTitle]としての私の役割の重さと重大性をいよいよ理解し始めている。民は私の偉業を待ち望んでいる。;;;;;;;;;;;;x
 EVTOPTAHF20322;彼らを失望させはしない。;;;;;;;;;;;;x
 EVTOPTBHF20322;しかし、私は驕りに自分の目を欺くべきではない。;;;;;;;;;;;;x
 EVTDESCHFA20323;誰もがとても親切で、私に敬意を表している。たった数日前に会った重要な人たちもたくさんいる。 この戴冠式は、私が思ったよりもはるかに重要だ。 [Root.GetTitle]になるのは本当に素晴らしいことだ！;;;;;;;;;;;;x
@@ -909,20 +909,20 @@ EVTDESCHFA20324;今晩[coronation_priest.GetTitledFirstName]は、戴冠式に�
 EVTOPTAHF20324;光栄です。;;;;;;;;;;;;x
 EVTDESCHFA20325;今晩[coronation_priest.GetTitledFirstName]は、戴冠式に付随して組織したひと月にわたる素晴らしい祝祭に[coronation_priest.GetSheHe]がどれほど満足しているかについて個人的に知らせるために、[From.GetTitledFirstName]に話しかけた。[coronation_priest.GetFirstName]が宮廷でどれだけ歓迎されているかを知っていて、[From.GetTitledFirstName]の偉大さに期待していることを明らかにしておきたいと望んでいた。;;;;;;;;;;;;x
 EVTOPTAHF20325;実に感慨深い式典だった…;;;;;;;;;;;;x
-EVTDESCHFA20326;[coronation_priest.GetTitledFirstName] took some time after dinner to take me aside and give me a long talk about what my new responsibilities will be after [coronation_priest.GetSheHe] crowns me Holy Roman Emperor. [coronation_priest.GetSheHeCap] warned me that being the heir to Charlemagne, as well as the protector of all Christendom will be a colossal undertaking, and that I should always strive to do my best to live up to the charge.;;;;;;;;;;;;x
+EVTDESCHFA20326;[coronation_priest.GetTitledFirstName]は夕食の後に時間を取って、私を傍らに置き、[coronation_priest.GetSheHe]が私を神聖ローマ皇帝に就かせた後の私の新しい責任は何であるのかについて、じっくりと話してくれた。 [coronation_priest.GetSheHeCap]は私に、シャルルマーニュの後継者であると同時に、全てのキリスト教国の保護者であることは大いなる事業であると戒めた。しかも私はその期待に応え、常に粉骨砕身しなければならないのだ。;;;;;;;;;;;;x
 EVTOPTAHF20326;帝国に新たな栄光をもたらそう。;;;;;;;;;;;;x
 EVTOPTBHF20326;シャルルマーニュと昔の皇帝について詳しく教えてくれ...;;;;;;;;;;;;x
 EVTOPTCHF20326;この偉大な人物の後継者としてふさわしい存在になるために、たゆまぬ努力をしていきます。;;;;;;;;;;;;x
-EVTDESCHFA20327;Late this evening, as the servants were clearing up our tables, [coronation_priest.GetTitledName] decided to talk to me about my new responsibilities after the coronation: as a [Root.Religion.GetName] [Root.GetTitle], I will be sworn to care for the secular needs of all my subjects as well as to stand against the tide of sin and heresy beseeching our world.;;;;;;;;;;;;x
-EVTOPTAHF20327;The world will never know a more devout [Root.GetTitle] than me.;;;;;;;;;;;;x
-EVTOPTBHF20327;Let us talk about the details of these responsibilities...;;;;;;;;;;;;x
+EVTDESCHFA20327;今晩遅く、召使いたちがテーブルを片付けていると、[coronation_priest.GetTitledName]は、戴冠後の私の新たなる責任について、私に話すことにした。そこで私は [Root.Religion.GetName] [Root.GetTitle]として、世に求められ罪と異端の潮流に立ち向かうのみならず、全ての臣民の世俗の要求に気を配ることを誓うだろう。;;;;;;;;;;;;x
+EVTOPTAHF20327;私ほど敬虔さで世に知られた[Root.GetTitle]はいまい。;;;;;;;;;;;;x
+EVTOPTBHF20327;かかる責任の詳細について話そう。;;;;;;;;;;;;x
 EVTOPTCHF20327;空虚な言葉以外にほかはない。;;;;;;;;;;;;x
-EVTDESCHFA20328;I can only imagine what pressure [From.GetTitledFirstName] must be under, to be given the responsibility of an entire realm while so young must be overwhelming. Perhaps I should take some time aside before dinner and try to teach [From.GetHerHim] a few things about being a good [Root.GetTitle], and thus repay the kindness [From.GetSheHe] did me by inviting me to such a lavish celebration.;;;;;;;;;;;;x
-EVTOPTAHF20328;Your [From.GetHonorific], could you lend me your ear for a moment?;;;;;;;;;;;;x
-EVTOPTBHF20328;I am sure [From.GetSheHe] will be able to handle it.;;;;;;;;;;;;x
-EVTDESCHFA20329;I was just preparing myself for dinner, when [From.GetTitledFirstName], one of my foreign guests, decided take me aside, offering to teach me a few things that a good [Root.GetTitle] should know in order to rule wisely.;;;;;;;;;;;;x
+EVTDESCHFA20328;若くして王国全体の責任を委ねられた[From.GetTitledFirstName]がどのような重圧に曝されているのか、想像しただけで圧倒される。おそらく私は夕食の前に少し時間を取って、[From.GetHerHim]に善き[Root.GetTitle]たることについて二三の教えを授けようと試みるべきなのだろう。そして、こうして[From.GetSheHe]が私をかような豪華な祝いに招待してくれた好意に報いるべきである。;;;;;;;;;;;;x
+EVTOPTAHF20328;[From.GetHonorific]、しばしお耳をお貸し頂けますでしょうか？;;;;;;;;;;;;x
+EVTOPTBHF20328;[From.GetSheHe]はそれに対処できるに違いない。;;;;;;;;;;;;x
+EVTDESCHFA20329;私がちょうど夕食の準備をしていたところ、外国人客の一人である[From.GetTitledFirstName]が私を脇に連れて行き、善き[Root.GetTitle]が賢明な統治をするために知っておくべき幾つかのことを進講したいと申し出た。;;;;;;;;;;;;x
 EVTOPTAHF20329;知りたい！教えてくれ！;;;;;;;;;;;;x
-EVTTOOLTIPHF20330;[From.GetTitledFirstName] is pleased to help you.;;;;;;;;;;;;x
+EVTTOOLTIPHF20330;[From.GetTitledFirstName]がお役に立てれば幸いです。;;;;;;;;;;;;x
 EVTOPTBHF20329;お前は私の家庭教師ではない、対等だ！;;;;;;;;;;;;x
 EVTTOOLTIPHF20331;[From.GetTitledFirstName] is displeased of your refusal.;;;;;;;;;;;;x
 EVTDESCHFA20330;[From.GetTitledFirstName] was happy to learn more about [From.GetHerHis] upcoming responsibilities as a [From.GetTitle] from me. I am sure that what I told [From.GetHerHim] tonight will be of great use to [From.GetHerHim] in the future, and it will make [From.GetHerHis] realm more prosperous as well.;;;;;;;;;;;;x
