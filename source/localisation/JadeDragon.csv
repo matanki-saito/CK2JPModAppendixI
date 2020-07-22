@@ -4229,7 +4229,7 @@ the_sword_and_buckler;剣と盾の指南書;;;;;;;;;;;;x
 the_sword_and_buckler_desc;This manuscript instructs and describes [From.OriginalOwner.Culture.GetName] swordsmanship in detail, with comprehensive step-by-step illustrations.;;;;;;;;;;;;x
 on_government_type_warfare_rename;[Root.Government.GetName]戦記;;;;;;;;;;;;x
 on_government_type_warfare_desc;This tome dedicates chapter upon chapter to highlighting the strengths of [Root.Government.GetName] tactics of war. A subjective matter, some argue.;;;;;;;;;;;;x
-on_government_type_warfare_desc_rename;This tome contains multiple chapters highlighting the many strengths of [Root.Government.GetName] tactics of war. While educational, critics argue that it's a bit [Root.GetPublicOpinionOfWork].;;;;;;;;;;;;x
+on_government_type_warfare_desc_rename;この書は、[Root.Government.GetName]の兵法における様々な強みを強調した複数の章で成り立っている。とはいえ教育的には、少し[Root.GetPublicOpinionOfWork]なところが批判されている。;;;;;;;;;;;;x
 lessons_taught_to_me_by_rival_1;我が敵から発想を受け学んだこと;;;;;;;;;;;;x
 lessons_taught_to_me_by_rival_1_desc;In this manuscript, [From.OriginalOwner.GetName] discusses [From.OriginalOwner.GetHerHis] least favorite things about meeting a personal enemy on the field.;;;;;;;;;;;;x
 lessons_taught_to_me_by_rival_1_desc_rename;[Root.GetTitledName] has long feuded with [dedication_target.GetBestName]. In this rare and personal history, [Root.GetTitledFirstName] spends page upon page listing noteworthy events and lessons from their complicated relationship.;;;;;;;;;;;;x

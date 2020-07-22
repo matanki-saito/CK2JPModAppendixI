@@ -4357,7 +4357,7 @@ EVTOPTA_HF_10006_TT_1;§Y[new_recruit.GetTitledName]§!と§Y[duel_target.GetTit
 EVTDESC_HF_10006_no;[new_recruit.GetTitledFirstName] listened while I explained our tradition of one-on-one duels, but then rolled [new_recruit.GetHerHis] eyes and walked off. "I would rather not get involved with barbarians.";;;;;;;;;;;;x
 EVTOPTA_HF_10006_no;Why, that little-... The coward!;;;;;;;;;;;;x
 EVTDESC_HFP_10095_mock_duel;My [hero_character.GetSisterBrother] in [Root.Society.GetName], [hero_character.GetTitledName], informs me that [combatant_1.GetBestName] needs someone to partake in a [combatant_1.GetDuelType], in an attempt for the eager recruit to prove [combatant_1.GetHerselfHimself] to us. The only respectable response would be to agree to help out.;;;;;;;;;;;;x
-EVTDESC_HFP_10096_mock_duel;[hero_character.GetBestName]と[From.Society.GetName]は[From.GetTitledName]を私の対戦相手に選んだ。私達が引き合わされた時、[From.GetAgeAdjective] [From.GetManWoman]は私を上から下まで見た。「新入りか、ええ？」[From.GetSheHe]はからかうように良い、肘で私を押しのけ、皆を笑わせた。;;;;;;;;;;;;x
+EVTDESC_HFP_10096_mock_duel;[hero_character.GetBestName]と[From.Society.GetName]は[From.GetTitledName]を私の対戦相手に選んだ。私達が引き合わされた時、[From.GetAgeAdjective] [From.GetManWoman]は私を上から下まで見た。「新入りか、ええ？」[From.GetSheHe]はからかうように言い、肘で私を押しのけ、皆を笑わせた。;;;;;;;;;;;;x
 EVTOPTA_HFP_10096;[GetDuelType]だろう？;;;;;;;;;;;;x
 EVTOPTA_HFP_10096_TT;決闘は数日以内に行われます。\n;;;;;;;;;;;;x
 String_smack_hard_across_body_part;smack my [Root.GetDuelWeapon] down, hard, across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;x
@@ -6290,7 +6290,7 @@ weapon_battlefield_rename_1;[battlefield_location.GetTerrainCap]の短刀;;;;;;;
 weapon_battlefield_rename_2;重剣『[battlefield_location.GetGroundDescCap]』;;;;;;;;;;;;x
 weapon_battlefield_rename_3;職人技の短剣;;;;;;;;;;;;x
 sword_1_battlefield_desc;もとは敵兵の装備であったが、[OriginalOwner.GetTitledFirstName]が戦場から持ち帰って以来ここに飾られている。[OriginalOwner.GetFirstName]の戦場での勇敢さを示すささやかなシンボルだという者もあれば、[OriginalOwner.GetHerHim]に敵対する者への警告だという者もいる。;;;;;;;;;;;;x
-sword_2_battlefield_desc;A weapon lost by enemy soldiers, [OriginalOwner.GetTitledFirstName] kept this weapon on display, after bringing it back from battle. "Spoils of war", some reason. "Sentimental nonsense", others say.;;;;;;;;;;;;x
+sword_2_battlefield_desc;[OriginalOwner.GetTitledFirstName]は敵兵が落とした武器を戦場から持ち帰り、飾っていた。なぜか「戦利品」と呼ばれる。他人からは「馬鹿げた感傷」と言われる。;;;;;;;;;;;;x
 sword_3_battlefield_desc;According to legend, stolen from a frightened enemy officer, [Root.GetTitledFirstName] treasured this beautiful weapon, allowing it to serve [Root.GetHerHim] both in battle and conversation.;;;;;;;;;;;;x
 weapon_battlefield_desc_rename_1;質に欠けるものの、[Root.GetTitledFirstName]が[battlefield_location.GetName]の戦場から持ち帰って以来ここに飾られている。[Root.GetHerHis]の戦場での勇敢さを示すささやかなシンボルだという者もあれば、[Root.GetHerHim]に敵対する者への警告だという者もいる。;;;;;;;;;;;;x
 weapon_battlefield_desc_rename_2;[enemy_liege.Culture.GetName]人兵士が失い、[Root.GetTitledFirstName]が[battlefield_location.GetName]の戦場で持ち帰り展示している武器だ。なぜか「戦利品」と呼ばれる。他人からは「馬鹿げた感性」と言われる。;;;;;;;;;;;;x
