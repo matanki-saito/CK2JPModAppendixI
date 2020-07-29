@@ -5756,7 +5756,7 @@ carolingian_desc;優れた戦士であり偉大な政治家であった彼はフ
 ragnarr_lodbrok_desc;伝説のヴァイキングの英雄。彼はフランク人とアングロサクソン人に対して数多くの襲撃を行い、セーヌ川を航海して首尾よくパリを包囲した。;;;;;;;;;;;;x
 seljuk_desc;An Oghuz Turkic warlord, Seljuk started out an officer in the Khazar army. He later went on to found his own clan, seeking adventure away from his ancestral home.;;;;;;;;;;;;x
 william_the_conqueror_desc;非嫡出の私生児として生まれ、イングランド王位継承権を首尾よく手に入れた後、己が力量を存分に証明した。―しかる後「征服王」として知られるようになる。;;;;;;;;;;;;x
-genghis_khan_desc;The founder of the Mongol Empire, proclaimed 'Genghis Khan' (Universal Ruler) by the many subjugated peoples of the steppe. An extremely brutal and efficient leader.;;;;;;;;;;;;x
+genghis_khan_desc;征服した草原の民から「チンギス・ハーン」（世界の支配者）と呼ばれたモンゴル帝国の創設者。 非常に残忍で優秀な指導者。;;;;;;;;;;;;x
 el_cid_desc;A military leader and hero of great renown. The Moors dubbed him 'El Cid' ('the Lord'), while the Christians called him 'El Campeador' ('Outstanding Warrior').;;;;;;;;;;;;x
 timur_desc;In his native tongue, Timur means 'Iron'. Despite being crippled by two arrows, he was both a military genius and a statesman capable of instilling great loyalty.;;;;;;;;;;;;x
 ghaznavid_desc;The founder of the Gahznavid dynasty. In his youth he lived as a slave, but in later life came to rule a mighty kingdom which expanded far towards India.;;;;;;;;;;;;x
@@ -17546,7 +17546,7 @@ TT_EVTOPTAHF24100;Lure your §YGuardian§! to a secluded location to try and §Y
 bloodline_effect_murder_child;Wards are more hazardous;;;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_TITLE;[Recipient.GetOppositeConsortSexCap]を贈る;;;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_LONG_DESC;宮廷にいる適切な年齢の一人を[Recipient.GetOppositeConsortSex]として与えることができます。;;;;;;;;;;;;x
-OFFER_CONSORT_INTERACTION_0;Select a potential [Recipient.GetOppositeConsortSex]. Characters who are your close relatives will confer an opinion bonus (§G+$OPINION$§!).;;;;;;;;;;;;x
+OFFER_CONSORT_INTERACTION_0;[Recipient.GetOppositeConsortSex]候補を選出します。あなたが近親者の場合、評価ボーナス(§G+$OPINION$§!)。;;;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_1;§Y[Recipient.GetBestName]§! に §Y[ThirdPartyCharacter.GetTitledFirstName]§! を[ThirdPartyCharacter.GetConsortSex]とすることを提案する。;;;;;;;;;;;;x
 PRESTIGIOUS_CONSORT;Since [ThirdPartyCharacter.GetSheHe] is your close relative, [Recipient.GetSheHe] will be duly grateful (§G+$OPINION$§!).;;;;;;;;;;;;x
 OFFER_CONSORT_INTERACTION_ACCEPT_SETUP;側室をとる提案を受諾;;;;;;;;;;;;x
@@ -19531,7 +19531,7 @@ EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of h
 EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;x
 EVTDESC_HFP_80010;Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, "Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]";;;;;;;;;;;;x
 EVTOPTA_HFP_80010;なんだと！？ もう金は出ないのか！？;;;;;;;;;;;;x
-EVTDESC_HFP_80015;[depleted_gold_mine_target.GetName]の金鉱採掘が再開されたという知らせを受けた！労働者たちは数日前に新たな鉱脈を発見し、すでに採掘を始めている。;;;;;;;;;;;;x
+EVTDESC_HFP_80015;[depleted_gold_mine_target.GetName]の金鉱採掘が再開されたという知らせを受けた！労働者たちは数日前に発見した新鉱脈で、すでに採掘を始めている。;;;;;;;;;;;;x
 EVTOPTA_HFP_80015;とてつもない吉報だ！;;;;;;;;;;;;x
 EVTDESC_HFP_80020;近頃の[gold_inflation_province.GetName]への金の流入は、現地価格の急騰を招いている。そのせいで私に税を納める農民たちまで窮乏している！;;;;;;;;;;;;x
 EVTOPTA_HFP_80020;それが黄金の対価か……;;;;;;;;;;;;x

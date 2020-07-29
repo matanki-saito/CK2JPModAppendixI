@@ -2431,7 +2431,7 @@ chinese_book_history_name;[offmap_china.GetShortName]の歴史;;;;;;;;;;;;x
 chinese_book_history_desc;A book detailing the lives of the Emperors of one of the great dynasties of China. Not a very exciting read, but it does inspire thoughts of having a dynasty as grand as theirs.;;;;;;;;;;;;x
 chinese_book_economy;中国の経済編年史;;;;;;;;;;;;x
 chinese_book_economy_name;[offmap_china.Governor.GetFirstName]の中国経済編年史;;;;;;;;;;;;x
-chinese_book_economy_desc;A beautiful book bound with great care. Its outlining of the general principles of economy and trade seems incredibly insightful.;;;;;;;;;;;;x
+chinese_book_economy_desc;華麗な装丁で仕上げられた書物。その経済と貿易に関する原則論は驚くべき洞察に満ちている。;;;;;;;;;;;;x
 chinese_painting_of_glitterhoof;閃光蹄の絵;;;;;;;;;;;;x
 chinese_painting_of_glitterhoof_desc;とある皇帝が所有していた名馬「閃光蹄」を描いた美麗な絵。描かれた馬は精緻な細工の施された絹の衣を纏っていて、非常に立派な印象を受ける。;;;;;;;;;;;;x
 chinese_tapestry;交易を描いたタペストリー;;;;;;;;;;;;x
@@ -3096,8 +3096,8 @@ d_han_tiny_2_adj;蘭兵団;;;;;;;;;;;;x
 d_outlaws_of_the_marsh;梁山泊の好漢;;;;;;;;;;;;x
 d_outlaws_of_the_marsh_adj;梁山泊の好漢;;;;;;;;;;;;x
 raise_chinese_honor_guard_desc;As you, or one of our unlanded dynasty members that are in your court, are married to an Imperial Princess or Prince, you can raise their Honor Guard to fight for you in your current war.;;;;;;;;;;;;x
-china_force_to_open;Force Open the [offmap_china.GetFullName];;;;;;;;;;;;x
-china_invade_dragon_throne;Invade the [offmap_china.GetFullName];;;;;;;;;;;;x
+china_force_to_open;[offmap_china.GetFullName]に開国を強制;;;;;;;;;;;;x
+china_invade_dragon_throne;[offmap_china.GetFullName]を侵略;;;;;;;;;;;;x
 offmap_likes_tributaries;属国を好む;;;;;;;;;;;;x
 vassal_of_WP;西域都護府の家臣;;;;;;;;;;;;x
 d_persian_caravan_guards;ペルシャ隊商護衛隊;;;;;;;;;;;;x
