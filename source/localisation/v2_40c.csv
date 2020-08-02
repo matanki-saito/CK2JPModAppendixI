@@ -118,8 +118,8 @@ lycanthropy_desc;満月の時、この人物の周りで奇妙な事が起こり
 EVTTITLE_HL_1400;狼男;;;;;;;;;;;;x
 EVTDESC_HL_1400;ここ数日、夜眠りにつくと、緊張して落ち着かず、あなたの心を不思議な感覚が占めていた。何日もの間、疲れてはいたが、何か重要なことが訪れるのを想像をしてしまい、またも緊張していた。\n\n深夜、目が覚め満月が昇るのを見ると、ついに理解した。月だ、月が私に話しかけるのだ、時が来たと。立ち上がり狼になる時だと、荒野に出て自由になる時だと、そして月の狂気に我を失う時だと...;;;;;;;;;;;;x
 EVTTITLE_HL_1401;満月;;;;;;;;;;;;x
-EVTDESC_HL_1401;The moon has been growing full during the past couple of nights, and with your restlessness is growing. You can sense it coming. It is time again, time to embrace the moon-madness...;;;;;;;;;;;;x
-EVTOPTA_HL_1401;What will the night bring?;;;;;;;;;;;;x
+EVTDESC_HL_1401;ここ数日の夜、月が満ちるようになり、あなたはますます落ち着きを失っている。そして感じる。また月の狂気に身を委ねる時が来た...;;;;;;;;;;;;x
+EVTOPTA_HL_1401;今宵は何がおきるのだ?;;;;;;;;;;;;x
 EVTDESC_HL_1410;あなたは、目についた最も高い丘に達するまで、夜通し走る。月に向かって何時間もの間遠吠えし、月光と狂気の中で喜びに打ち震える。;;;;;;;;;;;;x
 EVTDESC_HL_1420;あなたは夜の間中、ずっと遠くまで、月の狂気に駆り立てられ走り続ける。谷を飛び越え、丘を登り、小さな川で泳ぐ。疲れ果てるまで走り、また走り、そして柔らかい地面の上に体を横たえ、しばしまどろむ…;;;;;;;;;;;;x
 EVTOPTA_HL_1420;So good but so tiring...;;;;;;;;;;;;x

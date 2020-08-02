@@ -2645,11 +2645,11 @@ EVTDESCAHFP21069;Despite my attempts to solicit a clear response from [From.GetH
 EVTDESCBHFP21069;[From.GetTitledFirstName]から明確な回答を得ようという試みは、あまり良く思われなかったようだ。私の大胆で直接的すぎる行為は、[From.GetTitledFirstName]の肌に合わないと見える。;;;;;;;;;;;;x
 EVTOPTAHFP21069;あー! ちくしょう！;;;;;;;;;;;;x
 EVTDESCHFP21071;[From.GetTitledFirstName]に好かれるには何をすれば良いかについて考えるのはとても難しい。 結局のところ、私はすでにとても完璧な男だ。 我が豊かな恩恵を享受する喜び、それを楽しむために、励ましを必要とする者がいるだろうか？;;;;;;;;;;;;x
-EVTOPTAHFP21071;I will write [From.GetHerHim] a letter about me.;;;;;;;;;;;;x
-tooltip_21071_A;Send a letter to §Y[From.GetTitledFirstName]§!, writing about how lucky [From.GetSheHe] is to have a friend like you. Hopefully this will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
-EVTOPTBHFP21071;I will send [From.GetHerHim] one of my statues.;;;;;;;;;;;;x
-tooltip_21071_B;Send a statue to §Y[From.GetTitledFirstName]§! so that [From.GetSheHe] may always gaze upon you whenever [From.GetSheHe] feels to. Hopefully this will §YSway§! [From.GetHerHim] to your cause.;;;;;;;;;;;;x
-EVTOPTCHFP21071;I have no time for [From.GetHerHim].;;;;;;;;;;;;x
+EVTOPTAHFP21071;自分について[From.GetHerHim]に手紙を書くことにしよう;;;;;;;;;;;;x
+tooltip_21071_A;§Y[From.GetTitledFirstName]§!に手紙に書きます。私のような友人がいて[From.GetSheHe]はどれだけ幸運だったか。うまくいけばこれは[From.GetHerHim]をあなたに§Y傾ける§!ことができます。;;;;;;;;;;;;x
+EVTOPTBHFP21071;私の彫像を[From.GetHerHim]に送ることにしよう;;;;;;;;;;;;x
+tooltip_21071_B;[From.GetSheHe]がいつでも私を見つめられるように§Y[From.GetTitledFirstName]§!に彫像を送ります。うまくいけばこれは[From.GetHerHim]をあなたに§Y傾ける§!ことができます。;;;;;;;;;;;;x
+EVTOPTCHFP21071;[From.GetHerHim]にかまっている時間はない;;;;;;;;;;;;x
 EVTDESCAHFP21072;[From.GetTitledFirstName]から手紙を受け取った。 その中で、[From.GetSheHe]はすべての[From.GetHerHis]と見なされる美徳を支持し、[Root.GetTitle]が[From.GetHerHim]からすべての注目を集めるために死ぬことを示唆していた。;;;;;;;;;;;;x
 EVTDESCBHFP21072;The most curious gift arrived today at court. [From.GetTitledFirstName] sent me a statue of [From.GetHerHim], along with [From.GetHerHis] best wishes.;;;;;;;;;;;;x
 EVTOPTAHFP21072;That's very impressive!;;;;;;;;;;;;x
@@ -2657,7 +2657,7 @@ EVTOPTBHFP21072;I suppose [From.GetSheHe] deserves it...;;;;;;;;;;;;x
 EVTOPTCHFP21072;That's a bit too self-serving for my tastes.;;;;;;;;;;;;x
 EVTOPTDHFP21072;Who does [From.GetSheHe] thinks [From.GetSheHe] is?!;;;;;;;;;;;;x
 EVTDESCAHFP21073;[From.GetTitledFirstName] has showered me with justly-earned praise after the kindness I did to [From.GetHerHim]. There is no doubt [From.GetSheHe] has been struck by my show of prestige.;;;;;;;;;;;;x
-EVTDESCBHFP21073;[From.GetTitledFirstName] informed me that [From.GetSheHe] is very flattered by the attention I have given [From.GetHerHim] and that [From.GetSheHe] hopes to remain within my good graces for longer still.;;;;;;;;;;;;x
+EVTDESCBHFP21073;[From.GetTitledFirstName]は、私が[[From.GetHerHim]に注意を払ってくれたことをとても光栄に思っていると、[From.GetHerHim]はまだ長く私の好意の中にいたいと思っていると教えてくれた。;;;;;;;;;;;;x
 EVTOPTAHFP21073;How gracious of [From.GetHerHim]!;;;;;;;;;;;;x
 EVTDESCAHFP21074;How peculiar... [From.GetTitledFirstName] was not impressed by my generous gift. Has my splendor reached such magnitude that common people are too blinded by it to recognize what it is?;;;;;;;;;;;;x
 EVTDESCBHFP21074;Insulting! [From.GetTitledFirstName] had the audacity to claim that I am too full of myself! And right after I so generously expressed my friendship towards [From.GetHerHim] too!;;;;;;;;;;;;x
@@ -7156,8 +7156,8 @@ EVTOPTA_HF_42027_TORTURE;もう十分だ。引っ張らなくていい。;;;;;;;
 EVTOPTB_HF_42027_HUNT;待つことにしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_DUEL;よし、奴らを疲れさせることにしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_GAME;[From.GetSheHe]には何か策があるのだろう。自分の場所を守るとしよう。;;;;;;;;;;;;x
-EVTOPTB_HF_42027_SOCIAL;I will just try and enjoy the rest of the evening.;;;;;;;;;;;;x
-EVTOPTB_HF_42027_SCHOLAR;Let them show their own incompetence.;;;;;;;;;;;;x
+EVTOPTB_HF_42027_SOCIAL;あとはこの夜をただ楽しく過ごすことにしよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42027_SCHOLAR;彼らにその無能さを分からせてやろう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_STEWARD;Let us try and remember where we came from in the first place.;;;;;;;;;;;;x
 EVTOPTB_HF_42027_TORTURE;This is delicate work, after all.;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_SUCCESS;Though the boar fought valiantly, we finally bring the beast down, to loud cheers from all our retainers. It has been a good hunt.;;;;;;;;;;;;x
@@ -7179,7 +7179,7 @@ EVTOPTA_HF_42028_DUEL;This fight is more than I could have hoped for.;;;;;;;;;;;
 EVTOPTA_HF_42028_GAME;It was a brutal close match. ;;;;;;;;;;;;x
 EVTOPTA_HF_42028_SOCIAL;[From.GetSheHe]が楽しんでくれればいいのだが。;;;;;;;;;;;;x
 EVTOPTA_HF_42028_SCHOLAR;この議論から多くのことを学んだ。;;;;;;;;;;;;x
-EVTOPTA_HF_42028_STEWARD;That.. could have been worse, right?;;;;;;;;;;;;x
+EVTOPTA_HF_42028_STEWARD;それは…よくないな、そうだろう？;;;;;;;;;;;;x
 EVTOPTA_HF_42028_TORTURE;Next time it will be even better.;;;;;;;;;;;;x
 EVTDESC_HF_42029_HUNT_SUCCESS;The beast fell to the ground from all the wounds, and all the retainers let out a loud cheer.;;;;;;;;;;;;x
 EVTDESC_HF_42029_HUNT_FAILURE;As we think the beast is finally about to give up, it suddenly ups and charges at [From.GetFirstName], and manage to flee. No matter how much our retainers look for it, they are unable to track it down.;;;;;;;;;;;;x
@@ -10393,7 +10393,7 @@ string_cutting;斬り;;;;;;;;;;;;x
 String_piercing;突いた;;;;;;;;;;;;x
 EVTDESC_HFP_11029;我が軍の指揮官[home_commander.GetBestName]に関して報告を受けた。[battlefield_location.GetName][battlefield_location.GetTerrain]の戦いにおける戦働きは見事であったとのこと。直近の噂によれば、敵指揮官の首を容赦なく跳ね飛ばした後、素早く[home_commander.GetRidingMarching]の身となるや否や、次なる敵へ向かったという。;;;;;;;;;;;;x
 EVTOPTA_HFP_11029;恩賞にふさわしい！;;;;;;;;;;;;x
-EVTOPTB_HFP_11029;My [home_commander.GetRootRelation] has my gratitude.;;;;;;;;;;;;x
+EVTOPTB_HFP_11029;感謝している。;;;;;;;;;;;;x
 EVTDESC_HFP_11030;My [home_liege.GetRootRelation] [home_liege.GetTitledFirstName] is apparently thoroughly impressed by my battle technique. A missive I have received speaks at length about my bravery, and of people telling stories about the decapitation of [enemy_commander.GetTitledFirstName] for years to come.;;;;;;;;;;;;x
 EVTOPTA_HFP_11030;I aim to please.;;;;;;;;;;;;x
 EVTDESC_HFP_11031;I am staring down the [home_commander.GetEnemySoldierDesc] enemy commander, trying to gauge what on earth [home_commander.GetHerHis] armor actually consists of. Are those... rat pelts? My thoughts begin to trail off and I proceed to demand [home_commander.GetHerHis] surrender. But then suddenly the world is spinning, and someone shouts: "Dodge for the flying head!".;;;;;;;;;;;;x
@@ -12097,7 +12097,7 @@ pirate;海賊;;;;;;;;;;;;x
 pirate_desc;This character has earned a reputation as a fearsome raider.;;;;;;;;;;;;x
 pirate_opinion;Pirate Opinion;;;;;;;;;;;;x
 pirate_opinion_EXPLANATION;（海賊への影響）;;;;;;;;;;;;x
-ravager_desc;This character is widely known as a fearsome Ravager, a [Root.GetCulturalPirate] few have fought and lived.;;;;;;;;;;;;x
+ravager_desc;この人物は恐ろしい略奪者として広く知られている。戦い、生きた[Root.GetCulturalPirate]である。;;;;;;;;;;;;x
 tooltip_cultural_pirate_viking;ヴァイキング;;;;;;;;;;;;x
 tooltip_cultural_pirate_pirate;海賊;;;;;;;;;;;;x
 tooltip_religion_feature_pirating;[GetPiratingFeature];;;;;;;;;;;;x

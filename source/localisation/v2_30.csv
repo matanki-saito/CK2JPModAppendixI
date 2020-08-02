@@ -658,7 +658,7 @@ EVTOPTB_WOL_1028;Filth! Denounce them both publicly!;;;;;;;;;;;;x
 EVTDESC_WOL_1031;My suspicious [GetFromRelation] [From.GetFirstName] did not believe my denials and hired spies to uncover my love affair with [FromFrom.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] has denounced us both publicly!;;;;;;;;;;;;x
 EVTDESC_WOL_1010_F;[From.GetFirstName] got angry when I confronted her about her rumored affair with [FromFromFrom.GetTitledName], saying she lives in a prison and that I am denying her even the most basic freedoms.;;;;;;;;;;;;x
 EVTDESC_WOL_1010_M;[From.GetFirstName] got angry when I confronted him about his rumored affair with [FromFromFrom.GetTitledName], saying I have grown cold and distant and only greet him with mistrust.;;;;;;;;;;;;x
-EVTDESC_WOL_1033;[From.GetBestName], the [GetFromFromFromVsFromRelation] of my lover [FromFromFrom.GetTitledFirstNameNoRegnal], shocked me by asking me to my face if we're having an affair!;;;;;;;;;;;;x
+EVTDESC_WOL_1033;私の恋人の[FromFromFrom.GetTitledFirstNameNoRegnal]の[GetFromFromFromVsFromRelation]である[From.GetBestName]が私たちが不倫をしているのではないかと面と向かって揺さぶりをかけてきた！;;;;;;;;;;;;x
 EVTDESC_WOL_1033_DISTANT;私の恋人 [FromFromFrom.GetTitledFirstNameNoRegnal]の [GetFromFromFromVsFromRelation]である、[From.GetBestName]が私に、私たちが不倫をしているのではないかと直截に問いただす内容の手紙を送ってきた！;;;;;;;;;;;;x
 EVTOPTA_WOL_1033;はっきりと否定する;;;;;;;;;;;;x
 EVTOPTB_WOL_1033;事実を告白して不倫をやめると約束する;;;;;;;;;;;;x
