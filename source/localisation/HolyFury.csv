@@ -765,33 +765,33 @@ EVTDESCHFA20203;[Root.GetTitledName]閣下へ\n献身の証として、[Root.Get
 EVTOPTAHF20203;仕方ないな。;;;;;;;;;;;;x
 EVTOPTBHF20203;そんな金はない！;;;;;;;;;;;;x
 EVTDESCHFA20204;[Root.GetTitledName]閣下へ\n献身の証として、[Root.GetHonorific]から[From.Capital.GetName]教会への相当額の寄付を頂けるのなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20204;結構。;;;;;;;;;;;;x
+EVTOPTAHF20204;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20204;そんな金はない。;;;;;;;;;;;;x
 EVTDESCHFA20205;[Root.GetTitledName]閣下へ\n献身の証として、[Root.GetHonorific]から[From.Religion.GetName]教会への相当額の寄付を頂けるのなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20205;結構。;;;;;;;;;;;;x
+EVTOPTAHF20205;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20205;そんな金はない。;;;;;;;;;;;;x
 EVTDESCHFA20206;[Root.GetTitledName]閣下へ\n献身の証として、母なる神聖教会に[Root.GetHonorific]の御子の中から御一人を選び、修道院にて修行させていただけるのなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20206;結構。;;;;;;;;;;;;x
+EVTOPTAHF20206;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20206;息子が修道院で人生を無為に過ごすなどありえない！;;;;;;;;;;;;x
 EVTDESCHFA20207;[Root.GetTitledName]閣下へ\n献身の証として、母なる神聖教会に[Root.GetHonorific]の御子の中から御一人を宗教騎士団に加え、邪教徒との聖戦にて戦わせることをお許しになるなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20207;結構。;;;;;;;;;;;;x
+EVTOPTAHF20207;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20207;戴冠のために息子の命を危険に晒すことなどありえない。;;;;;;;;;;;;x
 EVTDESCHFA20208;[Root.GetTitledName]閣下へ\n献身の証として、私のような教会の熱心な下僕を讃えて私的な宴会を[Root.GetHonorific]が開いて下さるなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20208;結構。;;;;;;;;;;;;x
+EVTOPTAHF20208;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20208;お前の道楽に付き合う気はないぞ！;;;;;;;;;;;;x
 EVTDESCHFA20209;[Root.GetTitledName]閣下へ\n献身の証として、[Root.GetHonorific]が[From.Capital.GetName]司教領の領地を広げて下さるなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20209;結構。;;;;;;;;;;;;x
+EVTOPTAHF20209;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20209;これで領地は十分だろう。;;;;;;;;;;;;x
 EVTDESCHFA20210;[Root.GetTitledName]閣下へ\n献身の証として、[Root.GetHonorific]が我が[From.Society.GetName]へと参加して下さるなら、[Root.GetHonorific]の戴冠式を行えることを光栄に思います。\n\n[Root.GetHonorific]の永遠なる僕\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20210;結構。;;;;;;;;;;;;x
+EVTOPTAHF20210;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20210;お前の教団に加わる気はない。;;;;;;;;;;;;x
 EVTOPTAHF20211;これより我らは平等だ。;;;;;;;;;;;;x
 EVTOPTBHF20211;教皇にせよ公爵にせよ、ともかくお前はまだ我が臣下だ。;;;;;;;;;;;;x
 EVTDESCHFA20212;[Root.GetTitledName]へ\n教会に帰するべき土地を寄付してくれるのならば、喜んで貴殿の神聖なる王権を認めよう。\n\n敬具\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20212;結構。;;;;;;;;;;;;x
+EVTOPTAHF20212;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20212;そこまでの必要はない。;;;;;;;;;;;;x
 EVTDESCHFA20213;[Root.GetTitledName]へ\n聖職者の任命は[Root.GetTitle]の役割ではないとすぐ公式に宣言してくれるならば、喜んで貴殿の神聖なる支配権を認めよう。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20213;結構。;;;;;;;;;;;;x
+EVTOPTAHF20213;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20213;我が領地でそのようなことは受け入れられぬ。;;;;;;;;;;;;x
 EVTDESCHFA20214;[Root.GetTitledName]\nその悪行により我々の神聖なる教会より破門された不敬なる支配者に対し、戦争を行うことで[From.Religion.GetName]に対する献身を示すのだ。さすれば貴殿の神より与えられし支配権を認めよう。\n\n敬具\n[From.GetTitledName];;;;;;;;;;;;x
 EVTOPTAHF20214;この罪人を法廷へ引きずり出してやろう。;;;;;;;;;;;;x
@@ -1115,7 +1115,7 @@ EVTDESCHFB20392;I am still thinking about [FromFrom.GetTitledFirstName]'s corona
 EVTOPTAHF20392;I should be glad with what I have.;;;;;;;;;;;;x
 EVTOPTBHF20392;This is all incredibly unfair.;;;;;;;;;;;;x
 EVTDESCHFA20394;Now that I am [Root.GetTitle], tradition demands that I travel to [Root.Liege.Capital.GetName] and offer homage to [Root.Liege.GetTitledFirstName], the divinely-appointed ruler of [Root.Liege.PrimaryTitle.GetName].;;;;;;;;;;;;x
-EVTOPTAHF20394;結構。;;;;;;;;;;;;x
+EVTOPTAHF20394;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20394;I owe [Root.Liege.GetHerHim] nothing!;;;;;;;;;;;;x
 EVTDESCHFA20395;[From.GetTitledFirstName]が[Root.Capital.GetName]に赴かず、[From.GetHerHis]の正当な君主に対して不忠を示したとの報せを受けた。;;;;;;;;;;;;x
 EVTOPTAHF20395;なんと無礼な！;;;;;;;;;;;;x
@@ -1769,7 +1769,7 @@ mother_praying_health_desc;この女性は安全な出産とお腹の中にい�
 mother_resting_health;妊娠中：休息;;;;;;;;;;;;x
 mother_resting_health_desc;この女性は妊娠中は何かこなす度に長い休息を取り、不要なリスクをとってお腹の中の子供の健康が脅かされないようにして、注意深く頑張りすぎないようにしています。;;;;;;;;;;;;x
 mother_partying_health;妊娠中：憩う;;;;;;;;;;;;x
-mother_partying_health_desc;This woman is taking the period of her pregnancy somewhat lightly, worrying more about finding ways to distract herself from the inconveniences of her current condition rather than prioritizing the health of her child.;;;;;;;;;;;;x
+mother_partying_health_desc;この女性は妊娠中であることをやや軽視しており、子供の健康を優先するよりも、現在の状態の不便さの気を紛らわせる方法を見つけることについて心配しています。;;;;;;;;;;;;x
 mother_minor_rest;妊娠中：小休暇;;;;;;;;;;;;x
 mother_minor_rest_desc;合併症を恐れてこの女性は普段の毎日の活動から小休暇を取り、休息とお腹の中の子供の健康を守ることに集中することにしました。;;;;;;;;;;;;x
 mother_good_omen;妊娠中：吉兆;;;;;;;;;;;;x
@@ -2292,8 +2292,8 @@ EVTDESCAHFP20661;All these years spent indulging my gluttony have finally caught
 EVTOPTCHFP20661;More!;;;;;;;;;;;;x
 EVTDESCAHFP20662;All these years spent starving myself have finally caught up with me: my stomach has closed almost entirely, so much so that I need servants slowly feeding me small spoonfuls of soup in order to eat anything. I have become too weak to stand without help, and the even mere act of thinking has become a laborious task for me.;;;;;;;;;;;;x
 EVTOPTAHFP20662;Hnnngh...;;;;;;;;;;;;x
-coping_glutton;Big Eater;;;;;;;;;;;;x
-coping_glutton_desc;This character is used to consume a lot of food and thus less likely to get sick for overeating.;;;;;;;;;;;;x
+coping_glutton;大食漢;;;;;;;;;;;;x
+coping_glutton_desc;この人物は大食漢であるため食べ過ぎで体調を崩したりしにくいです;;;;;;;;;;;;x
 stress_relief;Stress Relief;;;;;;;;;;;;x
 stress_relief_desc;This character has found an outlet to reduce [Root.GetHerHis] stress.;;;;;;;;;;;;x
 anti_depression;鬱に対抗;;;;;;;;;;;;x
@@ -2393,12 +2393,12 @@ emptied_library_desc;This character's private library has been emptied of some o
 EVTDESCHFP21003;[From.GetTitledFirstName] is far beyond my reach. I should stop attempting to sway [From.GetHerHim] to my cause.;;;;;;;;;;;;x
 EVTOPTAHFP21003;It would just be a waste of time.;;;;;;;;;;;;x
 tooltip_21003_A;§Y[From.GetTitledFirstName]§!を§Y抱きこむ§!のをやめる;;;;;;;;;;;;x
-EVTDESCHFP21005;[From.GetTitledFirstName] is rotting in a dungeon. I doubt I can do much to improve [From.GetHerHis] opinion of me right now.;;;;;;;;;;;;x
-EVTOPTAHFP21005;I could set [From.GetHerHim] free...;;;;;;;;;;;;x
+EVTDESCHFP21005;[From.GetTitledFirstName]は監獄で腐っている。今すぐ[From.GetHerHis]の私に対する評価を上げることができるとは思えない。;;;;;;;;;;;;x
+EVTOPTAHFP21005;[From.GetHerHim]を自由にする事もできる...;;;;;;;;;;;;x
 tooltip_21005_A;Free §Y[From.GetTitledFirstName]§! from your dungeon.;;;;;;;;;;;;x
-EVTOPTBHFP21005;No point to keep trying.;;;;;;;;;;;;x
+EVTOPTBHFP21005;これ以上無駄だな;;;;;;;;;;;;x
 tooltip_21005_B;§Y[From.GetTitledFirstName]§!を§Y抱きこむ§!のをやめる;;;;;;;;;;;;x
-EVTOPTCHFP21005;[From.GetSheHeCap] might be freed soon...;;;;;;;;;;;;x
+EVTOPTCHFP21005;[From.GetSheHeCap]はもうすぐ解放されるかもしれない...;;;;;;;;;;;;x
 tooltip_21005_C;Wait for §Y[From.GetTitledFirstName]§! to be free once more before attempting to §YSway§! [From.GetHerHim] again.;;;;;;;;;;;;x
 EVTDESCHFP21006;[From.GetTitledFirstName] decided to set me free, excusing [From.GetHerselfHimself] for ever keeping me in such poor conditions in the first place.;;;;;;;;;;;;x
 EVTOPTAHFP21006;[From.GetHerHim]のなんと親切なことか。;;;;;;;;;;;;x
@@ -2658,7 +2658,7 @@ EVTOPTCHFP21072;That's a bit too self-serving for my tastes.;;;;;;;;;;;;x
 EVTOPTDHFP21072;Who does [From.GetSheHe] thinks [From.GetSheHe] is?!;;;;;;;;;;;;x
 EVTDESCAHFP21073;[From.GetTitledFirstName] has showered me with justly-earned praise after the kindness I did to [From.GetHerHim]. There is no doubt [From.GetSheHe] has been struck by my show of prestige.;;;;;;;;;;;;x
 EVTDESCBHFP21073;[From.GetTitledFirstName]は、私が[[From.GetHerHim]に注意を払ってくれたことをとても光栄に思っていると、[From.GetHerHim]はまだ長く私の好意の中にいたいと思っていると教えてくれた。;;;;;;;;;;;;x
-EVTOPTAHFP21073;How gracious of [From.GetHerHim]!;;;;;;;;;;;;x
+EVTOPTAHFP21073;[From.GetHerHim]の慈悲深さよ！;;;;;;;;;;;;x
 EVTDESCAHFP21074;How peculiar... [From.GetTitledFirstName] was not impressed by my generous gift. Has my splendor reached such magnitude that common people are too blinded by it to recognize what it is?;;;;;;;;;;;;x
 EVTDESCBHFP21074;Insulting! [From.GetTitledFirstName] had the audacity to claim that I am too full of myself! And right after I so generously expressed my friendship towards [From.GetHerHim] too!;;;;;;;;;;;;x
 EVTOPTAHFP21074;[From.GetSheHeCap] just doesn't understand me.;;;;;;;;;;;;x
@@ -2734,7 +2734,7 @@ EVTDESCAHFP21092;[From.GetTitledFirstName] was thoroughly impressed by my poem a
 EVTDESCBHFP21092;While not exactly teeming with excitement, [From.GetTitledFirstName] seems to have taken the poem I have dedicated to [From.GetHerHim] fairly well.;;;;;;;;;;;;x
 EVTOPTAHFP21092;素晴らしい。;;;;;;;;;;;;x
 EVTDESCAHFP21093;残念なことだ。時間をかけて書き上げた、[From.GetTitledFirstName]について詠った私の詩はお気に召されなかったようだ。;;;;;;;;;;;;x
-EVTDESCBHFP21093;Far from liking my poem about [From.GetHerHim], [From.GetTitledFirstName] informed me that [From.GetSheHe] was in fact insulted by it. [From.GetSheHeCap] thinks I am trying to mock [From.GetHerHim] with my work.;;;;;;;;;;;;x
+EVTDESCBHFP21093;[From.GetTitledFirstName]は[From.GetHerHim]についての私の詩を好きになるどころか、まったく侮辱されていようだと伝えてきた。[From.GetSheHeCap]は私がこの作品で[From.GetHerHim]のことをあざ笑おうとしていると思ったようだ。;;;;;;;;;;;;x
 EVTOPTAHFP21093;なんて哀れで小さな[From.GetManWoman]......;;;;;;;;;;;;x
 EVTDESCHFP21094;[From.GetTitledFirstName] has spent quite some time trying to befriend me, yet now we both find ourselves on the opposite sides of the battlefield. While honor compels me to fight for my liege, I feel an obligation towards [From.GetTitledFirstName] as well...;;;;;;;;;;;;x
 EVTOPTAHFP21094;Enough, I refuse to fight any longer!;;;;;;;;;;;;x
@@ -2838,7 +2838,7 @@ EVTOPTAHFP20009;Don't worry, I can handle this!;;;;;;;;;;;;x
 EVTOPTBHFP20009;なんという至福の人生！;;;;;;;;;;;;x
 EVTOPTCHFP20009;スープだけ？お腹の赤ちゃんは腹ペコなの……;;;;;;;;;;;;x
 EVTDESCHFPA20010;My [GetFromRelation] has asked me to spend some time with [From.GetHerHis] wife, as is tradition, hoping it will put her mind at ease as the day of her labor draws near.;;;;;;;;;;;;x
-EVTOPTAHFP20010;結構。;;;;;;;;;;;;x
+EVTOPTAHFP20010;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHFP20010;I have no time for this!;;;;;;;;;;;;x
 EVTDESCHFPA20011;[FromFromFrom.GetTitledFirstName]'s [FromFromFrom.GetHouse] is filled with relatives and maids, all surrounding the pregnant woman, gossiping and tending to her needs. Overall, it's a very lively and cheerful pastime, even though more often than not the topics of conversation are beyond frivolous.;;;;;;;;;;;;x
 EVTOPTAHFP20011;But that is the point, isn't it?;;;;;;;;;;;;x
@@ -3218,8 +3218,8 @@ EVTOPTQHFP21104_GREEDY;この程度のおもてなししかできなくてごめ
 EVTOPTQHFP21104_SLOTHFUL;Organizing this visit took a lot of effort.;;;;;;;;;;;;x
 EVTOPTQHFP21104_WROTH;あなたは、思っていた以上に素晴らしい人だ!;;;;;;;;;;;;x
 EVTOPTQHFP21104_ENVIOUS;I didn't know we shared hatred for so many things!;;;;;;;;;;;;x
-EVTOPTQHFP21104_PROUD;I am sure you enjoyed being in my presence for so long.;;;;;;;;;;;;x
-EVTOPTQHFP21104_AMBITIOUS;Planning your visit filled me with purpose.;;;;;;;;;;;;x
+EVTOPTQHFP21104_PROUD;こんなにも長い間、私のそばにいれて楽しかったに違いない;;;;;;;;;;;;x
+EVTOPTQHFP21104_AMBITIOUS;訪問を計画することは私の目的を満たした;;;;;;;;;;;;x
 EVTOPTQHFP21104_ARBITRARY;Surely you appreciated having such a liberal host...;;;;;;;;;;;;x
 EVTOPTQHFP21104_BRAVE;高貴な者同士は、みだりに言葉を交わさない。;;;;;;;;;;;;x
 EVTOPTQHFP21104_CONTENT;あなたと居られて幸せでした。;;;;;;;;;;;;x
@@ -3976,8 +3976,8 @@ vassal_generic_sacrifice_decision;[Root.GetTitledFirstName]を生贄に捧げる
 vassal_generic_sacrifice_decision_desc;神々は血を求めています！彼らの怒りに触れたくなければ、彼らの渇きを満たさなければいけません！;;;;;;;;;;;;x
 EVTDESCHF23001;[From.GetTitledFirstName] was sacrificed to the cruel [FromFrom.Religion.GetName] gods! Accounts describe how [From.GetSheHe] was forcefully dragged screaming on top of a temple and torn apart by mad priests.;;;;;;;;;;;;x
 EVTOPTAHF23001;How terrible!;;;;;;;;;;;;x
-EVTDESCHF23002;The priests drag [From.GetTitledFirstName] screaming to the top of the temple, they place [From.GetHerHim] on an altar, and slice [From.GetHerHim] open with a ceremonial dagger. They then tear out [From.GetHerHis] still beating heart to the cheers of the assembled crowd.;;;;;;;;;;;;x
-EVTOPTAHF23002;Let this sacrifice appease you, almighty creators!;;;;;;;;;;;;x
+EVTDESCHF23002;叫び声をあげる[From.GetTitledFirstName]を神官たちは神殿の最上部まで引きずって行き、[From.GetHerHim]を祭壇の上に置いて儀式用の短剣で切り開いた。そして、[From.GetHerHis]のまだ鼓動する心臓を切り取ってみせると、集まった群衆から歓声が上がった。;;;;;;;;;;;;x
+EVTOPTAHF23002;この生贄があなたを鎮めんことを、全能の造物主よ!;;;;;;;;;;;;x
 syncretic_sympathy_decision;他の信仰について学ぶ;;;;;;;;;;;;x
 syncretic_sympathy_decision_desc;他の宗教グループに対する§Y共感§!を得る。;;;;;;;;;;;;x
 EVTDESCHF23003;The [Root.Religion.GetName] religion does not forbid its practitioners to study other beliefs in their pursuit for knowledge.;;;;;;;;;;;;x
@@ -4438,7 +4438,7 @@ EVTOPTA_HF_10020;個人戦闘力を重視する;;;;;;;;;;;;x
 EVTOPTB_HF_10020;戦略的思考をより深めたい。;;;;;;;;;;;;x
 EVTOPTC_HF_10020;もっと外で過ごさねばな。狩りもいいな！;;;;;;;;;;;;x
 EVTOPTD_HF_10020;やっぱり今の生き方が性に合っているな。;;;;;;;;;;;;x
-EVTDESC_HF_10021;My fellow members of [Root.Society.GetName] have long been wondering when I will choose a focus for my fighting talents. There are those who live for the art of dueling, while others prefer the more theoretic side of combat... Yet hunting is also a worthwhile pursuit.;;;;;;;;;;;;x
+EVTDESC_HF_10021;[Root.Society.GetName]の同胞たちは長い間、私が戦闘の天分をどれに傾けるのかと考えてきた。決闘の技術のために生きる人もいれば、戦闘のより理論的な面を好む人もいる...しかし、狩猟も価値のある選択肢だ。;;;;;;;;;;;;x
 EVTOPTA_HF_10021;個人戦闘力を重視する;;;;;;;;;;;;x
 EVTOPTB_HF_10021;戦略的思考をより深めたい。;;;;;;;;;;;;x
 EVTOPTC_HF_10021;もっと外で過ごす時間を増やしたい。狩猟だ！;;;;;;;;;;;;x
@@ -4463,14 +4463,14 @@ EVTDESC_HF_10024_B;"Be careful where you point that thing!" a courtier cried out
 EVTOPTA_HF_10024_A;I'll always be grateful for your lessons, [mentor_target.GetFirstName].;;;;;;;;;;;;x
 EVTOPTA_HF_10024_B;Oh, a master, am I? Why, yes, I suppose I am!;;;;;;;;;;;;x
 EVTOPTA_HF_10024_C;It took time, but I suppose all that hard work has paid off...!;;;;;;;;;;;;x
-EVTDESC_HF_10025;The stack of books in front of me is intimidating. My scholars tell me these are classics, for anyone interested in an introduction to strategic warfare. But I am [Root.GetTitledFirstName]! Surely, I do not need the basics? Should I not be out on the field, surveying the troops, first-hand?;;;;;;;;;;;;x
-EVTOPTA_HF_10025;There is value in the historical records.;;;;;;;;;;;;x
-EVTOPTB_HF_10025;I think I am more of a visual learner.;;;;;;;;;;;;x
+EVTDESC_HF_10025;私は眼前にそびえ立つ本の山には圧倒されている。学者たちによると、これは戦争における戦略に興味のある人向けの入門書で古典的なものだという。しかし私は[Root.GetTitledFirstName]だぞ!まさか、基礎は必要ないだろう?現場にでたり、部隊をこの目で確かめなくていいのか?;;;;;;;;;;;;x
+EVTOPTA_HF_10025;歴史的記録には価値がある。;;;;;;;;;;;;x
+EVTOPTB_HF_10025;どちらかというと見て学ぶ方だ。;;;;;;;;;;;;x
 hitting_the_books;Hitting the Books;;;;;;;;;;;;x
 hitting_the_books_desc;This character has more or less locked themselves in [GetHerHis] library, studying the classical records of ancient warfare.;;;;;;;;;;;;x
-observing_the_troops;Observing the Troops;;;;;;;;;;;;x
+observing_the_troops;軍の視察;;;;;;;;;;;;x
 observing_the_troops_desc;This character is often out in the field, engaging [GetHerHis] soldiers in conversation about the tactics of warfare.;;;;;;;;;;;;x
-EVTDESC_HF_10026;My commanders have come to request my advice on some exercises they are performing outside the [Root.GetCapitalHolding] walls. "We could really use that strategic mind of yours, [Root.GetMasterMistress]", they say. Startled, I realize that my studying has paid off, and my chest swells with pride. I then collect myself, nodding: "Of course, I'd be happy to help.";;;;;;;;;;;;x
+EVTDESC_HF_10026;指揮官たちは、[Root.GetCapitalHolding]の城壁の外で行う演習について、私の助言を求めに来た。「本当にあなたの戦略眼を必要としているのです、[Root.GetMasterMistress]よ」と彼らは言う。私はハッとして勉強が報われたことに気づき、誇りで胸がいっぱいになった。「もちろん喜んで助力する。」とうなずいた。;;;;;;;;;;;;x
 EVTOPTA_HF_10026;Typically, what you'll want to consider in a set-up like this...;;;;;;;;;;;;x
 EVTOPTA_HF_10026_tt;Soon, you are talking and gesturing excitedly, receiving "Oohs" and "Aaahs" in an even distribution.\n;;;;;;;;;;;;x
 EVTDESC_HF_10030;The experienced hunters I have spending time with seem quite pleased with my weapons skills, and are wondering what I would like to explore next. Poring over the maps of the area outside of [Root.Capital.Capital.GetName], my advisors suggest I learn more about the theory behind the tracking of various prey.;;;;;;;;;;;;x
@@ -4704,8 +4704,8 @@ setting_shattered_succession;初期継承法;;;;;;;;;;;;x
 setting_shattered_succession_default_laws;デフォルト（変更なし）;;;;;;;;;;;;x
 setting_shattered_succession_all_primogeniture;全て長子相続制;;;;;;;;;;;;x
 setting_shattered_succession_all_gavelkind;全て分割相続制;;;;;;;;;;;;x
-setting_shattered_succession_all_elective_gavelkind;全て選抜分割相続制;;;;;;;;;;;;x
-setting_shattered_succession_all_elective;全て選抜制;;;;;;;;;;;;x
+setting_shattered_succession_all_elective_gavelkind;全て選挙分割相続制;;;;;;;;;;;;x
+setting_shattered_succession_all_elective;全ての選挙制;;;;;;;;;;;;x
 setting_shattered_succession_all_seniority;全て最年長者相続制;;;;;;;;;;;;x
 setting_shattered_succession_all_ultimogeniture;全て末子相続制;;;;;;;;;;;;x
 setting_shattered_succession_all_tanistry;全てタニストリー;;;;;;;;;;;;x
@@ -5254,7 +5254,7 @@ string_holywar_dharmic;ダルマ;;;;;;;;;;;;x
 string_holywar_random_name;[hindu.GetName], [buddhist.GetName] and [jain.GetName];;;;;;;;;;;;x
 EVTDESCHFPA20018;私が小さな[From.GetFirstName]を出産してから1ヶ月が経過した。 伝統に習い、私は良き[christian.GetGroupName]徒の母親がすべからくそうであるように、教会に感謝の奉仕をし、そして私の体が清められた今、聖なる教会に再び加わるべきだ。;;;;;;;;;;;;x
 feudal_government_desc;封建制は主と封臣との間の誓約を中心とした政体であり、封建制での領主は忠誠心も様々な封臣を頼らざるを得ないが、それでも一定数の領地を直接所有することが出来る。継承法は幾つかの中から選択でき、それぞれに利点がある。中央集権法で直轄領の大きさの上限と持てる封臣の数の上限が決定される。[muslim.GetGroupName]宗教グループの宗教に改宗した場合、政体がイクター制に変化します。;;;;;;;;;;;;x
-muslim_government_desc;[arabic.GetGroupName]のイクター制は封建制に似た政体である―領主は忠誠心と野心がうつろう封臣領主たちに頼らなければならない。封臣の数の上限と直轄支配できる領地の数は中央集権法によって決定される。だが、使える継承法は唯一つしか無い。すなわち最も多くの土地を持つ息子へ相続が行われる不安定な「公開相続制」継承である。もし非[muslim.GetGroupName]宗教グループの宗教に改宗した場合、政体が封建制に変化します。;;;;;;;;;;;;x
+muslim_government_desc;[arabic.GetGroupName]のイクター制は封建制に似た政体です―領主は忠誠心と野心がうつろう封臣領主たちに頼らなければなりません。封臣の数の上限と直轄支配できる領地の数は中央集権法によって決定されますが、使える継承法は唯一つしかありません。すなわち最も多くの土地を持つ息子へ相続が行われる不安定な「公開相続制」継承です。もし非[muslim.GetGroupName]宗教グループの宗教に改宗した場合、政体が封建制に変化します。;;;;;;;;;;;;x
 TRAIT_OPINION_MUSLIM;[muslim.GetGroupName]信者からの評価：$VALUE$;;;;;;;;;;;;x
 TRAIT_OPINION_ZORO;[zoroastrian.GetName]信者からの評価：$VALUE$;;;;;;;;;;;;x
 TRAIT_OPINION_JEWISH;[jewish.GetName]信者からの評価：$VALUE$;;;;;;;;;;;;x
@@ -5471,7 +5471,7 @@ hre_sacrosanct;神聖;;;;;;;;;;;;x
 hre_blessed;神聖;;;;;;;;;;;;x
 GENERIC_REPUBLIC_NAME;[target_merchant_republic.GetFirstName]の共和国;;;;;;;;;;;;x
 setting_random_scenario_hre;神聖ローマ帝国;;;;;;;;;;;;x
-setting_random_scenario_hre_tooltip;世界の何処かに神聖ローマ帝国に基づいた勢力を生成します。この勢力は巨大かつ宗教的に統一されていますが、かなり分権的で相続法が選抜制です。\n\n§Y「王国と帝国の慣習的領土」§!が「ランダム」に設定されている必要があります。;;;;;;;;;;;;x
+setting_random_scenario_hre_tooltip;世界の何処かに神聖ローマ帝国に基づいた勢力を生成します。この勢力は巨大かつ宗教的に統一されていますが、かなり分権的で相続法が選挙制です。\n\n§Y「王国と帝国の慣習的領土」§!が「ランダム」に設定されている必要があります。;;;;;;;;;;;;x
 setting_random_scenario_byz;ビザンツ帝国;;;;;;;;;;;;x
 setting_random_scenario_byz_tooltip;世界の何処かにビザンツ帝国に基づいた勢力が生成されます。この勢力は巨大かつ中央集権化されており、総督制が制定されています。スタート状態では皇帝が全慣習的公爵位を保持しており、開始とともにそれを総督位として封臣に配分することになります。\n\n§Y「王国と帝国の慣習的領土」§!が「ランダム」に設定されている必要があります。;;;;;;;;;;;;x
 setting_dejure_kingdom_size_tooltip;慣習的王国をランダム化した際に王国の領域をどれだけ大きくするかを決定します。各王国が封臣として持ちうる公爵領の最大数と最小数を決定します。設定によっては稀ですがこの設定での数値を逸脱した王国が生成される場合があります。;;;;;;;;;;;;x
@@ -6594,7 +6594,7 @@ saintly_bloodline_10;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_bloodline_11;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_bloodline_12;聖[Root.GetDynName]の血筋;;;;;;;;;;;;x
 saintly_defender_bloodline;§G狂信者§!が定期的に異教徒との戦争に加わります;;;;;;;;;;;;x
-saintly_monastic_bloodline;Gain more §GDevotion§! in §GMonastic Societies§!;;;;;;;;;;;;x
+saintly_monastic_bloodline;§G修道会§!でより多くの§G献身§!を得られる;;;;;;;;;;;;x
 saintly_cultural_bloodline;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;;x
 saintly_inquisitional_bloodline;§GConvert Counties§! to your §GReligion§! faster;;;;;;;;;;;;x
 saintly_jewish_bloodline;Friendly relations with the Jews;;;;;;;;;;;;x
@@ -6665,29 +6665,29 @@ tomb_of_a_saint;Burial Site of Saint [Root.province_saint.GetFirstName];;;;;;;;;
 pillaged_tomb_of_a_saint;Pillaged Burial Site of Saint [Root.province_saint.GetFirstName];;;;;;;;;;;;x
 EVTDESC_HF_40022;The burial site of §YSaint [saint_person.GetFirstName]§! in §G[From.GetName]§! has started attracting a lot of pilgrims.;;;;;;;;;;;;x
 EVTOPTC_SOA_5018;聖人が葬られている場所へ行こうと思う。;;;;;;;;;;;;x
-EVTDESC_HF_41300;多くの心動かされる聖者がいて、どの墓を詣でるか選ぶのは難しいですが、最終的に私の助言者たちは、対象を絞り込みました。４つの選択肢は、どれも甲乙付け難いですが、私が選んだものが、他よりもより良く感じるようになるでしょう。;;;;;;;;;;;;x
-EVTOPTA_HF_41300_1;I will seek out the grand tomb of Saint [first_burial_site.province_saint.GetFirstName] in [first_burial_site.GetName].;;;;;;;;;;;;x
-EVTOPTA_HF_41300_2;The impressive tomb of Saint [first_burial_site.province_saint.GetFirstName] in [first_burial_site.GetName] sounds perfect.;;;;;;;;;;;;x
+EVTDESC_HF_41300;多くの心動かされる聖者がいてどの墓を詣でるか選ぶのは難しいが、最終的に私の助言者たちは対象を絞り込んだ。４つの選択肢はどれも甲乙付け難いが、私が選んだものが一番いいはずだ。;;;;;;;;;;;;x
+EVTOPTA_HF_41300_1;[first_burial_site.GetName]の聖[first_burial_site.province_saint.GetFirstName]の壮大な墓所を探してみる;;;;;;;;;;;;x
+EVTOPTA_HF_41300_2;[first_burial_site.GetName]の聖[first_burial_site.province_saint.GetFirstName]の印象的な墓所は完璧といえる;;;;;;;;;;;;x
 EVTOPTA_HF_41300_3;[first_burial_site.GetName]の聖[first_burial_site.province_saint.GetFirstName]の墓には多くの巡礼者がいる。;;;;;;;;;;;;x
 EVTOPTB_HF_41300_1;[second_burial_site.GetName]にある聖[second_burial_site.province_saint.GetFirstName]の墓は荘厳だと耳にした。;;;;;;;;;;;;x
 EVTOPTB_HF_41300_2;[second_burial_site.GetName]の聖[second_burial_site.province_saint.GetFirstName]の巨像には多くの物語がある。;;;;;;;;;;;;x
-EVTOPTB_HF_41300_3;The beautiful burial site of Saint [second_burial_site.province_saint.GetFirstName] in [second_burial_site.GetName].;;;;;;;;;;;;x
-EVTOPTC_HF_41300_1;The pious Saint [third_burial_site.province_saint.GetFirstName] has a small grave in [third_burial_site.GetName].;;;;;;;;;;;;x
-EVTOPTC_HF_41300_2;I would like to visit [third_burial_site.GetName], and the grave of Saint [third_burial_site.province_saint.GetFirstName].;;;;;;;;;;;;x
-EVTOPTC_HF_41300_3;A trip to [third_burial_site.GetName] and the grandiose burial site of Saint [third_burial_site.province_saint.GetFirstName].;;;;;;;;;;;;x
-EVTOPTD_HF_41300_1;Saint [fourth_burial_site.province_saint.GetFirstName] was an inspiration, I will visit the mausoleum in [fourth_burial_site.GetName].;;;;;;;;;;;;x
-EVTOPTD_HF_41300_2;The catacombs of Saint [fourth_burial_site.province_saint.GetFirstName] in [fourth_burial_site.GetName].;;;;;;;;;;;;x
-EVTOPTD_HF_41300_3;The final resting place of Saint [fourth_burial_site.province_saint.GetFirstName] in [fourth_burial_site.GetName].;;;;;;;;;;;;x
+EVTOPTB_HF_41300_3;[second_burial_site.GetName]の聖[second_burial_site.province_saint.GetFirstName]の美しい埋葬地だ;;;;;;;;;;;;x
+EVTOPTC_HF_41300_1;敬虔なる聖[third_burial_site.province_saint.GetFirstName]のささやかな墓は[third_burial_site.GetName]にある;;;;;;;;;;;;x
+EVTOPTC_HF_41300_2;[third_burial_site.GetName]に訪れたい、そこに聖[third_burial_site.province_saint.GetFirstName]の墓所がある;;;;;;;;;;;;x
+EVTOPTC_HF_41300_3;[third_burial_site.GetName]への旅行、そこに聖[third_burial_site.province_saint.GetFirstName]の壮大な埋葬地がある;;;;;;;;;;;;x
+EVTOPTD_HF_41300_1;聖[fourth_burial_site.province_saint.GetFirstName]にピンときた、[fourth_burial_site.GetName]にある霊廟に行くことにしよう;;;;;;;;;;;;x
+EVTOPTD_HF_41300_2;[fourth_burial_site.GetName]の聖[fourth_burial_site.province_saint.GetFirstName]のカタコンベだ;;;;;;;;;;;;x
+EVTOPTD_HF_41300_3;[fourth_burial_site.GetName]の聖闘士[fourth_burial_site.province_saint.GetFirstName]の最後の安息の地だ;;;;;;;;;;;;x
 EVTOPTE_HF_41300;アイルランドの聖パトリックの墓を詣でよう。;;;;;;;;;;;;x
 EVTOPTF_HF_41300;聖アウグスティヌスは、[Root.Religion.GetGroupName]信仰における重要人物として知られている。;;;;;;;;;;;;x
 EVTOPTG_HF_41300;聖クリストフォロスの墓を見るためにアンティオキアへ！;;;;;;;;;;;;x
 EVTDESC_HF_41310;[pilgrimage_destination.GetName]への旅への計画がしばらくの間、練られた。北方は寒く残忍な場所であり、[pilgrimage_destination.Realm.GetName]で遭遇するかもしれないどんな潜在的な危険にも備えなければならない。最終的に[pilgrimage_destination.province_saint.GetFirstNameWithNick]の埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している。;;;;;;;;;;;;x
 EVTDESC_HF_41310_ALT;レイス・セルテアへの旅への計画がしばらくの間、練られた。北方は寒く残忍な場所であり、アイルランドで遭遇するかもしれないどんな潜在的な危険にも備えなければならない。最終的に聖パトリックの埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している。;;;;;;;;;;;;x
 EVTOPTA_HF_41310;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
-EVTDESC_HF_41312;The journey to [pilgrimage_destination.GetName] has been planned for a while. Despite the mild climate of [pilgrimage_destination.Realm.GetName], a traveler has to be properly prepared for long trips like these. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
+EVTDESC_HF_41312;以前より[pilgrimage_destination.GetName]への旅は計画されていた。[pilgrimage_destination.Realm.GetName]は温暖な気候ではあるが、こういった長旅に向けた適切な準備は欠かすことはできない。[pilgrimage_destination.province_saint.GetFirstNameWithNick]の最終埋葬地を探し当てるように自らの運命を見出す。そのような旅への出立を遂に迎え、胸が高鳴っている。;;;;;;;;;;;;x
 EVTDESC_HF_41312_ALT;以前よりアンティオキアへの旅は計画されていた。シリアは温暖な気候ではあるが、こういった長旅に向けた適切な準備は欠かすことはできない。聖クリストフォロスの最終埋葬地を探し当てるように自らの運命を見出す。そのような旅への出立を遂に迎え、胸が高鳴っている。;;;;;;;;;;;;x
 EVTOPTA_HF_41312;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
-EVTDESC_HF_41314;The journey to [pilgrimage_destination.GetName] has been planned for a while. A traveler has to be prepared for what you might meet in the exotic lands of [pilgrimage_destination.Realm.GetName]. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
+EVTDESC_HF_41314;[pilgrimage_destination.GetName]への旅への計画がしばらくの間、練られた。旅人は異国の地[pilgrimage_destination.Realm.GetName]で遭遇しうる何かに備えなければならない。最終的に[pilgrimage_destination.province_saint.GetFirstNameWithNick]の埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している;;;;;;;;;;;;x
 EVTDESC_HF_41314_ALT;古代都市ヒッポへの旅への計画がしばらくの間、練られた。旅人は異国の地アフリカで遭遇しうる何かに備えなければならない。最終的に聖アウグスティヌスの埋葬場所を探して、自分の運命を見つけるために、ついに道を歩み始めることに興奮している;;;;;;;;;;;;x
 EVTOPTA_HF_41314;素晴らしく楽しい旅が始まるぞ。;;;;;;;;;;;;x
 EVTDESC_HF_41316;The journey to [pilgrimage_destination.GetName] has been planned for a while. I have spent a lot of time preparing for whatever risks I might meet on my way to [pilgrimage_destination.Realm.GetName]. I am excited to finally be on my way, to find my destiny as I search for the final burial place of  [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x
@@ -6698,9 +6698,9 @@ EVTDESC_HF_41320_ALT_2;私は別の巡礼者の一団と出くわした。かれ
 EVTDESC_HF_41320_ALT_3;私は別の巡礼者の一団と出くわした。かれらも聖クリストフォロスの祝福を求めてアンティオキアへ向かう途中だという。一緒に行けば、歩みは多少遅くなろうとも、有益で安全な旅となるだろう。;;;;;;;;;;;;x
 EVTOPTA_HF_41320;旅の仲間か？歩みを緩めるのも悪くない。;;;;;;;;;;;;x
 EVTOPTB_HF_41320;まことの巡礼者は独りで旅するものだ。;;;;;;;;;;;;x
-EVTDESC_HF_41340;I am suddenly met by a couple of rough looking fellows, as I proceed through the woods. The leader gives me a toothy grin and asks for protection money, for the service he and his men are doing in the woods.;;;;;;;;;;;;x
-EVTOPTA_HF_41340;It is probably easier to just pay.;;;;;;;;;;;;x
-EVTOPTB_HF_41340;I will show them who needs protection.;;;;;;;;;;;;x
+EVTDESC_HF_41340;森の中を進んでいると、突然、気性の荒い二人組に遭遇した。リーダーは歯を見せてニヤニヤしながら、彼と彼の部下が森でやっている奉仕のための「安全代」を要求してきた。;;;;;;;;;;;;x
+EVTOPTA_HF_41340;金を払えば面倒はなくなるはずだ;;;;;;;;;;;;x
+EVTOPTB_HF_41340;誰が「安全」を必要としているだって？;;;;;;;;;;;;x
 EVTDESC_HF_41350;It is getting progressively colder, as I am getting closer to my destination. By my own estimates, I should be halfway to [pilgrimage_destination.GetName] by now. I am not used to long hikes like these, but it has been a nice change of pace.;;;;;;;;;;;;x
 EVTDESC_HF_41350_ALT;レイス・セルテアに近づくにつれてだんだんと寒くなってきた。私の計算では、現在、レイス・セルテアへの道のりを半分終えたことになる。長歩きには慣れていないが、進み具合は悪くない。;;;;;;;;;;;;x
 EVTOPTA_HF_41350;[pilgrimage_destination.GetName]で、何が待ち受けているのだろうか。;;;;;;;;;;;;x
@@ -7390,10 +7390,10 @@ TLATOANI;トラトアニ;;;;;;;;;;;;x
 CIHUATLATOANI;シワトラトアニ;;;;;;;;;;;;x
 opinion_requested_artifact;Demands Holy Relic;;;;;;;;;;;;x
 EVTDESCHFA20240;To the Excellent [Root.GetTitledName],\nI shall be honored to officiate [Root.GetHerHisCap] [Root.GetHonorific]'s coronation, provided that [Root.GetHerHisCap] [Root.GetHonorific] show [Root.GetHerHisCap] devotion by donating the [scoped_artifact.GetName] [Root.GetSheHe] holds back to the Church.\n\nEver [Root.GetHerHis] [Root.GetHonorific]'s servant\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20240;Very well.;;;;;;;;;;;;x
+EVTOPTAHF20240;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20240;この宝物は一族の家宝なのだ！;;;;;;;;;;;;x
-EVTDESCHFA20241;To [Root.GetTitledName],\nI shall be glad to recognize your divine right to rule, as soon as you donate the [scoped_artifact.GetName] back to the Church. \n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHF20241;Very well.;;;;;;;;;;;;x
+EVTDESCHFA20241;[Root.GetTitledName]へ\nすぐにでも[scoped_artifact.GetName]を教会に寄付するならば、喜んで貴殿の神聖なる支配権を認めよう。\n\n（署名）\n[From.GetTitledName];;;;;;;;;;;;x
+EVTOPTAHF20241;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHF20241;この宝物は一族の家宝なのだ！;;;;;;;;;;;;x
 EVTDESCHFB20408;Since I have forsaken the [From.Religion.GetName] faith, I must petition the [Root.Religion.GetName] Church's approval in order to be deemed worthy of my crown.;;;;;;;;;;;;x
 EVTOPTZHF22022;私ならそれを止めるよう[From.GetHerHim]を説得できる......;;;;;;;;;;;;x
@@ -8386,7 +8386,7 @@ EVTDESCDHF25023;Under the maddening beating of the shamans' drums, the warriors 
 EVTDESCEHF25023;[sacrificed_courtier.GetFirstName] is driven by my fellow warriors to the top of the temple while the priests chant praises to the Sun and cover my face in golden dust. When the victim is brought to my feet, I plunge my blade through [sacrificed_courtier.GetHerHis] chest and carve out [sacrificed_courtier.GetHerHis] heart, offering it to the eternal aster.;;;;;;;;;;;;x
 EVTDESCFHF25023;We meet in a secluded grove, a few warriors carrying my offering to the gods and a priest bringing all the sacred tools to officiate the rite. [sacrificed_courtier.GetFirstName] is stripped naked and cleaned. The warriors then bring [sacrificed_courtier.GetHerHim] whimpering to my feet, and I plunge my blade through [sacrificed_courtier.GetHerHis] neck, pushing it all the way to [sacrificed_courtier.GetHerHis] beating heart.;;;;;;;;;;;;x
 EVTOPTAHF25023;A life for a victory!;;;;;;;;;;;;x
-EVTDESCAHF25024;A couple of fellow warriors help me constrain the majestic offering that I have personally picked from my livestock for this occasion. While a a priest chants, I plunge the sacrificial dagger deep into the beast's flesh, letting its blood shower over my face. I turn around and the priests inscribe a few holy symbols on my face with blood and dirt.;;;;;;;;;;;;x
+EVTDESCAHF25024;私がこの行事にあたって直々に選んだ立派な生贄の家畜を押さえつけるために、何人かの仲間の戦士が手伝ってくれた。神官が唱えている間に私はその短剣を肉の奥深くに突き刺し、その血を私の顔に浴びるがままにした。私が向き直ると、神官たちは私の顔にいくつかの神聖なシンボルを血と泥で刻んだ。;;;;;;;;;;;;x
 EVTOPTAHF25024;この生贄は私に幸運をもたらすだろう!;;;;;;;;;;;;x
 EVTDESCAHF25025;My fellow warriors accompany me into the wilderness, helping me to carry my generous offering to the gods. When we are far from civilization, we bury the gold and burn the food. While a priest chants, invoking the protectors of the Lodge to bestow me their power, one of my fellow warriors inscribes a few symbols on my face.;;;;;;;;;;;;x
 EVTOPTAHF25025;May the gods protect me!;;;;;;;;;;;;x
@@ -10309,17 +10309,17 @@ ca_culture_moorish_alt;[maghreb_arabic.GetName]ish;;;;;;;;;;;;x
 KIEVAN_RUS_ADJ;キエフ・ルーシ;;;;;;;;;;;;x
 marsh;Marsh;;;;;;;;;;;;x
 string_an_abysmal;an abysmal;;;;;;;;;;;;x
-string_a_very_poor;a very poor;;;;;;;;;;;;x
-string_a_poor;a poor;;;;;;;;;;;;x
-string_a_lacking;a somewhat lacking;;;;;;;;;;;;x
-string_a_mediocre;a mediocre;;;;;;;;;;;;x
+string_a_very_poor;ド下手くそ;;;;;;;;;;;;x
+string_a_poor;下手くそ;;;;;;;;;;;;x
+string_a_lacking;物足りない;;;;;;;;;;;;x
+string_a_mediocre;並;;;;;;;;;;;;x
 string_severely_injured_notify;[combatant_2.GetFirstName]'s attacks were vicious and unrelenting, leaving [combatant_1.GetFirstName] severely injured...;;;;;;;;;;;;x
 string_wounded_notify;[combatant_1.GetFirstName]はこの戦いで無数の軽傷を負ったが、少しは成長に役立ったことは間違いない！;;;;;;;;;;;;x
 string_unscathed_notify;Fortunately, [combatant_1.GetFirstName] got away without any significant injuries.;;;;;;;;;;;;x
 opinion_great_leader;Great Leader;;;;;;;;;;;;x
 opinion_disrespects_me;軽視された;;;;;;;;;;;;x
 opinion_tried_to_get_me_killed;私を殺そうとした！;;;;;;;;;;;;x
-HFP_500_DESC;我らが戦士団の[combatant_1.GetSocietyRank]である[combatant_1.GetFirstNameWithNick]は、戦士としては精々[combatant_1.GetNegativeDuelSkillTerm]程度である。[combatant_1.GetHerHis]の助けが[Root.Society.GetName]に必要な時、ひどく未熟であることは[combatant_1.GetHerHim]のようなタイプの人間にとって恥ずべきことだ！もしかしたら誰かと練習試合をすることを薦めるべきなのだろうか？;;;;;;;;;;;;x
+HFP_500_DESC;我らが戦士団の[combatant_1.GetSocietyRank]である[combatant_1.GetFirstNameWithNick]の決闘者としての実力は精々[combatant_1.GetNegativeDuelSkillTerm]程度である。[combatant_1.GetHerHis]の助けが[Root.Society.GetName]に必要な時、ひどく未熟であることは[combatant_1.GetHerHim]のようなタイプの人間にとっては恥ずべきことだ！もしかしたら誰かとの練習試合を薦めるべきなのだろうか？;;;;;;;;;;;;x
 EVTOPTA_HF_500;[combatant_1.GetSheHeCap]にはまず自信が必要だ。それなら[society_practice_duelist_target_1.GetFirstName]が楽な試合をしてくれるだろう。;;;;;;;;;;;;x
 EVTOPTB_HF_500;[society_practice_duelist_target_2.GetFirstName]なら五分五分の挑戦をもたらすだろう。;;;;;;;;;;;;x
 EVTOPTC_HF_500;失敗こそ最高の師、[society_practice_duelist_target_3.GetFirstName]がうってつけだ！;;;;;;;;;;;;x
@@ -10327,11 +10327,11 @@ EVTOPTD_HF_500;いや、[combatant_1.GetFirstName]が[combatant_1.GetHerselfHims
 HFP_501_DESC;[combatant_1.GetFirstNameWithNick]は、わずかな打ち合いの後、思わぬほどにあっけなく[combatant_2.GetFirstNameWithNick]を倒してしまった。喝采を上げる観衆が、[combatant_1.GetFirstName]を高く担ぎ上げた。果てはお祝いだめでたいと、小屋の上にまで[combatant_1.GetHerHim]を押し上げた。いつの日か[combatant_1.GetSheHeCap]は高名な戦士となるだろう…;;;;;;;;;;;;x
 HFP_502_DESC;[combatant_1.GetFirstNameWithNick]は[combatant_2.GetFirstNameWithNick]に汗をかかせることも出来ずに惨敗した。[combatant_1.GetHowWoundedDidIBecome];;;;;;;;;;;;x
 HFP_503_DESC;Just as [combatant_1.GetFirstNameWithNick] was about to issue [combatant_2.GetFirstNameWithNick] a challenge, [combatant_2.GetFirstName] ran away! I wonder what kind of attitudes we really foster here in [Root.Society.GetName], because this is embarrasing for all of us...;;;;;;;;;;;;x
-HFP_504_DESC;Just as [combatant_1.GetFirstNameWithNick] was about to issue [combatant_2.GetFirstNameWithNick] a challenge, [combatant_1.GetSheHe] ran away! What a coward, I have never seen anyone as craven before!;;;;;;;;;;;;x
+HFP_504_DESC;[combatant_2.GetFirstNameWithNick]へ挑戦しようとしたとたん、[combatant_1.GetFirstNameWithNick]は逃げ出した!なんて臆病者なんだ、あんなに臆病なやつは見たことがない!;;;;;;;;;;;;x
 HFP_505_DESC;[combatant_1.GetFirstNameWithNick]と[combatant_2.GetFirstNameWithNick]は、互いにあらゆる手段を使って戦った！観衆が二人を囲み、[combatant_1.GetFirstName]がついに勝利を飾った。[combatant_1.GetHowWoundedDidIBecome];;;;;;;;;;;;x
 HFP_506_DESC;[combatant_1.GetFirstNameWithNick]と[combatant_2.GetFirstNameWithNick]は、互いにあらゆる手段を使って戦った！観衆は二人を囲み、[combatant_1.GetFirstName]のぎこちない動きを笑い、[combatant_1.GetSheHe]は結局負けてしまった。[combatant_1.GetHowWoundedDidIBecome];;;;;;;;;;;;x
 EVTOPTA_HF_501;[combatant_1.GetMyOpinionOfYourChoice];;;;;;;;;;;;x
-EVTOPTA_HF_503;What in the...;;;;;;;;;;;;x
+EVTOPTA_HF_503;何が...;;;;;;;;;;;;x
 string_appreciated_choice;[combatant_1.GetFirstName]は、対戦相手を選んだ私の慧眼に感謝した！;;;;;;;;;;;;x
 string_thought_choice_beneath_me;[combatant_1.GetFirstName]は考えた。[combatant_2.GetFirstName]は格下だったのではないかと…;;;;;;;;;;;;x
 string_feared_for_life;[combatant_1.GetFirstName]は私のせいで死にかけたと思っている！;;;;;;;;;;;;x
@@ -10361,7 +10361,7 @@ enemy_skull_desc;この頭蓋骨には変色した血痕が残っており、か
 skull_cup;髑髏の盃;;;;;;;;;;;;x
 skull_cup_desc;Rather ornate, this drinking cup is clearly made of unusual material. Once a modest trophy, one might notice that the bone of the skull has been finely polished, set in an sturdy fixture, and decorated with precious stones.;;;;;;;;;;;;x
 cruel_opinion;残虐な人物からの評価;;;;;;;;;;;;x
-string_norse_symbol;the wolf;;;;;;;;;;;;x
+string_norse_symbol;狼;;;;;;;;;;;;x
 string_tengri_symbol;the eagle;;;;;;;;;;;;x
 string_baltic_symbol;the wood;;;;;;;;;;;;x
 string_finnish_symbol;熊;;;;;;;;;;;;x
@@ -10448,7 +10448,7 @@ center_of_attention_desc;This character is enjoying the attention.;;;;;;;;;;;;x
 EVTDESC_HFP_11038;「私は[GetWarriorLodgeSymbol]と一体だ」[GetDuelWeapon]を振る度に自分に言い聞かせる。「[Root.PrimaryTitle.GetName]のために！」咆哮を上げ、私の邪魔になるものは誰であれ[GetWeaponSwinging]伏せる。死体と血が[battlefield_location.GetTerrain]中に溢れかえり、枯れていた生の川を満たすように鬨の声を上げ続ける。;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_default;私は道を得た！;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_lunatic;Come out, come out, where you are!;;;;;;;;;;;;x
-EVTOPTA_HFP_11038_evil;Aaah, the sound of bone and resolve cracking before me... Invigorating!;;;;;;;;;;;;x
+EVTOPTA_HFP_11038_evil;あぁあ、目の前で骨と意志が折れる音がする...爽快だ!;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_kind;May [Root.Religion.GetHighGodName] care for all these souls.;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_cannibal;This almost making me hungry...;;;;;;;;;;;;x
 EVTOPTA_HFP_11038_depressed;私は「生きている」！;;;;;;;;;;;;x
@@ -10545,7 +10545,7 @@ EVTDESCHF10501_B;やあ、[Root.GetSocietyRank]！\n\n[Root.Society.GetNameCap]�
 EVTDESCHF10511_A;やあ、[Root.GetSocietyRank]!\n\n[Root.Society.GetName]の一員として、我々は常に戦いに備えなければならない。お前の心構えを証明するために、[duel_target.Society.GetName]の[duel_target.GetSocietyRank][duel_target.GetTitledFirstName]を探し出し、決闘しろ――武器を血で染めるまで！ふたりのうち、生きて戻れるのはただ一人だけだ。\n\n[From.GetTitledFirstName]（署名）;;;;;;;;;;;;x
 EVTDESCHF10511_B;やあ、[Root.GetSocietyRank]!\n\n[Root.Society.GetName]の一員として、我々は常に戦いに備えなければならない。お前の心構えを証明するために、[duel_target.GetTitledFirstName]を探し出し、決闘しろ――武器を血で染めるまで！ふたりのうち、生きて戻れるのはただ一人だけだ。[duel_target.Location.GetName]で[duel_target.GetHerHim]を見つけるでしょう。\n\n[From.GetTitledFirstName]（署名）;;;;;;;;;;;;x
 EVTDESC_HF_10503_duel;折り悪く§Y[From.GetTitledName]§!が死亡。[From.GetHerHim]との決闘ミッションは失敗となった。[Root.Society.GetNameCap]からまた別の何かを課されるだろう;;;;;;;;;;;;x
-quest_target_tt;§Y[From.GetTitledFirstName]§! has a mission to duel §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;x
+quest_target_tt;§Y[From.GetTitledFirstName]§!は§Y[Root.GetTitledFirstName]§!と決闘する任務がある;;;;;;;;;;;;x
 EVTDESC_HFP_10196;§Y[FromFrom.GetTitledName]§! suffered an untimely death before we could see to our duel. I'll have to approach [warrior_lodge_to_join.GetName] anew.;;;;;;;;;;;;x
 commander_lost;指揮官の死;;;;;;;;;;;;x
 EVTDESC_HF_10060;「もう席は埋まってるぞ、[Root.GetSocietyRank]。その座をかけて闘ろうって言いたいのか？」[combatant_2.GetTitledFirstName]は席を立ち、拳をパキリと鳴らすと距離をとった。;;;;;;;;;;;;x
@@ -11400,10 +11400,10 @@ EVTOPTA_HFP_42204;あの品物だ。あれがよさそうだ。;;;;;;;;;;;;x
 EVTOPTB_HFP_42204;死ね！邪教徒どもめ！;;;;;;;;;;;;x
 EVTOPTD_HFP_42204;金目のものを出せ、田舎者め。;;;;;;;;;;;;x
 EVTOPTC_HFP_42204;ありがたいが、私は道を急いでいるのだ。;;;;;;;;;;;;x
-EVTDESC_HFP_42205;When I joined the Crusade for [new_crusade_title.GetBaseName], I never expected the loneliness and longing for home. My men look up to me, so I have to continue the facade that everything is all right, as we move ever closer to our goal.;;;;;;;;;;;;x
-EVTOPTA_HFP_42205;I have to keep going.;;;;;;;;;;;;x
-EVTOPTB_HFP_42205;Maybe I just need to try to relax, and stop overworking myself.;;;;;;;;;;;;x
-EVTOPTC_HFP_42205;[Root.Religion.GetHighGodName] will guide me through these hardships.;;;;;;;;;;;;x
+EVTDESC_HFP_42205;[new_crusade_title.GetBaseName]への十字軍に参加を表明した時、孤独と故郷への憧れは予想していなかった。部下たちは私を尊敬しているので、私はすべてがうまくいっているという顔を続けなければならない。;;;;;;;;;;;;x
+EVTOPTA_HFP_42205;続ける必要がある;;;;;;;;;;;;x
+EVTOPTB_HFP_42205;リラックスして無理をしないようにしないといかんね;;;;;;;;;;;;x
+EVTOPTC_HFP_42205;[Root.Religion.GetHighGodName]はこれらの困難を持って私を導いてくださる;;;;;;;;;;;;x
 EVTDESC_HFP_42206;As we settle down for the night in [current_location.GetName], a comet passes overhead. The soldiers start talking excitedly what it might mean.;;;;;;;;;;;;x
 EVTOPTA_HFP_42206;[Root.Religion.GetHighGodName] guides our hand in this just war!;;;;;;;;;;;;x
 EVTOPTB_HFP_42206;All right, now get back to work men.;;;;;;;;;;;;x
@@ -12097,7 +12097,7 @@ pirate;海賊;;;;;;;;;;;;x
 pirate_desc;This character has earned a reputation as a fearsome raider.;;;;;;;;;;;;x
 pirate_opinion;Pirate Opinion;;;;;;;;;;;;x
 pirate_opinion_EXPLANATION;（海賊への影響）;;;;;;;;;;;;x
-ravager_desc;この人物は恐ろしい略奪者として広く知られている。戦い、生きた[Root.GetCulturalPirate]である。;;;;;;;;;;;;x
+ravager_desc;この人物は恐ろしい奪掠者として広く知られている。戦いを生き抜いた一握りの[Root.GetCulturalPirate]である。;;;;;;;;;;;;x
 tooltip_cultural_pirate_viking;ヴァイキング;;;;;;;;;;;;x
 tooltip_cultural_pirate_pirate;海賊;;;;;;;;;;;;x
 tooltip_religion_feature_pirating;[GetPiratingFeature];;;;;;;;;;;;x
@@ -12126,7 +12126,7 @@ pillagers_morale_desc;最近の襲撃で略奪品を分け合ったので、こ�
 great_sacrifice_positive;Great Sacrifice;;;;;;;;;;;;x
 great_sacrifice_negative;Great Heathen Sacrifice;;;;;;;;;;;;x
 EVTDESCHF23207;[From.GetName]での略奪は非常に収穫が多かった。良質な奴隷として使える健康そうな住民を多数かき集めて捕虜とした。;;;;;;;;;;;;x
-EVTOPTAHF23207;They will serve the gods in the afterlife!;;;;;;;;;;;;x
+EVTOPTAHF23207;彼らはあの世で神に仕える!;;;;;;;;;;;;x
 EVTOPTBHF23207;こいつらはいいカネになる…;;;;;;;;;;;;x
 EVTOPTCHF23207;[Root.Capital.GetName]に送致するか…;;;;;;;;;;;;x
 EVTDESCHF23208;The monstrous raiders led by [From.GetTitledFirstName] have slaughtered many of the people of [FromFrom.GetName], flooding the streets with blood in order to appease their wicked idols.;;;;;;;;;;;;x
@@ -12177,12 +12177,12 @@ nick_the_wyrm;the Wyrm;;;;;;;;;;;;x
 nick_the_fury;the Fury;;;;;;;;;;;;x
 nick_the_stormforged;the Stormforged;;;;;;;;;;;;x
 nick_the_tempest_of_capital;[Root.Capital.GetName]の嵐;;;;;;;;;;;;x
-EVTDESCAHF23214;My warriors are already sprawling through the streets of [From.GetName] to take their hard-fought loot, when I receive news that there is still a pocket of defenders hiding in the area. It is a small band of mercenaries, led by a [scoped_pirate_mercenary.GetManWoman] called [scoped_pirate_mercenary.GetFirstName]. Their leader claims that [scoped_pirate_mercenary.GetSheHe] has no quarrel with us, and would in fact be ready to join my army for the right price.;;;;;;;;;;;;x
+EVTDESCAHF23214;我が戦士たちはすでに[From.GetName]の街中に散り散りになって戦利品の争奪戦をしているが、そのとき、その地域にはまだ小規模の防衛隊が隠れているという報せを受けた。[scoped_pirate_mercenary.GetFirstName]という[scoped_pirate_mercenary.GetManWoman]が率いる、小さな傭兵集団だ。そのリーダーが言うには我々と争ってはいないし、実際、適正な価格で我々の軍に加わる準備ができていると主張している。;;;;;;;;;;;;x
 EVTOPTAHF23214;Perhaps we can come to a better arrangement?;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23214;Use your §YIntrigue§! to try and seduce §Y[scoped_pirate_mercenary.GetFirstName]§!;;;;;;;;;;;;x
 EVTOPTBHF23214;Perhaps we can come to a better arrangement?;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23214;Use your §YIntrigue§! to try and seduce §Y[scoped_pirate_mercenary.GetFirstName]§!;;;;;;;;;;;;x
-EVTOPTCHF23214;I challenge you for leadership of your band!;;;;;;;;;;;;x
+EVTOPTCHF23214;お前の団のリーダーの座をかけて勝負だ!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTCHF23214;§Y[scoped_pirate_mercenary.GetFirstName]§!に§Y決闘§!を挑みます。;;;;;;;;;;;;x
 EVTOPTDHF23214;Your price sounds reasonable...;;;;;;;;;;;;x
 TOOLTIP_EVTOPTDHF23214;Hire §Y[scoped_pirate_mercenary.GetFirstName]§!'s band of raiders for a few months.;;;;;;;;;;;;x
@@ -12207,7 +12207,7 @@ TOOLTIP_EVTOPTAHF23217;Pay §Y[scoped_pirate_mercenary.GetFirstName]§!'s band o
 EVTOPTBHF23217;You dare make demands of me?! Begone!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23217;§Y[scoped_pirate_mercenary.GetFirstName]§!'s band of raiders will disband.;;;;;;;;;;;;x
 pirate_mercenaries;Mercenaries;;;;;;;;;;;;x
-EVTDESCAHF23218;Having proven my worth by defeating their leader, the remaining mercenaries have flocked under my banner, fearing to meet the same end as their former commander.;;;;;;;;;;;;x
+EVTDESCAHF23218;彼らのリーダーを倒して私の価値を証明した後、残った傭兵たちは、彼らの前の指揮官と同じ末路をたどることを恐れて、私の旗の下に集まってきた。;;;;;;;;;;;;x
 EVTOPTAHF23218;I am not to be trifled with.;;;;;;;;;;;;x
 EVTDESCAHF23219;[From.GetName]の防衛をこじ開ける何らかの方法があるに違いない。陸海両方を押さえているので、この要塞に対して明白に有利な状態にある。いいアイデアが浮かびさえすれば…;;;;;;;;;;;;x
 EVTDESCBHF23219;[From.GetName]に乗り込む何らかの方法があるに違いない。この都市はよく防衛しているが、陸海両方を押さえているので明白に有利な状態にあるし、彼らは広大な土地を守らなければならない。いいアイデアが浮かびさえすれば…;;;;;;;;;;;;x
@@ -12388,8 +12388,8 @@ nick_the_spirit_stalker;the Spirit-stalker;;;;;;;;;;;;x
 nick_the_crimson_reaper;深紅の死神;;;;;;;;;;;;x
 nick_the_chest_buster;the Chestbuster;;;;;;;;;;;;x
 nick_the_dreaded;the Dreaded;;;;;;;;;;;;x
-EVTDESCAHF23431;I leave the altar with my clothes still dripping of the blood of my last victim. After having officiated a few sacrificial rites, I have found that my hands are much steadier, and that my heart is much more impervious to the incoherent pleas of my offerings to the gods.;;;;;;;;;;;;x
-EVTOPTAHF23431;It needs to be done.;;;;;;;;;;;;x
+EVTDESCAHF23431;最後の犠牲者の血が服から滴り落ちたまま私は祭壇を離れた。祭礼を執り行ってみると、神への捧げものが支離滅裂な嘆願をしても私の両手はずっとしっかりしていて、心になにも感じないことに気づいた。;;;;;;;;;;;;x
+EVTOPTAHF23431;やり遂げなければならない。;;;;;;;;;;;;x
 EVTDESCAHF23432;There might have been a time when the sight of blood unsettled me, or when the wailing of a child could make my dagger quake and fill my mind with dread. \nBut not any longer. \nThe gods have granted me the fortitude to perform their sacred work.;;;;;;;;;;;;x
 EVTOPTAHF23432;不死者たちを鎮めねば！;;;;;;;;;;;;x
 EVTDESCAHF23433;The crowd below me cheers as the head of my last sacrifice rolls down the steps of the temple. I throw the heart in the sacred brazier, watching it hiss and burn and singing praises to the gods.;;;;;;;;;;;;x
@@ -12402,7 +12402,7 @@ EVTDESCAHF23435;[From.Religion.GetName] priests are notorious throughout the wor
 EVTDESCBHF23435;[From.Religion.GetName] priests are notorious throughout the world for their sanguinary practices. They consider the many sacrifices that they regularly perform as an imperative necessity, a grim responsibility that every pious man must take part in to avoid the terrible wrath of the gods.\nYet, few can deny that the accomplishments of [From.GetTitledFirstName] in sating the gods' eternal thirst have towered upon those of all of [From.GetHerHis] colleagues.\nThrough [From.GetHerHis] faith and dedication, [From.GetSheHe] has cleansed the entirety of [From.PrimaryTitle.GetName] in a sea of blood, forging a sacred legacy that will not soon be forgotten.;;;;;;;;;;;;x
 EVTOPTAHF23435;Gruesome, yet effective.;;;;;;;;;;;;x
 EVTOPTBHF23435;なんと忌まわしい！;;;;;;;;;;;;x
-EVTDESCHF23002_B;The priests drag [From.GetTitledFirstName] screaming to the top of the temple and they keep [From.GetHerHim] steady on the altar while I slice [From.GetHerHim] open with a ceremonial dagger. I then tear out [From.GetHerHis] still beating heart to the cheers of the assembled crowd.;;;;;;;;;;;;x
+EVTDESCHF23002_B;神官たちは叫び声をあげる[From.GetTitledFirstName]を神殿の最上部まで引きずって行き、私が儀式用の短剣を持ち[From.GetHerHim]を切り開いている間[From.GetHerHim]を祭壇の上で固定していた。私が[From.GetHerHis]のまだ鼓動する心臓を切り取ってみせると、集まった群衆から歓声が上がった。;;;;;;;;;;;;x
 bloodthirsty_games_decision;血肉遊びを計画;;;;;;;;;;;;x
 bloodthirsty_games_decision_desc;神の栄光のため、領内の囚人や使用人たちによる盛大で陰惨な闘技会を許可する。;;;;;;;;;;;;x
 tooltip_start_bloodthirsty_games;§Y血みどろの武芸大会§!の準備をする;;;;;;;;;;;;x
@@ -12550,8 +12550,8 @@ vicious_rumors_2;Scandalous Rumors;;;;;;;;;;;;x
 vicious_rumors_2_desc;There are all kinds of foul rumors about this character, most likely started by some rival or enemy.;;;;;;;;;;;;x
 tormented_modifier;Tormented;;;;;;;;;;;;x
 tormented_modifier_desc;This character's enemies are tormenting [Root.GetHerHim] with threats, mockery and constant humiliation.;;;;;;;;;;;;x
-counterespionage_modifier;Counterespionage;;;;;;;;;;;;x
-counterespionage_modifier_desc;Enemy informers have infiltrated in this character's court, feeding false reports to [Root.GetHerHis] spies.;;;;;;;;;;;;x
+counterespionage_modifier;防諜活動;;;;;;;;;;;;x
+counterespionage_modifier_desc;敵の情報提供者がこの人物の宮廷に潜入しており、[Root.GetHerHis]の間諜に虚偽の情報提供をしています;;;;;;;;;;;;x
 EVTDESCHF22121;多大な時間と労力を割いて仇敵を傷つけることは、私の利益に繋がると判断した。\n[From.GetTitledFirstName]の存在はこの世の耐えがたい疾病であり、[From.GetHerHis]の人生を地獄に追いやるまで、私が休むことは無いだろう。;;;;;;;;;;;;x
 EVTOPTAHF22121;[From.GetHerHis]のスパイたちに、偽情報を広めよう。;;;;;;;;;;;;x
 EVTOPTBHF22121;[From.GetHerHim]への最も悪辣な噂を広めよう。;;;;;;;;;;;;x
@@ -12665,7 +12665,7 @@ tb_great_pillar_zun_empty_desc;A sacred golden pillar bearing deep religious sig
 tb_great_pillar_hellenic_empty;Old Column;;;;;;;;;;;;x
 tb_great_pillar_hellenic_empty_desc;地域の原始宗教にとって宗教的に深い意義のある聖なる彫刻柱。;;;;;;;;;;;;x
 enjoying_the_countryside;田舎を満喫;;;;;;;;;;;;x
-enjoying_the_countryside_desc;This character has temporarily left some of [Root.GetHerHis] responsibilities behind to enjoy [Root.GetHerHis] demesne for a few days, spending [Root.GetHerHis] time hunting and training.;;;;;;;;;;;;x
+enjoying_the_countryside_desc;この人物は、領地で一時を楽しむために一部の職責を放棄し、狩猟と訓練に時間を費やしています。;;;;;;;;;;;;x
 feverish_grooming;Feverish Grooming;;;;;;;;;;;;x
 feverish_grooming_desc;This character is trying to look at [Root.GetHerHis] best for a special occasion.;;;;;;;;;;;;x
 tribal_studying_legends;古き英雄を学ぶ;;;;;;;;;;;;x
@@ -12796,7 +12796,7 @@ EVTDESCHF23813;お祝いがようやく始まった。 [From.Capital.GetName]は
 EVTOPTAHF23813;多くの新顔がいるな...;;;;;;;;;;;;x
 EVTDESCHFA23814;人ごみの中から枯れた声が私の名前を呼んでいることに気が付いた。一人の老いた占い師が、古い石のそばに座って私を待っている。彼は私の将来を僅かな代金で占うと言った。;;;;;;;;;;;;x
 EVTDESCHFB23814;老婦人が突然私の視界に飛び込んできて、歯のない顔に微笑を浮かべ、サイコロの入ったコップを振っている。彼女は、正当な見返りをくれれば星のお告げを教えてやろうといっている。;;;;;;;;;;;;x
-EVTDESCHFC23814;As I am appraising some of the merchandise of the travelers drawn to the festival, I meet the unsettling gaze of a weird boy in tatters. The kid approaches me slowly, ignoring the crowd bustling with activity around him, and whispers that he can read me my future for just a small price.;;;;;;;;;;;;x
+EVTDESCHFC23814;大祭に引き寄せられた行商人たちの商品を見定めていると、ぼろきれに身を包んだ奇妙な少年の不気味な視線と合わさった。その子は、周りの群衆の動きを無視して私にゆっくりと近づいてきて、私の未来をほんの僅かな値段で読めるとささやいた。;;;;;;;;;;;;x
 EVTOPTAHF23814;銅貨を数枚渡す...;;;;;;;;;;;;x
 EVTOPTBHF23814;そのようなことに費やしている時間は無い!;;;;;;;;;;;;x
 EVTDESCHFA23815;The fortuneteller surprises me by predicting that extraordinary opportunities are about to present themselves to me in my near future, and I need only to pay close attention to find my good fortune.;;;;;;;;;;;;x
@@ -13071,9 +13071,9 @@ EVTDESCHFA23911;祭りも終わりに近づき、ついに供物を焼いて先�
 EVTDESCHFB23911;祭りの期間が終わると、祭司たちは村の最も神聖な象徴を担いだ信者の行列を先導し、これまでに捧げられたすべての供え物でいっぱいのごみの上に乗せた。長い沈黙の時間が[From.Capital.GetName]を覆い、聖なる象徴が村の通りをその存在で祝福した後、地元の祠の安全な場所に戻され、儀式は終了した。;;;;;;;;;;;;x
 EVTDESCHFC23911;祭りも終わりに近づき、いよいよ古い神々に捧げるために供え物に火をつけ、彼らがこれからの数年間にわたり私たちを守るように祈る時だ。 煙が夜の空に昇ると、長い沈黙の時間が[From.Capital.GetName]を覆い、シャーマンたちは私たちを陰鬱な賛美歌で導いて、式典を終えた。;;;;;;;;;;;;x
 EVTOPTAHF23911;[From.Religion.GetRandomGodName]に栄光あれ！;;;;;;;;;;;;x
-opinion_held_great_festival;Held Great Festival;;;;;;;;;;;;x
+opinion_held_great_festival;大部族祭を開いた;;;;;;;;;;;;x
 great_tribal_festival_1;Festivals Held;;;;;;;;;;;;x
-great_tribal_festival_2;Great Festivals Held;;;;;;;;;;;;x
+great_tribal_festival_2;大部族祭が開かれた;;;;;;;;;;;;x
 string_baptism_low_tribal_authority;§Y一斉改宗§!が進行中の一方で§Y最高の部族組織法§!に満たないと、§Y原始宗教の封臣§!が新宗教を拒絶する危険性が高まります。;;;;;;;;;;;;x
 mass_baptism_capital_traders;Foreign Traders;;;;;;;;;;;;x
 mass_baptism_capital_traders_desc;The recent mass conversion of this province's owner has attracted new merchants from the more civilized parts of the world, revitalizing local trade.;;;;;;;;;;;;x
@@ -13361,7 +13361,7 @@ POPE_AIREASON_MODIFIER_RULER_OPPOSES_EXCOMMUNICATED_LIEGE;[Root.GetTitledFirstNa
 POPE_AIREASON_MODIFIER_RULER_FACTIONS_AGAINST_ANTIPOPE;[Root.GetTitledFirstName] is opposing an §YAntipope§!;;;;;;;;;;;;x
 POPE_AIREASON_MODIFIER_RULER_PROTECTS_ANTIPOPE;I want [FromFrom.GetTitledFirstName]'s §YAntipope§! deposed;;;;;;;;;;;;x
 EVTDESCAHFP23004;To [Root.GetTitledName],\nWe have taken note of your passionate plea for forgiveness, and We are certain that you will be eager to prove the sincerity of your repentance by paying the proper price for your indulgence.\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHFP23004;結構。;;;;;;;;;;;;x
+EVTOPTAHFP23004;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHFP23004;無駄遣いする金はない！;;;;;;;;;;;;x
 EVTDESCAHFP23005;After paying the requested tribute to the Holy See, [FromFrom.GetTitledFirstName] has finally agreed to lift my Excommunication and welcome me back into the loving embrace of the Holy Mother Church.;;;;;;;;;;;;x
 EVTDESCBHFP23005;After paying the requested tribute to [FromFrom.PrimaryTitle.GetName], [FromFrom.GetTitledFirstName] has finally agreed to lift my Excommunication, restoring my legitimacy as [Root.GetTitle] in the eyes of the [Root.Religion.GetName] world.;;;;;;;;;;;;x
@@ -13396,7 +13396,7 @@ EVTDESCAHFP23015;私の赦免の代償は、[Root.PrimaryTitle.GetName]の司教
 EVTDESCBHFP23015;私の赦免の代償は、[Root.PrimaryTitle.GetName]の司教叙任権の復活である。つまり、私の領域内で司教を叙任する権限を持つのは[FromFrom.GetTitle]だけである。;;;;;;;;;;;;x
 EVTOPTAHFP23015;他にどうすればよかったんだ？;;;;;;;;;;;;x
 EVTDESCAHFP23016;To [Root.GetTitledName],\nWe are of the opinion that it was your hubris and selfish thirst for power that have led you on the path of wickedness. As such, we demand that, in exchange for your absolution, you show your humility by equally dividing your realm amongst your heirs.\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHFP23016;Very well.;;;;;;;;;;;;x
+EVTOPTAHFP23016;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHFP23016;Never!;;;;;;;;;;;;x
 EVTDESCAHFP23017;It is decree of the Holy See that my titles be split upon my death equally amongst my children. The very integrity of my realm is a steep price to pay to receive absolution for my past sins and be able to rejoin my fellow [Root.Religion.GetName] subjects.;;;;;;;;;;;;x
 EVTDESCBHFP23017;It is decree of [From.PrimaryTitle.GetName] that my titles be split upon my death equally amongst my children. The very integrity of my realm is a steep price to pay to receive absolution for my past sins and be able to rejoin my fellow [Root.Religion.GetName] subjects.;;;;;;;;;;;;x
@@ -13417,7 +13417,7 @@ nick_the_hermit;隠者;;;;;;;;;;;;x
 nick_the_recluse;隠遁者;;;;;;;;;;;;x
 nick_the_absolved;the Absolved;;;;;;;;;;;;x
 EVTDESCHFPA23022;To [Root.GetTitledName],\nWe are of the opinion that only by returning under the rightful lead of the Holy See you will be able to find absolution for your sins. Your lands rightfully belong to the Church, and we therefore demand that you submit to Our benevolent authority forthwith.\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;x
-EVTOPTAHFP23022;Very well.;;;;;;;;;;;;x
+EVTOPTAHFP23022;いいだろう。;;;;;;;;;;;;x
 EVTOPTBHFP23022;I will not bow to you!;;;;;;;;;;;;x
 EVTDESCAHFP23023;The Holy See claims direct dominion over all of Italy since the Donation of Emperor Pepin. Although [Root.PrimaryTitle.GetName] had gained independence in recent times, I am now forced to bow to the throne of Saint Peter in order to find absolution for my transgression.;;;;;;;;;;;;x
 EVTOPTAHFP23023;How humiliating...;;;;;;;;;;;;x
@@ -13737,7 +13737,7 @@ EVTDESCHF25412;The past few months I have been focusing entirely on my training 
 EVTOPTAHF25412;Books are for weaklings!;;;;;;;;;;;;x
 EVTDESCAHF25413;[warrior_lodge_to_join.GetName]への加入が[GetFromRelation]を荒っぽくしたことに気付かない私ではない。そこでの鍛錬は疑う余地なく結果を出すだろうが、清廉でハンサムな[GetFromRelation]は粗野で口汚い戦士になるだろう。;;;;;;;;;;;;x
 EVTDESCBHF25413;[warrior_lodge_to_join.GetName]への加入が[GetFromRelation]を荒っぽくしたことに気付かない私ではない。そこでの鍛錬は疑う余地なく結果を出すだろうが、優しくデリケートな[GetFromRelation]は粗野で口汚い戦士になるだろう。;;;;;;;;;;;;x
-EVTOPTAHF25413;Absolutely intolerable!;;;;;;;;;;;;x
+EVTOPTAHF25413;到底我慢できるものではない！;;;;;;;;;;;;x
 EVTOPTBHF25413;[From.GetHerHim]が強くなるのなら…;;;;;;;;;;;;x
 EVTDESCHF25414;Today, [From.GetFirstName] took some time to scold me about my training. [From.GetSheHeCap] claims that spending so much time with uncouth riffraff is making me lose my manners and forgo any care about my looks, an behavior unfitting for a [Root.GetTitle].;;;;;;;;;;;;x
 EVTOPTAHF25414;All this fuss for a bit of dirt...;;;;;;;;;;;;x
@@ -13778,10 +13778,10 @@ EVTDESCCHF25425;Ever since my [recruiting_parent.GetRootRelation] forced me to j
 EVTDESCDHF25425;Ever since my [recruiting_parent.GetRootRelation] forced me to join [warrior_lodge_to_join.GetName], life has been a constant torment for me. All of this talk of duels and war is too much for me to bear. I do not really have the stomach to be a fighter.;;;;;;;;;;;;x
 EVTOPTAHF25425;[recruiting_parent.GetRootRelation], I do not want to be a warrior anymore!;;;;;;;;;;;;x
 EVTOPTBHF25425;Still, I must obey my [recruiting_parent.GetRootRelation]'s wishes.;;;;;;;;;;;;x
-EVTDESCAHF25426;My [GetFromRelation] has confronted me today about my decision to have [From.GetHerHim] join [warrior_lodge_to_join.GetName]. [From.GetSheHeCap] claims that the training is too hard and [From.GetSheHe] does not feel like [From.GetSheHe] is fit to be a warrior.;;;;;;;;;;;;x
+EVTDESCAHF25426;我が[GetFromRelation]が[From.GetHerHim]を[warrior_lodge_to_join.GetName]に加入させた決断について私に直訴した。[From.GetSheHeCap]は、訓練があまりにも厳しすぎだし、どうも戦士に向いている気がしないと主張している。;;;;;;;;;;;;x
 EVTDESCBHF25426;私が[GetFromRelation]を[warrior_lodge_to_join.GetName]に加入させた決断について[From.GetHerHim]は私に対峙した。[From.GetSheHeCap]は兵法に魅力を感じず、学者になることを望んでいる。;;;;;;;;;;;;x
-EVTDESCCHF25426;My [GetFromRelation] has confronted me today about my decision to have [From.GetHerHim] join [warrior_lodge_to_join.GetName]. [From.GetSheHeCap] claims that fighting is simply not a [From.GetManWoman]'s job, and demands that I allow [From.GetHerHim] to leave the Lodge.;;;;;;;;;;;;x
-EVTDESCDHF25426;My [GetFromRelation] has confronted me today about my decision to have [From.GetHerHim] join [warrior_lodge_to_join.GetName]. [From.GetSheHeCap] claims that the prospective of fighting other people makes [From.GetHerHim] uneasy and jittery. [From.GetSheHeCap] hopes I could reconsider my decision to make [From.GetHerHim] become a warrior like myself.;;;;;;;;;;;;x
+EVTDESCCHF25426;我が[GetFromRelation]が[From.GetHerHim]を[warrior_lodge_to_join.GetName]に加入させた決断について私に直訴した。[From.GetSheHeCap]は、戦うことは[From.GetManWoman]のすることではないと主張し、脱退の許可を求めている。;;;;;;;;;;;;x
+EVTDESCDHF25426;我が[GetFromRelation]が[From.GetHerHim]を[warrior_lodge_to_join.GetName]に加入させた決断について私に直訴した。[From.GetSheHeCap]が言うには、誰かと戦うことを思うと不安で落ち着かないので、[From.GetHerHim]を私のような戦士にすることを考え直すように望んでいる。;;;;;;;;;;;;x
 EVTOPTAHF25426;お前は私の[GetFromRelation]だ。私に従え！;;;;;;;;;;;;x
 TT_EVTOPTAHF25426;あなたの決断に対する§Y[From.GetFirstName]§!の反応は薄いでしょう。;;;;;;;;;;;;x
 EVTOPTBHF25426;それが望みというならば...;;;;;;;;;;;;x
@@ -13792,7 +13792,7 @@ EVTOPTCHF25427;I cannot live like this anymore!;;;;;;;;;;;;x
 EVTDESCAHF25428;Since our last fight, [From.GetFirstName] has been very gloomy, barely even speaking to me or any of [From.GetHerHis] friends. Forcing [From.GetHerHim] to keep training to be a warrior might have not been the best decision on my part...;;;;;;;;;;;;x
 EVTOPTAHF25428_A;But I did it for [From.GetHerHis] own good!;;;;;;;;;;;;x
 EVTOPTAHF25428_B;[From.GetSheHeCap] will learn to love it.;;;;;;;;;;;;x
-EVTDESCAHF25429;Far from obeying my decision to become a warrior, [From.GetFirstName] has decided to flee [Root.Capital.GetName]! And, as if that wasn't enough, my [GetFromRelation] stole as much [From.GetSheHe] could carry from my treasury before leaving.;;;;;;;;;;;;x
+EVTDESCAHF25429;[From.GetFirstName]は、戦士にするという私の決断に従うどころか、[Root.Capital.GetName]から逃げることを決意した!そして、それだけでは十分ではないかのように、我が[GetFromRelation]は出発前に私の金庫から持ち運べるだけ盗んだ。;;;;;;;;;;;;x
 EVTOPTAHF25429_A;How could [From.GetSheHe] do this to me?;;;;;;;;;;;;x
 EVTOPTAHF25429_B;That little ingrate!;;;;;;;;;;;;x
 EVTOPTAHF25429_C;[From.GetSheHeCap] is no longer my [GetFromRelation].;;;;;;;;;;;;x
@@ -14411,7 +14411,7 @@ tooltip_religion_feature_open_succession;§G公開相続制の継承が解除さ
 tooltip_considering_artifact_donation;Is NOT being considered as a gift.;;;;;;;;;;;;x
 TT_EVTOPTAHF25030;New warriors will soon start flocking to your banners.;;;;;;;;;;;;x
 tooltip_call_of_the_steppe_cooldown;Has NOT used §YCall of the Steppe§! in the past §Y10 years§!;;;;;;;;;;;;x
-EVTDESCBHF25024;A couple of fellow warriors help me constrain the majestic offerings that I have personally picked from my livestock for this occasion. While a a priest chants, I plunge the sacrificial dagger deep into the flesh of the first horse, letting its blood shower over my face. I turn around and the priests inscribe a few holy symbols on my face with blood and dirt.;;;;;;;;;;;;x
+EVTDESCBHF25024;私がこの行事にあたって直々に選んだ立派な生贄の家畜を押さえつけるために、何人かの仲間の戦士が手伝ってくれた。神官が唱えている間に私はその短剣を最初の馬の肉の奥深くに突き刺し、その血を私の顔に浴びるがままにした。私が向き直ると、神官たちは私の顔にいくつかの神聖なシンボルを血と泥で刻んだ。;;;;;;;;;;;;x
 EVTDESCAHF23466;With my champion dead, I have been left without a fighter to represent my dynasty's faith to the gods in the upcoming blood games. Still, there is a little time left, if I wish to find somebody else to rise up to the challenge.;;;;;;;;;;;;x
 EVTDESC_RIP_29801;On [From.GetHerHis] deathbed, my [GetFromRelation] told me that I was so similar to my grandfather in my habits it was almost eerie.;;;;;;;;;;;;x
 EVTDESC_RIP_29801_B;On [From.GetHerHis] deathbed, my [GetFromRelation] told me that I was so similar to my grandmother in my habits it was almost eerie.;;;;;;;;;;;;x
@@ -14509,8 +14509,8 @@ forging_legend_building_zealotry_1;Influencing Priesthood;;;;;;;;;;;;x
 forging_legend_building_zealotry_1_desc;This ruler is spending a considerable amount of resources to exert [Root.GetHerHis] influence over the realm's clergy and inspire religious fervor amongst [Root.GetHerHis] populace.;;;;;;;;;;;;x
 forging_legend_building_zealotry_2;Encouraging Zealotry;;;;;;;;;;;;x
 forging_legend_building_zealotry_2_desc;This ruler is spending a considerable amount of influence to inspire religious fervor amongst [Root.GetHerHis] populace.;;;;;;;;;;;;x
-forging_legend_censoring_arts_1;Inquisitorial Raids;;;;;;;;;;;;x
-forging_legend_censoring_arts_1_desc;This ruler is exerting a direct control over all crafts and activities of [Root.GetHerHis] subjects in order to prevent the spreading of any heretical thought within [Root.GetHerHis] realm.;;;;;;;;;;;;x
+forging_legend_censoring_arts_1;強制捜査;;;;;;;;;;;;x
+forging_legend_censoring_arts_1_desc;この領主は領国に異端の思想が広まるのを防ぐために、臣民のあらゆる工芸や活動を直接支配しています。;;;;;;;;;;;;x
 forging_legend_censoring_arts_2;Inquisitorial Advisory;;;;;;;;;;;;x
 forging_legend_censoring_arts_2_desc;This ruler has hired religious agents to oversee most of [Root.GetHerHis] subjects' everyday activities in order to prevent the spreading of any heretical thought within [Root.GetHerHis] realm.;;;;;;;;;;;;x
 forging_legend_censoring_arts_3;Censorious Efforts;;;;;;;;;;;;x
@@ -14625,10 +14625,10 @@ EVTOPTAHF24054;[Root.Capital.GetName]は神学思想の砦となるだろう！;
 TT_EVTOPTAHF24054;§Y血脈§!を創始するため、領内の神学研究を後援することに取り組みます。;;;;;;;;;;;;x
 EVTOPTBHF24054;[Root.Capital.GetName]は芸術と哲学の都となるだろう！;;;;;;;;;;;;x
 TT_EVTOPTBHF24054;§Y血脈§!を創始するため、領内の芸術と哲学への探求を後援することに取り組みます。;;;;;;;;;;;;x
-EVTDESCHF24055;Only through decisive action and by achieving complete control over my realm I will be able to immortalize my name for centuries to come.;;;;;;;;;;;;x
-EVTOPTAHF24055;[Root.Religion.GetHighGodName] will show me the way to eternal glory!;;;;;;;;;;;;x
+EVTDESCHF24055;断固たる行動をとり、自分の領国を完全に支配することによってのみ、私はこの先何世紀にもわたってその名を不滅にすることができる。;;;;;;;;;;;;x
+EVTOPTAHF24055;[Root.Religion.GetHighGodName]は私に永遠の栄光への道を導いてくださるだろう。;;;;;;;;;;;;x
 TT_EVTOPTAHF24055;Work on forging a §YBloodline§! by spreading the true faith across your realm and beyond.;;;;;;;;;;;;x
-EVTOPTBHF24055;I must be remembered, no matter how!;;;;;;;;;;;;x
+EVTOPTBHF24055;何はともあれ、肝に銘じておかなくては！;;;;;;;;;;;;x
 TT_EVTOPTBHF24055;Work on forging a §YBloodline§! by increasing your power as [Root.GetTitle].;;;;;;;;;;;;x
 EVTTITLEHF24056;慈悲深き支配者;;;;;;;;;;;;x
 EVTDESCHF24056;It has come to my attention that many of the realm's laws handling petty disputes are old and obsolete. Revising our legal system to provide fair and satisfying judgment will certainly improve the conditions of my subjects and increase the prestige of my dynasty.;;;;;;;;;;;;x
@@ -14697,20 +14697,20 @@ EVTOPTDHF24066;彼らの中で最も優れた者を私の宮廷で常にもて�
 EVTOPTEHF24066;これは私の財力を超えている。;;;;;;;;;;;;x
 EVTDESCAHF24067;Having spent years of [Root.GetHerHis] reign sponsoring artists and philosophers within [Root.GetHerHis] realm, [Root.GetTitledFirstName] has become famous as an enlightened patron of the arts, celebrated in poems, paintings and ballads all throughout [Root.PrimaryTitle.GetName] and beyond.\nKnown as a learned and charming personality, the [Root.GetTitle] of [Root.PrimaryTitle.GetName] has become the archetype of the philosopher [Root.GetKingQueen] of [Root.GetHerHis] age, a protector of all that is beautiful and metaphysical.;;;;;;;;;;;;x
 EVTOPTAHF24067;Art merely imitates the perfection of our world.;;;;;;;;;;;;x
-EVTTITLEHF24068;The sword of [Root.Religion.GetHighGodName];;;;;;;;;;;;x
-EVTDESCAHF24068;My path to eternal fame is clear. By cleansing my realm of all the impure, heretical influences that plague it and consecrate it to the glory of [Root.Religion.GetHighGodName].;;;;;;;;;;;;x
+EVTTITLEHF24068;[Root.Religion.GetHighGodName]の剣;;;;;;;;;;;;x
+EVTDESCAHF24068;永遠の名声への道は明らかだ。私の領国からあらゆる不純な、災厄たる異端の影響を消し去り、[Root.Religion.GetHighGodName]の栄光の前に捧げるのだ。;;;;;;;;;;;;x
 EVTOPTAHF24068;My subjects must understand the depths of their depravity.;;;;;;;;;;;;x
-EVTOPTBHF24068;All the priests [Root.Religion.GetName] must fall in line with my quest.;;;;;;;;;;;;x
-EVTOPTCHF24068;I will find sympathetic voices amongst the priesthood.;;;;;;;;;;;;x
-EVTOPTDHF24068;The people will know of my great plans!;;;;;;;;;;;;x
-EVTOPTEHF24068;This might be too risky to try...;;;;;;;;;;;;x
-EVTDESCBHF24069;Everywhere I turn I see a new abominable product of heresy. Licentious poems, grotesque paintings, works of fictions trivializing the tales of our holy texts and confusing the common folks of [Root.Capital.GetName]. I must put a stop to all this degeneracy.;;;;;;;;;;;;x
+EVTOPTBHF24068;全ての[Root.Religion.GetName]神父は私の意向に沿わなければならない。;;;;;;;;;;;;x
+EVTOPTCHF24068;牧師達の中に共感の声を見つけよう。;;;;;;;;;;;;x
+EVTOPTDHF24068;人々は私の偉大な計画を知っているだろう!;;;;;;;;;;;;x
+EVTOPTEHF24068;これは試すにはリスクが高すぎるな...;;;;;;;;;;;;x
+EVTDESCBHF24069;どこを見ても異端の新たな忌まわしい産物を目にする。淫乱な詩、グロテスクな絵画、虚構の作品、聖典の物語を矮小化したもの、これらすべてが[Root.Capital.GetName]の庶民を混乱させている。私はこの退廃を止めなければならない。;;;;;;;;;;;;x
 EVTOPTAHF24069;I will lead the inquisitors myself!;;;;;;;;;;;;x
-EVTOPTBHF24069;All activities must be overseen by the righteous!;;;;;;;;;;;;x
-EVTOPTCHF24069;A few new inquisitors will correct the flock.;;;;;;;;;;;;x
-EVTOPTDHF24069;I will exile some of the worst offenders.;;;;;;;;;;;;x
-EVTOPTEHF24069;These measures might create too much discontent...;;;;;;;;;;;;x
-EVTDESCAHF24070;[Root.GetTitledFirstName] has become notorious for [Root.GetHerHis] staunch approach towards religion all throughout [Root.PrimaryTitle.GetName]. At the head of an endless host of inquisitors and overseers, [Root.GetSheHe] has slowly replaced all the most peaceful members of the clergy within [Root.GetHerHis] realm with uncompromising fanatics. With their help, [Root.GetSheHe] has taken upon [Root.GetHerselfHimself] the holy task of cleansing all heretical inclinations from [Root.GetHerHis] subjects.;;;;;;;;;;;;x
+EVTOPTBHF24069;すべての活動は「義人」によって監督されなければならない！;;;;;;;;;;;;x
+EVTOPTCHF24069;数人の新しい異端審問官が群衆を正すのだ。;;;;;;;;;;;;x
+EVTOPTDHF24069;最大の元凶を追放しよう。;;;;;;;;;;;;x
+EVTOPTEHF24069;これらの対応はあまりにも多くの不満を生み出すかもしれない...;;;;;;;;;;;;x
+EVTDESCAHF24070;[Root.GetTitledFirstName]は[Root.PrimaryTitle.GetName]中の宗教に対する[Root.GetHerHis]の断固とした交渉で悪名高い存在となっている。[Root.GetSheHe]は無数の審問官や民生委員の先頭に立ち、[Root.GetHerHis]の領内で最も平和的な聖職者を妥協のない狂信者に置き換えた。彼らの助けを借りて、[Root.GetSheHe]は自分の臣下からすべての異端的な傾向を浄化するという神聖な任務を引き受けた。;;;;;;;;;;;;x
 EVTOPTAHF24070;我々の土地は清められた！;;;;;;;;;;;;x
 EVTTITLEHF24071;The Iron [Root.GetTitle] of [Root.Capital.GetName];;;;;;;;;;;;x
 EVTDESCHF24071;先見の明のない支配者が発行した古い法律が、我が領地の司法制度をいまだに悩ませており、[Root.GetTitle]としての私の権限に過度の制限を課していると気づきました。 忘れられた過去の遺物に縛られている今、価値ある何かしらを、どうやって成し遂げればいいのだろうか？;;;;;;;;;;;;x
@@ -14790,7 +14790,7 @@ event_religion_peaceful_bloodline_05_desc;[This.GetFirstName]は神学研究を�
 event_religion_peaceful_bloodline_06;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 event_religion_peaceful_bloodline_06_desc;[This.GetFirstName]は神学研究を奨励し、学者や司祭の積極的な後援者であったことで知られている。;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_01;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
-event_religion_aggressive_bloodline_01_desc;[This.GetFirstName] has become infamous for [This.GetHerHis] intolerance of heretical thought and [This.GetHerHis] promotion of the most extreme form of [This.Religion.GetName] zealotry.;;;;;;;;;;;;x
+event_religion_aggressive_bloodline_01_desc;[This.GetFirstName]は異端的な考えに不寛容であり、最も極端な形の[This.Religion.GetName]崇拝を促進したことで悪名高くなった。;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_02;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_02_desc;[This.GetFirstName] has become infamous for [This.GetHerHis] intolerance of heretical thought and [This.GetHerHis] promotion of the most extreme form of [This.Religion.GetName] zealotry.;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_03;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
@@ -15013,7 +15013,7 @@ ca_oppressive_fortifications_3_desc;An isolated tower, built not too far from th
 ca_oppressive_fortifications_4;Palace of Justice;;;;;;;;;;;;x
 ca_oppressive_fortifications_4_desc;A massive building raised within the fortress' walls, surrounded by bloodied pikes and overlooking a large execution stand.;;;;;;;;;;;;x
 bloodline_effect_more_philosophers;§Y文化技術の研究§!に更なる効果がある;;;;;;;;;;;;x
-bloodline_effect_better_inquisition;§YCourt Chaplains§! convert §YCounties§! faster;;;;;;;;;;;;x
+bloodline_effect_better_inquisition;§Y宮廷の牧師§!の§Y郡§!の改宗の速度が向上します;;;;;;;;;;;;x
 bloodline_effect_revocation_plot;Easier to §YPlot§! to §YRevoke Vassal Titles§!;;;;;;;;;;;;x
 TT_PLOT_GAIN_VASSAL_TITLE_TYRANNICAL_BLOODLINE;§Y[From.GetTitledFirstName]§!は§YTyrannical Bloodline§!である。;;;;;;;;;;;;x
 bloodline_effect_dynastic_meddling;Can influence younger\n §YClose Relatives§!;;;;;;;;;;;;x
@@ -17411,7 +17411,7 @@ EVTDESCBHF24230;My prestigious ancestor had already conquered the known world as
 EVTOPTAHF24230;I was never meant to be a conqueror.;;;;;;;;;;;;x
 EVTOPTBHF24230;What have I done with my life?;;;;;;;;;;;;x
 bloodline_effect_one_invasion;Can use §YInvasion§! once per lifetime;;;;;;;;;;;;x
-bloodline_effect_religious_liberation;Can call §YReligious Liberation§! wars;;;;;;;;;;;;x
+bloodline_effect_religious_liberation;§Y宗教解放§!戦争を呼びかけることができる;;;;;;;;;;;;x
 child_heavily_guarded;厳重な防備;;;;;;;;;;;;x
 child_heavily_guarded_desc;The future of the realm depends on this child's survival. As such, [Root.GetHerHis] parents have taken all precautions to make sure that the precious infant reaches adulthood safely.;;;;;;;;;;;;x
 opinion_favored_child;Auspicious Child;;;;;;;;;;;;x
@@ -17436,9 +17436,9 @@ EVTDESCAHF23755;Unfortunately, a closer inspection of [FromFrom.GetFirstName]'s 
 EVTDESCBHF23755;Unfortunately, a closer inspection of [FromFrom.GetFirstName]'s horoscope has revealed that my child was born under ominous signs and that [FromFrom.GetSheHe] might be plagued by bad luck and waning health, dooming [FromFrom.GetHerHis] reign to be a short one, bereft with famine and strife.;;;;;;;;;;;;x
 EVTOPTAHF23755;Whatever will be of [Root.PrimaryTitle.GetName]?!;;;;;;;;;;;;x
 stable_attribute_improvement_decision;Inspire Meliorism;;;;;;;;;;;;x
-stable_attribute_improvement_decision_desc;A stable government requires competent rulers. Only by leading by example we can inspire the unwavering loyalty of our subjects towards us and our successors and maintain a firm hold over the realm.;;;;;;;;;;;;x
+stable_attribute_improvement_decision_desc;安定した政府には有能な支配者が必要です。模範を示すことによってのみ、我々とその後継者に対する、臣民の揺るぎない忠誠心を鼓舞し、この領国に対する確固たる支配力を維持することができます。;;;;;;;;;;;;x
 stable_attribute_improvement_self_decision;Inspire Meliorism;;;;;;;;;;;;x
-stable_attribute_improvement_self_decision_desc;A stable government requires competent rulers. Only by leading by example we can inspire the unwavering loyalty of our subjects towards us and our successors and maintain a firm hold over the realm.;;;;;;;;;;;;x
+stable_attribute_improvement_self_decision_desc;安定した政府には有能な支配者が必要です。模範を示すことによってのみ、我々とその後継者に対する、臣民の揺るぎない忠誠心を鼓舞し、この領国に対する確固たる支配力を維持することができます。;;;;;;;;;;;;x
 tooltip_religion_feature_meliorism;§G当主は信仰点を消費することで封臣の属性を改善できます§!;;;;;;;;;;;;x
 tooltip_stable_attribute_improvement_cooldown;Must NOT have taken this decision in the past §Y5§! years.;;;;;;;;;;;;x
 tooltip_attribute_improvement_target_cooldown;Must NOT have been the target of this decision in the past §Y5§! years.;;;;;;;;;;;;x
@@ -17702,9 +17702,9 @@ gov_noble_romuva_eldership;大いなる[Religion.GetName]教部族;;;;;;;;;;;;x
 tooltip_religion_feature_eldership;§G長老制が継承法として採用可能になります§!;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_rome_child;ローマは子供が治めるべきではない;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_despot;[From.GetSheHeCap]は§Y専制公§!;;;;;;;;;;;;x
-succ_byzantine_elective;皇帝選抜制;;;;;;;;;;;;x
+succ_byzantine_elective;皇帝選挙制;;;;;;;;;;;;x
 succ_byzantine_elective_desc;帝国評議会及び帝国軍の指揮官が皇帝の選出に影響を与えます。封建制における選帝侯と異なり、帝国評議会の各評議員は自身の持つ威信・名誉称号・特質に応じてそれぞれ異なる投票強度を持ち、有権者の影響力には差が生まれます。皇帝は醜かったり、奇形であったり、未成年で無い限り最も大きな影響力を行使します。現在の皇帝の親族、指揮官、元帥及び帝位僭称者の全員が有効な後継候補者となります。;;;;;;;;;;;;x
-byzantine_elective;皇帝選抜制;;;;;;;;;;;;x
+byzantine_elective;皇帝選挙制;;;;;;;;;;;;x
 roman_imperial_government;帝制;;;;;;;;;;;;x
 roman_imperial_government_desc;帝制は封建制と異なり、内政に大きな影響を持つ都市部と集権化された宮廷に大きな重点が置かれます。評議員と指揮官はそれぞれの威信と力量に応じた様々な大きさの影響力を保持し、それは帝国の継承に大きな影響を与えます…;;;;;;;;;;;;x
 gov_duchy_viceroy_roman;[Liege.PrimaryTitle.GetAdjective]元首制;;;;;;;;;;;;x
@@ -17914,9 +17914,9 @@ EVTOPTC_HF_49463;Wealth can topple any enemy and bless any ally.;;;;;;;;;;;;x
 EVTOPTD_HF_49463;Why would I help out more than I already have?;;;;;;;;;;;;x
 EVTOPTC_HFP_41004;I wish my fellow [Root.Religion.GetGroupName]s luck!;;;;;;;;;;;;x
 EVTDESC_HFP_42209;[current_location.GetName]の通りを歩いていると、誰かが突然私にぶつかってくる。通りを走り去る少年が手に持っている小袋は、私のもののようだ！;;;;;;;;;;;;x
-EVTOPTA_HFP_42209;No matter, there was not a lot of money left in it.;;;;;;;;;;;;x
-EVTOPTB_HFP_42209;Let us find that kid and make him pay.;;;;;;;;;;;;x
-EVTOPTC_HFP_42209;Maybe he could be of use to me?;;;;;;;;;;;;x
+EVTOPTA_HFP_42209;気にするな。袋に大した金は入っていない;;;;;;;;;;;;x
+EVTOPTB_HFP_42209;あの子を見つけて落とし前をつけさせてやろう;;;;;;;;;;;;x
+EVTOPTC_HFP_42209;彼は私の役に立つかもしれないぞ？;;;;;;;;;;;;x
 EVTDESC_HFP_42210;この地域に住む賢人についての話を聞いたあと、私は彼を訪問し、彼が何に身を捧げているのかを確かめることにした。彼は冒涜的にも聞こえる儚い概念について話し始めたが、私は彼の話をより深く聞くため、従者に外へ出るよう指示した。;;;;;;;;;;;;x
 EVTOPTA_HFP_42210;彼が信仰しているものが冒涜的かそうでないかを学ぶ。;;;;;;;;;;;;x
 EVTOPTC_HFP_42210;もしかすると[current_location.Religion.GetName]は[Root.Religion.GetName]よりも身を捧げるべきものではないか？;;;;;;;;;;;;x
@@ -18529,8 +18529,8 @@ EVTOPTB_4405_SLOTHFUL_book;私は、他人の物語の中で啓示を探した�
 EVTDESC_4408_GREEDY_book;[book_target.GetName] is still on my mind, when one of my servants cautiously inquires whether I wish to make a donation to the local [Root.GetMOBuilding]. My first reaction is reluctant, but out loud I say: "Yes, of course". Perhaps this is the first step towards freeing myself of the desire for material possessions?;;;;;;;;;;;;x
 EVTDESC_4408_SLOTHFUL_book;最初は一分が永遠のように感じられたが、その後、[book_target.GetName]のある一節が私の興味を引いたので、読むのが楽になった。私は[book_target.OriginalOwner.GetTitledFirstName]の言葉に夢中になって読み続けた!今、私は唇に笑顔を浮かべ、目的意識を新たにして眠りについた。;;;;;;;;;;;;x
 nick_of_the_empty_pockets;of the Empty Pockets;;;;;;;;;;;;x
-obj_become_king_desc;[This.GetTitledFirstName]は[This.Capital.Kingdom.GetName][Root.GetKingQueen]になることを目指します。異教であり、相続法が選抜分割相続制である場合は、慣習上の王国内に対して服属の開戦事由を何度でも利用できます。請求権の捏造の評議員任務が可能ならば、野望によって[This.Capital.Kingdom.GetName]の請求権を獲得するかもしれません。[This.Capital.Kingdom.GetTier]の称号がまだ存在していなければ、作成に必要なコストを減少します。;;;;;;;;;;;;x
-pagan_subjugation_desc;原始宗教であり、相続法が選抜分割相続制である場合は、他の原始宗教の領主に対して生涯に一度のみ服属を使用できます。（$KING$になる野心を選んでいる場合、王国内の称号保持者に対しての制限はありません）。自由な人物は常に最も力のある支配者に従うでしょう...;;;;;;;;;;;;x
+obj_become_king_desc;[This.GetTitledFirstName]は[This.Capital.Kingdom.GetName][Root.GetKingQueen]になることを目指します。異教であり、相続法が選挙分割相続制である場合は、慣習上の王国内に対して服属の開戦事由を何度でも利用できます。請求権の捏造の評議員任務が可能ならば、野望によって[This.Capital.Kingdom.GetName]の請求権を獲得するかもしれません。[This.Capital.Kingdom.GetTier]の称号がまだ存在していなければ、作成に必要なコストを減少します。;;;;;;;;;;;;x
+pagan_subjugation_desc;原始宗教であり、相続法が選挙分割相続制である場合は、他の原始宗教の領主に対して生涯に一度のみ服属を使用できます。（$KING$になる野心を選んでいる場合、王国内の称号保持者に対しての制限はありません）。自由な人物は常に最も力のある支配者に従うでしょう...;;;;;;;;;;;;x
 string_saint_view_title_christian;聖人;;;;;;;;;;;;x
 string_saint_view_title_pagan;崇拝された祖先;;;;;;;;;;;;x
 SHOW_SAINTS;[Player.GetSaintViewTitle];;;;;;;;;;;;x
@@ -19434,7 +19434,7 @@ opinion_placated_spirits;Placated Spirits;;;;;;;;;;;;x
 hellenic_pagan_reformed_opinion;改革派[hellenic_pagan_reformed.GetName]信者からの評価;;;;;;;;;;;;x
 key_real_byz_crown_desc;ビザンツ帝国の記章である王冠は真のローマ帝国の後継者にのみふさわしい。;;;;;;;;;;;;x
 tooltip_HF_A_51008;Take some time to rest and relax.;;;;;;;;;;;;x
-EVTDESCHF23777;In order to ensure the divine purity of their bloodline, [From.GetTitledFirstName] and [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] have gotten married under the blessed auspices of [From.Religion.GetHighGodName], ensuring fullness and Order. We can collect a Royal Aid Duty to pay for the ceremonies.;;;;;;;;;;;;x
+EVTDESCHF23777;[From.GetTitledFirstName]と[From.GetPossPronoun]の[GetFromVsNewRelation]である[New.GetTitledFirstName]は、その血脈の神々しい純潔さを確保するため、[From.Religion.GetHighGodName]の祝福を受けて結婚し、満ち足りた秩序を保っている。私たちは、式典のために支払うべき王室援助税を集めることができる。;;;;;;;;;;;;x
 RULE_BLOOD_SPLATTER;血の表示;;;;;;;;;;;;x
 RULE_BLOOD_SPLATTER_ON;人物は時に血を浴びることがあります。;;;;;;;;;;;;x
 RULE_BLOOD_SPLATTER_OFF;キャラクターポートレートで血のエフェクトを使用しません。;;;;;;;;;;;;x
@@ -19519,9 +19519,9 @@ EVTDESCHF24042;新たな征服の夢の後、人生と富を浪費するので�
 EVTDESCHF24052;完全に忘れられることを回避することが私の最大の関心事ではあるが、子孫に私のことをどのように思っていて欲しいか考えることもまた重要だ。私が死んだ時に、後世の人々が畏怖の念を抱いて語り、[Root.GetTitle]としての私の偉業を驚愕して、私のようになりたいと心を動かすにはどのようにすればよいだろう。;;;;;;;;;;;;x
 EVTDESCHF24054;私の名を不滅なものとするために、先人たちの偉業を超えて領地を改善して、[Root.PrimaryTitle.GetName]に消えない名を残さなければならない。;;;;;;;;;;;;x
 EVTDESCAHF24064;美徳と知恵の灯台である[Root.GetTitledFirstName]は、[Root.Religion.GetHighGodName]の言葉と聖典に隠された真理への追究のために[Root.GetHerHis]の長い統治期間を捧げたことで不滅の名声を獲得しました。\n始まりの論争を乗り越え、[Root.PrimaryTitle.GetName]の[Root.GetTitle]はこの世界やその先への理解を深める終わることの議論を行う学者や神学者の宮廷を確立した。;;;;;;;;;;;;x
-EVTDESC_HF_49007;The Crusaders are leaving the [From.Religion.GetName] realm, their eyes towards Constantinople and [e_byzantium.GetName]. At the same time, the Pope has made an enraged speech about the vices of men and how the good faithful have been led astray. [ThePope.GetSheHeCap] threatens every single Crusader with excommunication from the church, but the Crusaders continues onwards towards the ancient capital at the Bosporus.\n\nWhat was once the bastion of the [From.Religion.GetGroupName] faith is now desperately protecting itself, and [e_byzantium.Holder.GetTitledName] is looking for any help [e_byzantium.Holder.GetSheHe] can get.;;;;;;;;;;;;x
-EVTDESC_HF_49008;Constantinople falls to great cheers from the [From.Religion.GetName] Crusaders. The rest of the world weeps as the last lingering memories of the Roman Empire shatter. The former Emperor [FromFrom.GetDynName] has run off to [FromFrom.Capital.GetName] to try and restore what remains of the Empire.\n\n[Root.GetByzantineRefugeeText]Now [e_latin_empire.Holder.GetTitledFirstName] sits on the throne in Constantinople. [e_latin_empire.Holder.GetSheHeCap] has declared [e_latin_empire.Holder.GetHerselfHimself] the new ruler of the Greek Empire, and will rule with both Greek and Latin traditions in mind.\n\nOnly time will tell, if the [From.Religion.GetName]s will be remembered as the ones who broke the [From.Religion.GetGroupName] Bulwark, or the ones who restored Constantinople to greatness.;;;;;;;;;;;;x
-string_42120_extra_text;In the middle of the fighting, [byzantine_refugee.GetDynName], the [From.Religion.GetName]-sponsored pretender to the Byzantine throne, died.;;;;;;;;;;;;x
+EVTDESC_HF_49007;十字軍は[From.Religion.GetName]の領国を離れ、コンスタンティノープルと[e_byzantium.GetName]に目を向けている。同時期、ローマ教皇は人間の悪行や善良な信徒がいかに惑わされてきたかについて怒りに満ちた演説を行った。[ThePope.GetSheHeCap]は教会からの破門ですべての十字軍を脅したが十字軍はボスポラスの古都に向かって進んでいる。\n\nかつて[From.Religion.GetGroupName]信仰の拠り所であったものが今では必死に自分の身を守っている。そして[e_byzantium.Holder.GetTitledName]は[e_byzantium.Holder.GetSheHe]が手に入れることのできるどんな助けにも縋ろうとしている。;;;;;;;;;;;;x
+EVTDESC_HF_49008;コンスタンティノープルは[From.Religion.GetName]十字軍の大喝采の下に陥落した。ローマ帝国の最後の記憶が打ち砕かれ世界が涙を流している。前皇帝の[FromFrom.GetDynName]は帝国を取り戻すために[FromFrom.Capital.GetName]に逃げ延びた。\n\n[Root.GetByzantineRefugeeText]今やコンスタンチノープルの玉座に[e_latin_empire.Holder.GetTitledFirstName]皇帝が座っている。[e_latin_empire.Holder.GetSheHeCap]はギリシャ帝国の新しい支配者になると宣言し、ギリシャとラテンの伝統を念頭に置いて統治するつもりだ。\n\n[From.Religion.GetName]の教徒たちが[From.Religion.GetGroupName]の防壁を壊した者として記憶されるか、それともコンスタンチノープルを偉大なものに回復させた者として記憶されるかは、時間だけが教えてくれるだろう。;;;;;;;;;;;;x
+string_42120_extra_text;戦闘の最中に[From.Religion.GetName]がスポンサーとなっていたビザンチンの王位継承者、[byzantine_refugee.GetDynName]は死亡した。;;;;;;;;;;;;x
 c_bayuda_adj;Bayudan;;;;;;;;;;;;x
 c_gezira_adj;Geziran;;;;;;;;;;;;x
 king_central_african;マイ;;;;;;;;;;;;x
@@ -19584,7 +19584,7 @@ gov_african_eldership;アフリカ長老制;;;;;;;;;;;;x
 EVTDESC_MNM_9115_b;The word around the court is that a remarkable [GetWeaponArmorSmith] is residing in [neighbor_province.GetName]. Perhaps I should invite the [smith.GetManWoman] to my court to see [smith.GetHerHis] work for myself. If [smith.GetSheHe] manages to impress me, I could order my own custom made item.;;;;;;;;;;;;x
 EVTOPTA_MNM_9115_b;What a fine idea, how clever I am!;;;;;;;;;;;;x
 EVTOPTB_RIP_4032;[physician.GetSheHe]が私の健康を維持する限り文句は言わない。;;;;;;;;;;;;x
-EVTDESC_MNM_9118;最初に、私の従者の中でもっとも目利きの者に[GetWeaponArmorSmith]の職人技を確認させた後、私は[From.GetHerHim]を玉座の間に通した。[From.GetSheHeCap]は[From.GetHerselfHimself]を'[From.GetMasterMistressCap]の[From.GetFirstName]'と名乗り、多くの徒弟たちに合図を送ると、彼らは見本として[From.GetHerHis]の作品を次々と運んできた。'我が[Root.GetTitle]、何か特別なものをお望みでしょうか?';;;;;;;;;;;;x
+EVTDESC_MNM_9118;最初に、私の従者の中でもっとも目利きの者に[GetWeaponArmorSmith]の職人技を確認させた後、私は[From.GetHerHim]を玉座の間に通した。[From.GetSheHeCap]は自身を「巨匠 [From.GetFirstName]」と名乗り、多くの徒弟たちに合図を送ると、見本として[From.GetHerHis]の作品を次々と運んできた。'我が[Root.GetTitle]、何か特別なものをお望みでしょうか?';;;;;;;;;;;;x
 string_rp_greedy;Counting coins as ;;;;;;;;;;;;x
 string_rp_craven;Feeling terrified as ;;;;;;;;;;;;x
 string_rp_religion_head;Ruling the [Root.Religion.GetName] faith as ;;;;;;;;;;;;x
@@ -19839,7 +19839,7 @@ EVTDESCHF10521;やあ、[Root.GetSocietyRank]！\n\nあなたの[recruit_to_be.G
 quest_warrior_lodge_recruit;あなたの子供に対する勧誘;;;;;;;;;;;;x
 quest_warrior_lodge_recruit_desc;我々の子孫が我々の足跡を辿ってくれるかもしれないが、戦士団兵舎の遺産の継承を確実なものとするために、若者を激励することが重要になってくる。;;;;;;;;;;;;x
 quest_warrior_lodge_recruit_tooltip;この任務を完了するには、対象の人物のポートレートを§G右クリック§!して、「§Y勧誘§!」を選択してください。入会の儀式が成功すれば、貴方は§Y[Root.Society.GetCurrency]§!を得ることができます。しかし、貴方の子供が入会の決闘に失敗した場合、任務は失敗します。;;;;;;;;;;;;x
-has_mission_to_recruit_tt;§Y[From.GetTitledFirstName]§! has a mission to recruit §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;x
+has_mission_to_recruit_tt;§Y[From.GetTitledFirstName]§!は§Y[Root.GetTitledFirstName]§!を勧誘する任務がある;;;;;;;;;;;;x
 EVTDESC_HF_10503_recruit;The premature death of my [From.GetRootRelation] §Y[From.GetTitledFirstName]§! means that I fail my mission to recruit [From.GetHerHim]. [Root.Society.GetName] will find something else for me to do.;;;;;;;;;;;;x
 scarred_high;恐ろしい傷痕;;;;;;;;;;;;x
 d_african_massive;トン＝チギ軍;;;;;;;;;;;;x
@@ -19900,7 +19900,7 @@ HEAD_AFRICAN_PRIESTESS;大祭司;;;;;;;;;;;;x
 arberian;アルベリア;;;;;;;;;;;;x
 setting_shattered_succession_all_primogeniture_tooltip;全ての称号に対して長子相続制が適用されます。\n・最も年長の子供が全称号を継承する\n・後継者はこの法律を評価するが、一族の他の人物はあまり賛意を示さない。;;;;;;;;;;;;x
 setting_shattered_succession_all_gavelkind_tooltip;全ての称号に対して分割相続制を適用\n・称号は子供たちに分割して相続される。最年長の子供が主要称号を相続する。\n・土地なしの息子がいても威信ペナルティはない。\n・持てる直轄領の大きさが§Y30%§!増える。\n・称号の廃止はできない。\n・長子以外の全員に人気がある。;;;;;;;;;;;;x
-setting_shattered_succession_all_elective_gavelkind_tooltip;全ての称号に選抜分割相続制を設定。\n・称号は自分の子供と一族から選ばれた第一後継者に分割して相続される。\n・土地なしの息子がいても威信ペナルティがない\n・持てる直轄領の大きさが§Y30%§!増える\n・称号の廃止はできない。\n・複数の王国及び帝国の継承に際しては、可能な限り王国位が新たに作られ、息子達に配られる。\n・年若の後継者には戦争を経ずに独立を宣言する機会が常に与えられている。;;;;;;;;;;;;x
+setting_shattered_succession_all_elective_gavelkind_tooltip;全ての称号に選挙分割相続制を設定。\n・称号は自分の子供と一族から選ばれた第一後継者に分割して相続される。\n・土地なしの息子がいても威信ペナルティがない\n・持てる直轄領の大きさが§Y30%§!増える\n・称号の廃止はできない。\n・複数の王国及び帝国の継承に際しては、可能な限り王国位が新たに作られ、息子達に配られる。\n・年若の後継者には戦争を経ずに独立を宣言する機会が常に与えられている。;;;;;;;;;;;;x
 setting_shattered_succession_all_elective_tooltip;全ての称号に対して選挙君主制が適用されます。\n・自分と自分より1個階級の低い封臣（例：自分が王なら公爵）は領主の嫡子と兄弟姉妹、及び封臣自身の中から後継者を指名することができます。\n・公爵は王国及び帝国の双方において有効な有権者です\n・封臣からの評価が高くても、有権者となる称号を領主が個人であまりに多数保持していた場合、封臣たちは領主の意見に従いません。;;;;;;;;;;;;x
 setting_shattered_succession_all_seniority_tooltip;全ての称号に対して最年長者相続制が適用されます。\n・一族のメンバーの中で最年長の人物が、すべての称号を継承する。\n・統治者の長男にとっては非常に不愉快な法律だが、一族の他の人々は歓迎するだろう。;;;;;;;;;;;;x
 setting_shattered_succession_all_ultimogeniture_tooltip;全ての称号に対して末子相続制が適用されます。\n・最も年少の子供が全称号を継承する。\n・長子相続制と全く反対の制度である。;;;;;;;;;;;;x

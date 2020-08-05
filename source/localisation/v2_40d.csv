@@ -263,7 +263,7 @@ strategic_innovation;戦略的改革;;;;;;;;;;;;x
 EVTOPTC_94019;I'll use this knowledge to my advantage!;;;;;;;;;;;;x
 EVTDESC_WOL_10999;More than a month has passed since you set out with your expedition, and you have yet to find a suitable trade partner anywhere. Your crew is homesick, and have now turned the company around to head home.;;;;;;;;;;;;x
 EVTOPTA_WOL_10999;Tough luck.;;;;;;;;;;;;x
-tooltip_not_busy;Is NOT already busy\n;;;;;;;;;;;;x
+tooltip_not_busy;忙しくない\n;;;;;;;;;;;;x
 EVTOPTB5051;それより鳥を連れて狩りに出かけるべきだ。;;;;;;;;;;;;x
 no_horse_breeder_1;馬飼育者;;;;;;;;;;;;x
 no_horse_breeder_2;馬飼育者;;;;;;;;;;;;x

@@ -859,7 +859,7 @@ EVTOPTD36080;白いライオンを見つけよう;;;;;;;;;;;;x
 china_stable_desc;[Root.GetName]内は安定した状態であり、東方との貿易は有益なものとなっている。大規模な災害や強力な敵がなければますます繫栄し、軍隊は自国の富とその忠実な朝貢国の両方を守る準備ができている。;;;;;;;;;;;;x
 china_unrest_desc;Civil unrest runs rampant in the [Root.GetName], and it has thrown the trade routes with the East into disarray. China's armies are occupied internally in an attempt to keep the peace, and unless the unrest is quelled soon a full-blown civil war may well erupt at any moment.;;;;;;;;;;;;x
 china_civil_war_desc;[Root.GetName]内で内戦が勃発し、結果として東方との貿易に被害が出ている。帝国の軍隊は互いに対立しており、王朝はその地位を脅かされている。 勇敢な将軍たちは、中国の国境を越えて、西方に新天地を求めに来るかもしれない。;;;;;;;;;;;;x
-china_mongol_invasion_desc;The Mongol hordes of the north pour into China. The mighty Chinese armies are occupied with their desperate defense of the Empire, and the fighting has greatly disrupted trade as well as caused a mass exodus of refugees. Scions of the current dynasty may well flee westward if the war goes poorly enough.;;;;;;;;;;;;x
+china_mongol_invasion_desc;北のモンゴルの大軍が中国に押し寄せています。強大な中国軍は帝国の死にものぐるいの防衛に追われており、この戦いは貿易を大きく混乱させ、難民の大量流出を引き起こしました。現在の王朝の子孫たちは、戦争がうまくいかなければ西へ逃げるかもしれません。;;;;;;;;;;;;x
 china_plague_desc;A terrible disease wracks the [Root.GetName], leaving thousands lying dead in its wake. Trade has ground to a halt as the Chinese economy has been forced to its knees, and even the Empire's armies have been decimated to but a shadow of their former glory.;;;;;;;;;;;;x
 china_golden_age_desc;[Root.GetName]は計り知れない力と富を手に入れました。中国が繁栄するにつれ、東との貿易ルートはかつてないほどの量の貴重な商品をもたらすだけでなく、中国文化の豊かで豊富な実例ももたらします。この黄金時代の中国の皇帝が、[Root.Ruler.GetHerselfHimself]が既知の世界の[Root.Ruler.GetMasterMistress]であると考えるのはもっともなことです。;;;;;;;;;;;;x
 raise_chinese_honor_guard;中国儀仗隊を動員;;;;;;;;;;;;x
@@ -1721,7 +1721,7 @@ EVTOPT_JD_50141;なんと不運な！;;;;;;;;;;;;x
 INTERESTING;興味深い...;;;;;;;;;;;;x
 EVTDESC_JD_50161;After years of constant warfare and battles involving hundreds of thousands of soldiers, the veteran armies of China finally managed to win a decisive battle near [GetRandomChineseRegion]. The Mongol Khagan was slain and his Kheshig guards slaughtered to the last man.;;;;;;;;;;;;x
 EVTOPT_JD_50161;Beware the Dragon of the East...;;;;;;;;;;;;x
-EVTDESC_JD_50162;After years of constant warfare and battles involving hundreds of thousands of soldiers, the Mongols finally stand triumphant. The decisive battle was fought near [GetRandomChineseRegion]. The Mongol Khagan now sits upon the Dragon Throne as [offmap_china.Ruler.GetEmperorEmpress] [offmap_china.Ruler.GetDynName], founder of a new Dynasty! However, China is likely to suffer Unrest for many years to come...;;;;;;;;;;;;x
+EVTDESC_JD_50162;何年にもわたって何十万人もの兵士を巻き込んだ戦いの末、モンゴルはついに勝利を手にした。決定的な戦いは[GetRandomChineseRegion]の近くで行われた。モンゴルの大汗は今、新しい王朝の創始者である[offmap_china.Ruler.GetEmperorEmpress][offmap_china.Ruler.GetDynName]として竜の玉座に座っています。しかしながら中国はこれから何年もの間、不穏に苦しむことになりそうだ...;;;;;;;;;;;;x
 EVTOPT_JD_50162;モンゴル人達は本当に恐ろしいな！;;;;;;;;;;;;x
 EVTDESC_JD_50181_BOOST;既に中国が[offmap_china.GetPrevStatus]で苦しんでいる中、さらなる不運が襲いかかった。鴨緑江の女真族が大ハーンの下で団結したのだ。荒々しい騎兵の大群が今、北東部から中国に渡ろうとしている。明らかに、これは中国の防衛を試すためだけの通常の襲撃ではない。;;;;;;;;;;;;x
 EVTDESC_JD_50181_PENALTY;中国がかつてない程の[offmap_china.GetPrevStatus]を経験している時に、女真族の大集団が遼河を渡り、北京に侵入した。しかしながら、龍は強大で凶悪な草原の戦士には長い戦いに身を投じたことになる。巨万の富を蓄えた神の国には十分な装備を身に付けた大軍によって守られているのだから……;;;;;;;;;;;;x
@@ -2221,7 +2221,7 @@ chinese_artwork;[offmap_china.GetShortName]の芸術品;;;;;;;;;;;;x
 chinese_artwork_desc;中国の有名な画家が製作した感動的な芸術作品は、自分が中国の遠く離れた土地で座っているかのように感じさせてくれる。;;;;;;;;;;;;x
 chinese_calligraphy;[offmap_china.GetShortName]の書;;;;;;;;;;;;x
 chinese_sculpture;[offmap_china.GetShortName]の彫刻;;;;;;;;;;;;x
-chinese_sculpture_desc;A sculpture from the courts of the [offmap_china.GetFullGenericName], you can imagine the [offmap_china.Ruler.GetTitle] [offmap_china.Ruler.GetHerselfHimself] walking past the sculpture approvingly and commanding one be made for [offmap_china.Ruler.GetHerHis] own use.;;;;;;;;;;;;x
+chinese_sculpture_desc;[offmap_china.GetFullGenericName]の宮廷にあった彫刻で、[offmap_china.Ruler.GetTitle]がこの彫刻の前を通り過ぎて、自分のために一つ作れと命令しているのが想像できる。;;;;;;;;;;;;x
 chinese_ceremonial_robes;儀式用のローブ;;;;;;;;;;;;x
 chinese_ceremonial_robes_desc;A set of traditional Chinese robes used in diplomatic functions, the wearer of these robes stands out and projects an air of power and authority.;;;;;;;;;;;;x
 art_of_war;孫子;;;;;;;;;;;;x
@@ -2232,8 +2232,8 @@ water_clock_desc;Developed thousands of years ago in ancient China, the water cl
 jian_sword;中国剣;;;;;;;;;;;;x
 jian_sword_desc;中国で一般的な両刃の剣、中国剣は強く信頼性があり、あらゆる野心的な戦士の期待に応えます。;;;;;;;;;;;;x
 classic_of_poetry;詩経;;;;;;;;;;;;x
-classic_of_poetry_desc;One of the Five Classics and said to have been compiled by Confucius himself, The Classic of Poetry is the oldest collection of Chinese poetry in existence.;;;;;;;;;;;;x
-EVT_DESC_JD_60002_A;One morning I awake to find that an envoy from the [offmap_china.GetFullName] has arrived and wishes to speak with me. "Greetings to the [GetChineseComplimentAdjective] [Root.GetTitledFirstName]. [GetChineseLetterBlessing]. I am [From.GetFullName] and I come bearing treasures from the Middle Kingdom to barter and trade on behalf of [offmap_china.Ruler.GetTitledFirstName]. Does this matter interest you?";;;;;;;;;;;;x
+classic_of_poetry_desc;孔子自身が編纂したとされる五経の一つで、現存する最古の漢詩集。;;;;;;;;;;;;x
+EVT_DESC_JD_60002_A;ある朝起きてみれば[offmap_china.GetFullName]からの使者が到着し、私と面会を希望していた。「お会いできて光栄です、[GetChineseComplimentAdjective][Root.GetTitledFirstName]。[GetChineseLetterBlessing]。私は[From.GetFullName]、[offmap_china.Ruler.GetTitledFirstName]の代理として物々交換や貿易をするために世界の中心から宝物を持ってきました。興味のあるものはありますか？;;;;;;;;;;;;x
 EVT_DESC_JD_60002_B;ある朝、[offmap_china.Ruler.GetTitle]から送られた中国人商人の[From.GetFullName]が面会を求めてきた。「お会いできて光栄です、[GetChineseComplimentAdjective][Root.GetTitledFirstName]。[GetChineseLetterBlessing]。私は[offmap_china.Ruler.GetTitledFirstName]から物々交換や交易の許可を得ており、私の故郷からいくつかの宝物を持ってきました。なにか興味のあるものはありますか？」;;;;;;;;;;;;x
 EVT_OPTA_JD_60002;[offmap_china.Ruler.GetTitle]は常に宦官を求めている！[chinese_envoy_eunuch_target.GetTitledFirstName]を連れて行くといい。;;;;;;;;;;;;x
 EVT_OPTB_JD_60002;[chinese_envoy_concubine_target.GetTitledFirstName] will make an excellent concubine for the [offmap_china.Ruler.GetTitle].;;;;;;;;;;;;x
@@ -2355,7 +2355,7 @@ ca_government_monastery_2;ゴンパ僧院;;;;;;;;;;;;x
 ca_government_monastery_3;ゴンパ僧院;;;;;;;;;;;;x
 ca_government_monastery_4;ゴンパ僧院;;;;;;;;;;;;x
 ca_government_monastery_1_desc;この要塞化されたゴンパは、その中にある僧院と大学を保護します。;;;;;;;;;;;;x
-OFFMAP_GIFTS_DESC;If the §Y[offmap_china.GetName]§! is amenable to foreign relations you can send an envoy to provide the Emperor with a token of your subservience. Paying Tribute will increase your §YGrace§!.;;;;;;;;;;;;x
+OFFMAP_GIFTS_DESC;§Y[offmap_china.GetName]§!が開国的であれば、皇帝に従属の証を提供するために使者を送ることができます。貢物を支払うことであなたの§Y恩寵点§!が上がります。;;;;;;;;;;;;x
 chinese_siege_engineers_effect_tt;Three Siege Engineers join your court. These characters are exceptional in the art of undermining fortifications using explosives and constructing siege towers to scale walls.\n;;;;;;;;;;;;x
 chinese_siege_engineers;攻城技術者を要求;;;;;;;;;;;;x
 chinese_siege_engineers_desc;§Y[Root.Offmap.GetFullName]§!は工学技術と戦争についての学派によって名を知られています。あなたは彼らの一員である攻城技術者を招き、指揮官としてあなたの好戦的な要求に応えるよう要請することができます。彼らは全員が§Y「豹韜」§!の特性（攻城速度：§G50%§!）を持っています。;;;;;;;;;;;;x
@@ -2386,7 +2386,7 @@ EVTDESC_JD_3021;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing
 EVTDESC_JD_3022_A;Following the wicked lies of [chinese_invasion_instigator.GetBestName], the [From.Offmap.GetName] has declared war upon us with the intent of shattering our glorious realm! [From.Offmap.Ruler.Culture.GetName] armies are already marching towards [chinese_invasion_target.PrimaryTitle.GetName], we must prepare for a long and bloody struggle.;;;;;;;;;;;;x
 EVTDESC_JD_3022_B;Following the sage advice of [chinese_invasion_instigator.GetBestName], the [From.Offmap.GetName] has declared war upon [chinese_invasion_target.GetFullName] with the intent of shattering the [chinese_invasion_target.PrimaryTitle.GetAdjective] [chinese_invasion_target.PrimaryTitle.GetTier]! [From.Offmap.Ruler.Culture.GetName] armies are already marching towards [chinese_invasion_target.PrimaryTitle.GetName], and it seems possible that this spells the end for [chinese_invasion_target.GetTitledFirstName]'s great realm.;;;;;;;;;;;;x
 EVTOPTC_JD_3022;Just as planned...;;;;;;;;;;;;x
-OFFMAP_BOONS_DESC;If the §Y[offmap_china.GetName]§! is amenable to foreign relations, and you have not yet had your appeals heard in the past year, you can send an envoy to request any one of a variety of blessings the Emperor might deem you worthy of. Asking for Boons costs §YGrace§!.;;;;;;;;;;;;x
+OFFMAP_BOONS_DESC;§Y[offmap_china.GetName]§!が開国的であり、過去1年間に自分の訴えを聞いたことがない場合は、皇帝があなたにふさわしいとみなすかもしれない様々な祝福のうちのいずれかを要求するために特使を送ることができます。恩恵を求めることは§Y恩寵点§!がかかります。;;;;;;;;;;;;x
 chinese_grace_peace_deal_desc;我々が§Y[Root.Offmap.GetFullName]§!とその§Y[Root.Offmap.Governor.GetTitle]§!に対し平和的関係を構築できるよう§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§!に申し出ます。§Y平和協定§!を締結すれば、§Y[Root.Offmap.GetFullName]§!が戦争を始める際あなたの領土を狙わないことを保証します。;;;;;;;;;;;;x
 chinese_grace_doctor_desc;The §Y[Root.Offmap.GetFullName]§! is famed for their learned citizens. You can request to have one of these scholars come to your court and serve as your personal physician. This character always has the §YPhysician§! trait.;;;;;;;;;;;;x
 chinese_strategist_desc;数世紀にわたり、§Y[Root.Offmap.GetFullName]§!の軍事的才能は、兵法を精通しているところから来ています。あなたは中国の戦略家の中でも熟練の指揮官を宮廷に招くことができます。この§Y戦略家§!はあなたの指揮官たちに中国の軍略について教え、さらに特殊な§Y指揮官の特性§!を与えます。;;;;;;;;;;;;x
@@ -2416,7 +2416,7 @@ chinese_ji_desc;美しく装飾され、側面に三日月上の刃がついて�
 chinese_serpent_spear;蛇矛;;;;;;;;;;;;x
 chinese_serpent_spear_desc;蛇のように波打つ穂先を持った、美しくも危険な武器。;;;;;;;;;;;;x
 chinese_crossbow;諸葛連弩;;;;;;;;;;;;x
-chinese_crossbow_desc;An elaborate mechanical contraption capable of rapidly firing arrows, even when used with only one hand.;;;;;;;;;;;;x
+chinese_crossbow_desc;片手でも素早く矢を射ることができる精巧な機械。;;;;;;;;;;;;x
 chinese_bronze_sculpture;青銅の彫刻;;;;;;;;;;;;x
 chinese_bronze_sculpture_name;[offmap_china.GetShortName]の青銅の彫刻;;;;;;;;;;;;x
 chinese_bronze_sculpture_desc;A fantastic bronze rendition of a majestic beast mid-stride. The graceful movement of the subject is truly inspiring!;;;;;;;;;;;;x
@@ -2595,7 +2595,7 @@ EVTOPTC_MNM_9120_TT_ARMOR;最も安価な[From.GetWeaponsmithWeapon]を注文し
 EVTOPTA_MNM_9122_ARMOR;この鎧は私の守護者になるだろう。;;;;;;;;;;;;x
 EVTOPTB_MNM_9122_ARMOR;私は、この鎧があれば、チャンピオンになれるだろう。;;;;;;;;;;;;x
 EVTOPTC_MNM_9122_ARMOR;誰もがウォーデンを恐れるだろう。;;;;;;;;;;;;x
-EVTDESC_MNM_9115;[Root.job_marshal.GetJobTitle][Root.job_marshal.GetDynName]が、[neighbor_province.GetName]に住む特筆すべき[GetWeaponArmorSmith]について語った。[Root.job_marshal.GetSheHeCap]は、私が[smith.GetManWoman]を宮廷に招いて[smith.GetHerHis]の仕事ぶりを確認することを勧めている。もし[smith.GetSheHe]が気に入ったなら、私は望みの品をカスタムメイドで作らせるだろう。;;;;;;;;;;;;x
+EVTDESC_MNM_9115;[Root.job_marshal.GetJobTitle][Root.job_marshal.GetDynName]が、[neighbor_province.GetName]に住む特筆すべき[GetWeaponArmorSmith]について報告した。[Root.job_marshal.GetSheHeCap]は、私がその[smith.GetManWoman]を宮廷に招いて仕事ぶりを自分の眼で確認することを勧めている。もし[smith.GetSheHe]を気に入ったら、特注品を作らせてもいいだろう。;;;;;;;;;;;;x
 EVTOPTA_MNM_9115_TT;[GetWeaponArmorSmith]を宮廷に招く。;;;;;;;;;;;;x
 EVTOPTB_MNM_9115_TT;[GetWeaponArmorSmith]を宮廷に招待しません。;;;;;;;;;;;;x
 employ_a_smith_master_smith_tt;This option is available as [From.GetMasterMistressCap] [From.GetFirstName] is a smith of extremely high skill.;;;;;;;;;;;;x
@@ -3054,7 +3054,7 @@ china_raid;[offmap_china.GetFullName]を略奪する;;;;;;;;;;;;x
 china_raid_desc;The §Y[Root.Offmap.GetFullName]§! is overburdened with riches - why should we vie for the Emperor's grace when we could just take whatever we want!\n\nTaking this decision will temporarily §Rdisable§! all §YPay Tribute§! and §YAsk for Boon§! interactions for as long as the raid persists, and then five years after that. While Raiding China you will lose Grace but gain loot and spoils every year, a portion of your soldiers will also be unavailable for the duration of the raid.;;;;;;;;;;;;x
 china_raid_active;中国を略奪中;;;;;;;;;;;;x
 china_raid_active_desc;この人物は現在、中国の国境を越えて略奪隊を送り込んでおり、皇帝を怒らせているが、毎年安定して戦利品を故郷に持ち帰っています。;;;;;;;;;;;;x
-china_offmap_boon_decisions_enabled_trigger_raiding_tt;Has NOT raided the §Y[Root.Offmap.GetFullName]§! in the last 5 years[From.GetRaidCD];;;;;;;;;;;;x
+china_offmap_boon_decisions_enabled_trigger_raiding_tt;過去5年間に§Y[Root.Offmap.GetFullName]§!を襲撃したことがない[From.GetRaidCD];;;;;;;;;;;;x
 china_stop_raid;[offmap_china.GetFullName]の略奪を止める;;;;;;;;;;;;x
 china_stop_raid_desc;Raiding the §Y[Root.Offmap.GetFullName]§! is lucrative, but dangerous - we should withdraw our raiders from China.\n\nWe will no longer be considered a priority target, but neither will we be able to raid China again for 5 years.;;;;;;;;;;;;x
 EVTDESC_JD_3051;The [From.GetTitle] of the [From.Offmap.Ruler.GetChineseComplimentAdjective] [From.Offmap.Ruler.GetTitle] addresses a letter to the marauding [Root.GetTitle] of the [Root.PrimaryTitle.GetFullName]. May your realm crumble under your incompetent rule.\n\nDo be warned that angering the heavenly [From.Offmap.Ruler.GetLongChineseEmperorName] is most unwise, do not act suprised when our forces come to put an end to your misguided raids.;;;;;;;;;;;;x
@@ -3130,7 +3130,7 @@ china_tributary_cd;§Y最近、朝貢関係を破棄した§!;;;;;;;;;;;;x
 china_tributary_cd_desc;最近、中国との朝貢関係を破棄しました。§Y[Root.chinese_grace_tributary_timer.GetExpiryDate]§!にもう一度依頼できます。;;;;;;;;;;;;x
 EVTDESC_ADV_3_C;To the respectable [Root.GetTitledFirstName],\nMy [Root.GetLordLady], you are a [Root.GetManWoman] blessed with a beautiful family! It would honor me greatly to take care of your [marriage_child.GetDaughterSon], [marriage_child.GetTitledFirstName]. This would ensure a lasting peace between us.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
 alert_non_playable_heir_delayed;貴方の跡継ぎ$HEIR$は現在、プレイ不可能な宗教を信仰しています。相続すると、前のキャラクターの宗教に変更されます。;;;;;;;;;;;;x
-chinese_calligraphy_desc;This painting shows the flow and beauty of Chinese writing - clearly the work of a true master.;;;;;;;;;;;;x
+chinese_calligraphy_desc;この書は漢文の流れと美しさを体現しており、真の匠の作品であることは間違いない。;;;;;;;;;;;;x
 hostages_cb_desc;§Y$TARGET$§! holds unlanded characters you care about captive, it is time to free them! If you win this war these characters will be freed. You might also be able to take hostages of our own. Any freed captives will be moved to your court or to the court of their rightful spouse.\n§RBeware, $TARGET$ might execute one or more of the captives if you attack!§!;;;;;;;;;;;;x
 the_timely_rain;及時雨;;;;;;;;;;;;x
 the_jade_unicorn;玉麒麟;;;;;;;;;;;;x
@@ -3914,7 +3914,7 @@ c_daylam_adj;ダイラム;;;;;;;;;;;;x
 c_rahbah_adj;ラフバ;;;;;;;;;;;;x
 d_palmyra_adj;パルミラ;;;;;;;;;;;;x
 employ_a_smith_cooldown_tt;この2年間、鍛冶師を雇おうとしたことがない[Root.GetSmithCD];;;;;;;;;;;;x
-string_smith_cd; - you can employ a smith again on: §Y[This.employ_a_smith_cd.GetExpiryDate]§!;;;;;;;;;;;;x
+string_smith_cd;-あなたは鍛冶師を§Y[This.employ_a_smith_cd.GetExpiryDate]§!から雇うことができる。;;;;;;;;;;;;x
 employ_smith_cd_reset_tt;あなたは別の時に鍛冶屋を雇うことを選ぶことができます。;;;;;;;;;;;;x
 JOB_PROSELYTIZE_SAME_RELIGION;改宗: §Yプロヴィンスは既に改宗しました。§!;;;;;;;;;;;;x
 EVTDESC_MNM_9122_B;私は[From.GetMasterMistressCap][From.GetFirstName]が[From.GetWeaponsmithWeapon]の完成が近いと報告したときから緊張していた。そして今日、玉座の間で[From.GetMasterMistressCap]を迎える運びとなった。[From.GetSheHe]が鎧立ての覆いを取った時は、息すらできなかった。「何と名付けるつもりですか、[Root.GetTitle]？」;;;;;;;;;;;;x
@@ -3963,7 +3963,7 @@ has_marshal_tt;元師を採用している;;;;;;;;;;;;x
 china_famine_cd;§Y最近、救援隊を送った！§!;;;;;;;;;;;;x
 china_famine_cd_desc;最近、中国への救援隊を送りました。中国がまだ飢饉状態である場合、§Y[Root.china_send_relief.GetExpiryDate]§!にもう一度送れます。;;;;;;;;;;;;x
 string_raid_cd; - 有効期限: §Y[This.china_raid_grace_cd.GetExpiryDate]§!;;;;;;;;;;;;x
-DESIGNATE_HEIR;§YDesignate Heir§!\nBy designating this character you can make them your Primary Heir, overriding the preference of your current Succession Law. You can not designate an heir if you use an Elective Succession Law.;;;;;;;;;;;;x
+DESIGNATE_HEIR;§Y跡継ぎの指名§!\n現在の継承法を覆して、指定したキャラクターを跡継ぎにすることができます。選挙相続法では、相続人の指定はできません。;;;;;;;;;;;;x
 already_at_war_tt;Is NOT already fighting a §YForce Open§! war;;;;;;;;;;;;x
 china_raid_cd;§Y最近、中国を略奪した！§!;;;;;;;;;;;;x
 china_raid_cd_desc;最近、中国への略奪を中止しました。§Y[Root.china_raid_grace_cd.GetExpiryDate]§!に略奪を再開できます。;;;;;;;;;;;;x
@@ -4390,7 +4390,7 @@ the_republic_desc;Inspired by the ancient Romans, [From.OriginalOwner.GetTitledF
 unnatural_history;不自然な歴史;;;;;;;;;;;;x
 unnatural_history_desc;While Pliny the Elder described his 'Naturalis Historia' as a work of the natural world and life, in this book [From.OriginalOwner.GetTitledName] instead discusses at length 'the veil beyond' and the death of all things living...;;;;;;;;;;;;x
 the_confessions_of_root;[From.OriginalOwner.GetTitledFirstName]の告白;;;;;;;;;;;;x
-the_confessions_of_root_desc;This supposedly autobiographical work tells a moving tale of a young [From.OriginalOwner.GetTitle] struggling with temptation. It also offers some advice on how to avoid and deal with such issues, before it's too late.;;;;;;;;;;;;x
+the_confessions_of_root_desc;この自伝的と思われる作品は、誘惑に悩む若き[From.OriginalOwner.GetTitle]の感動的な物語を物語っている。また手遅れになる前にそのような問題を避け、対処する方法についてのアドバイスも提供している。;;;;;;;;;;;;x
 the_book_of_healing;キタブ・アルシファ;;;;;;;;;;;;x
 the_book_of_healing_desc;'The Book of Healing' strives to inspire and enlighten the mind. As a result you will find a wide range of topics covered in this encyclopedia, ranging from the natural sciences, to theological discussions on the topic of [From.OriginalOwner.Religion.GetHighGodName]'s existence.;;;;;;;;;;;;x
 human_anatomy;人体解剖学;;;;;;;;;;;;x

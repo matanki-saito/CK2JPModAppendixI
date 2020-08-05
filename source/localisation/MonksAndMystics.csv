@@ -1255,19 +1255,19 @@ EVTOPTA_MNM_7845_TOOLTIP;§Y[possess_courtier_target.GetTitledFirstName]§! reta
 EVTDESC_MNM_7847;Despite [possess_courtier_target.GetTitledFirstName]'s frequent bouts of madness, [possess_courtier_target.GetSheHe] has indeed been loyal so far. Which is why it comes as such a surprise to hear [possess_courtier_target.GetHerHis] characteristic cackling laughter behind you as cold steel sinks into your back.;;;;;;;;;;;;x
 EVTOPTA_MNM_7847;B-but you were so loyal!;;;;;;;;;;;;x
 EVTDESC_MNM_4601_SLOTHFUL;[benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName]'s slothfulness has long been known in the Order, subjecting [benedictines_diligent_mentee.GetHerHim] to its scorn. I could teach [benedictines_diligent_mentee.GetHerHim] to set up a horarium to structure [benedictines_diligent_mentee.GetHerHis] time, helping [benedictines_diligent_mentee.GetHerHim] to work harder.;;;;;;;;;;;;x
-EVTDESC_MNM_4601_REGULAR;Despite having been a part of the Order for a long time, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName] still does not truly exemplify the Benedictine ideals of hard work and structure. I could teach [benedictines_diligent_mentee.GetHerHim] to set up a horarium to structure [benedictines_diligent_mentee.GetHerHis] time.;;;;;;;;;;;;x
-EVTOPTA_MNM_4601;I will, but [benedictines_diligent_mentee.GetHerHis] first lesson must be that good things do not come for free.;;;;;;;;;;;;x
-EVTOPTA_MNM_4601_TOOLTIP;Offer to help [benedictines_diligent_mentee.GetTitledFirstName] in return for monetary compensation.\n;;;;;;;;;;;;x
-EVTOPTB_MNM_4601;No, [benedictines_diligent_mentee.GetSheHe] must find [benedictines_diligent_mentee.GetHerHis] own way.;;;;;;;;;;;;x
-EVTOPTB_MNM_4601_TOOLTIP;Do not help [benedictines_diligent_mentee.GetTitledFirstName].\n;;;;;;;;;;;;x
+EVTDESC_MNM_4601_REGULAR;長い間教団の一員であったにもかかわらず、[benedictines_diligent_mentee.GetSisterBrotherCap]たる[benedictines_diligent_mentee.GetFirstName]は、勤勉さと構造化というベネディクトの理想をまだ真に体現していない。私は[benedictines_diligent_mentee.GetHerHim]に自身の時間配分を構成するためのホラリウム（時禱）の作り方を教える事ができる。;;;;;;;;;;;;x
+EVTOPTA_MNM_4601;[benedictines_diligent_mentee.GetHerHis]への最初のレッスンは、良いものはタダでは得られないということになりそうだ;;;;;;;;;;;;x
+EVTOPTA_MNM_4601_TOOLTIP;金銭的な援助と引き換えに[benedictines_diligent_mentee.GetTitledFirstName]に手を貸すことを申し出ます。\n;;;;;;;;;;;;x
+EVTOPTB_MNM_4601;いや、[benedictines_diligent_mentee.GetSheHe]は自身でそれを見つけるべきだ。;;;;;;;;;;;;x
+EVTOPTB_MNM_4601_TOOLTIP;[benedictines_diligent_mentee.GetTitledFirstName]に手は貸さない。\n;;;;;;;;;;;;x
 EVTDESC_MNM_4603_SLOTHFUL;あなた様に幸運を、[benedictines_diligent_mentee.GetSisterBrotherCap]である[benedictines_diligent_mentee.GetFirstName]\n率直に書いて申し訳ありませんが、残念ながらあなたの労働倫理の欠如が私たちの修道会に暗い影を落としています。私はあなたが人生の計画と目的を見つけるのを助けることを提案いたします。私の助けに対するささやかな見返りは、あなたに一生懸命働くことの価値を教えるのにもう大いに役立つことでしょう。\n\n（署名）あなたの[benedictines_diligent_mentor.GetSisterBrotherCap]、[benedictines_diligent_mentor.GetFirstName];;;;;;;;;;;;x
 EVTDESC_MNM_4603_REGULAR;Blessings to you, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName],\nI have observed your attempts at following the Rule of Saint Benedict, and I noticed you could do with some help. Allow me to offer mine. However, the first lesson must be that nothing in life is obtained without cost, and a minor form of compensation would therefore be required.\n\nSigned, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_MNM_4603;[benedictines_diligent_mentor.GetSheHeCap]の言うことはもっともだ。助けを借りよう…;;;;;;;;;;;;x
 EVTOPTB_MNM_4603_SLOTHFUL;How dare [benedictines_diligent_mentor.GetSheHe]?!;;;;;;;;;;;;x
 EVTOPTC_MNM_4603_REGULAR;[benedictines_diligent_mentor.GetHerHis]の助けはいらない;;;;;;;;;;;;x
-EVTDESC_MNM_4604;Blessings to you, [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName],\nI thank you for your offer of help, and I send to you the requested payment alongside this message. I look forward to your guidance!\n\nSigned, [benedictines_diligent_mentee.GetSisterBrotherCap] [benedictines_diligent_mentee.GetFirstName];;;;;;;;;;;;x
+EVTDESC_MNM_4604;あなた様に幸運を、[benedictines_diligent_mentor.GetSisterBrotherCap]である[benedictines_diligent_mentor.GetFirstName]\nこの度はお世話になりありがとうございました。ご指導のほど、よろしくお願いいたします。\n\n（署名）[benedictines_diligent_mentee.GetSisterBrotherCap][benedictines_diligent_mentee.GetFirstName];;;;;;;;;;;;x
 EVTOPTA_MNM_4604;すばらしい、準備を始めよう...;;;;;;;;;;;;x
-EVTOPTA_MNM_4604_TOOLTIP;Help [benedictines_diligent_mentee.GetTitledFirstName] to become a hard worker.\n;;;;;;;;;;;;x
+EVTOPTA_MNM_4604_TOOLTIP;[benedictines_diligent_mentee.GetTitledFirstName]が努力家になるのを手伝います。\n;;;;;;;;;;;;x
 EVTDESC_MNM_4605;[benedictines_diligent_mentor.GetTitledFirstName]は、私の時間を適切に割り当てるためのホラリウム（時禱）の作り方を教えてくれたので、私の仕事の構成がより簡単になった。これが最も有用であることはすでに証明されており、今では仕事の方が楽になった。;;;;;;;;;;;;x
 EVTOPTA_MNM_4605;[benedictines_diligent_mentor.GetSisterBrotherCap][benedictines_diligent_mentor.GetFirstName]は主からの贈り物だ！;;;;;;;;;;;;x
 EVTDESC_MNM_4607_SLOTHFUL;With some help and ample amounts of discipline the horarium [benedictines_diligent_mentor.GetSisterBrotherCap] [benedictines_diligent_mentor.GetFirstName] helped me create has allowed me to defeat my laziness. Hard work is so much more fulfilling!;;;;;;;;;;;;x
@@ -1666,8 +1666,8 @@ EVTOPTA_4405_GREEDY;まだ施しをするというのか？もう十分であろ
 EVTOPTB_4405_GREEDY;十分ではありません。 私はまた寄付をします！;;;;;;;;;;;;x
 EVTDESC_4406_GREEDY;After coming to the realization that I am already doing so much for my subjects as their [Root.GetTitle], I have been able to put the thought about charity out of my mind. It does not distract me any longer.;;;;;;;;;;;;x
 EVTOPTA_4406_GREEDY;I am a good [Root.GetReligiousPerson], on the whole.;;;;;;;;;;;;x
-EVTDESC_4407_GREEDY;I thought I was happy with my decision, but then the guilt came creeping. I should not crave money and possessions in this way. These feelings are not in accordance with [Root.GetMOCode], but I cannot help myself.;;;;;;;;;;;;x
-EVTOPTA_4407_GREEDY;I am a good [Root.GetReligiousPerson], am I not? Surely?;;;;;;;;;;;;x
+EVTDESC_4407_GREEDY;自分の決断に満足していると思っていたのに、罪悪感が忍び寄ってきた。こんな風にお金や財産を渇望してはいけない。この気持ちは[Root.GetMOCode]にはふさわしくないが、どうしようもない。;;;;;;;;;;;;x
+EVTOPTA_4407_GREEDY;私は立派な[Root.GetReligiousPerson]ですよね？だよね？;;;;;;;;;;;;x
 EVTDESC_4408_GREEDY;最も信頼できる従者の一人に、私個人の金庫から多額のお金を取って、地元の[Root.GetMOBuilding]に持っていくように命じた。不思議なことに、[Root.GetSheHe]が発ったとき...安心した。もしかすると、これは世俗の欲望から自分を解放するための第一歩なのかもしれない。;;;;;;;;;;;;x
 EVTOPTA_4408_GREEDY;お金が上手く使えるようになるでしょう、きっとね。;;;;;;;;;;;;x
 EVTOPTA_4409_GREEDY;軽率な行動を慎むことができていたら...;;;;;;;;;;;;x
@@ -2636,13 +2636,13 @@ circlet_of_twilight_desc;The circlet is a beautiful silver hoop adorned with pyr
 crown_of_crows;カラスの冠;;;;;;;;;;;;x
 crown_of_crows_desc;This golden masterpiece is decorated with filigree leaves and vines. A dozen gleaming crows with amber eyes are perched along the top, their wings spread out as if they are about to take flight.;;;;;;;;;;;;x
 crown_of_the_sea;海洋の冠;;;;;;;;;;;;x
-crown_of_the_sea_desc;The peaks of the silver crown are shaped and engraved to look like the crest of waves. A dozen pearls are spaced out evenly along the band.;;;;;;;;;;;;x
+crown_of_the_sea_desc;銀色の冠の頂は波うつトサカのような形に彫られています。縁に沿って1ダースの真珠が等間隔に並んでいます。;;;;;;;;;;;;x
 iron_crown;鉄の冠;;;;;;;;;;;;x
 iron_crown_desc;While this crown is not fashioned out of the noblest of materials, the craftsmanship is excellent. It is decorated with filigree in geometrical patterns, enhanced with pieces of silver.;;;;;;;;;;;;x
 heros_crown;英雄の冠;;;;;;;;;;;;x
 heros_crown_desc;The base of the crown is a heavy golden band, and each peak is shaped and engraved in the likeness of legendary warriors. The centerpiece is a single, gleaming ruby.;;;;;;;;;;;;x
 axe_of_the_ancestors;祖先の斧;;;;;;;;;;;;x
-axe_of_the_ancestors_desc;This gilded axe is engraved with pictures from the ancestral legends. Ambers are set in the handle.;;;;;;;;;;;;x
+axe_of_the_ancestors_desc;この金箔の斧には先祖代々の伝説の絵が刻まれ、琥珀が柄に埋め込まれている。;;;;;;;;;;;;x
 amber_crown;琥珀の冠;;;;;;;;;;;;x
 amber_crown_desc;This silver crown is decorated with engravings depicting the gods and decorated with fine pieces of amber.;;;;;;;;;;;;x
 obsidian_axe;黒曜石の斧;;;;;;;;;;;;x
@@ -2727,7 +2727,7 @@ EVTDESC_MNM_6905_A;I was sweating underneath my heavy robe and veil in the relen
 EVTDESC_MNM_6905_B;We were evenly matched, [From.GetTitledFirstName] and I. I had to try my very hardest to keep [From.GetHerHim] at bay. A droplet of sweat fell into my eye, and as I instinctively raised my hand to wipe it away, [From.GetFirstName] lunged and slashed the blade across my dagger hand with a triumphant shout.;;;;;;;;;;;;x
 EVTOPTA_MNM_6905;I will kill that [GetRootFromInsult]!;;;;;;;;;;;;x
 EVTDESC_MNM_6907_A;I could read [From.GetFirstName]'s answer in [From.GetHerHis] eyes as soon as the words had escaped my lips and my heart sank like a stone. It took [From.GetHerHim] a moment to recollect [From.GetHerselfHimself]. 'I am flattered, [From.GetFirstName]. Really, I am. But... I do not feel the same way. I'm sorry. Let us be friends?';;;;;;;;;;;;x
-EVTDESC_MNM_6907_B;For a moment, the world stood still. I could not breathe. Then the most radiant, heart-warming smile spread across [From.GetFirstName]'s [From.GetFaceDescription] face. 'I thought you would never ask, [Root.GetFirstName].';;;;;;;;;;;;x
+EVTDESC_MNM_6907_B;一瞬、世界は静まり返った。息ができなかった。そして、抜群に晴れやかで心あたたまる笑顔が[From.GetFirstName]の[From.GetFaceDescription]が特徴的な顔に広がった。「まさか[Root.GetFirstName]に告白されるなんて無いと思ってた。」;;;;;;;;;;;;x
 EVTOPTC_MNM_6907;I am honored to be your friend, [From.GetFirstName].;;;;;;;;;;;;x
 EVTOPTA_MNM_6907;I... I don't think I can do that.;;;;;;;;;;;;x
 EVTOPTB_MNM_6907;Oh, my [GetRootFromCompliment]!;;;;;;;;;;;;x
@@ -3265,7 +3265,7 @@ lance_tier_2_desc;より長いランスは、敵から離れた距離を保ち�
 lance_tier_3_impaler;『串刺槍』;;;;;;;;;;;;x
 lance_tier_3_impaler_desc;『串刺槍』という名のランスです。重量だけで突撃中に軽装甲の相手を突き刺すことができます。;;;;;;;;;;;;x
 lance_tier_3_trident;トライデント;;;;;;;;;;;;x
-lance_tier_3_trident_desc;Named The Trident, this lance is equipped with a long and heavy metal tip of the finest steel.;;;;;;;;;;;;x
+lance_tier_3_trident_desc;トライデントと名付けられたこのランスは、最高級の鋼の長くて重い金属の先端を備えている。;;;;;;;;;;;;x
 lance_tier_3_piercer;『穿孔槍』;;;;;;;;;;;;x
 lance_tier_3_piercer_desc;Crafted to be long, yet sturdy, The Piercer will make short work of any enemy foolish enough to stand in your way.;;;;;;;;;;;;x
 axe_tier_1;投げ斧;;;;;;;;;;;;x
@@ -3372,7 +3372,7 @@ fragment_of_true_cross_desc;イエスが磔刑に処された際にその体を�
 bones_of_st_peter_desc;この小さな鉄の箱には最初の教皇とされている「使徒」ペテロの骨が入っていると考えられています。これを所有することはキリスト教世界の羨望の的です。;;;;;;;;;;;;x
 holy_foreskin_desc;イエス・キリストの包皮は生誕より8日目に切り取られ、雪花石膏の箱にナルドの香油とともに保存のため納められた。かようにして、キリストが天に召されてのち、地上で唯一の肉体の残滓となっている。;;;;;;;;;;;;x
 crown_of_thorns_desc;イエスが磔になったときに着けさせられた棘の冠。かつてはイエスが主張する神権を嘲る目的があったが、それは今では逆に神権の象徴となっている。;;;;;;;;;;;;x
-seamless_robe_of_jesus_desc;The woven tunic that Jesus wore before his crucifixion. Rather than divide it into four parts, like Christ's other garments, the tunic was without seams, and so was kept whole by the soldiers who had crucified him.;;;;;;;;;;;;x
+seamless_robe_of_jesus_desc;イエスが十字架に磔になる前に着ていた織物のチュニック。チュニックは継ぎ目がなかったため、キリストの他の衣服のように4分割したりせず、十字架にかけた兵士たちはその全体を保った。;;;;;;;;;;;;x
 staff_of_moses_desc;天地創造の第六日目に造られ、神からモーセに与えられた杖。紅海を裂き、岩から水を生み出し、コブラに変身するなど、数々の奇跡を起こした。;;;;;;;;;;;;x
 davids_harp_desc;イスラエル王ダビデは王になる以前、サウル王の宮廷でハープ奏者として仕えていた。このハープは彼が使ったもので、何千年経った後でも未だにその素晴らしさは衰えない。;;;;;;;;;;;;x
 seal_of_solomon_desc;この真鍮と鉄製の印章指輪には、ソロモンの紋章が誇示するがごとく刻印されています。―六芒星、またはダビデの星。伝説によれば、その所有者は悪魔に指図することを可能にするとのことです！;;;;;;;;;;;;x
@@ -3422,7 +3422,7 @@ famous_head_desc;崇拝される[This.GetArtifactSource]の頭。かつて素晴
 famous_tongue;[This.GetArtifactSourceCap]の舌;;;;;;;;;;;;x
 famous_tongue_desc;崇拝される[This.GetArtifactSource]の舌。かつて多くの説得力ある真実を話した。;;;;;;;;;;;;x
 infamous_tongue;不信心者の舌;;;;;;;;;;;;x
-infamous_tongue_desc;The despised tongue of a foul unbeliever. It once spread lies and deceit.;;;;;;;;;;;;x
+infamous_tongue_desc;反吐の出るような不信心者の忌まわしき舌。かつて嘘と欺瞞を大いに広めた。;;;;;;;;;;;;x
 famous_hand;[This.GetArtifactSourceCap]の手;;;;;;;;;;;;x
 famous_hand_desc;崇拝される[This.GetArtifactSource]の手。かつて強力な武器を握って勝利をもたらした。;;;;;;;;;;;;x
 famous_arm;[This.GetArtifactSourceCap]の腕;;;;;;;;;;;;x
@@ -3436,11 +3436,11 @@ chains_of_st_peter_desc;The chains that held St. Peter in Herod's dungeon, until
 right_hand_st_demetrius;聖ディミトリオスの右手;;;;;;;;;;;;x
 right_hand_st_demetrius_desc;The right hand of St. Demetrius of Thessaloniki, one of the patron saints of Crusades. He blessed Nestor so the man might defeat the pagan giant Lyaios, for which both were executed.;;;;;;;;;;;;x
 veil_of_veronica;ヴェロニカのベール;;;;;;;;;;;;x
-veil_of_veronica_desc;The cloth used to wipe Jesus' face clear of blood and sweat. The Sudarium still bears the image of the face of Jesus Christ.;;;;;;;;;;;;x
+veil_of_veronica_desc;イエスの顔を血と汗できれいに拭くために使われた布。スダリウムには今でもイエス・キリストの顔の形が残っている。;;;;;;;;;;;;x
 image_of_edessa;エデッサの聖像;;;;;;;;;;;;x
-image_of_edessa_desc;A piece of cloth on which the face of Jesus was imprinted. King Abgar of Edessa received it from Christ to cure him of an illness.;;;;;;;;;;;;x
+image_of_edessa_desc;イエスの顔が刻印された布の切れ端。エデッサのアブガル王が病気を治すためにキリストから受け取った。;;;;;;;;;;;;x
 remains_of_st_cessianus;聖セシアナスの遺骨;;;;;;;;;;;;x
-remains_of_st_cessianus_desc;A small box containing the bones of a child. They belong to Cessianus, who was murdered at the age of eight during the persecutions of Roman Emperor Diocletian.;;;;;;;;;;;;x
+remains_of_st_cessianus_desc;子供の骨が入った小さな箱。ローマ皇帝ディオクレティアヌスの迫害の最中に8歳で殺害されたセシアヌスのもの。;;;;;;;;;;;;x
 weeping_statue;涙を流す像;;;;;;;;;;;;x
 weeping_statue_desc;処女マリアの像。時折水や血が像の目から滴り落ちることがあり、奇跡による現象であるとしか言いようがない。;;;;;;;;;;;;x
 EVTDESC_MNM_9835;[relic_hunter.GetTitledFirstName]は保存状態の良い頭を持ち帰った。かつての[This.GetArtifactSource]のそれだという証も携えていた！もしかすると、その中身たる知恵の一部を手に入れられるのでは？;;;;;;;;;;;;x
@@ -3452,7 +3452,7 @@ EVTDESC_MNM_9840;[relic_hunter.GetTitledFirstName]は保存状態の良い足を
 EVTDESC_MNM_9841;[relic_hunter.GetTitledFirstName]は古代の錆びた剣を携えて帰ってきた。かつて[This.GetArtifactSource]のものだったという証拠もある。これをコレクションに加えることで、私は世界の羨望の的となるだろう！;;;;;;;;;;;;x
 EVTDESC_MNM_9842;Returning from [relic_hunter.GetHerHis] travels, [relic_hunter.GetTitledFirstName] has brought with [relic_hunter.GetHerHim] a small box within which lie a pair of ancient iron manacles and chains. These, [relic_hunter.GetSheHe] claims, once held Saint Peter in Herod's dungeon!;;;;;;;;;;;;x
 EVTDESC_MNM_9843;[relic_hunter.GetJobTitle] [relic_hunter.GetFirstName] has finally returned from [relic_hunter.GetHerHis] travels, and has brought with [relic_hunter.GetHerHim] a small metal box. Inside lies a mummified hand, which my [relic_hunter.GetJobTitle] claims belonged to Saint Demetrius!;;;;;;;;;;;;x
-EVTDESC_MNM_9844;Upon [relic_hunter.GetHerHis] return, [relic_hunter.GetTitledFirstName] hands me a richly-decorated frame, containing a piece of cloth with a clear outline of a face. According to my [relic_hunter.GetJobTitle], this is the cloth used by Veronica to wipe the blood and sweat from Jesus' face as he bore the cross!;;;;;;;;;;;;x
+EVTDESC_MNM_9844;[relic_hunter.GetHerHis]は戻ってきた。[relic_hunter.GetTitledFirstName]は私に顔の輪郭がはっきり残った布の入った豪華な飾り箱を手渡した。我が[relic_hunter.GetJobTitle]によれば、これはヴェロニカが十字架を背負ったイエスの顔から血と汗を拭うために使う布だという。;;;;;;;;;;;;x
 EVTDESC_MNM_9845;[relic_hunter.GetTitledFirstName]は古い金属の箱を携えて帰ってきた。中に入っている遺骨は、ディオクレティアヌスの大迫害で殉教した聖セシアナスのものだという証拠も携えて。;;;;;;;;;;;;x
 EVTDESC_MNM_9846;Returning from [relic_hunter.GetHerHis] travels, [relic_hunter.GetTitledFirstName] has brought with [relic_hunter.GetHerHim] a beautiful wooden statue of the Virgin Mary. [relic_hunter.GetSheHeCap] claims that every so often, the statue miraculously cries tears of water or even blood!;;;;;;;;;;;;x
 EVTDESC_MNM_9847;Upon [relic_hunter.GetHerHis] return, [relic_hunter.GetTitledFirstName] hands me a richly-decorated frame, containing a piece of cloth with a clear outline of a face. According to my [relic_hunter.GetJobTitle], this is the miraculous image of Jesus sent by Christ to King Abgar of Edessa to cure him of an illness!;;;;;;;;;;;;x
@@ -3612,7 +3612,7 @@ stolen_life_major;奪われた人生;;;;;;;;;;;;x
 EDUCATE_CHARACTER_INTERACTION_2;§Y[AdultExtra.GetTitledFirstName]§!が§Y[ChildExtra.GetTitledFirstName]§Wの後見人になるべきであると提案します。§Y[AdultExtra.GetTitledFirstName]§Wは後見人として§Y[ChildExtra.GetTitledFirstName]§Wの教育責任を負います。\n 親は子供の後見人、または後見人の主君に宣戦布告することはできません。\n;;;;;;;;;;;;x
 EDUCATE_CHARACTER_INTERACTION_TITLE;後見人指定;;;;;;;;;;;;x
 popular_ruler;人気の支配者;;;;;;;;;;;;x
-popular_ruler_desc;この人物は近隣のあらゆる支配者に、よく好かれています。;;;;;;;;;;;;x
+popular_ruler_desc;この人物は近隣のあらゆる統治者に、よく好かれています。;;;;;;;;;;;;x
 MNM.70006.d;[Root.GetMyTreasurerName]の[Root.job_treasurer.GetTitledFirstNameNoRegnal]が、§Y[admin_bonus_province.GetName]§Wで非常によく働きました。インフラを整備し、一生懸命働くよう住民の意欲を高めました。;;;;;;;;;;;;x
 MNM.70021.d;我が主\n良い知らせをご報告を致します![From.Location.GetName]で妨害工作に成功し、かなりの混乱を引き起こしました。\n\nあなたの忠実なる密偵頭\n[From.GetTitledName];;;;;;;;;;;;x
 SOCIETY_HEIR_DESC;後継者は§Y貢献点§!に基づいて選ばれ、§Y結社の指導者§!が死亡した時に引き継がれます。;;;;;;;;;;;;x
@@ -4077,9 +4077,9 @@ String_Saturn_farsi;Kayvon;;;;;;;;;;;;x
 String_Uranus_farsi;Oranos;;;;;;;;;;;;x
 String_Neptune_farsi;Nepton;;;;;;;;;;;;x
 String_Pluto_farsi;Pluton;;;;;;;;;;;;x
-got_named_star;Star-struck;;;;;;;;;;;;x
+got_named_star;星を追うもの;;;;;;;;;;;;x
 got_named_star_desc;This character has had a star named in their honor.;;;;;;;;;;;;x
-EVTOPTA_MNM_1848;It shall be named after my beloved child, [target_child.GetFirstName].;;;;;;;;;;;;x
+EVTOPTA_MNM_1848;私の最愛の子、[target_child.GetFirstName]にちなんで名づけよう。;;;;;;;;;;;;x
 EVTOPTB_MNM_1848;[target_spouse.GetFirstName]、私の愛しい[target_spouse.GetHusbandWife]は誇りに思うだろう。;;;;;;;;;;;;x
 EVTOPTC_MNM_1848;私の親友、[target_friend.GetFirstName]から名を取ろう。;;;;;;;;;;;;x
 EVTOPTD_MNM_1848;あの星は私の名前を冠するべきだ。;;;;;;;;;;;;x
@@ -4890,7 +4890,7 @@ EVTDESC_MNM_1481;My colleagues have approached me – apparently they have been 
 EVTOPTA_MNM_1481;You're not my prisoners. Leave, if that is your wish.;;;;;;;;;;;;x
 EVTOPTA_MNM_1481_TT;The gathering is over. It ended unsuccessfully.\n;;;;;;;;;;;;x
 rival_skull;頭蓋骨の戦利品;;;;;;;;;;;;x
-rival_skull_desc;As one stares into the empty sockets of this decidedly human skull, it is not uncommon to experience both fascination and revulsion. It is a reminder of our impending death, and for some, a satisfying deed...;;;;;;;;;;;;x
+rival_skull_desc;このしゃれこうべのガランとした双眸を 見つめていると、 魅了と嫌悪の両方を経験することは 珍しいことではない。それは差し迫った死を思い起こさせるものであり、ある者にとっては満足のいく行為でもある...;;;;;;;;;;;;x
 EVTOPTA_RIP_29013_TT;Adds §YSkull of [rip_dead.GetTitledFirstName]§! to the treasury of §Y[Root.GetTitledFirstName]§!\n;;;;;;;;;;;;x
 EVTDESC_MNM_10042;私が[Root.Society.GetName]の勤めを果たしていると、[From.GetSocietyRank] [From.GetFirstName]と何度も出遭う。この遭遇が平穏無事に終わったことはない。あいつ以上にそりが合わない者を見つけるのは至難の業だ! 私は[From.GetSheHe]が私の評判を陥れようと、陰で中傷しているのではないかと疑っている......;;;;;;;;;;;;x
 EVTOPTA_MNM_10042;[From.GetFirstName]に立ち向かい、[From.GetHerHis]の悪辣な手口を公表しよう!;;;;;;;;;;;;x
@@ -4981,7 +4981,7 @@ EVTTOOLTIPC_MNM_1800;[Root.Capital.Capital.GetName]の賑やかなマーケッ�
 astronomical_insights_1;空を想う;;;;;;;;;;;;x
 astronomical_insights_1_desc;この人物は天空の考察に多くの時間を費やしています。;;;;;;;;;;;;x
 astronomical_insights_2;宵っ張り;;;;;;;;;;;;x
-astronomical_insights_2_desc;This character is spending a lot of their nights looking at the skies, odd instruments occasionally falling from their pockets.;;;;;;;;;;;;x
+astronomical_insights_2_desc;このキャラクターは夜の多くを空を見て過ごしていて、奇妙な器械が時折ポケットからこぼれ落ちます。;;;;;;;;;;;;x
 astronomical_insights_3;輝いた瞳;;;;;;;;;;;;x
 astronomical_insights_3_desc;This character is spending the majority of their time secluded in their study, observing the skies – they are often heard reciting strange calculations to themselves.;;;;;;;;;;;;x
 astronomical_insights_4;星の探求者;;;;;;;;;;;;x
@@ -5498,7 +5498,7 @@ evoke_sympathy_of_tt;Has the quest §YEvoke the Sympathy of [Root.GetTitledFirst
 secret_religions_induct_child;子供を[From.TrueReligion.GetName]の信仰に導く;;;;;;;;;;;;x
 EVTDESC_MNM_3930;私の[Root.TrueReligion.GetName]仲間のひとりである[society_character.GetTitledFirstName]は、私が真の信仰を隠しておくというストレスを心配しています。 [society_character.GetSheHeCap]は、地元の居酒屋での隠れた夜が、私を裁判所の詮索している眼から離して、良い気分にさせると提案している。;;;;;;;;;;;;x
 EVTDESC_MNM_3932;[society_character.GetSocietyRank] [society_character.GetFirstName] was entirely right that I needed to get away from court, but there is no denying that we got carried away at the tavern. When our [Root.TrueReligion.GetName] leanings became a bit too clear, a local rough suddenly rose from his seat and staggered with raised fists towards [society_character.GetFirstName]. "You'll pay for your heretical words!";;;;;;;;;;;;x
-EVTDESC_MNM_9112;The smith I hired has unfortunately died before finishing my order. It won't be easy to find another smith of similar skill... Luckily it seems not all the money I paid had yet been spent, and so I was able to recover a sizeable portion of my investment.;;;;;;;;;;;;x
+EVTDESC_MNM_9112;私が雇った鍛冶屋は、残念ながら注文を終える前に死んでしまった。同じような腕前を持った別の職人を見つけるのは簡単ではないだろう...幸運にも、支払ったお金のすべてが使われていたわけではないようで、私は投資のかなりの部分を取り戻すことができた。;;;;;;;;;;;;x
 EVTOPTA_MNM_9112;しかし、私の損失もかなり大きいです。;;;;;;;;;;;;x
 EVTOPTB_MNM_9112;少なくともこれは完全な失敗ではありません。;;;;;;;;;;;;x
 EVTOPTC_MNM_9112;幸いにも、それは私に大きな損失を与えませんでした。;;;;;;;;;;;;x

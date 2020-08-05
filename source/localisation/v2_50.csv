@@ -67,7 +67,7 @@ EVTDESC_ZE_1302;娘の[From.GetFirstName]が会いに来た： 「[Root.GetFathe
 EVTOPTA_ZE_1302;お前が望むのであればもちろんだとも、我が娘よ。;;;;;;;;;;;;x
 EVTOPTB_ZE_1302;このような不義なことを尋ねるでない。;;;;;;;;;;;;x
 EVTDESC_ZE_4000;[Root.job_marshal.GetTitledName][Root.GetMarshalName]が提案があると言ってやってきた。「[Root.GetLordLady]殿よ、[recommended_for_marshal_ze_4000.GetTitledNameWithNick]は優れた軍司令官になるだろうというのが私の意見です。[recommended_for_marshal_ze_4000.GetHerHis]の才能を領国のために活かすことを提案します。」 ;;;;;;;;;;;;x
-EVTOPTA_ZE_4000;結構。;;;;;;;;;;;;x
+EVTOPTA_ZE_4000;いいだろう。;;;;;;;;;;;;x
 EVTOPTB_ZE_4000;すまん、他に相応しい者がいると考えている。;;;;;;;;;;;;x
 disloyal_peasantry;不実な農民;;;;;;;;;;;;x
 disloyal_peasantry_desc;誰かが領国の農民たちの間で領主に対する反感を掻き立てている！;;;;;;;;;;;;x
@@ -287,7 +287,7 @@ guard_dogs_desc;この人物は忍び込んだ不審人物を見つけるよう�
 sanctuary;聖域;;;;;;;;;;;;x
 sanctuary_desc;この人物の家が聖なる地に建っていると宣言されています。;;;;;;;;;;;;x
 EVTDESC1029;抑えるべきだと考えていた感情を遂に抑制できたと思った時に私の中に湧き上がった。淫らな考えが私の心に現れたのだ。;;;;;;;;;;;;x
-EVTOPTB1029;I can't resist him.;;;;;;;;;;;;x
+EVTOPTB1029;うほ、いい男。;;;;;;;;;;;;x
 EVTDESC_ZE_2028;語学の勉強を手伝いたいというこちらの申し出に[From.GetTitledFirstName]は感情を害したようだ。;;;;;;;;;;;;x
 EVTOPTA_ZE_2028;[From.GetHerHisCap]の不躾さは[From.GetHerHim]のためにもならないでしょう。;;;;;;;;;;;;x
 EVTDESC_ZE_2029;異国の宮廷の言葉の学習に付き合いましょうというこちらの提案に[From.GetTitledFirstName]は感謝の気持ちを示してくれた。更に[From.GetFirstName]はこの領国のため人一倍尽くす私に称賛の言葉をかけてくれた。;;;;;;;;;;;;x

@@ -179,7 +179,7 @@ overthrow_ruler_desc;§Y$TARGET$§!は§Y$CLAIMANT$§!を投獄しようとし�
 dejure_county_claim_desc;§Y$TITLE$§!は§Y$CLAIMANT$§!の慣習的封臣である。このことは戦争を起こす十分な理由たり得る。;;;;;;;;;;;;x
 change_seniority_succession_law_desc;§Y$CLAIMANT$§!は§Y$TITLE$§!の継承法を最年長者相続制に変えるため戦争を起こすことができる;;;;;;;;;;;;x
 change_primogeniture_succession_law_desc;§Y$CLAIMANT$§!は§Y$TITLE$§!の継承法を長子相続制に変えるため戦争を起こすことができる;;;;;;;;;;;;x
-change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§!は§Y$TITLE$§!の継承法を封建選抜制に変えるため戦争を起こすことができる;;;;;;;;;;;;x
+change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§!は§Y$TITLE$§!の継承法を封建選挙制に変えるため戦争を起こすことができる;;;;;;;;;;;;x
 crusade_desc;§Y$CLAIMANT$§!は邪教徒§Y$TARGET$§!が持っているすべての称号を奪うためにこの開戦事由を利用できる。正当なる§Y$TITLE$§!のために。;;;;;;;;;;;;x
 change_gavelkind_succession_law_desc;§Y$CLAIMANT$§!は§Y$TITLE$§!の継承法を分割相続制に変えるため戦争を起こすことができる;;;;;;;;;;;;x
 CB_NAME_GAVELKIND_SUCCESSION_LAW;分割相続制;;;;;;;;;;;;x
@@ -17655,7 +17655,7 @@ gavelkind;分割相続制;;;;;;;;;;;;x
 seniority;最年長者相続制;;;;;;;;;;;;x
 primogeniture;長子相続制;;;;;;;;;;;;x
 turkish_succession;公開相続制;;;;;;;;;;;;x
-open_elective;公開選抜制;;;;;;;;;;;;x
+open_elective;公開選挙制;;;;;;;;;;;;x
 catholic_bishopric;聖職叙任制;;;;;;;;;;;;x
 AGNATIC;男系;;;;;;;;;;;;x
 COGNATIC;双系;;;;;;;;;;;;x
@@ -19286,7 +19286,7 @@ tut_3b_6;男系長子相続制。統治者の最年長の男子が、統治者�
 tut_3b_7;男系優先双系。女性でも相続できますが、相続権のある男性がいない場合に限られます。;;;;;;;;;;;;x
 tut_3b_8;分割相続制。最年長の男子が主要称号を受け継ぎ、その他の称号は、統治者の子供すべての間で分割されます;;;;;;;;;;;;x
 tut_3b_9;最年長者相続制。王朝の構成員の中で最年長の者が、すべての称号を受け継ぎます。;;;;;;;;;;;;x
-tut_3b_10;選抜制。統治者と、それより地位が一段低い家臣たちによる投票で継承者を選出します。;;;;;;;;;;;;x
+tut_3b_10;選挙制。統治者と、それより地位が一段低い家臣たちによる投票で継承者を選出します。;;;;;;;;;;;;x
 tut_3c_1;継承 - 上級;;;;;;;;;;;;x
 tut_3c_2;継承法を変更するにあたっては、いくつか注意すべき点があります。;;;;;;;;;;;;x
 tut_3c_3;統治者は生涯に1度しか継承法を変更できません。さらに、10年以上の統治実績があり、現在国内が平和な状態であることも必要です。;;;;;;;;;;;;x
