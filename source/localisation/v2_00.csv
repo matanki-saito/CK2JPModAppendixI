@@ -91,7 +91,7 @@ PRIEST;祭司;;;;;;;;;;;;x
 IMAM_PRIEST;イマーム;;;;;;;;;;;;x
 SHEIKH_PRIEST;シェイク;;;;;;;;;;;;x
 MULLAH;ムッラ;;;;;;;;;;;;x
-GODI;ゴジ;;;;;;;;;;;;x
+GODI;ゴディ;;;;;;;;;;;;x
 SHAMAN;呪術師;;;;;;;;;;;;x
 VOLHV;呪術師;;;;;;;;;;;;x
 AUGUR;卜占官;;;;;;;;;;;;x
@@ -807,7 +807,7 @@ asked_to_nominate_bishop;司祭指名を要求した;;;;;;;;;;;;x
 SHOW_COLLEGE_OF_CARDINALS;枢機卿会;;;;;;;;;;;;x
 BACK_TO_RELIGION_VIEW;宗教インターフェースに戻る;;;;;;;;;;;;x
 CAMPAIGN_FUND_CARDINALS_DESC;Money in the Campaign Fund will increase your influence with the Papacy and make your candidate more likely to be elected the next $RULER_TITLE$. You can freely adjust the amount until the next $RULER_TITLE$ is elected, when the Fund will be used up in the election campaign.;;;;;;;;;;;;x
-EVTDESC_SoA_107;Your liege, [From.GetTitledFirstName], has issued a decree calling for the expulsion of all unlanded Jews from the entire realm, citing various grievances committed by them against the Crown.;;;;;;;;;;;;x
+EVTDESC_SoA_107;あなた方の主である[From.GetTitledFirstName]は、ユダヤ人が国王に対して行ったことに対するさまざまな不満を引き合いに出して、土地を持たないすべてのユダヤ人を全領土から追放するよう求める布告を出した。;;;;;;;;;;;;x
 EVTOPTA_SoA_107;そうか。;;;;;;;;;;;;x
 EVTOPTB_SoA_107;Alas, this means my loan cannot be repaid...;;;;;;;;;;;;x
 EVTDESC_SoA_108;主君 [Root.TopLiege.GetTitledFirstName] は、ユダヤ人追放の法令を取り下げることを決定した。彼らは、再び領国内での居住が許可されるようになった。;;;;;;;;;;;;x

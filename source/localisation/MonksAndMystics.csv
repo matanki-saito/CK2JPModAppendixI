@@ -204,12 +204,12 @@ currency_name_the_cult_of_kali;暗黒の力;;;;;;;;;;;;x
 currency_name_the_plaguebringers;暗黒の力;;;;;;;;;;;;x
 currency_name_the_cold_ones;暗黒の力;;;;;;;;;;;;x
 common_interests_opinion;共通した興味;;;;;;;;;;;;x
-EVTDESC_37252;[Root.GetEducationTool]に覆いかぶさって、集中を保ち目を開けていようと必死になっていると、[From.GetHusbandWife]の[From.GetTitledFirstName]が部屋に入ってきた。[From.GetSheHeCap]は部屋を横切ってあなたの肩越しに[Root.GetEducationTool]を見分している。「ねぇ[Root.GetFirstName]、私の新鮮な目がお役に立てると思うんだけど……」;;;;;;;;;;;;x
+EVTDESC_37252;[Root.GetEducationTool]に覆いかぶさって、集中を保ち目を開けていようと必死になっていると、[From.GetHusbandWife]の[From.GetTitledFirstName]が部屋に入ってきた。[From.GetSheHeCap]は部屋を横切ってあなたの肩越しに[Root.GetEducationTool]を見分している。「ねぇ[Root.GetFirstName]、私の別の見方がお役に立つと思うんだけど……」;;;;;;;;;;;;x
 EVTOPTA_37252;そうかもしれないな、[From.GetFirstName]。;;;;;;;;;;;;x
 EVTOPTA_37252_TOOLTIP;§Y[From.GetTitledFirstName]§!の助けを借りる。\n;;;;;;;;;;;;x
 EVTOPTB_37252;私ひとりでは手に負えないとでも？;;;;;;;;;;;;x
 EVTOPTB_37252_TOOLTIP;§Y[From.GetTitledFirstName]§!の手助けを断る。\n;;;;;;;;;;;;x
-EVTDESC_37253;あなたの[From.GetHusbandWife]はあなた同様、[From.GetEducationSubject]に関する教育を受けており、[From.GetSheHe]はすぐにあなたが説明した問題の趣旨を把握します。あなたがた二人は仕事に手を付け、[Root.GetEducationalTopicPlural]について議論し比較し始めました。[From.GetFirstName]は非常に有能な[From.GetEducationRole]です！しばらくするとあなたは非常に良い解決策を特定できました。;;;;;;;;;;;;x
+EVTDESC_37253;あなたの[From.GetHusbandWife]はあなた同様、[From.GetEducationSubject]に関する教育を受けており、[From.GetSheHe]はすぐにあなたが説明した問題の趣旨を把握しました。あなたがた二人は仕事に手を付け、[Root.GetEducationalTopicPlural]について議論し比較し始めました。[From.GetFirstName]は非常に有能な[From.GetEducationRole]です！しばらくするとあなたは非常に良い解決策を特定できました。;;;;;;;;;;;;x
 EVTOPTA_37253; 素晴らしい考えだ、[From.GetFirstName]！他に提案はないか？ ;;;;;;;;;;;;x
 EVTOPTA_37253_TOOLTIP;§Y[From.GetTitledFirstName]§!の助けを借りてあなたの仕事を完了する。\n;;;;;;;;;;;;x
 EVTOPTB_37253;さあ、寝室に戻ろう……;;;;;;;;;;;;x
@@ -875,7 +875,7 @@ string_black_shaman;black shaman;;;;;;;;;;;;x
 String_fever;熱病;;;;;;;;;;;;x
 string_pneumonia;肺炎;;;;;;;;;;;;x
 String_the_Great_Pox;梅毒;;;;;;;;;;;;x
-String_leprocy;業病;;;;;;;;;;;;x
+String_leprocy;ハンセン病;;;;;;;;;;;;x
 String_consumption;肺結核;;;;;;;;;;;;x
 String_slow_fever;腸チフス;;;;;;;;;;;;x
 String_camp_fever;発疹チフス;;;;;;;;;;;;x
@@ -2442,8 +2442,8 @@ EVTOPTA_MNM_4214;気にするな、友よ。;;;;;;;;;;;;x
 EVTOPTB_MNM_4214;大きな恥をかくところを私が助けたみたいだなぁ…;;;;;;;;;;;;x
 EVTDESC_MNM_4215;[From.GetFirstName]は昼寝を続け、[From.GetSheHe]がいびきをかき始めるのに時間はかからなかった。私は少しづつ[From.GetHerHim]から離れ、[From.GetSheHe]がようやく目ざまたときには、[From.GetHerHis]の仲間たちからの非難の視線に晒されていた。[From.GetHerHim]にも困ったものだ。;;;;;;;;;;;;x
 EVTOPTA_MNM_4215;少しの間、[From.GetSheHeCap]はとても快適そうだった...;;;;;;;;;;;;x
-EVTDESC_MNM_4216;I scurry off to fetch some ink, before I gently sit down beside the lightly sleeping [From.GetFirstName] and begin my work. It takes a few minutes, but in the end I am more than satisfied – [From.GetHerHis] new mustache is marvelous! For some reason, [From.GetSisterBrother] [From.GetFirstName] does not return my smile when [From.GetSheHe] awakes from [From.GetHerHis] slumber.;;;;;;;;;;;;x
-EVTOPTA_MNM_4216;What is not to like?;;;;;;;;;;;;x
+EVTDESC_MNM_4216;インクを急いで取りに行くと、浅い眠りについている[From.GetFirstName]のそばに腰を下ろして、作業を始めた。数分かかったが、[From.GetHerHis]の新しい口ひげは見事だ。しかし、なぜか[From.GetFirstName][From.GetSisterBrother]は目が覚めても私に笑顔を返さなかった。;;;;;;;;;;;;x
+EVTOPTA_MNM_4216;気に入らないわけはないだろう?;;;;;;;;;;;;x
 monastic_orders_invite_ascetic;苦行者を招く;;;;;;;;;;;;x
 monastic_orders_invite_ascetic_desc;[Root.Society.GetName]に属する苦行者を宮廷に招く。;;;;;;;;;;;;x
 monastic_orders_invite_ascetic_tt;まもなく、苦行者が§Y[Root.GetTitledFirstName]§!の宮廷に現れます。\n;;;;;;;;;;;;x
@@ -2790,11 +2790,11 @@ EVTDESC_MNM_3512;Since our conversation a few weeks ago, [From.GetSocietyRank] [
 EVTOPTA_MNM_3512;I hope [From.GetFirstName] isn't too disappointed with me.;;;;;;;;;;;;x
 devil_worshiper_desecrate_temple_decision_tt;§Y[From.GetTitledFirstName]§!と[From.GetHerHis]の共犯者は、§Y[Root.GetName]§!に乗り出します。;;;;;;;;;;;;x
 quest_devil_worshipers_desecrate_temple_tooltip;この任務を完了するには、§Y[FromFrom.GetName]§!の紋章を§G右クリック§!し、「§Y教会を冒涜§!」を選択してください。§Y[FromFrom.GetName]§!の[FromFrom.GetHolding]を冒涜してください。;;;;;;;;;;;;x
-EVTDESC_MNM_10023_ASSASSINS;To [Root.GetTitledFirstName],\n\nIt has come to our attention that you no longer adhere to the true faith. As defending the Shia Religion and its followers is the reason why exist, our foremost duty, this is an act of the highest degree of treachery. If you want to keep your life, never cross our path again. \n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_MNM_10023_MO;To [Root.GetTitledFirstName],\n\nIt has come to our attention that you no longer adhere to the true faith. While we hope you will realize your grave error and return to [From.Religion.GetHighGodName], we cannot be lenient. You are banned from [From.Society.GetName].\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_MNM_10023_ASSASSINS;[Root.GetTitledFirstName]殿\n\n　貴君がもはや真の信仰に忠実ではないことに我々は気づいた。シーア派とその信奉者たちを守ることが、私たちの最大の義務であり存在理由なのだから、これは最高の裏切り行為である。命が惜しいならば、二度と私たちの道を通ことなかれ。\n\n署名 [From.GetSocietyRank][From.GetFirstName]\n;;;;;;;;;;;;x
+EVTDESC_MNM_10023_MO;[Root.GetTitledFirstName]殿\n\n貴君がもはや真の信仰に忠実ではないことに我々は気づいた。貴君が重大な過ちに気づき、[From.Religion.GetHighGodName]に戻ってくることを願っているが、我々は決して寛大ではない。貴君を[From.Society.GetName]から追放する。\n\n署名　[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;;;x
 EVTDESC_MNM_10023_SR_A;To [Root.GetTitledFirstName],\n\nIt has come to our attention that you have publicly embraced the [From.TrueReligion.GetName] faith. While your devotion is admirable, it has put you in a perilous position and we can no longer remain in contact with you.\n\n[From.GetSRFarewell],\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_MNM_10023_SR_B;To [Root.GetTitledFirstName],\n\nIt has come to our attention that you no longer adhere to the true faith. While we hope you will realize the grave errors of your ways and return to [From.TrueReligion.GetHighGodName], we cannot be lenient. We must protect our own. If you betray our secrets, we will drag you down with us.\n\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
-EVTOPTA_MNM_10023;Seems like I made some enemies today.;;;;;;;;;;;;x
+EVTDESC_MNM_10023_SR_B;[Root.GetTitledFirstName]殿\n\n貴君がもはや真の信仰に忠実ではないことに我々は気づいている。貴君が重大な過ちに気づき、[From.TrueReligion.GetHighGodName]に戻ってくることを願っているが、我々は決して寛大ではない。我々は自らの身を守らなければならないのだ。貴君が我々の秘密を洩らし、裏切るのであれば、我々とともに貴君も滅びるだろう。\n\n署名　[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;;;x
+EVTOPTA_MNM_10023;どうやら敵を作ってしまったようだな;;;;;;;;;;;;x
 EVTDESC_MNM_10019;[From.GetName]への加入要件はもはや満たせない。;;;;;;;;;;;;x
 EVTDESC_MNM_7005_ALT;「あなたが信じるよう教えられたことがすべて嘘だと言われたら、どうします？」[satanists_recruiter.GetFirstName]は[satanists_recruiter.GetHerHis]の袖を引き上げ、[satanists_recruiter.GetDWDevil]の印をあしらった傷を見せる前に、周りに慎重な一瞥を投げかけて続ける。「[Root.Religion.GetHighGodNameCap]は嘘つきです。暴君の神を拒絶し、[satanists_recruiter.GetDWDevil]にあなたの歩みを導かせるのです...」;;;;;;;;;;;;x
 EVTDESC_MNM_7010_ALT;今朝寝室の扉に、血で書かれた謎めいた落書きを見つけた。衛兵は夜の間に寝室に入った者は見ていないと言っており、私は決して[Root.GetMyLordSpiritualName]にその意味を問わないと決めた。だが私にはわかる……これは[satanists_recruiter.GetDWDevil]の印だ……。;;;;;;;;;;;;x
@@ -4078,7 +4078,7 @@ String_Uranus_farsi;Oranos;;;;;;;;;;;;x
 String_Neptune_farsi;Nepton;;;;;;;;;;;;x
 String_Pluto_farsi;Pluton;;;;;;;;;;;;x
 got_named_star;星を追うもの;;;;;;;;;;;;x
-got_named_star_desc;This character has had a star named in their honor.;;;;;;;;;;;;x
+got_named_star_desc;この人物にはその名誉のために命名された星があります。;;;;;;;;;;;;x
 EVTOPTA_MNM_1848;私の最愛の子、[target_child.GetFirstName]にちなんで名づけよう。;;;;;;;;;;;;x
 EVTOPTB_MNM_1848;[target_spouse.GetFirstName]、私の愛しい[target_spouse.GetHusbandWife]は誇りに思うだろう。;;;;;;;;;;;;x
 EVTOPTC_MNM_1848;私の親友、[target_friend.GetFirstName]から名を取ろう。;;;;;;;;;;;;x
@@ -4167,8 +4167,8 @@ EVTOPTB_MNM_1401;What is that vile concoction? Magic? Only [Root.Religion.GetHig
 EVTOPTB_MNM_1401_TT;薬を飲むことを拒否する。;;;;;;;;;;;;x
 EVTDESC_MNM_1402;I brewed the potion just like the enciphered recipe dictated. [From.GetTitledFirstName] gratefully accepted my help and as soon as [From.GetSheHe] drank my concoction, I could see a change in [From.GetHerHim]. Now the light has returned to [From.GetHerHis] eyes!;;;;;;;;;;;;x
 EVTOPTA_MNM_1402;I am glad I could be of assistance, [From.GetFirstName].;;;;;;;;;;;;x
-EVTDESC_MNM_1403;For a while I felt like nothing could extinguish the renewed sense of joy and purpose I gained after drinking the potion. It seems as if I was mistaken. Life and duty wears one down and I am no exception. There is nothing more, no great secret to uncover. Just toil and anguish, every day until my last.;;;;;;;;;;;;x
-EVTOPTA_MNM_1403;It was too good to be true...;;;;;;;;;;;;x
+EVTDESC_MNM_1403;しばらくの間、私はこの薬を飲んで得た新たな喜びと目的を消すものは何もないと感じていた。だが私が間違っていたようだ。人生と義務は一つ減り、私も例外ではない。これ以上、明らかにすべき大きな秘密はない。苦労と苦悩だ、私の人生の最後までずっと。;;;;;;;;;;;;x
+EVTOPTA_MNM_1403;そんなうまい話があるわけなかったんだ……;;;;;;;;;;;;x
 EVTDESC_MNM_1416_A;なんということだ。[From.GetTitledFirstName]が死に、私には助手も弟子も、そして仲間もいなくなってしまった。新しい生徒を取ることを考えてはいるが、必ず[From.GetFirstName]のことを嘆いてしまうだろう。;;;;;;;;;;;;x
 EVTDESC_MNM_1416_B;[From.GetTitledFirstName]が死に、私には助手も弟子もいなくなってしまった。もちろん[From.GetHerHis]の逝去を悼んだが、少しの安堵も同時に有った。遂に、より相応しい生徒を取ることが出来るのだ。;;;;;;;;;;;;x
 EVTOPTA_MNM_1416;[Root.Religion.GetHighGodName]の元へ行け、[From.GetFirstName];;;;;;;;;;;;x
@@ -4292,15 +4292,15 @@ EVTDESC_MNM_1444_C;I am not sure whether I should be disturbed or amused! This m
 EVTOPTB_MNM_1444;[Root.Religion.GetHighGodName] punishes the sinful.;;;;;;;;;;;;x
 EVTDESC_MNM_1446_A;I find [From.GetSocietyRank] [From.GetFirstName] with [From.GetHerHis] hands deep in a big ingredients chest. Our eyes meet and I nod. It is time to go. [From.GetFirstName] stuff a few more vials and nuggets of metal into [From.GetHerHis] satchel before running after me.;;;;;;;;;;;;x
 EVTDESC_MNM_1446_B;I follow the trail of overturned chests and broken vials until I find [From.GetSocietyRank] [From.GetFirstName]. I gesture for [From.GetHerHim] to come with me – it is time to go. [From.GetSheHeCap] stuffs [From.GetHerHis] pockets with a few nearby tools before running after me.;;;;;;;;;;;;x
-EVTDESC_MNM_1448;As I close my satchel, I hear a loud crash from the other room. As I peek through the doorway, the scene before me is impressive. The warm light of [From.GetSocietyRank] [From.GetFirstName]'s torch illuminates the destruction. Overturned tables, torn books and smashed instruments. I nod appreciatively. 'It is time to leave.';;;;;;;;;;;;x
-EVTOPTA_MNM_1448;I wish I could see [infiltration_target.GetFirstName]'s face when [infiltration_target.GetSheHe] realizes what we've done!;;;;;;;;;;;;x
+EVTDESC_MNM_1448;学生鞄を閉じていると、別室から大きな音が聞こえてきた。戸口から覗くと、目の前に印象的な光景が広がっていた。[From.GetSocietyRank][From.GetFirstName]の松明の暖かい光が破壊のあとを照らしている。倒壊したテーブル、破れた本、粉々になった器機。私は感謝してうなずいた。「そろそろ時間だ」;;;;;;;;;;;;x
+EVTOPTA_MNM_1448;[infiltration_target.GetFirstName]が私たちのしたことに気づいた時の顔が見られたらいいのに！;;;;;;;;;;;;x
 EVTDESC_MNM_1449;As I reach for a nearby tome, a terrifying roar sweeps through the laboratory and the floor shudders underneath my feet. Images of dragons and chimeras flash through my mind before the truth hits me. [From.GetSocietyRank] [From.GetFirstName] must have set of an explosion. There is no time look for [From.GetHerHim].;;;;;;;;;;;;x
 EVTOPTA_MNM_1449;No one could have slept through that. I have to run!;;;;;;;;;;;;x
 EVTDESC_MNM_1450;研究所を後に少し歩いたところで、[infiltration_companion.GetFirstName]と私は汗だくで四肢は震え、もはや立っていられず崩れ落ちた。やったんだ。私たちは本当に成し遂げて、そして脱出した！唇から笑いが漏れ、ようやく緊張が解けた。私の横で[infiltration_companion.GetFirstName]は大きく息を吸い込み、楽しそうにくつくつと笑っている。;;;;;;;;;;;;x
 EVTOPTA_MNM_1450;[infiltration_target.GetHerHim]に見せつけてやった。そうだろう？;;;;;;;;;;;;x
 opinion_accomplice;共犯者;;;;;;;;;;;;x
-hermetics_scrying_cooldown_tooltip;NOT already carrying a premonition of things to come\n;;;;;;;;;;;;x
-hermetics_perform_scrying;スクライングを行う;;;;;;;;;;;;x
+hermetics_scrying_cooldown_tooltip;前兆を持っていない\n;;;;;;;;;;;;x
+hermetics_perform_scrying;水晶占いを行う;;;;;;;;;;;;x
 hermetics_perform_scrying_desc;[From.Society.GetName]のメンバーである§Y[From.GetTitledFirstName]§!は、神秘の技法を用いた占いにより未来の予言を試みることができます。;;;;;;;;;;;;x
 EVTDESC_MNM_1200_A;手をボウルの側面に当てると、水面はぴたりと静かになった。反射の中にパターンが現れるまでまだ少し時間がかかる…世界、過去、そして未来の鏡のイメージ。深く息を吸い込み、探しているものに調律を合わせる…;;;;;;;;;;;;x
 EVTOPTA_MNM_1200;来るべき戦いについて知りたい。;;;;;;;;;;;;x
@@ -4312,14 +4312,14 @@ EVTDESC_MNM_1201_BATTLE_B;数分経ってしばらくすると、何が見えた
 EVTDESC_MNM_1201_BATTLE_C;私は長時間、水の中をじっと見続けることに集中した。こんなことをして何の意味があるのかと自分を疑い始めた時、こんなものが見えた。かすかな波紋と、影の二つ。まるで炎と剣のように見えた。;;;;;;;;;;;;x
 EVTDESC_MNM_1201_RELATIONSHIP_A;私は見た…しんとした水たまりを。穏やかだ…;;;;;;;;;;;;x
 EVTDESC_MNM_1201_RELATIONSHIP_B;At first, all I the water shows me is the reflection of the ceiling. I shake my head. I have to look beyond the material world! I close my eyes, and when I open them again, I see it clearly.\nA bed of flowers, and an urn.;;;;;;;;;;;;x
-EVTDESC_MNM_1201_RELATIONSHIP_C;I am at first not sure what to make of the strange shape. Maybe I am imagining it, or maybe it is a shadow. Does it matter? I see it clearly: a familiar silhouette, standing under a moon.;;;;;;;;;;;;x
-EVTDESC_MNM_1201_POWER_A;I see strange patterns... No, wait, a bunch of triangles!;;;;;;;;;;;;x
+EVTDESC_MNM_1201_RELATIONSHIP_C;この奇妙な形状をどう扱ってよいか確信が持てない。想像の産物かもしれないし、影かもしれない。重要なことなのか？完全に理解した、月の下に立っている見慣れたシルエットがはっきりと見えた。;;;;;;;;;;;;x
+EVTDESC_MNM_1201_POWER_A;奇妙なパターンが見える…いや、待てよ、三角形の重なりだ！;;;;;;;;;;;;x
 EVTDESC_MNM_1201_POWER_B;線が見える…これは何だ…？そうか、これは森だ。広大な森林だ！;;;;;;;;;;;;x
 EVTDESC_MNM_1201_POWER_C;竜巻が見える。もう少しで聞こえそうだ！おお、実際に雨が降っている。\n\n…しかしまだ雷と豪雨が見える。;;;;;;;;;;;;x
 EVTOPTA_MNM_1201;素晴らしい！明らかに良い予知だ！;;;;;;;;;;;;x
 EVTOPTB_MNM_1201;ちくしょう！明らかに悪い予知だ。;;;;;;;;;;;;x
 good_battle_omen;励みとなる未来像;;;;;;;;;;;;x
-good_battle_omen_desc;This character is convinced that they have seen the future and that something great awaits them on the battlefield.;;;;;;;;;;;;x
+good_battle_omen_desc;この人物は彼らが未来を見てきたこと、そして何か偉大なものが戦場で待ち受けていることを確信しています。;;;;;;;;;;;;x
 bad_battle_omen;恐ろしい未来像;;;;;;;;;;;;x
 bad_battle_omen_desc;This character is convinced that they have seen the future and that something terrible awaits them on the battlefield.;;;;;;;;;;;;x
 good_relationship_omen;心地よい未来像;;;;;;;;;;;;x
@@ -4356,7 +4356,7 @@ fulfilled_vision_great_desc;There is a tenacity to this character, as they belie
 fulfilled_vision_ok;熱望する予見者;;;;;;;;;;;;x
 fulfilled_vision_ok_desc;There is an open-mindedness to this character, as they believe it should be possible to predict the future.;;;;;;;;;;;;x
 fulfilled_vision_bad;躊躇する予見者;;;;;;;;;;;;x
-fulfilled_vision_bad_desc;This character has a willingness to learn, as they have failed to predict the future at least once.;;;;;;;;;;;;x
+fulfilled_vision_bad_desc;この人物は一度は未来予知に失敗したことがあるので、学習の意欲があります。;;;;;;;;;;;;x
 fulfilled_vision_worst;錯乱した予見者;;;;;;;;;;;;x
 fulfilled_vision_worst_desc;This character is doubting their own abilities, as they have repeatedly failed to predict the future.;;;;;;;;;;;;x
 EVTDESC_MNM_1208_A;My lover has passed away. I knew it would happen.;;;;;;;;;;;;x
@@ -4412,12 +4412,12 @@ EVTDESC_MNM_1223_B;So I am starting to think that the vision I had was about my 
 EVTOPTA_MNM_1223;I was never worried.;;;;;;;;;;;;x
 EVTOPTB_MNM_1223;I guess I was wrong about it being something negative?;;;;;;;;;;;;x
 EVTDESC_MNM_1225_C;I am not sure whether it is a new-found interest in [envisioned_friend.GetEducationSubject] that we have been connecting over, or simply the infectious laughter of [envisioned_friend.GetTitledFirstName], but we are spending more and more time together. I feel like we are bonding, like true friends!;;;;;;;;;;;;x
-EVTDESC_MNM_1225_E;I am told a peculiar tale of an owl, which has taken up residence under the roofing of one of our barracks. The guards have tried chasing it off, but it keeps returning. "Perhaps it is also a seeker?" I offer to one of my advisors, who responds: "My distinguished [Root.GetLordLady], it would make for a very distinguished pet...";;;;;;;;;;;;x
+EVTDESC_MNM_1225_E;フクロウについての奇妙な話を聞いた。それはある兵舎の屋根の下に住み着いた。守衛が追い払おうとしたが、また戻ってきてしまう。「もしかしたら、あれも探索者なのでは？」 私は相談者の1人に提案した。彼は答えた、「[Root.GetLordLady]、それはとても優れたペットになるでしょう……」;;;;;;;;;;;;x
 EVTOPTA_MNM_1225_battle;知ってた!;;;;;;;;;;;;x
 EVTOPTB_MNM_1225_battle;My vision... How could it be so wrong?;;;;;;;;;;;;x
 EVTOPTA_MNM_1225_relationship;My vision has hinted at this, all along, I think.;;;;;;;;;;;;x
 EVTOPTB_MNM_1225_relationship;My vision was clearly wrong, but I don't even mind!;;;;;;;;;;;;x
-EVTOPTA_MNM_1225_power;The symbol of wisdom, by my side. This must be the boon I foresaw!;;;;;;;;;;;;x
+EVTOPTA_MNM_1225_power;知恵のシンボル、それが私のそばに。これは私が予見していた恩恵に違いない！;;;;;;;;;;;;x
 EVTDESC_MNM_1226_A;一族の男を伴って狩りをしていた時だった。一頭の美しい白牡鹿に私の心は打ち抜かれてしまった。しかしながら、甘美な時間は儚く散り、雄々しく猛る野獣が迫ってきた。突如、脳裏を過ぎったのは恐ろしい予見のそれ。ここが退き時と愛馬の手綱をきつく引いて取って返す。「[Root.GetTitle]を守るのだ！」誰かの叫び、矢の風切り音、そして、何かが千切れ飛んだ。誰かの呻きが耳に届く。私自身の声であった。;;;;;;;;;;;;x
 EVTDESC_MNM_1226_B;During a hunt with my kinsmen, I am struck by the beauty of a white stag. However, the joy is short-lived as the magnificent beast charges at me. Suddenly reminded of the wonderful vision I had, I attempt to stare the beast down. To my surprise, it has no effect. "Protect the [Root.GetTitle]!" I hear, just before the sound of a flying arrow is cut short. I groan.;;;;;;;;;;;;x
 EVTDESC_MNM_1226_C;[envisioned_rival.GetTitledFirstName] has been overheard spreading foul gossip about me. I am not certain what I did to deserve this treatment, but remembering my vision of agony, I have decided not to fight it. Perhaps [envisioned_rival.GetHerHis] vile feelings towards me are simply a result of the stars traversing the sky?;;;;;;;;;;;;x
@@ -4699,10 +4699,10 @@ EVTOPTC_MNM_5207;I am sure this is just a misunderstanding.;;;;;;;;;;;;x
 EVTOPTD_MNM_5207;I should just pretend I wasn't here...;;;;;;;;;;;;x
 opinion_mediator;仲介者;;;;;;;;;;;;x
 opinion_meddler;お節介屋;;;;;;;;;;;;x
-EVTOPTA_MNM_5208;It would be worth it.;;;;;;;;;;;;x
-EVTOPTA_MNM_5208_TT;You sabotage the chances of §Y[fellow_member_target.GetTitledName]§! making a good impression during the Grand Debate.\n;;;;;;;;;;;;x
-EVTOPTB_MNM_5208;This is foolish, I respect my fellow scholars.;;;;;;;;;;;;x
-EVTOPTB_MNM_5208_TT;No matter how pompous.\n;;;;;;;;;;;;x
+EVTOPTA_MNM_5208;やる価値はあるだろう。;;;;;;;;;;;;x
+EVTOPTA_MNM_5208_TT;§Y[fellow_member_target.GetTitledName]§!が大討論会で良い印象を与える機会を妨害する。\n;;;;;;;;;;;;x
+EVTOPTB_MNM_5208;馬鹿な、私は仲間の学者を尊敬している。;;;;;;;;;;;;x
+EVTOPTB_MNM_5208_TT;どんな尊大であろうともな\n;;;;;;;;;;;;x
 childish_prankster;幼稚ないたずら;;;;;;;;;;;;x
 childish_prankster_desc;This character has acted very unprofessionally during an important scholarly gathering, and is a little embarrassed from the way people shy away from them now.;;;;;;;;;;;;x
 tarnished_reputation;傷つけられた名声;;;;;;;;;;;;x
@@ -4788,7 +4788,7 @@ hermetic_compass_desc;精緻な細工が施されたこの小さな装置を回�
 radius_astronomicus;ヤコブの杖;;;;;;;;;;;;x
 radius_astronomicus_desc;可動式の横木と目盛りがついたこの杖は、天体の角度を測り、航海の助けとするために使われる。;;;;;;;;;;;;x
 hermetic_cypher_machine;暗号円盤;;;;;;;;;;;;x
-hermetic_cypher_machine_desc;There is more to this round little metal object than what meets the eye. The symbols running along its edge, the inner row being movable through a rotating disc, allows its owner to encipher and decipher with ease.;;;;;;;;;;;;x
+hermetic_cypher_machine_desc;この丸い小さな金属製の物体には見た目以上のものがあります。内側の列は回転する円盤を介して移動できるようになっており、持ち主は簡単に暗号化と復号化をすることができます。;;;;;;;;;;;;x
 hermetic_plate_armor;板金甲冑;;;;;;;;;;;;x
 hermetic_plate_armor_desc;This impressive set of armor is clearly ahead of its time. Consisting of whole plates of metal held together by cleverly designed joints, it provides its wearer with significant defense as well as mobility.;;;;;;;;;;;;x
 hermetic_glasses;眼鏡;;;;;;;;;;;;x
@@ -4851,7 +4851,7 @@ EVTOPTB_MNM_1471;もう十分だ！[arguer_1.GetFirstName]、荷物をまとめ�
 EVTOPTB_MNM_1471_TT;§Y[arguer_1.GetTitledFirstName]§!を追い出します。場を乱す言い争いは過去のものとなるでしょうが、誰もがこの出来事を忘れないでしょう。\n;;;;;;;;;;;;x
 EVTOPTC_MNM_1471;もうやめたまえ！君の意見は誰も求めていないよ、[arguer_2.GetFirstName]！;;;;;;;;;;;;x
 EVTOPTC_MNM_1471_TT;§Y[arguer_2.GetTitledFirstName]§!を追い出します。場を乱す言い争いは過去のものとなるでしょうが、誰もがこの出来事を忘れないでしょう。\n;;;;;;;;;;;;x
-EVTDESC_MNM_1472;While my first calm attempts did not make much of a difference, my angry outburst suddenly did. The violent reaction finally brought [arguer_1.GetSocietyRank] [arguer_1.GetFirstName] and [arguer_2.GetSocietyRank] [arguer_2.GetFirstName] to their senses. Now, a few hours later, they approach me to apologize for their petty and lowbrow bickering.;;;;;;;;;;;;x
+EVTDESC_MNM_1472;私の最初の穏やかな試みが意味がなかったとしても、私の怒りは不意に爆発をおこした。この怒りの反応は最終的に[arguer_1.GetSocietyRank][arguer_1.GetFirstName]と[arguer_2.GetSocietyRank][arguer_2.GetFirstName]を正気に戻した。さて、数時間後、彼らは私に近づいてきて自分たちの些細で低俗な口喧嘩を謝罪してきた。;;;;;;;;;;;;x
 EVTOPTA_MNM_1472;あぁ、ほっとした！;;;;;;;;;;;;x
 EVTOPTA_MNM_1472_TT;議論は終わり、皆邪魔されずに自分の仕事に集中できるようになった。\n;;;;;;;;;;;;x
 EVTDESC_MNM_1473;冷静に、私は、彼らの口論の不合理な性質、そして彼らの絶え間ない否定が私たちの計画にとっていかに破壊的であるかを説明しようとしている。 残念なことに、私の言葉では、説得できなかったようだ。 実際、私はそれをさらに悪化させたのかもしれない。 「聞き入れてくれますか、[arguer_1.GetFirstName]？あなたは、混乱を招いている」。[arguer_2.GetFirstName]は卑劣だ。 そして彼らは、再び口論を始めた...;;;;;;;;;;;;x
@@ -4876,8 +4876,8 @@ EVTDESC_MNM_1478_F;ついに発明が完成した！秘密のコードと共に�
 EVTOPTF_MNM_1478;これからはアイデアや発見をお互い安全に共有できるようになります。;;;;;;;;;;;;x
 EVTDESC_MNM_1478_G;我々の発明が完成した。それは武器ではなく身を守るためのものだ。鎖帷子の代わりになるもので、いくつかの大きな金属板で構成された鎧のセットだ。しかも、我々が辿り着いたこのデザインは非常に機動性が高い。;;;;;;;;;;;;x
 EVTOPTG_MNM_1478;Fear will never seep into my heart in battle again!;;;;;;;;;;;;x
-EVTDESC_MNM_1478_H;Many mills dot the landscape around [Root.Capital.Capital.GetName] and are vital for the production of food. It is always a good idea to improve on essential constructions, so during the last we weeks we have made several ingenious improvements to old designs. Our new mill is safer as well as more efficient than ever before!;;;;;;;;;;;;x
-EVTOPTH_MNM_1478;Our mill is a true contribution to society.;;;;;;;;;;;;x
+EVTDESC_MNM_1478_H;多くの風車が[Root.Capital.Capital.GetName]周辺に点在しており、それらは食料生産に不可欠だ。基本的な構造を改善することは常に良い考えであるので、過去数週間の間に、古い設計にいくつかの独創的な改善を施した。私たちの新しい風車は、以前よりも安全で効率的だ！;;;;;;;;;;;;x
+EVTOPTH_MNM_1478;私たちの風車は真に社会に貢献している。;;;;;;;;;;;;x
 EVTDESC_MNM_1478_I;For weeks we struggled to create a lens with new and revolutionary properties, and while we failed to achieve this goal, we came to another realization. What if we took a lens we already had, but changed how we used it, instead? Based on my reading stone, we came up with a new device, the 'spectacles'!;;;;;;;;;;;;x
 EVTOPTI_MNM_1478;Now I can bring good eyesight with me wherever I go!;;;;;;;;;;;;x
 EVTDESC_MNM_1479_A;We have had several ideas which were clever but impractical, and a heap more which were just ludicrous. The lack of progress has made everyone tired and irritable. Tonight, at dinner, I finally ended it. We all knew it was the right thing to do. Rest was something none of us had known in weeks, and our other obligations had gone unattended for too long.;;;;;;;;;;;;x
@@ -5129,7 +5129,7 @@ choose_hermetic_art;ヘルメスの学術を選択;;;;;;;;;;;;x
 choose_hermetic_art_desc;§Y[Root.Society.GetName]§!の3つの学術のうち1つに焦点を当てることを選択します。そうすることで、あなたの生活様式による特性を選択できるようになります。;;;;;;;;;;;;x
 choose_hermetic_art_power_desc;貴方のポートレートを§G右クリック§!して「ヘルメスの学術を選択」から3つの学術のうち1つを選択することで、あなたの生活様式を決定することができるようになる。;;;;;;;;;;;;x
 choose_hermetic_art_allow_tooltip;現時点でヘルメスの学術を選択できる\n;;;;;;;;;;;;x
-EVTDESC_MNM_1900;I have been with the Hermetics for some time and yet, I have not been able to contemplate enough on all of the three arts. If I were to focus on one of the arts I might further increase my understanding of it. But which art should I choose?;;;;;;;;;;;;x
+EVTDESC_MNM_1900;私はヘルメス教団にしばらくいるが、3つの叡智すべてについてしっかりと熟考できていない。一つの叡智に集中すればもっと理解が深まるかもしれない。しかしどの叡智を選ぶべきだろうか?;;;;;;;;;;;;x
 EVTOPTA_MNM_1900;占星術と星々についての研究。;;;;;;;;;;;;x
 EVTOPTB_MNM_1900;錬金術と精神的変容。;;;;;;;;;;;;x
 EVTOPTC_MNM_1900;神働術と神。;;;;;;;;;;;;x
@@ -5144,13 +5144,13 @@ EVTOPTA_MNM_1901;占星術についてより多くを学ぶべきだ。;;;;;;;;;
 EVTOPTB_MNM_1901;錬金術が優先事項となるだろう。;;;;;;;;;;;;x
 EVTOPTC_MNM_1901;神働術の技術は重要だ。;;;;;;;;;;;;x
 EVTOPTD_MNM_1901;私は現時点では今の技術を維持する。;;;;;;;;;;;;x
-EVTDESC_MNM_1902;There are many ways in how one may reveal the secrets behind the movement of stars and celestial bodies. I could set up the needed equipment to study them myself. Alternatively, I could look at the existing research of known authors and researchers.;;;;;;;;;;;;x
-EVTOPTA_MNM_1902;I have to see it for myself.;;;;;;;;;;;;x
-EVTOPTB_MNM_1902;Looking at the work of others is a good start.;;;;;;;;;;;;x
+EVTDESC_MNM_1902;星や天体の動きの秘密を明らかにする方法はたくさんある。必要な機材を用意して自分で研究することもできるし、あるいは、既知の著者や研究者の既存の研究を調べることもできる。あるいは、既知の著者や研究者の既存の研究を見ることもできる。;;;;;;;;;;;;x
+EVTOPTA_MNM_1902;それを自分で見つけないといけない。;;;;;;;;;;;;x
+EVTOPTB_MNM_1902;他人の研究を見ることは良い始め方だ。;;;;;;;;;;;;x
 CUSTOM_TOOLTIP_OWNS_OBSERVATORY_EQUIPMENT;Use your existing equipment.\n;;;;;;;;;;;;x
-CUSTOM_TOOLTIP_BUY_OBSERVATORY_EQUIPMENT;Purchase the necessary equipment.\n;;;;;;;;;;;;x
-EVTDESC_MNM_1903;Standing outside and gazing upon the night sky is invigorating! I have yet to fully grasp the secrets hidden from me. Knowing that I can find the meaning behind the stars, I refuse to give up.;;;;;;;;;;;;x
-EVTOPTA_MNM_1903;Time will tell if I am worthy.;;;;;;;;;;;;x
+CUSTOM_TOOLTIP_BUY_OBSERVATORY_EQUIPMENT;必要な設備を購入します。\n;;;;;;;;;;;;x
+EVTDESC_MNM_1903;外に立って夜空を眺めるのは爽快だ！私はまだ自分に隠された秘密を完全には理解していない。私は星々に隠れた意味があることを知っているから、あきらめたりしない。;;;;;;;;;;;;x
+EVTOPTA_MNM_1903;私に価値があるかどうかは時間が教えてくれる。;;;;;;;;;;;;x
 EVTDESC_MNM_1904;To master the art of alchemy is not an easy task. It may take years before I can make any notable progress. I must decide how best to pursue this knowledge.;;;;;;;;;;;;x
 EVTOPTA_MNM_1904;Learning by doing will lead the way.;;;;;;;;;;;;x
 EVTOPTB_MNM_1904;Careful studies and observation is key.;;;;;;;;;;;;x
@@ -5372,7 +5372,7 @@ EVTDESC_MNM_1626_TRUTH_BONUS;神の存在は、私に世界中の隠された秘
 EVTOPTA_MNM_1626;神の存在を完全に確信した！;;;;;;;;;;;;x
 EVTOPTB_MNM_1626;それはひらめきだ！;;;;;;;;;;;;x
 EVTOPTC_MNM_1626;ああ、恥辱だ！;;;;;;;;;;;;x
-hermetics_write_magnum_opus_power_desc;Enables §Gright-clicking§! on your own portrait in order to write an enciphered book of your knowledge. This is an artifact with potentially powerful bonuses, which only characters with high learning can decipher.;;;;;;;;;;;;x
+hermetics_write_magnum_opus_power_desc;自分のポートレートを§G右クリック§!することで、自分の知識を暗号化した書物を書くことができるようになります。これは強力なボーナスが発生する可能性のある宝物で、高い学習能力を持つキャラクターだけが解読することができます。;;;;;;;;;;;;x
 String_a_rather_simplistic;かなり単純な;;;;;;;;;;;;x
 String_an_entirely_average;平均的な;;;;;;;;;;;;x
 String_an_excellent;優れた;;;;;;;;;;;;x
@@ -5597,7 +5597,7 @@ known_secret_society_member;秘密結社の一員として知られている;;;;
 known_secret_society_member_desc;この人物は犯罪秘密結社と関わりがあることが知られています。;;;;;;;;;;;;x
 council_power_increased;評議会の権限が強化！;;;;;;;;;;;;x
 overthrow_text;継承法が変更された！;;;;;;;;;;;;x
-faction_powerful_vassal_takeover_desc;Members seek to remove §Y[From.Liege.GetBestName]§! from power and significantly increase the Council's power. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;x
+faction_powerful_vassal_takeover_desc;この派閥は§Y[From.Liege.GetBestName]§!の権限を削減し、議会権限を強化しようとしています。ひとたびこの派閥が強大になれば、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!へ最後通牒を突き付けるかもしれません。;;;;;;;;;;;;x
 EVTDESC8221;内戦でこの国がずたずたにされることを恐れた[From.GetTitledName]は領国のため退位を受け入れた。我々は新たな領主として[new_title_holder.GetFullName]を選んだ。今回の一件における貴殿の貴重な支援は、決して忘れぬ。\n\n（署名）\n[FromFrom.GetTitledName];;;;;;;;;;;;x
 EVTDESC8222;Under pressure from a powerful Faction, §Y[From.GetTitledName]§! has agreed to abdicate the throne. Hail the new ruler, §Y[new_title_holder.GetFullName]§!!;;;;;;;;;;;;x
 obedience_tooltip;下位のメンバーが、外交要求を受諾する可能性が高まる。;;;;;;;;;;;;x

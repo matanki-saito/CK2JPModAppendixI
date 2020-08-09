@@ -843,7 +843,7 @@ faction_increase_council_power_ultimatum;評議会の権限強化の要求;;;;;;
 faction_increase_council_power_ultimatum_desc;§Y[Root.Liege.GetBestName]§!に評議会の権限を強化するよう最後通牒を突きつけます。[Root.Liege.GetSubjectPronoun]がこれを拒絶した場合、自分の属する派閥が反乱軍として決起します。.;;;;;;;;;;;;x
 faction_increase_council_power_short;評議会の権限強化;;;;;;;;;;;;x
 faction_increase_council_power_title;[This.GetName]での評議会の権限強化;;;;;;;;;;;;x
-faction_increase_council_power_desc;メンバーは評議会によって行われる裁断の数を領主が単独で行うものより増やそうとします。一度派閥が十分に強大化すれば、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!に最後通牒を突きつける場合もあります。;;;;;;;;;;;;x
+faction_increase_council_power_desc;この派閥は評議会によって行われる採決の数を領主が単独で行うものより増やそうとします。ひとたびこの派閥が強大になれば、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!へ最後通牒を突き付けるかもしれません。;;;;;;;;;;;;x
 opinion_increased_council_power;評議会の権限が強化された;;;;;;;;;;;;x
 opinion_decreased_council_power;評議会の権限が削減された;;;;;;;;;;;;x
 opinion_likes_new_obligation_law;変更後の法的義務への好感;;;;;;;;;;;;x

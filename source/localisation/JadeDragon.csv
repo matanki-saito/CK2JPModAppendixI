@@ -840,7 +840,7 @@ school_zhengyi;正一教の信仰者;;;;;;;;;;;;x
 school_quanzhen;全真教の信仰者;;;;;;;;;;;;x
 school_shangqing;上清派の信仰者;;;;;;;;;;;;x
 choose_school_taoist;道教学校を選択;;;;;;;;;;;;x
-RENEGOTIATED_NAP;Renegotiated Non-Aggression Pact through: ;;;;;;;;;;;;x
+RENEGOTIATED_NAP;不可侵協定は以下によって再交渉されました:;;;;;;;;;;;;x
 EVTTITLE_ADV_4;州の売却;;;;;;;;;;;;x
 society_influence_desc;これは現在の$SOCIETY|Y$の§Y影響力§!です。;;;;;;;;;;;;x
 EVTDESC_ADV_5_B;To the clever [Root.GetTitledFirstName],\nI have considered your offer together with my closest advisors, and I am afraid to say I cannot accept these terms. [selling_province.GetName] is a fine county, but I think you will agree that the benefits of granting it to me peacefully far outweigh the sum of gold you request.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
@@ -1666,7 +1666,7 @@ LOOT_PROVINCE_DESC;§Y州の財産§!\n税率修正: $PERC$\n要塞化レベル�
 COUNTY_LOOT_DESC;§Lこの値は、住民が所有する略奪可能な財産を表しています。敵軍はこの値を減らし、州が回復するまで税収が下がります。§!;;;;;;;;;;;;x
 TAX_VALUE;§Y税額§!;;;;;;;;;;;;x
 TOGGLE_LOOTER_FAIL_AT_WAR;部隊の所有者は戦争中ではない;;;;;;;;;;;;x
-ZEUS_EDUCATOR_DESC;The Educator acts as a teacher and mentor to children. By default, rulers act as Educators to all children at court. However, if there is a Teacher (Honorary Title) assigned, the Teacher will be the default Educator instead. You can also assign a specific character as the Guardian of a child. If a Guardian is assigned, the child goes to live in the same court as the Guardian, and it's not possible to declare war on someone who has a close relative child in their court.;;;;;;;;;;;;x
+ZEUS_EDUCATOR_DESC;教育者は教師として、また子供たちの助言者としての役割を果たします。基本的に、君主が宮廷の子供すべての教育者になります。ただし、宮廷教師(名誉称号)が割り当てられている場合、その教師が教育者になります。また、特定の人物を後見人として割り当てることもできます。後見人が選任された場合、その子は後見人と同じ宮廷に住むことになり、その宮廷に近親者がいる人に宣戦布告することはできません。;;;;;;;;;;;;x
 china_open;開国;;;;;;;;;;;;x
 china_open_desc;現在、中国は貿易を開放しており、影響力の範囲内で友人や朝貢国を獲得することに関心を持っています。;;;;;;;;;;;;x
 china_isolationist;孤立主義;;;;;;;;;;;;x
@@ -1692,7 +1692,7 @@ String_Iso_Calligraphy;practice the art of calligraphy;;;;;;;;;;;;x
 String_Iso_I_Ching;易経の秘儀によって天命を占う;;;;;;;;;;;;x
 String_Iso_Great_Wall;長城を拡張;;;;;;;;;;;;x
 String_Militant_Monks;好戦的な僧侶;;;;;;;;;;;;x
-String_Rogue_Mandarins;a group of rogue 'gentleman scholars';;;;;;;;;;;;x
+String_Rogue_Mandarins;悪党集団「紳士学者」;;;;;;;;;;;;x
 String_Ambitious_Eunuchs;野心的な宦官;;;;;;;;;;;;x
 String_Disgruntled_Officers;不満を抱いた陸軍将校;;;;;;;;;;;;x
 String_Luoyang;洛陽;;;;;;;;;;;;x
@@ -1758,7 +1758,7 @@ pet_hedgehog_desc;この人物は家でハリネズミを飼っていて、お�
 pet_otter;Sag-e Aabi Guardian;;;;;;;;;;;;x
 pet_otter_desc;この人物は領国に平穏をもたらしているカワウソの守護者です。;;;;;;;;;;;;x
 confucian_bureaucracy_desc;儒教の官僚は支配者を選出するために厳密に定められた一連の判定基準である科挙に頼っています。儒教の古典についての知識が問われますが、そうはいっても功績、過去の業績や有名な貴族からの推薦も選考過程で重要な役割を果たします。支配者は非常に熟練した家令になる傾向があります。;;;;;;;;;;;;x
-silk_road_province_desc;§Yシルクロード交易所§!は§Yシルクロード§!沿いの州でのみ建設できます。\n 有効な州を表示するには、§Y交易圏マップモード§!を開く;;;;;;;;;;;;x
+silk_road_province_desc;§Yシルクロード交易所§!は§Yシルクロード§!沿いの一部の州でのみ建設できます。\n 有効な州を表示するには、§Y交易圏マップモード§!を開く;;;;;;;;;;;;x
 GOD_KHURMAZTA;フルムズド;;;;;;;;;;;;x
 trade_offices_1;初歩的な貿易事務所;;;;;;;;;;;;x
 trade_offices_2;貿易事務所;;;;;;;;;;;;x
@@ -4185,7 +4185,7 @@ EVTDESC_JD_10070_C;My scribes have finished the book! I shall call it [new_book.
 EVTOPTA_JD_10070_A;ちょっと脇道にそれてしまった...;;;;;;;;;;;;x
 EVTOPTA_JD_10070_B;ひらめいたぞ...！;;;;;;;;;;;;x
 EVTOPTA_JD_10070_C;努力した甲斐があったというものだ。;;;;;;;;;;;;x
-EVTOPTA_JD_10070_lunatic;Yet, perhaps I should have dedicated it to the demons in my head...?;;;;;;;;;;;;x
+EVTOPTA_JD_10070_lunatic;それでもまだ、頭の中の悪魔に捧げるべきだったのかもしれない……？;;;;;;;;;;;;x
 EVTOPTA_JD_10070_dying;I am just glad we finished it before I left this earthly realm.;;;;;;;;;;;;x
 EVTOPTA_JD_10070_great_poet;Perhaps I have found my calling?;;;;;;;;;;;;x
 String_most_of_my_spare_time;空き時間をほとんど;;;;;;;;;;;;x
@@ -4219,7 +4219,7 @@ a_history_of_armor;鎧の歴史;;;;;;;;;;;;x
 a_history_of_armor_desc;An in-depth accounting of contemporary armor types and best practices.;;;;;;;;;;;;x
 the_life_of_root;[From.OriginalOwner.GetBestName]の人生;;;;;;;;;;;;x
 the_life_of_root_desc;Drawing upon [From.OriginalOwner.GetHerHis] own experiences within the military, this is mostly a recounting of various battles.;;;;;;;;;;;;x
-the_life_of_root_desc_rename;Drawing upon [Root.GetHerHis] own experiences within the military, this is mostly a recounting of various battles in [Root.PrimaryTitle.GetName].;;;;;;;;;;;;x
+the_life_of_root_desc_rename;[Root.GetHerHis]の軍人としての経験をもとにしており、[Root.PrimaryTitle.GetName]でのさまざまな戦いの記録がほとんどである。;;;;;;;;;;;;x
 my_fechtbuch;武術書;;;;;;;;;;;;x
 my_fechtbuch_rename;[Root.GetFirstName]の武術書;;;;;;;;;;;;x
 my_fechtbuch_desc;Composed by [Root.GetBestName] as an instruction manual for close combat fighting, this book is a reliable source of information for anybody interested in the fighting style of a [From.OriginalOwner.Culture.GetName] duelist.;;;;;;;;;;;;x

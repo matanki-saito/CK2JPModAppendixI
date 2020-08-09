@@ -208,7 +208,7 @@ commit_suicide_immortal_desc;初めは、永遠の命というものは甘い夢
 attempting_suicide_tooltip;最近、自殺を試みていない。;;;;;;;;;;;;x
 EVTDESC_RIP_30200_A;永遠の命は嘆きと悲しみしかもたらさなかった。周囲の人も物も、みな老い朽ちてゆき、あなただけが変わらずにいる。かわり映えのしない、退屈な日々だ。あなたはもう終わりにしようと決意した……そうできるならば。;;;;;;;;;;;;x
 EVTDESC_RIP_30200_B;あなたはよくやった、本当に、本当にだ。しかし果てしなく続く退屈な日々が、それ以上に長く空っぽの夜が、あなたを打ち負かした。愛をささやける人もいないし、日々を輝かせる友達もいないし、より良い明日の夢をもたらす子どももいない... 人生は、もはや生きるに値しない。;;;;;;;;;;;;x
-EVTDESC_RIP_30200_C;You tried. You really, really did, but dark thoughts creep uninvited into your mind none the less. You know that you are not alone, although it sure feels that way. Being surrounded by people who do not see, cannot understand… some days that is worse than total isolation.;;;;;;;;;;;;x
+EVTDESC_RIP_30200_C;あなたはよくやった。本当に、本当にだ。しかし、それにも関わらず暗い考えがあなたの心の中に忍び込んだ。あなたは自分が一人ではないことを知っているのに、確かにそう感じる。あなたをわかろうとしないし、理解も出来ない人に囲まれて...それは完全に孤立するよりもっとひどい。;;;;;;;;;;;;x
 EVTOPTA_RIP_30200;決闘で最期を遂げよう。;;;;;;;;;;;;x
 EVTOPTA_RIP_30200_TOOLTIP;貴方のライバルである§Y[suicide_duel_target.GetTitledFirstName]§!に決闘を申し込みます。;;;;;;;;;;;;x
 EVTOPTB_RIP_30200;毒は私に甘美な忘却を与えてくれる;;;;;;;;;;;;x

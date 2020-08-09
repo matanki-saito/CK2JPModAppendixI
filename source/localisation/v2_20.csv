@@ -720,7 +720,7 @@ LIEGE_LEVY_DESC_LAWS;   法律：$VALUE$;;;;;;;;;;;;x
 LIEGE_LEVY_DESC_VL;\n 封臣制限の超過: $VALUE$;;;;;;;;;;;;x
 OVER_VASSAL_LIMIT;封臣限界超過;;;;;;;;;;;;x
 CHARACTER_HAS_CLAIMS;この人物は以下の称号への請求権を持っています;;;;;;;;;;;;x
-EVTDESC_108020;I've been given a title by my liege to hand out.;;;;;;;;;;;;x
+EVTDESC_108020;我が主から管理する称号を与えられた。;;;;;;;;;;;;x
 EVTOPTA_108020;称号を第一候補に与える;;;;;;;;;;;;x
 EVTOPTB_108020;称号を第二候補に与える;;;;;;;;;;;;x
 EVTOPTC_108020;称号を第三候補に与える;;;;;;;;;;;;x
@@ -1068,7 +1068,7 @@ CB_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;部族組織法の権力低下;;;;;;;;;;;;
 WAR_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;部族組織法の低下を巡る$ORDER$$SECOND_ADJ$内戦;;;;;;;;;;;;x
 faction_lower_tribal_organization_short;部族組織法の権力低下;;;;;;;;;;;;x
 faction_lower_tribal_organization_title;[This.GetName]における部族組織法の権力低下;;;;;;;;;;;;x
-faction_lower_tribal_organization_desc;Members seek to lower the Tribal Organization in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;x
+faction_lower_tribal_organization_desc;この派閥は[This.GetName]の部族組織を弱めようとしています。充分に強力な場合、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!へ最後通牒を突き付けるかもしれません。;;;;;;;;;;;;x
 faction_lower_tribal_organization_ultimatum;部族組織法の権力低下を要求;;;;;;;;;;;;x
 faction_lower_tribal_organization_ultimatum_desc;Present an ultimatum to §Y[Root.Liege.GetBestName]§!, demanding lower Tribal Organization. If [Root.Liege.GetSubjectPronoun] refuses to comply, your Faction will rise in revolt.;;;;;;;;;;;;x
 opinion_increased_tribal_organization;増大した部族組織法;;;;;;;;;;;;x

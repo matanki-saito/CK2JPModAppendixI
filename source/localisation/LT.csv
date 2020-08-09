@@ -844,8 +844,8 @@ String_golden;黄金の;;;;;;;;;;;;x
 String_special_wonder_name;[GetSpecialWonderName];;;;;;;;;;;;x
 String_citadel;要塞;;;;;;;;;;;;x
 String_Citadel;要塞;;;;;;;;;;;;x
-String_iron;鉄の;;;;;;;;;;;;x
-String_Iron;鉄の;;;;;;;;;;;;x
+String_iron;鉄;;;;;;;;;;;;x
+String_Iron;鉄;;;;;;;;;;;;x
 String_towering;聳え立つ;;;;;;;;;;;;x
 String_Towering;聳え立つ;;;;;;;;;;;;x
 String_the_evil_god_names_workshop;[Root.Religion.GetRandomEvilGodNameCap]の工房;;;;;;;;;;;;x

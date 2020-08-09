@@ -662,7 +662,7 @@ TECH_GROWTH_PROG_NOMAD_CAPITAL_LOG;$NAME$での$TECH$が§Y$PROG$§!へ発展し
 RULER_CANNOT_MOVE_CAPITAL_AT_WAR;首都は平時のみ移動できます。;;;;;;;;;;;;x
 faction_overthrow;ハンを打倒;;;;;;;;;;;;x
 faction_overthrow_title;ハンを打倒;;;;;;;;;;;;x
-faction_overthrow_desc;Members desire §Y[From.GetBestName]§! as the new leader for the §Y[This.GetFullName]§!. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!;;;;;;;;;;;;x
+faction_overthrow_desc;この派閥は§Y[From.GetBestName]§!が§Y[This.GetFullName]§!の新しい指導者となることをを望んでいる。充分に強力な場合、§Y[From.GetBestName]§!は§Y[From.Liege.GetBestName]§!へ最後通牒を突き付けるかもしれません。;;;;;;;;;;;;x
 WAR_NAME_INSTALLKHAN;$ATTACKER$を$SECOND$のハンに擁立する戦争;;;;;;;;;;;;x
 EVTDESC8210;You have shown yourself weak and I speak for all the clans when I say that it is time for you to hand over the bridle to someone more worthy.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESC8211;The weak Khan has agreed to our demands and have to surrender himself to us.;;;;;;;;;;;;x

@@ -183,7 +183,7 @@ destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIng
 ingredient_option_available_tt;この選択は宝物庫に§Y原料§!があるため利用できます。\n \n;;;;;;;;;;;;x
 multiple_ingredient_option_available_tt;この選択は宝物庫に複数の§Y原料§!があるため利用できます。\n \n;;;;;;;;;;;;x
 EVTDESC_MNM_1200_B;自らの前にボウルを置き、湛えた水がぴたりと凪ぐまで待った。整っていく揺らめきが、バラバラだった思考を一つに集約させていく。―その一方で、見えざる何かを作り出そうと、錬金術用の棚から色々取り出していた…すると、水面のきらめきがさざ波立つ。私は、一つ、深く息をついた。;;;;;;;;;;;;x
-EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName] – when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;;;x
+EVTDESC_MNM_5208;[fellow_member_target.GetTitledFirstName]の言葉には、何か腹立たしいほど偉そうなものがあるーいつから[fellow_member_target.GetSheHe]は[Root.GetHermeticDebateSubject]の専門家になったのだろう。\nため息をつきながら、ポケットの中の小瓶に手を近づける。;;;;;;;;;;;;x
 EVTOPTC_MNM_5211;なんとかして気持ちを落ち着け、集中を取り戻さねば！;;;;;;;;;;;;x
 EVTOPTA_MNM_1622_use_ingredients;それなら私が良いものを持っている！;;;;;;;;;;;;x
 EVTOPTC_MNM_1842_herb;落ち着つくのだ、我が子よ。ちょっとだけ[GetSelectedIngredient_1]を淹れてあげよう。;;;;;;;;;;;;x
@@ -265,17 +265,17 @@ EVTOPTA_MNM_5115_powder;[GetSelectedIngredient_1]の薄片少々でなんとか�
 EVTOPTA_MNM_5115_liquid;A little [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;x
 EVTOPTB_MNM_5115_herb;すり潰した[GetSelectedIngredient_2]の香りは格別なものだ。;;;;;;;;;;;;x
 EVTOPTB_MNM_5115_animal_part;干した[GetSelectedIngredient_2]の後味のなんと強烈なことか。;;;;;;;;;;;;x
-EVTOPTB_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] should do the trick!;;;;;;;;;;;;x
+EVTOPTB_MNM_5115_powder;[GetSelectedIngredient_2]を振りかけると効果的だ！;;;;;;;;;;;;x
 EVTOPTB_MNM_5115_liquid;数滴の[GetSelectedIngredient_2]こそがおそらく最良の選択であろう。;;;;;;;;;;;;x
-EVTOPTC_MNM_5115_herb;A single dose of crushed [GetSelectedIngredient_2] should be adequate.;;;;;;;;;;;;x
+EVTOPTC_MNM_5115_herb;砕いた[GetSelectedIngredient_2]は１回の服用で十分。;;;;;;;;;;;;x
 EVTOPTC_MNM_5115_animal_part;A moderate amount of ground [GetSelectedIngredient_2] should suffice.;;;;;;;;;;;;x
 EVTOPTC_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] is just what I need.;;;;;;;;;;;;x
 EVTOPTC_MNM_5115_liquid;A splash of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;;x
 EVTOPTD_MNM_5115;いっそふたつとも混ぜてしまおう！;;;;;;;;;;;;x
-EVTOPTD_MNM_5115_duplicate;I could also use twice as much...!;;;;;;;;;;;;x
+EVTOPTD_MNM_5115_duplicate;倍プッシュだ…！;;;;;;;;;;;;x
 EVTOPTE_MNM_5115;実を言うと、棚を空っぽにしたかったんだ。全部ぶち込んでしまえ！;;;;;;;;;;;;x
 EVTOPTE_MNM_5115_tt;Desperate times call for desperate measures.\n;;;;;;;;;;;;x
-must_not_already_be_preparing_potion_tt;NOT already preparing a potion;;;;;;;;;;;;x
+must_not_already_be_preparing_potion_tt;霊薬の準備はない;;;;;;;;;;;;x
 EVTDESC_MNM_4950;[From.GetTitledFirstName]としばらく語り合ってから、[From.GetHerHim]をその罪業から救い出す霊的指導を行った。;;;;;;;;;;;;x
 EVTDESC_MNM_4951;[FromFrom.GetTitledFirstName]としばらく語り合ったのち、私は自分の過ちに気づき、その業から解放された。;;;;;;;;;;;;x
 EVTDESC_MNM_4960;[From.GetTitledFirstName]に徳を高める方法を説くと、[From.GetHerHim]は私の説明に注意深く耳を傾け、その議論を通じてより善い[From.GetManWoman]になったようだ。;;;;;;;;;;;;x

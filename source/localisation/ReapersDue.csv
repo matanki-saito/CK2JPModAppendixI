@@ -2380,7 +2380,7 @@ EVTOPTD_RIP_29001_TOOLTIP;この苦しみに終止符を打ちます\n;;;;;;;;;;
 EVTDSC_RIP_29002;私は亡くなった[rip_dead.GetHusbandWife]の[rip_dead.GetTitledFirstName]の墓地に座っていった。静寂の中、生と死について問い続けていると、ある扉が軋みはじめた。見上げると、人々が私の[rip_dead.GetHusbandWife]の淫売相手だと噂した[From.GetTitledFirstName]が目に入った!!;;;;;;;;;;;;x
 EVTOPTA_RIP_29002;誰かを失ったのは私だけではない。[From.GetHerHim]と一緒に追悼しよう。;;;;;;;;;;;;x
 EVTOPTB_RIP_29002;どの面さげてここに来た、この[GetRootFromInsult]が!!;;;;;;;;;;;;x
-EVTDSC_RIP_29003;確信はなかったが[rip_dead.GetFirstName]の墓前では孤独になれると期待していた。 しかしそれは間違いであった!![rip_dead.GetHerHis]の昔の[rip_widow.GetHusbandWife]であった[rip_widow.GetTitledFirstName]に出会ってしまった。 私は[rip_widow.GetSheHe]が一般人であったと考えていたが、[rip_widow.GetSheHe]は耳を妻ぐような大声で怒鳴りだし、[rip_dead.Religion.GetPriestTitle]が[rip_widow.GetHerHim]を落ち着かせなければならなかったほどだ!!;;;;;;;;;;;;x
+EVTDSC_RIP_29003;確信はなかったが[rip_dead.GetFirstName]の墓前では孤独になれると期待していた。 しかしそれは間違いであった!残念ながら[rip_dead.GetHerHis]の昔の[rip_widow.GetHusbandWife]、[rip_widow.GetTitledFirstName]に出会ってしまった。 [rip_widow.GetSheHe]には大人の振る舞いを望んでいたが、その裏腹に[rip_widow.GetSheHe]は感情をあらわに大音量で金切り声を上げ、[rip_dead.Religion.GetPriestTitle]が[rip_widow.GetHerHim]を落ち着かせなければならなかったほどだ!!;;;;;;;;;;;;x
 EVTOPTA_RIP_29003;この[GetRootFromInsult]は常識をわかってない!!;;;;;;;;;;;;x
 EVTDSC_RIP_29004;[Root.Religion.GetHighGodName]の偉大なる慈悲により、私が到着した際[rip_dead.GetFirstName]の墓前には他に訪問者がいなかった。 私は[rip_dead.GetHerHis]の冷たい体が眠るその庭で数時間を過ごし、人生と愛の脆さについて熟考した。 私が部屋に帰るとまるで[rip_dead.GetFirstName]からのメッセージのような、[rip_dead.GetHerHis]の幸運のお守りを見つけたのだった!!;;;;;;;;;;;;x
 EVTOPTA_RIP_29004;私が死ぬその日まで大切にしよう!!;;;;;;;;;;;;x
@@ -2886,7 +2886,7 @@ EVTOPTB_RIP_30003;私にはそれを支払う余裕がない...;;;;;;;;;;;;x
 EVTDESC_RIP_30004;To my vassal, [Root.GetTitledFirstName].\n\nI am willing to compensate you for your lost prestige in your acceptance of a white peace with [target_defender.GetTitledName]. I am pleased the affair is ended.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30005;To my vassal, [Root.GetTitledFirstName].\n\nAlthough I understand you want compensation for your acceptance of a white peace in your war against with [target_defender.GetTitledName], I cannot afford the sum you requested. Good luck on the battlefield!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30005;I will win anyway!;;;;;;;;;;;;x
-EVTDESC_RIP_30006;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nWhile it grieves me deeply, I simply cannot end my war with [target_defender.GetTitledName] at this time. The die has been cast.\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_30006;[GetFromRootCompliment]、[Root.GetTitledFirstName]へ。\n\n私は深い悲しみに打ちひしがれていますが、今回は[target_defender.GetTitledName]との戦争を終わらせることは単純にできません。賽は投げられたのです。\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30006;不幸な...;;;;;;;;;;;;x
 EVTOPTA_RIP_30006_TRAITOR;我が国ではこれは反逆罪だ！;;;;;;;;;;;;x
 EVTDESC_RIP_30007;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am willing to end my war against [target_defender.GetTitledName]. However, the affair has been costly and I would lose face, so you would owe me a comparable Favor...\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
