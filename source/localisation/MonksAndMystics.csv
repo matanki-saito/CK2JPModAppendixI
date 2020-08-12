@@ -2465,7 +2465,7 @@ EVTDESC_MNM_3405_B;夕食時に[From.GetTitledFirstName]の隣の席になった
 EVTDESC_MNM_3405_C;I am sat next to [From.GetTitledFirstName] at a dinner when [From.GetSheHe] tells about a family of [From.GetTrueReligionGroupPersons] which was attacked in [From.GetHerHis] capital, [From.Capital.GetName]. 'I wish they had been left alone – their business was a vital cog in the local economy and a great source of taxes,' [From.GetFirstName] sighs.;;;;;;;;;;;;x
 EVTDESC_MNM_3405_D;夕食で[From.GetTitledFirstName]の隣の席になったとき、[From.GetSheHe]は首都[From.Capital.GetName]で襲われた[From.GetTrueReligionGroupPersons]の家族の話をしてくれた。「人々が迫害され傷つけられたとしても、私が怒ることはありません。それは純粋に彼らの信仰の為です！」そう、[From.GetFirstName]は叫んだ。;;;;;;;;;;;;x
 EVTOPTA_MNM_3405;なんと理不尽な暴力だ！私の心はずきずきと痛んだ。;;;;;;;;;;;;x
-EVTOPTB_MNM_3405;彼らは[From.GetTrueReligionGroupPersons]であるが故に自らに責任があると考えている！;;;;;;;;;;;;x
+EVTOPTB_MNM_3405;彼らは[From.GetTrueReligionGroupPersons]で、それは因果応報だ！;;;;;;;;;;;;x
 EVTDESC_MNM_3406;[From.GetTitledFirstName] was visibly moved by the story about the poor family. After our conversation, [From.GetSheHe] became very quiet and only responded in short, half-hearted sentences when spoken to. Just before our departure, [From.GetFirstName] pulled me aside and thanked me for opening [From.GetHerHis] eyes.;;;;;;;;;;;;x
 EVTOPTA_MNM_3406;I knew we would find an ally in [From.GetFirstName]!;;;;;;;;;;;;x
 EVTDESC_MNM_3407;[From.GetTitledFirstName] only scoffed at my story and haughtily claimed that the family, as 'a bunch of filthy heathens', only had themselves to blame. Then [From.GetSheHe] turned to the [From.GetManWomanOpp] on [From.GetHerHis] other side and proceeded to ignore me for the rest of the evening.;;;;;;;;;;;;x
@@ -3152,7 +3152,7 @@ EVTOPTA_MNM_20034_POSSESS;The laughter... it's in my head now!;;;;;;;;;;;;x
 EVTOPTA_MNM_20034_RIVALRY;全て[From.GetFirstName]のせいだ！;;;;;;;;;;;;x
 EVTDESC_MNM_20035;While enjoying a quiet snack in my study, I suddenly felt an irresistible urge to jump out the window. Just like in a dream, I walked over and did it.;;;;;;;;;;;;x
 EVTOPTA_MNM_20035;AAAAaahh...;;;;;;;;;;;;x
-EVTDESC_MNM_20043;私の[Root.GetDWBrethrenType]の[FromFrom.GetSisterBrother]、[FromFrom.GetBestNameWithoutRegnalNumber]は、[From.GetName]で行う悪戯のため、[FromFrom.GetObjectPronoun]に参加してほしいと言った。そこには、いずれ我々に害をなす[From.Religion.GetPriestTitle]と、恐らくウィッチハンターがいる。傲慢な愚か者に、マナーを教えてやる時間だ...;;;;;;;;;;;;x
+EVTDESC_MNM_20043;私の[Root.GetDWBrethrenType]の[FromFrom.GetSisterBrother]、[FromFrom.GetBestNameWithoutRegnalNumber]は、[From.GetName]で行う悪戯のため、一緒に参加してほしいと言った。そこには、いずれ我々に害をなす[From.Religion.GetPriestTitle]と、恐らくウィッチハンターがいる。傲慢な愚か者に、マナーを教えてやる時間だ...;;;;;;;;;;;;x
 EVTDESC_MNM_20043_COURT;My [GetFromFromRelation], [FromFrom.GetFirstName], wants me to join [FromFrom.GetObjectPronoun] for a lark over in [From.GetName]. There is a turbulent [From.Religion.GetPriestTitle] there who has been antagonizing [Root.Society.GetName] for quite some time. It is time to teach the arrogant fool a lesson in manners...;;;;;;;;;;;;x
 EVTOPTA_MNM_20043;私の演技力を見せる時が来たか！;;;;;;;;;;;;x
 EVT_TT_20044;私の領地の外であれば、安心して騒動を起こすことができるな！;;;;;;;;;;;;x

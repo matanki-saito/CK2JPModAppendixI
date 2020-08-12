@@ -3854,7 +3854,7 @@ bon_reformed;ボン宗教;;;;;;;;;;;;x
 bon_reformed_DESC;改革されたボン宗教は、仏教の要素のいくつかを完全に取り込み、その一方でシャーマニズムとア二ミズムの神々にその崇拝者を詳細な聖典一式に記しました。;;;;;;;;;;;;x
 hellenic_pagan_reformed;古代ギリシャ宗教;;;;;;;;;;;;x
 hellenic_pagan_reformed_DESC;古代ギリシャ宗教は[GetZeusJupiterName]、[GetAresMarsName]、[GetHestiaVestaName]、[GetHermesMercuryName]、[GetAphroditeVenusName]、[GetAthenaMinervaName]といった有名な12神を含む多数の神々を奉じた多神教です。キリスト教によってほとんど全滅させられましたが復活。攻撃的な若い宗教と戦うため、新しい改革者によって完璧に改造されました。;;;;;;;;;;;;x
-REFORMATION_DESCRIPTION;我々の信仰の形を永遠に再形成するまたとない機会を得ました。我々の宗教の新たな教義が確立されれば、変更が不可能なものとなるので、着手する方針に細心の注意を払う必要があります。あらゆる種類の神学問題を議論して、古き口伝の伝承を完璧で緻密な物語に再構築するために多くの見識ある司祭や学者が宮廷に集まっています。\nだが、新しい宗教の性質、教義、指導権に対して自分の意見があるならば、この改革を可能にしたものは公正でなければならない。;;;;;;;;;;;;x
+REFORMATION_DESCRIPTION;我々の信仰を永遠のものへと改革するまたとない機会を得ました。我々の宗教の新たな教義は一度確率すると変更できないので着手する際には細心の注意を払う必要があります。あらゆる種類の神学問題を議論して、古き口伝の伝承を完璧で緻密な物語に再構築するために多くの見識ある司祭や学者が宮廷に集まっています。\nしかし、この宗教改革を可能にしたのはあなたであるため、この新しい宗教の性質、教義、指導権にはあなた自身の意見を反映させなければなりません。;;;;;;;;;;;;x
 tooltip_religion_feature_pacifist;§G当主は戦争を始めたり、陰謀に加担したり、派閥に加入する可能性が低くなります§!;;;;;;;;;;;;x
 tooltip_religion_feature_no_crusade;§R大聖戦を起こせません§!;;;;;;;;;;;;x
 tooltip_religion_feature_no_looting;§R略奪行為はできません§!;;;;;;;;;;;;x
@@ -4431,8 +4431,8 @@ choose_military_aspect;軍事展望を選ぶ;;;;;;;;;;;;x
 choose_military_aspect_allow_tt;現在、軍事展望が選択されていない;;;;;;;;;;;;x
 choose_military_aspect_desc;As a member of §Y[From.Society.GetName]§!, you can choose to focus on a specific military aspect of a warrior's life. Doing so will allow you to choose a lifestyle trait.;;;;;;;;;;;;x
 does_not_have_a_lifestyle_trait_tt;Does NOT have a lifestyle trait;;;;;;;;;;;;x
-EVTDESC_HF_10020_duelist;Having learned what I can about one-on-one combat, swinging my [Root.GetDuelWeapon] being as easy as breathing, I have decided that it is time I focused on other pursuits common among [Root.Society.GetName].;;;;;;;;;;;;x
-EVTDESC_HF_10020_strategist;Having studied many a tome on the topic, as well as the practical application of it, I am already well-versed in strategic warfare... Perhaps it is time I focused on something else?;;;;;;;;;;;;x
+EVTDESC_HF_10020_duelist;一対一の戦いで、呼吸のように簡単に[Root.GetDuelWeapon]を振ることを学んできた私は、そろそろ[Root.Society.GetName]において普遍的に追求されている別のことに集中すべきだと決断した。;;;;;;;;;;;;x
+EVTDESC_HF_10020_strategist;このテーマについて多くの書物から学び、実用化してきた私は、すでに戦略に精通している...そろそろ何か他のことに集中すべき時なのだろうか?;;;;;;;;;;;;x
 EVTDESC_HF_10020_hunter;[Root.Capital.GetName]の壁を数え切れないほどの[Root.GetRegionalBigAnimal]殺しの戦利品で飾ったが、[Root.Society.GetName]の一員として他にふさわしい役目があるか考えるべきかもしれない。;;;;;;;;;;;;x
 EVTOPTA_HF_10020;個人戦闘力を重視する;;;;;;;;;;;;x
 EVTOPTB_HF_10020;戦略的思考をより深めたい。;;;;;;;;;;;;x
@@ -4496,7 +4496,7 @@ zun_leader;Scorcher;;;;;;;;;;;;x
 zun_leader_desc;This character works well with siege weapons and is fast on [GetHerHis] feet, easily traversing both mountain and desert.;;;;;;;;;;;;x
 bon_leader;Mountain Guardian;;;;;;;;;;;;x
 bon_leader_desc;This character can move hastily through the hills and plateaus of any mountain range. Especially when leading troops of light infantry.;;;;;;;;;;;;x
-hellenic_leader;Aeneator;;;;;;;;;;;;x
+hellenic_leader;アエネーター;;;;;;;;;;;;x
 hellenic_leader_desc;この人物は、戦いの中で歌を届け、[GetHerHis]の軍隊の士気の源となります;;;;;;;;;;;;x
 has_warrior_training_with_current_society_tt;Has gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;;x
 has_no_warrior_training_with_current_society_tt;[From.Society.GetName]の指揮官特性を保持していない\n;;;;;;;;;;;;x
@@ -4737,30 +4737,30 @@ slavic_pagan_opinion;[slavic_pagan.GetName]信者からの評価;;;;;;;;;;;;x
 slavic_pagan_reformed_opinion;改革[slavic_pagan_reformed.GetName]信者からの評価;;;;;;;;;;;;x
 croatian_opinion;[croatian.GetName]人からの評価;;;;;;;;;;;;x
 irish_opinion;[irish.GetName]人からの評価;;;;;;;;;;;;x
-viking_opinion_EXPLANATION; (effect on Viking);;;;;;;;;;;;x
-viking_opinion;Viking Opinion;;;;;;;;;;;;x
-ravager_opinion_EXPLANATION; (effect on Ravager);;;;;;;;;;;;x
-ravager_opinion;Ravager Opinion;;;;;;;;;;;;x
-seaking_opinion_EXPLANATION; (effect on Sea King);;;;;;;;;;;;x
-seaking_opinion;Sea King Opinion;;;;;;;;;;;;x
-sea_queen_opinion_EXPLANATION; (effect on Sea Queen);;;;;;;;;;;;x
-sea_queen_opinion;Sea Queen Opinion;;;;;;;;;;;;x
-bastard_opinion_EXPLANATION; (effect on Bastard);;;;;;;;;;;;x
-bastard_opinion;Bastard Opinion;;;;;;;;;;;;x
-legit_bastard_opinion_EXPLANATION; (effect on Legitimized Bastard);;;;;;;;;;;;x
-legit_bastard_opinion;Legitimized Bastard Opinion;;;;;;;;;;;;x
-brave_opinion_EXPLANATION; (effect on Brave);;;;;;;;;;;;x
+viking_opinion_EXPLANATION;(ヴァイキングの影響);;;;;;;;;;;;x
+viking_opinion;ヴァイキングの評価;;;;;;;;;;;;x
+ravager_opinion_EXPLANATION;(奪掠者の影響);;;;;;;;;;;;x
+ravager_opinion;奪掠者の評価;;;;;;;;;;;;x
+seaking_opinion_EXPLANATION;(海の王の影響);;;;;;;;;;;;x
+seaking_opinion;海の王の評価;;;;;;;;;;;;x
+sea_queen_opinion_EXPLANATION;(海の女王の影響);;;;;;;;;;;;x
+sea_queen_opinion;海の女王の評価;;;;;;;;;;;;x
+bastard_opinion_EXPLANATION;(非嫡出子の影響);;;;;;;;;;;;x
+bastard_opinion;非嫡出子の評価;;;;;;;;;;;;x
+legit_bastard_opinion_EXPLANATION;(準正嫡出子の影響);;;;;;;;;;;;x
+legit_bastard_opinion;準正嫡出子の評価;;;;;;;;;;;;x
+brave_opinion_EXPLANATION;(勇敢の影響);;;;;;;;;;;;x
 brave_opinion;勇敢からの評価;;;;;;;;;;;;x
-clubfooted_opinion_EXPLANATION; (effect on Clubfooted);;;;;;;;;;;;x
-clubfooted_opinion;Clubfooted Opinion;;;;;;;;;;;;x
-fair_opinion_EXPLANATION; (effect on Attractive);;;;;;;;;;;;x
+clubfooted_opinion_EXPLANATION;(内反足の影響);;;;;;;;;;;;x
+clubfooted_opinion;内反足の評価;;;;;;;;;;;;x
+fair_opinion_EXPLANATION;(端麗の影響);;;;;;;;;;;;x
 fair_opinion;端麗の評価;;;;;;;;;;;;x
-hunter_opinion_EXPLANATION; (effect on Hunter);;;;;;;;;;;;x
+hunter_opinion_EXPLANATION;(狩人の影響);;;;;;;;;;;;x
 hunter_opinion;狩人の評価;;;;;;;;;;;;x
-strategist_opinion_EXPLANATION; (effect on Strategist);;;;;;;;;;;;x
-strategist_opinion;Strategist Opinion;;;;;;;;;;;;x
-ambitious_opinion_EXPLANATION; (effect on Ambitious);;;;;;;;;;;;x
-ambitious_opinion;Ambitious Opinion;;;;;;;;;;;;x
+strategist_opinion_EXPLANATION;(戦略家の影響);;;;;;;;;;;;x
+strategist_opinion;戦略家の評価;;;;;;;;;;;;x
+ambitious_opinion_EXPLANATION;(野心的の影響);;;;;;;;;;;;x
+ambitious_opinion;野心的の評価;;;;;;;;;;;;x
 library;Library;;;;;;;;;;;;x
 alt_start_community_desc;Even under oppression the true faith lives on. As we worship in secret more and more join our cause, attracted by our righteous ways. Soon we will rise up and reclaim our place in the light!;;;;;;;;;;;;x
 alt_start_community_name_catholic;隠れ[catholic.GetName]信者;;;;;;;;;;;;x
@@ -7180,10 +7180,10 @@ EVTOPTA_HF_42028_GAME;It was a brutal close match. ;;;;;;;;;;;;x
 EVTOPTA_HF_42028_SOCIAL;[From.GetSheHe]が楽しんでくれればいいのだが。;;;;;;;;;;;;x
 EVTOPTA_HF_42028_SCHOLAR;この議論から多くのことを学んだ。;;;;;;;;;;;;x
 EVTOPTA_HF_42028_STEWARD;それは…よくないな、そうだろう？;;;;;;;;;;;;x
-EVTOPTA_HF_42028_TORTURE;Next time it will be even better.;;;;;;;;;;;;x
-EVTDESC_HF_42029_HUNT_SUCCESS;The beast fell to the ground from all the wounds, and all the retainers let out a loud cheer.;;;;;;;;;;;;x
-EVTDESC_HF_42029_HUNT_FAILURE;As we think the beast is finally about to give up, it suddenly ups and charges at [From.GetFirstName], and manage to flee. No matter how much our retainers look for it, they are unable to track it down.;;;;;;;;;;;;x
-EVTDESC_HF_42029_DUEL_SUCCESS;[From.GetFirstName] dodge several blows, before striking the last standing man several times. The two lumbering men give up, and our win is assured. ;;;;;;;;;;;;x
+EVTOPTA_HF_42028_TORTURE;次はもっと上手くやってやろう。;;;;;;;;;;;;x
+EVTDESC_HF_42029_HUNT_SUCCESS;獣は傷だらけで倒れこみ、家臣たち全員は大きな歓声をあげた。;;;;;;;;;;;;x
+EVTDESC_HF_42029_HUNT_FAILURE;獣はほとんど観念するところだったと皆が思ったが、思いがけないことに奴は突然[From.GetFirstName]に向かって突進して逃げようとした。どれだけ臣下たちを集めて奴を探しても、もはや見つけ出せない。;;;;;;;;;;;;x
+EVTDESC_HF_42029_DUEL_SUCCESS;[From.GetFirstName]は最後に立っている男に何度も攻撃を浴びせる前に、相手の攻撃を何度も避けきっていた。二人の男の動きはすっかり鈍くなり参ってしまっている。我々の勝利は確実だ。;;;;;;;;;;;;x
 EVTDESC_HF_42029_DUEL_FAILURE;After a long tiresome fight, [From.GetFirstName] and I finally have to admit defeat to the two men. We did our best, but was outdone by their strength and speed.;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_SUCCESS;After several hours, the last of our opponents' units finally fall. [From.GetFirstName] gives me a small nod of approval, as we sit back and enjoy our well fought victory. ;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_FAILURE;After several hours, the last of our units finally fall to our opponents. [From.GetFirstName] give me a small shrug, as we sit back and think about what we could have done to win. ;;;;;;;;;;;;x
@@ -7829,7 +7829,7 @@ d_myrmidons;ミュルミドーン;;;;;;;;;;;;x
 d_myrmidons_adj;ミュルミドーン;;;;;;;;;;;;x
 MEGASTRATEGOS;Megastrategos;;;;;;;;;;;;x
 MEGASTRATEGISSA;Megastrategissa;;;;;;;;;;;;x
-EVTDESCHF23120;生まれ変わった[leader_of_myrmidons.Religion.GetName]が新たな守護者を見つけた。取り囲む野蛮な異教徒と戦うために身を捧げ、古き神々の聖なる祭壇を守る熱狂的な戦士たちの一団であるミュルミドーンだ。\n彼らは敵に相対するとき、[leader_of_myrmidons.Religion.GetName]の領主全てに忠誠を誓います。最も敬虔な[leader_of_myrmidons.GetFirstName]という[leader_of_myrmidons.GetManWoman]が、彼らの生き方を守るために、この騎士団の統率を取ると誓っています。;;;;;;;;;;;;x
+EVTDESCHF23120;生まれ変わった[leader_of_myrmidons.Religion.GetName]が新たな守護者を見出した。国境を取り巻く野蛮な異教徒と戦うために身を捧げ、古き神々の聖なる祭壇を守る熱狂的な戦士たちの一団であるミュルミドーンだ。\n敵と相対するすべての[leader_of_myrmidons.Religion.GetName]の領主に忠誠を誓う。最も敬虔な[leader_of_myrmidons.GetFirstName]という[leader_of_myrmidons.GetManWoman]が、彼らの生き方を守るために、この騎士団を導くと誓っている。;;;;;;;;;;;;x
 create_myrmidons;ミュルミドーンの創設;;;;;;;;;;;;x
 create_myrmidons_desc;我らを取り巻く野蛮なる異教徒達から守るため、一つの旗の下に最も献身的な戦士たちを編成しなければならない。;;;;;;;;;;;;x
 create_myrmidons_tooltip;§Yミュルミドーン§!の宗教騎士団が結成される。;;;;;;;;;;;;x
@@ -8170,7 +8170,7 @@ crowned_by_bishop_rd_desc;この支配者は著名な聖職者から聖別を受
 crowned_by_pope_rd;教皇による戴冠;;;;;;;;;;;;x
 crowned_by_pope_rd_desc;この支配者は[GetChristName]教皇自らによって聖別された。\n[Root.GetHerHis]の神より授かった支配権は争う余地のない確たるものとなった。;;;;;;;;;;;;x
 EVTDESCHFB20300;今、私に戴冠する意思がある[Root.Religion.GetName]の司祭を見つけたので、式の準備にいくらほど支払うかを決めねばならない。;;;;;;;;;;;;x
-tooltip_EVTHF20356_A;All of your vassals' Opinion of you is lowered by §R-10§!.;;;;;;;;;;;;x
+tooltip_EVTHF20356_A;すべての家臣からの評価が§R-10§!減少する。;;;;;;;;;;;;x
 tooltip_religion_feature_no_matrimarriage;§R母系結婚は禁止される§!;;;;;;;;;;;;x
 inaccessible_tooltip;雲隠れ、隔離、旅行中、または重要な業務に従事していない\n;;;;;;;;;;;;x
 is_inaccessible_tooltip;雲隠れ、隔離、旅行中、または重要な業務に従事していない\n;;;;;;;;;;;;x
@@ -8195,7 +8195,7 @@ tooltip_roman_culture_spreads;§YRoman Culture§! will start spreading across yo
 tooltip_add_massive_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YDevotion§!.;;;;;;;;;;;;x
 tooltip_add_massive_hellenic_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YVirtue§!.;;;;;;;;;;;;x
 EVTOPTCHF23028;Of course they do!;;;;;;;;;;;;x
-hellenic_pagan_opinion;[hellenic_pagan.GetName] Opinion;;;;;;;;;;;;x
+hellenic_pagan_opinion;[hellenic_pagan.GetName]信者からの評価;;;;;;;;;;;;x
 bloodline_effect_roman_culture;§GConvert Counties§! to §GRoman§! Culture faster;;;;;;;;;;;;x
 roman_emperor_male;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 roman_emperor_female;[This.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
@@ -8233,7 +8233,7 @@ EVTOPTC50010;Let's try something more original this time...;;;;;;;;;;;;x
 EVTOPTD50010;Ugh, just throw them in the Brazen Bull...;;;;;;;;;;;;x
 EVTDESCHF24006;Foul rumors are spreading from Sicily. The once prosperous Mediterranean isle has been fallen into the hands of a cruel [From.GetManWoman], who claims to be a descendant of the [pagan_group.GetName] Tyrants of old. \n\nConsumed by paranoid delusions and sadistic fantasies, [From.GetSheHe] has killed hundreds of [From.GetHerHis] own subjects for the most trivial of slights. \nMost of [From.GetHerHis] victims have met their end in the fiery belly of [From.GetHerHis] brazen bull, symbol of [From.GetHerHis] degenerate dynasty.;;;;;;;;;;;;x
 EVTOPTAHF24006;How abhorrent!;;;;;;;;;;;;x
-roman_opinion;[roman.GetName] Opinion;;;;;;;;;;;;x
+roman_opinion;[roman.GetName]信者からの評価;;;;;;;;;;;;x
 bloodline_effect_teuta_ships;Will attract §YShips§! during times of war.;;;;;;;;;;;;x
 EVTTITLEHF24011;イリュリアの女王;;;;;;;;;;;;x
 EVTDESCAHF24011;My recent victory over the Roman armies of [defeated_emperor.GetTitledFirstName] has resonated across [Root.PrimaryTitle.GetName]. Despite all odds, I was able to lead my people against all the legions and the formidable power of the Imperial fleet, laying waste upon the decadent rule of House [defeated_emperor.GetOnlyDynastyName]. \nSuch was my triumph that the people have started to compare me to Teuta, an ancient [pagan_group.GetName] Queen who once stood against the ambitions of Rome, going even as far as to whisper that my prowess in this war is proof that I share some of my blood with her.;;;;;;;;;;;;x
@@ -12095,7 +12095,7 @@ quest_warrior_lodge_weak_focus_to_carousing_desc;戦いの時あれば祝いの�
 quest_warrior_lodge_weak_focus_to_carousing_tooltip;この任務を完了するには、「§Y大酒盛りの方針§!」を選択してください。;;;;;;;;;;;;x
 pirate;海賊;;;;;;;;;;;;x
 pirate_desc;This character has earned a reputation as a fearsome raider.;;;;;;;;;;;;x
-pirate_opinion;Pirate Opinion;;;;;;;;;;;;x
+pirate_opinion;海賊の評価;;;;;;;;;;;;x
 pirate_opinion_EXPLANATION;（海賊への影響）;;;;;;;;;;;;x
 ravager_desc;この人物は恐ろしい奪掠者として広く知られている。戦いを生き抜いた一握りの[Root.GetCulturalPirate]である。;;;;;;;;;;;;x
 tooltip_cultural_pirate_viking;ヴァイキング;;;;;;;;;;;;x
@@ -12136,12 +12136,12 @@ EVTDESCHF23209;[From.GetName]は馬と牛で埋め尽くされていた。どれ
 EVTOPTAHF23209;神々に捧げよう。燃やせ！;;;;;;;;;;;;x
 EVTOPTBHF23209;一番いいやつを貰おう。;;;;;;;;;;;;x
 EVTOPTCHF23209;私のとっておきの戦士たちと分け合おう。;;;;;;;;;;;;x
-EVTDESCHF23210;My raiders have stormed the walls of [From.GetName] and overwhelmed the local garrison. With the defenders dead or forced to retreat, we have gained free access to the entire coast of this province. The many riches of [From.Location.County.GetName] are ours for the taking!;;;;;;;;;;;;x
-EVTOPTAHF23210;Burn it all to the ground! Leave nothing but bones and ashes!;;;;;;;;;;;;x
-TOOLTIP_EVTOPTAHF230210;§Y[From.GetName]§! will be ravaged and several of its buildings will be permanently destroyed.;;;;;;;;;;;;x
-EVTOPTBHF23210;Search for anything of value, leave no stone unturned!;;;;;;;;;;;;x
-EVTOPTCHF23210;Let the peasants go! Let them spread the legend of [Root.GetFirstName]!;;;;;;;;;;;;x
-EVTOPTDHF23210;We are done here.;;;;;;;;;;;;x
+EVTDESCHF23210;我々襲撃部隊は[From.GetName]の城壁を急襲し、地元の守備隊を圧倒した。彼らは死んだか撤退をせざるをえなくなったので、この州区の海岸全体に自由に出入りできるようになった。[From.Location.County.GetName]にある多くの富は我々のものだ!;;;;;;;;;;;;x
+EVTOPTAHF23210;すべてを燃やしつくせ!骨と灰だけにな!;;;;;;;;;;;;x
+TOOLTIP_EVTOPTAHF230210;§Y[From.GetName]§!は壊滅的被害を受け、いくつかの建物は完膚無きまでに破壊されるだろう。;;;;;;;;;;;;x
+EVTOPTBHF23210;金目の物を草の根分けて探しつくせ!;;;;;;;;;;;;x
+EVTOPTCHF23210;農民を放て![Root.GetFirstName]伝説を広めさせるのだ!;;;;;;;;;;;;x
+EVTOPTDHF23210;ここではもうやりきった。;;;;;;;;;;;;x
 EVTDESCHF23211;The vile raider [From.GetTitledFirstName] has pillaged [FromFrom.GetName] to the ground. Many of his warriors, taken by greed and a bloodthirsty frenzy have destroyed several buildings and killed scores of people in their search for riches.;;;;;;;;;;;;x
 EVTOPTAHF23211;Curses upon them!;;;;;;;;;;;;x
 EVTTITLE23212;The Legend of [Root.GetFirstNameWithNick];;;;;;;;;;;;x
@@ -12224,7 +12224,7 @@ EVTOPTEHF23219;むやみにリスクを負う必要なし。待ちの一手。;;
 TOOLTIP_EVTOPTEHF23219;§Y[From.GetName]§!の包囲を続ける;;;;;;;;;;;;x
 EVTDESCAHF23220;陸からも海からも攻撃が来るので、[FromFrom.GetName]守備隊は我々の攻撃に注意を振り分けることができなかった。襲撃者たちは柵をすり抜け、撃退される前に彼らの多くを殺すことができた。;;;;;;;;;;;;x
 EVTOPTAHF23220;大勝利だ!;;;;;;;;;;;;x
-EVTDESCAHF23221;Unfortunately, dividing my men between land and sea proved to be a bad decision. The defenders of [FromFrom.GetName] were able to repel our assault before we could cause any significant damage.;;;;;;;;;;;;x
+EVTDESCAHF23221;残念ながら、陸と海に部隊を分けることは悪手であることが分かった。我々が大きな損害を与えるより先に、[FromFrom.GetName]の守備陣は我々を撃退することができた。;;;;;;;;;;;;x
 EVTOPTAHF23221;なんてことだ！;;;;;;;;;;;;x
 EVTDESCAHF23222;With just a few robes and some well-placed bribes, I was able to sneak inside [FromFrom.GetName] with a few veteran warriors. Now that the priests are busy tending to their rites, we have the perfect opportunity to raid this temple.;;;;;;;;;;;;x
 EVTOPTAHF23222;These relics look really shiny...;;;;;;;;;;;;x
@@ -12253,16 +12253,16 @@ haruspicy_very_good_omen;Favorable Stars;;;;;;;;;;;;x
 haruspicy_very_bad_omen;Apocalyptic Stars;;;;;;;;;;;;x
 haruspicy_tempted_faith;Religious Head died ominously;;;;;;;;;;;;x
 EVTTITLEAHF23400;星々の誤り;;;;;;;;;;;;x
-EVTDESCAHF23400;After having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have come to the conclusion that we are entering into a new prosperous age. \nThe skies are clear, the weather is stable, and the stars have aligned favorably, ensuring stability, abundance and overall good luck throughout the land.\nBeing the [Root.GetTitle], it is my duty to spread the good news to all the great [Root.Religion.GetName] rulers.;;;;;;;;;;;;x
-EVTDESCBHF23400;After having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have come to the conclusion that we are entering into a favorable period of our time. \nThe skies are clear, the weather is stable, no misalignment of the heavenly bodies threatens us with doom.\nBeing the [Root.GetTitle], it is my duty to communicate these good findings to all the notable [Root.Religion.GetName] rulers.;;;;;;;;;;;;x
+EVTDESCAHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、すべての偉大な[Root.Religion.GetName]の支配者に伝える義務がある。;;;;;;;;;;;;x
+EVTDESCBHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、すべての偉大な[Root.Religion.GetName]の支配者に伝える義務がある。;;;;;;;;;;;;x
 EVTDESCCHF23400;Despite having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have yet to come to a conclusion regarding the future of our world. \nThe omens have been ambiguous and contradictory at every turn, and none of us has been able to give a clear interpretation of the message hidden in the heavens above. \nBeing the [Root.GetTitle], it is my duty to warn the notable [Root.Religion.GetName] rulers that misfortune might be imminent.;;;;;;;;;;;;x
-EVTDESCDHF23400;After having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have come to the conclusion that we are facing the beginning of a dreadful time. \nThe signs are clear: comets have flashed through the sky, misaligning the stars into unfavorable patterns, there have been accounts of two-headed children being born and other such prodigious omens, all pointing at a terrible future.\nBeing the [Root.GetTitle], it is my duty to inform all the notable [Root.Religion.GetName] rulers of this news, so that they may take all the necessary precautions to protect their subjects.;;;;;;;;;;;;x
-EVTDESCEHF23400;After having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have come to the conclusion that the end times might be approaching. \nThe signs could not be clearer: long periods of sudden darkness have followed prodigious sightings of two-headed children and storms of fire. Rivers are drying up, crops are bleeding as clouds of blasphemous vermin encircle our lands, harbingers of our impending doom.\nBeing the [Root.GetTitle], it is my duty to inform all the notable [Root.Religion.GetName] rulers of this apocalyptic news, so that they may take all the necessary precautions to protect their subjects.;;;;;;;;;;;;x
+EVTDESCDHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は恐ろしい時代の始まりに直面しているという結論に達した。\nその兆候は明らかだ。彗星が空に光り、星の位置を好ましくない並びに変えてしまった。二つの頭を持つ子供が生まれたという話もあるうえ、ほかにもそういった不思議な兆しがあった。いずれも恐ろしい未来を指している。\n[Root.GetTitle]である以上、この凶兆をすべての著名な[Root.Religion.GetName]の支配者に知らせ、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
+EVTDESCEHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、私は終末期が近づいているかもしれないという結論に達した。\n両頭の子どもたちが目撃されたり、火の嵐に襲われたりした後、突然の暗闇が長く続いている。川は干上がり、作物は冒涜的な害虫の雲が我々の土地を取り囲み、作物は血を流している。これらは、差し迫った運命の前兆だ。\n[Root.GetTitle]である以上、この終末の前兆をすべての著名な[Root.Religion.GetName]の支配者に知らせ、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
 EVTOPTAHF23400;There must be a better interpretation to these signs...;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23400;Reinterpret the signs to cast a more positive light for the future of the §Y[Root.Religion.GetName]§! world.;;;;;;;;;;;;x
-EVTOPTBHF23400;Everybody must know.;;;;;;;;;;;;x
+EVTOPTBHF23400;全ての人が知るべきだ;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23400;Spread the news to all notable §Y[Root.Religion.GetName]§! rulers.;;;;;;;;;;;;x
-EVTOPTCHF23400;This is nothing but superstitious nonsense!;;;;;;;;;;;;x
+EVTOPTCHF23400;これは全く馬鹿げた迷信だ;;;;;;;;;;;;x
 TOOLTIP_EVTOPTCHF23400;自分の発見を隠して、誰にも見せないようにする。;;;;;;;;;;;;x
 EVTTITLEAHF23401;星々の誤り;;;;;;;;;;;;x
 EVTDESCAHF23401;We have just received news from [From.PrimaryTitle.GetName]. A most revered congregation of diviners under the leadership of our [From.GetTitle] have analyzed the stars and many prodigious heavenly sightings happening all over the world in the past months, and have reached the conclusion that a period of unbridled prosperity is upon us.\nThe skies are clear, the weather is stable, and the stars have aligned favorably, ensuring stability, abundance and overall good luck throughout the land.;;;;;;;;;;;;x
@@ -12353,11 +12353,11 @@ EVTDESCAHF23422;By taking the lead on my diviners rummaging through [FromFrom.Ge
 EVTOPTAHF23422;I am the chosen one!;;;;;;;;;;;;x
 religious_blood_haruspicy_sacrifice;運命の明快さ;;;;;;;;;;;;x
 religious_blood_haruspicy_sacrifice_desc;The divination of the entrails of [Root.GetHerHis] last enemy showed this ruler that the gods have chosen [Root.GetHerHim] to lead the [Root.Religion.GetName] faithful into a new age of prosperity and conquest.;;;;;;;;;;;;x
-bloodthirsty_gods_1;Haemophiliac;;;;;;;;;;;;x
+bloodthirsty_gods_1;鮮血狂愛家;;;;;;;;;;;;x
 bloodthirsty_gods_1_desc;This [Root.GetManWoman] has performed a notable amount of human sacrifices.;;;;;;;;;;;;x
-bloodthirsty_gods_2;Haemophant;;;;;;;;;;;;x
+bloodthirsty_gods_2;鮮血教皇;;;;;;;;;;;;x
 bloodthirsty_gods_2_desc;This [Root.GetManWoman] is renowned as a bloodthirsty fanatic, always looking for the next victim to sacrifice to [Root.GetHerHis] cruel gods.;;;;;;;;;;;;x
-bloodthirsty_gods_3;Haemoarch;;;;;;;;;;;;x
+bloodthirsty_gods_3;鮮血君主;;;;;;;;;;;;x
 bloodthirsty_gods_3_desc;This [Root.GetManWoman] has filled rivers with the blood of [Root.GetHerHis] victims and built mountains out of their skulls in [Root.GetHerHis] psychotic desire to please the cruel gods [Root.GetSheHe] worships.;;;;;;;;;;;;x
 bloodthirsty_male_bloodline;Bloodthirsty;;;;;;;;;;;;x
 bloodthirsty_male_bloodline_desc;[This.Founder.GetTitledFirstName] dedicated [This.Founder.GetHerHis] life to build an empire of blood and skulls in honor of [This.Founder.GetHerHis] fickle and cruel gods.;;;;;;;;;;;;x
@@ -12370,12 +12370,12 @@ bloodline_bloodthirsty_name_random_c;Scarlet Seeds of [Root.GetFirstName];;;;;;;
 bloodline_bloodthirsty_name_random_d;Red Reaper of [Root.Capital.GetName];;;;;;;;;;;;x
 bloodline_bloodthirsty_name_random_e;Soulflayers;;;;;;;;;;;;x
 bloodline_bloodthirsty_name_random_f;Dreaded;;;;;;;;;;;;x
-bloodthirsty_gods_1_opinion;Haemophiliac Opinion;;;;;;;;;;;;x
-bloodthirsty_gods_1_opinion_EXPLANATION; (effect on Haemophiliac);;;;;;;;;;;;x
-bloodthirsty_gods_2_opinion;Haemophant Opinion;;;;;;;;;;;;x
-bloodthirsty_gods_2_opinion_EXPLANATION; (effect on Haemophant);;;;;;;;;;;;x
-bloodthirsty_gods_3_opinion;Haemoarch Opinion;;;;;;;;;;;;x
-bloodthirsty_gods_3_opinion_EXPLANATION; (effect on Haemoarch);;;;;;;;;;;;x
+bloodthirsty_gods_1_opinion;鮮血狂愛家の評価;;;;;;;;;;;;x
+bloodthirsty_gods_1_opinion_EXPLANATION;(鮮血狂愛家の影響);;;;;;;;;;;;x
+bloodthirsty_gods_2_opinion;鮮血教皇の評価;;;;;;;;;;;;x
+bloodthirsty_gods_2_opinion_EXPLANATION;(鮮血教皇の影響);;;;;;;;;;;;x
+bloodthirsty_gods_3_opinion;鮮血君主の評価;;;;;;;;;;;;x
+bloodthirsty_gods_3_opinion_EXPLANATION;(鮮血君主の影響);;;;;;;;;;;;x
 bloodline_effect_prestige_sacrifice;§GSacrificing Prisoners§! yields an additional §GPrestige§! reward;;;;;;;;;;;;x
 nick_the_red_storm;the Red Storm;;;;;;;;;;;;x
 nick_the_scarlet_hands;血まみれの手の;;;;;;;;;;;;x
@@ -12468,7 +12468,7 @@ EVTOPTAHF23452;Let the blood start flowing!;;;;;;;;;;;;x
 EVTDESCAHF23453;Scores of criminals, slaves and desperate souls have gathered in the arena of [From.Capital.GetName], hoping to earn the blessing of the gods by becoming the champion of the tournament. I take my place of honor, alongside the rest of the [Root.Religion.GetName] nobility and wait as the priests finish consecrating the ground before the beginning of the games.;;;;;;;;;;;;x
 EVTOPTAHF23453;Let the blood start flowing!;;;;;;;;;;;;x
 EVTDESCAHF23454;The crowd roars in approval as another warrior falls to the ground, defeated. The weakest contenders have been quickly disposed of, leaving space for the more experienced fighters, and blessing the ground of the arena with their blood. Soon, their remains will be burned to honor the gods.;;;;;;;;;;;;x
-EVTOPTAHF23454;More blood for the gods!;;;;;;;;;;;;x
+EVTOPTAHF23454;神々へさらに血を捧げよ!;;;;;;;;;;;;x
 EVTTITLEAHF23455;The Blood Games of [From.Capital.GetName];;;;;;;;;;;;x
 EVTDESCAHF23455;It was a gruesome trial to say the least, but, as I look up from the mangled remains of my last opponent and bask in the cheering of the crowd, my heart is filled with relief. I have emerged victorious from the Blood Games, proving my worth to the murderous gods of [From.Capital.GetName] and earning eternal glory.;;;;;;;;;;;;x
 EVTOPTAHF23455;勝った！;;;;;;;;;;;;x
@@ -12535,7 +12535,7 @@ won_flower_war;Won Flower Wars;;;;;;;;;;;;x
 lost_flower_war;Lost Flower Wars;;;;;;;;;;;;x
 religion_ritual_sacrifice_feature;Rulers can sacrifice infidel prisoners to gain Piety, unlock ritual decisions and the Flower War casus belli;;;;;;;;;;;;x
 EVTDESC_TOG_3320_HF;The pillaging and looting undertaken in your name has earned you a reputation as a fearsome Pirate. All along the coasts, mothers tucking their children in for the night warn that unless they behave, the terrible [Root.GetFirstName], scourge of the seas, will come ashore with [Root.GetHerHis] undead warriors and eat them.;;;;;;;;;;;;x
-EVTDESC_TOG_3321_HF;Few alive have a more fearsome reputation than you. Where many Pirates merely raid you destroy entire towns and castles, leaving none alive besides one to spread the tale of [Root.GetFirstName] the Ravager.;;;;;;;;;;;;x
+EVTDESC_TOG_3321_HF;あなたよりも恐ろしいと噂される生き物はほとんどいない。あなたに従っている多くの海賊達は町も城も全て破壊しつくし、[Root.GetFirstName]の奪掠者としての物語を広められる生存者などだれもいない。;;;;;;;;;;;;x
 tooltip_religion_feature_bloodthirsty_mechanics;§G囚人を生贄に捧げる特殊な特性とアクションを解除します§!;;;;;;;;;;;;x
 EVTDESCHF22009;I cannot stand [From.GetTitledFirstName]. [From.GetSheHeCap] takes every opportunity to insult and berate me. Clearly, this [From.GetManWoman] wishes to be my enemy.;;;;;;;;;;;;x
 EVTOPTAHF22009;I hate [From.GetHerHim]!;;;;;;;;;;;;x
@@ -14277,7 +14277,7 @@ EVTOPTBHF25609;I have seen worse...;;;;;;;;;;;;x
 EVTOPTDHF25609;I can handle this.;;;;;;;;;;;;x
 TT_EVTOPTDHF25609;Use your §YMartial§! to examine the beast's last meal.;;;;;;;;;;;;x
 TT_EVTOPTEHF25609;Use [scoped_WL_co_hunter.GetFirstName]'s §YMartial§! to examine the beast's last meal.;;;;;;;;;;;;x
-EVTDESCAHF25610;大狼を探して、私は深い森の中に踏み入った。獲物が残すわずかな痕跡も見逃すまいと感覚を研ぎ澄ませていると、未開の地を旅していると、動物としての本能が自分の中によみがえってきて、過去の狩りで得た経験がふたたび呼び起こされるように感じた。;;;;;;;;;;;;x
+EVTDESCAHF25610;大狼を探して、私は深い森の中に踏み入った。獲物が残すわずかな痕跡も見逃すまいと感覚を研ぎ澄まし、未開の地を旅していると、動物としての本能が自分の中によみがえり、過去の狩りで得た経験がふたたび呼び起こされるように感じた。;;;;;;;;;;;;x
 EVTDESCBHF25610;大鷲を探して、私は草木もまばらな丘を登った。獲物が残すわずかな痕跡も見逃すまいと感覚を研ぎ澄ませていると、未開の地を旅していると、動物としての本能が自分の中によみがえってきて、過去の狩りで得た経験がふたたび呼び起こされるように感じた。;;;;;;;;;;;;x
 EVTDESCCHF25610;大熊を探して、私は枯れ木の林に踏み入った。獲物が残すわずかな痕跡も見逃すまいと感覚を研ぎ澄ませていると、未開の地を旅していると、動物としての本能が自分の中によみがえってきて、過去の狩りで得た経験がふたたび呼び起こされるように感じた。;;;;;;;;;;;;x
 EVTDESCDHF25610;大獅子を探して、私は深い草原の斜面を進んだ。獲物が残すわずかな痕跡も見逃すまいと感覚を研ぎ澄ませていると、未開の地を旅していると、動物としての本能が自分の中によみがえってきて、過去の狩りで得た経験がふたたび呼び起こされるように感じた。;;;;;;;;;;;;x
@@ -14824,7 +14824,7 @@ EVTDESCHF24105;Only a few hours after [From.GetHerHis] unfortunate demise, [From
 EVTOPTAHF24105;What a charming new guest we have!;;;;;;;;;;;;x
 EVTDESCHF24106;It appears that my jailer has a particularly terrible fate in store for me. [FromFrom.GetSheHeCap] will have my body embalmed after my death and prop it in [From.GetHerHis] own palace like a macabre puppet to scare off [FromFrom.GetHerHis] enemies.;;;;;;;;;;;;x
 EVTOPTAHF24106;What!?! That is insane!;;;;;;;;;;;;x
-bloodline_effect_murder_deflection;§YObfuscation§!によって評判を回復できます;;;;;;;;;;;;x
+bloodline_effect_murder_deflection;§Yはぐらかし§!によって評判を回復できます;;;;;;;;;;;;x
 murder_deflection_decision;Obfuscate;;;;;;;;;;;;x
 murder_deflection_decision_desc;Spend §YPrestige§! to cast doubt on the validity of the crimes you have recently committed.;;;;;;;;;;;;x
 tooltip_murder_deflection_decision;Begin obfuscating.;;;;;;;;;;;;x
@@ -17325,15 +17325,15 @@ EVTDESCAHF24207;Despite all the sleepless nights, hundreds of researched scrolls
 EVTOPTAHF24207;Maybe I should focus my attention on Alexander's tomb.;;;;;;;;;;;;x
 EVTOPTBHF24207;We just need to look harder!;;;;;;;;;;;;x
 EVTOPTCHF24207;Enough, I give up!;;;;;;;;;;;;x
-EVTTITLEHF24208;The Heir of Alexander;;;;;;;;;;;;x
-EVTDESCAHF24208;After years of study, research and investment, I have finally achieved my goal and eternally bound my dynasty's name to one of the greatest conquerors of known history.\nLong after I am gone, people will look at my descendants in awe and tremble at the very thought of meeting them on the field of battle.\nWithin our veins flows the same strength that subjugated Egypt, the same genius that cracked Babylon, the same ambition that led one man to travel from the heart of civilization to the edge of the world.;;;;;;;;;;;;x
-EVTOPTAHF24208;Eternal glory awaits us!;;;;;;;;;;;;x
+EVTTITLEHF24208;アレキサンダー大王の血を継ぐもの;;;;;;;;;;;;x
+EVTDESCAHF24208;何年もの研究と投資を経て、ついに目標を達成し、一族の血脈が歴史上最も偉大な征服者の一人に繋がるということを立証した。\n私が死んでからも、人々は長きにわたり私の子孫を畏敬の念をもって眺め、戦場で彼らに会うことを考えるだけで震え上がるだろう。\n我らの血の中にはエジプトを征服したのと同じ力、バビロンを陥落させたのと同じ英知、一人の男を文明の中心から世界の果てまで旅させたのと同じ野望が流れている。;;;;;;;;;;;;x
+EVTOPTAHF24208;永遠の栄光が我らを待っている!;;;;;;;;;;;;x
 EVTDESCAHF24209;Despite my best efforts, my peers have yet to recognize the legitimacy of my claim to Alexander's ancestry.\nEven worse, my own subjects have reacted with apathy and skepticism to the news about my dynasty's prestigious founder. My councilors believe that the people are simply too ignorant to understand the importance of my discovery, while my peers are merely envious of its implications.\nFor one reason or the other, my quest is not over yet. My claim will have no value for as long as it is not universally recognized.;;;;;;;;;;;;x
 EVTOPTAHF24209;We need more celebrations and exposure!;;;;;;;;;;;;x
 EVTOPTBHF24209;The voice of the [Root.GetTitle] of [Root.PrimaryTitle.GetName] will be heard!;;;;;;;;;;;;x
 EVTOPTCHF24209;There must be a way to educate those peasants...;;;;;;;;;;;;x
 EVTOPTDHF24209;It is no use. This was nothing but a huge waste of time.;;;;;;;;;;;;x
-EVTTITLEHF24210;The Heir of Alexander;;;;;;;;;;;;x
+EVTTITLEHF24210;アレキサンダー大王の血を継ぐもの;;;;;;;;;;;;x
 EVTDESCAHF24210;There have been many rumors about [From.GetTitledFirstName] recently.\nUsing the help of charlatans, sorcerers and grave-robbers, the [From.GetTitle] of [From.PrimaryTitle.GetName] has fabricated a ludicrous claim to Alexander's the Great dynasty. Many rulers have made such ludicrous assertions in the past, trying to latch onto the glorious name of the ancient conqueror, yet none had been taken seriously, until now.\nBy associating [From.GetHerHis] family to Alexander, [From.GetTitledFirstName] has succeeded in increasing enormously the prestige of the [From.GetOnlyDynastyName] for centuries to come.;;;;;;;;;;;;x
 EVTOPTAHF24210;How can people fall for such a blatant fabrication?;;;;;;;;;;;;x
 EVTOPTBHF24210;And I could not be happier for us!;;;;;;;;;;;;x
@@ -17413,7 +17413,7 @@ EVTOPTBHF24230;What have I done with my life?;;;;;;;;;;;;x
 bloodline_effect_one_invasion;Can use §YInvasion§! once per lifetime;;;;;;;;;;;;x
 bloodline_effect_religious_liberation;§Y宗教解放§!戦争を呼びかけることができる;;;;;;;;;;;;x
 child_heavily_guarded;厳重な防備;;;;;;;;;;;;x
-child_heavily_guarded_desc;The future of the realm depends on this child's survival. As such, [Root.GetHerHis] parents have taken all precautions to make sure that the precious infant reaches adulthood safely.;;;;;;;;;;;;x
+child_heavily_guarded_desc;領国の未来はこの子の生死にかかっています。このように、[Root.GetHerHis]の 両親は、大切な赤ちゃんが大人になるまで安全に過ごせるよう、あらゆる注意を払っています。;;;;;;;;;;;;x
 opinion_favored_child;Auspicious Child;;;;;;;;;;;;x
 opinion_unfavored_child;Ominous Child;;;;;;;;;;;;x
 EVTDESCAHF23751;I am concerned about the health of poor [From.GetFirstName]. This realm requires a strong and healthy heir in order to prosper, yet my my child was not born under the best stars. It is my duty as a responsible [Root.Religion.GetName] [Root.GetTitle] to take all possible precautions in order to ensure a smooth succession.;;;;;;;;;;;;x
@@ -18448,7 +18448,7 @@ EVTOPTA_HF_10096;ところで、代理人を呼びたいんだが…;;;;;;;;;;;;
 EVTOPTA_HF_10096_TT;決闘に勝利するために必要な、あらゆる手段を使う。;;;;;;;;;;;;x
 EVTOPTB_HFP_10095_poison;Aah, an opportunity! I shall prepare my poisons...;;;;;;;;;;;;x
 EVTDESC_HF_10103_intrigue_A_attacker;My [other_combatant.GetRootRelation] seems unaware that the little scrape I inflicted is what is causing [other_combatant.GetHerHis] limbs to slowly go numb... "Valiant effort!" I proclaim, watching [other_combatant.GetHerHis] sluggish movements. When [other_combatant.GetSheHe] lunges at me, I carefully step aside, letting [other_combatant.GetHerHis] subsequent collapse look like a failed attack. The poison must have reached [other_combatant.GetHerHis] heart.;;;;;;;;;;;;x
-EVTDESC_HF_10103_intrigue_A_defender_spymaster;I'm not sure why my [Root.GetMySpymasterName] wants to inspect my equipment prior to the duel – surely, [job_spymaster.GetHerHis] comment about poison were in jest! Later, my performance in the fight is not my greatest accomplishment, but I honestly expected my [other_combatant.GetRootRelation] to put up more resistance. I barely have a scratch!;;;;;;;;;;;;x
+EVTDESC_HF_10103_intrigue_A_defender_spymaster;なぜ[Root.GetMySpymasterName]が決闘の前に私の装備を点検したがっているのかわからなかった - 本当に、毒についての進言はとんだお笑い種だった! それから、この戦いでのパフォーマンスは今までで一番ってわけではなかったんだが、しかし正直言って我が[other_combatant.GetRootRelation]はもっと抵抗すると予想していた。かすり傷すらほとんど貰わなかったのだ!;;;;;;;;;;;;x
 EVTDESC_HF_10103_intrigue_A_defender_self;"Impressive!" [other_combatant.GetTitledFirstName] splutters, on [other_combatant.GetHerHis] knees in the [Root.Capital.GetGroundDesc]. Finally, I let the anger fill me. "I had your weapons switched", I hiss, pressing my dagger to [other_combatant.GetHerHis] throat. "I have eyes and ears everywhere", I explain to the bewildered [other_combatant.GetManWoman]. "You thought I'd let you *poison* me?";;;;;;;;;;;;x
 EVTDESC_HF_10104_intrigue_A_attacker;[other_combatant.GetTitledFirstName]'s moves are graceful, and I'm impressed – the [other_combatant.GetManWoman] should be looking weaker by now... [other_combatant.GetPoisonDefense];;;;;;;;;;;;x
 EVTDESC_HF_10104_intrigue_A_defender;[other_combatant.GetTitledFirstName] has only managed to get a few scrapes in on me, yet I can feel my energy draining. Something is wrong. I wonder... [Root.GetPoisonSpeculation];;;;;;;;;;;;x

@@ -203,9 +203,9 @@ EVTOPTA8468;オーディン。私の呼び声を聞け！;;;;;;;;;;;;x
 valhalla_bound;ヴァルハラ行き;;;;;;;;;;;;x
 valhalla_bound_desc;北欧信仰のために偉大な勝利を収めたこの人物は、ヴァルハラでのオーディンの饗宴に必ずや加わることでしょう!!;;;;;;;;;;;;x
 ravager;奪掠者;;;;;;;;;;;;x
-seaking;海王;;;;;;;;;;;;x
+seaking;海の王;;;;;;;;;;;;x
 seaking_desc;この人物は津々浦々に知られ恐れられている。海水のあるところ海王の恐怖あり。;;;;;;;;;;;;x
-TOG.3321.d;あなたよりも恐ろしいと噂される生き物はほとんどいない。あなたに従っている多くのバイキング達は町も城も全て破壊しつくし、[Root.GetFirstName]の悲惨な物語を広められる生存者などだれもいない。;;;;;;;;;;;;x
+TOG.3321.d;あなたよりも恐ろしいと噂される生き物はほとんどいない。あなたに従っている多くのヴァイキング達は町も城も全て破壊しつくし、[Root.GetFirstName]の奪掠者としての物語を広められる生存者などだれもいない。;;;;;;;;;;;;x
 TOG.3321.a;やるべき仕事はまだある。;;;;;;;;;;;;x
 TOG.3322.a;労せずして手に入る。;;;;;;;;;;;;x
 death_text_default;特に祝福することは無かれども、[GetFirstName]が死後に平穏を見出せることを願わん;;;;;;;;;;;;x
@@ -737,7 +737,7 @@ EVTOPTA_RIP_12004;[sick_courtier.GetSheHeCap]はここを出なければなら�
 EVTOPTB_RIP_12004;地下牢になら、[sick_courtier.GetSheHeCap]はいてもいい。;;;;;;;;;;;;x
 EVTOPTC_RIP_12004;いや、なんの危険もないだろう。;;;;;;;;;;;;x
 EVTOPTD_RIP_12004;私は[sick_courtier.GetHerHim]をハグし慰めるべきだ。;;;;;;;;;;;;x
-EVTDESC_RIP_12005;他人に見られているとも気づかずに、[lover_one.GetBestName]と[lover_two.GetBestName]は密会をするためにこっそりと屋内に入っていった。 この過ちに楽しんでいる人はほとんどいない。;;;;;;;;;;;;x
+EVTDESC_RIP_12005;他人に見られているとも気づかずに、[lover_one.GetBestName]と[lover_two.GetBestName]は密会をするためにこっそりと屋内に入っていった。 この過ちを面白がっている人はほとんどいない。;;;;;;;;;;;;x
 EVTOPTA_RIP_12005;この関係を今すぐ終わらせろ！;;;;;;;;;;;;x
 EVTOPTB_RIP_12005;不潔だ、彼らは結婚しなければならない。;;;;;;;;;;;;x
 EVTOPTC_RIP_12005;いや、ここでしか見られない面白い出来事だ。;;;;;;;;;;;;x
@@ -3177,7 +3177,7 @@ nick_the_terror_of_provincename;[nickname_target.GetName]たちの恐怖;;;;;;;;
 nick_the_butcher;畜殺者;;;;;;;;;;;;x
 nick_son_of_evilgod;[This.Religion.GetRandomEvilGodName]の[This.GetSonDaughterCap];;;;;;;;;;;;x
 nick_the_cleansing_flame;浄化の炎;;;;;;;;;;;;x
-nick_the_witch_hunter;ウィッチハンター;;;;;;;;;;;;x
+nick_the_witch_hunter;魔女狩り;;;;;;;;;;;;x
 nick_the_vengeful;復讐者;;;;;;;;;;;;x
 nick_the_betrayer;背教者;;;;;;;;;;;;x
 nick_the_flayer;皮剥ぎ;;;;;;;;;;;;x

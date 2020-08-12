@@ -4340,8 +4340,8 @@ modest_measures;ささやかな方策;;;;;;;;;;;;x
 modest_measures_desc;『何事も程々に』、[From.OriginalOwner.GetTitledFirstName]は家庭料理の論文を始めた。一般的な[From.OriginalOwner.GetHerHis]の廷臣たちに少々厚すぎる文書だと噂されている;;;;;;;;;;;;x
 modest_measures_desc_rename;『何事も程々に』、[Root.GetTitledFirstName]は家庭料理の論文を始めた。典型的な[Root.Capital.Capital.GetName]の人々に少々[Root.GetPublicOpinionOfWork]文書だと噂されている。;;;;;;;;;;;;x
 cookbook_3_roman;アピシウス;;;;;;;;;;;;x
-cookbook_3_roman_desc;What did the wealthy [From.OriginalOwner.Culture.GetName] nobility in [From.OriginalOwner.Capital.GetName] eat during the time of [From.OriginalOwner.GetTitledFirstName]? This tome contains all the details.;;;;;;;;;;;;x
-cookbook_3_roman_desc_rename;What did the wealthy [Root.Culture.GetName] nobility in [Root.Capital.GetName] eat during the time of [Root.GetTitledFirstName]? This tome contains all the details, neatly organized in sections and subcategories, such as 'The Careful Housekeeper', 'Many Ingredients' and 'The Sea'.;;;;;;;;;;;;x
+cookbook_3_roman_desc;[From.OriginalOwner.Capital.GetName]の裕福な[From.OriginalOwner.Culture.GetName]貴族たちは[From.OriginalOwner.GetTitledFirstName]の治世に何を食べていたのだろうか?この本にすべての詳細が書かれている。;;;;;;;;;;;;x
+cookbook_3_roman_desc_rename;[Root.Capital.GetName]の裕福な[Root.Culture.GetName]貴族たちは[Root.GetTitledFirstName]の治世に何を食べていたのだろうか?この本にはすべての詳細が、「注意深い家政婦 」、「多種にわたる食材 」、 「海産物」 などの章と小項目にきちんとまとめられている。;;;;;;;;;;;;x
 cookbook_3_arabic;キタブ・アルタビク;;;;;;;;;;;;x
 cookbook_3_arabic_desc;Aptly named 'The Book of Dishes' this culinary tome contains over a hundred recipes, and provides a fascinating insight into [From.OriginalOwner.Culture.GetName] gastronomy.;;;;;;;;;;;;x
 cookbook_3_chinese_group;飲膳正要;;;;;;;;;;;;x

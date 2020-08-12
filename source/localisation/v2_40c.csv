@@ -324,7 +324,7 @@ EVTDESC_WOL_11140_LOSS1;As we keep the troops at the center mostly unused, the e
 EVTDESC_WOL_11140_LOSS2;Our decision to attack an opponent who holds a defensive high-ground proves disastrous. As our troops suffer massive losses, we are forced to admit defeat.;;;;;;;;;;;;x
 EVTDESC_WOL_11140_LOSS3;With our troops being split up and exhausted, we cannot fight the united forces of [attacker.GetFirstName]. We fail to inflict any lasting damage on our opponent, and are quickly overwhelmed. It is clear that we are defeated.;;;;;;;;;;;;x
 EVTDESC_WOL_11140_LOSS4;乱戦の中、まず我が方の翼軍で疲弊した部隊が怯みだすと、敵はその好機を見逃さなかった。我が軍はたちまち圧倒され、対戦相手は紛れもない勝利者としてそびえ立っていた。;;;;;;;;;;;;x
-EVTDESC_WOL_11140_LOSS5;Our troops are surrounded in the blink of an eye, and we take more casualties than the opponent. In the aftermath [attacker.GetFirstName] stands as the obvious victor.;;;;;;;;;;;;x
+EVTDESC_WOL_11140_LOSS5;わが軍は瞬く間に包囲され、敵よりも多くの犠牲者を出した。そして、[attacker.GetFirstName]が圧倒的勝利をおさめた。;;;;;;;;;;;;x
 EVTDESC_WOL_11140_LOSS6;Our attempt to reinforce the center is much too late, and our troops end up disarrayed as we scramble to defend against the united forces of [attacker.GetFirstName]. It is clear that we cannot hold the line, and so we admit defeat.;;;;;;;;;;;;x
 EVTDESC_WOL_11140_LOSS7;我が軍は騎兵部隊に耐えきれず、敵の突撃によって中央陣は蹂躙された。我が軍は分断され、瞬く間に打ち負かされてしまった。;;;;;;;;;;;;x
 EVTDESC_WOL_11140_LOSS8;With our troops struggling to keep the flanks reinforced, exhaustion is upon them before the fighting has gotten truly grim. [attacker.GetFirstName] only needs to order a decisive push, and our troops are defeated.;;;;;;;;;;;;x
