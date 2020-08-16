@@ -240,7 +240,7 @@ EVTDESC21012;私の愛する[GetFromRelation] [From.GetFirstName]は、私の妊
 EVTOPTA21012;私の誠実さを彼に証明する！;;;;;;;;;;;;x
 EVTOPTB21012;涙ながらに、私と[Root.FatherOfUnborn.GetTitledFirstName]との不倫を認めた。;;;;;;;;;;;;x
 EVTOPTC21012;彼はなんて幼稚なのだ。私の言いなりにしよう;;;;;;;;;;;;x
-EVTDESC21013;[From.GetFirstName]は、私が彼女に不誠実であるかどうか尋ねたときに泣き始めました。 彼女は、彼女の絶え間ない愛、徳、不断の堅実さを、私に誓います...;;;;;;;;;;;;x
+EVTDESC21013;浮気しているのかと尋ねると、[From.GetFirstName]は泣き出した。彼女は朽ちぬ愛、貞節、そして堅固な意志を私に深く誓った...;;;;;;;;;;;;x
 EVTOPTA21013;確信には至らなそうだな…;;;;;;;;;;;;x
 EVTDESC21003_CONF;[GetFromRelation] [From.GetFirstName]に[From.FatherOfUnborn.GetTitledName]との不倫関係を抱いていたことを徹底的に追求した時、涙ながらに告白し慈悲と許しを泣きながら嘆願しました！;;;;;;;;;;;;x
 EVTDESC21003_CONF_CR;[GetFromRelation] [From.GetFirstName]に[From.FatherOfUnborn.GetTitledName]との不倫関係を抱いていることを徹底的に追求した時、彼女は涙で告白しました - 彼女自身の[GetFromVsFatherOfUnbornRelation]と！;;;;;;;;;;;;x

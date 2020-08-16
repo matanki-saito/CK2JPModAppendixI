@@ -1994,7 +1994,7 @@ tooltip_coronation_depose_excommunicate;破門された統治者を退位させ�
 tooltip_coronation_depose_antipope;対立教皇を廃位させるべく戦争を挑みます。勝利の暁には§Y[From.GetTitle]§!が自分の戴冠式を執り行ってくれるでしょう。;;;;;;;;;;;;x
 tooltip_coronation_pepin_war;教皇領に代わってイタリアで戦争を開始します。勝利の暁には§Y[From.GetTitle]§!が自分の戴冠式を執り行ってくれるでしょう。;;;;;;;;;;;;x
 EVTDESCHFA20408;Since I have forsaken the [From.GetName] faith, I no longer need the Church's approval in order to be deemed worthy of my crown.;;;;;;;;;;;;x
-EVTOPTAHF20408;Outstanding.;;;;;;;;;;;;x
+EVTOPTAHF20408;素晴らしい。;;;;;;;;;;;;x
 EVTDESCHFA20409;The sudden conversion of [From.GetTitledFirstName] led to an abrupt stop of [From.GetHerHis] coronation ceremony.;;;;;;;;;;;;x
 EVTOPTAHF20409;How disappointing.;;;;;;;;;;;;x
 opinion_jovial_host;陽気な主人;;;;;;;;;;;;x
@@ -2149,7 +2149,7 @@ EVTOPTAHFP20634;A small price indeed...;;;;;;;;;;;;x
 EVTDESCHFP20635;Continued meditation has helped me expunge all base desires from my flesh. As my body grows weaker, I feel my soul reaching for the divine, every day a bit closer to its apotheosis. I have long since started to ignore the small-minded advices of my courtiers about sleep, food, or exercise. I am far beyond such mundane needs.;;;;;;;;;;;;x
 EVTOPTAHFP20635;すでに天にも昇るような気持ちだ！;;;;;;;;;;;;x
 EVTDESCHFP20636;I was surprised to realize that my continued and rigorous abstinence has considerably improved my health. It appears that my body was in need of a bit more moderation in order to work better.;;;;;;;;;;;;x
-EVTOPTAHFP20636;Outstanding.;;;;;;;;;;;;x
+EVTOPTAHFP20636;素晴らしい。;;;;;;;;;;;;x
 EVTDESCHFP20637;今日、私は、馬に乗っている間に気を失った後、危うく馬に踏みつけられるところだった。 私の食生活は、健康をかなり損なったようだ。;;;;;;;;;;;;x
 EVTOPTAHFP20637;How could this happen?;;;;;;;;;;;;x
 EVTDESCAHFP20638;Cutting on sleeping and eating times has really helped me getting ahead of my tasks. I may be looking ghastly, but I feel much better now that everything has been nicely fit into my schedule. As long as I keep skipping dinner and only sleep twice a week, I can fulfill all my responsibilities with ease.;;;;;;;;;;;;x
@@ -3499,7 +3499,7 @@ EVTDESCBHF22014;Despite making my dislike for [From.GetTitledFirstName] quite cl
 EVTDESCCHF22014;[From.GetTitledFirstName] has ignored my insults, dismissing them as the posturing of a lesser [Root.GetManWoman].;;;;;;;;;;;;x
 EVTOPTAHF22014;Perhaps I should try something more personal...;;;;;;;;;;;;x
 EVTDESCAHF22015;My efforts to smear and antagonize [From.GetTitledFirstName] have been a complete success. I might have lost some of my reputation in the process, but [From.GetTitledFirstName] looks furious.;;;;;;;;;;;;x
-EVTOPTAHF22015;Outstanding.;;;;;;;;;;;;x
+EVTOPTAHF22015;素晴らしい。;;;;;;;;;;;;x
 EVTDESCAHF22018;I truly cannot stand [From.GetTitledFirstName]! [From.GetSheHeCap] seems to revel in every misfortune that befalls upon me and never misses an opportunity to taunt and insult me.;;;;;;;;;;;;x
 EVTDESCBHF22018;[From.GetTitledFirstName]の態度が我慢できなくなってきた。その[From.GetManWoman]はいつも私をイライラさせる。;;;;;;;;;;;;x
 EVTDESCCHF22018;I am not exactly sure why is [From.GetTitledFirstName] so obsessed with attacking my character at any given occasion. In truth, I could not care less about [From.GetHerHim].;;;;;;;;;;;;x
@@ -6039,7 +6039,7 @@ string_in;の中;;;;;;;;;;;;x
 string_on;の上;;;;;;;;;;;;x
 string_through;を過ぎた場所;;;;;;;;;;;;x
 string_over;を超えた先;;;;;;;;;;;;x
-string_flailing_miserably;[This.GetHerHis]は[This.GetDuelWeapon]をみじめにもばたばたさせていた。貧相な[This.GetManWoman]は自分自身を汚し、死を与えたと聞いた;;;;;;;;;;;;x
+string_flailing_miserably;[This.GetHerHis]は[This.GetDuelWeapon]をみじめにもばたばたさせていた。その哀れな[This.GetManWoman]は、死が避けられなくなったとき、自らを汚したらしい;;;;;;;;;;;;x
 string_cut_down_with_ease;[This.GetSheHe]はあっけなく刈り取られた。その亡骸に一人の兵士がつまづくまで、[This.GetHerHis]の高貴な装束は見向きもされず捨て置かれた;;;;;;;;;;;;x
 string_resisted_bravely;報告によると、[This.GetSheHe]は自分の[This.GetDuelWeapon]につまづくまでは勇敢に抵抗したそうだ;;;;;;;;;;;;x
 string_took_a_blow_to_the_head;[This.GetSheHe]は強烈な斧の一撃を頭に受ける前に、屈強な兵を何人か切り伏せた;;;;;;;;;;;;x
@@ -7987,29 +7987,29 @@ hellenic_dedicate_temple_desc;[From.Religion.GetName]の特定の神に神殿を
 tooltip_temple_must_have_priest;The temple must be controlled by a priest of the §Y[From.Religion.GetName]§! faith.;;;;;;;;;;;;x
 tooltip_not_dedicated_temple_recently;§Y[From.GetTitledFirstName]§! must not have consecrated a temple recently.;;;;;;;;;;;;x
 tooltip_hellenic_dedicate_temple;この神殿をどの神を祀るか決める。;;;;;;;;;;;;x
-dedicated_to_zeus;Favored by [GetZeusJupiterName];;;;;;;;;;;;x
+dedicated_to_zeus;[GetZeusJupiterName]の祝福;;;;;;;;;;;;x
 dedicated_to_zeus_desc;This ruler has ordered the consecration of a great temple to [GetZeusJupiterName], god of heaven, justice and fertility.;;;;;;;;;;;;x
-dedicated_to_poseidon;Favored by [GetPoseidonNeptuneName];;;;;;;;;;;;x
+dedicated_to_poseidon;[GetPoseidonNeptuneName]の祝福;;;;;;;;;;;;x
 dedicated_to_poseidon_desc;This ruler has ordered the consecration of a great temple to [GetPoseidonNeptuneName], god of seas, horses and settlers.;;;;;;;;;;;;x
-dedicated_to_hades;Favored by [GetHadesPlutoName];;;;;;;;;;;;x
+dedicated_to_hades;[GetHadesPlutoName]の祝福;;;;;;;;;;;;x
 dedicated_to_hades_desc;This ruler has ordered the consecration of a great temple to [GetHadesPlutoName], god of the underworld, associated with secrets and precious minerals.;;;;;;;;;;;;x
-dedicated_to_hermes;Favored by [GetHermesMercuryName];;;;;;;;;;;;x
+dedicated_to_hermes;[GetHermesMercuryName]の祝福;;;;;;;;;;;;x
 dedicated_to_hermes_desc;This ruler has ordered the consecration of a great temple to [GetHermesMercuryName], god of traders and tricksters.;;;;;;;;;;;;x
-dedicated_to_demeter;Favored by [GetDemetraCeresName];;;;;;;;;;;;x
+dedicated_to_demeter;[GetDemetraCeresName]の祝福;;;;;;;;;;;;x
 dedicated_to_demeter_desc;This ruler has ordered the consecration of a great temple to [GetDemetraCeresName], goddess of earth, seasons and prosperity.;;;;;;;;;;;;x
-dedicated_to_athena;Favored by [GetAthenaMinervaName];;;;;;;;;;;;x
+dedicated_to_athena;[GetAthenaMinervaName]の祝福;;;;;;;;;;;;x
 dedicated_to_athena_desc;This ruler has ordered the consecration of a great temple to [GetAthenaMinervaName], goddess of wisdom and military strategy.;;;;;;;;;;;;x
-dedicated_to_apollo;Favored by Apollo;;;;;;;;;;;;x
+dedicated_to_apollo;アポロの祝福;;;;;;;;;;;;x
 dedicated_to_apollo_desc;This ruler has ordered the consecration of a great temple to Apollo, god of the sun, associated with arts, medicine and vengeance.;;;;;;;;;;;;x
-dedicated_to_arthemis;Favored by [GetArtemisDianaName];;;;;;;;;;;;x
+dedicated_to_arthemis;[GetArtemisDianaName]の祝福;;;;;;;;;;;;x
 dedicated_to_arthemis_desc;This ruler has ordered the consecration of a great temple to [GetArtemisDianaName], goddess of the moon, associated with purity and nature.;;;;;;;;;;;;x
-dedicated_to_ares;Favored by [GetAresMarsName];;;;;;;;;;;;x
+dedicated_to_ares;[GetAresMarsName]の祝福;;;;;;;;;;;;x
 dedicated_to_ares_desc;This ruler has ordered the consecration of a great temple to [GetAresMarsName], god of war and wrath.;;;;;;;;;;;;x
-dedicated_to_aphrodite;Favored by [GetAphroditeVenusName];;;;;;;;;;;;x
+dedicated_to_aphrodite;[GetAphroditeVenusName]の祝福;;;;;;;;;;;;x
 dedicated_to_aphrodite_desc;This ruler has ordered the consecration of a great temple to [GetAphroditeVenusName], goddess of love and lust.;;;;;;;;;;;;x
-dedicated_to_ephaestus;Favored by [GetHephaestusVulcanName];;;;;;;;;;;;x
+dedicated_to_ephaestus;[GetHephaestusVulcanName]の祝福;;;;;;;;;;;;x
 dedicated_to_ephaestus_desc;This ruler has ordered the consecration of a great temple to [GetHephaestusVulcanName], god of fire, volcanoes and metalworking.;;;;;;;;;;;;x
-dedicated_to_hestia;Favored by [GetHestiaVestaName];;;;;;;;;;;;x
+dedicated_to_hestia;[GetHestiaVestaName]の祝福;;;;;;;;;;;;x
 dedicated_to_hestia_desc;This ruler has ordered the consecration of a great temple to [GetHestiaVestaName], goddess of hearth, home and family.;;;;;;;;;;;;x
 tp_shrine_zeus;[GetZeusJupiterName]神殿;;;;;;;;;;;;x
 tp_shrine_zeus_desc;この神殿は天空、正義、豊穣を司る神、[GetZeusJupiterName]に捧げられたものです。;;;;;;;;;;;;x
@@ -8037,12 +8037,12 @@ tp_shrine_hestia;[GetHestiaVestaName]神殿;;;;;;;;;;;;x
 tp_shrine_hestia_desc;この神殿はかまど、家庭、家族を司る女神、[GetHestiaVestaName]に捧げられたものです。;;;;;;;;;;;;x
 recently_dedicated_temple_cooldown;Recently Dedicated Temple;;;;;;;;;;;;x
 recently_dedicated_temple_cooldown_desc;This character has recently overseen the consecration of a temple to a specific god.;;;;;;;;;;;;x
-EVTDESCHF23200;Many gods inhabit the [Root.Religion.GetName] pantheon, but it would be only right to dedicate such an important temple as [scoped_temple_barony.GetName] to one of the twelve Olympians, the most prestigious of the deities watching us from above.;;;;;;;;;;;;x
-EVTOPTAHF23200;This temple belongs to one of the Kronid brothers.;;;;;;;;;;;;x
+EVTDESCHF23200;[Root.Religion.GetName]の神殿には多くの神々が住んでいるが、[scoped_temple_barony.GetName]のような重要な神殿は、天から我々を見守っている、最も権威ある神々であるオリュンポス十二神の一柱に捧げるのがいいだろう。;;;;;;;;;;;;x
+EVTOPTAHF23200;クロニド兄弟の片方を祀る神殿にしよう;;;;;;;;;;;;x
 EVTOPTAHF23200_TT;Dedicate the temple of §Y[scoped_temple_barony.GetName]§! to one of the three sons of [GetKronosSaturnName]: §Y[GetZeusJupiterName]§!, §Y[GetPoseidonNeptuneName]§!, or §Y[GetHadesPlutoName]§!.;;;;;;;;;;;;x
-EVTOPTBHF23200;Let the gods of war consecrate this temple!;;;;;;;;;;;;x
+EVTOPTBHF23200;戦いの神々を祀る神殿にしよう！;;;;;;;;;;;;x
 EVTOPTBHF23200_TT;Dedicate the temple of §Y[scoped_temple_barony.GetName]§! to one of the more bellicose deities of the pantheon: §Y[GetAthenaMinervaName]§!, §Y[GetAresMarsName]§!, or §Y[GetHephaestusVulcanName]§!.;;;;;;;;;;;;x
-EVTOPTCHF23200;This is the home of a kind deity.;;;;;;;;;;;;x
+EVTOPTCHF23200;優しい神の住み家としよう;;;;;;;;;;;;x
 EVTDESCHF23201;[GetZeusJupiterName] is by many considered the King of Heaven. He and his brothers fought a war against their father for control of all Creation and then gambled over its spoils. Fate bestowed dominion of the skies upon [GetZeusJupiterName], leaving the seas to [GetPoseidonNeptuneName] and the earth to [GetHadesPlutoName].;;;;;;;;;;;;x
 EVTOPTAHF23201;[GetZeusJupiterName]を祀る神殿にしよう！;;;;;;;;;;;;x
 EVTOPTBHF23201;[GetPoseidonNeptuneName]を祀る神殿にしよう！;;;;;;;;;;;;x
@@ -8701,7 +8701,7 @@ random_world_mythological_eye_1;[GetRandomMythologicalCreature]の目;;;;;;;;;;;
 random_world_mythological_eye_desc_1;この目は古く強大な怪物のものであり、それを打ち倒した英雄によってえぐり出されたといわれている。;;;;;;;;;;;;x
 nick_the_mythological_creature;[GetRandomMythologicalCreature];;;;;;;;;;;;x
 sword_of_mohammad_desc;預言者ムハンマドは、アル・アブド、アッマスール、アル・バッタル、ハトフ、クァルイー、ドゥールッ・ファカル、アル・ミクダム、アル・カディブの九つの剣を持っていました。この宝石がちりばめられた素晴らしい剣はその一つです。;;;;;;;;;;;;x
-EVTOPTAHF20080;もちろん、私のものだ。;;;;;;;;;;;;x
+EVTOPTAHF20080;もちろん友人だ。;;;;;;;;;;;;x
 EVTDESC_HFP_30100;空が少しのあいだ明るくなり、空から降ってきた石が城の庭に激突した衝撃で大地が揺れた。家臣たちに調べに行かせたところ、今まで誰も見たことのないような奇妙な金属の塊をもって戻ってきた。;;;;;;;;;;;;x
 EVTOPTA_HFP_30100;この金属で、まさに伝説になるような剣を作ってやろう！;;;;;;;;;;;;x
 EVTOPTB_HFP_30100;これは[Root.Religion.GetHighGodName]からの贈り物だな。教会に置くべきだ。;;;;;;;;;;;;x
@@ -10433,12 +10433,12 @@ EVTDESC_HFP_11037_B_1;It was long ago I felt so good about being in charge of a 
 EVTDESC_HFP_11037_B_2;I remember hearing the stories from [home_capital_province.GetName], about the command and leadership of [target.GetBestName]. "It is important to have role models", I said at the time. Today, I look out over my regiment, thankful for all the great leaders that came before me.;;;;;;;;;;;;x
 EVTOPTB_HFP_11037_1;You're saying *I* am the reason you became a soldier...?;;;;;;;;;;;;x
 EVTOPTB_HFP_11037_2;Now they all look to me.;;;;;;;;;;;;x
-EVTDESC_HFP_11037_C_1;"No, I do not drink from the skulls of my enemies" I laugh, when one curious recruit lets slip a question about that time when I decapitated an enemy on the battlefield. [GetSkullTrophyComment];;;;;;;;;;;;x
+EVTDESC_HFP_11037_C_1;好奇心旺盛な新兵の一人が、戦場で敵を斬首したときのことを尋ねてきた。私は「敵の頭蓋骨を杯になどしない」と言って笑い[GetSkullTrophyComment];;;;;;;;;;;;x
 EVTDESC_HFP_11037_C_2;「もし[target.GetTitledFirstName]が敵の骨で盃を上げてるとしたら？」と問いかけた。新兵はしきりに相槌を打つ。私は笑って、意味ありげに[Root.GetHerHim]の肩に腕を回した。「間違いなく、[home_capital_province.Capital.GetName]の宮殿には秘密の部屋があって、[target.GetSheHe]が血の風呂に入っていると噂されるだろう。」新兵の顔は真っ青になった。;;;;;;;;;;;;x
-EVTOPTC_HFP_11037_1;You're never gonna let that story go, eh?;;;;;;;;;;;;x
+EVTOPTC_HFP_11037_1;そんな話、放っておけないだろ?;;;;;;;;;;;;x
 EVTOPTC_HFP_11037_2;こんな話を聞いたことがあるか？[target.GetFirstName]と馬が…;;;;;;;;;;;;x
-string_took_skull;"But that is not a bad idea! I like your humor, [Root.GetBoyGirl]" I say, patting [Root.GetHerHim] on the back.;;;;;;;;;;;;x
-string_didnt_take_skull;"I didn't even take the skull with me! Honestly, you have too much imagination, soldier" I say, patting [Root.GetHerHim] on the back.;;;;;;;;;;;;x
+string_took_skull;「しかし、それは悪い考えではないな！なかなかいいユーモアだ[Root.GetBoyGirl]」と言って、[Root.GetHerHim]の背を叩いた。;;;;;;;;;;;;x
+string_didnt_take_skull;「頭蓋骨を持ってきてさえいない！正直に言うと、想像力が豊かすぎるぞ兵士よ」と言って、[Root.GetHerHim]の背を叩いた。;;;;;;;;;;;;x
 glory_days;栄光の日々;;;;;;;;;;;;x
 glory_days_desc;This character is riding on a wave of glorious battles, long gone by.;;;;;;;;;;;;x
 proud_role_model;Proud Role Model;;;;;;;;;;;;x
@@ -12177,14 +12177,14 @@ nick_the_wyrm;the Wyrm;;;;;;;;;;;;x
 nick_the_fury;the Fury;;;;;;;;;;;;x
 nick_the_stormforged;the Stormforged;;;;;;;;;;;;x
 nick_the_tempest_of_capital;[Root.Capital.GetName]の嵐;;;;;;;;;;;;x
-EVTDESCAHF23214;我が戦士たちはすでに[From.GetName]の街中に散り散りになって戦利品の争奪戦をしているが、そのとき、その地域にはまだ小規模の防衛隊が隠れているという報せを受けた。[scoped_pirate_mercenary.GetFirstName]という[scoped_pirate_mercenary.GetManWoman]が率いる、小さな傭兵集団だ。そのリーダーが言うには我々と争ってはいないし、実際、適正な価格で我々の軍に加わる準備ができていると主張している。;;;;;;;;;;;;x
+EVTDESCAHF23214;我が戦士たちはすでに[From.GetName]の街中に散り散りになって戦利品の争奪戦をしているが、そのとき、その地域にはまだ小規模の防衛隊が隠れているという報せを受けた。[scoped_pirate_mercenary.GetFirstName]という[scoped_pirate_mercenary.GetManWoman]が率いる、小さな傭兵団だ。そのリーダーが言うには、我々と争う理由は無いし、実際、適正料金で我々の軍に加わる準備ができていると主張している。;;;;;;;;;;;;x
 EVTOPTAHF23214;Perhaps we can come to a better arrangement?;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23214;Use your §YIntrigue§! to try and seduce §Y[scoped_pirate_mercenary.GetFirstName]§!;;;;;;;;;;;;x
 EVTOPTBHF23214;Perhaps we can come to a better arrangement?;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23214;Use your §YIntrigue§! to try and seduce §Y[scoped_pirate_mercenary.GetFirstName]§!;;;;;;;;;;;;x
 EVTOPTCHF23214;お前の団のリーダーの座をかけて勝負だ!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTCHF23214;§Y[scoped_pirate_mercenary.GetFirstName]§!に§Y決闘§!を挑みます。;;;;;;;;;;;;x
-EVTOPTDHF23214;Your price sounds reasonable...;;;;;;;;;;;;x
+EVTOPTDHF23214;妥当な価格だな...;;;;;;;;;;;;x
 TOOLTIP_EVTOPTDHF23214;Hire §Y[scoped_pirate_mercenary.GetFirstName]§!'s band of raiders for a few months.;;;;;;;;;;;;x
 EVTOPTEHF23214;助けは必要ない。去りなさい。;;;;;;;;;;;;x
 TOOLTIP_EVTOPTEHF23214;Allow the §Y[scoped_pirate_mercenary.GetFirstName]§!'s mercenaries to leave.;;;;;;;;;;;;x
@@ -12207,8 +12207,8 @@ TOOLTIP_EVTOPTAHF23217;Pay §Y[scoped_pirate_mercenary.GetFirstName]§!'s band o
 EVTOPTBHF23217;You dare make demands of me?! Begone!;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23217;§Y[scoped_pirate_mercenary.GetFirstName]§!'s band of raiders will disband.;;;;;;;;;;;;x
 pirate_mercenaries;Mercenaries;;;;;;;;;;;;x
-EVTDESCAHF23218;彼らのリーダーを倒して私の価値を証明した後、残った傭兵たちは、彼らの前の指揮官と同じ末路をたどることを恐れて、私の旗の下に集まってきた。;;;;;;;;;;;;x
-EVTOPTAHF23218;I am not to be trifled with.;;;;;;;;;;;;x
+EVTDESCAHF23218;リーダーを倒して私の価値が証明されると、残った傭兵たちは同じ末路をたどることを恐れて、私の旗の下に集まってきた。;;;;;;;;;;;;x
+EVTOPTAHF23218;私は軽々しく扱われるべきではない。;;;;;;;;;;;;x
 EVTDESCAHF23219;[From.GetName]の防衛をこじ開ける何らかの方法があるに違いない。陸海両方を押さえているので、この要塞に対して明白に有利な状態にある。いいアイデアが浮かびさえすれば…;;;;;;;;;;;;x
 EVTDESCBHF23219;[From.GetName]に乗り込む何らかの方法があるに違いない。この都市はよく防衛しているが、陸海両方を押さえているので明白に有利な状態にあるし、彼らは広大な土地を守らなければならない。いいアイデアが浮かびさえすれば…;;;;;;;;;;;;x
 EVTDESCCHF23219;[From.GetName]に乗り込む何らかの方法があるに違いない。敵は聖職者にほかならないし、我々は陸海両方を押さえているので明白に有利な状態にある…壁を攻略できるプランが浮かびさえすればだが。;;;;;;;;;;;;x
@@ -12235,8 +12235,8 @@ EVTDESCAHF23224;Convincing the guards to let me through might have not been my m
 EVTOPTAHF23224;All in a good night's work!;;;;;;;;;;;;x
 EVTDESCAHF23225;Unfortunately, I was unable to convince the guards to let me through. After a while, I was forced to leave entirely before risking to raise their suspicions too much.;;;;;;;;;;;;x
 EVTOPTAHF23225;This was just a waste of time...;;;;;;;;;;;;x
-EVTDESCAHF23226;My raiders scattered through the countryside, pillaging the villages and farms nearby [FromFrom.GetName] and returning at nightfall to our camp, their bags filled with food and other loot.;;;;;;;;;;;;x
-EVTOPTAHF23226;Outstanding!;;;;;;;;;;;;x
+EVTDESCAHF23226;襲撃者たちは田舎に散らばり、[FromFrom.GetName]付近の村や農場を略奪し、日が落ちるころには食料やその他の略奪品でいっぱいになった袋を持って我々の野営地に戻ってきた。;;;;;;;;;;;;x
+EVTOPTAHF23226;素晴らしい!;;;;;;;;;;;;x
 EVTDESCAHF23227;Unfortunately, my raiders returned to the camp empty-handed. Apparently they were unable to find anything of substance in the farms around [FromFrom.GetName].;;;;;;;;;;;;x
 EVTOPTAHF23227;How can this be?;;;;;;;;;;;;x
 astrology_very_good_omen;Prophetic Stars;;;;;;;;;;;;x
@@ -12252,19 +12252,19 @@ astrology_very_bad_omen_desc;The heavens quake and thunder, devastating storms a
 haruspicy_very_good_omen;Favorable Stars;;;;;;;;;;;;x
 haruspicy_very_bad_omen;Apocalyptic Stars;;;;;;;;;;;;x
 haruspicy_tempted_faith;Religious Head died ominously;;;;;;;;;;;;x
-EVTTITLEAHF23400;星々の誤り;;;;;;;;;;;;x
-EVTDESCAHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、すべての偉大な[Root.Religion.GetName]の支配者に伝える義務がある。;;;;;;;;;;;;x
-EVTDESCBHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、すべての偉大な[Root.Religion.GetName]の支配者に伝える義務がある。;;;;;;;;;;;;x
-EVTDESCCHF23400;Despite having consulted with some of the world's most respected diviners and having analyzed sightings from several realms, I have yet to come to a conclusion regarding the future of our world. \nThe omens have been ambiguous and contradictory at every turn, and none of us has been able to give a clear interpretation of the message hidden in the heavens above. \nBeing the [Root.GetTitle], it is my duty to warn the notable [Root.Religion.GetName] rulers that misfortune might be imminent.;;;;;;;;;;;;x
-EVTDESCDHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、我々は恐ろしい時代の始まりに直面しているという結論に達した。\nその兆候は明らかだ。彗星が空に光り、星の位置を好ましくない並びに変えてしまった。二つの頭を持つ子供が生まれたという話もあるうえ、ほかにもそういった不思議な兆しがあった。いずれも恐ろしい未来を指している。\n[Root.GetTitle]である以上、この凶兆をすべての著名な[Root.Religion.GetName]の支配者に知らせ、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
-EVTDESCEHF23400;世界で最も尊敬されている占い師たちと相談し、複数の領邦からの目撃情報を分析した結果、私は終末期が近づいているかもしれないという結論に達した。\n両頭の子どもたちが目撃されたり、火の嵐に襲われたりした後、突然の暗闇が長く続いている。川は干上がり、作物は冒涜的な害虫の雲が我々の土地を取り囲み、作物は血を流している。これらは、差し迫った運命の前兆だ。\n[Root.GetTitle]である以上、この終末の前兆をすべての著名な[Root.Religion.GetName]の支配者に知らせ、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
+EVTTITLEAHF23400;星の巡りが変わった...;;;;;;;;;;;;x
+EVTDESCAHF23400;世界で最も尊敬されている何人かの占い師たちと相談し、いくつかの領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、[Root.Religion.GetName]の全ての有力な領主に伝える義務がある。;;;;;;;;;;;;x
+EVTDESCBHF23400;世界で最も尊敬されている何人かの占い師たちと相談し、いくつかの領邦からの目撃情報を分析した結果、我々は良い時代に入っているという結論に達した。\n空は晴れ、天候は安定しており、天体のずれが我々を破滅に追いやることはない。\n[Root.GetTitle]である以上、これらの吉兆を、[Root.Religion.GetName]の全ての有力な領主に伝える義務がある。;;;;;;;;;;;;x
+EVTDESCCHF23400;世界で最も尊敬されている占い師の何人かと相談し、いくつかの領邦からの目撃情報を分析したにもかかわらず、私はまだ世界の行く末についての結論を出せずにいる。\n前兆は常に曖昧で矛盾しており、天上に隠されたメッセージを明確に解釈することができた人はいない。\n[Root.GetTitle]である私は、[Root.Religion.GetName]の有力な領主に災いが差し迫っているかもしれないと警告する義務がある。;;;;;;;;;;;;x
+EVTDESCDHF23400;世界で最も尊敬されている何人かの占い師たちと相談し、いくつかの領邦からの目撃情報を分析した結果、我々は恐ろしい時代の始まりに直面しているという結論に達した。\nその兆候は明らかだ。彗星が空に光り、星の位置を好ましくない並びに変えてしまった。二つの頭を持つ子供が生まれたという話もあるうえ、ほかにもそういった不思議な兆しがあった。いずれも恐ろしい未来を指している。\n[Root.GetTitle]である以上、この凶兆を[Root.Religion.GetName]の全ての有力な領主に警告し、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
+EVTDESCEHF23400;世界で最も尊敬されている何人かの占い師たちと相談し、いくつかの領邦からの目撃情報を分析した結果、私は終末期が近づいているかもしれないという結論に達した。\n両頭の子どもたちが目撃されたり、火の嵐に襲われたりした後、突然の暗闇が長く続いている。川は干上がり、作物は冒涜的な害虫の雲が我々の土地を取り囲み、作物は血を流している。これらは、差し迫った運命の前兆だ。\n[Root.GetTitle]である以上、この終末の前兆を[Root.Religion.GetName]の全ての有力な領主に警告し、彼らが臣民を守るために必要なすべての予防措置を講じられるようにするべきだ。;;;;;;;;;;;;x
 EVTOPTAHF23400;There must be a better interpretation to these signs...;;;;;;;;;;;;x
 TOOLTIP_EVTOPTAHF23400;Reinterpret the signs to cast a more positive light for the future of the §Y[Root.Religion.GetName]§! world.;;;;;;;;;;;;x
 EVTOPTBHF23400;全ての人が知るべきだ;;;;;;;;;;;;x
 TOOLTIP_EVTOPTBHF23400;Spread the news to all notable §Y[Root.Religion.GetName]§! rulers.;;;;;;;;;;;;x
 EVTOPTCHF23400;これは全く馬鹿げた迷信だ;;;;;;;;;;;;x
 TOOLTIP_EVTOPTCHF23400;自分の発見を隠して、誰にも見せないようにする。;;;;;;;;;;;;x
-EVTTITLEAHF23401;星々の誤り;;;;;;;;;;;;x
+EVTTITLEAHF23401;天文異変;;;;;;;;;;;;x
 EVTDESCAHF23401;We have just received news from [From.PrimaryTitle.GetName]. A most revered congregation of diviners under the leadership of our [From.GetTitle] have analyzed the stars and many prodigious heavenly sightings happening all over the world in the past months, and have reached the conclusion that a period of unbridled prosperity is upon us.\nThe skies are clear, the weather is stable, and the stars have aligned favorably, ensuring stability, abundance and overall good luck throughout the land.;;;;;;;;;;;;x
 EVTDESCBHF23401;We have just received news from [From.PrimaryTitle.GetName]. A most revered congregation of diviners under the leadership of our [From.GetTitle] have analyzed the stars and many prodigious heavenly sightings happening all over the world in the past months, and have reached the conclusion that a period of good luck and stability is approaching us.\nThe skies are clear, the weather is stable, no misalignment of the heavenly bodies threatens us with doom.;;;;;;;;;;;;x
 EVTDESCCHF23401;We are receiving scants reports from [From.PrimaryTitle.GetName] about infighting amongst our most illustrious diviners. \nIt appears that a series of ambiguous and contradictory sightings that have confused our priests as well as the [From.GetTitle] [From.GetHerselfHimself]. \nWith the heavens hiding our future, many amongst us are being beset by doubt and fearfulness.;;;;;;;;;;;;x
@@ -12288,12 +12288,12 @@ EVTDESCCHF23403;The most disturbing news is spreading through the realm. Our rev
 EVTDESCDHF23403;The most disturbing news is spreading through the realm. Our revered [From.GetTitledFirstName] has recently died, eaten by a dragon in [From.GetHerHis] own palace. \nPeople are clamoring that this is surely a sign of divine wrath towards [From.PrimaryTitle.GetName].;;;;;;;;;;;;x
 EVTDESCEHF23403;The most disturbing news is spreading through the realm. Our revered [From.GetTitledFirstName] has recently died after being caught by a strong wind that tossed [From.GetHerHim] into an abyss. \nPeople are clamoring that this is surely a sign of divine wrath towards [From.PrimaryTitle.GetName].;;;;;;;;;;;;x
 EVTOPTAHF23403;How disturbing!;;;;;;;;;;;;x
-EVTTITLEAHF23404;星々の誤り;;;;;;;;;;;;x
+EVTTITLEAHF23404;天文異変;;;;;;;;;;;;x
 EVTDESCAHF23404;After spending the last year scrutinizing the stars, looking for divine signs, I am confident that the realm is about to enter a period of prosperity and stability. I should inform my liege about my findings.;;;;;;;;;;;;x
 EVTDESCBHF23404;After spending the last year scrutinizing the stars, looking for divine signs, I have come to the conclusion that the future of the realm is uncertain and that there might be supernatural threats looming over the horizon. I should inform my liege about my findings.;;;;;;;;;;;;x
 EVTDESCCHF23404;After spending the last year scrutinizing the stars, looking for divine signs, I have come to the conclusion that a period of doom and misfortune is approaching our realm. I should inform my liege about my findings.;;;;;;;;;;;;x
 EVTOPTAHF23404;I must tell everyone!;;;;;;;;;;;;x
-EVTTITLEAHF23405;星々の誤り;;;;;;;;;;;;x
+EVTTITLEAHF23405;天文異変;;;;;;;;;;;;x
 EVTDESCAHF23405;[From.GetTitledFirstName] informed me that, after a careful analysis of the celestial bodies, [From.GetSheHe] has come to the conclusion that our realm is favored by the stars and is about to enter a period of prosperity and good luck.;;;;;;;;;;;;x
 EVTDESCBHF23405;[From.GetTitledFirstName] informed me that, after a careful analysis of the celestial bodies, [From.GetSheHe] has come to the conclusion that our realm is entering a phase of uncertainty and uneasiness.;;;;;;;;;;;;x
 EVTDESCCHF23405;[From.GetTitledFirstName] informed me that, after a careful analysis of the celestial bodies, [From.GetSheHe] has come to the conclusion that our realm is unfavored by the stars and will soon enter a period of misfortune and bad luck.;;;;;;;;;;;;x
@@ -14534,7 +14534,7 @@ EVTTITLEHF24026;The happy [Root.GetSonDaughter] of [Root.Capital.GetName];;;;;;;
 EVTDESCHFA24026;When [Root.GetTitledFirstName] ascended to the throne at such an early age, few in [Root.GetHerHis] court expected [Root.GetHerHim] to last to adulthood.\nYet, in the end, it was [Root.GetHerHis] detractors that did not survive through the [Root.GetTitle]'s childhood.\nUnder [Root.GetHerHis] cheerful and playful appearance, the child demonstrated an unparalleled ruthlessness in [Root.GetHerHis] rise to power, meticulously eliminating all those that opposed [Root.GetHerHim]. \nDespite having long since shed the illusory semblance of innocence that allowed [Root.GetHerHim] to lure many of [Root.GetHerHis] victims to an untimely end, [Root.GetTitledFirstName] has become infamous throughout the realm for [Root.GetHerHis] sanguinary childhood.;;;;;;;;;;;;x
 EVTDESCHFB24026;When [Root.GetTitledFirstName] ascended to the throne at such an early age, few in [Root.GetHerHis] court expected [Root.GetHerHim] to last to adulthood.\nYet, in the end, it was [Root.GetHerHis] detractors that did not survive through the [Root.GetTitle]'s childhood.\nUnder [Root.GetHerHis] cheerful and playful appearance, the child has demonstrated an unparalleled ruthlessness in [Root.GetHerHis] rise to power, meticulously eliminating all those that opposed [Root.GetHerHim]. \nNo playmate of [Root.GetHersHis] dares to deny [Root.GetHerHim] a toy, no tutor dares to punish [Root.GetHerHim], dreading the murderous abyss behind [Root.GetFirstName]'s eerie smile.;;;;;;;;;;;;x
 EVTOPTAHF24026;Why would anybody be scared of playing with me?;;;;;;;;;;;;x
-EVTDESCAHF24027;今日も囚人の処刑を命じた。すると看守の一人が私を処刑台の下に連れて行き、「このように死体が山となっております。遺骨はどういたしましょうか。」と尋ねてきた。;;;;;;;;;;;;x
+EVTDESCAHF24027;私の殺人衝動の犠牲者がまた一人増えた。床を見下ろすと、今までにおびただしい数の死体を積み上げてきたものだなと実感する。それから間もなくして、守衛の一人が当面の問題としてこれらの亡骸をどうすべきか尋ねてきた。;;;;;;;;;;;;x
 EVTOPTAHF24027;私が眺められるところに置いてくれ;;;;;;;;;;;;x
 TT_EVTOPTAHF24027;Embalm the corpse and prop it up in a macabre display.;;;;;;;;;;;;x
 EVTOPTBHF24027;どこかに捨ててこい;;;;;;;;;;;;x
@@ -16889,7 +16889,7 @@ k_novgorod;大ノヴゴロド;;;;;;;;;;;;x
 k_novgorod_adj;大ノヴゴロド;;;;;;;;;;;;x
 k_vladimir;ウラジーミル;;;;;;;;;;;;x
 k_vladimir_adj;ウラジーミル;;;;;;;;;;;;x
-e_pontic_steppe;ポントス草原;;;;;;;;;;;;x
+e_pontic_steppe;ポントス帝国;;;;;;;;;;;;x
 e_pontic_steppe_adj;ポントス;;;;;;;;;;;;x
 k_rus;ノヴゴロド;;;;;;;;;;;;x
 e_kanem;カネム・ボルヌ;;;;;;;;;;;;x

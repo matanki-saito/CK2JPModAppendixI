@@ -2880,7 +2880,7 @@ EVTOPTD_RIP_30000_TRAITOR;逆らってでも断る;;;;;;;;;;;;x
 EVTDESC_RIP_30001;[GetFromRootCompliment]、[Root.GetTitledFirstName]陛下へ\n\n[target_defender.GetTitledName]に対する遺恨は残りますが、あなたの要望を拒否するなど夢にも思いません！\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30002;To my loyal vassal, [Root.GetTitledFirstName].\n\nI have arranged for [FromFrom.GetTitledFirstName] to end [FromFrom.GetPossPronoun] unjust war against you with a White Peace.\n\nWith respect, [FromFrom.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30002;My liege is gracious!;;;;;;;;;;;;x
-EVTDESC_RIP_30003;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am willing to end my war against [target_defender.GetTitledName] in return for a modest sum of money. This affair has been costly, and a white peace means a loss of face.\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_30003;[GetFromRootCompliment]、[Root.GetTitledFirstName]へ。\n\nすこしばかり補償金をいただけるのであれば[target_defender.GetTitledName]との戦いを終わらせたいと思っています。この戦争にはお金がかかっており、白紙和平は面子を失うことを意味するのです。\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30003;結構だ、この戦争は終わらなければならない!;;;;;;;;;;;;x
 EVTOPTB_RIP_30003;私にはそれを支払う余裕がない...;;;;;;;;;;;;x
 EVTDESC_RIP_30004;To my vassal, [Root.GetTitledFirstName].\n\nI am willing to compensate you for your lost prestige in your acceptance of a white peace with [target_defender.GetTitledName]. I am pleased the affair is ended.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
@@ -2889,7 +2889,7 @@ EVTOPTA_RIP_30005;I will win anyway!;;;;;;;;;;;;x
 EVTDESC_RIP_30006;[GetFromRootCompliment]、[Root.GetTitledFirstName]へ。\n\n私は深い悲しみに打ちひしがれていますが、今回は[target_defender.GetTitledName]との戦争を終わらせることは単純にできません。賽は投げられたのです。\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTA_RIP_30006;不幸な...;;;;;;;;;;;;x
 EVTOPTA_RIP_30006_TRAITOR;我が国ではこれは反逆罪だ！;;;;;;;;;;;;x
-EVTDESC_RIP_30007;To the [GetFromRootCompliment], [Root.GetTitledFirstName].\n\nI am willing to end my war against [target_defender.GetTitledName]. However, the affair has been costly and I would lose face, so you would owe me a comparable Favor...\n\nYour loyal vassal, [From.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_RIP_30007;[GetFromRootCompliment]、[Root.GetTitledFirstName]へ\n\n[target_defender.GetTitledName]との戦いを終わらせたいと思っています。しかし、この戦争にはお金がかかっており、私は面子を失うでしょう。であれば同等の貸しを…\n\nあなたの忠実なる封臣、[From.GetTitledFirstName];;;;;;;;;;;;x
 EVTOPTB_RIP_30007;いや、[From.GetObjectPronoun]に借りは作らない;;;;;;;;;;;;x
 EVTDESC_RIP_30008;To my loyal vassal, [Root.GetTitledFirstName].\n\nI realize you will lose prestige in your acceptance of a white peace with [target_defender.GetTitledName]. I am in your debt, and promise to assist you when you ask for a favor.\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x
 EVTDESC_RIP_30009;To my vassal, [Root.GetTitledFirstName].\n\nAlthough I understand you seek compensation for your acceptance of a white peace in your war against with [target_defender.GetTitledName], I will not be indebted to you. Good luck on the battlefield!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;x

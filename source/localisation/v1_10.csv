@@ -277,7 +277,7 @@ REL_CONSORT;側室;;;;;;;;;;;;x
 CH_CONSORT;$WHO$の側室となった;;;;;;;;;;;;x
 CH_REMOVE_CONSORT;もう$WHO$の側室ではない;;;;;;;;;;;;x
 POTENTIAL_TARGET;潜在的なターゲット;;;;;;;;;;;;x
-opinion_set_aside;無視した;;;;;;;;;;;;x
+opinion_set_aside;関係を絶った;;;;;;;;;;;;x
 opinion_evil_tyrant;悪の暴君;;;;;;;;;;;;x
 d_zoroastrian;ゾロアスター教会;;;;;;;;;;;;x
 d_zoroastrian_adj;ゾロアスター教;;;;;;;;;;;;x

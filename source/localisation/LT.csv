@@ -1637,8 +1637,8 @@ EVTOPTB30045;…[annoying_courtier.GetHerHim]に静かにするよう命ずる�
 EVTOPTC30045;…[annoying_courtier.GetHerHis]の迷惑な噂話を無視する。;;;;;;;;;;;;x
 EVTDESC30046;The young [annoying_courtier.GetManWoman] I pushed into the river ended up drowning. Although it was an accident rumors of my deed spread quickly.;;;;;;;;;;;;x
 EVTDESC30047;Wet, but otherwise unharmed, the courtier blasted me with foul words and angry but empty threats. Seeing [annoying_courtier.GetHerHim] standing before me dripping mud and with algae entwined into [annoying_courtier.GetHerHis] hair, I could not stop the laughter pouring out of me.;;;;;;;;;;;;x
-exodus_court_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a full court;;;;;;;;;;;;x
-already_exodus_tooltip;Has NOT asked courtiers to leave recently;;;;;;;;;;;;x
+exodus_court_allow_tooltip;§Y[Root.GetTitledFirstName]§!の宮廷がいっぱいである;;;;;;;;;;;;x
+already_exodus_tooltip;最近廷臣に宮廷を去ることを依頼していない;;;;;;;;;;;;x
 court_exodus;廷臣に宮廷を去るよう依頼;;;;;;;;;;;;x
 court_exodus_desc;最近、私の宮廷は非常に混雑している。 あまり能力のない廷臣には、いくばくかの金を払って出て行って貰おう...;;;;;;;;;;;;x
 COURT_SIZE_TOOLTIP;宮廷の規模 $SIZE$/$LIMIT$;;;;;;;;;;;;x

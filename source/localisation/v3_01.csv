@@ -168,7 +168,7 @@ INTERACTION_CANNOT_INVITE_CONSORT;§Y[Recipient.GetTitledFirstName]§! must not 
 EVTOPTB_HFP_42210;冒涜者共は死なねばならぬ、だが図書館に収められた知識は…;;;;;;;;;;;;x
 opinion_duel_decline_cooldown_tt;Has NOT recently refused a challenge (Expires: [This.has_recently_declined_duel_cooldown.GetExpiryDate]);;;;;;;;;;;;x
 axe_of_perkunas_desc;この石斧は、神話に謳われたペルクナスの斧そのものと酷似している。それ自体が格調高い工芸品であり、同時に、単に手にするだけで使い手に覇気や武威が漲るようでもある…;;;;;;;;;;;;x
-EVTOPT_TEMPLE_BACK_TO_SELECTION;On second thought...;;;;;;;;;;;;x
+EVTOPT_TEMPLE_BACK_TO_SELECTION;考え直そうか…;;;;;;;;;;;;x
 EVTOPT_TEMPLE_BACK_TO_SELECTION_TT;Go back to look at your other options.;;;;;;;;;;;;x
 EVTDESC_HF_41425_A;The whole area is filled with people, looking like they come from all the different corners of the world. I never knew [pilgrimage_destination.province_saint.GetFirstNameWithNick] was this popular or well known. Though it is stressful, I finally get my moment to stand in front of the grave, and feel the blessed aura of the Saint.;;;;;;;;;;;;x
 EVTDESC_HF_41425_B;There is a couple of other pilgrims around, but they all look relatively local to the area. I walk over to the grave and look down at the small statue of the saint, as well as the stone commemorating [pilgrimage_destination.province_saint.GetHerHis] life. It has been a long journey, and I finally get to gaze upon the blessed burial site of [pilgrimage_destination.province_saint.GetFirstNameWithNick].;;;;;;;;;;;;x

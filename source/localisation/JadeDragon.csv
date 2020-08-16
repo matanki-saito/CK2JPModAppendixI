@@ -1507,7 +1507,7 @@ EVTOPTD_39800;他には......;;;;;;;;;;;;x
 EVTOPTA_39801;Weshparkar, the Wind God;;;;;;;;;;;;x
 EVTOPTB_39801;Wishaghn, God of Victory;;;;;;;;;;;;x
 EVTOPTC_39801;Zurvan, God of Time;;;;;;;;;;;;x
-EVTOPTD_39801;On second thought...;;;;;;;;;;;;x
+EVTOPTD_39801;考え直そうか…;;;;;;;;;;;;x
 patron_desi;Patron Deity: Desi;;;;;;;;;;;;x
 patron_parn;Patron Deity: Parn;;;;;;;;;;;;x
 patron_nanaiya;Patron Deity: Nanaiya;;;;;;;;;;;;x
@@ -1694,7 +1694,7 @@ String_Iso_Great_Wall;長城を拡張;;;;;;;;;;;;x
 String_Militant_Monks;好戦的な僧侶;;;;;;;;;;;;x
 String_Rogue_Mandarins;悪党集団「紳士学者」;;;;;;;;;;;;x
 String_Ambitious_Eunuchs;野心的な宦官;;;;;;;;;;;;x
-String_Disgruntled_Officers;不満を抱いた陸軍将校;;;;;;;;;;;;x
+String_Disgruntled_Officers;不満を抱いた指揮官;;;;;;;;;;;;x
 String_Luoyang;洛陽;;;;;;;;;;;;x
 String_Chengdu;成都;;;;;;;;;;;;x
 String_Datong;大同;;;;;;;;;;;;x
@@ -1750,7 +1750,7 @@ zun_pagan_FEATURES;§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者�
 hellenic_pagan_FEATURES;§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者は聖戦を宣言することはできない;;;;;;;;;;;;x
 bon_FEATURES;§Y*§! 統治者は恩寵のために守り神を選択できる\n§Y*§! 改宗に対して脆弱である\n§Y*§! 統治者は聖戦を宣言することはできない;;;;;;;;;;;;x
 pet_masterless_dog;主なき守護者;;;;;;;;;;;;x
-pet_masterless_dog_desc;This character is the guardian of a masterless dog who defends his home from evil spirits.;;;;;;;;;;;;x
+pet_masterless_dog_desc;この人物は、悪霊から彼の家を守る野良犬の守護者です。;;;;;;;;;;;;x
 pet_house_dog;House Dog;;;;;;;;;;;;x
 pet_house_dog_desc;この人物は家で犬を飼い、邪悪な霊魂から身を守る番犬にしています。;;;;;;;;;;;;x
 pet_hedgehog;Vanghapara Pet;;;;;;;;;;;;x
@@ -3080,7 +3080,7 @@ EVTOPT_JD_4020_normal_raid_outcome_extra_plus;[offmap_china.GetShortName] の宝
 EVTDESC_JD_4020_normal_raid_outcome_bad;The raiders we sent to the [offmap_china.GetFullName] were set upon by [offmap_china.GetShortName] patrols and slain! Only a single survivor remains, and all he is doing is telling the story of their defeat...;;;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_bad;呪われろ！[Root.Religion.GetRandomEvilGodName]の仕業に違いない...;;;;;;;;;;;;x
 panda_pet;パンダ;;;;;;;;;;;;x
-panda_pet_desc;This character has captured a pair of panda bears and are keeping them as pets.;;;;;;;;;;;;x
+panda_pet_desc;この人物は、パンダのつがいを捕獲し、ペットとして飼っています。;;;;;;;;;;;;x
 EVTDESC_JD_4020_normal_raid_outcome_panda;The raiders we sent to the [offmap_china.GetFullName] have returned. With them they have brought a pair of... bears? The black-and-white 'bears' are not very ferocious though, and they spend most of their time fumbling about. They will make grand pets!;;;;;;;;;;;;x
 EVTOPT_JD_4020_normal_raid_outcome_panda;Prepare an enclosure!;;;;;;;;;;;;x
 EVTDESC_JD_4030;Despite your best attempts at making them breed, your Pandas have died without producing any offspring. Truly a sorrowful day...;;;;;;;;;;;;x
@@ -3968,9 +3968,9 @@ already_at_war_tt;Is NOT already fighting a §YForce Open§! war;;;;;;;;;;;;x
 china_raid_cd;§Y最近、中国を略奪した！§!;;;;;;;;;;;;x
 china_raid_cd_desc;最近、中国への略奪を中止しました。§Y[Root.china_raid_grace_cd.GetExpiryDate]§!に略奪を再開できます。;;;;;;;;;;;;x
 honoring_the_dead;Honoring the Dead;;;;;;;;;;;;x
-honoring_the_dead_desc;This character has recently reflected upon the life of a beloved late family member.;;;;;;;;;;;;x
+honoring_the_dead_desc;この人物は最近、最愛の亡くなった家族の人生を思い起こしました。;;;;;;;;;;;;x
 carrying_on;Carrying On;;;;;;;;;;;;x
-carrying_on_desc;This character is hard focuses on the tasks at hand rather than dwell in the feelings of the past.;;;;;;;;;;;;x
+carrying_on_desc;この人物は、過去の感情を整理して、目の前の仕事に集中するのが難しいです。;;;;;;;;;;;;x
 EVTDESC_JD_32100;私たちのキャラバンは一日中道端でキャンプしている。 空からの異常に激しい雨に私たちは打たれている。 この状況下で私は、今は亡き[target_relative.GetRootRelation]の[target_relative.GetFirstName]の思い出に浸った。;;;;;;;;;;;;x
 EVTOPTA_JD_32100_young;[target_relative.GetSheHeCap]はあまりにも若くして死んでしまったなぁ。;;;;;;;;;;;;x
 EVTOPTA_JD_32100_pious;[target_relative.GetSheHeCap]は敬虔的な人の見本だったなぁ;;;;;;;;;;;;x
@@ -3988,7 +3988,7 @@ EVTOPTB_JD_32100;過去に戻ることはできない。ただ前に進むだけ
 good_nights_sleep;安眠;;;;;;;;;;;;x
 good_nights_sleep_desc;The pleasant accommodation of previous nights has increased this character's well being and senses.;;;;;;;;;;;;x
 poisoned;Poisoned;;;;;;;;;;;;x
-poisoned_desc;This character is still plagued by pain and body ache from being poisoned.;;;;;;;;;;;;x
+poisoned_desc;この人物は毒物による苦しみと体の痛みにまだ悩まされている。;;;;;;;;;;;;x
 EVTDESC_JD_32110;ある騎手がキャラバンに近づき、[target_host.GetBestName]の印を付けた手紙を手渡した。 [target_host.GetFirstName]は私の旅について耳にし、[target_host.Capital.Capital.GetName]の[target_host.GetCapitalHolding]の温もりの中でしばらくの間休むように勧めてきた。;;;;;;;;;;;;x
 EVTOPTA_JD_32110;This could prove to be an opportunity to get even.;;;;;;;;;;;;x
 EVTTTOOLTIPA_JD_32110;You utilize your rival's hospitality to set up a risky murder attempt on them.;;;;;;;;;;;;x
@@ -4187,7 +4187,7 @@ EVTOPTA_JD_10070_B;ひらめいたぞ...！;;;;;;;;;;;;x
 EVTOPTA_JD_10070_C;努力した甲斐があったというものだ。;;;;;;;;;;;;x
 EVTOPTA_JD_10070_lunatic;それでもまだ、頭の中の悪魔に捧げるべきだったのかもしれない……？;;;;;;;;;;;;x
 EVTOPTA_JD_10070_dying;I am just glad we finished it before I left this earthly realm.;;;;;;;;;;;;x
-EVTOPTA_JD_10070_great_poet;Perhaps I have found my calling?;;;;;;;;;;;;x
+EVTOPTA_JD_10070_great_poet;私の天職を見つけたかもしれない;;;;;;;;;;;;x
 String_most_of_my_spare_time;空き時間をほとんど;;;;;;;;;;;;x
 String_several_years;数年;;;;;;;;;;;;x
 String_years_and_years;幾年も;;;;;;;;;;;;x

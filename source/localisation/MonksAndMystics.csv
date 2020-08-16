@@ -1626,7 +1626,7 @@ EVTDESC_4400_ADD_CONTENT;善き[Root.GetReligiousPerson]信徒になりたいと
 EVTDESC_4400_ADD_PATIENT;善き[Root.GetReligiousPerson]信徒になりたいという願いは、私を[Root.GetMOCode]へと導いた。[Root.GetMOSaint]の生涯に関する学習によって、私は忍耐と受容の価値を見出した。この気付きは我が心に未だかつてないほどの平穏をもたらした。;;;;;;;;;;;;x
 EVTDESC_4400_ADD_DILIGENT;善き[Root.GetReligiousPerson]信徒になりたいという願いは、私を[Root.GetMOCode]へと導いた。私はもはや己の欲望を満たす必要を感じなくなった。むしろ、この世を全ての人にとってより良き場所にするために働きたい。研究の中で神との真のつながりを見つけたのだ。;;;;;;;;;;;;x
 doing_penance;苦行を行う;;;;;;;;;;;;x
-doing_penance_desc;This character has secluded themselves to contemplate their sins and deepen their connection to God.;;;;;;;;;;;;x
+doing_penance_desc;この人物は、己の罪を熟考し、神とのつながりを深めるために隠遁してきました。;;;;;;;;;;;;x
 in_meditation;瞑想;;;;;;;;;;;;x
 EVTOPTB_MNM_4405_tt_fail;悪性に打ち克つことに失敗する。\n;;;;;;;;;;;;x
 in_meditation_desc;This character has secluded themselves to meditate on the truths of their life and the universe.;;;;;;;;;;;;x
@@ -2578,7 +2578,7 @@ crown_of_pearls_desc;この黄金で縁取りされた宝冠は、天使や聖�
 ruby_scepter;ルビーの笏;;;;;;;;;;;;x
 ruby_scepter_desc;この数多のオパールやアルマンディンや真珠で装飾された黄金の笏の頂きは、素晴らしく大きく光り輝く一つのルビーが飾られている。;;;;;;;;;;;;x
 golden_sword;黄金の剣;;;;;;;;;;;;x
-golden_sword_desc;この金色の刃と柄は戦闘には役立ちませんが、全ての臣民を感心させるでしょう。柄頭は壮大な１つのエメラルドで飾られています。;;;;;;;;;;;;x
+golden_sword_desc;この金色の刃と柄は戦闘には役立たないが、全ての臣民を感心させるだろう。柄頭は１つの見事なエメラルドで飾られている。;;;;;;;;;;;;x
 the_lily_crown;ゆりの冠;;;;;;;;;;;;x
 the_lily_crown_desc;金箔と銀箔が押された宝冠の本体に、たくさんのガーネットとオパールがとてもよく映えている。この冠は上部を覆わない、四つの図案化した百合の形をつなげた形をしている。;;;;;;;;;;;;x
 noble_scepter;貴族の笏;;;;;;;;;;;;x
@@ -5117,7 +5117,7 @@ EVTOPTA_ZP_3;The Vanghapara shall protect my home well.;;;;;;;;;;;;x
 EVTDESC_ZP_4;The dog of the water is the most revered of all the dogs. They are what keeps our fields watered and healthy, our bellies full and worries gone.;;;;;;;;;;;;x
 EVTOPTA_ZP_4;It is our honor to house the Sag-e Aabi;;;;;;;;;;;;x
 masterless_dog;主なき番人;;;;;;;;;;;;x
-masterless_dog_desc;This character is the guardian of a masterless dog who defends his home from evil spirits.;;;;;;;;;;;;x
+masterless_dog_desc;この人物は、悪霊から彼の家を守る野良犬の守護者です。;;;;;;;;;;;;x
 house_dog;House Dog;;;;;;;;;;;;x
 house_dog_desc;This character has taken in a dog into his house which defends him from evil spirits.;;;;;;;;;;;;x
 hedgehog;Vanghapara Pet;;;;;;;;;;;;x
@@ -5460,7 +5460,7 @@ NO_HIGHER_QUALITY_VERSION_ACTIVE;同じ分野の上位の奥義書を有効な�
 silver_staff;白銀の杖;;;;;;;;;;;;x
 silver_staff_desc;この銀の杖は非常に複雑な彫刻で覆われています。;;;;;;;;;;;;x
 derafsh_kaviani_desc;ペルシャの宝石で覆われ、豊かに装飾された革の旗。 伝説によれば、それは勇敢な鍛冶屋カヴェの槍とエプロンから作られたものです。;;;;;;;;;;;;x
-mountain_of_light_diamond_desc;このダイヤモンドには、これまでに一度も見たことがないカットがあり、その起源は神秘的なベールに覆われています。 それはかつて多くの宝庫の宝庫であり、多くの王朝の台頭や突然の崩壊の原因と言われています。;;;;;;;;;;;;x
+mountain_of_light_diamond_desc;このダイヤモンドはこれまで誰も見た事がない形をしており、その起源は謎に包まれている。これまで様々な王室の財宝となっており、多くの王朝の台頭や突然の崩壊の原因と言われている。;;;;;;;;;;;;x
 elaborate_danda_desc;ダンダは、クリシュナが牛の群れを操る笏です。それはチャトリーの柄であり、王族の傘であり、それは王様の最重要象徴です。 この特定のダンダは、古くから古く、精巧です。;;;;;;;;;;;;x
 emerald_tablet_desc;ヘルメス・トリスメギストゥスその人によって書かれたといわれるエメラルド・タブレットには、第一質料とその変成の秘密が記されているとされます。その神聖な碑文を解読できれば、啓蒙と永遠の命に一歩近づくことができる。;;;;;;;;;;;;x
 EVTDESC_MNM_9902_A;私の部隊が[target_title.GetName]の[target_title.GetHolding]を略奪していたところ、[original_item_owner.GetTitledFirstName]によって隠されていた興味深い遺物を発見しました！;;;;;;;;;;;;x

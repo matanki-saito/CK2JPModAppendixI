@@ -114,7 +114,7 @@ LIFT_EMBARGO_EFFECT;$WHO$に対する禁輸を解く\n;;;;;;;;;;;;x
 TRADE_INCOME;貿易収入;;;;;;;;;;;;x
 TRIGGER_TRADE_POST_OWNER;交易所の所有者;;;;;;;;;;;;x
 FAM_REAL_FATHER;実父;;;;;;;;;;;;x
-AN_UNKNOWN_FATHER;父親は不明;;;;;;;;;;;;x
+AN_UNKNOWN_FATHER;身元不明の父親;;;;;;;;;;;;x
 WAS_NOT_CONCEIVED_A_BASTARD;出産前に非嫡出子とされなかった;;;;;;;;;;;;x
 WAS_CONCEIVED_A_BASTARD;出産前に非嫡出子とされた;;;;;;;;;;;;x
 FATHER_OF_UNBORN_KNOWN;赤ん坊の父親は不明;;;;;;;;;;;;x
