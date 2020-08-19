@@ -251,7 +251,7 @@ EVTOPTA_RIP_30211;苦しみから解き放とう、親愛なる[GetFromRelation]
 EVTOPTB_RIP_30211;何を言っているのですか！そんなことはできません！;;;;;;;;;;;;x
 EVTDESC_RIP_30212_SUCCESS_A;貴方の[GetFromRelation] [From.GetTitledFirstName]の手が貴方を掴み、霧がかった貴方の思考に[From.GetHerHis]の声が響きます。「何も心配いらない、[Root.GetFirstName]。すぐ済むから…」喉に重さがかかり、貴方は少しもがいて…そうして、貴方はこと切れました。 ;;;;;;;;;;;;x
 EVTDESC_RIP_30212_SUCCESS_B;手が貴方を掴み、霧がかった貴方の思考に[From.GetHerHis]の声が響きます。「何も心配いらない、[Root.GetFirstName]。すぐ済むから…」喉に重さがかかり、貴方は少しもがいて…そうして、貴方はこと切れました。 ;;;;;;;;;;;;x
-EVTDESC_RIP_30212_FAIL;床にぶつかる音が丸で貴方の霞がかった思考に突き刺すかのようだった。[From.GetTitledFirstName]の声が遠くから聞こえたのだ…恐れや拒絶の意を示しているかのようであった。あなたはまた孤独となったのだ。;;;;;;;;;;;;x
+EVTDESC_RIP_30212_FAIL;床にぶつかる音がまるで貴方の霞がかった思考に突き刺すかのようだった。[From.GetTitledFirstName]の声が遠くから聞こえたのだ…恐れや拒絶の意を示しているかのようであった。あなたはまた孤独となったのだ。;;;;;;;;;;;;x
 EVTOPTB_RIP_30212;戻ってきてくれ…[From.GetFirstName]…;;;;;;;;;;;;x
 commit_suicide_allow_tooltip;§Y[Root.GetTitledFirstName]§!には自殺する理由が無ければならない。\n;;;;;;;;;;;;x
 EVTDESC_RIP_30222;[Root.GetTitle]の日常は楽ではない。臨席が必要な執務、嘆願を求める臣民、そして良からぬ想像から中傷に走る臣下たちが絶えずひしめいている。あなたはやっと一人になって、庭園を散策した。遠くに簡素な身なりの見知らぬ人が見えた。;;;;;;;;;;;;x

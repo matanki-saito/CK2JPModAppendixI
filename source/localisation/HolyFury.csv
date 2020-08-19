@@ -6138,7 +6138,7 @@ artifact_is_removed_tt;§Y[equipped_artifact.GetName]§! は、あなたの宝�
 EVTOPT_HFP_11011_C;いや、まだだ – [enemy_commander.GetFirstName] と一騎打ちだ!;;;;;;;;;;;;x
 opinion_injured_me_in_battle;戦場で傷を負わされた;;;;;;;;;;;;x
 opinion_impressed_me_in_battle;戦場で感銘を与えた;;;;;;;;;;;;x
-opinion_showed_me_mercy_in_battle;Showed Me Mercy In Battle;;;;;;;;;;;;x
+opinion_showed_me_mercy_in_battle;戦いのなかで慈悲をかけられた;;;;;;;;;;;;x
 the_battle_at_location;[battlefield_location.GetName]の戦い;;;;;;;;;;;;x
 EVTDESC_HFP_11012_A;その瞬間、私は命令を叫ぶ、そして、打ち鳴らされる剣と戦いが私を取り囲む。次に、世界が私から遠ざかるにつれて、すべてが暗くなっていく。それらは…心配そうな顔の人々だろうか？すべてが痛い。私はただ…休みたい。;;;;;;;;;;;;x
 EVTDESC_HFP_11012_B;その瞬間、私は命令を叫ぶ、そして、打ち鳴らされる剣と戦いが私を取り囲む。それから私の記憶は失われ、血と[battlefield_location.GetGroundDesc]の入り混じった地面に身を横たえていることに気づく。耳は痛く、耳鳴りがする。兵士が私のそばを駆け抜けていくが、私は死んだものと思っているようだ。;;;;;;;;;;;;x
@@ -6199,7 +6199,7 @@ invisible_injury_title;内なる傷;;;;;;;;;;;;x
 EVTDESC_HFP_11019_A;[battlefield_location.GetName]での戦いからずっと、我が子の側にいてやることは難しいと考えていた。いつか再び戦場へと向かうことになる。そうすれば、お互いを失うかもしれない。そんな恐怖に耐えるなんて無理だ、だからこの距離感でいいんだ。そうだ、これでいいんだ。;;;;;;;;;;;;x
 EVTOPTA_HFP_11019_1;酒でも飲もう。;;;;;;;;;;;;x
 EVTOPTA_HFP_11019_2;召使いよ、私は悪夢にうなされてなどいない！そうだろう？;;;;;;;;;;;;x
-EVTDESC_HFP_11019_B;戦場から戻っても、家に居ることを未だに実感できずにいる。体はここにあるが、心は[battlefield_location.GetName]に居続けているのだ。時々、私は死んでいて、これはすべて悪い夢なのだ、と考えてしまう。呼吸ができなくなることすらある始末だ。;;;;;;;;;;;;x
+EVTDESC_HFP_11019_B;戦場から戻っても、家に居ることをいまだに実感できずにいる。体はここにあるが、心は[battlefield_location.GetName]に居続けているのだ。時々、私は死んでいて、これはすべて悪い夢なのだと考えてしまう。呼吸ができなくなることすらある始末だ。;;;;;;;;;;;;x
 EVTOPTB_HFP_11019_1;再び生を感じたい。召使い、ちょっと来てくれ！;;;;;;;;;;;;x
 EVTOPTB_HFP_11019_2;一人の時間さえあれば十分だ。;;;;;;;;;;;;x
 EVTDESC_HFP_11019_C;[battlefield_location.GetName]の戦いの後、倒れた兵士たちの家族に、彼らの運命を知らせることが私の義務だった。 夜になっても、ある十代の娘の目に憎しみの炎が燃えていたのが頭から離れない。 それが私のせいではないとわかってはいるが、私は彼らの人生を壊してしまったのだ。;;;;;;;;;;;;x
@@ -6213,8 +6213,8 @@ EVTOPTF_HFP_11019;今後一切、誰かと親しくなったりはすまい。;;
 EVTOPTA_MNM_1214_other;Oh, my darling... Even knowing the future, I could not prevent it.;;;;;;;;;;;;x
 EVTOPTB_MNM_1214_other;Oh, my darling... I must strive to understand the visions better.;;;;;;;;;;;;x
 EVTDESC_HFP_11025_dog;[Root.GetClumsilyElegantly]に前方へ剣を振っているとき、信頼している私の犬は敵の足にかじりつき、戦いは[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで激化していた。そのとき近くの兵士が叫んだ「矢が来ます！[Root.GetLordLady]、気を付けてください！待てよ、なんだあの犬はー」*ビシッ*;;;;;;;;;;;;x
-EVTDESC_HFP_11025_cat;私の猫は傷ついた兵士たちを優しい気持ちにする働きをしていて、この[battlefield_location.GetInOn]の[battlefield_location.GetTerrain]で何よりも大切な宝物となっている。無論、猫が私の鞍袋の上で寝付いているのを最初に見たときや戦場にまで付いていこうとしたときは困ったものだが、今ではそんなことはまったく気にならな…*ビシッ*;;;;;;;;;;;;x
-EVTDESC_HFP_11025_horse;私と愛馬はまさに人馬一体だ。長い間ともに訓練し、敵は我々を恐れるようになった。「見ろ、[Root.GetTitledFirstName]と[Root.GetWarhorseName]だ！」奴らは口々に言いあった。私が眠るとき、[Root.GetWarhorseName]も眠る。だから刃が[Root.GetHerHim]を切り裂いたとき、私も血を流したように感じた...;;;;;;;;;;;;x
+EVTDESC_HFP_11025_cat;私の猫は傷ついた兵士たちを優しい気持ちにする働きをしていて、この[battlefield_location.GetInOn]の[battlefield_location.GetTerrain]で何よりも大切な宝物となっている。無論、猫が私の鞍袋の上で寝付いているのを最初に見たときや戦場にまで付いていこうとしたときは困ったものだが、今ではそんなことはまったく気にならな……*ビシッ*;;;;;;;;;;;;x
+EVTDESC_HFP_11025_horse;私と愛馬はまさに人馬一体だ。長い間ともに訓練し、敵は我々を恐れるようになった。「見ろ、[Root.GetTitledFirstName]と[Root.GetWarhorseName]だ！」奴らは口々に言いあった。私が眠るとき、[Root.GetWarhorseName]も眠る。だから刃が[Root.GetHerHim]を切り裂いたとき、私も血を流したように感じた..…;;;;;;;;;;;;x
 EVTDESC_HFP_11025_owl;遠征にフクロウを連れてくることについてひと悶着あったものの、我々の戦略会議には癒やしをもたらし、敵には気が散るキンキン声を与えたことで抗議の声は止んだ。「敵襲だ！」私は[battlefield_location.GetThroughOver]の[battlefield_location.GetTerrain]じゅうに届く怒鳴り声をあげ、そしてフクロウはシューっと私の頭上に飛び立った。そのとき、いくつもの矢が目に映った。;;;;;;;;;;;;x
 EVTDESC_HFP_11025_eagle;誰しもが勇壮なワシの姿をした衛兵を側に従えられるとは限らない。[Root.GetSheHe]はこの[battlefield_location.GetTerrain]において、一度ならず私の攻撃に加勢してくれた。敵のところへ飛んでゆき、馬上から[battlefield_location.GetGroundDesc]の上にたたき落としたのだ。頭上で甲高く鳴く声も耳に心地よい。ただ心配があるとすれば――;;;;;;;;;;;;x
 EVTDESC_HFP_11025_falcons;[battlefield_location.GetTerrain][battlefield_location.GetThroughOver]まで馬に乗り、力がどんどん抜けていくのを感じた。汗が土や血と混じり顔にまみれるなか、敵が矢を構え、私に狙いを定めているのを見た。だがその時、ふと目に入った鳥が急降下し、その騎手の顔をつつき出した！;;;;;;;;;;;;x
@@ -7082,7 +7082,7 @@ EVTOPTA_HF_42024_GAME;勝つために最善を尽くそう。;;;;;;;;;;;;x
 EVTOPTA_HF_42024_SOCIAL;思っていたよりうまくいった。;;;;;;;;;;;;x
 EVTOPTA_HF_42024_SCHOLAR;これは面白そうだ。;;;;;;;;;;;;x
 EVTOPTA_HF_42024_STEWARD;[From.Capital.GetName]の街の素晴らしさに感動したと言わざるを得ない。;;;;;;;;;;;;x
-EVTOPTA_HF_42024_TORTURE;これは…面白いのか？;;;;;;;;;;;;x
+EVTOPTA_HF_42024_TORTURE;これは面白い…のか？;;;;;;;;;;;;x
 EVTDESC_HF_42025_HUNT;面白味のない数時間が過ぎていったが、そのとき不意に我々は探していたイノシシと出くわした。兵士たちは私のほうを見て、奴が通り過ぎるのを待つか、狩り出すかの指示を待っていた。;;;;;;;;;;;;x
 EVTDESC_HF_42025_DUEL;私たちは予選をほぼ難なく勝ち上がっていった。決勝戦ではその手の内の剣が小さく見えるほどの、オーガのような2人の巨漢と戦うことになった。;;;;;;;;;;;;x
 EVTDESC_HF_42025_GAME;ゲームが進展していくと、私と[From.GetFirstName]が組むことになった。私は我々のどちらか1人の持ち駒すべてを、勝つために犠牲にすることができると知っている。[From.GetFirstName]はまだそれに気づいていないようだ。;;;;;;;;;;;;x
@@ -7158,8 +7158,8 @@ EVTOPTB_HF_42027_DUEL;よし、奴らを疲れさせることにしよう。;;;;
 EVTOPTB_HF_42027_GAME;[From.GetSheHe]には何か策があるのだろう。自分の場所を守るとしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_SOCIAL;あとはこの夜をただ楽しく過ごすことにしよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_SCHOLAR;彼らにその無能さを分からせてやろう。;;;;;;;;;;;;x
-EVTOPTB_HF_42027_STEWARD;Let us try and remember where we came from in the first place.;;;;;;;;;;;;x
-EVTOPTB_HF_42027_TORTURE;This is delicate work, after all.;;;;;;;;;;;;x
+EVTOPTB_HF_42027_STEWARD;最初にいた場所を思い出して戻ってみよう。;;;;;;;;;;;;x
+EVTOPTB_HF_42027_TORTURE;なんと言っても、これは繊細な作業だからな。;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_SUCCESS;Though the boar fought valiantly, we finally bring the beast down, to loud cheers from all our retainers. It has been a good hunt.;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_FAILURE;Though we fight valiantly and the beast look weakened, it flees as I am about to land the final strike. Our retainers look for it, but it cannot be found.;;;;;;;;;;;;x
 EVTDESC_HF_42028_DUEL_SUCCESS;Though the two lumbering men fought for their lives, they finally give up and fall to the ground exhausted. I look over at [From.GetFirstName] and cheer.;;;;;;;;;;;;x
@@ -7184,7 +7184,7 @@ EVTOPTA_HF_42028_TORTURE;次はもっと上手くやってやろう。;;;;;;;;;;
 EVTDESC_HF_42029_HUNT_SUCCESS;獣は傷だらけで倒れこみ、家臣たち全員は大きな歓声をあげた。;;;;;;;;;;;;x
 EVTDESC_HF_42029_HUNT_FAILURE;獣はほとんど観念するところだったと皆が思ったが、思いがけないことに奴は突然[From.GetFirstName]に向かって突進して逃げようとした。どれだけ臣下たちを集めて奴を探しても、もはや見つけ出せない。;;;;;;;;;;;;x
 EVTDESC_HF_42029_DUEL_SUCCESS;[From.GetFirstName]は最後に立っている男に何度も攻撃を浴びせる前に、相手の攻撃を何度も避けきっていた。二人の男の動きはすっかり鈍くなり参ってしまっている。我々の勝利は確実だ。;;;;;;;;;;;;x
-EVTDESC_HF_42029_DUEL_FAILURE;After a long tiresome fight, [From.GetFirstName] and I finally have to admit defeat to the two men. We did our best, but was outdone by their strength and speed.;;;;;;;;;;;;x
+EVTDESC_HF_42029_DUEL_FAILURE;長引く面倒な戦いののち、[From.GetFirstName]と私はとうとう2人の男に敗れたことことを認めざるをえなくなった。我々はベストを尽くしたが、相手の強さと素早さは我々を上回っていたのだ。;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_SUCCESS;After several hours, the last of our opponents' units finally fall. [From.GetFirstName] gives me a small nod of approval, as we sit back and enjoy our well fought victory. ;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_FAILURE;After several hours, the last of our units finally fall to our opponents. [From.GetFirstName] give me a small shrug, as we sit back and think about what we could have done to win. ;;;;;;;;;;;;x
 EVTDESC_HF_42029_SOCIAL_SUCCESS;It was quite the event, and as the guests are leaving the premises they are talking about how much fun they had. [From.GetFirstName] still seem to be asleep as I am leaving. ;;;;;;;;;;;;x
@@ -7237,23 +7237,23 @@ EVTOPTA_HF_42031_SOCIAL;[From.GetSheHeCap] just need to learn how to enjoy the f
 EVTOPTA_HF_42031_SCHOLAR;Too bad [From.GetSheHe] did not enjoy it.;;;;;;;;;;;;x
 EVTOPTA_HF_42031_STEWARD;Maybe next time?;;;;;;;;;;;;x
 EVTOPTA_HF_42031_TORTURE;Not everyone understands the art, after all.;;;;;;;;;;;;x
-TT_SUCCESSFUL_SWAY_EVENT;a successful outcome;;;;;;;;;;;;x
-TT_PARTLY_SUCCESFUL_SWAY_EVENT;a partly successful outcome;;;;;;;;;;;;x
-TT_UNSUCCESSFUL_SWAY_EVENT;an unsuccessful outcome;;;;;;;;;;;;x
-TT_DISASTROUS_SWAY_EVENT;a disastrous outcome;;;;;;;;;;;;x
+TT_SUCCESSFUL_SWAY_EVENT;上々の成果;;;;;;;;;;;;x
+TT_PARTLY_SUCCESFUL_SWAY_EVENT;そこそこの成果;;;;;;;;;;;;x
+TT_UNSUCCESSFUL_SWAY_EVENT;不首尾な成果;;;;;;;;;;;;x
+TT_DISASTROUS_SWAY_EVENT;散々な結果;;;;;;;;;;;;x
 opinion_weak_hunter;下手な狩人;;;;;;;;;;;;x
 opinion_weak_duelist;弱い決闘家;;;;;;;;;;;;x
 opinion_fought_together;ともに戦った仲;;;;;;;;;;;;x
-opinion_helpful_ally;Helpful Board Game Ally;;;;;;;;;;;;x
-opinion_unhelpful_ally;Unhelpful Board Game Ally;;;;;;;;;;;;x
+opinion_helpful_ally;頼りになるボードゲーム仲間;;;;;;;;;;;;x
+opinion_unhelpful_ally;頼りないボードゲーム仲間;;;;;;;;;;;;x
 opinion_party_friend;宴会仲間;;;;;;;;;;;;x
 opinion_useless_host;無能なホスト役;;;;;;;;;;;;x
-opinion_impaler_friends;Impaler Friends;;;;;;;;;;;;x
+opinion_impaler_friends;拷問仲間;;;;;;;;;;;;x
 opinion_fellow_speaker;弁論家仲間;;;;;;;;;;;;x
 opinion_impressive_speaker;堂々たる弁論家;;;;;;;;;;;;x
-opinion_working_together;Worked Together;;;;;;;;;;;;x
-opinion_confident_host;Confident Host;;;;;;;;;;;;x
-NO_SEA_PATH_TT;Can be Reached by Sea;;;;;;;;;;;;x
+opinion_working_together;ともに働いた仲;;;;;;;;;;;;x
+opinion_confident_host;堂々たるホスト役;;;;;;;;;;;;x
+NO_SEA_PATH_TT;海にたどり着ける;;;;;;;;;;;;x
 divination_crit_success;大吉兆;;;;;;;;;;;;x
 divination_crit_success_desc;[Root.GetTitledFirstName]の軍の必勝を表すお告げだ;;;;;;;;;;;;x
 divination_success;吉兆;;;;;;;;;;;;x
@@ -17450,7 +17450,7 @@ EVTDESCCHF23760;Stability in [Root.PrimaryTitle.GetName] can only be maintained 
 EVTOPTAHF23760;The intricacies of politics can never be truly mastered.;;;;;;;;;;;;x
 tooltip_synergic_education_ugrade;By focusing on [scoped_improvement_target.GetHerHis] main field of study, §Y[scoped_improvement_target.GetTitledFirstName]§! has a chance to improve [scoped_improvement_target.GetHerHis] §YEducation§!.;;;;;;;;;;;;x
 EVTOPTBHF23760;平和を維持するには戦場での熟練が不可欠だ。;;;;;;;;;;;;x
-EVTOPTCHF23760;Only by knowing ourselves we can lead others.;;;;;;;;;;;;x
+EVTOPTCHF23760;一族のことを知らなければ、他者を導くことなど出来ない。;;;;;;;;;;;;x
 EVTOPTDHF23760;誰か他の人に力を注ぐべきだろうな。;;;;;;;;;;;;x
 EVTDESCAHF23761;Thanks to my relentless efforts, I have achieved a greater understanding of politics than I ever thought possible. With these newfound diplomatic skills I will ensure peace and prosperity throughout [Root.PrimaryTitle.GetName] for years to come!;;;;;;;;;;;;x
 EVTDESCBHF23761;All these days of mock-battles and constant drilling have finally paid off. Thanks to my relentless efforts, I have achieved a greater understanding of strategy than I ever thought possible. I can only hope that the new tactics I worked on will be able to protect the realm when war comes.;;;;;;;;;;;;x

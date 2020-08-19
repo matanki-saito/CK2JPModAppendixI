@@ -4201,7 +4201,7 @@ String_disappointed_in_myself_and_my_scribes;Frankly, I find myself a little dis
 String_not_disappointed_in_my_scribes;私が望んだものかは分からないが、「[new_book.GetName]」は確かに……なんだろうか？;;;;;;;;;;;;x
 String_grateful_to_my_scribes;'Excellent!' I commend my scribes, while I gently leaf through '[new_book.GetName]'.;;;;;;;;;;;;x
 String_having_trouble_understanding_what_I_could_have_done_differently;I stare at the book, '[new_book.GetName]'. My scribes are silent, exchanging awkward glances.;;;;;;;;;;;;x
-String_almost_surprised_it_was_finally_finished;「[new_book.GetName]か、ふむ」 ついにあの仕事が終わり、思わず私は顎をさすった。;;;;;;;;;;;;x
+String_almost_surprised_it_was_finally_finished;「[new_book.GetName]か、ふむ」 仕事をやり遂げて、思わず私は顎をさすった。;;;;;;;;;;;;x
 String_filled_with_a_sense_of_well_deserved_pride;満面の笑みが浮かび、思わず自尊心が高まってしまうのだった。;;;;;;;;;;;;x
 String_expectation_of_work_fallback;It's not exactly what I expected...!;;;;;;;;;;;;x
 String_what_feels_like_forever;what feels like forever;;;;;;;;;;;;x
@@ -4387,8 +4387,8 @@ learning_languages_4_desc;Everything you had ever wondered about the [From.Origi
 the_not_actual_holy_book;[From.OriginalOwner.Religion.GetScriptureName]の改良;;;;;;;;;;;;x
 the_not_actual_holy_book_desc;While it said that the [From.OriginalOwner.GetTitle] found great comfort in the nonsensical tales of this book, the local religious authorities are known to frown upon the work.;;;;;;;;;;;;x
 the_republic_desc;Inspired by the ancient Romans, [From.OriginalOwner.GetTitledFirstName] delves into the more philosophical aspects of society, and in particular regarding [From.OriginalOwner.GetHerHis] own role in it, as a modern [From.OriginalOwner.GetManWoman] and [From.OriginalOwner.GetTitle].;;;;;;;;;;;;x
-unnatural_history;不自然な歴史;;;;;;;;;;;;x
-unnatural_history_desc;While Pliny the Elder described his 'Naturalis Historia' as a work of the natural world and life, in this book [From.OriginalOwner.GetTitledName] instead discusses at length 'the veil beyond' and the death of all things living...;;;;;;;;;;;;x
+unnatural_history;死然史;;;;;;;;;;;;x
+unnatural_history_desc;大プリニウスは彼の「博物誌」を自然界と生命の作品と説明しましたが、一方[From.OriginalOwner.GetTitledName]はこの本で「彼方のベール 」と、生きとし生けるものの死について詳細に論じています...;;;;;;;;;;;;x
 the_confessions_of_root;[From.OriginalOwner.GetTitledFirstName]の告白;;;;;;;;;;;;x
 the_confessions_of_root_desc;この自伝的と思われる作品は、誘惑に悩む若き[From.OriginalOwner.GetTitle]の感動的な物語を物語っている。また手遅れになる前にそのような問題を避け、対処する方法についてのアドバイスも提供している。;;;;;;;;;;;;x
 the_book_of_healing;キタブ・アルシファ;;;;;;;;;;;;x
