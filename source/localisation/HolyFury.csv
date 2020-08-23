@@ -59,7 +59,7 @@ EVTOPTA_HFP_10102_elegant;最後まで尊敬できる奴だった...私は...あ
 no_one_wins_the_duel_tt;誰も決闘で勝利しませんでした。\n;;;;;;;;;;;;x
 you_win_the_duel_tt;決闘で勝利しました。\n;;;;;;;;;;;;x
 you_lose_the_duel_tt;決闘で敗北しました。\n;;;;;;;;;;;;x
-EVTDESC_HFP_10105_default_E;私が荒々しく武器を振り回していると突然、[other_combatant.GetTitledFirstName]が痛みを訴えた。私は[Root.GetDuelWeapon]を取り落とし、自ら作り出した混乱を見つめていた。私は思いがけず[other_combatant.GetWeaponInjuringBlow]したようだ。;;;;;;;;;;;;x
+EVTDESC_HFP_10105_default_E;私が荒々しく武器を振り回していると、突然[other_combatant.GetTitledFirstName]が痛みに金切り声を上げた。私は[Root.GetDuelWeapon]を取り落とし、自ら作り出した混乱を呆然と見つめていた。私はどうにかして[other_combatant.GetWeaponInjuringBlow]したようだ。;;;;;;;;;;;;x
 EVTDESC_HFP_10105_mock_duel_A;戦いは何時間もかかったように感じた。初めに持っていた自信も無くなり始め、動きはどんどん鈍くなっていった。遂に膝が崩れ落ちそうになった瞬間、私は[other_combatant.GetWeaponInjuringBlow]した。;;;;;;;;;;;;x
 EVTDESC_HFP_10105_mock_duel_B;決闘が始まると、[other_combatant.GetTitledName]は私にゆっくりと向かってきた。私は最高に馬鹿にした笑顔を[other_combatant.GetHerHim]に送り、私が[other_combatant.GetWeaponInjuringBlow]するのを見るまで長い時間はかからなかった。;;;;;;;;;;;;x
 EVTDESC_HFP_10105_mock_duel_C;私が熱心に[Root.GetDuelWeapon]を振り回すので、観客たちは私を応援している。それが終わった時、[other_combatant.GetTitledName]は地面に倒れ、[other_combatant.GetHerHis]の顔は恥辱の赤に染まっていた。私は肩をすくめ、群衆に、そして相手に笑った。;;;;;;;;;;;;x
@@ -146,7 +146,7 @@ String_sever_their_body_part_from_body;[This.GetHerHis] の[This.GetBodyPartInju
 String_sever_their_head_from_their_body;[This.GetHerHis]の頭を体から切断;;;;;;;;;;;;x
 String_crush_their_body_part;一撃で[This.GetHerHis]の [This.GetBodyPartInjured]を破壊;;;;;;;;;;;;x
 String_crush_their_head;完璧な打撃で[This.GetHerHis]を叩きのめす;;;;;;;;;;;;x
-String_pierce_body_part_through;[This.GetHerHis] の[This.GetBodyPartInjured]を突き刺す;;;;;;;;;;;;x
+String_pierce_body_part_through;[This.GetHerHis]の[This.GetBodyPartInjured]を刺突;;;;;;;;;;;;x
 String_take_body_part_out;[This.GetHerHis]の[This.GetBodyPartInjured]を破壊する——想像していたよりむごい見た目だ;;;;;;;;;;;;x
 String_stick_body_part_out;[This.GetHerHis]の顔を切り付けて、[This.GetBodyPartInjured]を傷つける;;;;;;;;;;;;x
 String_crack_bones_of_body_part;[This.GetHerHis]の[This.GetBodyPartInjured]の骨を何本か折る;;;;;;;;;;;;x
@@ -718,7 +718,7 @@ opinion_promsied_to_depose_him;彼奴らを引きずり下ろす誓いを持つ;
 opinion_promsied_to_depose_myantipope;自分の対立教皇を廃位することを誓っている;;;;;;;;;;;;x
 opinion_promsied_to_depose_hisantipope;彼奴らの対立教皇を退位させる誓いを持つ;;;;;;;;;;;;x
 opinion_papal_land_donation;教皇領を回復した;;;;;;;;;;;;x
-opinion_supposed_to_crown;Supposed to crown them;;;;;;;;;;;;x
+opinion_supposed_to_crown;戴冠を執り行う;;;;;;;;;;;;x
 opinion_coronation_guest;戴冠式の来賓;;;;;;;;;;;;x
 prepare_coronation_ceremony;戴冠を計画する;;;;;;;;;;;;x
 prepare_coronation_ceremony_desc;戴冠式の準備を始めます。[Root.Religion.GetName]を奉じる[Root.GetTitle]として、神より与えられた自分の王権を正統なものとするためには教会の中でも名のしれた聖職者から戴冠されることが不可欠です。;;;;;;;;;;;;x
@@ -924,7 +924,7 @@ EVTDESCHFA20329;私がちょうど夕食の準備をしていたところ、外�
 EVTOPTAHF20329;知りたい！教えてくれ！;;;;;;;;;;;;x
 EVTTOOLTIPHF20330;[From.GetTitledFirstName]がお役に立てれば幸いです。;;;;;;;;;;;;x
 EVTOPTBHF20329;お前は私の家庭教師ではない、対等だ！;;;;;;;;;;;;x
-EVTTOOLTIPHF20331;[From.GetTitledFirstName] is displeased of your refusal.;;;;;;;;;;;;x
+EVTTOOLTIPHF20331;[From.GetTitledFirstName]はあなたの拒絶に腹を立てている。;;;;;;;;;;;;x
 EVTDESCHFA20330;[From.GetTitledFirstName] was happy to learn more about [From.GetHerHis] upcoming responsibilities as a [From.GetTitle] from me. I am sure that what I told [From.GetHerHim] tonight will be of great use to [From.GetHerHim] in the future, and it will make [From.GetHerHis] realm more prosperous as well.;;;;;;;;;;;;x
 EVTOPTAHF20330;良い行動はそれ自体が報酬になる。;;;;;;;;;;;;x
 EVTDESCHFA20331;Perhaps [From.GetTitledFirstName] is too young to understand that I was only attempting to aid [From.GetHerHim]: [From.GetSheHe] did not listen to my words and dismissed [From.GetHerselfHimself] as soon as [From.GetSheHe] could. This sacred ceremony might well be just a big game for [From.GetHerHim].;;;;;;;;;;;;x
@@ -942,7 +942,7 @@ EVTOPTAHF20336;How dare you!;;;;;;;;;;;;x
 EVTDESCHFA20337;A heated argument has sparked between [FromFrom.GetTitledFirstName] and [From.GetTitledFirstName], two of my distinguished foreign guests. Whatever their reasons, this diplomatic incident could be a stain on the legitimacy of this ceremony if not properly handled.;;;;;;;;;;;;x
 EVTOPTAHF20337;I am sure I can make them see reason.;;;;;;;;;;;;x
 EVTTOOLTIPAHF20337;Attempt to use §YDiplomacy§! to calm the two rulers.;;;;;;;;;;;;x
-EVTOPTBHF20337;I better not interfere.;;;;;;;;;;;;x
+EVTOPTBHF20337;邪魔をしないほうがいい。;;;;;;;;;;;;x
 EVTDESCHFA20338;Thanks to my diplomatic skills I was able to not only stop the argument between the two rival rulers from escalating, but to also mend their disagreements permanently. We talked long after the dinner was over and when the two of them retired to their rooms for the night they professed that they have found a new friend in me.;;;;;;;;;;;;x
 EVTDESCHFB20338;[From.GetTitledFirstName] decided to interfere with the argument I was in. While at first I was doubtful [From.GetSheHe] could offer any help, [From.GetHerHis] intervention was enough not only to stop my rival's unjust accusations, but also to help clear any disagreements we might have had with each other permanently. [From.GetTitledFirstName] has proven [From.GetHerselfHimself] to be a true friend.;;;;;;;;;;;;x
 EVTOPTAHF20338;素晴らしい。;;;;;;;;;;;;x
@@ -5800,7 +5800,7 @@ repay_money_jewish_special;600¤の借金を返済;;;;;;;;;;;;x
 repay_money_jewish_special_desc;I will repay the gold that I owe the Banks of Israel.;;;;;;;;;;;;x
 bloodline_effect_israel_loans;Can borrow from the §GBanks of Israel§!;;;;;;;;;;;;x
 bloodline_effect_free_legitimize;Legitimizing Bastards is §GFree§!;;;;;;;;;;;;x
-bloodline_effect_always_viking;Raiding can give the §GViking Traits§!;;;;;;;;;;;;x
+bloodline_effect_always_viking;略奪で§Gヴァイキングの特性§!を取得可能;;;;;;;;;;;;x
 norse_pagan_opinion;[norse_pagan.GetName]信者からの評価;;;;;;;;;;;;x
 norse_pagan_reformed_opinion;改革[norse_pagan_reformed.GetName]信者からの評価;;;;;;;;;;;;x
 bloodline_effect_faster_hindu;§GConvert Counties§! to §GHindu§! faster;;;;;;;;;;;;x
@@ -7160,8 +7160,8 @@ EVTOPTB_HF_42027_SOCIAL;あとはこの夜をただ楽しく過ごすことに�
 EVTOPTB_HF_42027_SCHOLAR;彼らにその無能さを分からせてやろう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_STEWARD;最初にいた場所を思い出して戻ってみよう。;;;;;;;;;;;;x
 EVTOPTB_HF_42027_TORTURE;なんと言っても、これは繊細な作業だからな。;;;;;;;;;;;;x
-EVTDESC_HF_42028_HUNT_SUCCESS;Though the boar fought valiantly, we finally bring the beast down, to loud cheers from all our retainers. It has been a good hunt.;;;;;;;;;;;;x
-EVTDESC_HF_42028_HUNT_FAILURE;Though we fight valiantly and the beast look weakened, it flees as I am about to land the final strike. Our retainers look for it, but it cannot be found.;;;;;;;;;;;;x
+EVTDESC_HF_42028_HUNT_SUCCESS;イノシシも勇敢に戦ったが、我々はついにこの獣を仕留め、家臣たちはみな大きな歓声を上げた。良い狩りだった。;;;;;;;;;;;;x
+EVTDESC_HF_42028_HUNT_FAILURE;イノシシは勇敢に戦い、弱っているように見えたが、私がとどめの一撃をくわえようとしたところ逃げて行ってしまった。家臣たちは奴を探し回ったが、見つけることはできなかった。;;;;;;;;;;;;x
 EVTDESC_HF_42028_DUEL_SUCCESS;Though the two lumbering men fought for their lives, they finally give up and fall to the ground exhausted. I look over at [From.GetFirstName] and cheer.;;;;;;;;;;;;x
 EVTDESC_HF_42028_DUEL_FAILURE;After a long dance of steel back and forth, I finally have to admit defeat to our two opponents, and so do [From.GetFirstName]. Both teams fought well.;;;;;;;;;;;;x
 EVTDESC_HF_42028_GAME_SUCCESS;Though it was a long match with casualties on both sides, [From.GetFirstName] and I finally crush our remaining opponents between our two armies. Thankfully, [From.GetFirstName] understood what I wanted us to do. ;;;;;;;;;;;;x
@@ -7182,7 +7182,7 @@ EVTOPTA_HF_42028_SCHOLAR;この議論から多くのことを学んだ。;;;;;;;
 EVTOPTA_HF_42028_STEWARD;それは…よくないな、そうだろう？;;;;;;;;;;;;x
 EVTOPTA_HF_42028_TORTURE;次はもっと上手くやってやろう。;;;;;;;;;;;;x
 EVTDESC_HF_42029_HUNT_SUCCESS;獣は傷だらけで倒れこみ、家臣たち全員は大きな歓声をあげた。;;;;;;;;;;;;x
-EVTDESC_HF_42029_HUNT_FAILURE;獣はほとんど観念するところだったと皆が思ったが、思いがけないことに奴は突然[From.GetFirstName]に向かって突進して逃げようとした。どれだけ臣下たちを集めて奴を探しても、もはや見つけ出せない。;;;;;;;;;;;;x
+EVTDESC_HF_42029_HUNT_FAILURE;獣はほとんど観念するところだったと皆が思ったが、思いがけないことに奴は突然[From.GetFirstName]に向かって突進し、かろうじて逃げていった。どれだけ家臣たちを集めて奴を探しても、もはや見つけ出せないだろう。;;;;;;;;;;;;x
 EVTDESC_HF_42029_DUEL_SUCCESS;[From.GetFirstName]は最後に立っている男に何度も攻撃を浴びせる前に、相手の攻撃を何度も避けきっていた。二人の男の動きはすっかり鈍くなり参ってしまっている。我々の勝利は確実だ。;;;;;;;;;;;;x
 EVTDESC_HF_42029_DUEL_FAILURE;長引く面倒な戦いののち、[From.GetFirstName]と私はとうとう2人の男に敗れたことことを認めざるをえなくなった。我々はベストを尽くしたが、相手の強さと素早さは我々を上回っていたのだ。;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_SUCCESS;After several hours, the last of our opponents' units finally fall. [From.GetFirstName] gives me a small nod of approval, as we sit back and enjoy our well fought victory. ;;;;;;;;;;;;x
@@ -10760,7 +10760,7 @@ EVTOPTA_HF_12402_TT;おそらく、いつかあなたは新しい犬を飼うだ
 bloodline_effect_joining_warrior_lodge;Characters have an easier time joining §GWarrior Lodges§!;;;;;;;;;;;;x
 bloodline_effect_pet_eagle;人物は狩猟鳥を飼う傾向にあります。;;;;;;;;;;;;x
 bloodline_effect_pet_dog;人物は猟犬を飼う傾向にあります。;;;;;;;;;;;;x
-bloodline_effect_loyal_councilors;人物はその評議会員を§Y忠実§!にする傾向がある;;;;;;;;;;;;x
+bloodline_effect_loyal_councilors;評議会員が§Y忠臣§!になりやすい;;;;;;;;;;;;x
 bloodline_effect_artisan_craftsmen;Characters have §YSmiths§! strive to please them.;;;;;;;;;;;;x
 bloodline_effect_battle_bards;戦闘での特別なアクションを解除する。;;;;;;;;;;;;x
 bloodline_effect_inspire_commanders;The §YPromote Commander§! decision attracts better commanders.;;;;;;;;;;;;x
@@ -14226,7 +14226,7 @@ EVTOPTAHF25601;私の所有する中で最高の牛を焼いて捧げよう。;;
 EVTOPTBHF25601;旅の安全を祈願して、なにか高価な物を捧げよう。;;;;;;;;;;;;x
 EVTOPTCHF25601;わずかな供物で十分だろう。;;;;;;;;;;;;x
 EVTOPTDHF25601;私にそのような加護は不要だ!;;;;;;;;;;;;x
-EVTDESCAHF25602;The time has come for us to leave the safe confines of civilization and venture forth into the dark domain of the monster plaguing my lands. With [scoped_WL_co_hunter.GetFirstName] and [Root.Religion.GetHighGodName]'s protection, I am sure to track down this creature and put an end to the threat it poses to my subjects once and for all.;;;;;;;;;;;;x
+EVTDESCAHF25602;文明という安全な領域を離れ、私の土地をむしばんでいる怪物の暗い領域に踏み出す時が来た。[scoped_WL_co_hunter.GetFirstName]の護衛と[Root.Religion.GetHighGodName]のご加護があれば、必ずこの生き物を探し出し、私の臣民への脅威に終止符を打つことができるだろう。;;;;;;;;;;;;x
 EVTDESCBHF25602;安全な人間の縄張りを離れ、私の土地を脅かす怪物が支配する闇の領域に旅立つ時が来た。私は[Root.Religion.GetHighGodName]の加護と磨き上げた狩猟の腕で、その獣を駆り出し、領民全体の災厄に終止符を打てると確信している。;;;;;;;;;;;;x
 EVTOPTAHF25602;狩りを始めよう!;;;;;;;;;;;;x
 EVTDESCAHF25603;Our long search for the mysterious beast has led [scoped_WL_co_hunter.GetFirstName] and I on some dangerous, unmapped paths. It takes only a second of distraction before I find myself grasping for something as I fall from a cliff-side.;;;;;;;;;;;;x
@@ -14304,10 +14304,10 @@ EVTDESCCHF25612;The search for the great bear has brought my expedition through 
 EVTDESCDHF25612;The search for the great lion has brought my expedition to slopes of a thick patch of grassland. The path ahead of us in unclear and unmapped, and I fear that, if we are not careful, we might end up losing ourselves in the wilderness, where we will be easy prey to the terrible creature that we are hunting.;;;;;;;;;;;;x
 EVTOPTAHF25612;We will map the path as we move.;;;;;;;;;;;;x
 EVTOPTBHF25612;We will not get lost, my memory will not fail me.;;;;;;;;;;;;x
-EVTOPTEHF25612;Perhaps if we try marking our path?;;;;;;;;;;;;x
+EVTOPTEHF25612;来た道に印をつけてみようか？;;;;;;;;;;;;x
 TT_EVTOPTFHF25612;§YStewardship§! 能力を駆使して道筋を辿る。;;;;;;;;;;;;x
 EVTOPTGHF25612;この役割は[scoped_WL_co_hunter.GetFirstName]の方が向いている。;;;;;;;;;;;;x
-TT_EVTOPTGHF25612;Use [scoped_WL_co_hunter.GetFirstName]'s §YStewardship§! to try and keep on track.;;;;;;;;;;;;x
+TT_EVTOPTGHF25612;[scoped_WL_co_hunter.GetFirstName]の§YStewardship§! 能力を駆使して道筋を辿る。;;;;;;;;;;;;x
 EVTDESCAHF25613;The search for the great wolf has brought my expedition through a deep forest. Despite beginning this hunt with the most unwavering resolution, I am starting to feel uncertain of our chances of success. The journey to the creature's lair has been rife with weird signs and bad omens of the most grotesque and unsettling nature.;;;;;;;;;;;;x
 EVTDESCBHF25613;The search for the great eagle has brought my expedition to the slopes of a barren hill. Despite beginning this hunt with the most unwavering resolution, I am starting to feel uncertain of our chances of success. The journey to the creature's lair has been rife with weird signs and bad omens of the most grotesque and unsettling nature.;;;;;;;;;;;;x
 EVTDESCCHF25613;The search for the great bear has brought my expedition through a dead wood. Despite beginning this hunt with the most unwavering resolution, I am starting to feel uncertain of our chances of success. The journey to the creature's lair has been rife with weird signs and bad omens of the most grotesque and unsettling nature.;;;;;;;;;;;;x
@@ -14319,7 +14319,7 @@ EVTOPTCHF25613;These signs... There must be another way to interpret them.;;;;;;
 TT_EVTOPTCHF25613;Use your §YLearning§! to reinterpret the bad omens.;;;;;;;;;;;;x
 EVTOPTDHF25613;[scoped_WL_co_hunter.GetFirstName], tell me, is there another way to interpret these signs?;;;;;;;;;;;;x
 TT_EVTOPTDHF25613;Use [scoped_WL_co_hunter.GetFirstName]'s §YLearning§! to reinterpret the bad omens.;;;;;;;;;;;;x
-EVTDESCAHF25614;The search for the great wolf has brought my expedition through a deep forest. Our foe may be fearsome, but our journey to its lair was filled with the most auspicious omens. It is quite clear that the spirits of the forest are welcoming our arrival and helping me in my quest to slay the monster haunting this land.;;;;;;;;;;;;x
+EVTDESCAHF25614;大狼を捜しに深い森への探検が始まった。敵は恐ろしいかもしれないが、その巣への旅はとても幸運な前兆に満ちていた。森の精霊たちが私たちの到着を歓迎し、この土地に出没する怪物を退治しようとする冒険を助けてくれているのは明らかだ。;;;;;;;;;;;;x
 EVTDESCBHF25614;The search for the great eagle has brought my expedition to the slopes of a barren hill. Our foe may be fearsome, but our journey to its lair was filled with the most auspicious omens. It is quite clear that the spirits of the mountain are welcoming our arrival and helping me in my quest to slay the monster haunting this land.;;;;;;;;;;;;x
 EVTDESCCHF25614;The search for the great bear has brought my expedition through a dead wood. Our foe may be fearsome, but our journey to its lair was filled with the most auspicious omens. It is quite clear that the spirits of the forest are welcoming our arrival and helping me in my quest to slay the monster haunting this land.;;;;;;;;;;;;x
 EVTDESCDHF25614;The search for the great lion has brought my expedition to slopes of a thick patch of grassland. Our foe may be fearsome, but our journey to its lair was filled with the most auspicious omens. It is quite clear that the spirits of the plains are welcoming our arrival and helping me in my quest to slay the monster haunting this land.;;;;;;;;;;;;x
@@ -14343,31 +14343,31 @@ EVTOPTAHF25618;I have slain far bigger game than you!;;;;;;;;;;;;x
 EVTOPTBHF25618;You will die by my hand, fiend!;;;;;;;;;;;;x
 EVTOPTCHF25618;No! I must save myself!;;;;;;;;;;;;x
 EVTOPTDHF25618;Take [scoped_WL_co_hunter.GetFirstName], but let me live!;;;;;;;;;;;;x
-TT_HF25618_BEAST_KILLED;slaying the §YGreat Beast§!.;;;;;;;;;;;;x
-TT_HF25619_BEAST_KILLED;Slay the §YGreat Beast§!.;;;;;;;;;;;;x
-TT_HF25618_BEAST_WOUNDS_KILLED;being injured while slaying the §YGreat Beast§!.;;;;;;;;;;;;x
-TT_HF25618_BEAST_WOUNDS_ESCAPES;failing to slay the §YGreat Beast§!.;;;;;;;;;;;;x
-TT_HF25618_BEAST_KILLS;being overcome by the §YGreat Beast§!.;;;;;;;;;;;;x
+TT_HF25618_BEAST_KILLED;§Y大獣§!を退治する。;;;;;;;;;;;;x
+TT_HF25619_BEAST_KILLED;§Y大獣§!を退治する。;;;;;;;;;;;;x
+TT_HF25618_BEAST_WOUNDS_KILLED;§Y大獣§!を退治する時に怪我を負う。;;;;;;;;;;;;x
+TT_HF25618_BEAST_WOUNDS_ESCAPES;§Y大獣§!退治に失敗する。;;;;;;;;;;;;x
+TT_HF25618_BEAST_KILLS;§Y大獣§!に返り討ちにあう。;;;;;;;;;;;;x
 TT_HF25618_BEAST_EATS_COHUNTER;§Y[scoped_WL_co_hunter.GetFirstName]§! dying in your place.;;;;;;;;;;;;x
 TT_HF25618_BEAST_WOUNDS_EATS_COHUNTER;being wounded while pushing §Y[scoped_WL_co_hunter.GetFirstName]§! into the §YBeast§!'s clutches to save yourself.;;;;;;;;;;;;x
-EVTDESCAHF25619;The great wolf is resting by a riverside, its long snout red with dried up blood. Finding the beast at its weakest gives us a considerable advantage against it, yet we must also be careful not to underestimate this formidable opponent, especially now that we are so close to succeeding in our quest.;;;;;;;;;;;;x
+EVTDESCAHF25619;大狼は川辺で休んでいて、長い鼻は乾いた血で赤くなっている。最も無防備になっているところを見つけたのはかなり有利だが、この恐ろしい敵を過小評価しないように注意しなければならない。特に冒険の成功にかなり近づいている今は。;;;;;;;;;;;;x
 EVTDESCBHF25619;The great eagle is tucked in its nest, its cruel hooked beak barely peeking from under its wings. Finding the beast at its weakest gives us a considerable advantage against it, yet we must also be careful not to underestimate this formidable opponent, especially now that we are so close to succeeding in our quest.;;;;;;;;;;;;x
 EVTDESCCHF25619;The great bear is resting by its cave, a grotesque mountain of flesh and dark brown fur soaked in filth and blood. Finding the beast at its weakest gives us a considerable advantage against it, yet we must also be careful not to underestimate this formidable opponent, especially now that we are so close to succeeding in our quest.;;;;;;;;;;;;x
 EVTDESCDHF25619;The great lion is resting under a tree, placidly looking at a the horizon. Finding the beast at its weakest gives us a considerable advantage against it, yet we must also be careful not to underestimate this formidable opponent, especially now that we are so close to succeeding in our quest.;;;;;;;;;;;;x
 EVTOPTAHF25619;I know exactly how to deal with it.;;;;;;;;;;;;x
 available_because_good_hunter;あなたが§Y手に入れた§!頭蓋骨のため、これが選択可能です。;;;;;;;;;;;;x
 EVTOPTBHF25619;Now we can corner and gut this monster for good.;;;;;;;;;;;;x
-EVTOPTCHF25619;Finally! Death to the vile monster!;;;;;;;;;;;;x
-EVTOPTDHF25619;I am not sure about this anymore...;;;;;;;;;;;;x
-TT_EVTOPTDHF25619;You shamefully return home, leaving the beast to its rest.;;;;;;;;;;;;x
-EVTDESCAHF25620;The great wolf fights to the very end, but we are soon able to corner it and pierce through its hide a few times. Keeping the creature at bay with our spears, and patiently wait for the bleeding to weaken it enough to strike again. I land the final blow through the wolf's skull, pushing the creature on the ground, finally vanquished.;;;;;;;;;;;;x
+EVTOPTCHF25619;ようやく!汚らわしい怪物が死ぬときだ!;;;;;;;;;;;;x
+EVTOPTDHF25619;もはや私には自信がない...;;;;;;;;;;;;x
+TT_EVTOPTDHF25619;あなたは恥ずべきことに家に帰り、獣を放置する。;;;;;;;;;;;;x
+EVTDESCAHF25620;大狼は最後の最後まで抵抗したが、我々はすぐに追い詰め、外皮を何度か突き刺すことができた。槍でその場に釘付けにし出血させ、再度仕掛けるために十分に弱体化するまで辛抱強く待つ。私は最後の一撃を頭蓋に食らわして地面に押し倒し、ついには打ち負かした。;;;;;;;;;;;;x
 EVTDESCBHF25620;I manage to wound one of the eagle's wings as it takes off, leaving the beast unable to flee. The eagle screeches and leaps furiously towards me, its talons grasping for my eyes, but I am able to push it away while taking only a few scratches. As the bird clumsily tries to take flight, I throw my spear through its chest, bringing it down for good.;;;;;;;;;;;;x
 EVTDESCCHF25620;When I charge the first strike, the bear's response is sluggish, but, the more I poke at it, the angrier the beast gets. Its hide is thick, so much so that I can barely pierce through it. Yet, I do not discourage myself, maintaining enough distance from my foe to avoid its attacks, hitting it repeatedly until it finally falls dead.;;;;;;;;;;;;x
 EVTDESCDHF25620;I barely escape the lion's pounce. Just as I slide past the jumping beast, I push my spear through its chest, getting pulled alongside it. The monster roars and claws at me, trying to get rid of the weapon, yet I keep a strong hold on it, pushing it further into the lion's flesh while avoiding its attacks, until the creature finally lays dead beneath me.;;;;;;;;;;;;x
-EVTOPTAHF25620;I will make a trophy out of it.;;;;;;;;;;;;x
-EVTOPTBHF25620_A;We will burn its remains.;;;;;;;;;;;;x
+EVTOPTAHF25620;そいつでトロフィーを作ろう。;;;;;;;;;;;;x
+EVTOPTBHF25620_A;亡骸は燃やそう。;;;;;;;;;;;;x
 EVTOPTBHF25620_B;The sacred ritual of flaying must be performed.;;;;;;;;;;;;x
-EVTOPTCHF25620;I will bring the carcass back to my fellow warriors.;;;;;;;;;;;;x
+EVTOPTCHF25620;死骸を仲間の戦士たちに持ち帰るつもりだ。;;;;;;;;;;;;x
 EVTOPTDHF25620;I think I hear something from the beast's nest...;;;;;;;;;;;;x
 TT_EVTOPTDHF252620;Look for the great eagle's young.;;;;;;;;;;;;x
 EVTDESCAHF25621;The fight to slay the great wolf will be remembered by our fellow warriors for generations to come. The creature nearly killed me, assaulting us in a flurry of slashing claws and gnawing teeth, yet we persevered and overcame the monster, leaving its carcass bloody and broken by the riverside.;;;;;;;;;;;;x
@@ -17670,7 +17670,7 @@ follower_of_tsumburbura;ツンバブラの信奉者;;;;;;;;;;;;x
 follower_of_tsumburbura_desc;この人物はアフリカの母性の神「ツンバブラ」の敬虔な信奉者です。;;;;;;;;;;;;x
 follower_of_dongo;ドンゴの信奉者;;;;;;;;;;;;x
 follower_of_dongo_desc;この人物はアフリカの雷と戦の神「ドンゴ」の敬虔な信奉者です。;;;;;;;;;;;;x
-voice_of_ayyur_desc;It is well known that this character possesses the compassion and dignity of the God Ayyur.;;;;;;;;;;;;x
+voice_of_ayyur_desc;この人物がアイユール神の思いやりと尊厳を持っていることはよく知られています。;;;;;;;;;;;;x
 EVTDESC_TOG_7500_AYYUR;アイユールの道をたどるために敬虔に努力を積み重ねることにした。アイユールの名の下に平和を維持し、臣民の間の相互理解を進めた。結果として外交力が向上した。;;;;;;;;;;;;x
 follower_of_anansi;アナンシの信奉者;;;;;;;;;;;;x
 follower_of_anansi_desc;A deeply revered [west_african_pagan_reformed.GetName] deity, the spider-god Anansi is a famous trickster, considered to be the spirit of all knowledge of stories.;;;;;;;;;;;;x
@@ -18248,7 +18248,7 @@ String_takes_my_hand;takes my hand, saying "you already have it". Then [From.Get
 String_spits_in_my_face;spits in my face, to the jarring snickers of the crowd. I am left kneeling, face red with shame, and a cold anger growing in the pit of my stomach.;;;;;;;;;;;;x
 EVTOPTA_HF_10107;I never expected this generosity.;;;;;;;;;;;;x
 EVTOPTB_HF_10107;I am glad you show your true feelings, [From.GetFirstName].;;;;;;;;;;;;x
-publicly_humiliated_desc;この人物は、かつて公でとんでもない恥を晒され、今もその悪評が付いて回っています。;;;;;;;;;;;;x
+publicly_humiliated_desc;この人物は、かつて公衆の面前で恥を晒され、今もその悪評が付いて回っています。;;;;;;;;;;;;x
 merciful_brother;Merciful Brother;;;;;;;;;;;;x
 merciful_brother_desc;This character had [This.GetHerHis] very right to rule challenged, but chose to turn the other cheek.;;;;;;;;;;;;x
 merciful_sister;Merciful Sister;;;;;;;;;;;;x
@@ -19688,15 +19688,15 @@ choose_a_story_tt;話す物語を決めなければ……;;;;;;;;;;;;x
 EVTTITLE_HF_15000;語り部たる[Root.GetFirstName];;;;;;;;;;;;x
 EVTDESC_HF_15000;[Root.Capital.GetLocalTemperature]風が谷を渡る。夕方、燃え盛る火が集まった群衆を照らす。飲み物を召使いに渡し、沈黙を呼びかける。「友らよ、今夜あなた達が私とともに集ったことを嬉しく思う。～について物語るとしよう......」;;;;;;;;;;;;x
 EVTOPTA_HF_15000;... How I once beat up a crocodile with my bare hands!;;;;;;;;;;;;x
-EVTOPTB_HF_15000;... The dog I wrestled recently!;;;;;;;;;;;;x
-EVTOPTC_HF_15000;... My ancestor [bloodline_founder.GetTitledFirstName].;;;;;;;;;;;;x
+EVTOPTB_HF_15000;……先日、取っ組み合いをした犬について!;;;;;;;;;;;;x
+EVTOPTC_HF_15000;……我が祖先[bloodline_founder.GetTitledFirstName]について。;;;;;;;;;;;;x
 EVTOPTD_HF_15000;…….真の愛を求めて砂漠をさまよった勇敢な戦士。;;;;;;;;;;;;x
 EVTOPTE_HF_15000;……人類、我々はどうやってそうなったのか。;;;;;;;;;;;;x
 EVTOPTF_HF_15000;……[Root.Capital.GetName]に住む慈悲深い精霊。;;;;;;;;;;;;x
 told_story_nr_1;腹立たしい話;;;;;;;;;;;;x
 told_story_nr_1_desc;This character is known to tell a tall tale every now and then...;;;;;;;;;;;;x
-told_story_nr_2;Told Bizarre Story;;;;;;;;;;;;x
-told_story_nr_2_desc;"You don't understand, the dog was *huge*!";;;;;;;;;;;;x
+told_story_nr_2;珍妙な話;;;;;;;;;;;;x
+told_story_nr_2_desc;"信じられないだろうが, その犬は「巨大」だった !";;;;;;;;;;;;x
 told_story_nr_3;Proud Legacy;;;;;;;;;;;;x
 told_story_nr_3_desc;This character carries wondrous stories of [Root.GetHerHis] ancestors.;;;;;;;;;;;;x
 told_story_nr_4;感動させる語り部;;;;;;;;;;;;x

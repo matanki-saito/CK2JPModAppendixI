@@ -833,10 +833,10 @@ EVTOPTA7760;私の共謀者たちは、きっと適任者を見つけてくる�
 EVTOPTB7760;プロの殺し屋を雇います;;;;;;;;;;;;x
 EVTOPTC7760;この仕事に打ってつけの男がいるぞ！;;;;;;;;;;;;x
 EVTDESC7762;共謀者の[From.GetTitledName]が、獄中にある[Root.PlotTarget.GetTitledName]に脱獄の失敗で惨めな最期を迎えさせる、その手筈を整える資金の用立てを頼んできた。;;;;;;;;;;;;x
-EVTOPTA7762;そうとも、刑務所はあなたの健康に有害です、だ。;;;;;;;;;;;;x
-EVTDESC7763;[From.GetTitledFirstName]は、[Root.PlotTarget.GetTitledFirstName]が服役する刑務所に、男を一人送り込むのに必要な資金を提供してくれた。;;;;;;;;;;;;x
-EVTDESC7764;[From.GetTitledFirstName]は、[Root.PlotTarget.GetTitledFirstName]が服役する刑務所に、男を一人送り込むのに必要な、資金の提供を断ってきた。;;;;;;;;;;;;x
-EVTDESC7765;刑務所の監房でしおれていると、新入りがこの見捨てられた生き地獄から脱走する計画があると言って、近づいてきた。いくつも彫られたそいつの背中の入れ墨には、地下牢の大まかな全体図が隠されていた！;;;;;;;;;;;;x
+EVTOPTA7762;そうとも、牢獄はあなたの健康に有害です、だ。;;;;;;;;;;;;x
+EVTDESC7763;[From.GetTitledFirstName]は、[Root.PlotTarget.GetTitledFirstName]が収監されている牢獄に、男を一人送り込むのに必要な資金を提供してくれた。;;;;;;;;;;;;x
+EVTDESC7764;[From.GetTitledFirstName]は、[Root.PlotTarget.GetTitledFirstName]が収監されている牢獄に、男を一人送り込むのに必要な、資金の提供を断ってきた。;;;;;;;;;;;;x
+EVTDESC7765;牢獄の監房でしおれていると、新入りがこの見捨てられた生き地獄から脱走する計画があると言って、近づいてきた。いくつも彫られたそいつの背中の入れ墨には、地下牢の大まかな全体図が隠されていた！;;;;;;;;;;;;x
 EVTOPTA7765;こいつは脱走に仕えるな！;;;;;;;;;;;;x
 EVTOPTB7765;ちょっと待て……、これは本物の入れ墨じゃないぞ！;;;;;;;;;;;;x
 EVTTOOLTIP7765;来月、[This.GetTitledFirstName]が脱獄失敗で死ぬよう、手筈を整える。;;;;;;;;;;;;x
@@ -847,7 +847,7 @@ EVTDESC7768;地図は入れ墨ではなかった、囚人の背中に丹念に�
 EVTOPTA7768;つまりは、[FromFrom.GetTitledFirstName]の差し金だな。;;;;;;;;;;;;x
 EVTDESC7769;地図は入れ墨ではなかった、囚人の背中に丹念に描かれていたのだ。問い詰めると、男は渋々、私の脱走を手助けするために雇われたこと。その途中で事故死させるよう、念を押されたことを認めた。彼は雇い主の顔も見ていなければ、名も知らないのだと言い張った。;;;;;;;;;;;;x
 EVTOPTA7769;そんなことを信じると思うのか？;;;;;;;;;;;;x
-EVTDESC7770;共謀者の[From.GetTitledFirstName]が、手先の男は[Root.PlotTarget.GetTitledFirstName]のいる刑務所の、塀の内側に入ったと言ってきた。男は脱獄の導き手となり、哀れにもその途中で、脱獄の相方は悲惨な事故死をするのだ……。;;;;;;;;;;;;x
+EVTDESC7770;共謀者の[From.GetTitledFirstName]が、手先の男は[Root.PlotTarget.GetTitledFirstName]のいる牢獄の、塀の内側に入ったと言ってきた。男は脱獄の導き手となり、哀れにもその途中で、脱獄の相方は悲惨な事故死をするのだ……。;;;;;;;;;;;;x
 EVTOPTA7770;我らが暗殺をしかけるとは、誰も思うまいて。;;;;;;;;;;;;x
 EVTDESC7771;[From.GetTitledFirstName]は、[From.PlotTarget.GetTitledFirstName]を無様な脱獄の過程で亡き者にするという、私の計画を承認した。;;;;;;;;;;;;x
 EVTDESC7772;[From.GetTitledFirstName]が私に、[From.PlotTarget.GetTitledFirstName]の余命もあとわずかだと言ってきた。[From.PlotTarget.GetSheHe]は刑務所に送り込んだ男の導きで脱獄を図り、哀れにも命を落とすのだという。;;;;;;;;;;;;x

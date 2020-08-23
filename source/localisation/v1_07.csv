@@ -811,7 +811,7 @@ EVTDESC249;敵味方入り乱れての激戦の末、配下の兵たちは[From.
 EVTOPTA249;これで一安心だ！;;;;;;;;;;;;x
 PART_SCALED_DECADENCE_EFFECT;§Y$WHO$§!: 戦争での活躍に応じて退廃度が$DIRECTION$$VALUE$される。\n;;;;;;;;;;;;x
 NEWBORN_PURPLE_SETUP;緋紫色の産室生れの子;;;;;;;;;;;;x
-NEWBORN_PURPLE_LOG;緋紫色の産室生れの§Y$SEX$§!子が生まれ、§Y$CHILD$§!と名づけられました。§Y$CHAR1$§!と§Y$CHAR2$§!の子です。;;;;;;;;;;;;x
+NEWBORN_PURPLE_LOG;緋紫色の産室生れの§Y$SEX$§!が生まれ、§Y$CHILD$§!と名づけられました。§Y$CHAR1$§!と§Y$CHAR2$§!の子です。;;;;;;;;;;;;x
 NEWBORN_PURPLE_LETTER;$MOTHER$が緋紫色の産室生れの者にだけ許された部屋で$SEX$子を出産。生まれた子供は$CHILD$と名づけられました。;;;;;;;;;;;;x
 NEWBORN_PURPLE_TO_PLAYER;あなたは $SEX$! $CHAR2$ が子供の名前をつけることを提案しました:;;;;;;;;;;;;x
 FACTION_BACKERS_LESS_THAN;派閥「§Y$FACTION$§!」の支援者は§Y$VAL$§!人未満;;;;;;;;;;;;x

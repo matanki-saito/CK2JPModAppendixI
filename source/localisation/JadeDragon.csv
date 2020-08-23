@@ -546,10 +546,10 @@ String_GetMediumDisabilityDesc_clubfooted;内反足;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_hunchback;背中をまっすぐに保てない;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_dwarf;平均よりかなり背が低い;;;;;;;;;;;;x
 chinese_grace_offer_concubine;側室を送る;;;;;;;;;;;;x
-chinese_grace_offer_concubine_desc;Offer up one of your courtiers, to be sent to live out their life in the §Y[Root.Offmap.GetFullName]§!, in the service of the Emperor.\n;;;;;;;;;;;;x
+chinese_grace_offer_concubine_desc;皇帝への奉仕のために廷臣の一人を §Y[Root.Offmap.GetFullName]§!に送り出す。\n;;;;;;;;;;;;x
 china_tribute_send_concubine_cooldown_tt;過去20年間に側室を送っていない;;;;;;;;;;;;x
 chinese_grace_offer_eunuch;宦官を送る;;;;;;;;;;;;x
-chinese_grace_offer_eunuch_desc;Offer up one of your courtiers, to be sent to live out their life in the §Y[Root.Offmap.GetFullName]§!, in the service of the Emperor.\n;;;;;;;;;;;;x
+chinese_grace_offer_eunuch_desc;皇帝への奉仕のために宦官の一人を§Y[Root.Offmap.GetFullName]§!に送り出す。\n;;;;;;;;;;;;x
 china_tribute_send_eunuch_cooldown_tt;過去20年間に宦官を送っていない;;;;;;;;;;;;x
 tribute_interaction_level3_education_tt;良い教育を受けている;;;;;;;;;;;;x
 tribute_interaction_level4_education_tt;優れた教育を受けている;;;;;;;;;;;;x
@@ -857,7 +857,7 @@ EVTOPTB36080;白い熊を見つけよう;;;;;;;;;;;;x
 EVTOPTC36080;白い虎を見つけよう;;;;;;;;;;;;x
 EVTOPTD36080;白いライオンを見つけよう;;;;;;;;;;;;x
 china_stable_desc;[Root.GetName]内は安定した状態であり、東方との貿易は有益なものとなっている。大規模な災害や強力な敵がなければますます繫栄し、軍隊は自国の富とその忠実な朝貢国の両方を守る準備ができている。;;;;;;;;;;;;x
-china_unrest_desc;Civil unrest runs rampant in the [Root.GetName], and it has thrown the trade routes with the East into disarray. China's armies are occupied internally in an attempt to keep the peace, and unless the unrest is quelled soon a full-blown civil war may well erupt at any moment.;;;;;;;;;;;;x
+china_unrest_desc;[Root.GetName]は不穏な空気に包まれ、東方貿易は混乱している。 帝国の軍隊は治安維持に忙殺され、国内不安が早期に鎮静されなければ、本格的な内戦に発展するかもしれない。;;;;;;;;;;;;x
 china_civil_war_desc;[Root.GetName]内で内戦が勃発し、結果として東方との貿易に被害が出ている。帝国の軍隊は互いに対立しており、王朝はその地位を脅かされている。 勇敢な将軍たちは、中国の国境を越えて、西方に新天地を求めに来るかもしれない。;;;;;;;;;;;;x
 china_mongol_invasion_desc;北のモンゴルの大軍が中国に押し寄せています。強大な中国軍は帝国の死にものぐるいの防衛に追われており、この戦いは貿易を大きく混乱させ、難民の大量流出を引き起こしました。現在の王朝の子孫たちは、戦争がうまくいかなければ西へ逃げるかもしれません。;;;;;;;;;;;;x
 china_plague_desc;A terrible disease wracks the [Root.GetName], leaving thousands lying dead in its wake. Trade has ground to a halt as the Chinese economy has been forced to its knees, and even the Empire's armies have been decimated to but a shadow of their former glory.;;;;;;;;;;;;x
@@ -4387,7 +4387,7 @@ learning_languages_4_desc;Everything you had ever wondered about the [From.Origi
 the_not_actual_holy_book;[From.OriginalOwner.Religion.GetScriptureName]の改良;;;;;;;;;;;;x
 the_not_actual_holy_book_desc;While it said that the [From.OriginalOwner.GetTitle] found great comfort in the nonsensical tales of this book, the local religious authorities are known to frown upon the work.;;;;;;;;;;;;x
 the_republic_desc;Inspired by the ancient Romans, [From.OriginalOwner.GetTitledFirstName] delves into the more philosophical aspects of society, and in particular regarding [From.OriginalOwner.GetHerHis] own role in it, as a modern [From.OriginalOwner.GetManWoman] and [From.OriginalOwner.GetTitle].;;;;;;;;;;;;x
-unnatural_history;死然史;;;;;;;;;;;;x
+unnatural_history;死然誌;;;;;;;;;;;;x
 unnatural_history_desc;大プリニウスは彼の「博物誌」を自然界と生命の作品と説明しましたが、一方[From.OriginalOwner.GetTitledName]はこの本で「彼方のベール 」と、生きとし生けるものの死について詳細に論じています...;;;;;;;;;;;;x
 the_confessions_of_root;[From.OriginalOwner.GetTitledFirstName]の告白;;;;;;;;;;;;x
 the_confessions_of_root_desc;この自伝的と思われる作品は、誘惑に悩む若き[From.OriginalOwner.GetTitle]の感動的な物語を物語っている。また手遅れになる前にそのような問題を避け、対処する方法についてのアドバイスも提供している。;;;;;;;;;;;;x

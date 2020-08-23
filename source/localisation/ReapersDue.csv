@@ -1110,8 +1110,8 @@ DEATH_EXECUTION_STONING;$KILLER$の命により石打ちの刑を受けた;;;;;;
 DEATH_EXECUTION_STONING_NO_KILLER;石打ちの刑を受けた;;;;;;;;;;;;x
 DEATH_EXECUTION_CRUCIFIXION;$KILLER$の命により十字架にかけられた;;;;;;;;;;;;x
 DEATH_EXECUTION_CRUCIFIXION_NO_KILLER;十字架にかけられた;;;;;;;;;;;;x
-DEATH_EXECUTION_BLOOD_EAGLE;$KILLER$の命で血の鷹により死去した;;;;;;;;;;;;x
-DEATH_EXECUTION_BLOOD_EAGLE_NO_KILLER;血の鷹により死去した;;;;;;;;;;;;x
+DEATH_EXECUTION_BLOOD_EAGLE;$KILLER$の命により血の鷲の刑を受けた;;;;;;;;;;;;x
+DEATH_EXECUTION_BLOOD_EAGLE_NO_KILLER;血の鷲の刑を受けた;;;;;;;;;;;;x
 DEATH_EXECUTION_SCAPHISM;$KILLER$によりスカフィズムの刑を受け処刑された;;;;;;;;;;;;x
 DEATH_EXECUTION_SCAPHISM_NO_KILLER;スカフィズムの刑を受け処刑された;;;;;;;;;;;;x
 DEATH_EXECUTION_DROWNING_PIT;$KILLER$の命によりdrowning-pitの刑を受ける中、鞭打ちに死去した;;;;;;;;;;;;x
@@ -1345,7 +1345,7 @@ EVTOPTA_RIP_21427;わたしは消え去りつつあるのだな、そう感じ�
 EVTOPTA_RIP_21427_TOOLTIP;§Y[Root.GetTitledFirstName]§!の身体は不気味な霊魂に乗っ取られてしまった。§Y[eternal_life_mystic.GetFirstName]§!は宮廷を去った。;;;;;;;;;;;;x
 immortal;不老不死;;;;;;;;;;;;x
 immortal_desc;この人物は不死へと到達し、老いにより生じる悲劇を経験することはもはやないだろう。しかし物理的な損傷は受けるため、無敵ということではない。;;;;;;;;;;;;x
-EVTDESC_RIP_12032;ある夜[From.GetSonDaughter]の[From.GetFirstName]はあなたの研究室にきた。[From.GetSheHeCap]はかなり動揺しているようで、話す前に部屋を一往復していた。「わが父よ、お願いがあります。どうか私が出て行くことをお許しください。お願いします!」あなたは[From.GetHerHis]に理由を尋ねたが、[From.GetSheHe]は詳細を伝えることはなく、ただ死活の問題だということだけ分かった。;;;;;;;;;;;;x
+EVTDESC_RIP_12032;ある晩、[From.GetSonDaughter]の[From.GetFirstName]があなたの書斎にきた。[From.GetSheHeCap]はかなり動揺しているようで、話す前にたっぷり一分間、部屋の中をあちこち行ったり来たりしていた。「[Root.GetFatherMotherCap]よ、お願いがあります。どうか城から出ることをお許しください。どうか!」理由を問い詰めたが、[From.GetSheHe]は詳細を伝えることはなく、ただ死活の問題だということだけ分かった。;;;;;;;;;;;;x
 EVTOPTA_RIP_12032;[From.GetSonDaughter]よ、そうまでいうのなら信用しようか。;;;;;;;;;;;;x
 EVTOPTB_RIP_12032;哀れな[Root.GetFatherMother]は一体どうなる?!出て行くなら帰ってくることは許さん!!;;;;;;;;;;;;x
 EVTOPTC_RIP_12032;お前に危険を負わせることはできないよ、[From.GetFirstName]。悪いが許可できない。;;;;;;;;;;;;x
@@ -1354,7 +1354,7 @@ EVTDESC_RIP_12034_B;[From.GetSonDaughter]の[From.GetFirstName]の部屋を通�
 EVTOPTA_RIP_12034;もしそれが[From.GetFirstName]の望んでいることなら、止めやしないよ…;;;;;;;;;;;;x
 EVTOPTB_RIP_12034;[seclusion_childs_lover.GetSheHeCap]の滞在は許可するが、誰にも知られてはならない!;;;;;;;;;;;;x
 EVTOPTC_RIP_12034;お前は何を考えているんだ?この無様で汚らわしい者を追い出せ!!;;;;;;;;;;;;x
-EVTOPTD_RIP_12034;お前は注意深い者だと信用していた!お前ら二人は今すぐ立去れ!!;;;;;;;;;;;;x
+EVTOPTD_RIP_12034;お前は慎重だと信用していたのに!貴様ら二人は今すぐ立ち去れ!;;;;;;;;;;;;x
 EVTOPTE_RIP_12034;何も見てはいない…;;;;;;;;;;;;x
 EVTDESC_RIP_12036_A;ベッドの上で横になっていると誰かがドアを叩いてきた。一息つき、少々腹を立てながらドアを開けた。そこに居たのは[seclusion_informant.GetTitledFirstName]で、厄介な情報を持ってきていた。[From.GetFirstName]は秘密裏に結婚していたらしいのだ。[From.GetSheHe]はそのことをいつか後悔するだろうと確信した……;;;;;;;;;;;;x
 EVTDESC_RIP_12036_B;使用人の一人があなたに伝書鳩からの手紙を届けた。それは[From.GetSonDaughter]の[From.GetFirstName]からであった。手紙によると[From.GetSheHe]はみすぼらしい農婦と結婚したようであった。あなたは[From.GetSheHe]はそのことをいつか後悔するだろうと確信した…;;;;;;;;;;;;x

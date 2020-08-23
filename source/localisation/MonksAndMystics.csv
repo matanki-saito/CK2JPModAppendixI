@@ -2501,9 +2501,9 @@ EVTDESC_MNM_3410_A;私が自分の[Root.GetChamber]で見つけた[secret_religi
 EVTDESC_MNM_3410_B;私が自分の[Root.GetChamber]で見つけた[secret_religion_inductor.TrueReligion.GetName]の[secret_religion_inductor.SecretReligion.GetScriptureName]の写しは、家族、友人、[secret_religion_inductor.TrueReligion.GetName]共同体の重要性についての一節が書き残されており、その話に興味をそそられて読み続け、ほんの数週間で読み切ってしまった。;;;;;;;;;;;;x
 EVTDESC_MNM_3410_C;自分の[Root.GetChamber]で見つけた[secret_religion_inductor.TrueReligion.GetName]の[secret_religion_inductor.SecretReligion.GetScriptureName]の写しは、より大きな問題―善悪、より高い目的、来世―についての一節で開かれたままになっていて、これらの問題について[secret_religion_inductor.TrueReligion.GetName]の観点を考えているうちに、私は読み続けることに興味を持つようになった。;;;;;;;;;;;;x
 EVTDESC_MNM_3410_D;私が自分の[Root.GetChamber]で見つけた[secret_religion_inductor.TrueReligion.GetName]の[secret_religion_inductor.SecretReligion.GetScriptureName]の写しは、伝説的な[Root.GetQueenKing]の一節が書き残されており、[Root.GetHerHis]の公正で着実な支配の下で帝国がどのように開花したかを示していた。その話に興味をそそられて読み続け、ほんの数週間で読み切ってしまった。;;;;;;;;;;;;x
-EVTOPTA_MNM_3410;I have been blind, but now I see! Never have I read truer words!;;;;;;;;;;;;x
+EVTOPTA_MNM_3410;私は盲目だったということが今分かった!今まで一度も本当の言葉を知らなかったのだ!;;;;;;;;;;;;x
 EVTOPTA_MNM_3410_TT;Secretly adopt the [secret_religion_inductor.TrueReligion.GetName] faith.\n;;;;;;;;;;;;x
-EVTOPTB_MNM_3410;Reading this has reaffirmed my confidence in my own beliefs.;;;;;;;;;;;;x
+EVTOPTB_MNM_3410;これを読んで私は自分の信仰に対する確信を再確認した。;;;;;;;;;;;;x
 EVTDESC_MNM_3411;My spies have brought me some outstanding news! Apparently [secret_religion_inductee.GetTitledFirstName] reads the [Root.SecretReligion.GetScriptureName] every night and now seems to worship [Root.TrueReligion.GetHighGodName], like we do, in secret. My plan succeeded!;;;;;;;;;;;;x
 EVTOPTA_MNM_3411;It is time for [secret_religion_inductee.GetTitledFirstName] to join us.;;;;;;;;;;;;x
 EVTOPTA_MNM_3411_TT;Approach §Y[secret_religion_inductee.GetTitledFirstName]§! and attempt to recruit [secret_religion_inductee.GetHerHim] to §Y[Root.Society.GetName]§!.;;;;;;;;;;;;x

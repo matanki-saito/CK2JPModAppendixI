@@ -1643,7 +1643,7 @@ court_exodus;廷臣に宮廷を去るよう依頼;;;;;;;;;;;;x
 court_exodus_desc;最近、私の宮廷は非常に混雑している。 あまり能力のない廷臣には、いくばくかの金を払って出て行って貰おう...;;;;;;;;;;;;x
 COURT_SIZE_TOOLTIP;宮廷の規模 $SIZE$/$LIMIT$;;;;;;;;;;;;x
 EXPENSE_OVERSIZED_COURT;宮廷支出;;;;;;;;;;;;x
-EXPENSE_OVERSIZED_COURT_TT;Expenses for $OVERFLOW|Y$ extra accommodations: $COST|R$;;;;;;;;;;;;x
+EXPENSE_OVERSIZED_COURT_TT;$OVERFLOW|Y$人の追加宿泊費:$COST|R$;;;;;;;;;;;;x
 HAS_NOT_FULL_COURT_TRIGGER;宮廷が満員である;;;;;;;;;;;;x
 HAS_FULL_COURT_TRIGGER;宮廷が満員でない;;;;;;;;;;;;x
 NUM_OF_COURTIERS_TRIGGER;廷臣の数;;;;;;;;;;;;x
