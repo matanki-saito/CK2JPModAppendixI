@@ -19034,8 +19034,8 @@ IS_CHILD_OF;§Y[GetBestName]§!の子供である;;;;;;;;;;;;x
 IS_NOT_CHILD_OF;§Y[GetBestName]§!の子供ではない;;;;;;;;;;;;x
 DOESNT_CONTROL_RELIGION;宗教を支配していない;;;;;;;;;;;;x
 CONTROLS_RELIGION;宗教を支配している;;;;;;;;;;;;x
-TITLE_IS_NOT;以下の称号である:;;;;;;;;;;;;x
-TITLE_IS;以下の称号ではない:;;;;;;;;;;;;x
+TITLE_IS_NOT;以下の称号ではない：;;;;;;;;;;;;x
+TITLE_IS;以下の称号である：;;;;;;;;;;;;x
 CANNOT_CALL_CRUSADE;聖戦を呼びかけることができない;;;;;;;;;;;;x
 CAN_CALL_CRUSADE;聖戦を呼びかけることができる;;;;;;;;;;;;x
 TRIGGER_COUNTY;州の;;;;;;;;;;;;x

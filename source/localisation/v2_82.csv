@@ -134,8 +134,8 @@ EVTOPTB_MNM_9129_TT_NEW;最初に注文した[From.GetWeaponsmithWeapon]で済�
 EVTOPTC_MNM_9129_TT_NEW;最初に注文したものより上質な[From.GetWeaponsmithWeapon]を得る可能性に資金を使う。;;;;;;;;;;;;x
 EVTOPTD_MNM_9129_TT_NEW;最初に注文した[From.GetWeaponsmithWeapon]で済ませる。;;;;;;;;;;;;x
 artifact_name;[GetWeaponName];;;;;;;;;;;;x
-artifact_description_smith_tier_1;[Root.GetTitledName]の命を受けて[From.GetTitledName]によって作られた良く出来た[Root.GetWeaponType]。;;;;;;;;;;;;x
-artifact_description_smith_tier_2;[Root.GetTitledName]の命を受けて[From.GetTitledName]によって作られた素晴らしい[Root.GetWeaponType]。;;;;;;;;;;;;x
+artifact_description_smith_tier_1;[Root.GetTitledName]の命を受けて[From.GetTitledName]が製作した、出来の良い[Root.GetWeaponType]。;;;;;;;;;;;;x
+artifact_description_smith_tier_2;[Root.GetTitledName]の命を受けて[From.GetTitledName]が製作した、素晴らしい[Root.GetWeaponType]。;;;;;;;;;;;;x
 string_sword;剣;;;;;;;;;;;;x
 string_blade;刃;;;;;;;;;;;;x
 string_falchion;ファルシオン;;;;;;;;;;;;x

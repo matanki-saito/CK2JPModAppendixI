@@ -7809,7 +7809,7 @@ EVTDESCAHF23118;The Civil War has ended, and [FromFromFrom.GetFirstName] has rea
 EVTOPTAHF23118;Deep down I always believed in [hellenic_pagan.GetHighGodName]!;;;;;;;;;;;;x
 EVTOPTBHF23118;No, I must stand my ground!;;;;;;;;;;;;x
 tooltip_HF23118_A;Convert to §YHellenism§! and urge your §YVassals§! to do the same.;;;;;;;;;;;;x
-roman_renaissance;Roman Renaissance;;;;;;;;;;;;x
+roman_renaissance;ローマ・ルネサンス;;;;;;;;;;;;x
 roman_renaissance_desc;帝国を復活させれば先祖のように気品ある華やかな生活様式を楽しむことができる。;;;;;;;;;;;;x
 tooltip_roman_culture_starts_spreading;§Yローマ文化§!は帝国中に広がっていくだろう。;;;;;;;;;;;;x
 embrace_roman_culture;ローマ文化を受容する;;;;;;;;;;;;x
@@ -8042,7 +8042,7 @@ EVTOPTAHF23200;クロニド兄弟の片方を祀る神殿にしよう;;;;;;;;;;;
 EVTOPTAHF23200_TT;Dedicate the temple of §Y[scoped_temple_barony.GetName]§! to one of the three sons of [GetKronosSaturnName]: §Y[GetZeusJupiterName]§!, §Y[GetPoseidonNeptuneName]§!, or §Y[GetHadesPlutoName]§!.;;;;;;;;;;;;x
 EVTOPTBHF23200;戦いの神々を祀る神殿にしよう！;;;;;;;;;;;;x
 EVTOPTBHF23200_TT;Dedicate the temple of §Y[scoped_temple_barony.GetName]§! to one of the more bellicose deities of the pantheon: §Y[GetAthenaMinervaName]§!, §Y[GetAresMarsName]§!, or §Y[GetHephaestusVulcanName]§!.;;;;;;;;;;;;x
-EVTOPTCHF23200;優しい神の住み家としよう;;;;;;;;;;;;x
+EVTOPTCHF23200;慈悲深い神の住み家としよう;;;;;;;;;;;;x
 EVTDESCHF23201;[GetZeusJupiterName] is by many considered the King of Heaven. He and his brothers fought a war against their father for control of all Creation and then gambled over its spoils. Fate bestowed dominion of the skies upon [GetZeusJupiterName], leaving the seas to [GetPoseidonNeptuneName] and the earth to [GetHadesPlutoName].;;;;;;;;;;;;x
 EVTOPTAHF23201;[GetZeusJupiterName]を祀る神殿にしよう！;;;;;;;;;;;;x
 EVTOPTBHF23201;[GetPoseidonNeptuneName]を祀る神殿にしよう！;;;;;;;;;;;;x
