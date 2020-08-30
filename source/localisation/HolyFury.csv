@@ -140,7 +140,7 @@ String_bare_hands;拳;;;;;;;;;;;;x
 String_my_artifact_weapon_1;[dueling_weapon_1.GetName];;;;;;;;;;;;x
 String_my_artifact_weapon_2;[dueling_weapon_2.GetName];;;;;;;;;;;;x
 String_injure_them;[This.GetHerHim]を殺傷;;;;;;;;;;;;x
-String_cut_body_part_off;[This.GetHerHis] の[This.GetBodyPartInjured]を完全に半分削ぎ落とす;;;;;;;;;;;;x
+String_cut_body_part_off;[This.GetHerHis]の[This.GetBodyPartInjured]の半分を完全にスライス;;;;;;;;;;;;x
 String_cut_their_body_part_out;[This.GetHerHis]の[This.GetBodyPartInjured]を切り落とす。;;;;;;;;;;;;x
 String_sever_their_body_part_from_body;[This.GetHerHis] の[This.GetBodyPartInjured] を体から切断;;;;;;;;;;;;x
 String_sever_their_head_from_their_body;[This.GetHerHis]の頭を体から切断;;;;;;;;;;;;x
@@ -1538,8 +1538,8 @@ EVTOPTA_HF_2;No - from now on I will work out every day!;;;;;;;;;;;;x
 EVTOPTB_HF_2;Why is [Root.Religion.GetRandomEvilGodName] playing this cruel trick on me?;;;;;;;;;;;;x
 EVTDESC_HF_3;Since I was a mere child my body has been growing and growing, and with its growth I have constantly trained it. I now stand an imposing figure, not only tall like a mountain - but also with muscles like a [Root.GetRegionalFerociousAnimal]!;;;;;;;;;;;;x
 EVTOPTA_HF_3;How is the weather down there?;;;;;;;;;;;;x
-giant_health_problems;Escalating Gigantism;;;;;;;;;;;;x
-giant_health_problems_desc;This giant character is suffering from significant health problems - though a thicker skin and a deeper, booming voice does come with advantages in combat.;;;;;;;;;;;;x
+giant_health_problems;巨人症の進行;;;;;;;;;;;;x
+giant_health_problems_desc;この巨人に生まれた人物はかなりの健康問題に悩まされている。とはいえ厚い皮膚と、深くよく響く声は戦闘で有利である。;;;;;;;;;;;;x
 EVTDESC_HF_4;歳を重ねど重ねど、私の体の成長は止まる気配がない！皮膚は厚く、声は太くなり、手足は痛み、さらに頭痛も止む気配がない。私の巨体は今までになく堂々たるものとなったが、魂の方は徐々に体から離れつつあるかのようだ…;;;;;;;;;;;;x
 EVTOPTA_HF_4;いつまでこんな世界に居なきゃならないんだ？;;;;;;;;;;;;x
 nick_the_giant;巨人;;;;;;;;;;;;x
@@ -2294,10 +2294,10 @@ EVTDESCAHFP20662;All these years spent starving myself have finally caught up wi
 EVTOPTAHFP20662;Hnnngh...;;;;;;;;;;;;x
 coping_glutton;大食漢;;;;;;;;;;;;x
 coping_glutton_desc;この人物は大食漢であるため食べ過ぎで体調を崩したりしにくいです;;;;;;;;;;;;x
-stress_relief;Stress Relief;;;;;;;;;;;;x
-stress_relief_desc;This character has found an outlet to reduce [Root.GetHerHis] stress.;;;;;;;;;;;;x
+stress_relief;ストレス軽減;;;;;;;;;;;;x
+stress_relief_desc;この人物にはストレスのはけ口があります。;;;;;;;;;;;;x
 anti_depression;鬱に対抗;;;;;;;;;;;;x
-anti_depression_desc;This character has found an outlet to reduce the effects of [Root.GetHerHis] depression.;;;;;;;;;;;;x
+anti_depression_desc;この人物には鬱を軽減するためのはけ口があります。;;;;;;;;;;;;x
 munificent_modifier;気前が良い;;;;;;;;;;;;x
 munificent_modifier_desc;This character is well-known for [Root.GetHerHis] grandiose feasts and welcoming attitude.;;;;;;;;;;;;x
 jolly_matron_modifier;Jovial Matron;;;;;;;;;;;;x
@@ -3005,8 +3005,8 @@ EVTDESCHFPH20054;My wife could have not been a more appropriate choice for this 
 EVTDESCHFPI20054;My wife is certainly having her fun taking on the role of [Root.GetFertilityGoddess]. Everybody seems to like her, and she has wasted no time hoarding all the food offerings made to the goddess for herself.;;;;;;;;;;;;x
 EVTDESCHFPL20054;My wife is certainly having her fun taking on the role of [Root.GetFertilityGoddess]. Everybody seems to like her, though I am worrying a bit about how frequently she is accepting cider from her petitioners.;;;;;;;;;;;;x
 EVTDESCHFPM20054;My wife could have not been a more appropriate choice for this year's festival. She is a model of modesty and pious conduct. Hopefully her actions will both help her deliver a strong child as well as spread the goddess' blessing across my land.;;;;;;;;;;;;x
-EVTDESCHFPN20054;My wife might have taken her role as goddess of fertility for the harvest festival a bit too literally. While she has undoubtedly enjoyed the celebration and earned the praise from peasants and nobles alike, I have received some disturbing rumors about her granting suspiciously private audiences to the prettiest petitioners in her crowd.;;;;;;;;;;;;x
-EVTOPTAHFP20054_A;そのような子を産んでくれると、確信している。;;;;;;;;;;;;x
+EVTDESCHFPN20054;私の妻は、ちょっと文字どおり豊穣の女神の役割を果たしすぎたのかもしれない。彼女は間違いなく祝典を楽しみ農民からも貴族からも賛辞を受けてきたが、その一方で彼女の取り巻きの中で最も可憐な請願者たちに、うさんくさい内密の謁見を許可したという不穏な噂も耳にした。;;;;;;;;;;;;x
+EVTOPTAHFP20054_A;これが彼女の出産に役立つと確信している。;;;;;;;;;;;;x
 tooltip_HFPA20054;[Root.PrimaryTitle.GetName]の敬虔な§Y封臣§!全員からの評価が上昇;;;;;;;;;;;;x
 EVTDESCHFPA20055;[From.GetFirstName] grows more beautiful every day. I had my doubts at first, but now I cannot deny it any longer: the child is surely blessed. When I played [Root.GetFertilityGoddess] while I was carrying her, the goddess must have touched her and gifted her with her beauty and purity.;;;;;;;;;;;;x
 EVTDESCHFPB20055;[From.GetFirstName] は日に日に美しくなっていく。最初は疑っていたが、今やもう否定はできない、この子は間違いなく祝福を受けている。妻が[Root.GetFertilityGoddess] を祭りで演じた時、女神は彼女の中の子供に触れ、その美しさと愛嬌を授けてくれたに違いない。;;;;;;;;;;;;x
@@ -7680,14 +7680,14 @@ secret_religious_society_REAL_hellenic_pagan;The Hellenes;;;;;;;;;;;;x
 secret_religious_society_bon_reformed_desc_REAL;Followers of the Bön religion worship many gods and spirits. Adherents seek Great Perfection through the Dzogchen, which is one of the Nine Vehicles (or paths) of the Bön faith. In secret, the Bön Faithful continue to sacrifice animals made of barley flour to appease the higher powers.;;;;;;;;;;;;x
 secret_religious_society_hellenic_pagan_desc_REAL;Followers of Hellenism worship the old gods of the ancient Greeks and Romans. Adherents sacrifice animals and calculate the future through astrology, believing their deities to be fickle and passionate beings, largely indifferent to the affairs of mortals.;;;;;;;;;;;;x
 secret_religious_society_hellenic_pagan_reformed_desc_REAL;Followers of Hellenism worship the old gods of the ancient Greeks and Romans. Adherents sacrifice animals and calculate the future through astrology, believing their deities to be fickle and passionate beings, largely indifferent to the affairs of mortals;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_1_female;Faithful;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_2_female;Adherent;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_3_female;Preacher;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_4_female;Herald;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_1_male;Faithful;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_2_male;Adherent;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_3_male;Preacher;;;;;;;;;;;;x
-secret_religious_society_bon_reformed_rank_4_male;Herald;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_1_female;信徒;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_2_female;信奉者;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_3_female;宣教者;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_4_female;使者;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_1_male;信徒;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_2_male;信奉者;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_3_male;宣教者;;;;;;;;;;;;x
+secret_religious_society_bon_reformed_rank_4_male;使者;;;;;;;;;;;;x
 secret_religious_society_bon_reformed_currency;Devotion;;;;;;;;;;;;x
 secret_religious_society_bon_reformed_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 secret_religious_society_hellenic_pagan_reformed_rank_1_female;入会者;;;;;;;;;;;;x
@@ -10585,7 +10585,7 @@ EVTDESC_HFP_11050_A;[enemy_commander.GetTitledFirstName]が命令を叫ぶ声が
 EVTDESC_HFP_11050_B;状況が有利に進む中、突然、近くから不快な息切れ声が聞こえた。私が[Root.GetDuelWeapon]を構え見回すと、敵司令官 [enemy_commander.GetTitledFirstName]がぎこちなく[battlefield_location.GetTreeRockFence]をよじ登ろうとしていた。"[enemy_commander.GetSheHe]は、戦場から逃亡しようとしているようです、我が[Root.GetLordLady]"、私の隣の戦士は黙り込んでいる。;;;;;;;;;;;;x
 EVTDESC_HFP_11050_C;この戦役は正に簡単なピクニックだ。[battlefield_location.GetTerrain]で[Root.GetDuelWeapon]を振り回すことは楽しく、同じように陽気な同胞たちは[enemy_liege.Culture.GetName]の敵達に囲まれ、鬨の声を上げた。「見ろ！敵指揮官の[enemy_commander.GetTitledFirstName]が隠れているぞ！」誰かが突然叫び、遠くを指さした。;;;;;;;;;;;;x
 EVTOPTA_HFP_11050;ハッ、可愛らしいことだ！あの指揮官とは私が戦おう！;;;;;;;;;;;;x
-EVTOPTB_HFP_11050;そこの[enemy_commander.GetManWoman]、待ってくれない?私と戦おう!;;;;;;;;;;;;x
+EVTOPTB_HFP_11050;待たぬか、そこの[enemy_commander.GetManWoman]よ？私と戦おう！;;;;;;;;;;;;x
 EVTOPTC_HFP_11050;そこにいたか！戦いたくてうずうずしていたぞ！;;;;;;;;;;;;x
 EVTOPTD_HFP_11050;皆に[enemy_commander.GetHerHis]の臆病ぶりを知らしめよ!;;;;;;;;;;;;x
 opinion_mocked_me_in_battle;戦いの中私を侮辱した;;;;;;;;;;;;x
@@ -10789,7 +10789,7 @@ bloodline_legendary_battle_survivor_A;Iron Blood of [This.Founder.GetFirstNameWi
 bloodline_legendary_battle_survivor_B;[This.Founder.GetFirstNameWithNick]の血筋;;;;;;;;;;;;x
 bloodline_legendary_battle_survivor_C;Blood of the Survivor;;;;;;;;;;;;x
 bloodline_legendary_battle_survivor_D;不屈の血筋;;;;;;;;;;;;x
-bloodline_desc_legendary_leader;偉大な[This.Founder.GetWarriorRole]として、そしてそのリーダーとしても知られる[This.Founder.GetFirstNameWithNick]は、異国の地への伝説的な襲撃で熱狂的な支持を集めました。;;;;;;;;;;;;x
+bloodline_desc_legendary_leader;[This.Founder.GetFirstNameWithNick]は偉大な[This.Founder.GetWarriorRole]として、そしてそのリーダーとしても知られています。[This.Founder.GetHerHis]は異国の地への伝説的な襲撃で熱狂的な支持を集めました。;;;;;;;;;;;;x
 bloodline_legendary_leader_A;[This.Founder.GetWarriorRoleCap]'s Blood;;;;;;;;;;;;x
 bloodline_legendary_leader_B;[This.Founder.GetWarriorRoleCap]の血筋;;;;;;;;;;;;x
 bloodline_legendary_leader_C;Blood of a Leader;;;;;;;;;;;;x
@@ -17447,7 +17447,7 @@ tooltip_stable_attribute_improvement_effect;§Y[Root.GetTitledFirstName]§! will
 EVTDESCAHF23760;Being a good [Root.Religion.GetName] [Root.GetTitle] is no easy task. The people of [Root.PrimaryTitle.GetName] expect me to be a just and competent ruler. By neglecting my duties, I would only betray the loyalty of my subjects, and jeopardize the longterm stability of this great realm of ours.;;;;;;;;;;;;x
 EVTDESCBHF23760;[Root.GetOnlyDynastyName]一族は[Root.PrimaryTitle.GetName]安寧の礎だ。我々の誰かが躓くと、領国は揺れる。弱い絆は偉大な一族の系譜を断絶しうる。そのとおりで、夜に安らかに眠りたいのであれば、[scoped_improvement_target.GetFirstName]の欠点に対処しなければならないと感じている。;;;;;;;;;;;;x
 EVTDESCCHF23760;Stability in [Root.PrimaryTitle.GetName] can only be maintained as long as all the strands of the great tapestry which makes up this great realm of ours are weaved properly. I fear that [scoped_improvement_target.GetFirstName] has yet to reach the full extent of [scoped_improvement_target.GetHerHis] potential. [scoped_improvement_target.GetSheHeCap] might use some help to improve [scoped_improvement_target.GetHerselfHimself].;;;;;;;;;;;;x
-EVTOPTAHF23760;The intricacies of politics can never be truly mastered.;;;;;;;;;;;;x
+EVTOPTAHF23760;政治の複雑さは決して完全にはマスターできない。;;;;;;;;;;;;x
 tooltip_synergic_education_ugrade;By focusing on [scoped_improvement_target.GetHerHis] main field of study, §Y[scoped_improvement_target.GetTitledFirstName]§! has a chance to improve [scoped_improvement_target.GetHerHis] §YEducation§!.;;;;;;;;;;;;x
 EVTOPTBHF23760;平和を維持するには戦場での熟練が不可欠だ。;;;;;;;;;;;;x
 EVTOPTCHF23760;一族のことを知らなければ、他者を導くことなど出来ない。;;;;;;;;;;;;x
@@ -18278,7 +18278,7 @@ EVTOPTB_HF_14001_TT;他にやるべきことがある。;;;;;;;;;;;;x
 EVTDESC_HF_14002_bravery;「私は貴方が決闘を断っていると聞きました」[teacher.GetManWoman]が私の後ろで声を発した。振り返ると、話していたのは[teacher.GetRootRelation]の[teacher.GetTitledFirstName]であることに気づいた。「[Root.Society.GetNameCap]は当然気づいています」[teacher.GetSheHe]は言った。私の肩に腕をかけながら、[teacher.GetSheHe]は続けた。「私は貴方を助けられます！ちょっとした指導が必要ですがね、いい[Root.GetManWoman]よ！」;;;;;;;;;;;;x
 EVTDESC_HF_14002_ambition;[teacher.GetTitledFirstName] が国外遠征から戻った。我が [teacher.GetRootRelation] が、持ち帰った戦利品を披露する。その様子に 溜息をつくと、[teacher.GetHerHim] が手を止めた。「おわかりのはずだ、あなたはいつも手にした物で満足しきってしまう、 [Root.GetFirstName]」 [teacher.GetSheHe] は言い放つ。「野心を研ぎあげる、その手助けをしましょう」、[teacher.GetSheHe]は迫った。;;;;;;;;;;;;x
 EVTDESC_HF_14002_patience;I recently lost a game of [Root.GetWarriorLodgeCompetitionType], and [teacher.GetTitledFirstName] has approached me, wanting to talk about my temper. "Patience is something that comes from within", my [teacher.GetRootRelation] explains. I clench my fist, a gesture not lost on the [teacher.GetManWoman]. "You just need some guidance", [teacher.GetSheHe] finally says.;;;;;;;;;;;;x
-EVTDESC_HF_14002_diligence;[teacher.GetBestName] is watching me in the training grounds. There is something inquisitive about it, and I am not surprised when [teacher.GetSheHe] comes over, asking about the routines I keep, "maintenance-wise, for your weapons and armor". When I fail to come up with a clear answer, [teacher.GetSheHe] continues, unapologetically: "I could teach you how to care for your sword".;;;;;;;;;;;;x
+EVTDESC_HF_14002_diligence;[teacher.GetBestName]は訓練場で私を見ていた。好奇心があったのだろう。だから[teacher.GetSheHe]がやってきて、私が毎日やっているルーチンについて尋ねても驚かなかった。「武器と鎧の手入れについての知識はどうかな」私が明確な答えを見つけられないでいると、[teacher.GetSheHe]は「私なら剣の手入れの仕方を教えることができる」と弁解することなく続けた。;;;;;;;;;;;;x
 EVTOPTA_HF_14002;提案を受けよう。何を考えている？;;;;;;;;;;;;x
 EVTOPTA_HF_14002_TT;§Y[teacher.GetTitledFirstName]§!の指導を受け入れる。;;;;;;;;;;;;x
 EVTOPTB_HF_14002;私はお前の慈善事業ではない！;;;;;;;;;;;;x
@@ -18307,7 +18307,7 @@ EVTOPTA_HF_14005;かなり神経質な人っているよね？;;;;;;;;;;;;x
 EVTDESC_HF_14006_bravery;When [teacher.GetBestName] informed me that we were going to live in the woods for a few nights, I was tempted to refuse. We could be eaten by snakes! By [Root.GetRegionalFerociousAnimal]s! Or attacked by raiders! However, falling asleep in the wilderness, to the wind and rustling of the trees, my fears began to wane. Now, I do not know what it was that I was so afraid of.;;;;;;;;;;;;x
 EVTDESC_HF_14006_ambition;[teacher.GetTitledFirstName]の「書物庫へ数日はこもりましょう」との言葉に、私は消沈してしまった。「その編纂者らは、古今東西の猛者共の全てを知り抜いています」[teacher.GetSheHe]は笑みを浮かべる。ありがたいことに、その物語集に心奪われるまで数刻で済んだ。「出来ると信じていました」[teacher.GetSheHe]は、にんまりとそう告げる。;;;;;;;;;;;;x
 EVTDESC_HF_14006_patience;I was not excited to watch others play games of [Root.GetWarriorLodgeCompetitionType], and I think [teacher.GetTitledFirstName] could tell. Yet, the patience with which my [teacher.GetRootRelation] narrated the matches to me, explaining each subtle move, was eye-opening. Even seeing fighters who lost one day, return for revenge the next, was inspiring!;;;;;;;;;;;;x
-EVTDESC_HF_14006_diligence;When my [teacher.GetRootRelation] suggested we spend a few afternoons reorganizing [teacher.GetHerHis] armory, I expected to be bored within moments. Yet [teacher.GetTitledFirstName] has managed to keep my interest for several days, and I find myself asking questions I have never even thought of before. I am almost embarrassed by my former attitude.;;;;;;;;;;;;x
+EVTDESC_HF_14006_diligence;[teacher.GetRootRelation]が午後の数時間を[teacher.GetHerHis]の武器庫の整理に費やすことを提案したとき、私はすぐに退屈すると思った。それでも[teacher.GetTitledFirstName]は私が興味を持ち続けるように数日間取り計らったので、私は今まで考えもしなかった質問をしている。私は以前の態度が恥ずかしくなりそうだ。;;;;;;;;;;;;x
 EVTOPTA_HF_14006;こんな好機を与えてくれるとは。ありがとう、友よ。;;;;;;;;;;;;x
 EVTOPTB_HF_14006;I cannot express how grateful I am. Can I... Can I kiss you?;;;;;;;;;;;;x
 EVTOPTB_HF_14006_TT_romance;§Y[teacher.GetTitledFirstName]§! is as happy as you are.;;;;;;;;;;;;x

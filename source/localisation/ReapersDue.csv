@@ -528,7 +528,7 @@ food_poisoning;食中毒;;;;;;;;;;;;x
 food_poisoning_desc;この人物は食中毒に苦しんでいる - 激しい嘔吐と下痢をし、非常に悪い状態だが、病状は通常あまり長く続かない。;;;;;;;;;;;;x
 rabies;狂犬病;;;;;;;;;;;;x
 rabies_desc;この人物は狂犬病にかかっている - 腫れや脳炎症は非常に奇妙で、攻撃的な行動を起こす。;;;;;;;;;;;;x
-flu_death;インフルエンザの悪化により;;;;;;;;;;;;x
+flu_death;流感の悪化により;;;;;;;;;;;;x
 dysentery_death;「小部屋で用を足している」最中に;;;;;;;;;;;;x
 gout_death;痛風に関連した合併症により;;;;;;;;;;;;x
 food_poisoning_death;食あたりにより;;;;;;;;;;;;x
@@ -1463,7 +1463,7 @@ EVTOPTB_RIP_22001;門を開けるな!!;;;;;;;;;;;;x
 EVTOPTB_RIP_22001_TOOLTIP;農民たちを無視することがベストだと考えています。\n\n全ての直轄領に§Y農民たちの不安§!が追加し、2年間以下の効果を得ます:\n地域の暴動発生確率: §R+10.0%§!\n地域の税率修正: §R-50.0%§!\n\n;;;;;;;;;;;;x
 EVTDSC_RIP_22003;[From.GetFirstName]と呼ばれる、その農民のリーダーは恐ろしい外見だった!!彼は'生きる屍'の一人に噛まれており、かろうじて命をつないでいる状態だという。彼は拝み倒し、私に何らかの行動を起こしこの恐ろしい祟りから我々を守るようにと話していった。;;;;;;;;;;;;x
 EVTOPTA_RIP_22003;それらは怪物ではなく人なのだ!我々は彼らを助けよう。;;;;;;;;;;;;x
-EVTOPTA_RIP_22003_TOOLTIP;あなたは野戦病院やヒーラーたちに投資することで農民たちを落ち着かせ、病気の蔓延を防ごうとします\n;;;;;;;;;;;;x
+EVTOPTA_RIP_22003_TOOLTIP;あなたは野戦病院や治療師に投資することで農民を落ち着かせ、病気の蔓延を防ごうとします。\n;;;;;;;;;;;;x
 EVTOPTB_RIP_22003;これは終わりではない。確かに[Root.Religion.GetScriptureName]がそう仰った!!;;;;;;;;;;;;x
 EVTOPTB_RIP_22003_TOOLTIP;§Y[From.GetFirstName]§!に[Root.Religion.GetHighGodName]の慈悲を説き、彼にその病は恐れるものではなく治療すべきものだと認識させます\n;;;;;;;;;;;;x
 EVTOPTC_RIP_22003;この怪物たちを討伐するために兵を派遣しよう!!;;;;;;;;;;;;x
@@ -1939,14 +1939,14 @@ opinion_sought_mystic_knowledge;私に知識を求めた;;;;;;;;;;;;x
 opinion_finished_mystic_task_1;有望な学生;;;;;;;;;;;;x
 opinion_finished_mystic_task_2;卓越した学生;;;;;;;;;;;;x
 opinion_finished_mystic_task_3;驚異的な学生;;;;;;;;;;;;x
-EVTDESC_RIP_12050;あなたの[Root.GetTreasurerName]である[Root.job_treasurer.GetTitledFirstName]は城の地下にある古いトンネルについて話したいようだ。その議題は、時代が荒れている今、トンネルをより良い状態で維持されなければならないということだ。あなたがいつ出なければならないのか、すぐにはわからない。;;;;;;;;;;;;x
+EVTDESC_RIP_12050;あなたの[Root.GetTreasurerName]である[Root.job_treasurer.GetTitledFirstName]は城の地下にある古いトンネルについて話したいようだ。議題は、今やいつ外に出るべきかさっぱりわからない荒れた時分だからトンネルを直ちにより良い状態で維持されなければならない、ということだ。;;;;;;;;;;;;x
 EVTOPTA_RIP_12050;なんてすばらしい考えだ、[Root.job_treasurer.GetFirstName]よ!;;;;;;;;;;;;x
 EVTOPTA_RIP_12050_TOOLTIP;あなたはしおれたトンネルの地図を探し、§Y[secluded_steward.GetFirstName]§!に手渡しします\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12050;それは賢い意見だ!…検討しておこう。;;;;;;;;;;;;x
 EVTOPTB_RIP_12050_TOOLTIP;あなたは§Y[secluded_steward.GetFirstName]§!の意見を信用しておらず、[secluded_steward.GetHerHim]にいくらか経路が欠けたトンネルの地図を渡そうとします...\n;;;;;;;;;;;;x
-EVTOPTC_RIP_12050;ふん、お前がやろうとしていることはお見通しだ!お前に答えるべきことなんぞ何もない!;;;;;;;;;;;;x
+EVTOPTC_RIP_12050;ふん、お前がやろうとしていることはお見通しだ!話すことなぞ何もない!;;;;;;;;;;;;x
 EVTOPTC_RIP_12050_TOOLTIP;あなたは§Y[secluded_steward.GetFirstName]§!のことを信用しないと決心する\n;;;;;;;;;;;;x
-EVTDESC_RIP_12052;「わが主君よ!」 [secluded_steward.GetTitledFirstName]はメインホールを下っているあなたに追いついた。[secluded_steward.GetSheHeCap]は不安そうにしていたので、あなたは[secluded_steward.GetHerHim]に気がかりなことをすべて話すように命じた。「トンネルです、わが偉大なる[Root.GetLordLady]よ」[secluded_steward.GetSheHe]は息をつぎ、続けて話した。「番兵が最近使用された形跡のある道具や松明を発見したことから、誰かがトンネルで何かしているようです」;;;;;;;;;;;;x
+EVTDESC_RIP_12052;「わが主!」 [secluded_steward.GetTitledFirstName]はメインホールを下っているあなたに追いついた。[secluded_steward.GetSheHeCap]が不安そうにしていたので、あなたは気がかりなことを洗いざらい話すように命じた。「トンネルです、[Root.GetLordLady]」[secluded_steward.GetSheHe]は息をつぎ、続けて話した。「番兵が最近使用された形跡のある道具や松明を発見したことから、誰かがトンネルで何かしているようです」;;;;;;;;;;;;x
 EVTOPTA_RIP_12052;これは待ち伏せの絶好のチャンスだ!;;;;;;;;;;;;x
 EVTOPTA_RIP_12052_TOOLTIP;あなたは密かにトンネルに出入りする人を捕まえようと、もっと多くの番兵を派遣しました\n\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12052;これは災いだ!トンネルを封印せよ!;;;;;;;;;;;;x
@@ -1955,20 +1955,20 @@ EVTOPTC_RIP_12052;番兵自身のものではないことは確かか?;;;;;;;;;;
 EVTOPTC_RIP_12052_TOOLTIP;あなたはこんなお遊びには干渉しないことを決めました;;;;;;;;;;;;x
 EVTDESC_RIP_12053;誰かがトンネルの中で捕まっている!;;;;;;;;;;;;x
 EVTOPTA_RIP_12053_TOOLTIP;調査隊を作る;;;;;;;;;;;;x
-EVTDESC_RIP_12054;あなたの番兵はトンネルの中で誰かを捕まえた!しかしながら、その人はまだ落ち着いた状態ではないように見える。番兵の顔は、飢えて妙にビクビクした[captured_sneaker.GetBestName]にはいつもの残忍そうな顔を見せなかった。;;;;;;;;;;;;x
+EVTDESC_RIP_12054;番兵はトンネルの中で誰かを捕まえた!しかしながら、その人物はまだ落ち着いた状態ではないようだ。空腹そうな様子で妙にビクビクしている[captured_sneaker.GetBestName]が差し出された時、番兵にはいつもの血に飢えた表情が浮かんでいなかった。;;;;;;;;;;;;x
 EVTOPTA_RIP_12054;[captured_sneaker.GetSheHe]の説明を聞いてみましょう。;;;;;;;;;;;;x
 EVTOPTA_RIP_12054_TOOLTIP;尋問のため、[captured_sneaker.GetFirstName]を一人にするよう命じる\n\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12054;[captured_sneaker.GetHerHim]を地下牢にぶち込め!;;;;;;;;;;;;x
 EVTOPTB_RIP_12054_TOOLTIP;隠れてコソコソしたネズミを投獄します\n\n;;;;;;;;;;;;x
 EVTOPTC_RIP_12054;[captured_sneaker.GetHerHim]を殺すことこそ慈悲だといっているのだろ?;;;;;;;;;;;;x
 EVTOPTC_RIP_12054_TOOLTIP;哀れみよりも安全を重視し、[captured_sneaker.GetSheHe]がなにか起こす前に殺すよう命じます!\n\n;;;;;;;;;;;;x
-EVTDESC_RIP_12055;あなたが鍵のかかった扉に注意深く近づくと、中では [captured_sneaker.GetFirstName]が静かに独り言をいっていた。番兵によれば、[captured_sneaker.GetSheHe]の恋人が廷内にいたらしい。城に戻ろうとする最中、[captured_sneaker.GetHerHis]の最愛のものが病気になったのだ。愛するものを失った悲しみから[captured_sneaker.GetSheHe]はトンネルの中にいたのだという。 \n「[captured_sneaker.GetSheHeCap]は全てを話してるわけではないと思います、我が[Root.GetLordLady]よ……」;;;;;;;;;;;;x
+EVTDESC_RIP_12055;鍵のかかった扉に注意深く近づくと、中では [captured_sneaker.GetFirstName]が静かに独り言をいっていた。番兵によれば、[captured_sneaker.GetSheHe]の恋人が宮廷内にいたらしい。城に戻ろうとする最中、[captured_sneaker.GetHerHis]の最愛のものが病気になったのだ。愛するものを失った悲しみからトンネルの中にいたという。 \n「[captured_sneaker.GetSheHeCap]は正気には見えません、我が[Root.GetLordLady]よ……」;;;;;;;;;;;;x
 EVTOPTA_RIP_12055;かわいそうなことだ！[captured_sneaker.GetHerHim]を我が廷臣に加えよう！;;;;;;;;;;;;x
 EVTOPTA_RIP_12055_TOOLTIP;恋人を奪った病が何であったにせよ、[captured_sneaker.GetFirstName]には免疫があるのは明らかです\n多少不安が残りますが、[captured_sneaker.GetFirstName]はあなたの廷臣に加えます\n\n;;;;;;;;;;;;x
 EVTOPTB_RIP_12055;リスクをとることはできない。[captured_sneaker.GetSheHeCap]はここを去らなければならない;;;;;;;;;;;;x
 EVTOPTB_RIP_12055_TOOLTIP;この話を信じたとしても、[captured_sneaker.GetSheHe]は病に侵されている可能性があります。\nあなたは[captured_sneaker.GetHerHim]を正門に送り出しました\n\n;;;;;;;;;;;;x
-EVTDESC_RIP_12056_A;夜中、廊下の騒がしく目を覚ました。部屋の外ではピッチフォークの影は壁を覆い、悲鳴も聞こえてきます。あなたはドアを閉じました。農民どもはどうやって入って来た？ともかくトンネルが安全であるに違いない！[secluded_steward.GetTitledFirstName]はそこを点検している！地図の内容は少々古かったかもしれないが……;;;;;;;;;;;;x
-EVTDESC_RIP_12056_B;夜中、廊下の騒がしく目を覚ました。部屋の外ではピッチフォークの影は壁を覆い、悲鳴も聞こえてきます。あなたはドアを閉じました。農民どもはどうやって入って来た?ともかくトンネルが安全であるに違いない!私の[secluded_steward.GetTitledFirstName]はそこを点検したのだろうか？;;;;;;;;;;;;x
+EVTDESC_RIP_12056_A;夜中、廊下が騒がしく目を覚ました。部屋の外ではピッチフォークの影は壁を覆い、悲鳴も聞こえてきます。あなたはドアを閉じました。農民どもはどうやって入って来た？ともかくトンネルが安全であるに違いない！[secluded_steward.GetTitledFirstName]はそこを点検している！地図の内容は少々古かったかもしれないが……;;;;;;;;;;;;x
+EVTDESC_RIP_12056_B;夜中、廊下が騒がしく目を覚めました。部屋の外ではピッチフォークの影が壁を覆い、悲鳴も聞こえてきます。あなたはドアを閉じました。農民どもはどうやって入って来た?ともかくトンネルが安全であるに違いない!我が[secluded_steward.GetTitledFirstName]はそこを点検したのだろうか？;;;;;;;;;;;;x
 EVTOPTA_RIP_12056;衛兵共！であえ！;;;;;;;;;;;;x
 EVTOPTA_RIP_12056_TOOLTIP;あなたは武器を持ち農民たちがいる暗闇の中に逃げだしました!\n\n;;;;;;;;;;;;x
 EVTDESC_RIP_12057;夜遅くお菓子をを食べ、寝室に向かおうとすると背後から足音が聞こえてきた。こんな時間にいったい誰が？タペストリーに見入っているふりをして立ち止まると、足音もやんだ。やはり私の後を付けている奴がいる――あなたは寝室に戻るとナイフを取り出し、ドアに隠れて尾行者を待ち伏せた。;;;;;;;;;;;;x
@@ -1981,8 +1981,8 @@ EVTOPTB_RIP_12058;えーとだね、あなたのことは好きだけど、そ�
 EVTOPTB_RIP_12058_TOOLTIP;[captured_sneaker.GetFirstName]はがっかりし、その後[captured_sneaker.GetHerHis]は顔を赤らめながら急いで服を着ます\n\n;;;;;;;;;;;;x
 EVTOPTC_RIP_12058;何をしているんだ？出ていけ!!;;;;;;;;;;;;x
 EVTOPTC_RIP_12058_TOOLTIP;[captured_sneaker.GetBestName]は恥ずかしさのあまり部屋から逃げるようにしていきます\n\n;;;;;;;;;;;;x
-EVTDESC_RIP_12059_A;農民の反乱軍が自身の指導者の名である[captured_sneaker.GetBestName]を叫ぶと、あなたは激しく怒り、一人また一人と叩き切っていった。彼らは城に突入しようと試みたが、その機会は生まれることはなかった。あなたの鍛え抜かれられた兵士も貢献し、その反乱は鎮圧された。その勝利をきっかけに、主に信頼というものは得ることが難しいものだと思い出した;;;;;;;;;;;;x
-EVTDESC_RIP_12059_B;農民の反乱軍が自身の指導者の名である[captured_sneaker.GetBestName]を叫ぶと、あなたは激しく怒り、一人また一人と叩き切っていった。彼らは城に突入しようと試みたが、そこはあなたが防衛線を引いたところであった!あなたの鍛え抜かれられた兵士も貢献し、その反乱は見事に鎮圧された。その勝利をきっかけに、残酷さの必要性について考えた;;;;;;;;;;;;x
+EVTDESC_RIP_12059_A;農民の反逆者たちがリーダーである[captured_sneaker.GetBestName]の名を叫ぶと、あなたは激しく怒り、一人また一人と叩き切っていった。彼らは城への侵入は成功したが、見込みがなかった。よく鍛え抜かれた兵士も貢献し、その反乱は粉砕された。この勝利から得た教訓は、おもにこの世の中で信頼を得ることは難しいということだ。;;;;;;;;;;;;x
+EVTDESC_RIP_12059_B;農民の反逆者たちがリーダーである[captured_sneaker.GetBestName]の名を叫ぶと、あなたは激しく怒り、一人また一人と叩き切っていった。彼らは城への侵入は成功したが、そこはあなたが防衛線を引いたところであった!よく鍛え抜かれた兵士も貢献し、反乱が成功する見込みはほとんどなかった。その勝利をきっかけに、あらゆるものの厳しさについて熟考した。;;;;;;;;;;;;x
 EVTOPTA_RIP_12059;これは勝利とは言えません;;;;;;;;;;;;x
 EVTOPTA_RIP_12059_TOOLTIP;反乱者たちは虐殺されました\n\n;;;;;;;;;;;;x
 crusched_rebels_from_seclusion;鎮圧された城内反乱;;;;;;;;;;;;x
@@ -2356,7 +2356,7 @@ shieldmaiden_desc;この人物は驚くべき勇敢さと精神を兼ね備え�
 nick_the_defender;守り手;;;;;;;;;;;;x
 nick_the_legendary;伝説の;;;;;;;;;;;;x
 EVTDESC_79023_A;[FromFrom.GetTitledFirstName]は私を解職することに決めた。私はもはや[FromFrom.GetHerHis]の盾持つ乙女ではない。あの残念な川での出来事と関係があるのだろうか？;;;;;;;;;;;;x
-EVTDESC_79023_B;「盾持つ乙女」として自分が相応しいと証明したにもかかわらず、私は解職されたことに少し驚いたが、いまだ私は自分の主君を尊敬している。 誇りを持って[FromFrom.GetTitledFirstName]の「盾持つ乙女」として働いた日々を思い出すことだろう。;;;;;;;;;;;;x
+EVTDESC_79023_B;「盾持つ乙女」として自分が相応しいと証明したにもかかわらず、解職されたことに少し驚いたが、いまだ私は自分の主君を尊敬している。 誇りを持って[FromFrom.GetTitledFirstName]の「盾持つ乙女」として働いた日々を思い出すことだろう。;;;;;;;;;;;;x
 EVTDESC_79023_C;戦場での大失態の後、[FromFrom.GetTitledFirstName]が私を「盾持つ乙女」としての役職を解職したことに責められるはずがなかった…私は他に何か資質があるだろうか？;;;;;;;;;;;;x
 EVTDESC_79023_D;[FromFrom.GetTitledFirstName]は、正式に私を[FromFrom.GetHerHis]の「盾持つ乙女」としての役職から外すことを決めた。[FromFrom.GetSheHeCapから]はそれが私のためだと話した。それは栄誉あることではないが、もっと静かな生活を送ることができる。ハープでも弾いてみようか？;;;;;;;;;;;;x
 EVTDESC_79023_E;[FromFrom.GetTitledFirstName]は「盾持つ乙女」としての役職から私を外すことを決めたが、わたしは[FromFrom.GetHerHis]がそれを行った理由を推測することしかできない。今となってはいい思い出であったと思う。;;;;;;;;;;;;x
@@ -2932,11 +2932,11 @@ EVTDESC_WoL_7091_PAGAN;自分だけの洞窟に籠り、聖別された根菜と
 EVTDESC_WoL_7091_INDIAN;Secluded in my cave, meditating on the teachings of [Root.Religion.GetRandomGodName], I have gained better control over my thoughts and desires.;;;;;;;;;;;;x
 EVTDESC_WoL_7091_LUNATIC;アナグマの巣穴の中で安全に体を丸め、外に忍び寄ってくる唸る影の男たちに心を奪われた。いつからここに隠れているんだろう。;;;;;;;;;;;;x
 EVTOPT_WoL_7091_DRUNKARD;Time to cut down on the beer;;;;;;;;;;;;x
-EVTOPT_WoL_7091_GLUTTON;Too much food harms the body and dulls the mind;;;;;;;;;;;;x
+EVTOPT_WoL_7091_GLUTTON;食べ過ぎは体に悪いし、心まで鈍くする;;;;;;;;;;;;x
 EVTOPT_WoL_7091_SLOTHFUL;今から本気出す;;;;;;;;;;;;x
 EVTOPT_WoL_7091_LUSTFUL;劣情を抑えねば;;;;;;;;;;;;x
 EVTOPT_WoL_7091_BLIND;Praise [Root.Religion.GetHighGodName]! I can see again!;;;;;;;;;;;;x
-EVTOPT_WoL_7091_CHASTE;My loins are on fire! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;x
+EVTOPT_WoL_7091_CHASTE;私の腰が火を吹くぜ！[Root.Religion.GetRandomGodName]バンザイ！;;;;;;;;;;;;x
 EVTOPT_WoL_7091_POX;The pox... It's gone! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;x
 EVTOPT_WoL_7091_LEPER;I can feel my face again! My leprosy is healed!;;;;;;;;;;;;x
 EVTOPT_WoL_7091_LUNATIC;呪われた哭声...は今はほとんど聞こえない。;;;;;;;;;;;;x
@@ -3294,7 +3294,7 @@ EVTOPTX_RIP_11053;優れた候補者だ、[recruited_physician_target.GetHerHim]
 EVTDESC_RIP_11053_MANICHEAN_MERCHANT;つい最近シルクロードの商人が[Root.Capital.GetName]に到着した。巡回兵は、この[recruited_physician_target.GetFirstName]が無料の健康診断を提供することを偽って、マニ教の福音を説く機会に利用したと報告した！巡回兵は[recruited_physician_target.GetHerHim]を安全に拘束してしているが、[recruited_physician_target.GetSheHe]はあなたの侍医として働くこともできるだろう。;;;;;;;;;;;;x
 EVTOPTY_RIP_11053;[recruited_physician_target.GetHerHim]を解放し、宮廷まで連れてくるのだ!;;;;;;;;;;;;x
 EVTDESC_RIP_4100;あなたの前に足枷をはめられた者が連れてこられた。どうやら彼はあなたの領地で異端の信仰を説いてきた、[origin_realm_of_missionary_physician_target.Realm.GetName]の宣教師のようだ。彼は[missionary_physician_target.Religion.GetHighGodName]の命を遂行しなければならないと主張し、近くの村で病気の治療を行っていた。この見当違いな[missionary_physician_target.Religion.GetName]をどう処置すべきだろうか？;;;;;;;;;;;;x
-EVTOPTA_RIP_4100;ヒーラーだと?ならば私に仕えるべきだな。;;;;;;;;;;;;x
+EVTOPTA_RIP_4100;治療師だと？なら私に仕えるべきだな。;;;;;;;;;;;;x
 EVTOPTB_RIP_4100;我が領地で[missionary_physician_target.Religion.GetName]の信仰などゆるしておけない、奴を燃やせ!;;;;;;;;;;;;x
 EVTDESC_RIP_4101;数週間が過ぎても、侍医の[missionary_physician_target.Religion.GetName]は自分の宗教について説き続けている。[missionary_physician_target.Religion.GetRandomGodName]はあなたに健康と長寿を恵むだろうと良く主張し続けている!!少々上手すぎる話でもあるきがするが…どうすべきか？;;;;;;;;;;;;x
 EVTOPTA_RIP_4101;同意できない、[Root.Religion.GetHighGodName]は私を見放さないのだから;;;;;;;;;;;;x
@@ -3886,7 +3886,7 @@ EVTDSC_RIP_5060_PLAGUE;陰鬱な日だ。私の[GetFromRelation]の[From.GetTitl
 EVTDSC_RIP_5060_MEASLES;陰鬱な日だ。私の[GetFromRelation]の[From.GetTitledFirstName]が、奇妙な発疹と高い熱に襲われた。[From.GetHerHis]の苦しみは麻疹によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_SMALLPOX;陰鬱な日だ。私の[GetFromRelation]の[From.GetTitledFirstName]が、皮膚から膿が出てまた高熱にも襲われてた。[From.GetHerHis]の苦しみは天然痘によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_SYPHILITIC;私の[GetFromRelation]の[From.GetTitledFirstName]は、最近全くもっておとなしい。しばらくしてから、私は[From.GetHerHim]が疲れにより生気が抜けていることに気付いた。そして今私はちょうどその原因を知らされた - [From.GetFirstName]は梅毒に罹っていたのだ！;;;;;;;;;;;;x
-EVTDSC_RIP_5060_FLU;最近、私の[GetFromRelation]の[From.GetTitledFirstName]が痛々しい状態に陥っているのに気付いた。その後[From.GetHerHis]の痛みや疲労の原因はインフルエンザによるものだと伝えられた。;;;;;;;;;;;;x
+EVTDSC_RIP_5060_FLU;最近、私の[GetFromRelation]の[From.GetTitledFirstName]が痛々しい状態に陥っているのに気付いた。その後[From.GetHerHis]の痛みや疲労の原因は流感によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_DYSENTERY;ここ数日間[GetFromRelation]の[From.GetTitledFirstName]は胃のあたりを良く押さえており、また[From.GetHerHis]は頻繁にトイレに行くようになっている。そして今、[From.GetSheHe]のその原因は赤痢によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_GOUT;しばらく前から私の[GetFromRelation]の[From.GetTitledFirstName]が、関節痛を訴えていた。どうやら頻繁に腫れあらわれ、数時間の間熱や痛みを感じ[From.GetHerHis]を苦しめているようだ。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_FOOD_POISONING;ここ数日間、私の[GetFromRelation]の[From.GetTitledFirstName]は飲み物や食べ物を受け付けないでいる。まるで[From.GetSheHe]は食中毒に苦しんでいるようだ。;;;;;;;;;;;;x

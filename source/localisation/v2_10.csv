@@ -402,7 +402,7 @@ married_monkey;この人物は猿と結婚しました...;;;;;;;;;;;;x
 good_hunt;成功した狩り;;;;;;;;;;;;x
 HAS_LOWER_PIETY_THAN;[Player.Religion.GetPietyName]が右記未満:;;;;;;;;;;;;x
 HAS_HIGHER_PIETY_THAN;[Player.Religion.GetPietyName]が右記以上:;;;;;;;;;;;;x
-PIETY_EFFECT;$PIETYNAME$が$DIRECTION$$VALUE$。\n;;;;;;;;;;;;x
+PIETY_EFFECT;$PIETYNAME$を$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
 LIEGE_PIETY_BUILDING;主君への$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x
 LIEGE_PIETY_SELF;建築物からの$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x
 LIEGE_PIETY;封臣の建築物からの$PIETYNAME$: §G+$VALUE$§!;;;;;;;;;;;;x

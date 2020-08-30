@@ -394,7 +394,7 @@ EVTOPTB_WOL_99;私は我慢できそうにない！;;;;;;;;;;;;x
 EVTOPTC_WOL_99;しかし……犯したくなる罪が多すぎるのだ！;;;;;;;;;;;;x
 EVTOPTD_WOL_99;当然のことだが、私はそれを罪悪だと思っていない。;;;;;;;;;;;;x
 EVTTITLE_WOL_100;捕物が始まる！;;;;;;;;;;;;x
-EVTDESC_WOL_100;私は自分の言いなりにできる[From.GetObjectPronoun]を持っているので、私の持ちうる全ての誘惑のスキルで[From.GetTitledFirstName]との関係を築く！;;;;;;;;;;;;x
+EVTDESC_WOL_100;私の指が[From.GetTitledFirstName]を包み込むまで、私の持ちうる全ての誘惑スキルは[From.GetObjectPronoun]に向けられるだろう!;;;;;;;;;;;;x
 EVTOPTA_WOL_100;[From.GetSubjectPronounCap]は私のものになる！;;;;;;;;;;;;x
 EVTDESC_WOL_101;私は[From.GetTitledFirstName]を狙うことにしたが、年齢差の問題で宮廷にスキャンダルを巻き起こすかもしれない...;;;;;;;;;;;;x
 EVTOPTA_WOL_101;だけど私はシワのある人が好きなのだ！;;;;;;;;;;;;x
@@ -514,7 +514,7 @@ EVTOPTA_WOL_305;私が何をしたというのだ？;;;;;;;;;;;;x
 EVTDESC_WOL_306;私は甘い言葉で[From.GetMenWomen]を誘惑することに関しては自信があるのだ！ [From.GetFirstName]と私は禁じられた愛を育み、[From.GetPossPronoun]のベッドで甘い一夜を共にした。私は手がかりが残らないよう、長居をせずにこっそりと宮廷を離れた...お願いだからバレませんように！;;;;;;;;;;;;x
 EVTDESC_WOL_306_CR;私は甘い言葉で[From.GetMenWomen]を誘惑することに関しては自信があるのだ！[Root.Religion.GetRandomEvilGodNameCap]に魂を売り渡したような不道徳な行いだとわかっていたが、[From.GetFirstName]と私は禁じられた愛を育み、[From.GetPossPronoun]のベッドで甘い一夜を共にした。私は手がかりが残らないよう、長居をせずにこっそりと宮廷を離れた...お願いだからバレませんように！;;;;;;;;;;;;x
 EVTOPTA_WOL_306;来た、見た、勝った;;;;;;;;;;;;x
-EVTOPTA_WOL_306_CUSTOM;[From.GetObjectPronoun]と愛を育み、[From.GetObjectPronoun]を去った;;;;;;;;;;;;x
+EVTOPTA_WOL_306_CUSTOM;[From.GetObjectPronoun]と愛を育み、[From.GetObjectPronoun]から離れた。;;;;;;;;;;;;x
 EVTOPTB_WOL_306;私達の愛が育ちますように！;;;;;;;;;;;;x
 EVTDESC_WOL_307;催しが終わったとき、私は[From.GetFirstName]の傍らに近づいて一緒に退出することを提案した...  信じられないことに、[From.GetSubjectPronoun]は私の申し出をはねつけたのだ！;;;;;;;;;;;;x
 EVTOPTA_WOL_307;美徳はこれよりも強い...;;;;;;;;;;;;x

@@ -643,7 +643,7 @@ TECH_MARTIAL_VALUE;軍事技術点の基本成長;;;;;;;;;;;;x
 TECH_STEWARDSHIP_VALUE;経済技術点の基本成長;;;;;;;;;;;;x
 TECH_DIPLOMACY_VALUE;文化技術点の基本成長;;;;;;;;;;;;x
 TECH_POINTS_PER_MONTH;点/月;;;;;;;;;;;;x
-TECHPOINT_EFFECT;$TYPE$$VALUE$を$DIRECTION$。\n;;;;;;;;;;;;x
+TECHPOINT_EFFECT;$TYPE$を$VALUE$$DIRECTION$。\n;;;;;;;;;;;;x
 TECH_POINTS_PER_ATTRIBUTE;属性ポイント当たりの技術点;;;;;;;;;;;;x
 PARTIALLY_FILLED;部分的に満たされている;;;;;;;;;;;;x
 COUNT_TECH_POINTS;伯爵は技術点を生み出しません;;;;;;;;;;;;x
@@ -1229,7 +1229,7 @@ EVTOPTA_TOG_3007;とんだことをしてしまった……;;;;;;;;;;;;x
 EVTTOOLTIP_TOG_3008;怒りを抑えた;;;;;;;;;;;;x
 EVTDESC_TOG_3008;[FromFrom.GetTitledFirstName]はまだベラベラと喋りつづけている。あなたは卓の端を噛み砕き、破片をベっと吐き出した。ベルセルクの狂熱がこみ上げてきたのを感じ、なんとか矛先を[FromFrom.GetFirstName]から卓に転じたのだ。それだけでは飽き足らず、あなたは斧で卓を完膚なきまでに叩き壊した。その残骸を見下ろしながら荒く息をする君を見て、さしもの[FromFrom.GetFirstName]もついに押し黙った。さて、満足したかね、[Root.GetTitle]？;;;;;;;;;;;;x
 varangian;ヴァラング;;;;;;;;;;;;x
-varangian_desc;このキャラクターはヴァラング親衛隊の古参兵です。;;;;;;;;;;;;x
+varangian_desc;この人物はヴァラング親衛隊の古参兵です。;;;;;;;;;;;;x
 EVTOPTA_TOG_3008;うむ……頭の中を整理するから待っておれ。;;;;;;;;;;;;x
 organize_varangian_guard;ヴァラング親衛隊を編成する;;;;;;;;;;;;x
 organize_varangian_guard_desc;北欧出身のヴァラング族の戦士たちを雇い、[Root.GetTitle]に近衛として仕える精鋭部隊を組織します。;;;;;;;;;;;;x

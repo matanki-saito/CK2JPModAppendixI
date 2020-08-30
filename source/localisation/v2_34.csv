@@ -1,7 +1,7 @@
 ﻿### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WOL_431;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。私たちは笑って、少なくとも1時間は内緒話を共有しました。 これは真実の瞬間... [FromFrom.GetSubjectPronoun]は別の[FromFrom.GetManWoman]に落ちる準備ができていますか？ 私は[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
-EVTDESC_WOL_431_CR;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。 私たちは笑って、少なくとも1時間は内緒話を共有しました。 心地よい沈黙が流れ、私は一番の秘密 ―― [FromFrom.GetObjectPronoun]への本当の気持ちをすべて明らかにすることにしました。 私は[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
+EVTDESC_WOL_431;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。私たちはとても愉快な気分で、少なくとも1時間は語り合い秘密を共有した。 ここが正念場だ…[FromFrom.GetSubjectPronoun]は他の[FromFrom.GetManWoman]と恋に落ちる可能性があるだろうか？私は寄りかかり[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
+EVTDESC_WOL_431_CR;腕を組み合い、[FromFrom.GetFirstName]と私は道をそれて小川のほとりに来た。 私たちはとても愉快な気分で、何時間も語り合い、秘密を共有した。 心地よい沈黙が流れ、私は一番の秘密 ―― [FromFrom.GetObjectPronoun]への本当の気持ちをすべて明らかにすることにしたのだ。 私は寄りかかり[FromFrom.GetPossPronoun]の耳にささやく...;;;;;;;;;;;;x
 EVTDESC_WOL_1003_SPY_RESULT;[target_spy_on.GetFirstName]を尾行させていた召使いの少年のひとりは、青ざめた顔で、言葉を詰まらせながら私の[GetFromFromRelation]が[From.GetTitledName]とゲストルームでなにをやっていたのかを報告しました！ 少年はことが行われている間、ずっとタペストリーの後ろに隠れていたのだ...;;;;;;;;;;;;x
 student_of_strategy;戦略学学生;;;;;;;;;;;;x
 student_of_strategy_desc;この人物は歴史上の偉大な指揮官の軍事的知見の研究に専念しています。;;;;;;;;;;;;x

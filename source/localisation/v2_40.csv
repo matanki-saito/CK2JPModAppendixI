@@ -530,7 +530,7 @@ EVTDESC_HL_5011OTHER;貴方は外から叫び声を聞き、急いで外に出�
 EVTOPTA_WOL_5011;それがこいつの生き方だ。;;;;;;;;;;;;x
 EVTOPTB_WOL_5011;被害が広がる前にこの獣を殺してしまえ！;;;;;;;;;;;;x
 EVTDESC_HL_5011SELF;貴方は外で吠える犬の鳴き声を聞き、急いで外に出て行った結果、[From.GetFirstName]の卑劣なヘビが私の愛犬を丸呑みにしていた。;;;;;;;;;;;;x
-EVTOPTC_WOL_5011_FAITHFUL;Poor Faithful!;;;;;;;;;;;;x
+EVTOPTC_WOL_5011_FAITHFUL;かわいそうなフェイスフル!;;;;;;;;;;;;x
 EVTOPTC_WOL_5011_HUNTER;Poor Hunter!;;;;;;;;;;;;x
 EVTOPTC_WOL_5011_TRICKY;Poor Tricky!;;;;;;;;;;;;x
 EVTOPTC_WOL_5011_LUCIFER;Poor Lucifer!;;;;;;;;;;;;x

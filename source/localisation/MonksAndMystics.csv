@@ -961,7 +961,7 @@ EVTOPTB_MNM_7114;退却だ！;;;;;;;;;;;;x
 EVTDESC_MNM_7116_POOR;小さな[desecration_holder.GetHouseOfWorship]へ侵入した。私と仲間達が小部屋に入るとそこは神聖な場所のようだ。この部屋にはわずかに装飾された偶像や遺物があるだけで、[desecration_holder.Religion.GetHighGodName]を称えるには粗末なものだった。これは明らかに我々の方が優れているということなのだ！;;;;;;;;;;;;x
 EVTDESC_MNM_7116_RICH;仲間達と一緒に[desecration_holder.GetHouseOfWorship]に侵入すると、その聖室には遺物や偶像があった。精神的な、あるいは物質的な宝物が並べられている。このような豊かで聖なる場所であれば、闇の行動を起こすのにぴったりだ。;;;;;;;;;;;;x
 EVTDESC_MNM_7116_RICHER;Having penetrated the defenses of the impressive [desecration_holder.GetHouseOfWorship] I and my companions have entered the inner sanctum and are preparing for the desecration ritual. The walls are covered in rich tapestries and holy relics and idols are strewn across the room. It is undoubtedly a place of both wealth and piety, perfect for our cause!;;;;;;;;;;;;x
-EVTOPT_MNM_7116_STEWARDSHIP;私は自分のために最も高価な遺物を取る！;;;;;;;;;;;;x
+EVTOPT_MNM_7116_STEWARDSHIP;己のために最も高価な遺物を取る！;;;;;;;;;;;;x
 EVTOPT_MNM_7116_LEARNING;私は冒涜の儀式の中で最も聖なるものを使用します！;;;;;;;;;;;;x
 EVTOPTA_MNM_7116;これらの遺物はもっと良いことのために、私のために使うべきだな。;;;;;;;;;;;;x
 EVTOPTB_MNM_7116;[Root.GetDWDevil]の名の下に、全て燃やせ！;;;;;;;;;;;;x
@@ -2174,7 +2174,7 @@ assassins_raise_ships_power_desc;§Y[Root.Society.GetCurrency]§!と引き換え
 assassins_raise_troops_power_desc;§Y[Root.Society.GetCurrency]§!と引き換えに特別な軍隊を動員する決断が可能になります。;;;;;;;;;;;;x
 assassins_scare_ruler_power_desc;他の統治者を§G右クリック§!し、相手を脅迫して借りを負わせます。;;;;;;;;;;;;x
 assassins_mark_for_death_power_desc;成人のポートレートを§G右クリック§!して、§Y[Root.Society.GetCurrency]§!と引き換えに暗殺の印を付けることができます。これにより、§Yアサシン教団§!のメンバーに標的を追跡するよう促します。;;;;;;;;;;;;x
-EVTDESC_3398_BLEND_IN;[Root.GetSRGreeting], [Root.GetSocietyRank] [Root.GetFirstName]\n\nAs secret practitioners of our religion we are under constant scrutiny. We ask that you spend some time trying to blend into the religious community of your realm, in order to distract any harmful forces discovering our true beliefs.\n\n[Root.GetSRFarewell],\nSigned, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_3398_BLEND_IN;[Root.GetSRGreeting],[Root.GetSocietyRank][Root.GetFirstName]\n\n我々は秘匿信仰者として絶えず監視されています。真の信仰に害をもたらす邪魔な力をそらすべく、あなたは領国の宗教的コミュニティに溶け込むことに時間を割いてください。\n\n[Root.GetSRFarewell],\n（署名）,[From.GetSocietyRank][From.GetFirstName];;;;;;;;;;;;x
 quest_secret_religions_societies_blend_in;Blend In;;;;;;;;;;;;x
 quest_secret_religions_conduct_secret_ceremony;秘密の儀式を実施;;;;;;;;;;;;x
 quest_secret_religions_conduct_secret_ceremony_desc;To complete this mission you need to §Gright-click§! your own portrait and choose §YPrepare Secret Ceremony§!.;;;;;;;;;;;;x
@@ -2183,8 +2183,8 @@ secret_religions_conduct_secret_ceremony_desc;As a secret worshiper of [Root.Tru
 secret_religions_blend_in;Blend In;;;;;;;;;;;;x
 secret_religions_blend_in_desc;§Y[Root.GetTitledFirstName]§! can make an effort to blend into the religious society of the realm in order to keep [Root.GetHerHis] society safely hidden.;;;;;;;;;;;;x
 quest_secret_religions_societies_blend_in_allow_tt;Has not recently attempted this mission;;;;;;;;;;;;x
-attempting_to_blend_in;Eager Believer;;;;;;;;;;;;x
-attempting_to_blend_in_desc;This character is currently making an effort to fit into the religious community at court.;;;;;;;;;;;;x
+attempting_to_blend_in;熱心な信者;;;;;;;;;;;;x
+attempting_to_blend_in_desc;現在この人物は宮廷の宗教的コミュニティに適合しようと努力しています;;;;;;;;;;;;x
 blend_in_modifier_tooltip;Character is in the same society as you are.;;;;;;;;;;;;x
 EVTDESC_3399;Starting today, I shall dedicate myself to convincing the court of my deep devoutness, in the name of the [Root.Religion.GetGroupName] faith and [Root.Religion.GetHighGodName]. My allies in [This.Society.GetName] will understand. This is a necessary step if I am to ever convince my people to see the path I, nay, [Root.TrueReligion.GetHighGodName] has actually laid out before them. They will thank me later.;;;;;;;;;;;;x
 EVTOPTA_MNM_3399;I'll make them see.;;;;;;;;;;;;x
@@ -2291,8 +2291,8 @@ EVTDESC_MNM_3229_C;I step up to the altar and make a bold decision – as I reac
 EVTDESC_MNM_3229_D;I step forwards and make a bold decision – as I reach the center of the crowd I collapse to the floor. The worshipers gasp as I, their [Root.GetTitle], begin quoting fragments of [Root.Religion.GetScriptureName]. I roll my eyes back as I speak, as if confronting the skies themselves. When my last words ring out, people start to whisper. For a moment I am convinced that my stunt has succeeded. Then the [Root.Religion.GetPriestTitle] prods at me. "Uhm, my [Root.GetLordLady]? Let's get you back onto your feet.";;;;;;;;;;;;x
 EVTDESC_MNM_3229_G;I step forwards and make a bold decision – as I reach a group of people I collapse to the floor. The worshipers gasp as I, their [Root.GetTitle], begin quoting fragments of [Root.Religion.GetScriptureName]. I roll my eyes back as I speak, as if confronting the skies themselves. When my last words ring out, they start to whisper. For a moment I am convinced that my stunt has succeeded. Then the [Root.Religion.GetPriestTitle] prods at me. "Uhm, my [Root.GetLordLady]? Let's get you back onto your feet.";;;;;;;;;;;;x
 EVTOPTA_MNM_3229;B-but... Don't you think I had a holy vision?;;;;;;;;;;;;x
-awkward_believer;Hesitant Believer;;;;;;;;;;;;x
-awkward_believer_desc;This character is not comfortable discussing their faith.;;;;;;;;;;;;x
+awkward_believer;優柔不断の信者;;;;;;;;;;;;x
+awkward_believer_desc;この人物は落ち着いて自身の信仰について議論することが出来ていません。;;;;;;;;;;;;x
 great_believer;敬虔な信者;;;;;;;;;;;;x
 great_believer_desc;This character gives the impression of being very devout.;;;;;;;;;;;;x
 EVTDESC_MNM_3230_A;I make sure that I am regularly seen studying [Root.Religion.GetScriptureName].\nToday my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetTitledName] came to me to compliment my efforts!;;;;;;;;;;;;x
@@ -2415,7 +2415,7 @@ EVTDESC_MNM_4202;[From.GetSocietyRank][From.GetFirstName]から連絡があり�
 EVTOPTA_MNM_4202_CHRISTIAN;快挙だ! この偉業が成し遂げられた修道院を訪問しよう。;;;;;;;;;;;;x
 EVTOPTA_MNM_4202_DHARMIC;快挙だ! この偉業が成し遂げられたマタを訪問しよう。;;;;;;;;;;;;x
 EVTOPTA_MNM_4202_TT;あなたは§Y[From.GetTitledName]§!が植物学を実践する庭園を訪れます。\n;;;;;;;;;;;;x
-EVTOPTB_MNM_4202;ほー、何本かちょうだい!;;;;;;;;;;;;x
+EVTOPTB_MNM_4202;あぁ、どうしても欲しいな！;;;;;;;;;;;;x
 EVTOPTB_MNM_4202_TT;あなたは話題のバラを数本採集するために人を派遣します。\n;;;;;;;;;;;;x
 EVTOPTC_MNM_4202;実のところ、似たようなことを研究しているのだよ！;;;;;;;;;;;;x
 EVTOPTC_MNM_4202_TT;あなたは研究中の標本をいくつか§Y[From.GetTitledName]§!へ送ります。\n;;;;;;;;;;;;x
@@ -2450,7 +2450,7 @@ monastic_orders_invite_ascetic_tt;まもなく、苦行者が§Y[Root.GetTitledF
 EVTDESC_MNM_4434;The [From.GetAscetic] [From.GetBestName] has finally arrived at my court. [From.GetFirstName] is a most noble and wise [From.GetManWoman] and I will happily receive [From.GetHerHis] council in matters of religion and scholarly pursuits.;;;;;;;;;;;;x
 EVTOPTA_MNM_4434;[Root.GetMOGreeting], [From.GetBestName]!;;;;;;;;;;;;x
 secret_religions_evoke_sympathy;Evoke Sympathy for [From.GetTrueReligionGroupPersons];;;;;;;;;;;;x
-secret_religions_evoke_sympathy_desc;Approach §Y[Root.GetTitledFirstName]§! and attempt to make [Root.GetHerHim] sympathize with [From.GetTrueReligionGroupPersons].;;;;;;;;;;;;x
+secret_religions_evoke_sympathy_desc;§Y[Root.GetTitledFirstName]§!に近づき、[From.GetTrueReligionGroupPersons]への共感を呼び起こそうとします。;;;;;;;;;;;;x
 EVTDESC_MNM_3404;After some careful planning, I am seated next to [From.GetTitledFirstName] at a formal dinner. I have planned to tell [From.GetHerHim] about a family of [Root.GetTrueReligionGroupPersons] that was attacked and driven from their home in [Root.Capital.GetName] in an attempt to rouse [From.GetHerHis] sympathies, but what angle should I employ?;;;;;;;;;;;;x
 EVTOPTA_MNM_3404;They were forced to leave many loved ones behind.;;;;;;;;;;;;x
 EVTOPTA_MNM_3404_TT;Talk about the relatives and friends of the attacked family and how they will never see each other again, hoping this will tug on the heartstrings of §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;;x
@@ -2481,7 +2481,7 @@ quest_secret_religious_societies_sympathy_ruler_tooltip;To complete this mission
 secret_religions_induct_character;[From.TrueReligion.GetName]信仰に勧誘;;;;;;;;;;;;x
 secret_religions_induct_character_desc;[Root.GetTitledFirstName]を[From.TrueReligion.GetName]信仰の秘匿信者にしようと試みます。;;;;;;;;;;;;x
 secret_religions_induct_character_cd_tt;最近、他の教団から入信するよう勧誘を受けていない\n;;;;;;;;;;;;x
-secret_religions_induct_character_effect_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to make §Y[Root.GetTitledFirstName]§! contemplate the [From.TrueReligion.GetName] Faith.\n;;;;;;;;;;;;x
+secret_religions_induct_character_effect_tt;§Y[From.GetTitledFirstName]§!は§Y[Root.GetTitledFirstName]§!を[From.TrueReligion.GetName]の信仰について熟慮させる方法を模索します。\n;;;;;;;;;;;;x
 EVTDESC_MNM_3408;私はスパイに対して、一冊の[Root.SecretReligion.GetScriptureName]を、匿名のメモとともに、[secret_religion_inductee.GetTitledFirstName]の[secret_religion_inductee.GetChamber]に置いてくるよう指示した。もし、書物が[secret_religion_inductee.GetFirstName]に関連する一節を開いた状態で置かれていれば、[secret_religion_inductee.GetSheHe]はその聖なる言葉から真実を見いだしてくれると期待している。しかし、どのような言葉なら[secret_religion_inductee.GetHerHis]の目を引くことができるのだろうか...？;;;;;;;;;;;;x
 EVTOPTA_MNM_3408;伝説の戦士の物語;;;;;;;;;;;;x
 EVTOPTA_MNM_3408_TT;[Root.SecretReligion.GetScriptureName]の、戦争と兵士達の一節を開いて置いておく。 §Y[secret_religion_inductee.GetTitledFirstName]§!の興味を引くことを期待しよう。\n;;;;;;;;;;;;x
@@ -2557,11 +2557,11 @@ EVTDESC_MNM_3437;This time around, instead of lecturing, I tried to have a conve
 secret_religions_induct_child_desc;As someone who has influence over the upbringing of §Y[Root.GetTitledFirstName]§!, §Y[From.GetTitledFirstName]§! can make an attempt to secretly induct [Root.GetHerHim] into the [From.TrueReligion.GetName] Faith.;;;;;;;;;;;;x
 secret_religions_induct_child_allow_tt;Is not a secret believer in the [From.TrueReligion.GetName] faith\n;;;;;;;;;;;;x
 secret_religions_induct_child_effect;§Y[From.GetTitledFirstName]§! will approach §Y[Root.GetTitledFirstName]§! and attempt to teach [Root.GetHerHim] about the [From.TrueReligion.GetName] faith.;;;;;;;;;;;;x
-secret_religions_induct_child_power_desc;Enables you to induct children in your court to your true religion by right-clicking their portraits.;;;;;;;;;;;;x
-secret_religions_evoke_sympathy_power_desc;Enables you to evoke the sympathy of characters in other religion groups than your true religion by right-clicking their portraits.;;;;;;;;;;;;x
-secret_religions_induct_character_power_desc;Enables you to secretly induct characters into your true religion by right-clicking their portraits.;;;;;;;;;;;;x
-secret_religions_prepare_grounds_power_desc;Enables you to spread your true religion secretly among the inhabitants of a county in your realm by right-clicking its county shield in the county view. If you openly adopt your true faith, these counties will convert as well. This power is available in the Intrigue Screen.;;;;;;;;;;;;x
-secret_religions_openly_adopt_faith_power_desc;Enables you to openly adopt your true faith. The other secretly religious characters and counties of your true faith in the realm will convert with you. This power is available in the Intrigue Screen.;;;;;;;;;;;;x
+secret_religions_induct_child_power_desc;宮廷にいるあなたの子供の肖像を右クリックすることで、真の信仰に引き込むことができます。;;;;;;;;;;;;x
+secret_religions_evoke_sympathy_power_desc;あなたの真の信仰とちがう宗教グループの人物の肖像を右クリックすると、その人物へ共感を呼び起こすことができます。;;;;;;;;;;;;x
+secret_religions_induct_character_power_desc;人物の肖像を右クリックすることで、密かにあなたの真の信仰に引き込むことができます。;;;;;;;;;;;;x
+secret_religions_prepare_grounds_power_desc;領国内の州画面で伯章を右クリックすることで、住人の間にあなたの本当の宗教を密かに広めることができます。あなたが自分の本当の信仰を素直に受け入れた時、これらの州も改宗するでしょう。この力は策略画面で利用できます。;;;;;;;;;;;;x
+secret_religions_openly_adopt_faith_power_desc;真の信仰を公に受け入れることができます。あなたの領国内で秘密裏に信仰している人物や州は、あなたに従って改宗してくれるでしょう。この力は、 策略画面で利用できます。;;;;;;;;;;;;x
 benedictine_power_diligent_tt;Power: §YBenedictine Diligence§!\nUpon reaching rank 4, you will be approached by a fellow member of the Benedictine Order who will help you to become more diligent.;;;;;;;;;;;;x
 monastic_orders_go_celibate_power_desc;策略画面で、禁欲主義になる決断が可能になります。;;;;;;;;;;;;x
 monastic_orders_stop_celibate_power_desc;策略画面で、禁欲主義をやめる決断が可能になります。;;;;;;;;;;;;x
@@ -2696,7 +2696,7 @@ EVTOPTC_MNM_9122_BOW;She looks like an Eagle, doesn't she?;;;;;;;;;;;;x
 EVTOPTA_MNM_9123;素晴らしい出来栄えだ、[From.GetMasterMistressCap][From.GetFirstName]！;;;;;;;;;;;;x
 EVTDESC_MNM_9124;[From.GetMasterMistressCap] [From.GetFirstName]'s main assistant has brought me the finished [From.GetWeaponsmithWeapon]. There are no engravings or precious materials to enhance it, but the design has some elegance of its own. Looking pretty is not her main purpose, anyway.;;;;;;;;;;;;x
 EVTOPTA_MNM_9124;きっと私の役に立ってくれるでしょう。;;;;;;;;;;;;x
-EVTDESC_MNM_4452;[From.GetMOGreeting], [Root.GetTitledFirstName]\n\n[Root.GetTitle]よ、我々の結社に一士卒として加わろうというあなたの決断を嬉しく思う。一緒に[From.GetMOCode]に従うことによって自分自身と我々の同士である[Root.GetReligiousPerson]徒の向上に努めよう。\n\n[From.GetMOFarewell]\n[From.GetSocietyRank][From.GetFirstName]（署名）;;;;;;;;;;;;x
+EVTDESC_MNM_4452;[From.GetMOGreeting], [Root.GetTitledFirstName]\n\n[Root.GetTitle]よ、我々の結社に一士卒として加わろうという貴方の決断を嬉しく思う。共に[From.GetMOCode]に従うことによって自身と我々の同志である[Root.GetReligiousPerson]信徒の向上に努めよう。\n\n[From.GetMOFarewell]\n[From.GetSocietyRank][From.GetFirstName]（署名）;;;;;;;;;;;;x
 EVTOPTA_MNM_44511;光栄に存じます、[From.GetSocietyRank]。;;;;;;;;;;;;x
 EVTDESC_MNM_6901;私が訓練に集中しようといていると、[From.GetSheHe]はいつもそこにいる！たとえば教団の大図書館で勉強している時も本の山に隠れているし、アサシン教団の同士と歩いている時も[From.GetTitledFirstName]は同じように隠れていることは明らかだ。[From.GetHerHis]の嘲りと嫌味な言葉が聞こえてくる！奴らは私を怒らせた！;;;;;;;;;;;;x
 EVTOPTA_MNM_6901;本当に優秀な暗殺者が誰か知らしめてやる。;;;;;;;;;;;;x
@@ -2897,7 +2897,7 @@ quest_secret_religions_societies_prepare_grounds;[FromFrom.GetName]の基盤を�
 secret_religions_prepare_grounds;基盤を整える;;;;;;;;;;;;x
 secret_religions_prepare_grounds_desc;目標のプロヴィンスで我々の教えを密かに広めるために忠実な工作員を派遣します。;;;;;;;;;;;;x
 secret_religions_personally_adopt_secret_religion;個人的に信仰を採用;;;;;;;;;;;;x
-secret_religions_personally_adopt_secret_religion_desc;Give up the charade of your the false religion you've acted upon and openly declare your true faith.;;;;;;;;;;;;x
+secret_religions_personally_adopt_secret_religion_desc;偽りの宗教の呪文を捨て、あなたは真の信仰を公然と宣言する。;;;;;;;;;;;;x
 secret_religions_renounce_secret_religion;秘密の信仰を放棄;;;;;;;;;;;;x
 secret_religions_renounce_secret_religion_desc;秘密の信仰への傾倒を取りやめます。自分の、国教への厚い情熱をやっと認めます。;;;;;;;;;;;;x
 secret_religions_prepare_grounds_effect_tooltip;A loyal servant is sent to found a community of the true faith in [Root.GetName];;;;;;;;;;;;x
@@ -2912,11 +2912,11 @@ hermetics_rank_1_male;初学者;;;;;;;;;;;;x
 hermetics_rank_2_male;入会者;;;;;;;;;;;;x
 hermetics_rank_3_male;熟達者;;;;;;;;;;;;x
 hermetics_rank_4_male;賢者;;;;;;;;;;;;x
-EVTDESC_MNM_3920;I was in the middle of a conversation with the chef when [worried_secret_member.GetFirstName] appears from nowhere, grabs me by the arm and pulls me to a nearby room. With a wrinkled forehead and sweaty palms [worried_secret_member.GetSheHe] told me that [worried_secret_member.GetSheHe] intend to leave our society after being haunted too many times by shadows in the darkness.;;;;;;;;;;;;x
-EVTOPTA_MNM_3920;Persuade by talking about solidarity.;;;;;;;;;;;;x
-EVTOPTB_MNM_3920;Explain the importance of devotion.;;;;;;;;;;;;x
+EVTDESC_MNM_3920;料理人と話をしている途中、どこからともなく[worried_secret_member.GetFirstName]が現れ、私の腕をつかんで隣の部屋に引きずり込んだ。[worried_secret_member.GetSheHe]は暗闇の中で何度も影に取り付かれたので、結社から抜けようとしている、と額にしわを寄せ、手のひらに汗をかきながら私に告げた。;;;;;;;;;;;;x
+EVTOPTA_MNM_3920;結束について話すことで説得する。;;;;;;;;;;;;x
+EVTOPTB_MNM_3920;献身の重要性を説明する。;;;;;;;;;;;;x
 EVTOPTC_MNM_3920;Use your soothing voice to calm [worried_secret_member.GetHerHim] down.;;;;;;;;;;;;x
-EVTOPTD_MNM_3920;If that's the way [worried_secret_member.GetSheHe] feels about it.;;;;;;;;;;;;x
+EVTOPTD_MNM_3920;[worried_secret_member.GetSheHe]の思うままに。;;;;;;;;;;;;x
 EVTDESC_MNM_3921_A;I gave a speech to [worried_secret_member.GetFirstName] about the importance of solidarity for our movement. I emphasized how important every member of our society is so that we can be strong together. [worried_secret_member.GetFirstName] seemed to sympathize with my speech and told me that [worried_secret_member.GetSheHe] will continue to back our cause.;;;;;;;;;;;;x
 EVTDESC_MNM_3921_B;I gave a speech to [worried_secret_member.GetFirstName] about the importance of solidarity for our movement. I emphasized how important every member of our society is so that we can be strong together. [worried_secret_member.GetFirstName] stood there unmoved by my soft words, still determined to abandon our cause.;;;;;;;;;;;;x
 EVTDESC_MNM_3921_C;I told [worried_secret_member.GetFirstName] that this is a time of trials but that we have to endure. [Root.TrueReligion.GetHighGodName] observes us and will reward us in due time. Feeling the pressure of divine intervention [worried_secret_member.GetFirstName] promised to keep our true faith for the time being.;;;;;;;;;;;;x
@@ -3575,7 +3575,7 @@ EVTOPTA_MNM.4621;I'm not sure this was a good trade...;;;;;;;;;;;;x
 EVTDESC_MNM.4622;[monastic_artifact_witness.GetSocietyRank][monastic_artifact_witness.GetFirstName]に向かって突き進むと、[monastic_artifact_witness.GetHerHim]は思ったほど驚いていなかった。[monastic_artifact_witness.GetSheHe]はすみやかに剣を抜き、私と地面を転がりまわる。そして、私は胸に冷たい金属が沈んでいくのを感じる…;;;;;;;;;;;;x
 EVTOPTA_MNM.4622;やめろーーーーーーー！;;;;;;;;;;;;x
 EVTDESC_MNM_4615;やったぞ！遺物を手に入れ、追っ手は振り払った。だが[monastic_artifact_witness.GetSocietyRank][monastic_artifact_witness.GetFirstName]は間違いなく私が遺物を盗んだところを見ている。修道会員としての地位を失ったのは間違いない……;;;;;;;;;;;;x
-EVTOPTA_MNM_4615;Details, details!;;;;;;;;;;;;x
+EVTOPTA_MNM_4615;些事だよ、些事！;;;;;;;;;;;;x
 EVTDESC_MNM_4616;Deep in the night I have snuck down to the relic's chamber. Adrenaline pumps through my veins as I take hold of the priceless artifact... But suddenly I hear the sound of footsteps and turn around to find my lover [monastic_artifact_lover.GetTitledFirstName] keep [monastic_artifact_witness.GetSocietyRank] [monastic_artifact_witness.GetFirstName] distracted, allowing me to make my escape unnoticed!;;;;;;;;;;;;x
 EVTOPTA_MNM_4616;愛は常に勝つ！;;;;;;;;;;;;x
 EVTDESC_MNM_4617;計画は完璧にうまくいった！夜に私の姿を見たり聞いたりしたものは一人もおらず、盗難が発覚したのも夜が明けてからだった。誰も私の仕業だとはわかるまい！;;;;;;;;;;;;x
@@ -3623,7 +3623,7 @@ SOCIETY_PLAYER_PORTRAIT_EMPTY;あなたはこの結社の一員ではありま�
 SOCIETY_PLAYER_TITLE_EMPTY;あなたはこの結社内で階位を持っていません。;;;;;;;;;;;;x
 SHOW_INTEREST_DESC;慎重に結社への参加に興味を示すことで、上手くいけば$SOCIETY|Y$の会員によって連絡されるでしょう。;;;;;;;;;;;;x
 STOP_SHOWING_INTEREST;$SOCIETY|Y$に興味を示すのを止めます。;;;;;;;;;;;;x
-STOP_SHOWING_INTEREST_DESC;By refusing to respond to the secret signs flashed at you by shadowy strangers you can make it clear you no longer have any interest in joining $SOCIETY|Y$.;;;;;;;;;;;;x
+STOP_SHOWING_INTEREST_DESC;暗がりのよそ者から示された秘密の信号への応答を拒絶することで、もはや$SOCIETY|Y$への加入意思は微塵も無いと、明示します。;;;;;;;;;;;;x
 the_assassins_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 the_satanists_leader_desc;[GetSocietyLeaderDesc];;;;;;;;;;;;x
 String_monk;僧侶;;;;;;;;;;;;x
@@ -3727,7 +3727,7 @@ declined_mission_stacked;任務を辞退;;;;;;;;;;;;x
 78001.d2;My liege, you sent me out to spread word of your good nature and wise rule, yet I can find no ruler who does not already hold you in the highest regard. I beg you for a new assignment.\n\nYour humble [Root.GetChancellorName],\n[Root.job_chancellor.GetTitledFirstName];;;;;;;;;;;;x
 opinion_outlawed_society;非合法結社の一員;;;;;;;;;;;;x
 secret_religions_falsely_confess_faith_desc;主君の信仰を政治的理由で宣言しながら、秘密裏に真の信仰に遵います。これにより秘匿信仰の結社に参加することができます。;;;;;;;;;;;;x
-secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to approach §Y[Root.GetTitledFirstName]§! and talk about [From.GetTrueReligionGroupPersons]. If successful, [Root.GetSheHe] may help to convert the realm.\n;;;;;;;;;;;;x
+secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§!は§Y[Root.GetTitledFirstName]§!に近づく方法を模索し、[From.GetTrueReligionGroupPersons]について話します。もし成功すれば、[Root.GetSheHe]は領国の改宗を手助けしてくれるでしょう。\n;;;;;;;;;;;;x
 secret_religions_evoke_sympathy_cd_tt;Has not been approached to be made sympathetic to people of other religions recently, or is the target of §Y[From.GetTitledFirstName]§!'s mission\n;;;;;;;;;;;;x
 well_fed;栄養十分;;;;;;;;;;;;x
 well_fed_desc;この人物はよく食べる習慣があり、それに伴う健康への利点を受けています。;;;;;;;;;;;;x
@@ -4679,8 +4679,8 @@ EVTDESC_MNM_4399;I have abandoned my attempt to better myself in seclusion, and 
 EVTOPTA_MNM_4399;I am good enough as it is.;;;;;;;;;;;;x
 quest_secret_religions_societies_prepare_grounds_desc;To build the strength of our faith, you must spread the word of [Root.SecretReligion.GetScriptureName] as far as it can reach. There is fertile ground within the realm where people seem open to new ideas. Found a community there, and see it blossom.;;;;;;;;;;;;x
 quest_secret_religions_societies_prepare_grounds_tooltip;Use the Prepare Ground power in the province by right-clicking the county shield. This will start your attempt to found a community of believers there. Successfully building a community will complete the mission.;;;;;;;;;;;;x
-quest_secret_religions_societies_blend_in_desc;It is a challenge to maintain a falsely professed faith at the best of time, but those who would not understand you are more suspicious than ever. You must show them beyond any shadow of a doubt that you believe what you have told them.;;;;;;;;;;;;x
-quest_secret_religions_societies_blend_in_tooltip;Take the decision to Blend In to start your attempt. Successfully convincing those around you that you are a believer of their faith will complete the mission.;;;;;;;;;;;;x
+quest_secret_religions_societies_blend_in_desc;偽りの信仰を続けることは最も順調な時でさえ難関ですが、あなたを理解しない者は、これまで以上に疑い深くなります。あなたは、自分の言ったことを信じていることを、疑いの余地なくかれらに示さなければならなりません。;;;;;;;;;;;;x
+quest_secret_religions_societies_blend_in_tooltip;「潜入」を開始します。周囲の人々に、あなたが彼らの信仰の信者であることを首尾よく納得させることで、その使命は完了するでしょう。;;;;;;;;;;;;x
 EVTDESC_MNM_5201;During a late conversation with a fellow member of [This.Society.GetName], I find myself discussing the power of one's phrasing. When I jokingly suggest that I should attempt to deliver my arguments in verse, [fellow_debater_target.GetTitledFirstName], to my surprise, nods appreciatively. "Do not underestimate the power of a good rhyme", [fellow_debater_target.GetSheHe] says.;;;;;;;;;;;;x
 EVTOPTA_MNM_5201;Perhaps it is exactly what my theme needs!;;;;;;;;;;;;x
 EVTOPTA_MNM_5201_TT;The rest of your evening is spent discussing the finer points of poetry.\n;;;;;;;;;;;;x

@@ -1,8 +1,8 @@
 ﻿### ParaTranz ###
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-EVTDESC_WOL_115;私は[target_seduced.GetTitledFirstNameNoRegnal]への好色な興味を追及するのに極端に苦労している。どこか遠くに旅行にでも行ったらいいだろうか？;;;;;;;;;;;;x
+EVTDESC_WOL_115;私は[target_seduced.GetTitledFirstNameNoRegnal]に性的な興味をむけることに信じられないほど苦労している。いつになったら進展の機会を得られるんだ？;;;;;;;;;;;;x
 EVTDESC_WOL_115_BUSY;現在の業務は私に[target_seduced.GetTitledFirstNameNoRegnal]を追いかける時間を残してくれはしない…誰か代わってくれないものか。;;;;;;;;;;;;x
-EVTDESC_WOL_115_UNAVAILABLE;私の好色の標的、[target_seduced.GetTitledFirstNameNoRegnal]はまったく私のそばに姿を現さない！;;;;;;;;;;;;x
+EVTDESC_WOL_115_UNAVAILABLE;誘惑の標的、[target_seduced.GetTitledFirstNameNoRegnal]はまったく私のそばに姿を現さない！;;;;;;;;;;;;x
 EVTOPTA_WOL_115;諦めるべきか…今のところは。;;;;;;;;;;;;x
 EVTOPTB_WOL_115;急ぐことはない！;;;;;;;;;;;;x
 stop_seduce_decision;誘惑を止める;;;;;;;;;;;;x
