@@ -1030,8 +1030,8 @@ EVTDESCHFH20366;I kneel before [coronation_priest.GetTitledFirstName] in the emp
 EVTDESCHFI20366;I kneel before [coronation_priest.GetTitledFirstName] in the empty hall of my palace. Despite the humble locale and the small crowd, the very presence of the Vicar of Christ [coronation_priest.GetHerHim]self is enough to give the ceremony meaning and importance beyond measure. The Pope smiles as he blesses me and places the crown upon my head, proclaiming me [coronation_ruler.GetTitle].;;;;;;;;;;;;x
 EVTOPTZHF20366;いいや、私は自分で戴冠する！;;;;;;;;;;;;x
 EVTOPTAHF20366;ついに真の[Root.GetTitle]となったのだ。;;;;;;;;;;;;x
-EVTDESCHFH20367;[coronation_ruler.GetTitledFirstName]は、宮殿のがらんとした広間で[coronation_priest.GetTitledFirstName]の前にひざまずいている。.謙虚な場所と少数の参加者にもかかわらず、カトリック教会の最高指導者の存在感は儀式に計り知れない意味と重要性を充分に与えている。教皇は[coronation_ruler.GetFirstName]を祝福して頭上に王冠を置き、 [coronation_ruler.GetTitle]の戴冠を宣言する。;;;;;;;;;;;;x
-EVTDESCHFI20367;[coronation_ruler.GetTitledFirstName]は、宮殿のがらんとした広間で[coronation_priest.GetTitledFirstName]の前にひざまずいている。.謙虚な場所と少数の参加者にもかかわらず、地上におけるキリストの代理者の存在感は儀式に計り知れない意味と重要性を充分に与えている。教皇はその子供を励ますように微笑みながら[coronation_ruler.GetFirstName]を祝福し冠を頭上に置き、[coronation_ruler.GetTitle]の戴冠を宣言する。;;;;;;;;;;;;x
+EVTDESCHFH20367;[coronation_ruler.GetTitledFirstName]は、宮殿のがらんとした広間で[coronation_priest.GetTitledFirstName]の前にひざまずいている。謙虚な場所と少数の参加者にもかかわらず、カトリック教会の最高指導者の存在感は儀式に計り知れない意味と重要性を充分に与えている。教皇は[coronation_ruler.GetFirstName]を祝福して頭上に王冠を置き、 [coronation_ruler.GetTitle]の戴冠を宣言する。;;;;;;;;;;;;x
+EVTDESCHFI20367;[coronation_ruler.GetTitledFirstName]は、宮殿のがらんとした広間で[coronation_priest.GetTitledFirstName]の前にひざまずいている。謙虚な場所と少数の参加者にもかかわらず、地上におけるキリストの代理者の存在感は儀式に計り知れない意味と重要性を充分に与えている。教皇はその子供を励ますように微笑みながら[coronation_ruler.GetFirstName]を祝福し冠を頭上に置き、[coronation_ruler.GetTitle]の戴冠を宣言する。;;;;;;;;;;;;x
 EVTDESCHFL20367;[coronation_ruler.GetTitledFirstName]は宮殿のがらんとした広間で[coronation_priest.GetTitledFirstName]の前にひざまずいている。[coronation_priest.GetTitle]はすぐに[coronation_ruler.GetHerHim]を祝福し、冠を頭上に置き[coronation_ruler.GetTitle]の戴冠を宣言する。;;;;;;;;;;;;x
 EVTOPTAHF20367;[coronation_ruler.GetTitle]よ永遠なれ！;;;;;;;;;;;;x
 EVTDESCHFA20368;[coronation_ruler.GetFullName]は[coronation_priest.GetTitledFirstName]によって[coronation_ruler.GetTitle]として戴冠されたので、[coronation_ruler.GetHerHis]の神より授かった支配権は正統なものとなった。;;;;;;;;;;;;x
@@ -10475,25 +10475,25 @@ EVTOPTC_HFP_11040_1;What a waste!;;;;;;;;;;;;x
 EVTOPTC_HFP_11040_2;Why do such a foolish thing, [commander_to_the_rescue.GetBrotherSister]...?!;;;;;;;;;;;;x
 EVTOPTC_HFP_11040_3;Oh no! My dear [commander_to_the_rescue.GetRootRelation]!;;;;;;;;;;;;x
 EVTOPTC_HFP_11040_TT;§Y[commander_to_the_rescue.GetTitledFirstName]§! died defending you...!\n;;;;;;;;;;;;x
-EVTDESC_HFP_11041;[home_commander.GetTitledFirstName]が[battlefield_location.GetTerrain]で[enemy_commander.GetTitledFirstName]を追っているという報せがあった。わが指揮官[commander_to_the_rescue.GetTitledFirstName]はそこに割って入ろうしている。[commander_to_the_rescue.GetBattleRescueDesc];;;;;;;;;;;;x
-string_good_rescue;taking complete control of the situation!;;;;;;;;;;;;x
-string_cool_rescue;expertly outmaneuvering the enemy commander and painting the battlefield with [enemy_commander.GetHerHis] blood!;;;;;;;;;;;;x
-string_lucky_rescue;probably saving the life of [home_commander.GetTitledFirstName]...!;;;;;;;;;;;;x
-string_bad_rescue;completely disrupting the flow of the battle and getting [This.GetHerselfHimself] injured in the process.;;;;;;;;;;;;x
-string_fatal_rescue;getting [This.GetHerselfHimself] killed in the process.;;;;;;;;;;;;x
+EVTDESC_HFP_11041;[home_commander.GetTitledFirstName]が[battlefield_location.GetTerrain]で[enemy_commander.GetTitledFirstName]を追っているという報せがあった。わが指揮官[commander_to_the_rescue.GetTitledFirstName]はそこに割って入ろうしている！[commander_to_the_rescue.GetBattleRescueDesc];;;;;;;;;;;;x
+string_good_rescue;戦況の主導権を握ろうとしているのだ！;;;;;;;;;;;;x
+string_cool_rescue;上手く敵の指揮官の裏をかいて、戦場を奴の血で染めてやろうとしているのだ！;;;;;;;;;;;;x
+string_lucky_rescue;おそらく[home_commander.GetTitledFirstName]の命を救おうとしているのだ！;;;;;;;;;;;;x
+string_bad_rescue;戦況は一時的に混乱し、[This.GetHerselfHimself]はそのなかで負傷した。;;;;;;;;;;;;x
+string_fatal_rescue;そのなかで[This.GetHerselfHimself]は戦死した。;;;;;;;;;;;;x
 EVTOPTA_HFP_11041;How curious...!;;;;;;;;;;;;x
-EVTOPTB_HFP_11041_1;Fortune does not always favor loyalty.;;;;;;;;;;;;x
-EVTOPTB_HFP_11041_2;Fortune does not always favor the brave.;;;;;;;;;;;;x
-EVTOPTE_HFP_11027;I am your worst nightmare.;;;;;;;;;;;;x
-EVTOPTI_HFP_11027;In this case, I am your executioner.;;;;;;;;;;;;x
-EVTDESC_HFP_11042_A;The enemy commander [other_combatant.GetTitledFirstName] is not playing fair, and has me completely cornered up against a [battlefield_location.GetTreeRockFence]. Behind [other_combatant.GetHerHim], a group of [other_combatant.GetHerHis] soldiers are moving closer. They are laughing, mocking me, thirsting for blood...;;;;;;;;;;;;x
-EVTDESC_HFP_11042_B;敵の指揮官である[other_combatant.GetTitledFirstName]の振り回す[other_combatant.GetDuelWeapon]は徐々にその正確さを増し、[battlefield_location.GetTerrain]において私は死を覚悟し始めていた。;;;;;;;;;;;;x
-EVTDESC_HFP_11042_C;I cannot believe what is happening, but with each swing of [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] [other_combatant.GetTitledFirstName] is getting closer and closer to winning this fight. Jumping back to avoid yet another frighteningly lucky blow, I find myself backed up against a [battlefield_location.GetTreeRockFence].;;;;;;;;;;;;x
+EVTOPTB_HFP_11041_1;運命は常に誠実なる者に報いるわけではないのだ。;;;;;;;;;;;;x
+EVTOPTB_HFP_11041_2;運命は常に勇者に味方するわけではないのだ。;;;;;;;;;;;;x
+EVTOPTE_HFP_11027;私はお前にとって最悪の悪夢というわけだ。;;;;;;;;;;;;x
+EVTOPTI_HFP_11027;つまりは、私がお前の死刑執行人ということだ。;;;;;;;;;;;;x
+EVTDESC_HFP_11042_A;敵の指揮官[other_combatant.GetTitledFirstName]の戦いぶりは卑怯で、私を[battlefield_location.GetTreeRockFence]まで完全に追い詰めていった。奴の背後からは、その手勢が次々にこちらに近づいてくる。奴らは高笑いしながら私をあざけり、血に飢えている様子だ……;;;;;;;;;;;;x
+EVTDESC_HFP_11042_B;敵の指揮官[other_combatant.GetTitledFirstName]の振り回す[other_combatant.GetDuelWeapon]は徐々にその正確さを増し、[battlefield_location.GetTerrain]において私は死を覚悟し始めていた。;;;;;;;;;;;;x
+EVTDESC_HFP_11042_C;目の前で起きていることが信じられないが、[other_combatant.GetTitledFirstName]が[other_combatant.GetDuelWeapon]を振り回すごとに、[other_combatant.GetHerHis]はこの勝負で勝利に近づいている。飛びのいて攻撃を避けても、運を味方にした別の恐ろしい一撃が襲ってくる。私は自分が[battlefield_location.GetTreeRockFence]を背にしていることに気づいた。;;;;;;;;;;;;x
 EVTOPTA_HFP_11042;ま…待て、降伏する！潔く捕虜となろう！;;;;;;;;;;;;x
 EVTOPTB_HFP_11042;[commander_cannon_fodder.GetTitledFirstName]を私の代わりに連れていけ…！必ず迎えに行きます！;;;;;;;;;;;;x
 EVTOPTC_HFP_11042;これで最期か…;;;;;;;;;;;;x
 nick_the_traitor;裏切り者;;;;;;;;;;;;x
-opinion_betrayed_me_in_battle;Betrayed Me In Battle;;;;;;;;;;;;x
+opinion_betrayed_me_in_battle;戦場で私を裏切った;;;;;;;;;;;;x
 battlefield_betrayal;戦場の裏切り;;;;;;;;;;;;x
 battlefield_betrayal_desc;この人物は戦場において味方を売ったと噂されています…！;;;;;;;;;;;;x
 EVTDESC_HFP_11043_A;It seems that the enemy commander [other_combatant.GetTitledFirstName] actually expected me to play fair when [other_combatant.GetSheHe] chased me down on the battlefield. "Just you and me!" the [other_combatant.GetManWoman] demanded, sword held high. My men quickly joined me in taking the fool down.;;;;;;;;;;;;x
@@ -10505,7 +10505,7 @@ deceitful_opinion;嘘つきからの評価;;;;;;;;;;;;x
 EVTDESC_HFP_11046_A;"I yield!" [From.GetTitledFirstName] calls out. Sweat dripping down my forehead, I am holding my [Root.GetDuelWeapon] high, a deadly blow about to come down on my enemy. "You what?!" I demand. The [From.GetManWoman] drops to [From.GetHerHis] knees. "I'll be your prisoner! I'll be of more use to you alive" [From.GetSheHe] cries.;;;;;;;;;;;;x
 EVTDESC_HFP_11046_B;「ま、待て！降参だ！」[From.GetTitledFirstName]が叫ぶ。我が[Root.GetDuelWeapon]は高く、眼前の敵に振り下ろされんと、その致命的一撃が、鈍る。[From.GetManWoman]が、慌てて後ずさる、しかし[From.GetHerselfHimself]につまずいてしまう。「捕虜としてくれ！命ばかりは！」[From.GetSheHe]は涙ながらに懇願する。;;;;;;;;;;;;x
 EVTOPTC_HFP_11046;おまえには死がお似合いだ。;;;;;;;;;;;;x
-EVTDESC_HFP_11048;In the heat of the battle, my commander [From.GetTitledName], has been slain in one-on-one duel, between [From.GetHerHim] and [FromFrom.GetBestName]. It is said the [From.GetTitledFirstName] tried to surrender, but to no avail.;;;;;;;;;;;;x
+EVTDESC_HFP_11048;戦いのさなか、我が軍の指揮官[From.GetTitledName]は、[FromFrom.GetBestName]と一対一で決闘をして死んだ。[From.GetTitledFirstName]は降参しようとしたが無駄だったそうだ。;;;;;;;;;;;;x
 EVTDESC_HFP_11049_A;戦闘の最中に、私と同じ色の服を着た[my_dear.GetBoyGirl]を目にした。[my_dear.GetHerHis]を打ち倒したとき、その荒々しい表情に気付く時間があった。[my_dear.GetSheHe]がどれほど我が[my_dear.GetRootRelation]、[my_dear.GetFirstName]を想起させたかに気付き、私は罪悪感に襲われた。;;;;;;;;;;;;x
 EVTDESC_HFP_11049_B;During the battle I catch sight of a [my_dear.GetFaceDescription] [my_dear.GetManWoman] who looks a lot like my [my_dear.GetRootRelation] [my_dear.GetTitledFirstName]. Then [my_dear.GetSheHe] is struck down. Suddenly, I am pushing soldiers out of the way, hurrying over to where I saw [my_dear.GetHerHim] fall. I know it is not [my_dear.GetFirstName], but I cannot help myself...!;;;;;;;;;;;;x
 EVTOPTA_HFP_11049;我々は負傷者の手当てを忘れてはならない。;;;;;;;;;;;;x
@@ -11912,7 +11912,7 @@ tooltip_feudal_elector_vote_slow_diplomat;[From.GetSheHeCap]は頭が弱い;;;;;
 tooltip_feudal_elector_vote_stutter;[From.GetSheHeCap]は§Y吃音§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_weak;[From.GetSheHeCap]は§Y虚弱§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_weak_warrior;[From.GetSheHeCap]は弱虫だ;;;;;;;;;;;;x
-tooltip_feudal_elector_vote_robust;[From.GetSheHeCap]は§Y筋肉隆々§!だ;;;;;;;;;;;;x
+tooltip_feudal_elector_vote_robust;[From.GetSheHeCap]は§Y筋骨隆々§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_robust_warrior;[From.GetSheHeCap]は健康で丈夫な[From.GetManWoman]だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_dull_diplomat;[From.GetSheHeCap]は§Y鈍感§!だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_dull;[From.GetSheHeCap]は§Y鈍感§!だ;;;;;;;;;;;;x
@@ -14801,7 +14801,7 @@ event_religion_aggressive_bloodline_05;[This.GetTitledFirstName]の血筋;;;;;;;
 event_religion_aggressive_bloodline_05_desc;[This.GetFirstName] has become infamous for [This.GetHerHis] intolerance of heretical thought and [This.GetHerHis] promotion of the most extreme form of [This.Religion.GetName] zealotry.;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_06;[This.GetTitledFirstName]の血筋;;;;;;;;;;;;x
 event_religion_aggressive_bloodline_06_desc;[This.GetFirstName] has become infamous for [This.GetHerHis] intolerance of heretical thought and [This.GetHerHis] promotion of the most extreme form of [This.Religion.GetName] zealotry.;;;;;;;;;;;;x
-EVTTOOLTIPAHF20309;will be informed of my rejection.;;;;;;;;;;;;x
+EVTTOOLTIPAHF20309;拒絶のわけを知らされるだろう。;;;;;;;;;;;;x
 EVTDESCAHF24100;[scoped_guardian.GetFirstName] is such a bore! [scoped_guardian.GetHerHisCap] lessons are tedious and [scoped_guardian.GetSheHe] never lets me play in peace. I think it is time for me to find a better guardian.;;;;;;;;;;;;x
 EVTOPTAHF24100;Do you want to play a very special game, [scoped_guardian.GetFirstName]?;;;;;;;;;;;;x
 EVTOPTBHF24100;Nah, I still like [scoped_guardian.GetHerHim] well enough...;;;;;;;;;;;;x

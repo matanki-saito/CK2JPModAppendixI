@@ -5,14 +5,14 @@ GOD_THE_CREATOR;創造主;;;;;;;;;;;;x
 GOD_BRAHMA;ブラフマー;;;;;;;;;;;;x
 GOD_SATURN;サターン;;;;;;;;;;;;x
 scholar_desc;この人物は本を熟読し、既知の世界の優れた精神に応じ、学者としての人生を送ります;;;;;;;;;;;;x
-EVTOPTA_WOL_2100_3;小人、靴...いや! [target_spy_on.GetFirstName] は元気な山羊と浮気しています！;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_3;小人、靴……違う！ [target_spy_on.GetFirstName]は積極的なスケコマシ野郎と浮気している！;;;;;;;;;;;;x
 EVTOPTA_WOL_2100_5;[target_spy_on.GetSubjectPronounCap]は、11歳のかよわい友人を殺しました！;;;;;;;;;;;;x
 EVTOPTA_WOL_2100_6;[target_spy_on.GetSubjectPronounCap]にはBappoという想像上の友人がいます！;;;;;;;;;;;;x
-EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap]は、[target_spy_on.Capital.Capital.GetName]の売春宿で売春婦としての秘密の生活を送ります！;;;;;;;;;;;;x
+EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap]は[target_spy_on.Capital.Capital.GetName]の売春宿で隠れながら春を売る生活をしている！;;;;;;;;;;;;x
 EVTOPTB_WOL_2300;いいえ、私は[intrigue_spymaster.GetObjectPronoun]を信じることにする;;;;;;;;;;;;x
 EVTOPTB_WOL_2071;あは！今密偵を呼べますよ;;;;;;;;;;;;x
-EVTOPTF_WOL_2080;思うに、誰かしらをスパイする頃合いと思われます;;;;;;;;;;;;x
-EVTOPTC_WOL_2100;いや...誰かしらをスパイする頃合いかと思われます;;;;;;;;;;;;x
+EVTOPTF_WOL_2080;そうか、だが思うに誰かしらを調べる頃合いだろう。;;;;;;;;;;;;x
+EVTOPTC_WOL_2100;いいや……思うに誰かしらを調べる頃合いだろう。;;;;;;;;;;;;x
 EVTDESC_WOL_2065;運悪く[FromFromFrom.GetTitledFirstName]の調査は進展していない。そろそろ労力を他に向けるべきだろうか？;;;;;;;;;;;;x
 EVTOPTA_WOL_2065;そうだな、これは無意味だ。;;;;;;;;;;;;x
 EVTOPTB_WOL_2065;いや、[FromFromFrom.GetSubjectPronoun]には何かあるに違いない...;;;;;;;;;;;;x
