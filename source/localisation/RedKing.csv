@@ -593,7 +593,7 @@ DLC_dlc069_RECOMMENDATION_MAM_D;In §YMonks and Mystics§!, you'll get to join a
 DLC_dlc069_RECOMMENDATION_CULTURE;In addition to the societies that you get in §YMonks and Mystics§!, you also get new portraits and new graphics for your units appropriate for the §Y[Root.Culture.GetName]§! culture.\n;;;;;;;;;;;;x
 DLC_dlc073_RECOMMENDATION_JD_CULTURE;With §YJade Dragon§!, China is introduced with its own game rules, and you also get new portraits for your characters appropriate for the §Y[Root.Culture.GetName]§! culture.\n;;;;;;;;;;;;x
 DLC_dlc073_RECOMMENDATION_JD_REQUIRED;§YJade Dragon§!は東方に焦点を当てており、中国に独自のゲームルールを追加し、東方の追加宗教をプレイするには§YJade Dragon§!か他のDLCが必要となります。\n;;;;;;;;;;;;x
-Holy_Order_Catholic;カラトヴァ騎士団とサンティアゴ騎士団;;;;;;;;;;;;x
+Holy_Order_Catholic;カラトラバ騎士団とサンティアゴ騎士団;;;;;;;;;;;;x
 Holy_Order_Orthodox;聖墳墓同胞団;;;;;;;;;;;;x
 Holy_Order_Miaphysite;聖アントニウス騎士団;;;;;;;;;;;;x
 Holy_Order_Nestorian;聖アダイ騎士団;;;;;;;;;;;;x

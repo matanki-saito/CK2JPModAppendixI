@@ -9,7 +9,7 @@ restore_pope_in_rome_desc;The Holy Father has lost control of his secular domain
 opinion_restored_to_rome;ローマの再建;;;;;;;;;;;;x
 opinion_creator_of_rel_heal;Created my Office;;;;;;;;;;;;x
 EVTDESC_SOA_2609;この騎士団はその名を、別の地ではムーア人殺しの聖ヤコブとしても知られているサンティアゴ・マタモロスから借りている。サンティアゴ騎士団は[Root.Religion.GetName]教会からの公式な支援を受け、その騎士たちは皆[Root.Religion.GetName]当主からの依頼があれば異教徒と異端者の領地をすべて浄化することを誓っている。;;;;;;;;;;;;x
-EVTDESC_SOA_2709;カラトラヴァ騎士団は十字架の兵士たちに最も新しく加わった、[Root.Religion.GetName]教会の布告によって認可されたばかりの騎士団である。この騎士たちはその名前をムスリムの邪教徒共の支配から奪還したイベリアの城から取っており、維持費を提供してくれる[Root.Religion.GetName]の全ての当主の名のもとに邪教徒と戦い信仰を守る準備がある。;;;;;;;;;;;;x
+EVTDESC_SOA_2709;カラトラバ騎士団は十字架の兵士たちに最も新しく加わった、[Root.Religion.GetName]教会の布告によって認可されたばかりの騎士団である。この騎士たちはその名前をムスリムの邪教徒共の支配から奪還したイベリアの城から取っており、維持費を提供してくれる[Root.Religion.GetName]の全ての当主の名のもとに邪教徒と戦い信仰を守る準備がある。;;;;;;;;;;;;x
 EVTDESC39100;新しい宗教騎士団の設立を認可する法令が布告された―聖ヨハネ騎士団である。以前から既にエルサレムでの病気の巡礼者の保護と治療のために働いていた騎士たちは今や[Root.Religion.GetName]教会の力を背後に得ている。敬虔な[Root.Religion.GetName]の当主は異端者や異教徒に対する戦争に彼らの支援を要請することが出来るが、彼らは自身の信仰のためには戦うことはない。;;;;;;;;;;;;x
 EVTDESC39101;新しいキリスト教騎士団が裕福な騎士の小集団によって設立された。キリストとソロモン神殿の貧しき戦友たち、あるいは略してテンプル騎士団は、聖地を巡って旅する巡礼者を保護する誓いを立てている。[Root.Religion.GetName]教会は騎士団を全力で支持しており、そのために敬虔な[Root.Religion.GetName]の当主は異端者や邪教徒と戦うときにだけ援助を求めることが出来る。;;;;;;;;;;;;x
 EVTDESC39102;[Root.Religion.GetName]教会と神聖ローマ皇帝の支援の下、「ドイツ人の聖母マリア騎士修道会」が結成された。 聖ヨハネ騎士団、テンプル騎士団とよく似たチュートン騎士団は、聖地への巡礼者の護衛と治療を主な目的としていたが、活動資金を喜んで支払ってくれる[Root.Religion.GetName]の領主であれば誰にでも仕えた。 宗教騎士団であるため、彼らが戦うのは異端者と異教徒に対してのみである。;;;;;;;;;;;;x
@@ -26,7 +26,7 @@ donate_money_to_knights_templar_desc;[Root.Religion.GetName]教会からその�
 donate_money_to_knights_hospitaler_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖ヨハネ騎士団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_teutonic_order_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、ドイツ騎士団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_knights_santiago_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、サンティアゴ騎士団にお金を寄付します。;;;;;;;;;;;;x
-donate_money_to_knights_calatrava_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、カラトラヴァ騎士団にお金を寄付します。;;;;;;;;;;;;x
+donate_money_to_knights_calatrava_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、カラトラバ騎士団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_holy_sepulchre_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖墳墓同胞団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_saint_anthony_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬される続けるのと引き換えに、聖アントニウス騎士団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_the_immortals_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、不死隊にお金を寄付します。;;;;;;;;;;;;x

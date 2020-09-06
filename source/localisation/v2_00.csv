@@ -172,8 +172,8 @@ d_huitzilopochtli;ウィツィロポチトリ教団;;;;;;;;;;;;x
 d_huitzilopochtli_adj;ウィツィロポチトリ教団;;;;;;;;;;;;x
 d_knights_santiago;サンティアゴ騎士団;;;;;;;;;;;;x
 d_knights_santiago_adj;サンティアゴ騎士団;;;;;;;;;;;;x
-d_knights_calatrava;カラトヴァ騎士団;;;;;;;;;;;;x
-d_knights_calatrava_adj;カラトヴァ騎士団;;;;;;;;;;;;x
+d_knights_calatrava;カラトラバ騎士団;;;;;;;;;;;;x
+d_knights_calatrava_adj;カラトラバ騎士団;;;;;;;;;;;;x
 DEDEBABA;デデババ;;;;;;;;;;;;x
 DYNASTY_CONTROLS_HOLY_ORDER;一族は$ORDER$を支配: §G+$VALUE$§!;;;;;;;;;;;;x
 DYNASTY_CONTROLS_RELIGIOUS_HEAD;一族は$RELIGION$を支配: §G+$VALUE$§!;;;;;;;;;;;;x
@@ -571,18 +571,18 @@ expel_knights_santiago;サンティアゴ騎士団を追放;;;;;;;;;;;;x
 expel_knights_santiago_desc;私の領国からサンティアゴ騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
 donate_money_to_knights_santiago;サンティアゴ騎士団に300¤を寄付;;;;;;;;;;;;x
 expelled_d_knights_santiago;サンティアゴ騎士団を追放;;;;;;;;;;;;x
-EVTTITLE_SOA_2709;カラトラヴァ騎士団;;;;;;;;;;;;x
+EVTTITLE_SOA_2709;カラトラバ騎士団;;;;;;;;;;;;x
 EVTOPTA_SOA_2709;彼らの戦いは勝利を以て終わるであろう！;;;;;;;;;;;;x
 EVTOPTB_SOA_2709;生贄の羊がさらに増えた！;;;;;;;;;;;;x
-EVTDESC_SOA_2731;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「カラトラヴァ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
-EVTTOOLTIP_SOA_2732;[This.GetTitledFirstName]がカラトラヴァ騎士団の一員となります。;;;;;;;;;;;;x
-EVTDESC_SOA_2753;最も高潔なる[Root.GetTitledFirstName]よ、「カラトラヴァ騎士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所があなたの領地内にーー具体的には[FromFrom.GetName]ですーーにありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払いします。 \n\n　パクス・クリスティ \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_SOA_2754;カラトラヴァ騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
-EVTDESC_SOA_2761;陛下、この敵対的行為は全く不当なことです！｢カラトラヴァ騎士団」はキリストにお仕えする者ですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
-expel_knights_calatrava;カラトラヴァ騎士団を追放;;;;;;;;;;;;x
-expel_knights_calatrava_desc;私の領国からカラトラヴァ騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ…;;;;;;;;;;;;x
-donate_money_to_knights_calatrava;カラトヴァ騎士団に300¤を寄付;;;;;;;;;;;;x
-expelled_d_knights_calatrava;カラトヴァ騎士団を追放;;;;;;;;;;;;x
+EVTDESC_SOA_2731;私の[GetFromRelation]である[From.GetTitledFirstName]が、邪教徒と戦う「カラトラバ騎士団」にその身を置きたいと願い出てきたが、そうすると彼が元の生活に戻ることはもはや一生ないだろう。;;;;;;;;;;;;x
+EVTTOOLTIP_SOA_2732;[This.GetTitledFirstName]がカラトラバ騎士団の一員となります。;;;;;;;;;;;;x
+EVTDESC_SOA_2753;最も高潔なる[Root.GetTitledFirstName]よ、「カラトラバ騎士団」は兵を訓練とそれを支える収入のためにより多くの城を必要としています。それに適した場所が貴方の領地内に（具体的には[FromFrom.GetName]です）にありまして、そこに砦を建てる権利を頂けるのであれば喜んで金100をお支払い致します。 \n\n　パクス・クリスティ \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_2754;カラトラバ騎士団が[Root.GetName]に城を建てました！;;;;;;;;;;;;x
+EVTDESC_SOA_2761;陛下、この敵対的行為は全く不当なことです！カラトラバ騎士団はキリストにお仕えする者ですが、それを疑うというのでしょうか？ \n\n 悲憤をこめて \n 騎士団長[From.GetFirstName];;;;;;;;;;;;x
+expel_knights_calatrava;カラトラバ騎士団を追放;;;;;;;;;;;;x
+expel_knights_calatrava_desc;私の領国からカラトラバ騎士団を追い払い、彼らの城砦を奪うことはできる。しかし、それは実行するには余りに不信心な行為なのだ……;;;;;;;;;;;;x
+donate_money_to_knights_calatrava;カラトラバ騎士団に300¤を寄付;;;;;;;;;;;;x
+expelled_d_knights_calatrava;カラトラバ騎士団を追放;;;;;;;;;;;;x
 catholic_pilgrimage;巡礼に行く;;;;;;;;;;;;x
 catholic_pilgrimage_desc;忠実なキリスト教徒の中には、人生のどこかの時点で大巡礼をすることを選ぶ人もいます。敬虔な巡礼者は、信仰の最も神聖な場所を訪れるために、長距離を旅する準備ができています。;;;;;;;;;;;;x
 on_pilgrimage;巡礼中;;;;;;;;;;;;x
@@ -814,7 +814,7 @@ EVTDESC_SoA_108;主君 [Root.TopLiege.GetTitledFirstName] は、ユダヤ人追�
 EVTOPTA_SoA_300;愚か者め！;;;;;;;;;;;;x
 EVTOPTA_SoA_301;Who needs culture?;;;;;;;;;;;;x
 EVTOPTA_SoA_302;全部自分でやらなければいけないのか？;;;;;;;;;;;;x
-mutazilite;ムタジル派;;;;;;;;;;;;x
+mutazilite;ムゥタズィラ派;;;;;;;;;;;;x
 mutazilite_desc;この人物は合理性、理性、自由意志に重点を置き、スンニ派のムタジル学派を支持しています。;;;;;;;;;;;;x
 ashari;アシュアリー学派;;;;;;;;;;;;x
 ashari_desc;この人物は伝統、啓示、偶因論に重点を置き、スンニ派のアシュアリー学派を支持しています。;;;;;;;;;;;;x
