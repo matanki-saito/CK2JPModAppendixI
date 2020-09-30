@@ -476,7 +476,7 @@ EVTOPTA_6034;お仕えいたします、[From.GetSocietyRank]。;;;;;;;;;;;;x
 EVTDESC_MNM_6035;儀礼的な挨拶を交わすどころか一息つく暇さえないうちに、[From.GetSocietyRank][From.GetFirstName]は私を別の扉へ導き、石の螺旋階段を降りていった。私たちは押し黙ったまま降りていった。階段の先で[From.GetSocietyRank]がまた別の扉を開けると、陰気な地下室の中、床に跪く人影が見えた。;;;;;;;;;;;;x
 EVTOPTA_6035;あれは...あれは誰だ？;;;;;;;;;;;;x
 EVTDESC_MNM_6036_A;「これは貴殿への試練だ」私が足を踏み入れると[From.GetSocietyRank][From.GetFirstName]は厳かに言った。そう言いながら[From.GetSheHe]が[assassins_sacrifice.GetManWoman]の頭にかぶせられたフードをとった。そこにいたのは我が[assassins_sacrifice.GetRootRelation]、[assassins_sacrifice.GetTitledFirstName]であった！[assassins_sacrifice.GetHerHis]の目には驚愕の色が浮かんでいたが、私も同様だったに違いない。「この[assassins_sacrifice.GetManWoman]は我らの信仰の敵である。[assassins_sacrifice.GetHerHim]の息の根を止めよ」[From.GetSocietyRank]は私に短剣を差し出した。;;;;;;;;;;;;x
-EVTDESC_MNM_6036_B;"This," [From.GetSocietyRank] [From.GetFirstName] says solemnly as I enter, "is your test". With these words, [From.GetSheHe] pulls the hood from the [Root.GetManWoman]'s head. It is one of my servants! The shock in [Root.GetHerHis] eyes must be mirroring my own. "This [Root.GetManWoman] is an enemy of our faith. End [Root.GetHerHim]." The [From.GetSocietyRank] offers me a dagger.;;;;;;;;;;;;x
+EVTDESC_MNM_6036_B;「これは貴殿への試練だ」私が足を踏み入れると[From.GetSocietyRank][From.GetFirstName]は厳かに言った。そう言いながら[From.GetSheHe]が[Root.GetManWoman]の頭にかぶせられたフードをとった。そこにいたのは私の召使いであった！[Root.GetHerHis]の目には驚愕の色が浮かんでいたが、私も同様だったに違いない。「この[Root.GetManWoman]は我らの信仰の敵である。[Root.GetHerHim]の息の根を止めよ」[From.GetSocietyRank]は私に短剣を差し出した。;;;;;;;;;;;;x
 EVTOPTA_6036;それがグランドマスターの望みならば。;;;;;;;;;;;;x
 EVTOPTA_6036_TOOLTIP;召使いを殺す。;;;;;;;;;;;;x
 EVTOPTB_6036;私には…私にはできない！;;;;;;;;;;;;x
