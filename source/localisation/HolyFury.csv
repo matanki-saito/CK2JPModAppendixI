@@ -7117,7 +7117,7 @@ EVTTOOLTIPB_HF_42025_GAME;私は§Y[From.GetTitledFirstName]§!を危険な位�
 EVTTOOLTIPB_HF_42025_SOCIAL;私はこの夜をただ楽しむことにした。;;;;;;;;;;;;x
 EVTTOOLTIPB_HF_42025_SCHOLAR;私は相手側に口火を切らせることにした。;;;;;;;;;;;;x
 EVTTOOLTIPB_HF_42025_STEWARD;私は正直に迷ったことを告げて、一緒に出口への道を探すことにした。;;;;;;;;;;;;x
-EVTTOOLTIPB_HF_42025_TORTURE;ゆっくり責めて、いつまで被検体が正気を保てるか確かめてみることにした。;;;;;;;;;;;;x
+EVTTOOLTIPB_HF_42025_TORTURE;じっくりと責めて、いつまで被検体が正気を保てるか確かめてみることにした。;;;;;;;;;;;;x
 EVTDESC_HF_42026_HUNT;我々は探していたイノシシと出くわした。[From.GetFirstName]は何も言わずに駆け出してイノシシに攻撃を加えた。イノシシは向きを変えると[From.GetFirstName]に向かって突進してきた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_DUEL;ついに我々は大会の決勝戦まで勝ち上がった。最後の対戦相手は2人の巨漢であった。[From.GetFirstName]は開始のときから駆け出して、2人を相手に攻勢をとり続けた。;;;;;;;;;;;;x
 EVTDESC_HF_42026_GAME;両軍の衝突が激しくなるにしたがって、ゲームは次第に殺戮の渦へと発展していった。序盤に私が敵の駒をかなり倒していたとはいえ、[From.GetFirstName]は自軍を危険な場所に配置した。;;;;;;;;;;;;x
@@ -7163,7 +7163,7 @@ EVTOPTB_HF_42027_TORTURE;なんと言っても、これは繊細な作業だか�
 EVTDESC_HF_42028_HUNT_SUCCESS;イノシシも勇敢に戦ったが、我々はついにこの獣を仕留め、家臣たちはみな大きな歓声を上げた。良い狩りだった。;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_FAILURE;イノシシは勇敢に戦い、弱っているように見えたが、私がとどめの一撃をくわえようとしたところ逃げて行ってしまった。家臣たちは奴を探し回ったが、見つけることはできなかった。;;;;;;;;;;;;x
 EVTDESC_HF_42028_DUEL_SUCCESS;Though the two lumbering men fought for their lives, they finally give up and fall to the ground exhausted. I look over at [From.GetFirstName] and cheer.;;;;;;;;;;;;x
-EVTDESC_HF_42028_DUEL_FAILURE;After a long dance of steel back and forth, I finally have to admit defeat to our two opponents, and so do [From.GetFirstName]. Both teams fought well.;;;;;;;;;;;;x
+EVTDESC_HF_42028_DUEL_FAILURE;剣が舞い、押したり退いたりを長く繰り返したのちに、私はとうとう二人の対戦相手に負けを認めることになり、[From.GetFirstName]もそうした。どちらの組もよく戦ったものだ。;;;;;;;;;;;;x
 EVTDESC_HF_42028_GAME_SUCCESS;Though it was a long match with casualties on both sides, [From.GetFirstName] and I finally crush our remaining opponents between our two armies. Thankfully, [From.GetFirstName] understood what I wanted us to do. ;;;;;;;;;;;;x
 EVTDESC_HF_42028_GAME_FAILURE;Though it was a long match with casualties on both sides, the last of [From.GetFirstName] and my units finally fall to our opponents.;;;;;;;;;;;;x
 EVTDESC_HF_42028_SOCIAL_SUCCESS;I wake up half-dressed, clothes strewn everywhere with a [Root.GetManWomanPreference] sleeping besides me. I can see [From.GetFirstName] with a grin on [From.GetHerHis] face, lying on the floor with a [From.GetManWomanPreference] on top of [From.GetHerHim].;;;;;;;;;;;;x
@@ -7184,7 +7184,7 @@ EVTOPTA_HF_42028_TORTURE;次はもっと上手くやってやろう。;;;;;;;;;;
 EVTDESC_HF_42029_HUNT_SUCCESS;獣は傷だらけで倒れこみ、家臣たち全員は大きな歓声をあげた。;;;;;;;;;;;;x
 EVTDESC_HF_42029_HUNT_FAILURE;獣はほとんど観念するところだったと皆が思ったが、思いがけないことに奴は突然[From.GetFirstName]に向かって突進し、かろうじて逃げていった。どれだけ家臣たちを集めて奴を探しても、もはや見つけ出せないだろう。;;;;;;;;;;;;x
 EVTDESC_HF_42029_DUEL_SUCCESS;[From.GetFirstName]は最後に立っている男に何度も攻撃を浴びせる前に、相手の攻撃を何度も避けきっていた。二人の男の動きはすっかり鈍くなり参ってしまっている。我々の勝利は確実だ。;;;;;;;;;;;;x
-EVTDESC_HF_42029_DUEL_FAILURE;長引く面倒な戦いののち、[From.GetFirstName]と私はとうとう2人の男に敗れたことことを認めざるをえなくなった。我々はベストを尽くしたが、相手の強さと素早さは我々を上回っていたのだ。;;;;;;;;;;;;x
+EVTDESC_HF_42029_DUEL_FAILURE;長引く面倒な戦いののち、[From.GetFirstName]と私はとうとう2人の男に敗れたことことを認めざるをえなくなった。我々は最善を尽くしたが、相手の強さと素早さは我々を上回っていたのだ。;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_SUCCESS;After several hours, the last of our opponents' units finally fall. [From.GetFirstName] gives me a small nod of approval, as we sit back and enjoy our well fought victory. ;;;;;;;;;;;;x
 EVTDESC_HF_42029_GAME_FAILURE;After several hours, the last of our units finally fall to our opponents. [From.GetFirstName] give me a small shrug, as we sit back and think about what we could have done to win. ;;;;;;;;;;;;x
 EVTDESC_HF_42029_SOCIAL_SUCCESS;It was quite the event, and as the guests are leaving the premises they are talking about how much fun they had. [From.GetFirstName] still seem to be asleep as I am leaving. ;;;;;;;;;;;;x
