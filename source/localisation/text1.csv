@@ -73,7 +73,7 @@ alert_heir_should_marry_instant;§Y跡継ぎが未婚§!;;;;;;;;;;;;x
 alert_heir_should_marry_delayed;$HEIR$は結婚すべきだ\n§Gクリックでキャラクター画面へ§!;;;;;;;;;;;;x
 alert_should_appoint_guardian_instant;§Y後見人がいない子が$NUM$人存在する§!;;;;;;;;;;;;x
 alert_should_appoint_guardian_delayed;次の子が後見人を必要としている：\n$LIST$;;;;;;;;;;;;x
-alert_adult_sons_notitle_instant;§Y領地を持たない息子§!;;;;;;;;;;;;x
+alert_adult_sons_notitle_instant;§Y所領を持たない息子§!;;;;;;;;;;;;x
 alert_adult_sons_notitle_delayed;領地を持たない成人の息子達:\n$LIST$;;;;;;;;;;;;x
 alert_betrothed_should_marry_instant;§Y婚約者が結婚可能§!;;;;;;;;;;;;x
 alert_betrothed_should_marry_delayed;結婚可能な婚約中の人物達:\n$LIST$;;;;;;;;;;;;x
@@ -368,7 +368,7 @@ PROVINCE_DOES_NOT_HAVE_ANY_DISEASE;どの疫病も流行していない\n;;;;;;;
 CK2DLC001;王家の紋章パック１;;;;;;;;;;;;x
 CK2DLC001_DESC;Dynasty Coat of Arms Pack 1の説明;;;;;;;;;;;;x
 CK2DLC002;モンゴル人フェイスパック;;;;;;;;;;;;x
-CK2DLC002_DESC;Mongol Face Packの説明;;;;;;;;;;;;x
+CK2DLC002_DESC;モンゴル人フェイスパックの説明;;;;;;;;;;;;x
 DYNATREE_TOTALMEMBERS;総人数：$TOTAL$;;;;;;;;;;;;x
 DYNATREE_HOUSEOF;$HOUSENAME$家;;;;;;;;;;;;x
 DYNATREE_LIVINGMEMBERS;存命者：$LIVING$;;;;;;;;;;;;x
