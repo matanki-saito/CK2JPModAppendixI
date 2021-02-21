@@ -20,14 +20,14 @@ GOD_DELFINE;デルフィーヌ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_commander_martial;[From.GetFirstName]が素晴らしい§Y指揮官§!である;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_councilor_diplomacy;[From.GetFirstName] は素晴らしい雄弁家だ;;;;;;;;;;;;x
 tooltip_feudal_elector_vote_councilor_intrigue;[From.GetFirstName]は高い§Y策謀§!値の狡猾な政治家である;;;;;;;;;;;;x
-count_hellenic_pagan;コメス;;;;;;;;;;;;x
-count_hellenic_pagan_reformed;コメス;;;;;;;;;;;;x
-count_female_hellenic_pagan;伯;;;;;;;;;;;;x
-count_female_hellenic_pagan_reformed;伯;;;;;;;;;;;;x
-baron_hellenic_pagan;レガトゥス;;;;;;;;;;;;x
-baron_hellenic_pagan_reformed;レガトゥス;;;;;;;;;;;;x
-baron_female_hellenic_pagan;レガタ;;;;;;;;;;;;x
-baron_female_hellenic_pagan_reformed;レガタ;;;;;;;;;;;;x
+count_hellenic_pagan;伯;;;;;;;;;;;;x
+count_hellenic_pagan_reformed;伯;;;;;;;;;;;;x
+count_female_hellenic_pagan;女伯;;;;;;;;;;;;x
+count_female_hellenic_pagan_reformed;女伯;;;;;;;;;;;;x
+baron_hellenic_pagan;男爵;;;;;;;;;;;;x
+baron_hellenic_pagan_reformed;男爵;;;;;;;;;;;;x
+baron_female_hellenic_pagan;男爵;;;;;;;;;;;;x
+baron_female_hellenic_pagan_reformed;男爵;;;;;;;;;;;;x
 barony_of_roman;城;;;;;;;;;;;;x
 italian_opinion;イタリア人の評価;;;;;;;;;;;;x
 BLOODLINE_EASIER_VOWS_TOOLTIP;Both [From.GetFirstName] and [Root.GetFirstName] are relatives and belong to a §YBloodline§! endorsed by the §YPapacy§!;;;;;;;;;;;;x
