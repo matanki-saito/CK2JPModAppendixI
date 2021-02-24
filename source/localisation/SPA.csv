@@ -890,10 +890,6 @@ String_ES_GetEvilGodDeDel_TLAZOLTEOTL;de Tlazolteotl;;;;;;;;;;;;x
 String_ES_GetEvilGodDeDel_TUONI;de Tuoni;;;;;;;;;;;;x
 String_ES_GetEvilGodDeDel_VELNIAS;de Velnias;;;;;;;;;;;;x
 String_ES_GetEvilGodDelaDelos_GOD_THE_EVIL_ONES;de los Malignos;;;;;;;;;;;;x
- String_ES_GetEvilGodDelaDelos_THE_VINAYAKAS;de los Vinayakas;;;;;;;;;;;;x
- String_ES_GetEvilGodDelaDelos_THE_PUNISHERS;de los Castigadores;;;;;;;;;;;;x
- String_ES_GetEvilGodDelaDelos_THE_DARK_SPIRITS;de los Espíritus tenebrosos;;;;;;;;;;;;x
- String_ES_GetEvilGodDelaDelos_THE_DARKNESS;de la Oscuridad;;;;;;;;;;;;x
 String_ES_GovernmentMas_chinese_imperial_government;chino imperial;;;;;;;;;;;;x
 String_ES_GovernmentMas_confucian_bureaucracy;burocrático confuciano;;;;;;;;;;;;x
 String_ES_GovernmentMas_feudal_government;feudal;;;;;;;;;;;;x
@@ -974,3 +970,11 @@ String_ES_FALLBACK_GetReligiousGroupMasFemen;[This.Religion.GetGroupName];;;;;;;
 String_ES_FALLBACK_GetReligiousPersonFemen;[This.GetReligiousPerson];;;;;;;;;;;;x
 String_ES_FALLBACK_GetReligiousPersonMasFemen;[This.GetReligiousPerson];;;;;;;;;;;;x
 String_ES_FALLBACK_GetTrueReligionScriptureNameDelDela;del [This.GetTrueReligionScriptureName];;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_VINAYAKAS;de los Vinayakas;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_PUNISHERS;de los Castigadores;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARK_SPIRITS;de los Espíritus tenebrosos;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARK_SPIRITS;de los Espíritus tenebrosos;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARK_SPIRITS;de los Espíritus tenebrosos;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARK_SPIRITS;de los Espíritus tenebrosos;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARKNESS;de la Oscuridad;;;;;;;;;;;;x
+String_ES_GetEvilGodDelaDelos_THE_DARKNESS;de la Oscuridad;;;;;;;;;;;;x
