@@ -5025,7 +5025,7 @@ b_lalocle;Le Locle;;;;;;;;;;;;x
 b_labonneville;La Bonneville;;;;;;;;;;;;x
 b_neuveville;Neuville;;;;;;;;;;;;x
 b_unterseen;Unterseen;;;;;;;;;;;;x
-b_thun;Thun;;;;;;;;;;;;x
+b_thun;トゥーン;;;;;;;;;;;;x
 b_gruyere;Gruyère;;;;;;;;;;;;x
 b_payerne;Payerne;;;;;;;;;;;;x
 b_ouchy;Ouchy;;;;;;;;;;;;x
@@ -6636,7 +6636,7 @@ principality_title_female;候;;;;;;;;;;;;x
 principality_foa;Your Majesty;;;;;;;;;;;;x
 principality_prefix;候国;;;;;;;;;;;;x
 archduchy_title;大公;;;;;;;;;;;;x
-archduchy_title_female;大公;;;;;;;;;;;;x
+archduchy_title_female;女大公;;;;;;;;;;;;x
 archduchy_foa;Your Majesty;;;;;;;;;;;;x
 archduchy_prefix;大公国;;;;;;;;;;;;x
 EVTDESC_HF_43250;Suddenly [great_theologian.GetBestName] appear at my doors, asking for a place to stay. Inspired by [theologian_founder.GetFirstNameWithNick], [great_theologian.GetSheHe] has decided that [Root.Capital.GetName] must be one of the closest places to [great_theologian.Religion.GetHighGodName] and will prove essential to [great_theologian.GetHerHis] studies. [great_theologian.GetFirstName] is known throughout the whole [great_theologian.Religion.GetGroupName] realm as one of the truly great minds of our time. It is an honor to have [great_theologian.GetHerHim] around.;;;;;;;;;;;;x
@@ -8132,13 +8132,13 @@ count_roman;伯;;;;;;;;;;;;x
 count_female_roman;女伯;;;;;;;;;;;;x
 county_of_roman;伯領;;;;;;;;;;;;x
 baron_roman;男爵;;;;;;;;;;;;x
-baron_female_roman;男爵;;;;;;;;;;;;x
+baron_female_roman;女男爵;;;;;;;;;;;;x
 vice_royalty_duke_roman;属州総督;;;;;;;;;;;;x
 vice_royalty_duke_female_roman;属州総督;;;;;;;;;;;;x
 vice_royalty_duchy_of_roman;属州;;;;;;;;;;;;x
 vice_royalty_king_roman;代理執政官;;;;;;;;;;;;x
 vice_royalty_king_female_roman;代理執政官;;;;;;;;;;;;x
-vice_royalty_kingdom_of_roman;元老院属州;;;;;;;;;;;;x
+vice_royalty_kingdom_of_roman;大属州;;;;;;;;;;;;x
 vice_royalty_emperor_roman;副帝;;;;;;;;;;;;x
 vice_royalty_emperor_female_roman;副帝;;;;;;;;;;;;x
 vice_royalty_empire_of_roman;副帝領;;;;;;;;;;;;x
@@ -11639,9 +11639,9 @@ string_duke_duchess_female;公爵;;;;;;;;;;;;x
 string_duke_duchess_male_cap;公爵;;;;;;;;;;;;x
 string_duke_duchess_female_cap;公爵;;;;;;;;;;;;x
 string_archduke_archduchess_male;大公;;;;;;;;;;;;x
-string_archduke_archduchess_female;大公;;;;;;;;;;;;x
+string_archduke_archduchess_female;女大公;;;;;;;;;;;;x
 string_archduke_archduchess_male_cap;大公;;;;;;;;;;;;x
-string_archduke_archduchess_female_cap;大公;;;;;;;;;;;;x
+string_archduke_archduchess_female_cap;女大公;;;;;;;;;;;;x
 form_knights_of_calatrava_TT;§Yカラトラバ§!に§Y宗教騎士団§!§Y[d_knights_calatrava.GetName]§!を創設し、これを臣下とした。;;;;;;;;;;;;x
 form_knights_of_santiago_TT;§Yサンティアゴ§!に§Y宗教騎士団§!§Y[d_knights_santiago.GetName]§!を創設し、これを臣下とした。;;;;;;;;;;;;x
 form_teutonic_order_TT;§Y[d_teutonic_order.GetName]§!を創設した;;;;;;;;;;;;x
@@ -16769,26 +16769,26 @@ b_zalivino_tura;Zalivino;;;;;;;;;;;;x
 b_ushbik;Ushbik;;;;;;;;;;;;x
 b_ulyun;Ulyun;;;;;;;;;;;;x
 b_prachen;プラーヘン;;;;;;;;;;;;x
-b_doudleby;Doudleby;;;;;;;;;;;;x
+b_doudleby;ドウドレビ;;;;;;;;;;;;x
 b_chynov;Chýnov;;;;;;;;;;;;x
 b_krumlov;Krumlov;;;;;;;;;;;;x
-b_vysehrad;Vysehrad;;;;;;;;;;;;x
+b_vysehrad;ヴィシェフラット;;;;;;;;;;;;x
 b_kourim;Kourim;;;;;;;;;;;;x
 b_sazava;Sázava;;;;;;;;;;;;x
 b_litomerice;リトムニェジツェ;;;;;;;;;;;;x
 b_melnik_bohemia;Melník;;;;;;;;;;;;x
-b_mnichovo_hradiste;Mnichovo Hradiste;;;;;;;;;;;;x
+b_mnichovo_hradiste;ムニチョボ・フラディシュチェ;;;;;;;;;;;;x
 b_zitava;Zitava;;;;;;;;;;;;x
 b_duba_litomerice;Dubá;;;;;;;;;;;;x
 b_decin;Decín;;;;;;;;;;;;x
 b_nymburk;Nymburk;;;;;;;;;;;;x
 b_resenberg;Resenberg;;;;;;;;;;;;x
 b_kladsko;Kladsko;;;;;;;;;;;;x
-b_zleby;Zleby;;;;;;;;;;;;x
-b_caslav;Cáslav;;;;;;;;;;;;x
+b_zleby;ジュレビ;;;;;;;;;;;;x
+b_caslav;チャースラフ;;;;;;;;;;;;x
 b_klatovy;Klatovy;;;;;;;;;;;;x
 b_primda;Primda;;;;;;;;;;;;x
-b_louny;Louny;;;;;;;;;;;;x
+b_louny;ロウニ;;;;;;;;;;;;x
 b_bilina;Bílina;;;;;;;;;;;;x
 b_teplice;Teplice;;;;;;;;;;;;x
 b_pohansko;Pohansko;;;;;;;;;;;;x

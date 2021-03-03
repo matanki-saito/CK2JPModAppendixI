@@ -26,8 +26,8 @@ count_female_hellenic_pagan;女伯;;;;;;;;;;;;x
 count_female_hellenic_pagan_reformed;女伯;;;;;;;;;;;;x
 baron_hellenic_pagan;男爵;;;;;;;;;;;;x
 baron_hellenic_pagan_reformed;男爵;;;;;;;;;;;;x
-baron_female_hellenic_pagan;男爵;;;;;;;;;;;;x
-baron_female_hellenic_pagan_reformed;男爵;;;;;;;;;;;;x
+baron_female_hellenic_pagan;女男爵;;;;;;;;;;;;x
+baron_female_hellenic_pagan_reformed;女男爵;;;;;;;;;;;;x
 barony_of_roman;城;;;;;;;;;;;;x
 italian_opinion;イタリア人の評価;;;;;;;;;;;;x
 BLOODLINE_EASIER_VOWS_TOOLTIP;Both [From.GetFirstName] and [Root.GetFirstName] are relatives and belong to a §YBloodline§! endorsed by the §YPapacy§!;;;;;;;;;;;;x

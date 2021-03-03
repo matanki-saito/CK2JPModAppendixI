@@ -4553,7 +4553,7 @@ uninspired_desc;この人物は創造的な仕事をする気分ではありま�
 not_awaiting_your_spouse_tt;[offmap_china.GetFullName]からの配偶者を持っていない\n;;;;;;;;;;;;x
 adopt_chinese_imperialism_tt;You will found a new Empire in the West, inspired by the splendor of the [offmap_china.GetFullName].\n;;;;;;;;;;;;x
 chinese_imperial_government_desc;Chinese Imperialism, much like the ordinary Feudal government, revolves around vassals owing fealty to their liege. It is inspired by the efficient administration of the mainland [offmap_china.GetFullName], and promotes peaceful dialog over religious differences.;;;;;;;;;;;;x
-king_tangut;国王;;;;;;;;;;;;x
+king_tangut;王;;;;;;;;;;;;x
 king_female_tangut;女王;;;;;;;;;;;;x
 emperor_female_tangut;Thu Ghu;;;;;;;;;;;;x
 emperor_tangut;Thu Ghu;;;;;;;;;;;;x
