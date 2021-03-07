@@ -58,6 +58,6 @@ best_candidate_title_fraticelli_cardinal;自領内の枢機卿候補;;;;;;;;;;;;
 best_candidate_title_fraticelli_cardinal_tooltip;自分の領国内の司祭のうち、教皇によって枢機卿に叙任される可能性が最も高い人物です。;;;;;;;;;;;;x
 EVTOPTJ96501;防御的な地形を使いこなす事に集中します。;;;;;;;;;;;;x
 EVTOPTK96501;包囲戦術に集中します。;;;;;;;;;;;;x
-create_ibadi_caliphate;イバード派カリフを擁立;;;;;;;;;;;;x
-create_ibadi_caliphate_desc;Create the Ibadi Caliphate and assume your position as spiritual leader of all true Ibadi Muslims.;;;;;;;;;;;;x
+create_ibadi_caliphate;イバード派カリフ国を創設;;;;;;;;;;;;x
+create_ibadi_caliphate_desc;イバード派カリフ国を創設し、真のイバード派イスラム教徒の精神的指導者となる。;;;;;;;;;;;;x
 UNSUPPORTED_VERSION;§R支持されていない§!;;;;;;;;;;;;x
