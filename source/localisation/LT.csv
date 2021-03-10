@@ -2069,7 +2069,7 @@ c_bahariya_adj;Bahariyan;;;;;;;;;;;;x
 c_castelo_branco_adj;Guardan;;;;;;;;;;;;x
 c_almada_adj;アルマダ;;;;;;;;;;;;x
 tribal_king_hungarian;大公;;;;;;;;;;;;x
-tribal_kingdom_of_hungarian;Principality of;;;;;;;;;;;;x
+tribal_kingdom_of_hungarian;大公国;;;;;;;;;;;;x
 tribal_king_female_hungarian;女大公;;;;;;;;;;;;x
 COURT_LIMITED_TAB_DRO;宮廷は主に領地を持たない貴族を中心に構成されていますが、領地を持つ評議員もいます。\n\n統治者は肩書きの階級に応じて、特定の数の成人のみを宮廷に収容できます。その数を超えると§Y宮廷費用§!が増加します。;;;;;;;;;;;;x
 COURT_TAB_DRO;宮廷は主に領地を持たない貴族を中心に構成されていますが、領地を持つ評議員もいます。;;;;;;;;;;;;x
