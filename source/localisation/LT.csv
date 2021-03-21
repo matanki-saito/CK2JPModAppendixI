@@ -1201,7 +1201,7 @@ title_castellan;城代;;;;;;;;;;;;x
 title_castellan_desc;この名誉は主から高い評価を得ている封臣に与えられます。城代は要塞の日々の継続的な維持に責任を持ちます。;;;;;;;;;;;;x
 castellan_custom_modifier_tt;§Y城代§!の下級称号を開放します;;;;;;;;;;;;x
 CHAR_COURTIER_FEMALE;女;;;;;;;;;;;;x
-CHAR_COURTIER_MALE;A man;;;;;;;;;;;;x
+CHAR_COURTIER_MALE;男;;;;;;;;;;;;x
 diligent_opinion;勤勉の評価;;;;;;;;;;;;x
 scholar_opinion;学者の評価;;;;;;;;;;;;x
 religious_spread_custom_modifier_tt;§Y[Root.job_spiritual.GetJobTitle]§!が§Y諸郡§!を改宗する速度が早まります;;;;;;;;;;;;x

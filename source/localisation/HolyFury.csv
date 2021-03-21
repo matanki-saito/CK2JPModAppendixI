@@ -1002,7 +1002,7 @@ EVTDESCHFA20354;In a surprising show of kindness, [From.GetTitledFirstName] deci
 EVTOPTAHF20354;Let us not be enemies any longer.;;;;;;;;;;;;x
 EVTDESCHFA20355;I am soon to become [Root.GetTitle], yet here I am, alone in my palace, with only a few servants to celebrate what is supposed to be one of the most important days of my life.;;;;;;;;;;;;x
 EVTOPTAHF20355;少なくとも私は安全だ。;;;;;;;;;;;;x
-EVTOPTBHF20355;This is terrible!;;;;;;;;;;;;x
+EVTOPTBHF20355;これはひどい!;;;;;;;;;;;;x
 EVTDESCHFA20356;However justified my reasons were to organize a secluded ceremony for my coronation, rather than waste money and time on feasts and entertainment, my vassals are far from pleased. Not only do they perceive it as a sign of weakness, but they all seem to have taken their lack of invitation as a personal slight against them!;;;;;;;;;;;;x
 EVTOPTAHF20356;It was to be expected.;;;;;;;;;;;;x
 EVTDESCHFA20357;私が来たるべき[From.GetTitledFirstName]の戴冠式について知ったのは、領内にその報せがあまねく広まった後であった。どうやらかの[From.GetTitle]は相談役の中でも最側近のものにしか招待を送らず、極めて内々に戴冠の儀式を行う計画であるようだ。;;;;;;;;;;;;x
@@ -1620,7 +1620,7 @@ b_knituva;クニトゥヴァ;;;;;;;;;;;;x
 b_siautuna;Siautuna;;;;;;;;;;;;x
 b_viljandi;ヴィリャンディ;;;;;;;;;;;;x
 b_alempois;Alempois;;;;;;;;;;;;x
-b_vaiga;Vaiga;;;;;;;;;;;;x
+b_vaiga;ヴァイガ;;;;;;;;;;;;x
 b_mohu;Mohu;;;;;;;;;;;;x
 b_nurmekund;Nurmekund;;;;;;;;;;;;x
 b_jogentagana;Jogentagana;;;;;;;;;;;;x
