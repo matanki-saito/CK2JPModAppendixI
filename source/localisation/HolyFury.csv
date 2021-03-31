@@ -8131,8 +8131,8 @@ duchy_of_roman;公領;;;;;;;;;;;;x
 count_roman;伯;;;;;;;;;;;;x
 count_female_roman;女伯;;;;;;;;;;;;x
 county_of_roman;伯領;;;;;;;;;;;;x
-baron_roman;男爵;;;;;;;;;;;;x
-baron_female_roman;女男爵;;;;;;;;;;;;x
+baron_roman;総督代理;;;;;;;;;;;;x
+baron_female_roman;女総督代理;;;;;;;;;;;;x
 vice_royalty_duke_roman;属州総督;;;;;;;;;;;;x
 vice_royalty_duke_female_roman;属州総督;;;;;;;;;;;;x
 vice_royalty_duchy_of_roman;属州;;;;;;;;;;;;x
