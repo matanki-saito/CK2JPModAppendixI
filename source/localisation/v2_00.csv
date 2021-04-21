@@ -1249,7 +1249,7 @@ INTERACTION_REQUIRED_NONCONTESTED_TITLE;§Y[ThirdPartyTitle.GetFullName]§!は§
 HINT_CARDINAL_VIEW_TITLE;枢機卿インターフェース;;;;;;;;;;;;x
 HINT_CARDINAL_VIEW_TEXT_1;この画面では枢機卿会を見ることができます。現教皇が亡くなった際に彼らの中から次の教皇を選出する責任を持っています。また、その際に誰が教皇に選出される可能性が高いかを示してもいます。;;;;;;;;;;;;x
 HINT_CARDINAL_VIEW_TEXT_2;カトリックの司教は誰もが枢機卿会の一員となりえます。すべての司教は教皇が空いた議席に入れるのに用いる得点を持っています。この得点は非常に多くの要素から算定されますが、教皇に金を約束することで、あなたも直接それに影響を与えることができます。これにより教皇はあなたの領国の司祭を選ぼうとする傾向が高くなるでしょう。;;;;;;;;;;;;x
-HINT_CARDINAL_VIEW_TEXT_3;Each cardinal has a single vote he can cast for who he wants to become the next Holy Father of the Catholic Church. The one with the most support is known as the Preferatus and is most likely to become the new Pope.;;;;;;;;;;;;x
+HINT_CARDINAL_VIEW_TEXT_3;どの枢機卿も、カトリック教会の次の教皇になって欲しいと思う候補者に一票を投じることができます。もっとも多くの支持を得た者は選出者と呼ばれ、彼が新たな教皇となる可能性が最も高いでしょう。;;;;;;;;;;;;x
 EVTNAME_SoA_5400;[From.GetName]の虐殺;;;;;;;;;;;;x
 EVTDESC_SoA_5400;[Root.GetLordLady]、異教徒どもの都市[From.GetName]が我々に降伏しました。我々はその地で略奪を行なって異教徒どもを懲らしめていたのですが、一部で行き過ぎがあったようです。その街の住民には様々な信仰を持つ者たちがおり、兵士たちには異教徒とそうではない者との区別が付かなかったのでしょう。;;;;;;;;;;;;x
 EVTOPTA_SoA_5400;皆殺しにしろ！神は信徒だけを救ってくださるだろう。;;;;;;;;;;;;x

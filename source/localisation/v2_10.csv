@@ -108,9 +108,9 @@ EVTOPTB91360;ベクタシュ教団に入らねば!;;;;;;;;;;;;x
 EVTOPTC91360;アサシン教団に入らねば！;;;;;;;;;;;;x
 EVTOPTD91360;メッカへの巡礼に旅立たねば！;;;;;;;;;;;;x
 EVTOPTE91360;慈善団体に寄付しようと思う！;;;;;;;;;;;;x
-EVTDESC91361;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations. [From.GetSubjectPronounCap] will join a holy order in order to serve Allah best!;;;;;;;;;;;;x
-EVTOPTA91361;[From.GetSubjectPronounCap] makes me proud!;;;;;;;;;;;;x
-EVTDESC91362;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations and left immediately for the holy pilgrimage to Mecca - the Hajj.;;;;;;;;;;;;x
+EVTDESC91361;私の[GetFromRelation]の[From.GetTitledFirstName]は私の燃えるような熱心な説得に感動して涙を流した。[From.GetSubjectPronounCap]は至高なるアッラーに仕えるために、神聖な任務に就くだろう。;;;;;;;;;;;;x
+EVTOPTA91361;[From.GetSubjectPronounCap]は私の誇りだ!!;;;;;;;;;;;;x
+EVTDESC91362;私の[GetFromRelation]の[From.GetTitledFirstName]は私の燃えるような熱心な説得に感動して涙を流し、すぐにメッカへと巡礼の旅に出た。;;;;;;;;;;;;x
 EVTOPTA91362;敬虔な選択だ！;;;;;;;;;;;;x
 EVTDESC91363;My [GetFromRelation] [From.GetTitledFirstName] was shaken by the strength of my pious arguments and promised to reform [From.GetPossPronoun] ways, starting with a generous donation to charity.;;;;;;;;;;;;x
 EVTOPTA91363;There is hope for [From.GetObjectPronoun] yet!;;;;;;;;;;;;x
@@ -293,8 +293,8 @@ expel_order_of_addai_desc;自分の領国から聖アダイ騎士団を追放し
 donate_money_to_order_of_addai;聖アダイ騎士団に300¤を寄付;;;;;;;;;;;;x
 donate_money_to_order_of_addai_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、聖アダイ騎士団にお金を寄付します。;;;;;;;;;;;;x
 EVTTITLE_SOA_2809;聖アダイ騎士団;;;;;;;;;;;;x
-EVTDESC_SOA_2809;ネストリウス派キリスト教会の聖地を守ることは不可欠であるとして、正当なる[Root.RelHead.GetTitledName]は修道士の戦士からなる同胞団の創設を宣言し、シリアとメソポタミアにキリスト教を伝道した使徒にちなんでこれを聖アダイ騎士団と名付けた。聖アダイ騎士団は邪教徒や異端を打倒し、騎士団の維持費を寄付することを望む[Root.Religion.GetName]信者の領主のためならその名のもとに正義を守るべく準備万端だ。;;;;;;;;;;;;x
-EVTOPTA_SOA_2809;May they be ever victorious!;;;;;;;;;;;;x
+EVTDESC_SOA_2809;ネストリウス派キリスト教会の聖地を守ることは不可欠であるとして、正当なる[Root.RelHead.GetTitledName]は修道士の戦士からなる同胞団の創設を宣言し、シリアとメソポタミアにキリスト教を伝道した使徒にちなんでこれを聖アダイ騎士団と名付けた。聖アダイ騎士団は、騎士団の維持費を寄付する用意のある[Root.Religion.GetName]信者であるなら、どの領主の名のもとにおいても邪教徒や異端を打倒し、正義を守る準備ができている。;;;;;;;;;;;;x
+EVTOPTA_SOA_2809;彼らの武勲が永久ならんことを！;;;;;;;;;;;;x
 EVTOPTB_SOA_2809;犠牲の羊が増えただけのことだ！;;;;;;;;;;;;x
 EVTDESC_SOA_2831;私の[GetFromRelation]である[From.GetTitledFirstName]は、邪教徒と闘うために自ら聖アダイ騎士団の一員となることを願い出てきていますが、そうすると彼が世俗に戻ることはもはや一生ないでしょう。;;;;;;;;;;;;x
 EVTTOOLTIP_SOA_2832;[This.GetTitledFirstName]が聖アダイ騎士団の一員となります。;;;;;;;;;;;;x
