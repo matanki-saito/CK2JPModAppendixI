@@ -15,7 +15,7 @@ calculating_host;Calculating Host;;;;;;;;;;;;x
 calculating_host_desc;This character is known for inspiring loyalty amongst [Root.GetHerHis] courtiers.;;;;;;;;;;;;x
 ruthless_host;Ruthless Host;;;;;;;;;;;;x
 ruthless_host_desc;This character is known for [Root.GetHerHis] pragmatic approach to human resources.;;;;;;;;;;;;x
-naive_host;Trusting Host;;;;;;;;;;;;x
+naive_host;お人好しの主;;;;;;;;;;;;x
 naive_host_desc;This character is known for being the most welcoming host in the realm.;;;;;;;;;;;;x
 charitable_opinion;慈善の評価;;;;;;;;;;;;x
 RULE_COURT_LIMIT;宮廷の規模の制限;;;;;;;;;;;;x

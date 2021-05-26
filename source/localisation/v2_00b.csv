@@ -14,7 +14,7 @@ EVTDESC39100;新しい宗教騎士団の設立を認可する法令が布告さ�
 EVTDESC39101;新しいキリスト教騎士団が裕福な騎士の小集団によって設立された。キリストとソロモン神殿の貧しき戦友たち、あるいは略してテンプル騎士団は、聖地を巡って旅する巡礼者を保護する誓いを立てている。[Root.Religion.GetName]教会は騎士団を全力で支持しており、そのために敬虔な[Root.Religion.GetName]の当主は異端者や邪教徒と戦うときにだけ援助を求めることが出来る。;;;;;;;;;;;;x
 EVTDESC39102;[Root.Religion.GetName]教会と神聖ローマ皇帝の支援の下、「ドイツ人の聖母マリア騎士修道会」が結成された。 聖ヨハネ騎士団、テンプル騎士団とよく似たチュートン騎士団は、聖地への巡礼者の護衛と治療を主な目的としていたが、活動資金を喜んで支払ってくれる[Root.Religion.GetName]の領主であれば誰にでも仕えた。 宗教騎士団であるため、彼らが戦うのは異端者と異教徒に対してのみである。;;;;;;;;;;;;x
 EVTDESC_SOA_1709;聖アントニウスの騎士たちは世界でも有数の歴史を持つ騎士集団である。370年、隠者アントニウスの弟子達がエチオピア皇帝の庇護の下で創設したのが聖アントニウス騎士団である。\n\nこの騎士団は何世紀ものあいだ目立たないままでいたが、いま再び強大な勢力として表舞台に現れた。彼らの掲げる目的は、[Root.Religion.GetName]のキリスト教徒を彼らに害なすあらゆる者から守り、あらゆる異端と邪教の土地を見つけ次第一掃することである。;;;;;;;;;;;;x
-EVTDESC_SOA_1809;Some of Persia's finest warriors have taken it upon themselves to found a new holy order dedicated to safeguarding the [Root.Religion.GetName] faith. They call themselves the Immortals, just like the ancient Persian warrior elite described by Herodotus, and they seem intent on carrying on the martial traditions of their legendary predecessors.\n\nThis militant holy order has sworn to fight against all who would threaten the legacy of Zoroaster, and to never again allow Zoroastrianism to suffer the reverses it did in the wake of the Arab conquests of the 7th century.;;;;;;;;;;;;x
+EVTDESC_SOA_1809;ペルシャで最も優れた戦士たちが、[Root.Religion.GetName]の信仰を守るための新たな騎士団を自らの手で築き上げた。彼らは自らを不死人と呼び、ヘロドトスが記した古代ペルシャの戦士のエリートのように、伝説的な先人の武術の伝統を受け継ぐことに熱心であるようだ。\n\nゾロアスター教が、7世紀のアラブ人による征服の後に受けたような悲劇を二度と起こさないために、この過激な聖職者たちは、ゾロアスター教を脅かすすべての者と戦うことを誓った。;;;;;;;;;;;;x
 EVTDESC_SOA_1209;ホラーサーンの神秘主義者 ハジュ・べクタシュ・ワリの指導のもと、ダルウィーシュ(托鉢僧)のスーフィー教団が生まれた。'存在一性' を目指し、ベクタシュ教徒は瞑想とコーランの内なる意味への黙考を通じて魂を高めている。ベクタシュ教戦士は、好戦的で [Root.Religion.GetName]のムスリム戦士たちの間では、特に人気がある。彼らはイスラームを守護し、あらゆる邪教徒や多神教徒と戦うのだ。;;;;;;;;;;;;x
 EVTDESC88000;[Root.Religion.GetName]の宣教師ハサン・サッバーフが、ペルシア西部のどこかで「ハッシャーシーン」という宗教団体を結成したという噂が広がりつつある。この訓練された暗殺者たちで構成された謎めいた狂信者集団は、策略と狡猾な手段を用いてアラムート山の要塞を支配下に置き、そこを本拠地にしてしまった。すでにハサンに盲従し恐れを知らない弟子たちの手による凶悪な殺人が続発している…;;;;;;;;;;;;x
 donate_money_to_assassins;アサシン教団に300¤を寄付;;;;;;;;;;;;x
@@ -31,8 +31,8 @@ donate_money_to_holy_sepulchre_desc;[Root.Religion.GetName]教会からその信
 donate_money_to_saint_anthony_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬される続けるのと引き換えに、聖アントニウス騎士団にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_the_immortals_desc;[Root.Religion.GetName]教会からその信仰心を生涯にわたって尊敬され続けるのと引き換えに、不死隊にお金を寄付します。;;;;;;;;;;;;x
 donate_money_to_the_zealots_desc;[Root.Religion.GetName]の聖職者たちからその[Root.Religion.GetPietyName]を生涯にわたって尊敬され続けるのと引き換えに、熱心党にお金を寄付します。;;;;;;;;;;;;x
-EVTDESC_SOA_1841;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation will aid us greatly in our continued defense of the [Root.Religion.GetName] faithful! You have my friendship, as well as that of the priesthood.\n\nBy Zoroaster's will,\nGrand Master [From.GetFirstName];;;;;;;;;;;;x
-EVTDESC_SOA_1941;Great [Root.PrimaryTitle.GetRulerTitle], your extremely generous donation will aid us greatly in our continued defense of Jerusalem, the Third Temple and the [Root.Religion.GetName] faith! You have my friendship, as well as that of the priesthood.\n\nRemember Masada!\nGrand Master [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1841;偉大なる、 [Root.PrimaryTitle.GetRulerTitle]あなたの多大な寄付は、[Root.Religion.GetName]信仰者の継続的な防衛において、大きな助けとなるでしょう。あなたへ友情と、神職の友情を。\n\n ゾロアスターの御心のままに \n 隊長 [From.GetFirstName];;;;;;;;;;;;x
+EVTDESC_SOA_1941;偉大なる[Root.PrimaryTitle.GetRulerTitle]、あなたの非常に寛大な寄付は、エルサレム、第三神殿、そして[Root.Religion.GetName]信仰の防衛において、私たちを大いに助けてくれるでしょう。あなたに、私と神職の友情を。\n\nマサダを忘れるなかれ！\n党首[From.GetFirstName];;;;;;;;;;;;x
 PREVENT_DECADENCE;この人物は一族の退廃に影響を与えません。;;;;;;;;;;;;x
 TITLE_REQUEST_CLAIM;請求権;;;;;;;;;;;;x
 TITLE_REQUEST_CLAIM_TOOLTIP;この称号の請求権を求める;;;;;;;;;;;;x
