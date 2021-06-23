@@ -541,7 +541,7 @@ String_personality_council_member_same_liege;how being on the council of [Root.L
 String_personality_fallback;the surprisingly mild weather, compared to last year;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_one_legged;片足;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_one_handed;片手;;;;;;;;;;;;x
-String_GetMediumDisabilityDesc_one_eyed;独眼;;;;;;;;;;;;x
+String_GetMediumDisabilityDesc_one_eyed;隻眼;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_clubfooted;内反足;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_hunchback;背中をまっすぐに保てない;;;;;;;;;;;;x
 String_GetMediumDisabilityDesc_dwarf;平均よりかなり背が低い;;;;;;;;;;;;x
