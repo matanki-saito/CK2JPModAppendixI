@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 set_government_type;政体が§Y$GOVERNMENT$§!に変更されます\n;;;;;;;;;;;;x
 feudal_government;封建制;;;;;;;;;;;;x
 republic_government;共和制;;;;;;;;;;;;x

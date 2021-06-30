@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 GetWeatherAdjective_Sunny;晴れた;;;;;;;;;;;;x
 GetWeatherAdjective_Rainy;雨の;;;;;;;;;;;;x
 GetWeatherAdjective_Snowy;雪の;;;;;;;;;;;;x

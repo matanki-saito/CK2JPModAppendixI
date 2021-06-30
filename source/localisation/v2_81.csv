@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 EVTDESC_JD_10020;はじめ[adventurous_spirit.GetTitledFirstName]からのことを何も聞いていなかった時、私は単純に[adventurous_spirit.GetHerHis]の帰路は遅れているのだと考えていた。悲しいことに、[the_protector_general.GetTitledName]から[adventurous_spirit.GetHerHis]が亡くなったという報を受け取った。;;;;;;;;;;;;x
 china_physician_cd;§Y侍医の派遣§!;;;;;;;;;;;;x
 china_physician_cd_desc;あなたはすでに侍医を派遣しており、追加的に派遣することはできません。;;;;;;;;;;;;x

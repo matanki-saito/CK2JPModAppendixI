@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 EVTDESC_RoI_10011;私の[GetFromRelation]である[From.GetFirstName], [From.Reincarnation.GetTitledFirstName]は、まるで生まれ変わったかのように人が変わり、今では[From.GetPossPronoun]の体現者のような人物となった！[From.Reincarnation.GetFirstName]の人格によって、[From.GetFirstName]が別人のようになったのは明らかだ...;;;;;;;;;;;;x
 form_the_hre;神聖ローマ帝国の設立;;;;;;;;;;;;x
 form_the_hre_desc;カール大帝に匹敵する領地をもって、私は彼の真の後継者として認知され、帝国を変化させ、[Root.RelHead.GetBestName]は私を新たな西ローマ帝国皇帝として戴冠させる。;;;;;;;;;;;;x

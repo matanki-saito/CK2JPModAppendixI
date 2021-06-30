@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 INTERACTION_RELIGION_MUST_MARRY_REGULARLY;$RELIGION$キャラクターは女系結婚ができません;;;;;;;;;;;;x
 INTERACTION_CANNOT_GRANT_CAPITAL_IF_MOVED;遷都しない限りその州を授与することはできない;;;;;;;;;;;;x
 INTERACTION_REVOKE_BEFORE_DATE;§Y$DATE$§!まで称号を剥奪することはできない;;;;;;;;;;;;x

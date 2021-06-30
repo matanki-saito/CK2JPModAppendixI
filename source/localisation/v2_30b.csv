@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 CR_DIFF_LOWER_THAN;§Y$FIRST$§!と§Y$SECOND$§!の個人戦闘能力の差が§Y$VAL$§!未満;;;;;;;;;;;;x
 CR_DIFF_AT_LEAST;§Y$FIRST$§!と§Y$SECOND$§!の個人戦闘能力の差が§Y$VAL$§!以上;;;;;;;;;;;;x
 HAS_CR_AT_LEAST;個人的な戦闘能力が右記以上：;;;;;;;;;;;;x

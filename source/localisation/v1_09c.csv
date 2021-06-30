@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 seize_trade_post_desc;都市貴族として、§Y$CLAIMANT$§!は§Y$TARGET$§!に§Y$TITLE$§!を懸けて宣戦を布告できます。ただしこの大義名分は、同じ共和国に属する弱小な都市貴族に対しては無効です。;;;;;;;;;;;;x
 opinion_rival_republic;ライバル共和国;;;;;;;;;;;;x
 EVTDESC_REP_070;あなたの交易所のひとつを運営していた商人たちが、あなたの王朝から離反した！　彼らは今、儲けられる可能性がより高いとして、新興のハンザ同盟に属する都市貴族に仕えている。;;;;;;;;;;;;x

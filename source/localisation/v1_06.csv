@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 PLOT_POWER_CONTRIB_LOWER_THAN;$PLOTTER$による$PLOT$の陰謀への貢献度は、§Y$POWER$%§!より少ない\n;;;;;;;;;;;;x
 PLOT_POWER_CONTRIB_AT_LEAST;$PLOTTER$による$PLOT$の陰謀への貢献度は、少なくとも§Y$POWER$%§!\n;;;;;;;;;;;;x
 KILLER;殺人者;;;;;;;;;;;;x

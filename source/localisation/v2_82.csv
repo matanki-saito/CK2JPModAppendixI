@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 IMMORTAL_AGE_TRIGGER;不死年齢が$VALUE|Y$歳$COMPARISON$;;;;;;;;;;;;x
 PRACTICAL_AGE_TRIGGER;実質年齢が$VALUE|Y$歳$COMPARISON$;;;;;;;;;;;;x
 INCREASE_CAMPAIGN_FUND_DESC;クリックすると選挙資金が10ずつ増加します。SHIFT+クリックで100ずつ増加します。CTRL+クリックで最良候補者を破るのに十分なだけ増加します。貴方の候補者が最良候補者なら100ずつ増加します。;;;;;;;;;;;;x

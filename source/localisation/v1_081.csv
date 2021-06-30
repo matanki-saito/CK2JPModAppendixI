@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 FACTION_LEADERSHIP_CHANGE_SETUP;派閥が新しいリーダーを擁立;;;;;;;;;;;;x
 FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§!が「$OBJECTIVE$」派閥の新しいリーダーになった;;;;;;;;;;;;x
 BUILDING_PREREQ_FAIL;（§RX§!）§G$BUILDING$§!がある;;;;;;;;;;;;x

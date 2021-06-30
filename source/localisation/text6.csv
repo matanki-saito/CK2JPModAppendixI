@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 SELECT_CHARACTER_TO_RANSOM;身受けする人物を選択;;;;;;;;;;;;x
 AIREASON_NEEDS_OUR_COUNCILLOR;我らが§Y[GetJobTitle]§!;;;;;;;;;;;;x
 AIREASON_SKILLED_COURTIER;§Y[GetBestName]§!の能力;;;;;;;;;;;;x

@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 HOLD_ELECTION_EFFECT;$TITLE$の保持者に選出された。\n;;;;;;;;;;;;x
 ANTI_POPE_CESSATION_LOG;§Y$ANTIPOPE$§!の対立教皇は終わりました。;;;;;;;;;;;;x
 TRIGGER_BEST_CRUSADE_CLAIMANT;Best Claimant;;;;;;;;;;;;x

@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 EVTOPTC72056;幾ばくかの金は召使を黙らせる。;;;;;;;;;;;;x
 VASSAL_RAISE_OPINION_DESC;十字軍以外の攻撃戦争で封臣から徴兵している場合、§Y$DAYS$§!日毎に§R-1§!点評価が低下します。;;;;;;;;;;;;x
 WAR_START_YEAR;開始年：$YEAR$;;;;;;;;;;;;x

@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 CAN_ONLY_JOIN_X_FACTIONS;§R参加できる派閥は§Y$NUM$§!つまでです！§!;;;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_ACTOR_TEMPORARY_TITLE;§Y[Actor.GetTitledFirstName]§!が現在、一時的な称号を持っていてはなりません;;;;;;;;;;;;x
 INTERACTION_REQUIRES_NO_RECIPIENT_TEMPORARY_TITLE;§Y[Recipient.GetTitledFirstName]§!が現在、一時的な称号を持っていてはなりません;;;;;;;;;;;;x

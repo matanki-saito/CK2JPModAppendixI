@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 NOT_IN_DYNASTY;$DYNASTY|Y$の一員ではない;;;;;;;;;;;;x
 IN_DYNASTY;$DYNASTY|Y$の一員である;;;;;;;;;;;;x
 REALM_SIZE_LESS;§Y$VAL$§W未満の領地数;;;;;;;;;;;;x

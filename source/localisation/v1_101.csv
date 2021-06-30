@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 NAME_W_NICK;「$NICK$」 $TITLE$ $NAME$;;;;;;;;;;;;x
 VASSAL_RETRACTION_LOG;$TOP_LIEGE$は$OLD_LIEGE$から$VASSAL$を引き抜いた。;;;;;;;;;;;;x
 opinion_retracted_my_vassal;私の封臣を引き抜いた;;;;;;;;;;;;x

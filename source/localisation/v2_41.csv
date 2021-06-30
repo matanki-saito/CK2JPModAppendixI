@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 khagan_overthrow_execution_warning_tooltip;貴方は降伏し[From.GetTitledName]の慈悲に貴方自身を委ねます。貴方の命は[From.GetSheHeCap]の胸先ひとつです…\n;;;;;;;;;;;;x
 RETRACT_VASSAL_INTERACTION_2F;我々の§Y$GOVERNMENT$§!政府においては他の家臣の異論無く我々の家臣の臣従を解除することが許されています。;;;;;;;;;;;;x
 REL_RETIRE_DESC;領主は領地を持たない成人の封臣を修道院に入れることができる;;;;;;;;;;;;x

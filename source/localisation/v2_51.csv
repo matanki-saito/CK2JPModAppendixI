@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 TOOLTIP_DISALLOW_TRUE_COGNATIC;完全双系相続制が禁止されている\n;;;;;;;;;;;;x
 TOOLTIP_ALLOW_TRUE_COGNATIC;完全双系相続制が許可されている\n;;;;;;;;;;;;x
 opinion_powerful_vassal_not_voter;評議会議席を望んでいます;;;;;;;;;;;;x

@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 EVTDESC_JD_10023_death;[offmap_china.Governor.GetTitledFirstName]から送られた[From.GetJobTitle]の[From.GetTitledName]は、[From.GetHerHis]の訪問中に死亡した。それは悲劇であるが、私を厄介な立場に陥らせもしている。[From.GetJobTitle]の外交的訪問がどのように取り消されたかについて[offmap_china.Governor.GetTitle]に知らせる必要がある。;;;;;;;;;;;;x
 EVTDESC_JD_10023_prison;[offmap_china.Governor.GetTitledFirstName]の外交任務を行っていた[From.GetTitledName]は、[From.GetHerHis]の訪問中に投獄された！私は都護への手紙にどう書けばいいかわからないが、[From.GetHerHis]の訪問が取り消されたのは明らかだ。;;;;;;;;;;;;x
 EVTDESC_JD_10023_missing;[offmap_china.Governor.GetTitledFirstName]から送られた[From.GetJobTitle]の[From.GetTitledName]は、[From.GetHerHis]の訪問中に失踪した！私は都護への手紙にどう書けばいいかわからないが、[From.GetHerHis]の訪問が取り消されたのは明らかだ。;;;;;;;;;;;;x

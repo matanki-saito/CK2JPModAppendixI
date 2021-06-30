@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 INTERACTION_CANNOT_INVITE_MARRIED;[Recipient.GetTitledFirstName]は既婚者であってはならない;;;;;;;;;;;;x
 AIREASON_LOVER;§Y[GetTitledFirstName]§!は私の恋人である;;;;;;;;;;;;x
 AIREASON_FRIEND;§Y[GetTitledFirstName]§!は私の友人である;;;;;;;;;;;;x

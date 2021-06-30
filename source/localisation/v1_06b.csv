@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 TITLE_EMPIRE_CREATION_PIETY_COST;帝国を作成するには§R$COST$§!の$PIETYNAME$が必要です。;;;;;;;;;;;;x
 muslim_invasion_desc;§Y$TARGET$§!は真の信仰者ではない - これが§Y$CLAIMANT$§!が§Y$TITLE$§!に侵攻する理由です。成功した場合、§Y$TITLE$§!内の§Y$TARGET$§!の領地を獲得するか、臣従させます。;;;;;;;;;;;;x
 duke_female_iranian;アミーラ;;;;;;;;;;;;x

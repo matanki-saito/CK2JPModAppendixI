@@ -1,5 +1,5 @@
-﻿### ParaTranz ###
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+﻿#Powered_by_ParaTranz;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;x
 ADD_AMBITION_EFFECT;$CHAR$は野心「§Y$OBJECTIVE$§!」を得る\n;;;;;;;;;;;;x
 CANCEL_AMBITION_EFFECT;$CHAR$は野心「§Y$OBJECTIVE$§!」を失う \n;;;;;;;;;;;;x
 ADD_PLOT_EFFECT;$CHAR$は陰謀「§Y$OBJECTIVE$§!」を得る\n;;;;;;;;;;;;x
