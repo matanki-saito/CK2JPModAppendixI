@@ -7049,8 +7049,8 @@ EVTOPTA_HF_42021;面白くなりそうだ。;;;;;;;;;;;;x
 EVTOPTB_HF_42021;私には、もっと重要なやるべき用事があるのだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_HUNT;[sway_target.GetTitledFirstName]は私が狩りに誘ったことに感謝してくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_DUEL;[sway_target.GetTitledFirstName]は、私が武芸大会に誘ったことに感謝してくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ。;;;;;;;;;;;;x
-EVTDESC_HF_42022_GAME;[sway_target.GetTitledFirstName]は、私がボードゲームのイベントに誘ったことに感謝してくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ;;;;;;;;;;;;x
-EVTDESC_HF_42022_SOCIAL;[sway_target.GetTitledFirstName]は、私が宴会に誘ったことに感謝してくれたが、[sway_target.GetSheHe]は、今はそういう浮付いたことに割く時間はないとのことだ;;;;;;;;;;;;x
+EVTDESC_HF_42022_GAME;[sway_target.GetTitledFirstName]は、私がボードゲームのイベントに誘ったことに感謝してくれたが、[sway_target.GetSheHe]はいま忙しくて時間が取れないとのことだ。;;;;;;;;;;;;x
+EVTDESC_HF_42022_SOCIAL;[sway_target.GetTitledFirstName]は、私が宴会に誘ったことに感謝してくれたが、[sway_target.GetSheHe]は、今はそういう浮付いたことに割く時間はないとのことだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_SCHOLAR;[sway_target.GetTitledFirstName]は私が討論会に誘ったことに感謝してくれたが、[sway_target.GetSheHe]は参加する余裕がないとのことだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_STEWARD;[sway_target.GetTitledFirstName]は私が地域の祭りに誘ったことに感謝してくれたが、残念ながら[sway_target.GetSheHe]は行く余裕がないとのことだ。;;;;;;;;;;;;x
 EVTDESC_HF_42022_TORTURE;[sway_target.GetTitledFirstName]は、お誘いには感謝するが今はそういったことに関心がないと伝えてきた。;;;;;;;;;;;;x
@@ -7162,7 +7162,7 @@ EVTOPTB_HF_42027_STEWARD;最初にいた場所を思い出して戻ってみよ�
 EVTOPTB_HF_42027_TORTURE;なんと言っても、これは繊細な作業だからな。;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_SUCCESS;イノシシも勇敢に戦ったが、我々はついにこの獣を仕留め、家臣たちはみな大きな歓声を上げた。良い狩りだった。;;;;;;;;;;;;x
 EVTDESC_HF_42028_HUNT_FAILURE;イノシシは勇敢に戦い、弱っているように見えたが、私がとどめの一撃をくわえようとしたところ逃げて行ってしまった。家臣たちは奴を探し回ったが、見つけることはできなかった。;;;;;;;;;;;;x
-EVTDESC_HF_42028_DUEL_SUCCESS;Though the two lumbering men fought for their lives, they finally give up and fall to the ground exhausted. I look over at [From.GetFirstName] and cheer.;;;;;;;;;;;;x
+EVTDESC_HF_42028_DUEL_SUCCESS;2人の動きの鈍い男たちは必死に戦ったものの、最後は疲れ果てて地面に倒れて降参した。私は[From.GetFirstName]のほうを見て歓声を上げた。;;;;;;;;;;;;x
 EVTDESC_HF_42028_DUEL_FAILURE;剣が舞い、押したり退いたりを長く繰り返したのちに、私はとうとう二人の対戦相手に負けを認めることになり、[From.GetFirstName]もそうした。どちらの組もよく戦ったものだ。;;;;;;;;;;;;x
 EVTDESC_HF_42028_GAME_SUCCESS;Though it was a long match with casualties on both sides, [From.GetFirstName] and I finally crush our remaining opponents between our two armies. Thankfully, [From.GetFirstName] understood what I wanted us to do. ;;;;;;;;;;;;x
 EVTDESC_HF_42028_GAME_FAILURE;Though it was a long match with casualties on both sides, the last of [From.GetFirstName] and my units finally fall to our opponents.;;;;;;;;;;;;x
