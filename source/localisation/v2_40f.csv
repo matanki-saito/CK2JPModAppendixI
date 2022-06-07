@@ -41,8 +41,8 @@ EVTOPTA_HL_7001;今こそ馬に鐙をつけよう！;;;;;;;;;;;;x
 EVTDESC_HL_7002;Dear [Root.GetTitledFirstName],\n\nUnfortunately I cannot attend the upcoming wargames.\n\n[From.GetTitledName];;;;;;;;;;;;x
 EVTDESC_HL_7020;Warriors have come to your court from afar, gathering for the great wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As the participants salute you, you give the signal for the contest to begin.;;;;;;;;;;;;x
 EVTOPTA_HL_7020;The best warrior shall win!;;;;;;;;;;;;x
-EVTDESC_HL_7025;You have arrived at the court of the [From.PrimaryTitle.GetRulerTitle] for the wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As you salute [From.GetTitledFirstName], [From.GetSheHe] gives the signal for the contest to begin.;;;;;;;;;;;;x
-EVTOPTA_HL_7025;I shall give it my best!;;;;;;;;;;;;x
+EVTDESC_HL_7025;[From.PrimaryTitle.GetRulerTitle]の競技予定地に到着した。そこは無数の馬のいななきとひづめの音が観衆の絶叫と混じり合っていた。[From.GetTitledFirstName]に敬礼すると、[From.GetSheHe]は競技開始の合図を送った。;;;;;;;;;;;;x
+EVTOPTA_HL_7025;最善を尽くす！;;;;;;;;;;;;x
 EVTDESC_HL_7055;Your skill with horse, bow and sword unmatched on this day, you have won the games! [From.GetTitledFirstName] presents you with your well-earned prize.;;;;;;;;;;;;x
 EVTOPTA_HL_7055;I knew I would win!;;;;;;;;;;;;x
 EVTDESC_HL_7060;[From.GetFullName] has won the wargames, [From.GetHerHis] martial skills unmatched.;;;;;;;;;;;;x

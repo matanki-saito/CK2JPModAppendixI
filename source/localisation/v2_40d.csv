@@ -511,7 +511,7 @@ adopt_faith;宗教を採用;;;;;;;;;;;;x
 recently_adopted_faith_tooltip;10年以内に他の氏族が信仰を採用していない\n;;;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_TITLE;氏族の吸収;;;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_ACCEPT_SETUP;氏族を吸収した;;;;;;;;;;;;x
-ABSORB_CLAN_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! absorbed the §Y[Recipient.GetOnlyDynastyName]§! clan from §Y[Recipient.GetBestName]§!;;;;;;;;;;;;x
+ABSORB_CLAN_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! は  §Y[Recipient.GetBestName]§! 内の §Y[Recipient.GetOnlyDynastyName]§! のクランを吸収した。;;;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_DECLINE_SETUP;氏族の吸収を拒否;;;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! refused the absorption of the §Y[Recipient.Clan.GetName]§! clan, requested by §Y[Actor.GetBestName]§!;;;;;;;;;;;;x
 ABSORB_CLAN_INTERACTION_0;これは§Y[Recipient.GetTitledFirstName]§!の貴方に対する評価が§R$VAL$§!低下します。;;;;;;;;;;;;x

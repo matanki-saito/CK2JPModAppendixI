@@ -6145,7 +6145,7 @@ EVTDESC_HFP_11012_B;その瞬間、私は命令を叫ぶ、そして、打ち鳴
 EVTOPTA_HFP_11012;戦いは続けなければならない…私抜きで。;;;;;;;;;;;;x
 EVTOPTA_HFP_11012_tt;§Y[Root.GetBestName]§! receives a crushing blow to the head and shows no sign of waking.;;;;;;;;;;;;x
 EVTOPTB_HFP_11012;なぜ頭を怪我したのだろう？;;;;;;;;;;;;x
-EVTOPTB_HFP_11012_tt;You gingerly pull the spear from your cheek. It is more than a grazing wound...\n;;;;;;;;;;;;x
+EVTOPTB_HFP_11012_tt;慎重に頬から槍を引き抜いた。すり傷どころではない...\n;;;;;;;;;;;;x
 EVTDESC_HFP_11013_A;戦いから大きな活力を得るように感じ始めてから随分と時間が過ぎた。「毎日、我らが部隊は口に出さずとも分かる絆によって繋がっているこのように動いている」私は一晩中唱え続けた。「だが、さらに強力な力が必要だ！」\n「うーむ、全てあなたの功績なのです、我が[Root.GetLordLady]よ」兵士の一人が話し、その顔は心底驚いているように見えた。;;;;;;;;;;;;x
 EVTOPTA_HFP_11013;これは全員の努力だ、兵士よ。;;;;;;;;;;;;x
 EVTOPTB_HFP_11013;その通りだな！謙虚さから得られるものなどないだろう。;;;;;;;;;;;;x

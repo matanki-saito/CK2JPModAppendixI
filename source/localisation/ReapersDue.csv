@@ -133,7 +133,7 @@ RULE_CHARLEMAGNE_STORY_OFF_DESC;シャルルマーニュ と彼の弟 カール�
 add_symptom_tooltip;あなたは体調不良を感じ始めています;;;;;;;;;;;;x
 EVTDESCRIP.5000;無視できないほど喉に違和感を感じ、激しい咳が出始めた。;;;;;;;;;;;;x
 EVTDESCRIP.5001;震えがはじまり、次に汗をかくようになった。そして倦怠感も感じるようになっていった。;;;;;;;;;;;;x
-EVTDESCRIP.5002;突然ボコボコとお腹が鳴り腸に圧迫感を感じた。ヤバいと感じトイレにダッシュすることを余儀なくされた。;;;;;;;;;;;;x
+EVTDESCRIP.5002;突然ボコボコとお腹が鳴り腸に圧迫感を感じた。慌てて厠に駆け込むことを余儀なくされた。;;;;;;;;;;;;x
 EVTDESCRIP.5003;胃がムカムカしすぐに嘔吐しそうになった。;;;;;;;;;;;;x
 EVTDESCRIP.5004;目の裏側でズキズキと鈍い痛みに襲われた。;;;;;;;;;;;;x
 EVTDESCRIP.5005;突然胸に突き抜けるような痛みが走った。それは一瞬だけであり、今は痛みを感じない。;;;;;;;;;;;;x
@@ -980,7 +980,7 @@ EVTDESC_RIP_11041_5;[FromFrom.GetTitledFirstName]はあなたに黒焦げ死体�
 EVTDESC_RIP_11041_6;[FromFrom.GetTitledFirstName]はあなたの部屋に壊れかけのバケツを持ってきて、あなたに上半身を脱ぐように指示した。[FromFrom.GetSheHeCapから]は、ヒキガエルをつかんで、巧みにもはらわたを取り出し、まだ痙攣している胴体をあなたの胸の上に置いていった。[FromFrom.GetFirstName]は、バケツが空になるまで続け、あなたの上半身はヒキガエルに覆われることとなった。;;;;;;;;;;;;x
 EVTDESC_RIP_11041_7;[FromFrom.GetTitledFirstName]はあなたの部屋に来て、黄色い水薬を処方した。[FromFrom.GetSheHeCap]は飲むときは鼻をつまむように指示した。ぬるぬるした液体が口の中に入ると、すぐに吐き出してしまった。中身を聞くと、[FromFrom.GetSheHe]は妊娠中の母豚の新鮮な尿であると明かした。;;;;;;;;;;;;x
 EVTDESC_RIP_11041_8;[FromFrom.GetTitledFirstName]は部屋に持ってきたバケツを手から降ろした。 [FromFrom.GetSheHe]はバケツから水をすくうと、[FromFrom.GetHerHis]の指の間で小さなの魚がうずくまっていた。"口を大きく開けてください" [FromFrom.GetSheHe]はそう話し、あなたの口に流し込んだ。あなたは必死で、口の中で暴れまわる魚を吐かないようにした。;;;;;;;;;;;;x
-EVTDESC_RIP_11041_13;[FromFrom.GetTitledFirstName]から、あなたはクロウメモドキとセンナから作られた調合物を受け取った。最初はこのポーションは効果がないと思っていたが、その日の後になって腸内で何かがごろごろするのを感じトイレに駆け込んだ。トイレで苦しんでいると、[FromFrom.GetFirstName]は、便によって身体の中の悪い成分が出て行くのだと話した。;;;;;;;;;;;;x
+EVTDESC_RIP_11041_13;[FromFrom.GetTitledFirstName]から、あなたはクロウメモドキとセンナから作られた調合物を受け取った。最初はこのポーションは効果がないと思っていたが、その日の後になって腸内で何かがごろごろするのを感じ厠に駆け込んだ。厠で苦しんでいると、[FromFrom.GetFirstName]は、便によって身体の中の悪い成分が出て行くのだと話した。;;;;;;;;;;;;x
 EVTDESC_RIP_11042_1;FromFrom.GetTitledFirstName]は、最良の治療法はある程度休息をとることだと確信した。[FromFrom.GetSheHeCap]あなたを柔らかい枕で囲み、さらに何層にも重なった毛布を優しくあなたにかけた。あなたの部屋から出る前には[FromFrom.GetFirstName]はカーテンを閉め切っていった。 正午の出来事であった。;;;;;;;;;;;;x
 EVTDESC_RIP_11042_2;[FromFrom.GetTitledFirstName]はあなたの病は健康に悪い食事からくるものだと考えた。体を活性化させるために[FromFrom.GetSheHe]は生野菜やハーブティをとるよう勧めた。そして誘惑されされないよう菓子類を取り上げ、返すようなことは決してしなかった。;;;;;;;;;;;;x
 EVTDESC_RIP_11042_3;[FromFrom.GetTitledFirstName]はベッドに横たわり、手を差し伸べるよう指示した。 [FromFrom.GetSheHe]はあなたの手のひらを擦ったり、赤くなるまで叩いたりし、ひたすらこの治療を繰り返していった。仕上げには[FromFrom.GetSheHe]は手足を優しく上下に叩いていったのだった。;;;;;;;;;;;;x
@@ -3887,7 +3887,7 @@ EVTDSC_RIP_5060_MEASLES;陰鬱な日だ。私の[GetFromRelation]の[From.GetTit
 EVTDSC_RIP_5060_SMALLPOX;陰鬱な日だ。私の[GetFromRelation]の[From.GetTitledFirstName]が、皮膚から膿が出てまた高熱にも襲われてた。[From.GetHerHis]の苦しみは天然痘によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_SYPHILITIC;私の[GetFromRelation]の[From.GetTitledFirstName]は、最近全くもっておとなしい。しばらくしてから、私は[From.GetHerHim]が疲れにより生気が抜けていることに気付いた。そして今私はちょうどその原因を知らされた - [From.GetFirstName]は梅毒に罹っていたのだ！;;;;;;;;;;;;x
 EVTDSC_RIP_5060_FLU;最近、私の[GetFromRelation]の[From.GetTitledFirstName]が痛々しい状態に陥っているのに気付いた。その後[From.GetHerHis]の痛みや疲労の原因は流感によるものだと伝えられた。;;;;;;;;;;;;x
-EVTDSC_RIP_5060_DYSENTERY;ここ数日間[GetFromRelation]の[From.GetTitledFirstName]は胃のあたりを良く押さえており、また[From.GetHerHis]は頻繁にトイレに行くようになっている。そして今、[From.GetSheHe]のその原因は赤痢によるものだと伝えられた。;;;;;;;;;;;;x
+EVTDSC_RIP_5060_DYSENTERY;ここ数日間[GetFromRelation]の[From.GetTitledFirstName]は胃のあたりを良く押さえており、また[From.GetHerHis]は頻繁に厠に行くようになっている。そして今、[From.GetSheHe]のその原因は赤痢によるものだと伝えられた。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_GOUT;しばらく前から私の[GetFromRelation]の[From.GetTitledFirstName]が、関節痛を訴えていた。どうやら頻繁に腫れあらわれ、数時間の間熱や痛みを感じ[From.GetHerHis]を苦しめているようだ。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_FOOD_POISONING;ここ数日間、私の[GetFromRelation]の[From.GetTitledFirstName]は飲み物や食べ物を受け付けないでいる。まるで[From.GetSheHe]は食中毒に苦しんでいるようだ。;;;;;;;;;;;;x
 EVTDSC_RIP_5060_RABIES;ここ数日間、私の[GetFromRelation]の[From.GetTitledFirstName]は妙な動きを起こしている!!私は[From.GetHerHis]の攻撃的な行動やその話は狂犬病によって引き起こされたのだと伝えられた。;;;;;;;;;;;;x

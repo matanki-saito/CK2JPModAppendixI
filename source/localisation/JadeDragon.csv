@@ -3151,7 +3151,7 @@ succ_offmap_succession_desc;A new Governor arrives from China each time the old 
 string_negotiate_cd; - you can negotiate again on: §Y[This.adventurer_negotiate_cd.GetExpiryDate]§!;;;;;;;;;;;;x
 EVTOPTA_JD_10130_B;We were misguided in raiding you - instead we shall serve!;;;;;;;;;;;;x
 increase_council_power_war_desc;The power of the council must be increased - and if war is what it takes, then war we will have!;;;;;;;;;;;;x
-EVTOPTA_JD_10050_decent;I'm glad my tribute is deemed decent.;;;;;;;;;;;;x
+EVTOPTA_JD_10050_decent;贈り物に満足頂いて光栄です。;;;;;;;;;;;;x
 EVTOPTA_JD_10050_great;喜んでいただけてなによりです！;;;;;;;;;;;;x
 EVTOPTA_JD_10050_family;私の[person_sent_as_tribute.GetRootRelation]はいなくなるだろう。;;;;;;;;;;;;x
 EVTOPTA_JD_10014;[adventurous_spirit.GetFirstName]、書記にあなたの話を記録させていただきたい…!!;;;;;;;;;;;;x

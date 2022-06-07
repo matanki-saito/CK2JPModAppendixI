@@ -1189,7 +1189,7 @@ INHERITANCE_INFAMY;$FROM$からの継承;;;;;;;;;;;;x
 INDEPENDENCE_INFAMY;$VASSAL$ Independence;;;;;;;;;;;;x
 VASSELIZATION_INFAMY;$VASSAL$の臣従;;;;;;;;;;;;x
 EVTDESCA_ZE_12070;その日は一日中外に出ていて、[playful_events_char_1.GetTitledName]はそろそろ家に帰る時間だと言った。[playful_events_char_1.GetSheHeCap]は重い荷物を持っているので、今なら勝てるかもしれない。;;;;;;;;;;;;x
-EVTDESCB_ZE_12070;夜が更け、私はトイレに行くために寝室から出た。[playful_events_char_2.GetFirstName]が私の名前を呼び始めているのが聞こえたと同時に、ダイニングテーブルの下に隠れる男を見つけた。 彼は私に気づくと、「こっちへおいで」と囁いた。;;;;;;;;;;;;x
+EVTDESCB_ZE_12070;夜が更け、私は厠に行くために寝室から出た。[playful_events_char_2.GetFirstName]が私の名前を呼び始めているのが聞こえたと同時に、ダイニングテーブルの下に隠れる男を見つけた。 彼は私に気づくと、「こっちへおいで」と囁いた。;;;;;;;;;;;;x
 EVTDESCC_ZE_12070;今日は庭を掘る手伝いをしなければならないが、庭いじりなんて退屈だ。庭師も退屈してるよな？;;;;;;;;;;;;x
 EVTOPTA_ZE_12070;競争だ!;;;;;;;;;;;;x
 EVTOPTB_ZE_12070;[playful_events_char_1.GetHerHim]の荷物を持ってあげよう。;;;;;;;;;;;;x
