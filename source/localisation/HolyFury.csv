@@ -938,7 +938,7 @@ EVTDESCHFB20335;I would be quite enjoying my visit at [FromFrom.GetTitledFirstNa
 EVTOPTAHF20335;よくもまあそんなことを！;;;;;;;;;;;;x
 EVTDESCHFA20336;It was not enough to learn that [From.GetTitledFirstName] was at [FromFromFrom.GetTitledFirstName]'s celebration: tonight, in the middle of dinner, my old rival decided to insult me in front of my host and many of the other guests!;;;;;;;;;;;;x
 EVTDESCHFB20336;I would be quite enjoying my visit at [FromFromFrom.GetTitledFirstName]'s court if it were not for [From.GetTitledFirstName] constant harassment. The [From.GetManWoman] is clearly jealous of my accomplishments as [Root.GetTitle], and cannot stop trying to besmirch my reputation, hoping it would make [From.GetHerHim] feel better about [From.GetHerselfHimself].;;;;;;;;;;;;x
-EVTOPTAHF20336;How dare you!;;;;;;;;;;;;x
+EVTOPTAHF20336;よくもまあそんなことを！;;;;;;;;;;;;x
 EVTDESCHFA20337;A heated argument has sparked between [FromFrom.GetTitledFirstName] and [From.GetTitledFirstName], two of my distinguished foreign guests. Whatever their reasons, this diplomatic incident could be a stain on the legitimacy of this ceremony if not properly handled.;;;;;;;;;;;;x
 EVTOPTAHF20337;I am sure I can make them see reason.;;;;;;;;;;;;x
 EVTTOOLTIPAHF20337;Attempt to use §YDiplomacy§! to calm the two rulers.;;;;;;;;;;;;x
@@ -1016,7 +1016,7 @@ EVTOPTAHF20360;I should just be content with what I have, I suppose...;;;;;;;;;;
 EVTOPTBHF20360;Why should I even care about ruling?;;;;;;;;;;;;x
 EVTDESCHFA20361;Spending the days leading up to my coronation in seclusion has given me time to meditate about my duties as a [Root.Religion.GetName] [Root.GetTitle]. Perhaps I have been too egoistical in the past, perhaps this ceremony is my chance to be a humbler, kinder ruler...;;;;;;;;;;;;x
 EVTOPTAHF20361;Perhaps...;;;;;;;;;;;;x
-EVTOPTBHF20361;Nonsense!;;;;;;;;;;;;x
+EVTOPTBHF20361;ナンセンスだ！;;;;;;;;;;;;x
 EVTDESCHFA20362;戴冠式までの日数を数えながら一人で夜を過ごしていると、もし[lazy_treasurer.GetTitledFirstName]がこの国の財政をうまく管理していれば、もっと豪華な式を挙げることができただろうという気持ちを振り払うことができない...;;;;;;;;;;;;x
 EVTOPTAHF20362;全て家令のせいだ!;;;;;;;;;;;;x
 EVTOPTBHF20362;今さら指摘しても手遅れだ。;;;;;;;;;;;;x
