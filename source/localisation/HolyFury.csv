@@ -925,9 +925,9 @@ EVTOPTAHF20329;知りたい！教えてくれ！;;;;;;;;;;;;x
 EVTTOOLTIPHF20330;[From.GetTitledFirstName]がお役に立てれば幸いです。;;;;;;;;;;;;x
 EVTOPTBHF20329;お前は私の家庭教師ではない、対等だ！;;;;;;;;;;;;x
 EVTTOOLTIPHF20331;[From.GetTitledFirstName]はあなたの拒絶に腹を立てている。;;;;;;;;;;;;x
-EVTDESCHFA20330;[From.GetTitledFirstName] was happy to learn more about [From.GetHerHis] upcoming responsibilities as a [From.GetTitle] from me. I am sure that what I told [From.GetHerHim] tonight will be of great use to [From.GetHerHim] in the future, and it will make [From.GetHerHis] realm more prosperous as well.;;;;;;;;;;;;x
+EVTDESCHFA20330;[From.GetTitledFirstName]は、[From.GetHerHis]が[From.GetTitle]としてこれから担う責務について、私から詳しく学ぶことができ喜んでいた。今夜私が[From.GetHerHim]に話したことは、将来大いに役立つと確信しており、[From.GetHerHis]の領国もより繁栄することになるだろう。;;;;;;;;;;;;x
 EVTOPTAHF20330;良い行動はそれ自体が報酬になる。;;;;;;;;;;;;x
-EVTDESCHFA20331;Perhaps [From.GetTitledFirstName] is too young to understand that I was only attempting to aid [From.GetHerHim]: [From.GetSheHe] did not listen to my words and dismissed [From.GetHerselfHimself] as soon as [From.GetSheHe] could. This sacred ceremony might well be just a big game for [From.GetHerHim].;;;;;;;;;;;;x
+EVTDESCHFA20331;おそらく[From.GetTitledFirstName]は若すぎて、私が[From.GetHerHim]を助けようとしただけだということを理解していないのだろう：[From.GetSheHe]は私の言葉に耳を貸さず、[From.GetHerselfHimself]をすぐに追い出した。この神聖な儀式は、[From.GetHerHim]にとっては単なる大きなゲームにすぎなかったのだろう。;;;;;;;;;;;;x
 EVTOPTAHF20331;青二才だ。;;;;;;;;;;;;x
 EVTDESCHFA20332;その夜、私は驚いた。[coronation_priest.GetTitledFirstName]が私が主催した祝宴の期間をこれから取ろうとしている神聖な雰囲気を台無しにしていると述べたからだ。[coronation_priest.GetSheHeCap]はその訪問中に多くの不敬な行為や堕落した行為を目撃し、衝撃と反発を受けたと言って私を叱責し、言葉を締めくくった。;;;;;;;;;;;;x
 EVTOPTAHF20332;明らかに[coronation_priest.GetSheHe]は誇張している……;;;;;;;;;;;;x
@@ -19871,7 +19871,7 @@ String_shoot_me_actually_dead;fire [other_combatant.GetHerHis] [other_combatant.
 String_shoot_my_gun;pull the trigger, firing my last bullet. It finds [other_combatant.GetHerHis] temple;;;;;;;;;;;;x
 String_shoot_their_gun;pulls the trigger, firing what has to be [other_combatant.GetHerHis] last bullet. The noise rings in my ears as I fall to the ground;;;;;;;;;;;;x
 String_shoot_my_gun_short;shoots me down;;;;;;;;;;;;x
-String_shoot_them_short;shoot [This.GetHerHis] down;;;;;;;;;;;;x
+String_shoot_them_short;[This.GetHerHis]を撃ち落とす;;;;;;;;;;;;x
 RHOS;ロス;;;;;;;;;;;;x
 RHOS_ADJ;ロス;;;;;;;;;;;;x
 SEISYLLWG;セイスィシュグ;;;;;;;;;;;;x
